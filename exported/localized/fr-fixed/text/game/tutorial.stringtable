@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Pour déplacer les personnages sélectionnés, cliquez sur n'importe quel espace dégagé sur la carte. Tous les personnages sélectionnés se déplaceront à l'endroit indiqué, dans votre formation actuelle.  Les personnages ne peuvent pas se rendre aux endroits où le curseur prend l'apparence d'un cercle rouge barré.</DefaultText>
+      <DefaultText>Pour déplacer les personnages sélectionnés, cliquez sur n'importe quel espace dégagé sur la carte. Tous les personnages sélectionnés se déplaceront à l'endroit indiqué, dans votre formation actuelle. Les personnages ne peuvent pas se rendre aux endroits où le curseur prend l'apparence d'un cercle rouge barré.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@ Cependant, votre Gardien étant un prêtre ou un paladin, vous devez veillez à 
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Cliquez sur les cercles de sélection des personnages neutres ou amicaux dans le monde pour engager la conversation avec eux. </DefaultText>
+      <DefaultText>Cliquez sur les cercles de sélection des personnages neutres ou amicaux dans le monde pour engager la conversation avec eux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@ Pour sélectionner le groupe entier, appuyez sur &lt;sprite="Inline" name="ico_s
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Vaincre des créatures vous permettra de déverrouiller leurs entrées respectives dans le bestiaire.  En déverrouillant plus d'informations dans le bestiaire, vous obtiendrez plus d'expérience.</DefaultText>
+      <DefaultText>Vaincre des créatures vous permettra de déverrouiller leurs entrées respectives dans le bestiaire. En déverrouillant plus d'informations dans le bestiaire, vous obtiendrez plus d'expérience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,9 +136,9 @@ Pour sélectionner le groupe entier, appuyez sur &lt;sprite="Inline" name="ico_s
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Le jet d'attaque est un nombre aléatoire compris entre 1 et 100, auquel est additionnée la différence entre la Précision de l'attaque &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; et la défense de la cible &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;.  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Si la Précision est inférieure à la défense, le jet d'attaque subit un malus. Si la Précision est supérieure à la défense, le jet d'attaque gagne un bonus.
+      <DefaultText>Le jet d'attaque est un nombre aléatoire compris entre 1 et 100, auquel est additionnée la différence entre la Précision de l'attaque &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; et la défense de la cible &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;. &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Si la Précision est inférieure à la défense, le jet d'attaque subit un malus. Si la Précision est supérieure à la défense, le jet d'attaque gagne un bonus.
 
-Il vaut toujours mieux avoir un jet d'attaque final élevé.  0-24 = Échec, 24-49 = Éraflure, 50-99 = Coup, 100+ = Critique.</DefaultText>
+Il vaut toujours mieux avoir un jet d'attaque final élevé. 0-24 = Échec, 24-49 = Éraflure, 50-99 = Coup, 100+ = Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@ Il vaut toujours mieux avoir un jet d'attaque final élevé.  0-24 = Échec, 24-
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Les consommables comme les potions, les parchemins, les explosifs, les pièges et les figurines magiques sont équipés dans les emplacements d'objet rapide du personnage.  Il est possible d'accéder à ces objets en plein combat en sélectionnant le &lt;sprite="Inline" name="quickitems_s" tint=1&gt; sur la barre de raccourcis du personnage.</DefaultText>
+      <DefaultText>Les consommables comme les potions, les parchemins, les explosifs, les pièges et les figurines magiques sont équipés dans les emplacements d'objet rapide du personnage. Il est possible d'accéder à ces objets en plein combat en sélectionnant le &lt;sprite="Inline" name="quickitems_s" tint=1&gt; sur la barre de raccourcis du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@ Il vaut toujours mieux avoir un jet d'attaque final élevé.  0-24 = Échec, 24-
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; ou sur la touche [C] pour afficher la fiche de personnage.  Sélectionnez l'onglet Réputation, puis sélectionnez le portrait de n'importe quel compagnon pour voir ses relations avec les autres membres du groupe.</DefaultText>
+      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; ou sur la touche [C] pour afficher la fiche de personnage. Sélectionnez l'onglet Réputation, puis sélectionnez le portrait de n'importe quel compagnon pour voir ses relations avec les autres membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ La Roue de réputation d'un compagnon montre ses relations avec les autres membr
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Quand un personnage en mode furtif pénètre dans le périmètre auditif ou le champ de vision de quelqu'un, cette personne commence à le détecter.  Le taux de détection dépend du niveau de Furtivité du personnage et du niveau de la personne qui le détecte. La détection se fait plus rapidement dans le champ de vision que dans le périmètre auditif. En mode furtif, vous pouvez passer votre curseur sur n'importe quel personnage pour voir son périmètre auditif ainsi que son champ de vision.
+      <DefaultText>Quand un personnage en mode furtif pénètre dans le périmètre auditif ou le champ de vision de quelqu'un, cette personne commence à le détecter. Le taux de détection dépend du niveau de Furtivité du personnage et du niveau de la personne qui le détecte. La détection se fait plus rapidement dans le champ de vision que dans le périmètre auditif. En mode furtif, vous pouvez passer votre curseur sur n'importe quel personnage pour voir son périmètre auditif ainsi que son champ de vision.
 
 Certains objets, comme les crécelles, peuvent servir à distraire et à faire bouger les personnes quand vous vous déplacez en mode furtif.</DefaultText>
       <FemaleText />
@@ -297,7 +297,7 @@ Les interruptions peuvent être bloquées par Concentration. Si un personnage av
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Un membre du groupe a obtenu un bonus de repos.  Ces bonus s'obtiennent en se reposant dans une auberge ou en mangeant ou buvant quand vous vous reposez dans d'autres endroits. Les bonus de repos durent jusqu'à ce que le personnage se repose de nouveau.</DefaultText>
+      <DefaultText>Un membre du groupe a obtenu un bonus de repos. Ces bonus s'obtiennent en se reposant dans une auberge ou en mangeant ou buvant quand vous vous reposez dans d'autres endroits. Les bonus de repos durent jusqu'à ce que le personnage se repose de nouveau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Une Psalmodie active lira automatiquement chaque Phrase dans l'ordre et reviendr
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Cliquer sur la carte du monde transférera votre groupe jusqu'à l'endroit sélectionné.  Pour activer/désactiver automatiquement la caméra suivant le groupe, cliquez sur l'option Caméra de suivi en bas à droite.</DefaultText>
+      <DefaultText>Cliquer sur la carte du monde transférera votre groupe jusqu'à l'endroit sélectionné. Pour activer/désactiver automatiquement la caméra suivant le groupe, cliquez sur l'option Caméra de suivi en bas à droite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,7 +358,7 @@ Les factions afficheront la part de réputation positive que vous possédez avec
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Votre navire requiert des membres d'équipage.  Vous pouvez recruter des membres d'équipage dans la plupart des auberges des villes portuaires.  Cliquez sur &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt; pour afficher les membres d'équipage disponibles dans une auberge.
+      <DefaultText>Votre navire requiert des membres d'équipage. Vous pouvez recruter des membres d'équipage dans la plupart des auberges des villes portuaires. Cliquez sur &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt; pour afficher les membres d'équipage disponibles dans une auberge.
 
 Une fois que vous avez recruté un membre d'équipage, vous devez lui attribuer un poste actif sur votre navire. Les membres d'équipage non placés sur votre navire ne sont pas actifs et ne coûteront rien en nourriture, en boisson ni en salaire.</DefaultText>
       <FemaleText />
@@ -382,7 +382,7 @@ Pour afficher les sorts inclus dans un grimoire, cliquez droit dessus ou cliquez
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Vous avez trouvé un ingrédient.  Les ingrédients peuvent servir à enchanter des armes, armures et boucliers uniques, mais aussi à fabriquer de la nourriture, des parchemins, des potions et d'autres objets.
+      <DefaultText>Vous avez trouvé un ingrédient. Les ingrédients peuvent servir à enchanter des armes, armures et boucliers uniques, mais aussi à fabriquer de la nourriture, des parchemins, des potions et d'autres objets.
 
 Sélectionnez &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; dans la Réserve du groupe pour afficher vos ingrédients.</DefaultText>
       <FemaleText />
@@ -394,7 +394,7 @@ Sélectionnez &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; dans la R
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Les armes, armures et boucliers uniques (bordés d'or) peuvent être enchantés pour en augmenter la puissance.  Chaque recette d'enchantement exige certains ingrédients spécifiques. Lorsque vous possédez les ingrédients pour appliquer un enchantement à un objet, vous verrez s'afficher un + en haut à gauche de l'icône de cet objet.</DefaultText>
+      <DefaultText>Les armes, armures et boucliers uniques (bordés d'or) peuvent être enchantés pour en augmenter la puissance. Chaque recette d'enchantement exige certains ingrédients spécifiques. Lorsque vous possédez les ingrédients pour appliquer un enchantement à un objet, vous verrez s'afficher un + en haut à gauche de l'icône de cet objet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@ Sélectionnez &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; dans la R
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Les objets cachés peuvent être découverts via l'exploration.  La capacité d'un personnage à découvrir des objets cachés dépend de sa Perception.</DefaultText>
+      <DefaultText>Les objets cachés peuvent être découverts via l'exploration. La capacité d'un personnage à découvrir des objets cachés dépend de sa Perception.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +448,7 @@ Vous avez aussi la possibilité de personnaliser entièrement ou de créer de no
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Le Gardien est le capitaine du navire.  Comme les autres membres de l'équipage, il gagne de l'Expérience de marin, mais, pour ce qui est du capitaine, cette dernière fait toujours progresser son rang de capitaine.</DefaultText>
+      <DefaultText>Le Gardien est le capitaine du navire. Comme les autres membres de l'équipage, il gagne de l'Expérience de marin, mais, pour ce qui est du capitaine, cette dernière fait toujours progresser son rang de capitaine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,9 +520,9 @@ Le navigateur augmente la vitesse sur la carte du monde et le cuisinier réduit 
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Votre équipage consomme de la nourriture et de l'eau tous les jours.  Vous devrez réapprovisionner ces ressources en les trouvant ou en les achetant.
+      <DefaultText>Votre équipage consomme de la nourriture et de l'eau tous les jours. Vous devrez réapprovisionner ces ressources en les trouvant ou en les achetant.
 
-Appuyez sur &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt; pour gérer votre navire.  Réalimentez vos stocks de nourriture et de boisson en achetant ces provisions et en les plaçant dans la file d'attente appropriée. Les provisions sont toujours consommées de gauche à droite.</DefaultText>
+Appuyez sur &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt; pour gérer votre navire. Réalimentez vos stocks de nourriture et de boisson en achetant ces provisions et en les plaçant dans la file d'attente appropriée. Les provisions sont toujours consommées de gauche à droite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,7 +557,7 @@ Appuyez sur &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt; pour gérer
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Lors de combats entre navires, la distance et l'orientation vis-à-vis de l'ennemi sont essentielles à votre succès.  La distance détermine si l'ennemi est à portée de vos canons (ou si vous êtes à portée des leurs). L'orientation détermine quels canons (si vous en possédez) vous pouvez tirer, et si votre navire est susceptible d'être touché. Tourner votre flanc vers l'ennemi peut vous permettre de tirer la plupart de vos canons, mais fait aussi de vous une cible plus facile.
+      <DefaultText>Lors de combats entre navires, la distance et l'orientation vis-à-vis de l'ennemi sont essentielles à votre succès. La distance détermine si l'ennemi est à portée de vos canons (ou si vous êtes à portée des leurs). L'orientation détermine quels canons (si vous en possédez) vous pouvez tirer, et si votre navire est susceptible d'être touché. Tourner votre flanc vers l'ennemi peut vous permettre de tirer la plupart de vos canons, mais fait aussi de vous une cible plus facile.
 
 Chaque navire doit entretenir ses voiles et sa coque Les voiles endommagées limitent la vitesse d'un navire. Si une coque est détruite, le navire coulera. Les canons d'un navire sont également limités par la quantité de munitions que contient votre navire.</DefaultText>
       <FemaleText />
@@ -566,7 +566,7 @@ Chaque navire doit entretenir ses voiles et sa coque Les voiles endommagées lim
       <ID>101</ID>
       <DefaultText>Quand deux navires se rapprochent l'un de l'autre, ils peuvent parer à l'abordage ou s'éperonner. L'abordage plaque les deux navires l'un à l'autre et il s'ensuit un combat de pont à pont entre les deux équipages des navires. Une attaque d'éperonnage occasionne des dégâts aux coques des deux bateaux. Dans le cas où l'un des deux bateaux n'a pas coulé, le combat se poursuit de pont à pont.
 
-Une fois que vous avez réussi à couler le navire adverse ou vaincu son équipage en combat de pont à pont, vous pouvez piller ce qu'il en reste.  Le pillage inclut généralement les ressources et trésors du navire, et parfois le triomphe face à un capitaine ennemi de renom. Les pièces sonnantes et trébuchantes peuvent être partagées avec l'équipage pour améliorer le moral et les triomphes sont toujours exposés sur le gréement de votre navire.</DefaultText>
+Une fois que vous avez réussi à couler le navire adverse ou vaincu son équipage en combat de pont à pont, vous pouvez piller ce qu'il en reste. Le pillage inclut généralement les ressources et trésors du navire, et parfois le triomphe face à un capitaine ennemi de renom. Les pièces sonnantes et trébuchantes peuvent être partagées avec l'équipage pour améliorer le moral et les triomphes sont toujours exposés sur le gréement de votre navire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@ Une fois que vous avez réussi à couler le navire adverse ou vaincu son équipa
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Survivre à des rencontres et vaincre des capitaines ennemis en mer rapporte de l'Expérience de marin à l'équipage et au capitaine.  Acquérir de l'Expérience de marin améliorera les rangs de la tâche actuelle du membre d'équipage concerné. Les membres d'équipage peuvent &lt;i&gt;uniquement&lt;/i&gt; gagner des rangs supplémentaires dans les tâches pour lesquelles ils possèdent déjà au moins un rang. Le capitaine progresse quant à lui par rangs de capitaine.</DefaultText>
+      <DefaultText>Survivre à des rencontres et vaincre des capitaines ennemis en mer rapporte de l'Expérience de marin à l'équipage et au capitaine. Acquérir de l'Expérience de marin améliorera les rangs de la tâche actuelle du membre d'équipage concerné. Les membres d'équipage peuvent &lt;i&gt;uniquement&lt;/i&gt; gagner des rangs supplémentaires dans les tâches pour lesquelles ils possèdent déjà au moins un rang. Le capitaine progresse quant à lui par rangs de capitaine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@ Une fois que vous avez réussi à couler le navire adverse ou vaincu son équipa
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>L'un de vos compagnons souhaite vous parler.  Pour lancer la conversation avec un compagnon, sélectionnez-le puis cliquez sur &lt;sprite="Inline" name="ico_talk" tint=1&gt; sur la barre de capacités.</DefaultText>
+      <DefaultText>L'un de vos compagnons souhaite vous parler. Pour lancer la conversation avec un compagnon, sélectionnez-le puis cliquez sur &lt;sprite="Inline" name="ico_talk" tint=1&gt; sur la barre de capacités.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,9 +683,9 @@ La Roue de réputation des compagnons montre leur réputation auprès des autres
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Les mots-clés sont des qualificatifs comme Eau, Feu et Givre.  Eau contre Feu, et Feu contre Givre. La relation entre mots-clés est à sens unique : Feu &lt;i&gt;ne contre pas&lt;/i&gt; Eau.
+      <DefaultText>Les mots-clés sont des qualificatifs comme Eau, Feu et Givre. Eau contre Feu, et Feu contre Givre. La relation entre mots-clés est à sens unique : Feu &lt;i&gt;ne contre pas&lt;/i&gt; Eau.
 
-Par exemple, un personnage est sous l'effet d'un Bouclier de flammes avec le mot-clé Feu. Un ennemi le touche avec une Vague écrasante associée au mot-clé Eau.  Tous les effets de la Vague écrasante sont appliqués et le Bouclier de flammes est supprimé.</DefaultText>
+Par exemple, un personnage est sous l'effet d'un Bouclier de flammes avec le mot-clé Feu. Un ennemi le touche avec une Vague écrasante associée au mot-clé Eau. Tous les effets de la Vague écrasante sont appliqués et le Bouclier de flammes est supprimé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,14 +716,14 @@ Les petits feux d'artifice explosifs à fabriquer pousseront tout PNJ à portée
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>L'Éditeur de comportements vous permet de créer de nouveaux comportements pour les membres de votre groupe.  Chaque comportement est composé d'un ensemble d'actions qui dicte la conduite du membre de votre groupe en combat.
+      <DefaultText>L'Éditeur de comportements vous permet de créer de nouveaux comportements pour les membres de votre groupe. Chaque comportement est composé d'un ensemble d'actions qui dicte la conduite du membre de votre groupe en combat.
 
-Un ensemble d'actions consiste en une liste d'actions comportant des conditions, des cibles et des temps de récupération.  Chaque classe est dotée de plusieurs ensembles d'actions créés à titre d'exemples, que vous pouvez dupliquer afin de servir de point de départ pour créer vos propres ensembles d'actions personnalisés.</DefaultText>
+Un ensemble d'actions consiste en une liste d'actions comportant des conditions, des cibles et des temps de récupération. Chaque classe est dotée de plusieurs ensembles d'actions créés à titre d'exemples, que vous pouvez dupliquer afin de servir de point de départ pour créer vos propres ensembles d'actions personnalisés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Chaque armure a une Valeur d'armure de base qui indique sa résistance générale à tous les types de dégâts.  Le champ « Contre un type de dégâts » affiche les types de dégâts spécifiques auxquels l'armure est plus ou moins résistante.</DefaultText>
+      <DefaultText>Chaque armure a une Valeur d'armure de base qui indique sa résistance générale à tous les types de dégâts. Le champ « Contre un type de dégâts » affiche les types de dégâts spécifiques auxquels l'armure est plus ou moins résistante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
