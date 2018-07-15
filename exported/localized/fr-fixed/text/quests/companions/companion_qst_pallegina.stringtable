@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_pallegina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'homme aux carillons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Interroger les animanciens à la &lt;b&gt;Flèche des Prophètes spirituels&lt;b&gt; sur &lt;b&gt;Giacolo&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Chercher &lt;b&gt;Giacolo&lt;b&gt; au &lt;b&gt;Trou&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Interroger la serveuse du Trou, &lt;b&gt;Fyrna&lt;b&gt;, sur la &lt;b&gt;chambre de Giacolo&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Chercher des signes de &lt;b&gt;Giacolo&lt;b&gt; à l'&lt;b&gt;Allée du mineur&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Partir à la poursuite des pirates divins dans &lt;b&gt;Dunnage&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Pallegina veut que je l'aide à retrouver une vieille connaissance, un animancien du nom de Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pallegina&lt;b&gt; pense que &lt;b&gt;Giacolo&lt;b&gt; travaille avec les animanciens à la &lt;b&gt;Flèche des Prophètes spirituels&lt;b&gt;, dans l'&lt;b&gt;Escalier sacré&lt;b&gt;. Je ferais mieux de demander autour de moi, histoire de voir ce qu'ils savent de Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai appris que &lt;b&gt;Giacolo&lt;b&gt; menait ses recherches dans une chambre au &lt;b&gt;Trou&lt;b&gt;, une auberge de la Raveline. Je devrais aller voir s'il s'y trouve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé la &lt;b&gt;chambre de Giacolo&lt;b&gt; sens dessus dessous. &lt;b&gt;Fyrna&lt;b&gt;, la serveuse du Trou, saura peut-être ce qui est arrivé. Je ferais bien de l'interroger sur Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fyrna a vu les pirates emporter &lt;b&gt;Giacolo&lt;b&gt; vers les &lt;b&gt;Gorges&lt;b&gt;. Selon elle, ils l'emmènent probablement à l'&lt;b&gt;Allée du mineur&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Les pirates divins qui ont enlevé Giacolo l'ont amené à leur capitaine, un dénommé « &lt;b&gt;Tatzatl&lt;b&gt; », à &lt;b&gt;Dunnage&lt;b&gt;. Je devrais aller les voir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé une lettre adressée à Flaune Elette. Peut-être contient-elle des informations sur Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Imuani m'a appris que les pirates sont descendus par l'ascenseur avec Giacolo. Elle a mentionné que le garde de l'ascenseur leur a parlé avant de les laisser passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Échec de la quête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu Tatzatl de libérer Giacolo et de le laisser continuer ses recherches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Tatzatl de libérer Giacolo, mais Tatzatl a confisqué les recherches de l'animancien et lui en a déconseillé la poursuite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué le capitaine Tatzatl et son équipage afin de sauver Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Étant incapable de convaincre Tatzatl, le combat a été inévitable. Giacolo a trouvé la mort durant l'échauffourée.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

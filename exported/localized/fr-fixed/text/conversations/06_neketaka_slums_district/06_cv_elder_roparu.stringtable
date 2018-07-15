@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_elder_roparu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>185</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un vieux Roparu regarde dans votre direction avant de cligner abondamment des yeux. Il s'approche en clopinant, ses pieds nus claquant sur les lattes fendues du plancher de sa demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vois beaucoup de choses. La différence, c'est que je ne... regarde pas avec ces yeux comme d'autres le font."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Parlez, je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je cherche un endroit appelé l'Allée du mineur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Parlez-moi de la Raveline. Quelle est l'histoire de ce lieu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous voulez dire le marché noir niché dans les profondeurs des Gorges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'ai vécu de nombreuses années dans cette Raveline. Ma peau et mes os se sont fripés année après année, se sont tordus, si bien que les Roparus me surnomment désormais paki takiri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le temps et les tragédies ont rongé la Raveline au point de la transformer en ce cloaque grouillant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Les gardes font de leur mieux pour le démanteler, mais ce n'est qu'une simple botte cherchant à écraser des milliers de fourmis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Comme vous le constatez, je ne suis ni très grand ni très robuste. Pourtant, si un litige se fait jour dans la Raveline, je le résoudrai, vous pouvez me faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Autrefois, les Roparus comme moi vivions dans un coin agréable de la ville. Mais ce temps est révolu. Il a disparu avec les ruines de notre Vieille ville sous Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Bien avant que les étrangers nous envahissent, un tremblement de terre a ébranlé notre ville, et la montagne s'est effondrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Beaucoup ont supplié Ondra et ont été engloutis pour toute récompense de leurs efforts." Ses yeux aveugles dardent de gauche à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"De nos jours, les Matarus nous envoient dans les ruines de la Vieille ville en guise de punition. Les ténèbres et la mort attendent dans cette fosse. Non le silence, mais une fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je vous entends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Le vieil homme vous adresse une grimace en guise de sourire. Il incline la tête vers vous, indiquant qu'il est conscient de votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Les bras du vieillard sont fins comme des baguettes. Les dents qui lui restent sont jaunies ou noircies par des années de malnutrition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"On m'a dit que vous pourriez me parler du problème de la faim à la Raveline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"C'est la coutume huana : les poissons que nous attrapons dans nos filets sont destinés à la tribu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Les Étoiles de l'aube aimeraient bien nous nourrir, mais les gardes leur interdisent de pervertir l'ordre du partage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mais voilà plusieurs jours que nous n'avons plus rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Les cargaisons d'Ulög n'ont jamais eu de retard. Il est toujours très scrupuleux. Un bon garçon.
+
+"Pour qu'il disparaisse plusieurs jours sans un mot... il doit être mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous avez dit que les Roparus souffraient ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il pointe son regard droit sur votre visage, tout en clignant de plus en plus vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Est-ce que vous me voyez ? Comment savez-vous qui je suis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les gens parlent de votre bonté, Gardien à la poursuite d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Beaucoup vous connaissent pour votre sombre tempérament, Gardien à la poursuite d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Des bruits de pas tels de lointains coups de tonnerre. Le vent chuchote les exploits d'un Gardien qui pourchasse Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Les gens parlent de votre bonté, Gardien à la poursuite d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Les gens parlent de votre bonté, Gardien à la poursuite d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous vous êtes taillé une réputation assez effroyable, Gardien qui pourchasse Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"La reine refuse d'augmenter notre part de la loi du partage. Sans les cargaisons d'Ulög, nous allons certainement mourir de faim. Je vous le demande : que pouvons-nous faire d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Les Étoiles de l'aube ont déjà cherché à vous aider. Nous pouvons les utiliser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je peux rétablir les opérations de contrebande par le biais du marché noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pitli est une Enfant des Étoiles de l'aube, et elle est devenue l'une des guérisseuses les plus estimées de la Raveline. Je pense qu'elle recevrait favorablement votre demande de charité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vous avez besoin d'un champion. Je parlerai en votre nom à la famille royale, à la Couronne du serpent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Peut-être réussirez-vous là ou les membres de ma caste ont échoué. Attirez-nous les bonnes grâces de la couronne, et les Roparus seront à jamais vos obligés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Les Príncipis acceptent de vous approvisionner à nouveau en nourriture si davantage de Roparus travaillent avec eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Les Étoiles de l'aube acceptent de partager leurs récoltes, et les Príncipis les feront passer en contrebande par l'Allée du mineur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"La reine accepte de doubler ses efforts pour nourrir votre population croissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Les Étoiles de l'aube acceptent de partager leurs récoltes, et la reine en attribuera la majorité à la Raveline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je n'ai d'autre choix que d'espérer que cette... entreprise commune se déroulera mieux que la précédente. Nous acceptons la générosité des Príncipis et nous œuvrerons pour la leur rendre au centuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je ne pourrai jamais assez vous remercier, Gardien qui avez l'oreille des kiths comme des dieux. Les Roparus chanteront à jamais votre bonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je doutais du fait que les Étoiles de l'aube consentent à travailler avec des criminels, mais vous m'avez donné tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je n'aurais jamais espéré connaître ça de mon vivant... bénéficier de la générosité de notre reine, j'ai du mal à le croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"J'ai entendu dire que des missionnaires distribuaient de la nourriture dans toute la Raveline, mais je n'arrivais pas à y croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il lève ses yeux sombres au ciel. Il pousse un soupir sifflant entre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Beaucoup vous connaissent pour votre sombre tempérament, Gardien à la poursuite d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous vous êtes taillé une réputation assez effroyable, Gardien qui pourchasse Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je vous entends respirer, mon garçon."</DefaultText>
+      <FemaleText>"Je vous entends respirer, jeune fille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Si vous prétendez que ce sont les dieux qui m'envoient, vous vous trompez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Qu'est-ce qui fait tant souffrir les Roparus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Cet endroit me fait penser à une blessure ouverte. Un brin de nettoyage ne lui ferait pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"J'entends aussi le battement du cœur des Roparus, à peine perceptible et laborieux. Voilà qu'un Gardien vient à la Raveline, comme Amira me l'avait montré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Partir] "Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Les Roparus sont écrasés par le haut. Nous mourrons de faim à si petit feu que c'en est atroce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"De toute façon, vous ne travaillez pas gratuitement. C'est ce que vous voulez dire, mon garçon ?"</DefaultText>
+      <FemaleText>"De toute façon, vous ne travaillez pas gratuitement. C'est ce que vous voulez dire, jeune fille ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Il grimace, découvrant des dents irrégulières et décolorées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Mon garçon, je vous entends TOUJOURS respirer."</DefaultText>
+      <FemaleText>"Jeune fille, je vous entends TOUJOURS respirer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"J'entends beaucoup de choses, comme les bruits de pas d'un dieu à l'horizon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>L'ancien Roparu s'incline avec raideur pour prendre congé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"En fait, c'est un mendiant famélique qui m'envoie à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Il ferme à demi les paupières, plongé dans ses pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je ne peux pas remplir votre bourse de pièces, mais les Roparus n'oublient jamais la bonté d'autrui. Agissez pour notre bien, et tout Neketaka chantera vos louanges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je vais y réfléchir. Peut-être les dieux me convaincront-ils de vous aider, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Puisque vous ne parlez et ne vous esquivez pas, peut-être que vous écouterez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Tous ce que possèdent les Huanas est offert à la tribu dans son ensemble. La tribu le partage ensuite du haut vers le bas : des plus aux moins méritants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Pourquoi les Roparus sont-ils les moins méritants, les derniers à bénéficier de ce que récolte la tribu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ça m'a l'air d'un système affreux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Bien sûr, c'est logique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ainsi va la vie." Il se racle durement la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ainsi va la vie." Il se racle durement la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Les Matarus risquent leur vie pour protéger la tribu. Les Kuarus fournissent des biens et des services de valeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"L'une d'elles est venue vivre avec nous pendant un moment. Mais Pitli est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Les yeux du vieillard brillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Les yeux du vieillard brillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Mourir de faim... les dieux sont-il si occupés qu'ils ne voient pas ce qui se trame à l'intérieur de la montagne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Le vieillard hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Personne ne mérite de souffrir. Pas comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Edér vous regarde et inspire profondément. Il retient sa respiration et vous fait signe de l'imiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Je n'entends maintenant plus la respiration de votre compagnon mais le bruit de ses bras qui s'agitent. Est-il simple l'esprit ? C'est charitable à vous de l'avoir pris sous votre aile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Vous n'avez pas idée..." Xoti secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Edér vous regarde et inspire profondément. Il retient sa respiration et vous fait signe de l'imiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Vous n'avez pas idée..." Xoti secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Je n'entends maintenant plus la respiration de votre compagnon mais le bruit de ses bras qui s'agitent. Est-il simple l'esprit ? C'est charitable à vous de l'avoir pris sous votre aile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ces gorets de port variolés auraient plus de succès à essayer d'éponger la mer avec des serviettes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Le vieillard hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Onekaza écoutera. C'est sa sollicitude qui maintient la cohésion de l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Son regard se tourne de biais, les yeux dans le vague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"C'est une excellente idée ! Quand il s'agit de missionnariat, mes frères et sœurs sont toujours heureux de prêter main forte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Son regard se tourne de biais, les yeux dans le vague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Les moins cinglés d'entre eux, j'espère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Je me demande bien ce que les Rauatais peuvent tirer de cet endroit si les indigènes ne parviennent même pas à se nourrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Ekera, J'espère que c'est une solution temporaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"C'est loin d'être l'idéal, mais c'est la meilleure solution dont nous disposions. Je compatis." Il affiche un sourire sardonique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Tant que ça ne finit pas en eau de boudin pour les mêmes raisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Si les marchés autorisés ne remplissent pas leur rôle, il est naturel que se développent des marchés illicites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"La faim assouvie et les pirates payés. Tout le monde sourit et s'esclaffe. Vous êtes plein de bon sens, cap, digne de Remaro lui-même."
+
+Serafen sourit et se tapote le ventre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je suppose que, pour cette fois... la fin justifie les moyens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Il se frotte le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Si la reine ne nourrit pas son peuple, je doute qu'un nouveau venu ait suffisamment de poids pour changer ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Gardien. Vous êtes toujours le bienvenu. Je vous dois beaucoup et bien plus encore pour votre bonté."
+
+Le vieillard incline la tête à votre adresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Quelle autre solution avons-nous pour résoudre le manque de nourriture ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Si nous ne pouvons pas convaincre les Matarus ni les Príncipis, je pense que les Étoiles de l'aube pourraient nous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"L'une d'elles est venue vivre avec nous pendant un moment. Mais Pitli est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Pitli est une Enfant des Étoiles de l'aube, et elle est devenue l'une des guérisseuses les plus estimées de la Raveline. Je pense qu'elle recevrait favorablement votre demande de charité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Au moins la piété peut-elle prospérer dans ce quartier sombre et implacable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Cette voix bercée par la mer... un fidèle d'Ondra me rend enfin visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Hmph. Qu'avez-vous à dire, mon garçon ?"</DefaultText>
+      <FemaleText>"Hmph. Qu’avez-vous à dire, jeune fille ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"J'ai entendu beaucoup de choses aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Ses yeux sombrent errent un moment avant de s'arrêter sur votre visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"La tribu prend soin de ses Roparus davantage que ce que nous apportons à la tribu. C'était le cas autrefois, en tout cas, avant que notre population ne devienne trop importante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Il y avait un homme qui nous aidait, un pirate au cœur tendre nommé Ulög. Il travaillait pour une capitaine príncipi, Morena la Folle, comme on la surnomme, pour nous apporter de la nourriture du marché noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Suivez la voie qu'Ulög avait empruntée pour nous. Mais ne finissez pas comme lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Si vous avez besoin d'un refuge à Neketaka, sachez que les Roparus vous épauleront."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Vous devez vous rendre à l'Allée du mineur, mon garçon. Là, un ascenseur vous permettra de descendre au terrain de jeu des pirates. Vous y trouverez sûrement le contact d'Ulög."</DefaultText>
+      <FemaleText>"Vous devez vous rendre à l'Allée du mineur, jeune fille. Là, un ascenseur vous permettra de descendre au terrain de jeu des pirates. Vous y trouverez sûrement le contact d'Ulög."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Peut-être la grande prêtresse acceptera-t-elle de nous aider. Elle prêche au temple de Gaun à l'Escalier sacré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Peut-être la grande prêtresse acceptera-t-elle de nous aider. Elle prêche au temple de Gaun à l'Escalier sacré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Oui, je sais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Les fruits de nos champs, eux aussi, sont récoltés pour la tribu, et l'argent qui garnit nos poches n'appartient pas à une personne, mais à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Comme vous le savez, les poissons que nous attrapons dans nos filets sont destinés à la tribu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Bien sûr." Il sourit, révélant des dents décolorées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Les Roparus ne sont-ils pas les derniers servis dans votre tribu ? Chez les Kahangas, c'est le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"La renommée ne m'intéresse pas. Que pouvez-vous me proposer d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Avant que je ne m'engage à quoi que ce soit, j'ai besoin d'informations. Comment puis-je me rendre à l'Allée du mineur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ça, je l'ignore. Quelqu'un pourra certainement vous en dire plus au Trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Vous ne semblez effectivement pas du genre à accorder de la valeur à votre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Peut-être préférez-vous le poids d'une bonne épée en main. Aidez-nous, Gardien, et je vous indiquerai où en trouver une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[Partir] "Je n'ai que faire de votre histoire larmoyante. Cherchez quelqu'un d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Attendez !" Il s'agrippe désespérément à votre manche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Attendez !" Il s'agrippe désespérément à votre manche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Je ne peux pas remplir votre bourse de pièces, mais les Roparus n'oublient jamais la bonté d'autrui. Agissez pour notre bien, et tout Neketaka chantera vos louanges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"La renommée ne m'intéresse pas. Que pouvez-vous me proposer d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Expliquez-moi comment me rendre à l'Allée du mineur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Cela ferait l'affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Vous ne semblez effectivement pas du genre à accorder de la valeur à votre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Peut-être préférez-vous le poids d'une bonne épée en main. Aidez-nous, Gardien, et je vous indiquerai où en trouver une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ça, je l'ignore. Quelqu'un pourra certainement vous en dire plus au Trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Qu'il en soit ainsi, alors, tant que vous nous aidez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"D'accord, je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Pitié, mon garçon... mon peuple se meurt ! N'y a-t-il rien qui puisse vous convaincre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"D'accord, je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Partir] "Non. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Je ne sais pas comment m'y rendre, mais quelqu'un à la taverne pourra certainement vous renseigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Qu'Amira vous bénisse, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Prenez soin de vous, vieil homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Attendez, vous m'aviez promis de m'indiquer l'emplacement d'une épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Puissent les vents d'Amira toujours gonfler vos voiles, mon garçon. Nous n'oublierons jamais ce que vous avez fait pour nous."</DefaultText>
+      <FemaleText>"Puissent les vents d'Amira toujours gonfler vos voiles, jeune fille. Nous n'oublierons jamais ce que vous avez fait pour nous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Exact, exact." Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Voilà plusieurs mois, alors que la tempête mugissait telle la Bête de l'hiver elle-même, une femme brandissant une épée enflammée est apparue dans la Raveline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Je l'ai écoutée avec inquiétude franchir le pont. Elle pleurait et fulminait, hurlant parfois sur l'épée et parfois sur les Roparus à proximité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Pour finir, elle a poussé un cri et à jeté l'épée du pont.
+
+"Celle-ci a plongé dans la Vieille ville en contrebas, où j'imagine qu'elle gît toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Si vous ne savez pas comment vous rendre à l'Allée, quelqu'un pourra sûrement vous renseigner au Trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Le vieillard joint les mains et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"J'ai trouvé le cadavre d'Ulög dans les Gorges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Enoi se tait un instant, se contentant de cligner ses yeux noirs. Puis il inspire profondément, frissonne et expire d'un seul coup. Son souffle moite empeste la bile et la maladie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"C'est ce que je craignais, alors. Dites-moi, comment est-il mort ? Était-ce une mort rapide, au moins ? Sans douleur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"On l'a battu à mort. J'ai l'impression que le tabassage a duré un moment avant qu'il meure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Mentir] "Ça a été rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"On l'a battu à mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Mentir] "Je n'ai trouvé que ses membres découpés et une note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"La Raveline a donc pris une vie de plus." Le vieillard gémit en se frottant les yeux de ses doigts noueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"O-oh." Un petit gémissement lui échappe. Ses mains tremblent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Les épaules du vieillard s'affaissent, et il pousse un nouveau soupir frémissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Les épaules du vieillard s'affaissent, et il pousse un nouveau soupir frémissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Il faut que je trouve autre chose à raconter aux gens de la Raveline. Ça... ça n'ira pas." Il secoue doucement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Merci pour votre honnêteté, Gardien. Rares sont ceux qui acceptent de communiquer de mauvaises nouvelles dans toute leur triste vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"La Raveline a donc pris une vie de plus." Le vieillard gémit en se frottant les yeux de ses doigts noueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Je suis... je suis désolé que vous ayez dû voir ça. Ce n'est pas juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Au moins... au moins n'a-t-il pas souffert." Il hoche doucement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Si les Matarus nous protégeaient comme ils le devraient, les nôtres ne seraient pas la proie de ces bandits et assassins qui arpentent les Gorges tels des requins."
+
+Il tremble de colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Je vois. Il faut que j'en tire mes propres conclusions."
+
+Il se frotte les yeux de ses doigts noueux. Une chape d'accablement s'abat sur lui, et pendant un instant vous avez l'impression que votre conversation est terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Merci de m'avoir apporté ces nouvelles, Gardien, aussi déplaisantes soient-elles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Dites-moi comment accéder à l'Allée du mineur et j'envisagerai peut-être de vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Si vous ne savez pas comment vous rendre à l'Allée, quelqu'un pourra sûrement vous renseigner au Trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

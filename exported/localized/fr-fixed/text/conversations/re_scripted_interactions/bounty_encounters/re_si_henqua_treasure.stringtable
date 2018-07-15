@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\re_si_henqua_treasure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'endroit semble quelconque en tous points, hormis un groupe de grandes pierres formant un triangle. Vous comparez le défilé aride dans le désert aux notes et aux points de repère indiqués sur la carte du capitaine Henqua. Il s'agit bien de l'endroit où son trésor est enfoui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous creusez jusqu'à ce que votre pelle heurte un sac empli de pièces, le perforant le long des coutures. Vous vous agenouillez pour amasser ces richesses, et vous apercevez le coin d'un coffre enseveli. Vous creusez de plus belle et vous forcez le couvercle du coffre. Une fortune en bijoux et en objets divers brille de mille feux à la lumière.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

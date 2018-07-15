@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_si_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous faites le tour d'un îlot rocheux, vous voyez un navire dériver à l'horizon, la voile faséyant dans la brise.
+
+Un symbole grossier est peint dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mais vous remarquez un corps appuyé contre le plat-bord, et un autre, étalé sur la barre. 
+
+Et une flèche plantée dans le mât.
+
+Aloth apparaît à côté de vous et observe lui aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ce symbole... on dirait une variante de l'insigne de la Clef plombée."
+
+Aloth baisse la lunette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Allons enquêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous pensez qu'ils faisaient partie de la Clef plombée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nous n'avons pas le temps pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Exactement ce que je pensais." dit Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ou peut-être les a-t-elle attaqués.
+
+"Les membres de la Clef plombée s'annoncent rarement de manière aussi audacieuse. Mais nous n'aurons aucune certitude avant d'avoir jeté un œil." tempère Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je vous en prie, [Player Name]." Ça pourrait n'avoir aucun intérêt, mais s'ils étaient de la Clef plombée, ils pourraient nous servir à trouver les Masques peints." 
+
+Le front d'Aloth se plisse, alors qu'il ajuste la lunette entre ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Dommage. Nous avons d'autres chats à fouetter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Et si on ne regarde pas maintenant, qui sait où ce navire risque de dériver ? Ou qui pourrait mettre la main dessus le premier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aloth ne dit rien mais regarde le navire alors que vous le dépassez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous sortez votre lunette et observez le symbole. 
+
+Il est grossièrement dessiné, mais pourrait représenter un gourdin de guerre. Ou une épée.
+
+Ou une clef.
+
+À part la voile qui bat et les écoutes qui se balancent, vous ne remarquez aucun mouvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pour moi, on dirait un gourdin de guerre de la tribu wahaki. Ils peignent ça sur les bateaux pillés pour avertir les autres, m'est avis." 
+
+Tekēhu croise les bras et frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Peut-être. En tout cas, ça mérite qu'on aille voir de plus près.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_mill_guard_frontdoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le garde se place sur votre route. "Vous devez être nouveau par ici. Personne n'entre ou ne sort sans l'accord explicite de la Compagnie commerciale vailienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Comment puis-je obtenir cet accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Attaquer] "Je déteste que l'on me dise quoi faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que diraient vos supérieurs s'ils savaient que vous avez empêché un diplomate vailien d'inspecter les lieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Payer 800 pc] "Un peu de cuivre fera-t-il l'affaire ? Je voulais juste jeter un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Un léger sourire se dessine sur son visage. "Mais bien évidemment, je vois que vous avez la permission de pénétrer dans les bâtiments. Par ici." Il se penche et chuchote : "Si vous tentez quoi que ce soit, les gardes à l'intérieur n'attendent qu'une bonne excuse pour passer quelqu'un à tabac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ravi de vous revoir, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je demanderais à quelqu'un au quartier général en ville, que vous trouvez au sud-est d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

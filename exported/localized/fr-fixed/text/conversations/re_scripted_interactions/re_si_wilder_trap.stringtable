@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_wilder_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le chemin devant vous porte les traces de nombreuses pistes désordonnées, les rares plantes qui le bordent se trouvant arrachées. 
+
+Une échauffourée pourrait bien avoir eu lieu ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Les bruits de pas qui vous encadrent attirent votre attention, vous permettant de voir des xaurips, leurs lances rudimentaires à la main. 
+
+Le primitif reptilien le plus proche, une créature aux écailles ternes et aux yeux jaunes, grogne dans votre direction, montrant le piège. Les autres sifflent, exhibant des dents irrégulières.
+
+Les xaurips chargent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Désamorcer le piège]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bien que le piège semble simple, vous le désarmez soigneusement en ramassant ses composants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Franchir la zone discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous reprenez votre chemin, mais trébuchez sur une liane apparue devant vos pieds. Dans un craquement, un nuage de gaz âcre et verdâtre jaillit autour de vous. Il brûle au contact de votre peau, et la douleur soudaine vous fait fermer les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous reprenez votre chemin, et ne pouvez empêcher [Slot 0] de trébucher sur une liane juste devant vous. Dans un craquement, un petit nuage de gaz verdâtre apparaît et [Slot 0] semble s'éclipser devant vous. Toussant et fermant les yeux, [Slot 0] s'éloigne hâtivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bien que le piège semble simple, votre main glisse alors que vous tentez de le désarmer. Dans un craquement, une bouffée de gaz verdâtre jaillit... à quelques mètres devant vous. Sa dispersion commence, inoffensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Contourner le piège]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous quittez le sentier battu et poursuivez votre chemin en alerte, les yeux écarquillés à la recherche de nouveaux pièges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Une forme colossale aux membres oblongs et tressautants fonce vers vous, son regard globuleux trahissant une faim dévorante...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Inspecter le lieu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Continuer le long du chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il vous suffit de quelques instants pour dissiper la confusion. L'absence de traces de sang semble indiquer qu'il n'y a pas eu combat, et vous reconnaissez les empreintes griffues de xaurips. La piste semble récente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous vous demandez ce qui a causé le désordre sur votre chemin. Il y a des traces, mais vous ne reconnaissez pas leur provenance et elles tournent les unes autour des autres, comme des danseurs.
+
+Un seule chose est sûre : ce qui a produit ces empreintes n'est plus sur le sentier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Une liane sèche et fibreuse a été tendue au travers du chemin et maladroitement recouverte de poussière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Les bruits de pas qui vous encadrent attirent votre attention, vous permettant de voir des xaurips, leurs lances rudimentaires à la main. 
+
+Le primitif reptilien le plus proche, une créature aux écailles ternes et aux yeux jaunes, grogne dans votre direction, montrant le piège. Les autres sifflent, exhibant des dents irrégulières.
+
+Les xaurips chargent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Quelque chose vous intrigue dans le virage que prend la suite du chemin. Le manque de visibilité laisse penser que ce serait l'endroit idéal pour une embuscade.
+
+Vous n'entendez cependant rien d'inhabituel. En fait, vous n'entendez rien... ni bourdonnements d'insectes, ni bruissements d'animaux. Même l'air semble immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Tandis que vous poursuivez votre route, vous remarquez que la lumière faiblit, comme si une ombre vous planait dessus. Vous regardez autour de vous en vous, incertain quant à la cause du phénomène. L'air semble lourd, chargé d'une énergie invisible.
+
+Le chemin devant vous semble dégagé, mais vous savez que les apparences peuvent être trompeuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Continuer d'avancer prudemment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Vous mettez un moment avant de reconnaître votre propre exclamation de douleur, consécutive à la fléchette désormais plantée entre vos côtes. Votre vision vacille légèrement alors que vous l'arrachez de votre flanc et la jetez par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Un bruit sourd suivi d'une exclamation de douleur attirent votre attention vers [Specified 0], qui a une fléchette plantée dans le flanc. Votre comparse contemple le projectile avec étonnement avant de l'arracher et de le jeter. 
+
+[Specified 0] trébuche de côté, puis désigne quelque chose derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Vous mettez un moment avant de reconnaître votre propre exclamation de douleur, consécutive à la fléchette désormais plantée entre vos côtes. Votre vision vacille légèrement alors que vous l'arrachez de votre flanc et la jetez par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Examiner les environs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Alors que vous avancez avec prudence, vous repérez un énorme lagufaeth se faufilant à travers la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Examiner les environs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Continuer d'avancer prudemment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Vous devez avoir cédé à la paranoïa. Rien ne semble sortir de l'ordinaire. Même la brise se fait plus intense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Vous voyez un rocher au bord de votre chemin, et la tête vous tourne alors que vous l'approchez. Vous trouvez derrière celui-ci une étrange composition d'os et de bâtons, totem primitif luisant sinistrement et perturbant de son énergie l'essence qui l'entoure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>L'obscurité se fait plus pressante, mais vous n'arrivez pas à en déterminer la source.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Un grand nāga avance en ondulant, sifflant de sa langue fourchue entre ses longs crocs, une griffe tendue vers vous. 
+
+Quelques autres nāgas répondent en sifflant à l'unisson, et le groupe s'approche, ses armes rudimentaires au clair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Plus vous avancez, plus les ombres s'étendent et plus les ténèbres s'intensifient. Vous clignez des yeux automatiquement tandis que votre vision faiblit. 
+
+Vous entendez un bruissement non loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Détruire le totem]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>En quelques frappes brutales, vous réduisez le totem en un tas inoffensif. L'oppression que vous ressentiez s'évanouit, et le bourdonnement que vous entendiez laisse place à un bruissement proche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vous décidez de ne pas vous aventurer plus avant et préférez rebrousser chemin. Peut-être pourrez-vous trouver une autre route vers votre destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Vous vous dirigez vers la partie abîmée du chemin mais [Player Animal Companion] semble aux aguets. Sa fourrure se hérisse et sa position change pour vous protéger. Ses oreilles se tendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Une liane sèche et fibreuse a été tendue au travers du chemin et maladroitement recouverte de poussière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Détecter la présence d'autres esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Vous avancez puis ressentez une onde de peur traverser le lien qui vous unit à [Player Animal Companion]. Avant que vous puissiez réagir, ses dents attrapent votre harnachement pour vous tirer en arrière. 
+
+La fléchette qui fuse vous rate d'un pouce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Alors que vous avancez avec prudence, vous repérez un énorme lagufaeth se faufilant à travers la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Vous ouvrez votre esprit aux alentours, à la recherche de pensées. 
+
+Sans surprise, vous ressentez une hostilité malveillante et proche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Communier avec les esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Vous ouvrez votre esprit aux résonances spirituelles du monde autour de vous. 
+
+Le chemin semble s'évanouir, et la résonance se mue en chuchotements inquiets qui vous poussent à quitter le chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Vous voyez un rocher au bord de votre chemin, et la tête vous tourne alors que vous l'approchez. Vous trouvez derrière celui-ci une étrange composition d'os et de bâtons, totem primitif luisant sinistrement et perturbant de son énergie l'essence qui l'entoure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Continuer d'avancer prudemment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Chercher les xaurips]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Vous reprenez la route sans autres perturbations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Vous entendez des pépiements et des grognements sourds devant vous, et distinguez de petits formes sous les frondaisons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Vous approchez prudemment, écartant les herbes pour mieux voir.
+
+Une poignée de xaurips qui sifflent et se provoquent entre eux, agitant leurs poings écailleux armés de lances. Ils sont réunis autour de ce qui semble être la source de leur dispute, un petit tas de butin vraisemblablement graspillé à d'autres voyageurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Envoyer [Player Animal Companion] faire diversion]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Les disperser avec un sort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Aviver leur colère]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Player Animal Companion] vous touche sans bruit de son museau puis s'en va. Peu après, entendant un bruit à quelque distance, les xaurips s'interrompent. 
+
+Ils partent à sa poursuite, mais nul doute que [Player Animal Companion] saura les semer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Vous tendez vos pensées et parcourez les esprits simples et chaotiques des primitifs. Vous attisez leur colère comme si vous souffliez sur des braises. Leurs sifflements deviennent plus insistants et ils commencent à s'attaquer mutuellement. 
+
+Deux d'entre eux finissent par sauter sur un troisième, qui s'enfuit dans la végétation. Les xaurips se joignent tous brusquement à la poursuite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Vous chuchotez une invocation, rassemblant l'essence pour provoquer une explosion d'énergie mystique parmi les xaurips. Ils émettent des cris sifflants tout en fuyant le déferlement de magie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Les xaurips ayant décampé, vous pouvez récupérer ce qu'ils ont abandonné.
+
+Vous découvrez quelques pièces, une cape en lambeaux et un vieux stylet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Specified 0] rassemble l'essence des alentours, avant de lancer une explosion d'énergie mystique parmi les xaurips. Ils émettent des cris sifflants tout en fuyant le déferlement de magie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Après vous, Serafen. Honneur aux marins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Après vous, capitaine, je vous en prie. C'est à l'arrière que je me débrouille le mieux."
+
+Serafen glousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Bon sang. Ces petites bestioles sont rusées, pas vrai ?" Xoti fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Crier] "Je ne me cache pas ! Si vous me voulez, venez me chercher !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Vous approcher discrètement de la présence maléfique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Le lagufaeth n'a pas remarqué votre présence... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Vos yeux croisent les siens, soutenant son regard froid sans cligner le temps d'un battement de cœur.
+
+Avec un jappement gargouillant, le primitif abandonne toute idée de manœuvre et attaque en bondissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Lui envoyer de l'électricité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Invoquer un drake]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Regarde-moi en face, tas d'écailles, parce que je suis ta mort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Franchir la zone discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Vous reprenez la route sans autres perturbations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Vous mettez un moment avant de reconnaître votre propre exclamation de douleur, consécutive à la fléchette désormais plantée entre vos côtes. Votre vision vacille légèrement alors que vous l'arrachez de votre flanc et la jetez par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Vous vous éloignez de ces créatures aussi silencieusement que possible...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Un éclair d'un blanc aveuglant jaillit pour frapper le lagufaeth. Des étincelles surgissent des doigts palmés de la créature, qui projette de la lumière entre ses dents.
+
+Grésillante et fumante, votre cible s'enfuit dans la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Votre invocation stimule les esprits des alentours et, quand vous appelez le drake, celui-ci vous répond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Allez-y, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Je vais leur donner une bonne leçon, à ces poiscailles suceurs de fonds de cale, capitaine."
+
+Serafen s'humecte les lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Le lagufaeth fait un pas en arrière, puis un second, et craque enfin, fuyant aussi vite que ses pieds palmés le lui permettent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Par son invocation, [Specified 3] éveille les esprits, et le drake répond à l'appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>L'ombre des ailes membraneuses de la bête vous recouvre alors qu'elle plonge, la gueule crachant des flammes terrifiantes.
+
+Avec des gargouillis crissants, le lagufaeth se donne des claques, tout en fuyant comme s'il tentait de distancer les flammes qui le calcinent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Le lagufaeth fait un pas en arrière, puis un second, et craque enfin, fuyant aussi vite que ses pieds palmés le lui permettent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Le lagufaeth approche prudemment, prêt à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Les yeux froids et vitreux du primitif se tournent vers vous...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>L'orlan bondit de sa cachette, l'arme tournoyante à la main, avec à la bouche un flot d'insultes assez obscènes pour choquer même un lagufaeth. 
+
+Il avance à grands pas vers lui avec la résolution d'un pirate né.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Le lagufaeth a laissé dans son sillage des poissons, quelques-unes de ses épines venimeuses et une massue finement ouvragée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Utiliser le Talisman d'obscurité sur le totem]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Je ne perçois rien de semblable à de la magie kith normale. Restons sur nos gardes." Aloth fait virevolter ses doigts au-dessus de son grimoire, tandis que ses yeux parcourent les alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Vous avancez en direction du totem, tenant haut la pierre, et vous vous tenez devant, laissant l'essence qui l'entoure vous envelopper dans des ténèbres noires comme l'encre. Le bourdonnement se mue en chuchotements sifflants ; les murmures d'innombrables âmes errantes, peut-être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Quand vous rouvrez les yeux, vous voyez à nouveau clair, ne ratant rien du nāga qui se tient devant vous. Une crête lui entoure la tête, tandis que des os et des morceaux de coraux pendent des lacets de cuir ornant son cou. Sa langue fourchue frétille alors qu'il vous observe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[Saluer en hochant la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Nous souhaitons juste passer notre chemin en paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Qu'est-ce que c'est que ce totem, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[Partir] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Vous entendez le nāga changer légèrement de position, et sentez sa main se poser sur l'arrière de votre tête. Alors que vous regardez vers le haut, il hoche la tête lui aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Il tire sur un de ses nombreux colliers pour le défaire. Il place l'objet dans votre main, puis s'éclipse en ondulant et en vous intimant de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Le nāga vous dévisage de ses yeux calmes et intelligents. Il ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Alors que vous commencez à bouger, les murmures regagnent en volume et en discordance, tandis que l'obscurité vous aveugle. Vous entendez un sifflement de nāga se préparant à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Alors, on n'est pas pipelette ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Le nāga vous dévisage de ses yeux calmes et intelligents. Il ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Alors que vous commencez à bouger, les murmures regagnent en volume et en discordance, tandis que l'obscurité vous aveugle. Vous entendez un sifflement de nāga se préparant à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Le primitif gargouille, ses yeux froids et globuleux vous inspectant tandis que frémissent les muscles de ses nombreux bras. Il baisse son arme et vous approche prudemment en traînant des pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Un énorme lagufaeth se tient en travers du chemin, ses yeux froids et globuleux vous inspectant tandis que frémissent les muscles de ses nombreux bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>[Attendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Fuir la bête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Le lagufaeth n'essaie même pas de vous arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Il tire de sa ceinture rustique une corde à laquelle pendent plusieurs poissons, et les pose au sol devant vous. Hochant la tête, il recule de quelques pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Tenter de comprendre ses motivations]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[Accepter les poissons] "Merci à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Partir] "Je partais, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Le lagufaeth semble reconnaissant. Peut-être connaît-il le jeune congénère que vous avez libéré des Huanas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Vous n'arrivez pas à comprendre qu'un homme poisson offre du poisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Specified 5] fronce les sourcils, examinant le primitif.
+
+"Il a l'air... reconnaissant ?" 
+
+Peut-être connaît-il le jeune congénère que vous avez libéré des Huanas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Il gargouille et se penche de nouveau vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[Chercher ce qui a bien pu placer le totem]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>L'orlan place ses index sur ses tempes et ferme ses yeux vert lime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Oui, capitaine. Y'a quelque chose là-haut, mais je sais pas ce que c'est."
+
+Serafen fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Les yeux carmins de l'elfe pâle roulent dans leurs orbites tandis qu'elle ferme les paupières. Pendant quelques instants, elle est complètement immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Je ressens une conscience froide et unique quelque part devant nous. Un esprit sauvage mais puissant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Au bout d'un moment, [Specified 0] hoche la tête et indique un endroit à l'écart du sentier, devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Même accroupi, le sauvage domine les arbres tropicaux, et il porte un crâne blanchi en guise de couvre-chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Même accroupi, le sauvage domine les arbres tropicaux, et il porte un crâne blanchi en guise de couvre-chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Même accroupi, le sauvage domine les arbres tropicaux, et il porte un crâne blanchi en guise de couvre-chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Specified 0] fronce les sourcils, incapable de tirer une signification de ce chaos. Il y a toutefois des traces qui se tournent autour, comme celles de danseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[Specified 0] désamorce le piège sans bruit et récupère ses composants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>La main de [Specified 0] glisse lors de sa tentative. Un craquement se fait entendre et une bouffée de gaz verdâtre jaillit... plusieurs pas devant vous. Il se disperse sans danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Specified 0] met quelques instants à distinguer un ordre au sein de ce chaos. L'absence de traces de sang semble indiquer qu'il n'y a pas eu de lutte, et votre compatriote identifie facilement les empreintes griffues de xaurips. La piste semble fraîche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Le lagufaeth semble reconnaissant. Peut-être connaît-il le jeune congénère que vous avez libéré des Huanas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Au-delà, un groupe de silhouettes en robe se blottit en tremblant près d'un coude de la rivière. Elles sont toutes figées et grises comme la cendre, telles des statues de suie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Au-delà, un groupe de silhouettes en robe se blottit en tremblant près d'un coude de la rivière. Elles sont toutes figées et grises comme la cendre, telles des statues de suie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_rekke</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous avez une minute, capitaine ?"
+
+Vous entendez [Specified 0], la voix tendue par la question, frapper à la porte de votre cabine avec insistance.
+
+[Specified 0] passe la tête dans vos quartiers et fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Faites-le monter à bord. Je vais le voir sur le pont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Laissez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] acquiesce à votre ordre, puis s'empresse de sortir.
+
+Vous rassemblez votre équipement puis vous dirigez vers le pont principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] hoche vivement la tête puis s'empresse de ressortir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"On a trouvé un homme dérivant sur un débris flottant. Les moussaillons ont tenté de lui parler, mais il parle une langue qu'on n'a jamais entendue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Est-ce qu'il faut l'amener à bord, pour voir si on peut en tirer quelque chose qu'on puisse comprendre ? Ou est-ce que vous préférez qu'on l'abandonne à son sort ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

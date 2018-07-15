@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_bardatto_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Sentiment de couler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver Zili Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouver Persa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner voir Ezzali.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ezzali Bardatto est convaincue que la famille Valera prévoit de s'attaquer à elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ezzali Bardatto m'a demandé de trouver des informations sur un complot des Valera à son encontre. Elle m'a suggéré de commencer par Zili, un membre un peu plus accessible de la famille Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Zili m'a renvoyé vers sa cousine, Persa, qui fréquente une taverne de la Raveline : le Trou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je crois que j'ai trouvé toutes les informations possibles. Espérons que cela convienne à Ezzali.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je me suis débarrassé de Persa. Cela pourrait servir plus tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ezzali a dit que Zili jouait du luth près d'une des tours de garde du coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Zili Valera a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai fourni à Ezzali les informations qu'elle recherchait, et elle m'en a donné un bon prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Je me suis un peu égaré en me renseignant pour le compte d'Ezzali. Je crois qu'elle ne me redemandera plus de l'aider de sitôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai informé Ezzali du projet de cambriolage de sa chambre forte. Je lui ai toutefois dit qu'anéantir la famille Valera n'était pas la bonne façon de réagir. Je vais devoir travailler rapidement si je veux pouvoir convaincre quiconque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai informé Ezzali du projet de cambriolage de sa chambre forte. Elle a très envie de prendre les cambrioleurs à leur propre piège. On dirait que les choses vont très vite devenir sanglantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>La querelle ayant pris fin, Ezzali n'a plus besoin de ces informations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>La famille Valera a déjà mis son plan en action, et il ne semble pas se dérouler comme prévu. J'ai décidé d'aider les Valera à remettre les choses en ordre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

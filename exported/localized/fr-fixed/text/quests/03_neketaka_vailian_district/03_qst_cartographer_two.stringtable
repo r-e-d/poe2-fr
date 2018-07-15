@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_two</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cartographie de l'Archipel : Tikawara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorer les îles proches de Tikawara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir Sanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, le pétulant cartographe rencontré à la Jetée de la reine, veut compiler un guide complet des îles du Feu éteint, mais il n'y arrivera jamais tout seul. 
+
+J'ai bien avancé, mais il reste encore beaucoup à explorer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, le cartographe de la Jetée de la reine, m'a demandé de recenser les îles de l'archipel du Feu éteint qui n'apparaissent pas sur les cartes.
+
+Cette fois-ci, il m'a indiqué les îles autour du village huana de &lt;b&gt;Tikawara&lt;/b&gt;. Il affirme qu'il existe trois îles formant ce qui ressemble à un triangle autour de Tikawara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai fini d'étudier la région autour de Tikawara et je peux retourner voir &lt;b&gt;Sanza&lt;/b&gt; dans son échoppe à la &lt;b&gt;Jetée de la reine&lt;/b&gt;, à Neketaka, pour toucher ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sur une île marécageuse juste au sud-est de Neketaka, j'ai trouvé une crypte infestée de réceptacles hostiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Au sud de Tikawara se trouvaient d'étranges ruines dédiées à Wael, le dieu des secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai découvert, à l'est de Tikawara, des ruines engwithanes dédiées à la déesse Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rapporté à Sanza les informations au sujet des îles proches de Tikawara et j'ai touché ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

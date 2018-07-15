@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\companiontopics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cruauté animale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Filouterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Anti-Éothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Anticlérical</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Anti-Huanas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Progressiste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fierté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Irresponsabilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bon avec le peuple</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pro-animancie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dévoué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Piété</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pro-Huanas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Enjoué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Passionné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Traditionnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mondain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Racisme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>{0:Name} réagit mal face à des personnes cruelles ou dures envers les animaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>{0:Name} est agréable avec les personnes ouvertement cruelles ou dures envers les animaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>{0:Name} n'apprécie pas les révérences religieuses et la dévotion, et a une mauvaise opinion des personnes qui s'y adonnent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>{0:Name} est pieux et pense que les autres se doivent de respecter et de révérer les religions et les dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ingénieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Anti-Éothasiens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Pro-Éothasiens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ami des bêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pro-Éothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Pro-Rauatai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Anti-Clé plombée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Autonomie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Pro-Clé plombée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Intendance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0:Name} admire les personnes responsables et ne se dérobe pas aux tâches qui lui sont proposées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0:Name} n'aime pas quand d'autres assument des responsabilités qui ne leur reviennent pas et se dévouent corps et âme à leurs missions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0:Name} apprécie les personnes qui ne prennent pas trop au sérieux le devoir et les responsabilités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{0:Name} a du dédain pour les personnes qui ne prennent pas leurs devoirs au sérieux ou qui tentent d'échapper à leurs responsabilités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>{0:Name} est fatigué du traditionalisme gratuit et n'accorde aucune confiance aux personnes qui adhèrent pleinement aux rituels antiques et aux vieilles traditions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>{0:Name} respecte et apprécie les traditions culturelles et pense qu'elles valent le coup d'être étudiées et pratiquées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0:Name} respecte ceux dotés d'un amour-propre sain et de la candeur pour l'assumer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>{0:Name} est énervé par les personnes qui vantent leurs mérites sans aucune décence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0:Name} pense que les kiths doivent être libres de décider de leur avenir et apprécie tout effort allant dans ce sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0:Name} ne croit pas que donner trop de pouvoir aux kiths ordinaires soit une bonne chose et pense que le peuple a besoin d'être guidé et protégé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>{0:Name} pense que l'autoritarisme bienveillant est une bonne chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>{0:Name} ne voit pas d'un bon œil les tentatives d'imposer une forme d'autorité, même si l'intention est louable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>{0:Name} déteste la Clé plombée et les violences et manipulations dont elle est responsable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0:Name} pense que la Clé plombée peut avoir une utilité pratique et n'apprécie pas les critiques injustes formulées à son encontre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0:Name} pense que la Clé plombée peut potentiellement faire du bien au monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0:Name} n'a pas confiance en la Clé plombée et en ceux qui la défendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{0:Name} pense que les mortels peuvent avoir besoin des dieux et des religions et n'aime pas l'irrévérence et les insultes anticléricales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0:Name} n'aime pas les dieux et les religions organisées, s'en méfie et apprécie les critiques à leur égard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Pro-Républiques de Vailia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>{0:Name} n'aime pas les Républiques de Vailia et ne voit pas d'un bon œil les personnes qui les soutiennent ouvertement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{0:Name} soutient les Républiques de Vailia et a un bon a priori sur les personnes qui font de même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>{0:Name} pense que l'animancie est dangereuse et irresponsable, et n'apprécie pas les personnes qui soutiennent ouvertement la pratique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{0:Name} pense que l'animancie est nécessaire pour faire progresser le monde et apprécie les personnes qui soutiennent son étude et sa pratique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0:Name} réagit sévèrement à toute forme de racisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>{0:Name} pense que toutes les races de kiths ne sont pas égales et compatibles, et apprécie les personnes qui partagent ce point de vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Anti-Príncipis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>{0:Name} soutient les pirates du Príncipi sen Patrena et n'apprécie pas ceux qui s'opposent à eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>{0:Name} lutte contre les pirates du Príncipi sen Patrena et apprécie ceux qui font de même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>{0:Name} n'apprécie pas les attitudes progressistes qui ignorent ou ne respectent pas les traditions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>{0:Name} pense que certaines perspectives et actions peuvent transcender les idées traditionnelles et réformer la société.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>{0:Name} n'apprécie pas le sentimentalisme à l'égard des animaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>{0:Name} apprécie la bonté et le sentimentalisme à l'égard de tous les animaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>{0:Name} apprécie les blagues et le bon-vivre, même pendant les heures les plus sombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>{0:Name} n'apprécie pas les blagues, les farces, et tout ce qui s'en approche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>{0:Name} respecte les personnes indépendantes et ingénieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>{0:Name} aime le style de vie cosmopolite et les réflexions sur la vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>{0:Name} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>{0:Name} a une mauvaise opinion d'Éothas et de ses actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>{0:Name} n'aime pas les commentaires hostiles et désobligeants à l'encontre d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>{0:Name} a un problème avec les disciples d'Éothas et soutient les personnes qui les critiquent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>{0:Name} n'apprécie pas les critiques et l'hostilité à l'encontre des disciples d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>{0:Name} n'apprécie pas et n'accorde aucune confiance aux Huanas et à leur culture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>{0:Name} n'apprécie pas les critiques et l'hostilité à l'encontre des Huanas et de leur culture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>{0:Name} apprécie les personnes qui n'hésitent pas à mentir, tromper et manigancer pour arriver à leurs fins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>{0:Name} juge sévèrement les personnes qui ont recours aux coups bas pour arriver à leurs fins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>{0:Name} soutient Éothas et croit en sa vertu intrinsèque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0:Name} a une mauvaise opinion d'Éothas et de ses actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0:Name} soutient les disciples d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>{0:Name} n'accorde aucune confiance aux disciples d'Éothas et ne les apprécie pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0:Name} soutient le Rauatai et la Compagnie royale du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>{0:Name} n'apprécie pas et lutte contre le Rauatai et la Compagnie royale du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>{0:Name} est une personne passionnée et a une affinité avec les personnes également portées sur les émotions fortes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>{0:Name} préfère contrôler ses émotions et n'apprécie pas spécialement les personnes impulsives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>{0:Name} soutient les diverses tribus et communautés huanas du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>{0:Name} n'apprécie pas et lutte contre les Huanas natifs du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Provincial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>{0:Name} trouve charmantes et attachantes les expressions et les mœurs rurales et provinciales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Pro-divin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>{0:Name} n'aime pas que l'on vénère ou même que l'on admire les divins.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

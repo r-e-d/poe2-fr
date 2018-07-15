@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_injuried_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous êtes sur la dunette et embrassez du regard le pont du [Player Ship] et la mer qui s'étend au-delà, quand [Specified 1] s'approche de vous. 
+
+"Il y a un problème, capitaine. [Specified 0] a pris des rations supplémentaires de grog, au prétexte que ses blessures le justifiaient. Tout l'équipage est au courant, et ça ne fait plaisir à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Il me semblerait juste que, si [Specified 0] a déjà reçu son grog en rab, le reste de l'équipage puisse rattraper son retard. Veillez à ce que tous les matelots reçoivent des rations supplémentaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[Specified 0] est mal en point. Dites aux autres de la laisser se reposer. Si jamais un jour ils sont blessés, eux aussi voudront qu'on les traite convenablement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Faites monter [Specified 0] sur le pont. Un coup de fouet par gorgée volée, ça me semble raisonnable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>En même temps que le grog, tout espoir de tranquillité s'évanouit alors que l'équipage se noie dans les festivités. L'équipage profite de l'allégresse générale et, le matin venu, tous les matelots ont oublié leurs griefs envers [Specified 0].
+
+Certains ne se rappellent même plus grand chose du tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La tension monte tandis que le [Player Ship] continue son voyage.
+
+[Specified 0] reste en cale, évitant les autres et priant pour une guérison rapide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 1] traîne [Specified 0], blessée, sur le pont, puis attache la coupable au mât devant l'équipage. De la dunette, vous regardez [Specified 0] recevoir son châtiment, chaque coup de fouet ouvrant de nouvelles blessures. 
+
+Quelques matelots grimacent et tressaillent tout au long du supplice mais, une fois celui-ci terminé, ils retournent à leur poste, satisfaits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Jetez [Specified 0] par-dessus bord. Je n'accepte pas les voleurs sur mon bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] convoque l'équipage sur le pont principal pour regarder, tandis que d'autres matelots attachent une corde entre le bastingage et [Specified 0], qu'ils poussent ensuite à l'eau, ignorant ses blessures et ses hurlements.
+
+D'après ses cris, [Specified 0] réussit à survivre quelques heures dans le sillage du [Player Ship]. Le reste de l'équipage, blême de terreur, s'efforce de se concentrer sur ses tâches.
+
+Lorsque les cris cessent enfin, [Specified 1] coupe la corde, abandonnant [Specified 0] à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 1] cligne deux fois des yeux avant d'afficher un petit sourire. "Bien, capitaine. Je vais leur dire de se présenter devant le tonneau de grog quand ils auront fini leur quart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La gorge de [Specified 1] se serre. Elle déglutit et finit par bredouiller un « Bien sûr, capitaine »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"À vos ordres, capitaine. Je vais faire monter la chapardeuse."</DefaultText>
+      <FemaleText>"Bien sûr, m’dame. Je vais faire monter la chapardeuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Bien, capitaine. [Specified 0] sera ravie de l'entendre, même si ça va contrarier les autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] acquiesce. "Quels sont vos ordres, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Allons nous en occuper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Que feriez-vous à ma place, [Specified 1] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Demander à [Specified 0] ce qu'elle pense de la situation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eh bien, capitaine, il serait d'usage de condamner [Specified 0] au fouet. Les vols dans l'avitaillement peuvent causer du tort à tout l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous allez chercher [Specified 0] en cale et exigez de savoir pourquoi le marin a pris du grog en rab. En guise de réponse, [Specified 0] dénoue les pansements autour de sa blessure, exposant sa chair rougeâtre, déchiquetée et tuméfiée. 
+
+"J'ai horriblement mal, capitaine. Vous ne pouvez pas imaginer. Seul l'alcool me permet de supporter la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Coupez les rations de [Specified 0], et dites aux autres de retourner à leur poste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Plus de grog pour [Specified 0]. Le svef sera bien plus efficace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je vais prononcer un sermon sur l'importance de l'empathie et de la miséricorde... et sur l'injustice du vol au détriment de ses frères et sœurs matelots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Réprimander publiquement [Specified 0], puis lui passer discrètement son grog.] "Faites monter la voleuse sur le point de manière à ce que je puisse exprimer mon mécontentement devant l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Faire ressentir la douleur de [Specified 0] à l'équipage] "On dirait que l'équipage a besoin d'une petite leçon pratique en matière d'empathie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je vais supprimer chez [Specified 0] toute capacité à ressentir la douleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous faites monter [Specified 0] sur le pont, en signifiant clairement qu'elle n'aura plus de grog et que, si vous la surprenez encore à chaparder, elle ne recevra pas le fouet mais passera directement sous la quille. Le temps que vous finissiez, [Specified 0] tremble de peur et la plupart des autres matelots ont également blêmi.
+
+Plus tard, vous faites discrètement passer une flasque à [Specified 0], en l'enjoignant de garder le silence sur cet acte de générosité, sans quoi vous serez obligé de faire d'elle un exemple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous ouvrez votre esprit à [Specified 0], cherchez sa douleur et l'extrayez de son corps. Vous l'incorporez à votre âme, puis la distribuez entre tout l'équipage, les liant ainsi à la douleur de leur camarade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bien, capitaine. Quelques jours sans grog devraient équilibrer les comptes de [Specified 0]. Quelques jours de plus suffiront à réconcilier l'équipage avec elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Bien, capitaine. Quelques jours sans grog devraient équilibrer les comptes de [Specified 0]. Quelques jours de plus suffiront à réconcilier l'équipage avec elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Bien, capitaine. Quelques jours sans grog devraient équilibrer les comptes de [Specified 0]. Quelques jours de plus suffiront à réconcilier l'équipage avec elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Même si vous surprenez quelques remarques bougonnes sur le manque de justice en mer, la majorité de votre équipage semble satisfait de votre décision, et la tension retombe au fil des jours suivants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous rassemblez l'équipage sur le pont, [Specified 0] comprise, et prononcez un long sermon critique sur l'importance de la communauté, de l'empathie et de la miséricorde, ainsi que sur les horreurs que l'égoïsme et le vol infligent au monde entier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"De plus, ça masquera les taches dentaires sous une jolie couche noire." Edér hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Vous descendez à la cale et offrez à [Specified 0] une teinture composée d'une forte dose de svef. Elle devrait grandement soulager la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Quand vous avez fini, tout le monde se sent honteux et retourne à ses tâches dans un silence solennel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous descendez à la cale, posez la main sur le front luisant de [Specified 0] et tentez d'établir un contact avec l'âme de la blessée. Vous atténuez la connexion entre l'âme et le corps du marin, qui se relâche, pour la première fois depuis des jours.
+
+"Merci, capitaine," murmure [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Des jurons et des reproches silencieux ponctuent les heures suivantes à bord du navire et, quand vous suggérez d'apporter à [Specified 0] une ration de grog, personne n'élève la voix pour se plaindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Réprimander publiquement [Specified 0], puis lui passer discrètement son grog] "Faites monter le voleur sur le pont, que je puisse exprimer mon mécontentement devant l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous faites monter [Specified 0] sur le pont, en signifiant clairement qu'il n'aura plus de grog et que, si vous le surprenez encore à chaparder, il ne recevra pas le fouet, mais passera directement sous la quille. Le temps que vous finissiez, [Specified 0] tremble de peur et la plupart des autres matelots ont également blêmi.
+
+Plus tard, vous faites discrètement passer une flasque à [Specified 0], en l'enjoignant de garder le silence sur cet acte de générosité, sans quoi vous serez obligé de faire de lui un exemple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>La gorge de [Specified 1] se serre. Il déglutit et finit par bredouiller un « Bien sûr, capitaine ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1] acquiesce. "Quels sont vos ordres, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Une punition est de rigueur..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>L'équipage attend votre sentence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Envisager une solution peu orthodoxe...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ils vous regardent avec espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Changer d'avis...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Ils vous regardent avec espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 2] descend dans la cale et pose une main sur le front lisse de [Specified 0]. Après quelques minutes, le marin se détend pour la première fois depuis des jours.
+
+"Merci, [Specified 2]", murmure [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Même si vous surprenez quelques remarques bougonnes sur le manque de justice en mer, la majorité de votre équipage semble satisfait de votre décision, et la tension retombe au fil des jours suivants.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_sanguine_harvest_empty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Devant vous, l'autel de pierre est vide, à l'exception d'une tâche de sang séché et de quelques cheveux formant une croûte à sa surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examiner l'autel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>L'espace devant l'autel a été poli au fil des siècles par les pieds qui l'ont foulé et les genoux qui s'y sont posés. L'eau gouttant d'en haut a créé un bourbier derrière l'autel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Fouiller la zone autour de l'autel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous tendez la main derrière l'autel et tâtonnez dans la boue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Skillcheck 0] tâtonne dans la boue derrière l'autel, et découvre un journal en piteux état. Il a connu des jours meilleurs, mais certaines de ses pages sont encore lisibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Votre inspection sommaire de l'autel ne révèle rien d'intéressant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Par précaution vous fouillez une fois de plus autour de l'autel, et ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>En grattant le sang séché à la surface de l'autel, vous découvrez des marques d'entailles profondes dans la pierre, témoignage des nombreux sacrifices sanglants qui ont dû avoir lieu ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous découvrez un journal en piteux état à moitié enfoui dans la boue. Les pages sont gorgées d'eau, mais certaines sont encore lisibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

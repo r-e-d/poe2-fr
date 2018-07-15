@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_relationship_player</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>275</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Un jour, je vous ai dit que je n'étais pas sûr d'aimer la personne pour laquelle je me battais. Maintenant, je ne sais plus trop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hé, il y a quelque chose qui me tracasse. J'aimerais en discuter avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il y a quelques années, si vous m'aviez dit que je finirais par vous suivre à nouveau dans une expédition hasardeuse, je vous aurais traité de fou."
+
+Il vous adresse un geste de dédain avec la main qui tient sa pipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Cette poursuite d'Éothas, ça m'a rappelé des souvenirs de la guerre du Saint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vos problèmes ne m'intéressent pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"D'accord. Très bien. Je suis content de savoir que ce n'est pas mon imagination qui me joue des tours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quand on passe suffisamment de temps avec quelqu'un, on finit par remarquer certaines choses. Des choses qui passaient inaperçues au premier abord. Peut-être des choses dont on ne se souciait pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous et moi, ça fait un bon moment qu'on chemine ensemble."
+
+Il s'interrompt, et pendant un instant vous ne savez pas s'il a l'intention de reprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Edér vous regarde les sourcils froncés, sans expression, comme s'il n'avait pas réfléchi à ce qu'il voulait dire.
+
+Il détourne la tête plusieurs fois avant de parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je me suis toujours efforcé d'agir pour votre bien, même sans être toujours d'accord avec vos actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Peut-être est-ce seulement Éothas qui me pousse à penser ainsi. Mais, ces derniers temps, je me suis mis à me poser des questions sur la personne pour laquelle me battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Et plus je vois ce dont vous êtes capable, moins je suis sûr de mes choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je ne m'excuserai pas d'être tel que je suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous n'êtes pas obligé de m'imiter. Je vous demande juste d'avoir les mêmes objectifs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous avez peut-être raison. Peut-être que ce périple fait ressortir ce qu'il y a de pire en moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Si vous ne m'êtes pas absolument loyal, partez immédiatement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"C'est ce que je me suis dit. Et je tiens vraiment à rattraper Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'ai beaucoup de questions. Mais personne d'autre que vous ne peut y répondre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne demande pas d'excuse. J'essaie simplement de voir ce que vous valez, de voir si j'ai mal jugé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nous allons au même endroit. Je ne sais pas si j'y arriverai sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai beaucoup de questions. Mais personne d'autre qu'Éothas ne peut y répondre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Toutefois, vous venez peut-être de répondre à ma question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Autrefois, je pensais que la guerre révélait la véritable nature des gens. Ce qu'elles faisaient quand personne ne les regardait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je me suis rendu compte que le problème, c'était la guerre. Être forcé de vivre jour après jour dans sa puanteur.
+
+"Elle nous change avant même qu'on le remarque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Du moins parfois. Certaines personnes sont mauvaises dès le départ."
+
+Il vous observe un moment, comme pour essayer de déterminer dans quelle catégorie vous ranger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mais la pression induite par notre mission n'est pas très différente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je vais essayer de retrouver mon ancienne personnalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je crois que, pour moi, ce changement est permanent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Maintenant que j'y pense, j'ai toujours aimé ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"À un moment donné, cependant, ces questions n'ont plus d'importance si je dois vendre mon âme pour obtenir des réponses."
+
+Les yeux d'Edér s'écarquillent. Il tend les mains en signe d'apaisement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je ne voulais pas vous insulter. C'est juste une expression."
+
+Il serre les lèvres pour réprimer un petit sourire gêné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'ai besoin de vous pour ce périple. Je vais tâcher d'être de plus agréable compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Dans ce cas, espérons que votre âme tienne plus longtemps le coup que la mienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Faites ce que bon vous semble. Quant à moi, je mène ma barque comme je l'entends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Si vous ne voulez pas changer, c'est votre droit. Je vous dis simplement que j'arrive au bout de mes limites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je ne demande pas grand chose. Et je veux vous aider. Nous sommes dans le même bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je veux juste que vous respectiez le fait que je vous accompagne, et que je refuse de tolérer certaines choses."
+
+Il vous regarde dans les yeux, les sourcils levés. C'est un avertissement à n'en pas douter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Merci. Si vous tenez parole, vous n'entendrez plus aucune plainte de ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous dites ça comme si vous ne maîtrisiez pas la situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Votre réponse ne me surprend guère."
+
+Il secoue la tête et détourne le regard, les yeux baissés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"D'après mon expérience, beaucoup de changements sont effectivement permanents. Mais je connais des gens qui ont lutté pour retrouver leur ancienne personnalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Pour moi, ça comptait énormément."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"C'est de l'insubordination. Partez, immédiatement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ce n'est pas comme ça que je vois les choses, mais pensez ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Réfléchissez bien à ce que vous allez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Comment osez-vous douter de moi après tout ce que j'ai fait pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ça veut sûrement dire que je fais ce qu'il faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"C'est vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"J'ai ressassé des dizaines de fois ce que je m'apprête à dire."
+
+Il détourne le regard, peut-être pour ressasser encore une fois. Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"La question n'est pas de savoir comment vous me traitez. Mais comment vous traitez tout le monde."
+
+Sa voix tremble de rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Si c'est ce que vous pensez, continuez comme ça. Mais bonne chance si vous comptez rejoindre Éothas par vos propres moyens."
+
+Les yeux plissés, il vous jauge du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'en ai bien peur."
+
+Edér crache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Même le pire commandant que j'aie jamais rencontré avait bon fond, au plus profond de lui. Il respectait ses soldats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"C'était suffisant pour qu'ils acceptent de se battre pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mais, dans votre cas, je ne pense pas que vous vous souciiez le moins du monde de moi ni de mes valeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Pensez ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vous avez raison, je m'en contrefiche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je crois que vous m'avez mal jugé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nous ne sommes pas obligés d'être d'accord sur tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Non, pas cette fois-ci. J'ai eu suffisamment de temps pour apprendre à vous connaître."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ce n'est pas ce que je demande. Je demande du respect et de la considération."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Parfait. Au moins c'est clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"En effet. J'ai vu tout ce qu'il y avait à voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je n'ai jamais caché ce que j'attendais de vous. Mais je ne vous vois pas faire beaucoup d'efforts en ce sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nous allons toujours au même endroit. Je ne vous promets rien de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Donc je vous suis, tant que ça me conviendra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"De plus, d'autres personnes nous accompagnent, que je veux bien aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Mais ça s'arrête là." Sa bouche s'ouvre à peine quand il parle, tant il a les dents serrées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vous avez fini ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Rester fait de vous un lâche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Parfait. Comme ça, il n'y aura aucune surprise ni ressentiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je crois avoir tout dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Edér glousse et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Non, juste pragmatique. Peut-être un peu bête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Rien de nouveau sous le soleil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je crois qu'il n'y a rien à ajouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Je ne vous reproche rien. Mais j'ai l'impression que les ennuis vous trouvent où que vous alliez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Et pourtant, nous voilà de nouveau ensemble, probablement en route vers la mort.
+
+"Enfin, vous, vous êtes déjà mort, je parlais pour moi." Il incline la tête et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je ne pouvais décemment pas aller m'amuser tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous n'aviez rien de mieux à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Comme vous dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Merci pour le vote de confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"C'est très gentil de partager. Un jour, il faudra que je vous offre un cadeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je commençais à en avoir marre de dormir à l'abri et de ne plus recevoir de coups. C'est vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hé, je suis là, non ? J'aurais pu me contenter de jeter un œil à cette empreinte de pas géante avant de prendre de longues vacances au Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Et aussi incroyable que ça paraisse, ce périple-ci promet d'être encore plus cinglé que le précédent."
+
+Le regard d'Edér semble un brin accusateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je dois avouer que j'apprécie la manière dont vous avez géré la situation. Dans ces circonstances, rester altruiste n'est pas aussi facile qu'on pourrait le penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Au début, je vous trouvais bizarre, évidemment. Mais vous m'avez surpris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tout ceci ne rime à rien si je dois sacrifier ce en quoi je crois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ça n'a pas toujours été facile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Euh, merci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Altruiste ? C'était involontaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"C'est pas faux. J'aime à croire que je suis pareil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Voilà pourquoi j'en parle. Parfois, c'est tout sauf facile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Eh bien, vous étiez en pleine discussion silencieuse avec une naine morte quand je vous ai rencontré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Il faut être très spécial pour ignorer quelque chose comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Hé hé. Peut-être pas. Disons alors que je suis simplement content que les choses aient tourné de cette façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Sauf que j'ai choisi de croire en la bonté d'une statue géante qui tue tous ceux qu'elle croise."
+
+Il se gratte la lèvre inférieure avec les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Parfois, je me demande si j'ai eu raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Il y a quand même une question que j'aimerais vous poser. Dans toute cette pagaille, comment se fait-il que vous sachiez toujours quoi faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je crois qu'il est de mon devoir d'aider ceux dans le besoin. Parfois, c'est plus compliqué, mais souvent c'est aussi simple que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Si je reste fidèle à moi-même et à autrui, les problèmes ont tendance à se résoudre d'eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"J'essaie de déterminer la mauvaise voie à suivre, puis je fais le contraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Mon aplomb est une illusion dont je me sers pour inciter les gens à me suivre aveuglément."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Qu'est-ce qui vous permet de savoir que vous êtes sur la bonne voie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je ne suis jamais sûr de rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"J'ai des opinions tranchées sur ABSOLUMENT TOUT."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je juge chaque situation à l'aune des circonstances, sans y mêler mes sentiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"J'accepte le fait que même la mauvaise voie ne soit pas sans issue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Hé hé. Dans ce cas, vous êtes en bonne compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Difficile de contester un argument pareil. De plus, si je le faisais, je risquerais de m'attirer des regards de travers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Hé hé. J'aurais dû y penser moi-même. Ça m'aurait évité quelques ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"C'est compliqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Je suis impressionné. Un de ces jours, il faudra que vous me révéliez votre secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Dans ce cas, je dois m'estimer heureux que nous partagions les mêmes points de vue.
+
+"En tout cas, c'est ce qu'il me semble pour les décisions importantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"C'est un point de vue intéressant. Je ne sais pas ce qu'il vaut, mais on s'évite quelques inquiétudes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"C'est cela..."
+
+Edér tire une longue bouffée de sa pipe, tout en vous regardant sans ciller. Il ne remarque pas que la pipe est éteinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Je m'y attendais. Mais j'espérais que ce ne soit pas le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je suppose que tout ce qui fonctionne est bon à prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Quand j'étais enfant, tout était plus simple. Éothas n'était qu'un personnage imaginaire dont on lisait les histoires à l'église."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Dans la plupart de ces histoires, il aidait des gens ou remettait de l'ordre dans le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Si vous lui adressez des prières, peut-être qu'il vous aidera vous aussi."
+
+Il baisse le doigt et son sourire s'évanouit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Il n'y avait aucun prix à payer. Sa volonté était claire comme de l'eau de roche et ses fidèles n'étaient jamais des fanatiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"La voie d'Éothas était juste. Je n'avais aucune raison de la remettre en question."
+
+Il marque une pause. Peut-être la lumière vous joue-t-elle des tours, mais les rides autour de ses yeux et de sa bouche vous semblent plus profondes que dans vos souvenirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Edér lâche un soupir qui paraît avoir été contenu durant des mois. Son sourire est pincé et nostalgique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Vous pensez que le suivre constitue le bon choix, malgré tout ? Après tout ce dont on a été témoins ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Bien sûr. Même Berath souhaite que nous le suivions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Pour être honnête, je l'ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Je crois que ce monde mérite mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"C'est possible. Si la cause est juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"On va voir ce qu'il nous réserve bien assez tôt, j'imagine. Si on parvient jusqu'à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Peut-on vraiment demander ce genre de choses ? Les dieux pourraient prendre ça comme une attaque personnelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Elle a intérêt à être bien, cette cause, vu tous les dégâts qu'il a causés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous connaissez déjà mon avis sur Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Oui, c'est vrai. Je dois dire que j'y réfléchis beaucoup, ces derniers temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"La situation pourrait difficilement être pire pour lui. 
+
+"Ces vieilles idées à son sujet, c'est tout ce qui lui reste en sa faveur, désormais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Edér pousse un grognement dédaigneux. "C'est sans doute vrai.
+
+"Cela ne va pas dans le sens d'Éothas, cela dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Bref, je ne voulais pas rendre la discussion déprimante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je crois que ce n'était qu'une manière détournée de vous dire que j'apprécie la façon dont vous avez influé sur les événements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Vous accompagner, cela me donne l'impression que je fais quelque chose de bien."
+
+Il secoue la tête, l'expression de son visage donnant l'impression qu'il vient de se rappeler d'une blague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Dites-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Cela ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Principalement, à quel point tout le monde avait peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Tout le monde a fait semblant d'être courageux, a fait toutes ces déclarations sur ce qu'on ferait lorsqu'on devrait se battre contre un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Il glousse. "Il n'y avait rien de plus triste que de voir un groupe tenter de faire pire que l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Même le type qui était notre chef, il avait l'habitude de raconter qu'il connaissait plein de moyens de tuer un dieu, si tel était votre désir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Évidemment, la nuit il grinçait des dents si fort qu'on aurait dit qu'il mâchait des cailloux. Au cas où vous auriez cru qu'il avait vraiment l'étoffe."
+
+Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"On n'a pas été envoyé pour tuer Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Je compatis. Mes dents ne sont plus que l'ombre d'elles-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Woedica n'a pas pu m'arrêter. Ce n'est pas Éothas qui y arrivera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Sacré groupe que vous me dépeignez là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Si vous le dites, il va mieux dormir la nuit, j'en suis sûr. 
+
+"Peut-être qu'il aspirera notre âme plus gentiment, en remerciement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Sans doute aurons-nous bientôt tous deux un sourire à faire peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Vous voyez, quand c'est vous qui le dites, j'ai plus envie de le croire. 
+
+"Ou au moins de croire que vous le croyez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Je n'en aurais changé pour rien au monde. Ceux qui sont morts, la plupart l'ont fait en héros. 
+
+"Ceux qui sont restés en vie, ils l'ont mérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"En tout cas, l'idée d'affronter un dieu nous rend presque tous pleutres.
+
+"Et me revoilà, reparti pour rencontrer Éothas." Il lève les yeux au ciel : un signe à l'attention des Étoiles de l'aube ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Je ressens la même chose, d'une certaine manière. Sur les nerfs. La boule au ventre.
+
+"Mais cette fois-ci, c'est différent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Peut-être à cause de vous."
+
+La dernière phrase est à demi-murmurée, et ne vous est pas directement adressée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Qu'en dites-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Vraiment ? Parce que j'ai l'impression d'être l'un de ces soldats qui vous accompagnaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"C'est parce que vous n'êtes jamais allé à la guerre aux côtés de quelqu'un de ma trempe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Hum. Bon. C'était pas important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Vous n'êtes pas tombé en mille morceaux, déjà. Vu de l'extérieur, du moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Vous auriez pu tout abandonner à Caed Nua. Ou même au Val-Doré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Mais vous continuez, même en sachant vers où on se dirige. Sans avoir oublié qui vous étiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Peut-être, mais vous le cachez bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sans doute que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Une partie de moi se dit qu'on ne s'en sortira pas. Quand je pense comme ça, en vous voyant tenir le cap, ça aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Qu'en pensez-vous ? Est-ce qu'on va survivre à tout ça ?"
+
+Il pose la question avec un sourire, qui disparaît presque aussitôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ce qui m'importe, c'est qu'on a fait face aux épreuves qui se présentaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je crois que, là-dessus, j'ai déjà échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Il faut le croire. J'ai encore envie de vivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"On est arrivés jusqu'ici. Je crois qu'on a une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Aucune idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Mieux vaut que vous ne sachiez pas ce à quoi je pense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Moi-même, j'hésite. À chaque fois qu'on croise une de ces énormes empreintes de pas, ça me rappelle de ne pas trop m'exciter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Que j'y croie ou pas, ça me plaît quand même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Hé, si vous êtes déjà mort une fois, la deuxième ne peut pas être si terrible, si ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Eh bien c'est peut-être encore plus impressionnant que vous persistiez, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Je préfère cette issue à l'alternative. Et j'ai appris à vous accorder le bénéfice du doute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Il y a quelque chose qui me parle, là-dedans. C'est sans doute ce que je remarquais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Mais si j'arrive à y faire face comme vous, ça n'a peut-être pas d'importance."
+
+Il vous adresse un petit hochement de tête. Une partie de la tension qui habitait son visage semble s'apaiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Nous avons de bonnes chances de mourir ici, à l'autre bout du monde et loin de chez moi."
+
+Tandis qu'il observe les alentours, les yeux d'Edér errent sans jamais trouver un endroit où se reposer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Mais je vais vous dire. Je ne suis pas homme à faire de grandes promesses."
+
+Il pose une main sur votre épaule et vous fixe droit dans les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Vous n'êtes sans doute pas la plus belle des âmes, mais vous avez été dans le vrai dans les moments qui comptaient. À mon avis, en tout cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Je sais que vous n'êtes pas le peuple le plus sympathique. Mais vous avez été réglo avec moi, le plus souvent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Certes, vous avez un certain tempérament. Ça ne veut pas dire que vous avez été un mauvais chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Non pas que vous n'ayez pas un côté plus sombre. Mais il n'a jamais entravé notre bonne marche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"J'ai bien quelques réserves sur votre fibre morale. Mais vous m'avez surpris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Je voulais vous demander quelque chose d'autre." À propos du fils d'Elafa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Quoi que ce soit, vous devrez vous débrouiller seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Très bien. Je ne vous ennuierai pas avec ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Il se racle la gorge. "Ben, je me disais. Il est seul, laissé à son sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Personne n'a même l'air d'avoir remarqué qu'il avait rejoint cette secte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Et même si on l'en a tiré, ce n'est pas ce qu'il aurait voulu, si on lui avait laissé le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je crois qu'en le laissant comme ça, les choses pourraient mal tourner pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Je pensais que, peut-être, quand on en aura fini avec tout ça... si on s'en sort..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Je me disais que je devrais peut-être y retourner. Pour voir si je peux faire quelque chose."
+
+Il scrute votre visage à la recherche d'une réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Il a besoin de quelqu'un, c'est vrai. Vous devriez tenter le coup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Vous ne pouvez pas choisir à sa place. Vous avez déjà fait tout ce que vous pouviez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"J'ai besoin de vous à mes côtés. Rentrer chez nous sera long et difficile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Il doit apprendre à vivre par ses propres moyens. Laissez-le apprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Vous, euh... vous avez un avis là-dessus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Oui. Oui, bien sûr. Je ne voulais pas..."
+
+Il déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"C'est vrai, j'avais dit que je ne vous lâcherais pas." Il acquiesce plusieurs fois, les yeux baissés, comme s'il se le rappelait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ouais. Ouais, je me sentirais mal si je me contentais de le laisser dans l'état où je l'ai trouvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"C'est... c'est vrai. Je sais qu'il pourrait ne pas m'écouter. Voire faire exprès de faire le contraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Je vous comprends, mais je crois que le moment est mal choisi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Personne n'a pu prendre la place d'Elafa. C'est pour ça qu'il s'est mis dans un pétrin pareil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"C'est vrai que ça lui a permis de devenir un homme, cela dit. 
+
+"Je dois y réfléchir encore un peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"J'ai peur de lui causer plus de tort qu'autre chose.
+
+"J'aimerais tout de même pouvoir faire davantage pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Il faut croire que je vais rester dans le Feu éteint un peu plus longtemps que je le prévoyais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Enfin, pour l'instant, la tâche qu'on doit accomplir est évidente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Il regarde un endroit au-dessus de vous et légèrement décalé sur un côté, refusant de reconnaître davantage votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Mais je vais tabasser autant de gens et de monstres que nécessaire pour vous rendre votre vie."
+
+"Je vous en donne ma parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Seule la moitié de sa bouche sourit et il vous donne deux lourdes tapes sur l'épaule, dont vous ressentez l'onde de choc jusque dans votre moelle épinière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Il arbore le sourire et le doigt gentiment tendu d'un parent qui tente de persuader son enfant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Dites-moi, Edér. Avez-vous des sentiments pour moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"C'est une bonne chose que vous m'ayez accompagné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Sérieusement. Je ne sais pas où j'en serais si vous n'aviez pas traversé Val-Doré, ce jour-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Bien sûr, de toutes sortes. Du respect. De la curiosité à propos de vos sens de Gardien. De la confusion. Beaucoup..."
+
+Il les décompte sur ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ce n'est pas ce que je voulais dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Edér vire au blanc, comme jamais vous ne l'avez vu.
+
+En regardant ses yeux, il vous semble que vous arrivez à saisir le moment précis où il comprend le sens de votre question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Ah, vous voulez dire, euh..."
+
+Edér gonfle ses joues puis les dégonfle à l'aide d'une longue et pesante expiration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Eh bien, je suis votre plus grand fan, au cas où ce n'était pas clair. Mais en ce qui concerne des sentiments plus profonds..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Je n'ai jamais vraiment considéré que les filles. Depuis que je suis assez vieux pour leur courir après."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Et puis, il y a aussi le fait que certains événements du passé me collent encore à la peau. Je ne pense pas qu'on irait bien ensemble, en plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Peut-être dans une autre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Je comprends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Si vous changez d'avis..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Donnez-moi une chance. Je pourrais vous faire changer de point de vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Ne vous méprenez pas. Ça me touche beaucoup que vous ressentiez cela pour moi, si c'est bien ce que vous ressentez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Je ne ressens rien pour vous non plus. Je posais juste la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Vous avez de drôles de façons de communiquer. Enfin, je l'ai toujours su."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Vous seriez le premier à le savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Je ne doute pas de votre motivation. Si quelqu'un en est capable, c'est bien vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"J'espère que vous ne changerez pas d'opinion sur moi. J'aime la situation dans laquelle nous nous trouvons. Vous êtes la personne de qui je suis le plus proche depuis, je sais pas, des lustres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Eh bien, vous êtes, euh... un..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Je suis quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Un orlan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Laissez tomber. Vous feriez mieux de vous en tenir là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"C'est sans doute mieux. J'ai jamais été très bon, question sentiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Edér affiche le sourire peiné d'un voleur qui aurait été pris en train de voler un ami.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Eh bien vous êtes un orlan, à moins que vous soyez juste très petit et poilu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Je sais que c'est mal de le dire. Et je sais que vous êtes différent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Non Edér, je ne suis pas différent. Si vous ne respectez pas les orlans, vous ne me respectez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Oui, c'est mal, enfoncez-vous ça dans la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Laissez tomber. Oubliez ce que j'ai dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Ouais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Non, ce qui n'est pas bien, c'est que, malgré ça, vous m'attirez encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Vous devez comprendre que, ayant grandi dans le Dyrwood, on ne se mélangeait pas avec les orlans. On n'en rencontrait pas beaucoup et, quand c'était le cas, c'était souvent de mauvais augure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Je n'en ai presque jamais vus moi-même. Mais les histoires, ça se propage. Avec le temps, c'est ce qui marque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Vous connaissant, maintenant, j'ai deux notions distinctes de ce qu'est un orlan. Et elles nagent toutes les deux, là-haut."
+
+Il montre sa tête du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Alors, on a sans doute tous deux une chose à laquelle réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"J'ai beaucoup d'estime pour vous. C'est ce que j'essaye de dire depuis tout à l'heure.
+
+"Mais, même sachant qu'il est sans doute mal de penser çà des orlans, je ne peux pas changer ce que je ressens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Je n'ai pas ressenti ce genre de choses pour quelqu'un depuis très longtemps. D'ailleurs, je n'y pense presque plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Ça n'a rien à voir avec vous. Ce sont des choses que je n'ai jamais réglées à l'époque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Elafa, elle en faisait partie. C'est comme si j'attendais que quelque chose qui n'arrivera jamais se produise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Je ne veux plus voyager avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Vous êtes sérieux ? Après tout ce qu'on a fait ensemble, c'est comme ça que ça s'arrête ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Si c'est que vous voulez, je m'exécuterai sans discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Je suis sérieux. Je veux que vous partiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Non, je ne le pensais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Je comprends que ce serait mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"C'est plus facile de vénérer un dieu quand ses pires côtés sont enfouis sous le tapis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"J'en déduis qu'il n'y avait aucune statue dans ces histoires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"N'importe quoi d'autre serait mieux, au point où on en est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Ouais, j'imagine."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

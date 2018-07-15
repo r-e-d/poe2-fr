@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_sand_trap_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le sable se déverse dans la pièce, s'accumulant autour de vos chevilles et s'élevant à chaque instant. La seule issue est la porte en pierre derrière vous, et elle constitue un obstacle de taille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Essayer d'ouvrir la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Jeter un sort corrosif sur la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lancer une grenade sur la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Envoyer une bombe étourdissante sur la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Lâcher une bombe chimique sur la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Balancer une charge implosive sur la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1] saisit le bord de la porte et tire. La porte s'entrouvre de quelques centimètres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] se rue sur la porte et s'efforce de l'ouvrir en tirant, mais elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Pousser plus fort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Lâcher la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1] lâche la porte. Elle se referme avec une force terrible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] achève de lancer un sort corrosif et le jette sur la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Le choc fend la porte en deux, et elle tombe au sol en morceaux. Le groupe se rue à travers l'ouverture, sain et sauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Une grande fissure scinde la porte. Elle est fortement endommagée, mais tient toujours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le sort atteint la porte et l'enveloppe de fluide corrosif, mais la porte est à peine endommagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>La grenade atteint la porte et explose dans un nuage de feu et de fumée toxique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>La porte se brise en morceaux et s'écroule au sol. Le groupe se rue à travers l'ouverture, sain et sauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>La bombe étourdissante atteint la porte et explose dans un nuage de feu et de fumée toxique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La bombe chimique atteint la porte et explose dans un nuage de feu et de fumée toxique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>La charge implosive atteint la porte et explose dans un nuage de feu et de fumée toxique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>La porte se brise en morceaux et s'écroule au sol. Le groupe se rue à travers l'ouverture, sain et sauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>La porte se brise en morceaux et s'écroule au sol. Le groupe se rue à travers l'ouverture, sain et sauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>La porte est démolie. Le groupe se rue à travers l'ouverture, sain et sauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Avec un râle d'effort, [Specified 1] force la porte à s'ouvrir de quelques centimètres de plus. Il y a tout juste assez d'espace pour que le reste du groupe se glisse dans l'ouverture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1] s'efforce de maintenir la porte ouverte, mais en vain. La porte se referme avec violence, broyant les mains de [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Ouvrir la porte de force]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Vous enfuir pendant que [Specified 1] maintient la porte ouverte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] maintient la porte ouverte suffisamment longtemps pour que le groupe s'échappe. Quand la dernière personne se glisse dans l'ouverture, [Specified 1] donne une dernière poussée contre la porte et se jette hors de la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] réussit à ouvrir la porte et la maintient pendant que le reste du groupe s'échappe. Quand tout le monde est passé, [Specified 1] se précipite dans le couloir. La porte se referme violemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] essaye d'ouvrir la porte, mais la pression du sable est trop forte, et elle se referme brutalement. [Specified 1] se démet une épaule dû à ses efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] maintient la porte ouverte suffisamment longtemps pour que le groupe s'échappe. Quand la dernière personne se glisse dans l'ouverture, [Specified 1] donne une dernière poussée contre la porte, mais ce n'est pas assez. [Specified 1] est pris dans le sable étouffant et se retrouve enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1] maintient la porte ouverte suffisamment longtemps pour que le groupe s'échappe. Quand la dernière personne se glisse dans l'ouverture, [Specified 1] donne une dernière poussée contre la porte et se jette hors de la pièce, mais la porte lui écrase la jambe au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vous tentez d'amorcer la bombe, mais le sable monte trop haut et trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Le sable vous arrive à la poitrine tandis que vous amorcez la bombe en toute hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Le sable vous arrive aux genoux tandis que vous préparez la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous tentez d'amorcer la bombe, mais le sable monte trop haut et trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Le sable vous arrive à la poitrine tandis que vous amorcez la bombe en toute hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Le sable vous arrive aux genoux tandis que vous préparez la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Vous tentez d'amorcer la bombe, mais le sable monte trop haut et trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Le sable vous arrive à la poitrine tandis que vous amorcez la bombe en toute hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Le sable vous arrive aux genoux tandis que vous préparez la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Vous tentez d'amorcer la bombe, mais le sable monte trop haut et trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Le sable vous arrive à la poitrine tandis que vous amorcez la bombe en toute hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Le sable vous arrive aux genoux tandis que vous préparez la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0] essaye de lancer le sort, mais le sable monte trop haut, trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 0] réussit à lancer un sort alors que le sable arrive à hauteur de poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le sable est en train de dépasser vos genoux quand [Specified 0] lance un sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous vous efforcez d'ouvrir la porte à temps, mais il est trop tard.
+
+Le sable continue à grimper et recouvre votre bouche. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 1] lutte pour atteindre la porte alors que le sable dépasse votre poitrine, la comprimant et vidant l'air de vos poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Tandis que le sable dépasse vos genoux, [Specified 1] lutte pour atteindre la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1] s'efforce d'ouvrir un peu plus la porte, mais il est trop tard.
+
+Le sable continue à grimper et recouvre votre bouche. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 1] s'efforce d'ouvrir la porte. Le sable atteint votre poitrine et la comprime, vidant l'air de vos poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Specified 1] s'efforce d'ouvrir la porte. Le sable dépasse vos genoux, vous clouant sur place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 1] s'évertue à ouvrir la porte, mais le sable ne cesse de monter. La porte se referme brutalement, et [Specified 1] meurt écrasé. Coincée, l'équipe est enterrée vivante par la marée de sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1] presse son épaule contre la porte et pousse. Le sable atteint votre poitrine, sans donner le moindre signe de cesser de grimper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 1] pousse la porte, les muscles bandés sous l'effort. Le sable atteint vos genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>L'explosif ne fait qu'égratigner la surface de la porte, ne laissant derrière lui que quelques traînées noires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] achève de lancer un sort corrosif et le jette sur la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1] s'efforce d'ouvrir la porte, mais il est trop tard.
+
+Le sable continue de grimper et recouvre votre bouche. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vous luttez pour atteindre la porte alors que le sable dépasse votre poitrine, la comprimant et vidant l'air de vos poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous saisissez le bord de la porte et tirez. La porte s'entrouvre de quelques centimètres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Tandis que le sable dépasse vos genoux, vous luttez pour atteindre la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vous vous frayez un passage jusqu'à la porte et vous efforcez de l'ouvrir, mais elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Vous luttez pour élargir l'ouverture de la porte, mais il est trop tard.
+
+Le sable continue de grimper et recouvre votre bouche. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Vous tirez de toutes vos forces sur la porte. Le sable atteint votre poitrine et la comprime, vidant l'air de vos poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Vous tirez de toutes vos forces sur la porte. Le sable dépasse vos genoux, vous clouant sur place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Avec un râle d'effort, vous élargissez de quelques dizaines de centimètres l'ouverture de la porte. L'espace est peut-être suffisant pour que le reste du groupe se glisse dans l'ouverture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous vous efforcez de maintenir la porte ouverte, mais en vain. La porte se referme violemment, vous broyant les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Maintenir la porte ouverte tandis que votre groupe s'échappe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Vous maintenez la porte ouverte assez longtemps pour que le groupe s'échappe. Alors que la dernière personne se glisse dans l'ouverture, vous donnez une dernière poussée contre la porte et vous jetez hors de la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Vous vous évertuez à ouvrir la porte, mais le sable ne cesse de monter. La porte se referme violemment et vous écrase. Coincé, le groupe est enterré vivant par la marée de sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Vous maintenez la porte ouverte assez longtemps pour que le groupe s'échappe. Alors que la dernière personne se glisse dans l'ouverture, vous donnez une dernière poussée contre la porte et vous jetez hors de la pièce, mais la porte vous écrase la jambe au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Vous pressez votre épaule contre la porte et poussez. Le sable atteint votre poitrine, sans donner la moindre impression de vouloir s'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Vous poussez la porte, les muscles bandés sous l'effort. Le sable atteint vos genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous réussissez à ouvrir la porte et la maintenez pendant que le reste du groupe s'échappe. Quand tout le monde est passé, vous vous précipitez dans le couloir. La porte se referme violemment derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Vous tentez d'ouvrir la porte, mais la pression du sable est trop forte, et elle se referme violemment. Vous vous tordez l'épaule dans l'opération.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Vous relâchez la porte. Elle se referme avec une force terrible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous essayez de lancer le sort, mais le sable monte trop haut, trop vite. Tandis que vous rendez votre dernier souffle, le visage déçu de la Chevaleresse blême apparaît dans votre esprit.
+
+Vous êtes enterré vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Vous réussissez à lancer un sort alors que le sable vous arrive à hauteur de poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Le sable dépasse vos genoux alors que vous lancez le sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Vous prononcez le sortilège de corrosion et le lancez sur la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Vous prononcez le sortilège de corrosion et le lancez sur la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

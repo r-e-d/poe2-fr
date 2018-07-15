@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Les derniers morts-vivants ayant été éliminés, le Bourreau des mers est désormais vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>À la barre du Bourreau des Mers, vous faites signe à votre maître d'équipage de prendre le large. Le vent siffle dans les voiles en lambeaux. Le bois pourrissant gémit alors que le bateau prend de la vitesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous tous ! &lt;link="neutralvalue://Vailian: Apportez-moi la Dévoreuse d'âmes !&gt; Derme o Engoliero do Espirs !&lt;/link&gt; Prenez l'épée... et étripez les vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>À la barre du Bourreau des Mers, vous faites signe à votre maître d'équipage de prendre le large. Le vent siffle dans les voiles en lambeaux. Le bois pourrissant gémit alors que le bateau prend de la vitesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rivan vous salue d'un poing squelettique tandis que son vaisseau vous croise en sens inverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

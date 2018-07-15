@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_burning_building</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dans les hauteurs de Neketaka, les baraques tordues et les bâtiments d'architecture étrangère laissent place aux maisons ouvertes et colorées, dont les larges portes arborent un bois finement ouvragé. Plutôt que de vous ennuyer pour une pièce ou un bout de pain, les enfants du coin essaient de vous vendre des entrées pour une pièce de théâtre ou de vanter les bienfaits des bains publics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous foncez par la porte de derrière et tombez sur une rue presque abandonnée. Seul un groupe de kiths en guenilles, torches à la main, la peuple. Vous remarquez que l'un d'eux tient un sac bombé et taché de sang.
+
+Un des kiths, un humain aux larges épaules et au masque ajusté, fronce les sourcils. "On dirait qu'on se tape un héros. Pas de bol, le chef a été clair : aucun témoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Le chef m'a envoyé veiller à ce que vous ne restiez pas plantés autour du feu, comme des idiots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquer] "Ça, c'est pour les habitants de la maison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La femme de droite, une elfe couturée de cicatrices, jette un regard au chef masqué. "Tu penses qu'il a envoyé quelqu'un nous surveiller ? Ça lui ressemble, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je connais bien Dereo. Rangez-moi ces armes et j'oublie que vous les avez dégainées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Tenter de vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"On tue le témoin et on se barre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Votre groupe suit, fait voler en éclat leur formation et fonce dans les rues sous une pluie de couteaux et de torches. 
+
+Pendant votre fuite, vous vous tournez pour voir [SkillCheck 0] tenir un bras ensanglanté. Votre compagnon titube et bute contre le mur, le front venant se heurter violemment contre les briques.
+
+Heureusement, les bandits ne vous ont pas poursuivi et ont préféré s'échapper par les ruelles qu'ils ont empruntées pour venir, sûrement pour éviter les gardes qui pourraient débarquer à tout moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous foncez en zig-zag dans les rues pavées, en essayant tant bien que mal d'esquiver le nuage de couteaux et de torches balancés dans votre dos. 
+
+Les bandits ne vous poursuivent et préfèrent s'échapper par les ruelles qu'ils ont empruntées pour venir, sûrement pour éviter les gardes qui pourraient débarquer à tout moment.
+
+Une fois les loubards partis, l'adrénaline se calme et révèle presque magiquement une brûlure sévère, témoin de votre fuite endiablée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Les torches fusent autour de vous, s'écrasant sur les pavés et propageant des braises à vos pieds. 
+
+Les bandits ne vous poursuivent et préfèrent s'échapper par les ruelles qu'ils ont empruntées pour venir, sûrement pour éviter les gardes qui pourraient débarquer à tout moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Un aumaua musclé décroise ses bras épais et lève une main. "Ekera, c'est ce Gardien, n'est-ce pas ?"
+
+L'homme masqué cille en vous regardant l'un après l'autre. "[Player Name] ?" Il pointe le bâtiment de la tête. "Ces idiots devaient bien trop à Dereo, et depuis trop longtemps. Nous sommes juste venus récupérer ce qui lui appartient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Un aumaua musclé qui se tenait en retrait décroise ses bras épais. "Nous ne sommes pas des idiots. Vous, par contre, vous en êtes un beau. D'idiot."
+
+"Tuez-les tous," annonce l'homme masqué. 
+
+Les incendiaires avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dégagez de là. Maintenant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Préparer une embuscade pendant la confusion]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Le chef fronce les sourcils, mais hoche sèchement la tête. Les incendiaires jettent un dernier regard incertain avant de fuir dans les sombres allées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous avez déjà vu des types de ce genre traîner autour de Dereo. Vu comme ils se comportent, vous vous doutez qu'il les a probablement engagés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Punaise. Je déteste quand le chef ne dit pas tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous passez un coude et tombez sur une foule agitée. Une des grandes maisons est en train de complètement brûler dans un concert de sinistres crépitements. La plupart des Huanas regardent, médusés par les flammes, mais certains hurlent ou foncent chercher les pompiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Utiliser la magie de givre pour éteindre les torches]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Entrer dans la maison]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Examiner la maison]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Invoquer une tempête pour éteindre les flammes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous vous détournez de la maison et retournez à vos affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vos doigts et lèvres s'agitent à l'unisson alors que vous modelez l'essence locale pour créer un sort de givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] chante, et vous sentez la douce moiteur tropicale s'imprégner de fraîcheur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Une puissante vague de froid éteint les torches, laissant une fine pellicule de givre tout autour. Mais les flammes ont déjà commencé à envahir les profondeurs de la maison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous appelez les esprits du ciel et de la mer. De gros nuages gorgés d'essence se rassemblent au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0] chante, invoquant les esprits. Le ciel au-dessus de vous s'assombrit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Le déluge s'abat subitement, poussant les Huanas aux vêtements finement ouvragés à se réfugier sous les gouttières et les arches. 
+
+Un épais nuage de vapeur s'échappe de la maison alors que l'eau de pluie ruisselle de la toiture. Le feu semble en grande partie éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>La maison ne jure pas comparé au reste du quartier, même si elle semble un peu plus grande que ses sœurs. De la peinture bleu clair parsemée de taches blanches se détache des robustes pierres... quand le feu ne s'en est pas mêlé.
+
+Les grandes portes en façade sont ouvertes, vomissant une épaisse fumée irritante dans les rues. Vous pensez pouvoir vous faufiler à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>La maison ne jure pas comparé au reste du quartier, même si elle semble un peu plus grande que ses sœurs. De la peinture bleu clair parsemée de taches blanches se détache des robustes pierres... quand le feu ne s'en est pas mêlé.
+
+Les grandes portes en façade sont ouvertes, vomissant une épaisse fumée irritante dans les rues. Vous pensez pouvoir vous faufiler à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous foncez par l'entrée, la bouche et le nez nichés dans votre bras pour éviter l'asphyxie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Des torches fraîchement allumées consument l'avant-toit... L'œuvre d'incendiaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>La fumée vous entoure alors que la chaleur agresse votre peau et roussit vos cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Une épaisse vapeur imprègne l'air et, petit à petit, vos vêtements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Alors, vous remarquez les corps...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Trois, étendus dans la salle principale. Deux par terre, striés de petites blessures infligées par de fines lames, encore fraîches. Un troisième, drapé et perforé de carreaux d'arbalète, est assis dans un long fauteuil plutôt bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Poursuivre les incendiaires sortis par l'arrière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Chercher des indices]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Détecter la présence d'esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Piller les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Fuir la maison]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Un légère piste d'empreintes de pas ensanglantées mène à l'arrière de la demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Rien ne semble sortir de l'ordinaire. Si on omet les corps, qui ne sont clairement pas des victimes de l'incendie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Un rictus mauvais aux lèvres, les voyous dégainent leurs armes et s'écartent pour vous encercler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous activez vos sens de Gardien à la recherche d'esprits...
+
+Vous sentez la douleur vous envahir... la vive agonie des lames perforant votre peau... les lourds assauts des carreaux d'arbalète. Vous entendez des pas. Les enfoirés de la Raveline qui vous ont tué fuient par la porte de derrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>On dirait que quelqu'un a trouvé les corps avant vous. Leurs bourses ne sont plus à leurs ceintures, et leurs bijoux ont été grossièrement arrachés de leurs doigts et leurs oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous prenez vos jambes à votre cou et fuyez la maison. Vous atterrissez dans la rue, en plein dans la foule, toussant du charbon et suant de la suie.
+
+"Il y a des survivants, ekera ?" demande une vieille femme mataru drapée des robes colorées d'Amira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>L'essence des esprits &lt;link="stringtooltip://cyclopedia/56"&gt;bouillonne dangereusement&lt;/link&gt;, alimentée par les flammes physiques et les alimentant en retour.
+
+La vision se dissipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sentant votre présence, les esprits s'accrochent à vous comme à une bouée de sauvetage.
+
+La vision se dissipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"J'ai bien peur que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Allez-voir par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>La femme hoche la tête. "Merci quand même pour vos efforts, notre ami étranger. Ce n'est pas grand-chose, mais acceptez ceci avec nos bénédictions."
+
+Elle appuie un sac sur votre paume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>La femme fronce les sourcils en hochant lentement la tête. "Que le regard perçant d'Amira vous guide, étranger." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>La femme baisse les yeux. "Je vois. En tout cas, merci pour ce que vous avez fait. Ce n'est pas grand-chose, mais veuillez l'accepter."
+
+Elle appuie un sac sur votre paume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Vous vous détournez du bâtiment noirci et retournez à vos affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous devriez partir avant que les Matarus n'arrivent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Dégagez, les trous d'balle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je peux oublier tout ce que j'ai vu. Contre espèces sonnantes et trébuchantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Vous jetez un dernier regard à la maison encore fumante avant de poursuivre votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Le chef fronce les sourcils en vous inspectant des pieds à la tête. Il finit par se tourner vers le voyou portant le sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les voyous éclatent de rire. "Vous devez être sacrément imbibé pour croire qu'on va vous donner la moindre pièce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les brutes échangent des regards incertains. L'elfe pas très ragoûtante recule d'un pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Une des brutes adresse un regard à l'homme masqué. "Ce trou d'balle a bien osé nous traiter de trous d'balle ?"
+
+"Je crois bien que le trou d'balle a osé", répond-il. "Je crois qu'il a besoin de se faire trouer."
+
+Les incendiaires avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Donne-lui une partie du butin, Murk."</DefaultText>
+      <FemaleText>"Donne-lui une partie du butin, Murk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>La brute nommée Murk vous adresse un regard noir, trouve quelques babioles dans son sac et les balance à vos pieds.
+
+"On va y aller, du coup", annonce l'homme masqué en vous regardant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Attaquer] "Dommage que ce ne soit pas suffisant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Vous filez en esquivant les incendiaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

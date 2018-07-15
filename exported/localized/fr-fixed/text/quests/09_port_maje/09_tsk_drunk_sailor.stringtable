@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_drunk_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le marin ivre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Libérer Riggere boit-sans-soif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouver Riggere boit-sans-soif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Riggere boit-sans-soif, un marin emprisonné à Port Maje, m'a proposé de rejoindre mon équipage si je le libère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Riggere a assuré que la commandante Savia le libérera si quelqu'un paie son amende. Malheureusement, il a écopé d'une amende de 400 pièces de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>À présent qu'il est libre, Riggere boit-sans-soif souhaite que je le retrouve près du marché de la rade de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Riggere a dit que Savia porte la clé de la cellule sur elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Il devrait être possible de détruire la pierre encadrant la fenêtre de la cellule pour libérer Riggere. Ce sera bruyant, mais efficace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Norgund, un marchand qui se trouve à l'étage supérieur de L'Œil du kraken à Port Maje, vend le genre d'objets qu'il me faudrait pour aider Riggere à s'évader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai tué Savia. Je n'ai plus qu'à prendre la clé de la cellule sur son cadavre et à libérer Riggere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai récupéré la clé de la cellule sur Savia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai payé l'amende de Riggere boit-sans-soif et lui ai rendu sa liberté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai aidé Riggere boit-sans-soif à s'évader de prison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Je me suis servi d'un explosif pour détruire les barreaux de la fenêtre de la cellule de Riggere. Il a profité du chaos qui a suivi pour s'échapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué Savia et aidé Riggere boit-sans-soif à s'évader de prison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai aidé Riggere boit-sans-soif à s'évader de prison. Il veut que je le rejoigne dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>J'ai tué Savia et aidé Riggere boit-sans-soif à s'évader de prison. Il a proposé de rejoindre mon équipage, si en échange je l'aide à quitter l'île et à esquiver toute responsabilité concernant la mort de la connétable.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_mural_examinables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une petite plaque sous la fresque indique : "Le Serpent sinueux était notre première réussite. Cette créature, née du barracuda commun, fut soumise aux énergies vitales de la machine jusqu'à atteindre d'immenses proportions. Depuis, elle semble avoir développé une sorte de mentalité de groupe et chasse en meute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>La plaque est usée, mais encore lisible : "Le Ravageur hérissé était le résultat direct de notre succès avec le Serpent sinueux. Nous avons greffé des piques empoisonnées sur des requins-taureaux que nous avons soumis aux énergies de la machine. La taille des créatures a triplé, puis quadruplé, et les piques ont été assimilées par leur corps. Ainsi naquit le plus effrayant des prédateurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Une plaque proche de la fresque indique : "Le Léviathan était une folie née de l'arrogance la plus pure. Après nos expériences sur le Ravageur hérissé, nous avons décidé de tester les limites des capacités de croissance de la machine. Nous avons piégé des baleines bleues et les avons soumises à la machine pendant des mois. La plupart des créatures périrent, mais les survivantes... 
+
+Rien ne pouvait les arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La plaque sous la fresque est dans une condition remarquable. Elle indique : "Le Kraken est une créature unique en son genre. En appliquant les techniques de manipulation que nous avions affinées avec le Léviathan, nous avons pu augmenter la taille et l'intelligence de la pieuvre ordinaire qui s'est, depuis, révélée être un féroce prédateur.
+
+Un effet secondaire malheureux est toutefois à déplorer : le Kraken est devenu très territorial."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

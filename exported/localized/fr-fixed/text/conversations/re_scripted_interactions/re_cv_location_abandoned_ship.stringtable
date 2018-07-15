@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_abandoned_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous trouvez un boutre se laissant porter par les vagues. Ses voiles pendent mollement à ses mâts, déchiquetées par des canonnades. Le navire paraît abandonné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous passez quelques heures à explorer le navire...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>... et vous ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous avez fouillé le navire de la proue à la poupe. Il ne contient plus rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>... et trouvez une caisse de provisions pour aventurier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... et trouvez une boîte pleine de rations encore comestibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... et trouvez un baril encore plein de boisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... et trouvez dans une caisse quelques provisions utiles pour le navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... et trouvez un vieux drapeau en lambeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... et trouvez un coffre plein de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... et trouvez un canon en étonnamment bon état.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... et vous trouvez un étrange pendentif qui luit d'une douce lumière émanant de son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Continuer de fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Prendre le pendentif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous ramassez le pendentif et vous remarquez qu'il est étrangement chaud au toucher, comme si quelqu'un venait de le porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous avez fouillé le navire de la proue à la poupe. Il ne contient plus rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Un majestueux galion gît en cape sèche sur une mer calme. Ses voiles sont affalées, ses écoutilles sont fermées et la barre est bloquée, cap sous le vent, mais il semble désert. Les sabords des ponts inférieurs sont maculés de suie et de fumée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous trouvez un prao huana seul en mer. Des parties de sa coque sont marquées de longues entailles. Vous ne savez pas s'il a été attaqué par une bête ou un vaisseau ennemi, mais il semble désert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous reprenez la fouille du navire ennemi au cas où il y resterait quelque chose à récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous continuez à chercher dans le navire tout ce qui pourrait vous être utile...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

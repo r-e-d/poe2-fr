@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rekke_minihub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>188</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Lash esagan kikiwa." Il sourit, le regard brillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ked tet'elahiza." Il vous adresse un signe de tête respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tenez." Il vous adresse un grand sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mon ami, bonjour !" Il vous adresse un petit signe enthousiaste de la main, puis rougit, gêné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hasongo… Yiz mah sizaga yah. T'ese ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Posez votre question, je vous en prie." Il hoche légèrement la tête et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous avez vite appris l'aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Que pensez-vous du Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Que veniez-vous faire ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Parlez-moi de votre pays. D'où venez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous parlez à Yiz. À Dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous êtes prêt ? ...Lash kigun ginukis gawu ?" Il vous donne une tape sur l'épaule. Vous sentez un petit tremblement dans sa main, mais son visage souriant rayonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous êtes... heureux avec lui ? Tekēhu ?" Il jette un rapide coup d'œil vers Tekēhu, puis détourne aussitôt le regard, les lèvres pincées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qu'est-ce qui vous manque par rapport à chez vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous tenez le coup ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"C'est une étrange question. Comment expliquer..." Il plisse son nez constellé de taches de rousseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vous allez retourner à Yezuha ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"C'est possible ? J'y vais tout de suite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Euh, nous sommes venus enseigner." Il sourit. Soulagé de ne plus discuter du naufrage, il relâche ses épaules tendues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous alliez « enseigner » à un endroit que vous ne connaissiez pas, à des gens qui ne parlent pas votre langue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Enseigner à propos de Dieu." Il se redresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Le bord de votre carte." Il tente sans succès d'étouffer un sourire espiègle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je voulais vous demander autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'est censé être difficile ?" Il vous regarde d'un air interrogateur; la tête penchée sur le côté. Un amusement non feint lui plisse le front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Il fait chaud. Et humide. Je déteste ça." Il cherche autour de lui quelque chose dans lequel donner un coup de pied, puis, se ravisant, il croise les bras et se contente de grommeler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je ne l'aime pas. Mais avec vous, c'est plus tolérable." La cicatrice en travers de sa bouche étire ses lèvres en un petit sourire bizarre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Lash ked yikigi kisid ?!" Il désigne d'un geste énergique ses cheveux complètement emmêlés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"E yeliza mida seliki yeheb ?" Il tente d'écraser un insecte posé sur son bras et fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous voulez dire « des dieux ». Le pluriel est de mise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Non. Seulement Dieu, ta ? Euh, comment expliquer…" Il regarde dans le vide et fait craquer ses articulations d'un air absent. Il finit par hausser les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Que pensez-vous de nos compagnons de voyage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"J'ai mal aux pieds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ke tahun gisam ma…" Il ne termine pas sa phrase et évite de vous regarder dans les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"J'ai l'impression d'arpenter le rêve d'une autre personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Edér."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Les autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Konstanten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Fassina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ydwin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Revenons-en aux autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"D'accord, oui." Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ergh. Elle me donne la chair de poule !" Un petit frisson lui parcourt l'échine et il blêmit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je lui ai proposé une noix caramélisée et elle les a toutes prises !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Il a mis du varech ardent dans ma soupe quand il pensait que je ne regardais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Il affiche toujours un air aigri. Comme un vieillard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"J'ai envie de lui ébouriffer les cheveux. Ils sont trop... soignés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Edér m'a dit que Dieu avait piétiné votre maison. Vous avez peut-être encore moins de chance que moi." Un sourire narquois se dessine sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Edér m'a appris le nom de tous les animaux et le nom de vos drogues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Son oiseau est méchant. Vous avez vu où il m'a mordu ? ... Je l'aime bien." Le visage rayonnant, il vous montre une petite coupure en forme de triangle sur son avant-bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"J'ai essayé de lui jouer un tour. Mais elle est très rapide, et elle m'a jeté à la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Elle me rappelle mon vieux professeur. Vous croyez qu'elle accepterait de s'entraîner avec moi ?"
+
+Il pose un doigt sur ses lèvres et réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Où a-t-il appris l'aedyran ? Pas… ici, ta ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Il m'a jeté une couverture à la figure. Comment savait-il que j'avais froid ?" Il regarde rapidement autour de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Tekēhu m'a montré l'alcool de riz. Beurk, c'est répugnant !" Il plisse le visage en une expression de dégoût extrême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Qu'est-ce qu'il est bruyant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Un jour, elle m'a donné un petit coup avec son arme. Elle s'est excusée pendant une semaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Elle sait bien nouer les tresses. Elle a mis des plumes d'Ishi dans mes cheveux, vous voyez ?"
+
+Il secoue ses cheveux pour vous montrer. Ils luisent de reflets cuivrés, et vous discernez quelques plumes soyeuses, rouges et bleues, entrelacées dans des mèches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"C'est tout pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Quoi, c'est tout ?" Il vous donne un petit coup taquin dans le bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"À plus tard, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Hun gu." Il vous souhaite au revoir d'un bref hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Edér m'a appris des jurons vailiens. Vous voulez les entendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Mais il refuse de les partager." Il fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Euh, mais je vais peut-être m'arrêter là tant que Pallegina est à côté. Elle est comme... suheki shul aki has. Une jument dans une petite maison. Très bougonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Lipasalis, là d'où je viens... c'est une grande ville, ta ?" Il écarte largement les bras et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Il y a beaucoup de gens, qui parlent beaucoup de langues. C'est… nuyin. Normal."
+
+Un sourire narquois se dessine sur ses lèvres. Vous ne parvenez pas à déterminer s'il est totalement sérieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Comment a coulé votre navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Il y a eu une tempête. Des nuages noirs comme la nuit, aussi hauts que les étoiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nous pensions que Dieu nous protégerait."
+
+Ses mains, d'ordinaire si mobiles et expressives, pendent mollement à ses côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Où alliez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"À l'ouest." Les sourcils froncés, il fait un geste vague en direction de l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ça suffira pour l'instant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Comme vous voulez." Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Enseigner... quoi, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"J'apprends vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vous n'avez pas l'air d'un professeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ah bon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je plaisante. Vous avez raison, je ne suis pas un professeur. "Il y a eu une... sehaj. Et on m'a fait embarquer sur le navire.
+
+"Nous pourrons en rediscuter, euh, plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Vous trouvez mon aedyran très mauvais ? Il ne peut pas être aussi mauvais que celui de Serafen. Dès qu'il ouvre la bouche, il n'en sort que des absurdités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je n'ai pas dit que j'étais un &lt;i&gt;bon&lt;/i&gt; professeur. Apprenez le seki, et peut-être que nous parlerons davantage de Dieu." Il rit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Donc vous êtes un missionnaire, comme Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je ne sais pas ce qu'est un « missionnaire », mais d'accord." Il regarde dans le vide et fait craquer ses articulations d'un air absent. Il finit par hausser les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Que faisiez-vous dans votre pays ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je ne faisais rien. C'est la raison pour laquelle on m'a mis sur ce navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Peut-être qu'un bâtiment a pris feu. Peut-être plusieurs bâtiments. Mais c'est le passé. L'avenir est plus intéressant, ta ?"
+
+Gêné, il se frotte la nuque tandis que le rouge lui monte aux oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Où sont vos chevaux ?" Il plisse les yeux. Son ton laisse entendre que cette question l'asticote depuis un certain temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Une blague de Maia. Mon pays... mon pays, c'est Yezuha. Au-delà de la tempête. Quelque part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Le vent me manque. Chaud et sec, il descend des montagnes, fait trembler les portes, couvre Lipasalis de poussière…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Et le désert. Il s'étend par-delà les montagnes, rouge et immense. Parfois, je sens encore son parfum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Les tempêtes ont disparu. Je pourrais y aller. Vous me proposez de m'emmener ?" Il hausse un sourcil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Un jour, Yiz hun skiku. Mais j'ai encore beaucoup de choses à voir ici, je pense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Êtes-vous loin de chez vous, Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Oui, et mon pays me manque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"C'est sur les chemins que je me sens chez moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Le Feu éteint &lt;i&gt;est&lt;/i&gt; mon pays, mais je n'ai qu'une hâte, c'est de partir d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Je suis originaire du Feu éteint, en fait, et j'aime ce pays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Nous avons tous deux le mal du pays, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Dans ce cas, vous êtes chez vous où que vous alliez. J'aimerais partager ce sentiment." Il hoche la tête, et un rideau de cheveux lui tombe sur le visage. Il les glisse derrière son oreille avec un profond soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Oui, c'est un terrible endroit." Il vous adresse un sourire peiné et détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Je suis jaloux. Je n'aime pas cet endroit." Il penche la tête sur le côté et sourit pour masquer derrière ses paroles l'intensité de ses sentiments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Si je vous défie au bras de fer et que je gagne, vous me le direz ?" Il plante ses mains sur les hanches et se redresse, arborant un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Il &lt;i&gt;faut&lt;/i&gt; que je déniche un peigne." Il pointe le doigt vers ses cheveux emmêlés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Non merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Bazzo ! Nasenale ! Merla ! ... J'aime celui-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Euh, d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je lui ai donné un petit coup avec la mienne et maintenant nous sommes quittes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Mais à Yezuha on a des piments bien plus forts. J'aurai ma revanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Liyezuha igeyi." Il tourne la main, paume vers le haut, et la tend devant lui, vous congédiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Elle ressemble à ma sœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Est-ce que moi aussi je peux vous poser une question ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Pas maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"On parle des autres. Mais vous, que pensez-vous de MOI ?" Même s'il sourit de son air enjoué habituel, l'inquiétude lui empourpre la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Vous êtes amusant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Vous êtes utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Vous ne me gênez pas. C'est tout ce qui m'importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vous êtes un casse-pieds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Très bien." Il hausse une épaule avec une fausse nonchalance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je ne vous aime pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Je n'ai aucun avis sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Ça viendra avec le temps, hein ?" Il agite les sourcils et esquisse un petit sourire du coin des lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Yukag ? Ramenez-moi dans mon pays, et je vous montrerai de quoi vous amuser." Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Oh, Gardien ! Je vous en suis extrêmement reconnaissant !" Il feint de se pâmer d'un air théâtral, la main sur la poitrine, clignant rapidement les paupières, puis met un terme à sa plaisanterie en s'esclaffant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"J'espère que vous cajolez davantage les personnes que vous aimez." Il lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Vous n'êtes pas le premier à me le dire." Il sourit et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ah, quelle cruauté !" Il se plie en deux, prétendant avoir été poignardé, puis met un terme à sa plaisanterie en s'esclaffant et en vous adressant un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ta, je plaisante. Je ne voudrais pas vous humilier devant vos amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Personne n'est jamais allé à l'ouest. À cause des tempêtes, ta ? Mais nous étions déterminés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Que d'éloges. C'est un honneur." Il lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Il faut que je sois plus rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Vos réserves d'alcool de riz sont épuisées, à ce propos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Hm, mais j'ai peut-être suffisamment de cicatrices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Essayez de fermer la porte, la prochaine fois."
+
+Il croise les bras sur la poitrine en soufflant et en faisant la moue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Vous saviez qu'il pouvait retenir très longtemps sa respiration ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"... Mais je ne peux pas critiquer vos goûts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"C'est remarquable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Mon pays... mon pays, c'est Yezuha. Au-delà de la tempête. Quelque part." Les sourcils froncés, il fait un signe en direction de l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Lash esagan kikiwa." Il sourit, le regard brillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ked tet'elahiza." Il vous adresse un signe de tête respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Hasongo… Yiz mah sizaga yah. T'ese ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Vous êtes prêt ? ...Lash kigun ginukis gawu ?" Il vous donne une tape sur l'épaule. Vous sentez un petit tremblement dans sa main, mais son visage souriant rayonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ked tet'elahiza." Il vous adresse un signe de tête respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Donner l'étrange tablette à Rekke] "J'ai trouvé quelque chose écrit dans une langue que je ne comprends pas. Vous la reconnaissez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ku ?" Il prend délicatement la tablette de vos mains et défait la couverture en cuir. Stupéfait, il arque les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"C'est en seki... ma langue ! Je peux la lire !" Enthousiaste, il se redresse d'un coup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Le suspense a assez duré ! Qu'est-ce que ça raconte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Attendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Son regard s'illumine tandis qu'il parcourt le texte. Arrivé en bas, il éclate d'un rire enjoué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ah, c'est un trésor. Vous avez trouvé un document hautement sacré, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Un instant, s'il vous plaît. Laissez-moi lire." Il vous chasse d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"[Rekke éclate d'un rire enjoué]"
+
+ACTOR LAUGHS. DO NOT LOCALIZE.
+
+apply wav file to node 190</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Le prince céleste ne devra être nourri que de jeunes pousses d'herbe ayant poussé sur les collines de Lipasalis. Il devra être étrillé matin et soir à l'aide d'une brosse composée de soies de sangliers nourris de racines dorées..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ça parle d'un cheval, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ça ne ressemble pas tellement à un document sacré..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je vais vous en traduire une partie en aedyran." Il s'éclaircit la voix et redresse les épaules, adoptant une posture un peu plus cérémonieuse que d'habitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ah, vous avez lu beaucoup de textes sacrés de Yezuha, alors ?" Bien qu'il tente de rester impassible, il ne parvient pas à réprimer un petit sourire moqueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ouah, c'est... vraiment extraordinaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Hausser un sourcil inquisiteur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"En fait, c'est l'acte de vente d'un cheval. Un cheval très &lt;i&gt;spécial&lt;/i&gt;." Il se mord la lèvre pour s'empêcher de sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Je plaisante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Vous dénigrez ma foi, Gardien ?" Bien qu'il tente de rester impassible, il ne parvient pas à réprimer un petit sourire moqueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Vous voulez que je lise le reste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Je vous en prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ça suffira, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Vous n'êtes pas du tout amusant !" Un grand sourire taquin aux lèvres, il vous donne un coup de poing espiègle dans le bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Il ne devra être donné qu'aux juments les plus belles, au tempérament le plus fougueux car, sans défi à relever, il s'ennuie. Et quand il est triste, il ne faudra lui murmurer à l'oreille que les compliments les plus doux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ça continue encore, mais c'était la meilleure partie." Un sourire narquois se dessine lentement sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Attendez, je n'ai pas encore digéré le fait d'avoir transporté tout ce temps un énorme caillou qui parle d'un cheval."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Il rit. "Si vous venez à Lipasalis, je vous en trouverai beaucoup d'autres. Vous pourrez commencer une collection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Il détourne légèrement le regard et hésite, incertain pendant un moment de vouloir aborder ce sujet.
+
+Puis il prend une profonde inspiration, pince les lèvres et croise de nouveau votre regard, cette fois-ci d'un air résolu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Il se tait un moment, clignant rapidement les yeux. Mais, quand il porte à nouveau le regard sur vous, il arbore son habituel sourire insouciant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Un grand poids semble peser sur ses épaules, mais il vous adresse un petit sourire peiné et fait aisément fi de sa nostalgie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Apercevant Serafen à proximité, il plisse les yeux et le regarde d'un air soupçonneux... et avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Il agite les doigts en direction d'Aloth et s'esclaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Alors que vous vous éloignez, vous sentez qu'on vous tire légèrement par la manche. Vous vous retournez et vous retrouvez face à Rekke, le sourcil levé, un début de sourire malicieux se dessinant sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>[Acquiescer]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

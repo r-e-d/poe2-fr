@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ghost_ship_first_contact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Surgi de nulle part, un brouillard épais roule sur l'océan, si dense que vous ne distinguez rien à plus de quelques pas devant votre navire. En même temps que le brouillard tombe, les vents se dissipent. Les vagues s'apaisent. Et le [Player Ship] dérive sans but, dans un silence brisé seulement par les grincements de la coque, comme si elle appréhendait les événements à venir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>D'étranges lueurs vertes transpercent le brouillard tandis qu'approche la silhouette massive d'un galion. Ses voiles noires, quoique moisies et en lambeaux, se gonflent d'un vent surnaturel qui propulse le navire à vive allure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La capitaine, un squelette revêtu d'une armure terne, postée sur le gaillard d'arrière du galion décrépit, vous lance un regard mauvais. Elle se tapote la poitrine avec deux doigts décharnés avant de les pointer droit sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Le navire s'évanouit dans le brouillard. Après quelques minutes, le brouillard se dissipe totalement et les vents se lèvent de nouveau, faisant bruire vos voiles. La mer est claire, vide. Vous ne voyez aucune trace de l'autre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ce que la déesse de la mort a marqué, je n'y toucherai pas." Elle hoche le crâne d'un air solennel, puis l'incline pour commander au navire de s'éloigner.
+
+Tandis que le Bourreau des mers change de cap, plusieurs marins morts-vivants arpentent le pont, contemplant avidement votre équipage. Ils saisissent dans leurs doigts crochus le gréement putréfié, leurs têtes roulant sur leurs colonnes vertébrales dénudées.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_dragon_prison</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'ombre sous Neketaka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fouiller la &lt;b&gt;guilde&lt;/b&gt; à la recherche de &lt;b&gt;Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver &lt;b&gt;Mairu&lt;/b&gt; dans le &lt;b&gt;sanctuaire&lt;/b&gt; sous la guilde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Récupérer le bâtonnet de la &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Découvrir ce qui menace la &lt;b&gt;guilde&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Décider du sort de &lt;b&gt;Scyorielaphas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Parler à la &lt;b&gt;reine Onekaza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Parler à la maîtresse de guilde Mairu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Parler avec la &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Récupérer le bâtonnet de la &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le Feu éteint étant une marmite prête à exploser, les modeleurs d'eau de la &lt;b&gt;reine Onekaza&lt;/b&gt; doivent être prêts à tout. Malgré les pressions diverses, la chef de la &lt;b&gt;guilde des modeleurs d'eau&lt;/b&gt; ne répond pas aux convocations de la reine. 
+
+Onekaza a besoin que quelqu'un trouve la &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Des nāgas ont attaqué la maison de guilde et le rez-de-chaussée est jonché de cadavres. Aucun d'entre eux n'est celui de &lt;b&gt;Mairu&lt;/b&gt;.
+
+Elle aura probablement besoin d'aide pour repousser cette attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt; mène une contre-attaque face à l'incursion des nāgas dans le &lt;b&gt;sanctuaire sous la guilde des modeleurs d'eau&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Avant de pousser son dernier soupir, Mairu a expliqué qu'un &lt;b&gt;bâtonnet&lt;/b&gt; très important avait été volé, sans doute par les nāgas. Elle a suggéré que le bâtonnet était vital pour empêcher quelque chose de s'échapper du &lt;b&gt;sanctuaire&lt;/b&gt;.
+
+Elle a aussi entamé une sorte de prière qu'elle n'a pas pu conclure avant de mourir. Ça pourrait avoir un rapport avec la &lt;b&gt;porte&lt;/b&gt; dont elle a parlé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai récupéré le bâtonnet du Chasseur des profondeurs. Selon Mairu, je peux ouvrir la &lt;b&gt;porte en pierre&lt;/b&gt; près de l'&lt;b&gt;entrée du sanctuaire&lt;/b&gt; et enfin m'occuper de ce qui est à l'origine des secousses et de l'attaque de la guilde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;Scyorielaphas&lt;/b&gt; désire être libéré de la guilde qui le tient captif depuis des lustres. Il promet d'être extrêmement reconnaissant, mais le relâcher pourrait avoir un impact sur l'éducation des acolytes modeleurs d'eau, et semer un chaos inimaginable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>La &lt;b&gt;reine&lt;/b&gt; s'attendra à recevoir un rapport complet sur les événements qui se sont produits à la guilde des modeleurs d'eau.  Elle se trouve au &lt;b&gt;jardin suspendu&lt;/b&gt; du &lt;b&gt;palais des Kahangas&lt;/b&gt;, à la Couronne du serpent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>J'ai trouvé la &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt;. Elle semble avoir été gravement blessée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>La &lt;b&gt;maîtresse de guilde Mairu&lt;/b&gt; se trouve à la &lt;b&gt;guilde des modeleurs d'eau&lt;/b&gt;, au promontoire de Periki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>L'esprit de la maîtresse de guilde Mairu m'a demandé de retrouver un &lt;b&gt;bâtonnet&lt;/b&gt; dérobé par les nāgas et de m'en servir pour ouvrir la porte en pierre jouxtant l'entrée de ce &lt;b&gt;sanctuaire&lt;/b&gt;.  Elle veut que je renforce un jeu de barrières protectrices, bien que j'ignore encore ce sur quoi ils montent la garde. 
+
+Elle a dit que les paroles de la &lt;b&gt;Dévotion de Periki&lt;/b&gt; ouvriraient la voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je viens de ressentir la plus importante des secousses jusqu'ici. Si je quitte la guilde maintenant, il sera trop tard pour arrêter ce qui est responsable de tout ce chaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Une &lt;b&gt;porte en pierre&lt;/b&gt; se trouve à l'entrée de ce sanctuaire secret, mais je n'ai pas les moyens de l'ouvrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Le texte intégral de la dévotion de Periki est le suivant : 
+
+Ngati, dame d'Élégie, suscite la pitié.
+Alors que son regard croise l'orbe de perle des cieux,
+Ses yeux s'emplissent de larmes qui tombent drues comme la pluie. 
+Mais le voyage céleste de la lune continue du même pas,
+La passion des amants fugace comme un frôlement de doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>D'après &lt;b&gt;Scyorielaphas&lt;/b&gt;, le bâtonnet du Chasseur des profondeurs est la clé de sa liberté et peut drainer le pouvoir des barrières protectrices qui encerclent sa &lt;b&gt;prison&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Scyorielaphas&lt;/b&gt; m'a averti de ne pas gaspiller son temps. Si je joue la montre, il invoquera davantage de nāgas, et trouvera un autre moyen de s'échapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>En échange de sa liberté, le dragon a sous-entendu qu'il me viendrait en aide dans l'éventualité où j'en aurais besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Les secousses se font de plus en plus puissantes. Si quelque chose est vraiment sur le point de s'échapper des &lt;b&gt;ruines de la guilde&lt;/b&gt;, comme Mairu le pensait, ça ne va pas tarder à se produire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>J'ai lu le manuscrit qui décrit la dévotion de Periki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>J'ai trouvé un exemplaire de la &lt;b&gt;Dévotion de Periki&lt;/b&gt; dans ce qui reste des archives de la guilde. C'étaient les dernières paroles de la maîtresse de guilde Mairu. Elles doivent avoir de l'importance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>J'ai choisi de combattre &lt;b&gt;Scyorielaphas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>&lt;b&gt;Mairu&lt;/b&gt; est morte, mais son esprit demeure. Je ferais bien de lui parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai lâché Scyorielaphas sur Neketaka. C'était le choix juste, mais je ne peux pas prédire les dégâts que mon choix pourrait engendrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai décidé de laisser Scyorielaphas emprisonné. Il était trop dangereux pour être lâché sur Neketaka, et le modelage d'eau est trop indispensable à la sécurité de Neketaka pour prendre le risque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai divisé l'âme de Scyorielaphas et je l'ai relâché. Les Huanas ne seront sans doute pas contents, mais le pouvoir du modelage d'eau reste intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Scyorielaphas est mort et les modeleurs d'eau ne bénéficient plus de sa force. Les Huanas ne seront pas contents, mais au moins leur prisonnier est « libre », d'une certaine manière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Un dragon des mers a échappé à l'emprise de la guilde des modeleurs d'eau. Je n'y suis pour rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>La guilde des modeleurs d'eau a subi un assaut sanglant qui a laissé leur grande salle jonchée de cadavres nāgas. Étant donné l'estime que portent les Huanas aux modeleurs d'eau, les autorités de Neketaka vont vouloir enquêter sur cette affaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>L'esprit de la maîtresse de guilde Mairu m'a demandé de retrouver un bourdon dérobé par les nāgas et de m'en servir pour ouvrir la porte en pierre jouxtant l'entrée de ce sanctuaire. Elle veut que je renforce des barrières protectrices, bien que j'ignore encore ce qu'elles protègent. 
+
+Elle a dit que les paroles de la dévotion de Periki ouvriraient la voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

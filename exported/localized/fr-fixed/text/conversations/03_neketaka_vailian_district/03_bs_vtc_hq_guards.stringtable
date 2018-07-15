@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_bs_vtc_hq_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Le gouverneur Alvari n'aime pas les interruptions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"L'escalier se trouve au nord-ouest. Ne faites pas trop de bruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Le garde vous fixe d'un regard vacant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Attrapez-le !"</DefaultText>
+      <FemaleText>"Attrapez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pour les Républiques !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je vous vois, espion !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Si vous n'avez pas affaire ici, faites demi-tour immédiatement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mes excuses, mais le directeur n'est pas là. Il vous faudra revenir une autre fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le gouverneur n'est pas là en ce moment. Allez voir ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Le garde vous fait signe de passer votre chemin sans mot dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Attrapez-le ! Il faut donner au gouverneur le temps de se réfugier en lieu sûr !"</DefaultText>
+      <FemaleText>"Attrapez-la ! Il faut donner au gouverneur le temps de se réfugier en lieu sûr !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Attrapez-le ! Nous devons donner au directeur le temps de se réfugier en lieu sûr !"</DefaultText>
+      <FemaleText>"Attrapez-la ! Nous devons donner au directeur le temps de se réfugier en lieu sûr !"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_huana_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Rafiq Barbe-Rouge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer Rafiq Barbe-Rouge et vous emparer du triomphe de son navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Barati&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Barati&lt;b&gt; m'a chargé de traquer &lt;b&gt;Rafiq Barbe-Rouge&lt;b&gt;, capitaine du boutre le &lt;b&gt;Chant de sirène&lt;b&gt;. Il y a une prime à toucher en échange d'une preuve de la mort du capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le &lt;b&gt;Chant de sirène&lt;b&gt; écume les eaux au sud de l'&lt;b&gt;île de l'Éperon tordu&lt;b&gt;, qui se trouve au &lt;b&gt;nord-ouest de Neketaka&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le navire de Rafiq repose entre les bras humides d'Ondra. &lt;b&gt;Barati&lt;b&gt; se trouve à l'étage supérieur du palais de la &lt;b&gt;Couronne du serpent&lt;b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé de Rafiq Barbe-Rouge et collecté la prime mise sur sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

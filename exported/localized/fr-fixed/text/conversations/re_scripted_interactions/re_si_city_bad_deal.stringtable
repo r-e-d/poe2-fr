@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_bad_deal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"La magie," commence la voix. "Elle invoque des bêtes pour tourmenter vos ennemis. Elle peut vous sauver en un claquement de doigts, dans une ville aussi dangereuse que celle-là. À n'en pas douter, votre vie vaut bien quelques pièces d'argent." La lumière des torches se reflète sur les dents de l'homme.
+
+"Suivez-moi si vous la voulez." La silhouette se fond dans l'ombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Pénétrer dans le tunnel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Le pirate pousse un grognement. "Vous la voulez toujours ?" Il vous jauge du regard. "Disons deux cent pièces de cuivre. Je doute qu'elle ait autant de &lt;i&gt;valeur&lt;/i&gt;, mais évitons que nos amis l'entendent." D'un geste de la main, il indique les cadavres dans le coin. "J'aurais horreur d'apprendre que je viens de mourir pour un objet vendu au rabais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le chef des pirates s'avance, approchant une torche de votre visage. L'homme s'arrête. "Merla, [Player Name] ?"
+
+Un autre pirate lève son arme. "On l'attaque ou pas ?"
+
+"Ôtez ça de ma vue, imbécile. C'est [Player Name]. Il a des amis parmi les Príncipis."</DefaultText>
+      <FemaleText>Le chef des pirates s'avance, approchant une torche de votre visage. L'homme s'arrête. "Merla, [Player Name] ?"
+
+Un autre pirate lève son arme. "On l'attaque ou pas ?"
+
+"Ôtez ça de ma vue, imbécile. C'est [Player Name]. Elle a des amis parmi les Príncipis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>De l'autre côté, un groupe de Príncipis brandit des torches et des épées. Des corps sont entassés dans les coins, les flammes des torches dansant dans leurs yeux secs. Certains ont les mains ligotées et d'autres la tête dans la crasse.
+
+"C'est fou, n'est-ce pas ?" Le pirate dégaine son arme. "Mettez un petit fromage en guise d'appât, et ces rats étrangers rappliquent en couinant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Découpez-les, de la proue à la poupe !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le chef pince les lèvres et hoche la tête. "Gellarde."
+
+Il s'empare de la bourse de pièces, et un autre pirate vous donne la figurine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Aveugler les Príncipis avec une capacité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Alors que les pirates se rapprochent, vous vous avancez et, d'un mouvement de vos doigts, vous invoquez l'essence pour les priver de leur vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Alors que les pirates se rapprochent, [Specified 0] s'avance devant vous et, d'un mouvement des doigts, il invoque l'essence pour priver les bandits de leur vue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Être à deux doigts d'attaquer l'un des vôtres, quelle négligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Le chef s'incline. "Pas de sang versé, pas d'erreur. Je ne suis pas désolé pas d'être ce que je suis... mais je regrette que mes yeux ne soient plus ce qu'ils étaient."
+
+Les autres pirates observent votre échange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Tenter de vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous vous éclipsez, et vous vous engouffrez dans autant de ruelles que vous pouvez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous vous précipitez vers l'entrée du tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous vous retournez, prêt à vous ruer hors du tunnel, mais un groupe de pirate surgit, bloquant la sortie.
+
+Le chef ricane. "Vous pensiez vraiment qu'on serait si lents que ça ? Vous voyez ne serait-ce qu'une seule jambe de bois parmi nous ? Pour être sincère, je suis un peu vexé. J'ai mal à la poitrine, juste là où se trouve le cœur. Juste à l'endroit où je vais vous enfoncer ma lame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous vous éclipsez, et vous vous engouffrez dans autant de ruelles que vous pouvez. Par chance, les pirates ne vous suivent pas. 
+
+Vous êtes en train de reprendre votre souffle quand vous vous rendez compte que [Specified 1] manque à l'appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Même si vous ne l'avez qu'entraperçue, vous savez que la figurine n'a rien d'une vulgaire babiole. Elle recèle un pouvoir inexploité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Donnez-moi cette figurine. Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Le chef des Príncipis vous regarde d'un air ahuri avant de reculer d'un pas. Les membres de l'équipage jettent des regards autour d'eux, et certains portent la main à leur arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Combien pour que vous vous sépariez de cet objet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il hausse les épaules. "Et moi qui vous croyais fortuné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Discutons. Nul besoin d'avoir recours à la violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le pirate laisse échapper un rire moqueur. "Ces jolis mots s'accompagnent mal de votre visage si insipide." Il secoue la tête. "Quelle est la valeur d'une vie, à votre avis ? Réfléchissez-y, avant que je vous donne mon prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>L'homme récupère le sac de pièces que vous lui présentez. "Agracima, mon royal rat. Vous pouvez disposer."
+
+Vous rebroussez chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Cette anguille-là est plus glissante que vous ne l'auriez cru, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Fermez-la et ouvrez les oreilles ! Ils sont peut-être toujours dans le coin..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Avertir les gardes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous trouvez l'un des gardes matarus et l'avertissez de cette voix suspecte dans la ruelle.
+
+"Et qu'est-ce que vous attendez de moi ?" demande-t-il, vous toisant avec dédain.
+
+"Que tu fasses ton boulot, m'est avis," lui lance un autre. "Ekera, partez maintenant. Ils fuient toujours comme des rats. Peut-être pourrez-vous les attraper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Les quartiers les plus pauvres de Neketaka sont plus souvent plongés dans l'obscurité que dans la lumière du jour. Les rues et les allées sont les demeures de beaucoup de Huanas. Alors que vous remontez une de ces allées, une voix vous appelle. Vous vous retournez pour tomber sur une main qui dépasse d'un coin sombre. Sa paume vous présente une figurine, dont vous ne distinguez que la silhouette à cause de la faible luminosité. Dès que vous tentez de mieux voir la forme, le poing se referme dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Le premier garde grommelle et s'en va en faisant signe à un second de le suivre.
+
+"Merci", lâche le dernier. "Vous pouvez maintenant retourner à vos occupations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>L'homme encapuchonné se tourne vers ses compères. "Pas besoin de taper, qu'il dit !"
+
+Ils éclatent d'un rire tonitruant.</DefaultText>
+      <FemaleText>L'homme encapuchonné se tourne vers ses compères. "Pas besoin de taper, qu'elle dit !"
+
+Ils éclatent d'un rire tonitruant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il se tapote le menton avant de prendre la parole, pour indiquer qu'il a pris la peine d'y réfléchir. "Deux mille pièces de cuivre, ça semble bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Le voleur grimace. "Nous pourrions envisager de vous laisser partir sans trop..." il se passe la langue sur les lèvres, "... vous amocher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Serafen secoue la tête. "C'était pas &lt;i&gt;si&lt;/i&gt; drôle, les gars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Fils de chiennes !" hurle un des pirates d'une voix qui résonne dans les tunnels. Un autre se joint à sa critique de l'utilisation de la magie et des bonnes manières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Alors que vous passez l'angle du tunnel, le meneur se lâche sur son équipage. "La ferme. J'aime me dire qu'on ferait pareil si on était à sa place."
+
+Vous fuyez dans la rue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Heureusement, les pirates pratiquent moins les foules citadines que le roulis des vagues. 
+
+Ils arrivent bien à vous suivre, pour des marins, mais vous finissez par les semer après une feinte rapide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 1] vous attrape, vous traîne sur le côté et vous guide dans les allées sinueuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 1] vous attrape par la main et se met à courir en vous traînant dans l'allée étroite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Heureusement, les pirates ne sont pas experts en longues courses, et vous parvenez à vous échapper au prix d'un bon sprint. 
+
+Vos poursuivants disparaissent lentement dans votre dos, pliés en deux pour récupérer leur souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Le pirate lâche son épée, déçu. "Ah, monde de merde."
+
+"La ferme, idiot", crache le chef. Il hume l'air. "Où z'êtes peut-être un rat, hein ?"
+
+Le pirate secoue la tête et se redresse. "Non, m'sieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous devez être nouveau dans le coin, vu que vous n'avez même pas l'air de savoir qui je suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Le chef secoue la tête et glousse. "Gellarde." 
+
+Il agite un doigt bagué dans votre direction et cache un sourire en or. "Vous allez faire un bon pirate. Repos, les gars. Vous aviez peut-être l'avantage, mais la chance tourne rapidement en mer. Donnez la figurine à ce pirate en herbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Partir] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Au revoir, fentre." Il vous salue.</DefaultText>
+      <FemaleText>"Adieu, tella." Il vous salue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Le chef des Príncipis vous regarde d'un air ahuri avant de reculer d'un pas. Les membres de l'équipage jettent des regards autour d'eux, et certains portent la main à leur arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Le chef des Príncipis vous regarde d'un air ahuri avant de reculer d'un pas. Les membres de l'équipage jettent des regards autour d'eux, et certains portent la main à leur arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Le chef fronce les sourcils. "Merla." 
+
+"Vous feriez un sacré pirate. Peut-être que vous devriez y réfléchir. Repos, les gars. Donnez-lui la figurine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Le pirate affiche un petit sourire. "Nan, je crois pas." Il lève son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il vous salue en s'inclinant. "À notre prochaine rencontre, bon aimico."</DefaultText>
+      <FemaleText>Il vous salue en s'inclinant. "À notre prochaine rencontre, ba aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Le chef soupire. "J'imagine qu'on a bien rentabilisé cet endroit. On boit ?"
+
+Il pose son regard sur un des cadavres alors qu'un rat couineur grimpe la jambe de son pantalon. Le pirate se penche en arrière. "Ac, z'avez l'air un peu occupé. Je vais vous laisser, les tourtereaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Une torche s'allume dans l'allée, révélant l'entrée d'un tunnel. Vous passez sous la voûte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

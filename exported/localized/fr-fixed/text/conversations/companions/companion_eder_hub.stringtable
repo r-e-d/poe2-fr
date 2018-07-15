@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hé, c'est comme au bon vieux temps, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'êtes-vous devenu après qu'on a mis un terme à l'Héritage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que pensez-vous d'Éothas actuellement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous vous souvenez de Dyrford, le petit village que nous avons traversé. Il avait été durement touché par l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au Dyrwood, un groupe de fidèles d'Éothas se fait appeler le Marché nocturne. Ils aident les autres fidèles d'Éothas en secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'ai parcouru le Dyrwood de long en large, mais cette région est hantée par trop de fantômes à mon goût. Il y a plein de choses là-bas que j'aimerais oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je ne sais pas. J'ai toujours de lui cette image de quand j'étais enfant à l'église."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je veux que cesse toute cette destruction. Je veux qu'il accomplisse sa mission et parte paisiblement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Longtemps j'ai espéré découvrir l'objectif d'Éothas, et enfin le comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Son objectif est,... disons, au-delà de ma compréhension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"J'ai tout mon temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"À quoi pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hé, regardez qui voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qu'est-ce qui vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'aimais cette sensation, de savoir que nous avions arrêté Thaos. Que nous avions accompli quelque chose d'important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je n'avais jamais rien ressenti de tel, même à la guerre. Je suppose que je suis reparti en quête de cette sensation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Attention, je ne voulais pas m'embrouiller avec les dieux. Je voulais accomplir quelque chose à plus petite échelle, gérable à mon niveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je suis allé demander au maire s'il avait besoin d'aide. Il s'est montré très amical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Mais il s'est avéré faire partie des sectateurs de Skaen qui avaient infiltré le village. Alors que j'avais le dos tourné, il a essayé de m'assommer avec une houe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Il voulait sûrement me vider de mon sang, ou m'arracher les yeux à coups de pierre, ou m'infliger une des autres tortures de son culte. J'ai pas posé la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Quoi qu'il en soit, je suis sorti de chez lui avec sa tête, et après ça on m'a nommé maire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ils n'ont même pas pris la peine d'organiser une élection. Je leur ai demandé s'ils étaient sûrs, et ils ont tous aussitôt acquiescé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Comment vous vous en tiriez en tant que maire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Remettons-nous en route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'en appréciais certains aspects. L'accueil des gens. Les aider à s'installer. Maintenir l'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"D'autres aspects en revanche me plaisaient moins. Négocier, régler les différends, prononcer les discours appropriés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je pense que je me suis bien débrouillé, bien qu'au détriment d'autres personnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Si vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Un peu comme la Clé plombée, si vous voulez. Sauf que ce ne sont ni des cinglés ni des poltrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Donc, une nuit, alors que j'étais à la taverne, un type est venu me chercher des noises. À cause d'une partie de tête d'orlan à laquelle il avait perdu de l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tandis que je lui défonçais la tête contre la cible, il a remarqué que je portais un pendentif orné du symbole d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Alors, on s'est mis à discuter et en fait c'était un bon gars. Affilié au Marché nocturne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Quand il s'est remis de ses blessures, un ou deux mois plus tard, il m'a présenté à des membres du groupe, qui m'ont accepté parmi eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Comment ça s'est passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Eh bien, ça dépend. Lors de nos missions, c'est vrai que j'ai aidé beaucoup de monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Il s'agissait souvent d'aider des gens à se sortir du pétrin. À se remettre sur les rails. J'aimais bien ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Mais le groupe avait des problèmes. Il y avait beaucoup de dissensions sur la manière de gérer les affaires. Parfois, les gens que nous tentions d'aider en payaient les conséquences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Et je ne sais pas si c'était évitable, ou simplement le prix à payer pour essayer d'améliorer les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Finalement, je suis parti en Aedyr pour chercher mes parents. Ils s'y étaient réfugiés à la fin de la guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vous avez trouvé un moyen de vous rendre utile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"En partie, je suppose. En Aedyr, il règne toujours une certaine animosité envers le Dyrwood, qui remonte à la révolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Certains Aedyrans aiment en faire voir de toutes les couleurs aux Dyrwoodans quand ils en ont l'occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dans le cas de mes parents, un groupe a tenté de s'accaparer leurs terres. Sous un prétexte bidon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Qu'avez-vous fait?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je les ai sagement pris à part et nous avons négocié en toute amitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je crois que l'un d'eux ne pourra plus jamais regarder vers la droite. Mais nous avons fini par trouver un accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mes parents ne m'ont plus vu du même œil après cet épisode. Je crois qu'ils auraient préféré abandonner leurs terres plutôt que de recourir à la violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Elle n'a rien à voir avec ce que nous vivons actuellement. De même qu'elle n'a rien à voir avec Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Mais c'est toujours cette première image que je garde d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Le problème, c'est que je pense pas que ce sera aussi simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Mais, ces derniers temps, il n'y rien que je craigne davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mais je commence à penser que, si la situation actuelle a mené aux Purges et à l'Héritage de Waidwen, il faut effectivement qu'un certain changement s'opère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ça ressemble bigrement à Thaos et Woedica, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Des êtres surpuissants qui pensent pouvoir décider à notre place. Sans se soucier du prix que nous payons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"J'espère seulement qu'il est meilleur que moi pour y réfléchir à fond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je commence à croire que nous serions mieux sans les dieux. Au moins, en cas de problème, nous saurions que nous en sommes responsables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Parlez-moi de Bearn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"En tout cas, ce n'est pas ce à quoi je m'attendais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Nous l'avons sorti de là. C'est le principal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je ne crois pas qu'il y ait grand chose à dire."
+
+De lourdes cernes sous les yeux d'Edér laissent à penser qu'il n'a pas dormi depuis plusieurs jours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je pensais que je m'entendrais bien avec lui. Soit parce qu'il ressemblait à sa mère, soit parce qu'il ressemblait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Mais c'était comme si on l'avait dépouillé de sa personnalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ce n'est pas sa faute. Il est tout seul. Et sa mère avait une incroyable présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Elle avait tellement confiance en elle qu'elle aurait pu convaincre le chef de la secte de la suivre.
+
+"C'est difficile de remplacer quelqu'un comme elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Mais il est tout seul là-bas, et c'est ce qui l'a mis dans le pétrin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"J'espère que, cette fois-ci, ce sera différent. J'espère qu'il tissera des liens, qu'il trouvera une occupation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mais je m'inquiète."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Il était seul. On l'a convaincu de croire à quelque chose qui lui paraissait séduisant. Nous n'avons pas réussi à lui faire entendre raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Encore une autre âme arrachée par Éothas, que ce soit volontaire ou non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Le fait qu'il ait choisi la mort, et que nous la lui ayons refusée, n'arrange pas les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Que pensez-vous du Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"L'atmosphère est différente. Surtout par rapport à Val-Doré, où on s'occupe davantage de bétail que de manier la pelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les bruits sont différents aussi. On se réveille au son de tous ces oiseaux. On dirait vraiment qu'ils jouent de la musique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Quand il vous regardait, on avait l'impression qu'il regardait quelqu'un situé très loin derrière vous."
+
+Edér secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Quand les oiseaux vous réveillaient à Val-Doré, il s'agissait généralement de couples de corneilles poussant d'horribles cri d'accouplement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Le plus étrange, c'est que j'ai toujours au fond de moi cette nostalgie du pays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Qu'est-ce qui se passe entre vous et Aloth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Edér reste bouche bée pendant que son regard s'attarde sur les voûtes scintillantes et les tours à moitié effondrées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"La vie simple vous manque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Difficile de se languir de ce dont on se souvient à peine.
+
+"Tout ce que je sais, c'est que ma vie a pris un grand virage quand ce monde est venu piétiner le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Au moins, Éothas semble vouloir corriger cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"C'est vrai. Je suppose qu'il a ce petit côté sympathique par rapport aux autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Leurs problèmes sont des problèmes de kiths. Deux civilisations, aussi différentes soient-elles, en sont venues à la même conclusion : il faut agir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"C'est la raison de notre présence ici. Nous allons affronter ce problème. Quoi qu'il arrive, nous sauverons des vies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Cet endroit est plus beau qu'Ombre ensoleillée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"D'une certaine manière, ça l'était... avant la fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Val-Doré doit son nom à la couleur des champs de blé sous le soleil.
+
+"Mais cet endroit. Cet endroit est vraiment doré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ça pourrait presque être un monde différent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ouais. On dirait qu'ils n'avaient pas la même vision des choses.
+
+"J'aimerais dire que je préfère ici. Mais en vérité, je ne me sens proche d'aucun des deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"La fin... et pourtant nous sommes quand même ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ces « grands peuples » n'ont pas leur pareil pour mourir.
+
+"Ils disparaissent de ce monde tout en laissant leurs problèmes derrière eux, pour que nous nous en occupions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous savez, j'ai aussi cassé une roue, un jour.  C'est la première chose à laquelle j'ai pensée quand nous avons appris ce que préparait Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Quel gâchis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je jouais avec, comme n'importe quel gosse le ferait si ses parents n'étaient pas là, et la roue m'est restée entre les mains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Impossible de la remettre en place. Du coup j'ai poussé de toutes mes forces... et j'ai cassé un rayon.
+
+"J'en ai cassé trois autres en essayant de réparer ma bêtise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Au final, j'ai pris quelques bons coups de cravache. Et la roue ne s'en est jamais remise, même après les réparations de mon père."
+
+Edér passe deux doigts dans sa barbe, qui aurait besoin d'un brin d'attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Autrefois, je voyais les dieux comme des sortes de parents dont nous étions tous les enfants.
+
+"Depuis, je me suis ravisé. Ce sont eux, les enfants qui jouent quand leurs parents ont le dos tourné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Et voilà où nous en sommes, avec Éothas qui tente de tout foutre en l'air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Edér pousse un grognement dédaigneux. "Le dieu de la rédemption tente de sauver les dieux."
+
+Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Je pense que c'est la meilleure chose qu'on puisse tirer de cette situation. Au moins, à mon niveau. 
+
+"Je peux faire quelque chose d'autre de ma vie que creuser et porter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je me suis même fait un ami ou deux."
+
+Il ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Même si je devais le faire avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Le monde entier se prépare à relever son plus grand défi. Ce qu'Éothas prépare changera l'intégralité de la donne.
+
+"Nous n'allons peut-être pas y survivre. Et par nous, je veux dire les kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ma mère avait un rouet qu'elle adorait."
+
+Edér se mord la lèvre inférieure, sa culpabilité encore visible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Qu'est-ce que vous vouliez dire au sujet de Xoti ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_mid_ukaizo_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Je vais lui dire d'inspirer les animanciens]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Je vais lui demander de révéler le secret des ruines engwithanes des Huanas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Je vais lui demander de fusionner avec Berath]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Je vais lui demander de transformer son corps d'adra en au-delà et de laisser les kiths se débrouiller seuls]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Je vais lui demander de mettre un terme à toute vie sur Eora]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Je ne sais pas encore/J'y réfléchis toujours]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Je m'en fiche/Je ne lui dirai rien du tout]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>La machine contrôlant les tempêtes faiblit en intensité... le fatras de la machinerie se mue en ronronnement sourd, puis cesse en hoquetant.
+
+Au-delà de la tour, un simple coup de vent suffit à éloigner les nuages noirs et tourbillonnants du Mortier d'Ondra de la cité antique d'Ukaizo.
+
+Et cette dernière brise vous porte un son familier : le tintement d'une cloche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Le carillonnement est doux, différent du vacarme métallique et du tapage auquel vous étiez habitué. Il appelle votre âme, et votre âme n'aspire qu'à le suivre.
+
+Votre âme s'échappe de votre corps et s'engouffre dans l'Au-delà à la poursuite de ce son.
+
+Vous arrivez finalement au royaume de Berath, à cette plateforme froide et à cette pièce aux portes innombrables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Gardien, vous arrivez à la fin de votre voyage." La Chevaleresse blême se tient devant vous, son visage émacié impassible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Enfin. Je serai bientôt libéré de tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Qu'adviendra-t-il après tout ceci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Faisons vite, j'ai rendez-vous avec une statue vivante et je ne veux pas être en retard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Libre de votre dette envers moi, peut-être", fait remarquer la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Cela dépendra de la volonté des kiths, dont les désirs sont toujours changeants", déclare la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Vous foncez tête baissée vers la fin. Vous est-il arrivé de vous arrêter pour vous demander &lt;i&gt;où&lt;/i&gt; vous vous rendez ?" demande la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Toujours aussi muet. Je ne sais si c'est la peur ou la foi qui lie votre langue, mais rares sont ceux qui, une fois devant leurs dieux, ne trouvent rien à dire.
+
+"Très bien. Je ne vous retiendrai pas longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Si Éothas compte vraiment aller jusqu'au bout de son plan insensé visant à détruire la Roue... L'équivalent d'une génération d'âmes se retrouvera coincé dans les Limbes. Tant d'êtres souffriraient. Comment Éothas peut-il être aussi cruel ? Il ne peut pas simplement les &lt;i&gt;abandonner&lt;/i&gt;", s'indigne Hylea.
+
+"Éothas doit aider les kiths à trouver une solution rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Abydon s'avance d'un pas vif. "C'est Éothas qui a infligé cette crise aux kiths. Ils n'en sont pas responsables. Leur seule erreur aura été de croire que &lt;i&gt;nous&lt;/i&gt; veillerions sur eux. À présent, qui les aidera à rebâtir leur monde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Éothas va révéler tous les secrets des dieux. Les kiths seront-ils en mesure de changer l'ordre établi s'ils ne sont plus inspirés par l'émerveillement ? Éothas doit les aider à résoudre cette situation au plus vite, sans quoi les quelques mystères d'Eora qui demeurent seront étalés au grand jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Éothas est dans l'obligation de nous aider à réparer ce qu'il s'apprête à briser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Éothas devrait-il vraiment laisser les kiths décider seuls de cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"À ce stade, nous ne pouvons nous contenter d'une «aide». Nous devons être dirigés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Les enfants choyés n'apprennent que ce qu'on leur met sous le nez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Vous avez des doutes. C'est une bonne chose... vous devriez vous méfier de toute «aide» qu'Éothas pourrait vous proposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Vous avez enfin retrouvé vos esprits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Une fois la Roue détruite, les kiths vont s'entre-déchirer. Il est du devoir des dieux d'empêcher cette catastrophe, afin d'éviter qu'ils ne nous condamnent tous.
+
+"Et les dieux, comme les kiths, doivent être gouvernés. Si Éothas est si pressé de se défaire de son pouvoir et de se retirer, je reprendrai ma place légitime en tant que reine des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Les kiths ne résoudront pas seuls l'énigme d'Éothas. Et sans ordre établi contre lequel s'insurger, les liens qui les unissent se dissolvent et ils se battent entre eux", lance Skaen, son regard s'attardant longuement sur Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Les kiths sont plus forts lorsque nous leur montrons la voie, et nous-mêmes sommes plus forts lorsque nous guidons.
+
+"Unis dans un commun objectif avec les dieux, les kiths peuvent accomplir des choses que, sans nous, ils sont incapables de concevoir. Il faut leur montrer leurs limites pour qu'ils les dépassent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Nous avons démontré à quel point nous nous débrouillons mal lorsque nous sommes livrés à nous-mêmes. Vous avez peut-être raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Comment pouvons-nous vous faire confiance pour nous guider après tout ceci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Non. Nous devons trouver la solution nous-mêmes, en avançant à notre propre rythme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Vous sous-estimez votre espèce, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Vous ne pouvez pas nous faire confiance, et vous n'auriez jamais dû. Seuls les kiths peuvent se sauver eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"C'est cette confiance qui sauvera les kiths, Gardien. Ne la perdez pas quand vous vous retrouverez face à Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Notre intervention dans votre lutte serait cruelle, et desservirait nos desseins", affirme Galawain. Il laisse ses paroles résonner un moment, vous fixant du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"La « main ferme » de Woedica n'est qu'une autre manière de désigner l'étouffement maternel d'Hylea. Les mortels ne devraient pas avoir de privilèges spéciaux. Les kiths ne connaîtront vraiment leur mesure que quand ils se seront améliorés par le biais des épreuves", déclare Galawain.
+
+"Les kiths doivent souffrir pour trouver leur force s'ils veulent survivre au monde vers lequel Éothas les entraîne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Éothas n'agirait pas ainsi s'il n'était pas d'accord avec vous. Peut-être que nous ne sommes pas condamnés après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Vous nous abandonneriez ? Comme ça, au moment où nous avons le plus besoin de vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ne vous fichez pas de moi. Nos chefs n'ont pas été capables de travailler de concert alors même qu'Éothas menace de détruire la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Et pourtant vous êtes venu à Ukaizo avec les Príncipis pour seuls alliés. Alors même que tous les kiths sont au bord de la perdition, vos meneurs n'ont pas été capables de s'entendre, se disputant prestige et ressources", lance Ryrmrgand.
+
+"Vous pensez que cela changera quand viendra l'heure de ma mort finale ? Vous êtes plus idiot que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Vous pensiez que ce ne serait pas le cas ? Nous qui avons façonné des générations de kiths, les modelant à notre gré, puis nous en débarrassant comme des déchets quand ils ne nous convenaient plus ?
+
+"Vous êtes bien plus idiot que je ne l'aurais cru."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Vous comprenez enfin", lance Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Les kiths ont eu leur chance. Le moment est venu pour le silence de régner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Vous avez créé la Roue. Il est de votre devoir de nous aider à la réparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Tout ce qui est arrivé, tout ce qui &lt;i&gt;va&lt;/i&gt; arriver... est de la faute des dieux. Nous nous débrouillerons mieux sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Le véritable changement, le changement &lt;i&gt;durable&lt;/i&gt;, requiert des sacrifices. Les jours à venir s'annoncent difficiles, mais ils nous rendront plus forts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Les choses sont bien comme elles sont. Si nous ne pouvons pas empêcher Éothas de détruire la Roue, nous n'avons qu'à la reconstruire telle qu'elle était."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Je m'en fiche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Je ne sais pas. Les dieux, la Roue... Je n'ai plus la moindre certitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Les dieux ont fait ce qu'ils ont pu... c'est à nous de jouer à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Je vous suggère uniquement de garder les yeux grand ouverts tandis que vous vous avancez dans cet avenir, Gardien. Le fardeau de la responsabilité est bien lourd, même pour les solides épaules des kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>La Chevaleresse blême hausse un de ses sourcils noirs. "Je n'ai pas fait apparaître la Roue telle que vous la connaissez à présent en un clin d'œil. Elle a été construite petit à petit, avec grand soin, par les kiths. Il s'agit tout autant de votre Roue que de la mienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Les dieux étaient des kiths autrefois... des milliers de kiths dans des temps révolus, mais des kiths tout de même. Si, comme vous le sous-entendez, nous sommes viciés au plus profond de nous, alors vous l'êtes aussi", rétorque la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Veillez à ne pas tout sacrifier, Gardien. Seulement ce qui doit l'être. Toutes les choses que vous risquez de perdre ; vos vies, vos institutions, vos croyances, pourraient être perdues à jamais", prévient la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Les choses familières peut s'avérer rassurantes, certes, mais je vous recommanderais d'éviter de vous y complaire. L'occasion d'opérer un changement à cette échelle ne se représentera pas... pas de votre vivant, ni lors de milliers de vies à venir", explique la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Votre vie n'est pas la seule en jeu. Que ça vous plaise ou non, quand vous ferez face à Éothas, vous serez le porte-parole de tous les kiths. Essayez de vous sentir un peu concerné... si ce n'est pour vous, faites-le au moins pour eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Vous avez encore du temps pour réfléchir... mais peut-être pas autant que vous le souhaiteriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"L'heure est à présent venue de nous de nous dire au revoir, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Je vous avais chargé d'une tâche difficile, et vous vous en êtes bien acquitté. Vous en serez libre en temps et en heure, mais pas maintenant... il vous reste encore du travail à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Je suis terrifié, Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Je vous jugerais idiot si tel n'était pas le cas. Le changement déconcerte, et les dieux eux-mêmes sont sujets à la peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"J'ai foi en la capacité des kiths à relever le défi d'Éothas.
+
+"Ne méprenez pas mes paroles pour de l'indifférence, Gardien... je dis cela car je crois fermement en votre potentiel, et non pas parce que j'en doute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Magran est aveuglée par l'affection qu'elle a pour les mortels. Elle ne voit pas que l'entropie est la destinée de toute chose.
+
+"Si Éothas était sage, il détruirait tout. Il mettrait un terme à la vie, à la réincarnation et à la &lt;i&gt;mort&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Elle claque ses mains gantelées, et c'est comme un coup de tonnerre qui résonne dans la pièce. Alors que le sol s'effrite sous vos pieds, vous entendez le tintement d'une cloche et, derrière ce tintement, un léger murmure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Bientôt vous affronterez Éothas, sans doute pour la dernière fois, et vous le ferez en tant que héraut de Berath, la seule créature foulant Eora qu'il daignera écouter.
+
+"Ne l'oubliez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>La Chevaleresse blême incline la tête à votre attention, sa chevelure noire et terne tombant sur son visage. Elle effectue un pas de recul et laisse la place à Hylea avec un petit soupir résigné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Tandis que les paroles de Rymrgand s'estompent, la Chevaleresse blême réapparaît. Elle ne se dresse plus au-dessus de vous, telle une géante même parmi les dieux, mais vient à votre rencontre sous une forme dont la taille est égale à la vôtre. Elle laisse retomber les bras qu'elle croisait.
+
+Elle s'adresse à vous avec franchise et simplicité, une expression proche de la tendresse sur le visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"N'oubliez pas que vous êtes le seul à pouvoir faire changer Éothas d'avis. Quand vous serez face à lui...
+
+"Choisissez vos mots avec soin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>[Choisir une autre réponse]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[Revenir aux autres réponses]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Il vous reste encore du temps pour exprimer votre volonté, mais pas beaucoup. Vous serez bientôt devant Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Et pourtant vous êtes venu à Ukaizo avec les Rauatais pour seuls alliés. Alors même que tous les kiths sont au bord de la perdition, vos meneurs n'ont pas été capables de s'entendre, se disputant prestige et ressources", lance Ryrmrgand.
+
+"Vous pensez que cela changera quand viendra l'heure de ma mort finale ? Vous êtes plus idiot que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Et pourtant vous êtes venu à Ukaizo avec les Vailiens pour seuls alliés. Alors même que tous les kiths sont au bord de la perdition, vos meneurs n'ont pas été capables de s'entendre, se disputant prestige et ressources", lance Ryrmrgand.
+
+"Vous pensez que cela changera quand viendra l'heure de ma mort finale ? Vous êtes plus idiot que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Et pourtant vous êtes venu à Ukaizo avec les Huanas pour seuls alliés. Alors même que tous les kiths sont au bord de la perdition, vos meneurs n'ont pas été capables de s'entendre, se disputant prestige et ressources", lance Ryrmrgand.
+
+"Vous pensez que cela changera quand viendra l'heure de ma mort finale ? Vous êtes plus idiot que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Et pourtant vous êtes venu à Ukaizo seul, sans aucun allié. Alors même que tous les kiths sont au bord de la perdition, vos meneurs n'ont pas été capables de s'entendre, se disputant prestige et ressources", lance Ryrmrgand.
+
+"Vous pensez que cela changera quand viendra l'heure de ma mort finale ? Vous êtes plus idiot que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Vous êtes accoutumé aux choix difficiles. Vous avez tué Thaos, et alors que son âme gisait, vulnérable, devant vous, vous avez décidé de la renvoyer dans la Roue.
+
+"Vous avez fait de ses souvenirs sa pénitence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Vous êtes accoutumé aux choix difficiles. Vous avez tué Thaos, et alors que son âme gisait, vulnérable, devant vous, vous avez décidé de la détruire.
+
+"Vous lui avez accordé la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Vous êtes accoutumé aux choix difficiles. Vous avez tué Thaos, et alors que son âme gisait, vulnérable, devant vous, vous avez décidé de la bannir à Breith Eaman.
+
+"Vous lui avez donné la sentence que vous estimiez qu'il méritait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Vous êtes accoutumé aux choix difficiles. Vous avez tué Thaos, et alors que son âme gisait, vulnérable, devant vous, vous avez décidé de détruire ses souvenirs.
+
+"Vous l'avez libéré de son passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Rappelez-vous la force qu'il vous a fallu pour faire ce choix, et n'oubliez pas que vous êtes le seul à pouvoir faire changer d'avis Éothas. Quand vous serez face à lui...
+
+"Choisissez vos mots avec soin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Abydon s'avance d'un pas vif. "C'est Éothas qui a infligé cette crise aux kiths. Ils n'en sont pas responsables. Leur seule erreur aura été de croire que &lt;i&gt;nous&lt;/i&gt; veillerions sur eux. À présent, qui les aidera à rebâtir leur monde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Je vous ai imposé une tâche difficile, et je sais que vous souhaitez en être libéré. Vous le serez en temps et en heure, mais pas maintenant... il vous reste encore du travail à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Je vous ai imposé une tâche difficile. Vous en serez libre en temps et en heure, mais pas maintenant... il vous reste encore du travail à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"En effet. Les kiths doivent découvrir par eux-mêmes leur valeur, et ce dont ils sont capables. Tout ce que nous faisons pour eux, ils ne l'apprennent pas par eux-mêmes", ajoute Magran.
+
+"L'adversité nourrit l'ingéniosité. Si le travail que nous avons accompli au fil des générations n'a pas été en vain, les kiths triompheront malgré les agissements d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Libre de vos obligations envers moi, peut-être. Mais vous n'êtes pas engagé qu'auprès de moi", réplique la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Libre de vos obligations envers moi, peut-être. Mais vous n'êtes pas engagé qu'auprès de moi. Vous avez noué de nombreux liens depuis notre première rencontre", fait remarquer la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Une fois la Roue détruite, les kiths vont s'entre-déchirer. Il est du devoir des dieux d'empêcher cette catastrophe, afin d'éviter qu'ils ne nous condamnent tous.
+
+"Et les dieux, comme les kiths, doivent être gouvernés. Si Éothas est si pressé de se défaire de son pouvoir et de se retirer, je reprendrai ma place légitime en tant que reine des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"La « main ferme » de Woedica n'est qu'une autre manière de désigner l'étouffement maternel d'Hylea. Les mortels ne devraient pas avoir de privilèges spéciaux. Les kiths ne connaîtront vraiment leur mesure que quand ils se seront améliorés par le biais des épreuves", déclare Galawain.
+
+"Les kiths doivent souffrir pour trouver leur force s'ils veulent survivre au monde vers lequel Éothas les entraîne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Magran est aveuglée par l'affection qu'elle a pour les mortels. Elle ne voit pas que l'entropie est la destinée de toute chose.
+
+"Si Éothas était sage, il détruirait tout. Il mettrait un terme à la vie, à la réincarnation et à la &lt;i&gt;mort&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

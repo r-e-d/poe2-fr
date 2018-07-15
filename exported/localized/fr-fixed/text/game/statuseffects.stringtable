@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>527</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Frisson à une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{0:value} en Précision à distance. Augmente avec la compétence Arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir pendant {0:extravalue:duration} une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir pendant {0:extravalue:duration} une cible touchée si le porteur est nain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>{0:value:percent} de chances de lancer un cône de dégâts givrants en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{0:value:percent} de chances de paralyser la cible dans une couche de glace pendant {0:extravalue:duration} en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gagnez {0:value:straight} en Concentration toutes les 6 secondes si vous êtes à 4 m ou plus de l'allié le plus proche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Toucher avec un sort accorde {0:value:percent} de chances de charmer la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://ed93377c-66b3-4817-898c-833ff562ba70"&gt;Forme de la bête sans défense&lt;/link&gt; sur une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{0:value:percent} de chances d'utiliser Écrasement en contre-attaque quand vous êtes manqué au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Inflige Frisson à un kith ou un sauvage en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Inflige des dégâts bruts et attaque plus rapidement qu'une lame ordinaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action pendant {0:extravalue:duration} pour la cible en cas de coup porté (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{0:value:percent} de chances de contaminer une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Les coups appliquent {0:value:straight} en Valeur d'armure cumulable à la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Les dégâts, la Précision et la Pénétration des armes augmentent avec le niveau du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action (Augmente avec la compétence Métaphysique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Disparaît après {0:extravalue:straight} coups subis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>{0:extravalue:percentbonus} dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>L'intégralité du bonus Fouet de l'âme ne s'applique qu'aux cibles vulnérables aux attaques furtives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger à la cible une malédiction cumulable augmentant les dégâts subis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts des bâtons (Augmente avec la compétence Métaphysique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>{0:value:percent} de chances pour le porteur de subir {0:extravalue:straight} de dégâts brûlants lorsqu'il attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>{0:value} en Pénétration en attaquant la même cible qu'un allié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Des dégâts sont également infligés aux ennemis à proximité lorsqu'une cible Proche de la mort est touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Infliger des coups critiques accorde {0:triggervalue} en Précision et {0:extravalue:percent} en Vitesse d'action (cumulable {0:value:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Enragez, ce qui accorde de l'Agilité et de la Ténacité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Accorde les bonus suivants si une cible est tuée avec l'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Lance &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;Lames spectrales&lt;/link&gt; si un ennemi est tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Soigne temporairement la Faim spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Projette plusieurs projectiles aux dégâts légèrement diminués</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps si un bouclier est utilisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>{0:value} en Déviation si un bouclier est utilisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>{0:value} en Déviation contre les attaques sans perforation du Voile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts givrants durant {0:extravalue:duration} quand vous touchez (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Les attaques de base infligent des dégâts lacérants ou perforants (les plus élevés, selon la situation) dans une petite ZdE.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts corrosifs durant {0:extravalue:duration} quand vous touchez (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps contre les cibles engagées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Chance d'effrayer une cible kith touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Lance Peau de bois si le porteur est d'abord Ensanglanté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{0:value} aux niveaux de pouvoir des capacités de feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Les attaques furtives infligent à la cible un saignement en dégâts bruts jusqu'à la fin du combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>5 en dégâts bruts de saignement toutes les 3,0 s pendant 9,0 s lorsqu'un coup critique est infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Les dégâts subis causés par une arme sont réduits au fur et à mesure que de la Santé est perdue. (Jusqu'à un max. de {0:value:percentbonus} de réduction des dégâts)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Précision : {0:extravalue} (Bonus en vigueur : {0:value})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0:triggercount} dégâts bruts toutes les {0:value:duration} pendant {0:extravalue:duration} aux cibles touchées prises à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0:value:percent} de chances de renverser la cible et de réduire ses défenses de {0:triggercount} durant {0:extravalue:duration} en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>{0:triggercount} de dégâts corrosifs infligés toutes les {0:value:duration} pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Améliorer une invocation restitue 3 phrases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0:value:percent} de chances d'annuler la prochaine récupération si le coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0:value:percent} de temps de récupération avec une arme de corps à corps si le coup touche Effet cumulable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Chance d'étourdir et de renverser une cible touchée par un coup critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{0:value:percent} de chances de renverser une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts (Augmente avec la compétence Survie)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts sur la durée si le coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>{0:value:percent} aux dégâts infligés aux cibles prises à revers. Les dégâts augmentent avec la compétence Furtivité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Chance de distraire une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Immunité aux gueules de bois dues à l'alcool, si l'objet est porté pendant que l'on boit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{0:value} à la Déviation de la cible en cas de coup critique pendant {0:triggervalue:duration} (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts au corps à corps (augmente avec la compétence Survie)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Réduit la durée des effets bénéfiques et hostiles si le coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>{0:value:percent} de chances de distraire la cible pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Touche deux fois, mais les dégâts de chaque coup sont réduits (Soleil ajoute {0:value:percent} de dégâts brûlants) (Lune ajoute {0:value:percent} de dégâts givrants)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Les attaques de base infligent des dégâts bruts mineurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>{0:extravalue:percent} de chances de lancer un sort d'illusion aléatoire sur une cible touchée en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>{0:value:percent} de chances de devenir invisible pendant 8,0 sec en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Projette deux tirs avant de recharger, mais la portée est réduite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>{0:value:percent} aux dégâts infligés et reçus si une cible est tuée, et ce jusqu'au repos suivant (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>{0:value} en Volonté pour la cible pendant {0:extravalue:duration} en cas de coup porté (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Dégâts de base réduits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Attaque dotée de perforation du Voile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Le porteur subit sous la forme de dégâts bruts {0:value:percent} des dégâts qu'il inflige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Le porteur subit sous la forme de dégâts corrosifs {0:value:percent} des dégâts qu'il inflige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>{0:value:percent} de chances d'utiliser Lance nécrotique sur une cible touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>{0:value:percent} de chances, lors d'une attaque, d'infliger des dégâts perforants à soi-même ou à un allié à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Chance d'infliger Entrave, Renversement, des dégâts bruts sur 12,0 sec ou -25 % en Vitesse d'action à une cible touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>{0:value:percentbonus} à la ZdE des capacités de Restauration et d'Inspiration. Le bonus augmente avec la compétence Religion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de la faucille jusqu'à la fin du combat si un ennemi est tué (cumulable {0:triggercount} fois) (augmente avec la compétence Religion)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>{0:value}en Déviation. Augmente avec la compétence Intimidation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>{0:extravalue:percentbonus} aux dégâts reçus (augmente à mesure que la Santé du porteur diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir un attaquant pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0:value:percentbonus} en vitesse d'action au corps à corps (augmente avec chaque cible engagée)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Lorsque la Santé est au dessus de {0:triggervalue:percent}, {0:extravalue:percent} de chances pour que les attaques subies à l'arme à distance infligent {0:value:percent} de dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Les attaques effectuées en état de furtivité assomment la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0:value} en Précision pour les attaques armées effectuées en étant furtif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts des attaques armées effectuées en étant furtif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>La capacité est déverrouillée quand le porteur est touché par une attaque électrique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une attaque infligeant des dégâts électriques à la cible en cas de coup critique avec une arme de corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>{0:value:percent} aux chances de renvoyer les attaques électriques reçues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Les dégâts électriques reçus accordent aux attaques du porteur des dégâts électriques supplémentaires pendant un bref laps de temps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Immunité aux gueules de bois et aux pénalités infligées par la consommation d'alcool</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>{0:extravalue} à toutes les défenses si engagé (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>{0:value:percent} chances de convertir les coups portés en coups critiques et {0:extravalue:percent} aux dégâts des coups critiques avec Dagues, Rapières, Sabres, Stylets et Épées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts des coups critiques et</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>{0:value:percent} de chances de renverser les cibles touchées par un coup critique au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Tous les dégâts infligés par les attaques à l'acide ou au poison ont {0:extravalue:percent} de chances d'être convertis en {0:value:percent} de Santé pour le porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>5 % de chances de détruire instantanément une bête ou un kith touché et dont la Santé est inférieure à 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>{0:extravalue:percent} de chances de convertir en Santé {0:value:percent} des dégâts infligés par les attaques liées au mot-clé « Feu »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Ne subissez que {0:value:percent} des dégâts quand vous êtes pris à revers ou victime d'afflictions corporelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>{0:extravalue:percent} de chances de convertir en Santé {0:value:percent} des dégâts infligés par les attaques liées au mot-clé « Eau »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Active une capacité en devenant Ensanglanté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action avec Dagues, Rapières et Stylets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Confère une capacité lorsqu'on devient Proche de la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Zone de dégâts électriques en cas de perte de connaissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>{0:value} aux niveaux de pouvoir de toutes les capacités liées au mot-clé « Poison »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Les attaques à l'arme au corps à corps effectuées en état furtif infligent des dégâts bruts sur la durée à la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une zone de dégâts contondants qui interrompt quand un coup critique est subi au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Représailles en dégâts bruts quand un coup critique est subi au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Convertissez en Santé {0:value:percent} des dégâts brûlants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>{0:value:percent} de chances d'Interruption en lançant un sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Inflige {0:extravalue:percent} des dégâts de l'arme toutes les {0:interval}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>{0:value:percent} de chances d'accorder au porteur et aux alliés à proximité &lt;link="gamedata://92842e97-8224-43ad-aa73-926328040a2a"&gt;Peau de bois&lt;/link&gt; quand le porteur subit un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://e7d863cd-cb26-4f61-8776-28c4d6f67e04"&gt;Jet bouillant&lt;/link&gt; sur un ennemi quand le porteur subit un coup critique au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>{0:value:percent} des dégâts {0:damagetype} sous la forme de dégâts bruts sur la durée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>{0:value:percentbonus} d'allure (augmente avec la compétence Survie)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Bonus à la Précision et à la Vitesse d'action quand un coup critique est subi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Octroie de la Valeur d'armure contre les attaques givrantes. La valeur augmente à mesure que le porteur perd en Santé (jusqu'à un max. de {0:value} en VA)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>{0:value} en Précision et {0:extravalue:percentbonus} aux dégâts infligés aux cibles prises à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>La capacité est conférée quand le porteur est Proche de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Invoque une potion aléatoire dans un emplacement rapide vide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>{0:value} à toutes les défenses à l'exception de la Déviation (augmente avec la compétence Histoire)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>{0:value:percent} de chances d'annuler la prochaine récupération du porteur s'il subit un coup critique au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Si immobile, les coups portés à l'arme au corps à corps confèrent un bonus cumulable de {0:value:percent} en Vitesse d'action au corps à corps (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Si immobile, chaque coup porté subi à l'arme au corps à corps accorde un bonus de {0:value:percent} aux dégâts de corps à corps (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>La capacité est déclenchée quand le porteur est Proche de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>La capacité est déclenchée quand le porteur devient Ensanglanté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>La capacité est déclenchée quand la Santé du porteur chute à {0:value:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Bonus de Vitesse d'action cumulable de {0:extravalue:percent} pour chaque Phrase d'incantateur maintenue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Immunité aux effets Poussée et Attraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Quand le porteur est Ensanglanté ou Proche de la mort, il est immunisé contre les dégâts corrosifs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;Lance nécrotique&lt;/link&gt; à la cible en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Le porteur subit sous la forme de dégâts bruts {0:value:percent} des dégâts qu'il inflige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>La capacité est déclenchée quand le porteur devient Ensanglanté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>{0:extravalue} en Valeur d'armure contre les dégâts brûlants. La valeur augmente à mesure que la Santé du porteur diminue (max {0:value} VA})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>{0:Value:PercentBonus} aux dégâts armés. Le bonus augmente à mesure que la Santé du porteur diminue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>{0:extravalue:percent} de malus à la Récupération d'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Invoque au début du combat une potion aléatoire dans un emplacement rapide vide La potion disparaît à la fin du combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Quand un effet hostile expire, les dégâts à l'arme sont brièvement augmentés de {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action et en dégâts pour l'attaquant pendant {0:extravalue:duration} quand le porteur est touché au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>La cible est repoussée en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Chance de renverser la cible en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Les effets persistants de Percegerbe provoquent des vomissements ponctuels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Chance d'arrêter et de faire vomir une cible touchée par un coup critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Le porteur n'a plus besoin de vomir régulièrement quand il est sous l'effet de l'alcool</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Chance d'infliger Frisson à une cible touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Chance d'infliger Frisson à une cible touchée par un coup critique et aux ennemis proches</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action pour la cible touchée durant {0:extravalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>{0:value} en Déviation pour la cible touchée durant {0:extravalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Le porteur gagne {0:value} en Santé quand il inflige un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Inflige {0:value} dégâts électriques à la cible en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>{0:value:percentbonus} de chances de coup critique cumulables en cas de coup porté (cumulable {0:extravalue} fois et réinitialisé lors d'un coup critique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Affliction aléatoire infligée à la cible touchée par un coup critique durant {0:value:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir la cible et les ennemis proches en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Inflige des dégâts lacérants ou contondants (le meilleur, selon la situation)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>{0:value:percent} de chances de projeter une vague d'eau infligeant des dégâts contondants à une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://1bdb4d61-9c7f-4324-b287-62a4ba329f93"&gt;Lumières éblouissantes d'Arkemyr&lt;/link&gt; sur une cible touchée avec cette arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>{0:triggervalue} en Précision et {0:extravalue:percentbonus} de dégâts supplémentaires à l'arme lorsque la Santé de l'utilisateur est en-dessous de 50 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>{0:value:percent} de chances d'effectuer une contre-attaque contondante/lacérante quand vous êtes manqué au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Inflige Effroi à un kith ou un sauvage touché par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>{0:value:percent} de chances d'interrompre et de renverser la cible en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>{0:value:percent} de chances d'interrompre en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer immédiatement quand un coup critique est subi au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Renverse la cible en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger une affliction physique aléatoire pendant {0:extravalue:duration} sur la cible en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>{0:value:percent} de chances d'intoxiquer la cible pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Recevez l'inspiration Vigueur pendant {0:value:duration} quand un allié tombe inconscient</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>{0:value} de Santé toutes les {0:interval} quand la Santé est inférieure à {0:extravalue:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Les touches appliquent -0,25 en Valeur d'armure cumulable sur la cible. Réduction maximum : -3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Les touches appliquent -0,5 en Valeur d'armure cumulable sur la cible. Réduction maximum : -4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Les touches quand la Santé est supérieure à 50 % infligent -5 % en Vitesse d'action à la cible. Cumulable 5 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>{0:value:percent} de réduction de dégâts pendant {0:triggervalue:duration} en cas de coup porté subi (cumulable {0:extravalue:straight} fois) (augmente avec la compétence Métaphysique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Lance une ZdE de dégâts bruts en cas de {0:value:straight} coups portés d'affilée infligés à la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Les coups critiques de Lame fervente ont un chance de guérir le porteur ou la cible (ou les deux)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>{0:value:percent} de chances d'annuler la prochaine récupération si le coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir une cible qui vous manque au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Lance &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;Lames spectrales&lt;/link&gt; si un ennemi est tué, et restaure une quantité de Santé basée sur la quantité de dégâts infligés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Si un ennemi est tué : +2 en Puissance. Convertit 25 % des coups portés en coups critiques contre les cibles dont la Santé est inférieure à 25 %. +15 % en Vitesse d'action pendant 45,0 s. Les effets se cumulent. Supprime la Faim spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Si un ennemi est tué : +6 en Puissance. Convertit 35 % des coups portés en coups critiques contre les cibles dont la Santé est inférieure à 50 %. +30 % en Vitesse d'action pendant 45,0 s. Les effets se cumulent. Supprime la Faim spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Si un ennemi est tué : +3 en Puissance. Convertit 25 % des coups portés en coups critiques contre les cibles dont la Santé est inférieure à 50 %. +20 % en Vitesse d'action pendant 45,0 s. Les effets se cumulent. Supprime la Faim spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Faim spirituelle : -2 en Constitution. 30 % des coups critiques sont convertis en touches normales. -10 en Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Faim spirituelle dévorante : -4 en Constitution. 50 % des coups critiques sont convertis en touches normales. -15 en Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Faim spirituelle rassasiée : -1 en Constitution. 20 % des coups critiques sont convertis en touches normales. -5 en Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>ZdE givrante/lacérante à un emplacement ciblé en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Quand Tranchant givré est cumulé {0:value:straight} fois, la cible est paralysée pendant {0:extravalue:duration} en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Gagnez +3 % de dégâts givrants quand vous touchez. Cumulable 20 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Invoque un Diablotin des tombes quand le réceptacle meurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Lance Brouillard givrant quand le réceptacle meurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Invoque un Diablotin infernal quand l'esprit meurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Lance Brouillard toxique quand l'esprit meurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Gagnez +3 % de dégâts corrosifs quand vous touchez. Cumulable 20 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Quand Lame entachée est cumulée {0:triggercount} fois, la cible touchée par un coup critique est intoxiquée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>{0:value:percent} en Vitesse d'action pendant {0:extravalue:duration} à la cible en cas de coup critique (cumulable {0:triggervalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps pour chaque cible engagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>{0:extravalue} en Précision au corps à corps pour chaque cible engagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>{0:extravalue:percent} en Vitesse d'action pour chaque cible engagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps pour chaque cible engagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>{0:value} à toutes les défenses sauf Déviation des alliés à proximité pendant {0:extravalue:duration} si un ennemi est tué avec Briseclé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>En cas de défaite : lance Peau de bois sur les alliés proches</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Les ennemis à proximité subissent des dégâts brûlants si des ennemis sont tués avec Faveur de &lt;xg&gt;Magran&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>{0:triggercount} dégâts brûlants sont infligés toutes les {0:extravalue:duration} pendant {0:value:duration} à une cible ayant subi un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>{0:value:percent} des dégâts brûlants infligés avec la Faveur de &lt;xg&gt;Magran&lt;/xg&gt; restaurent la Santé du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Si des ennemis sont tués avec Faveur de &lt;xg&gt;Magran&lt;/xg&gt;, {0:value:percent} des dégâts sont infligés en tant que dégâts brûlants et {0:extravalue:percent} à la Vitesse d'action (cumulable {0:triggervalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Pénétration : {0:Value}  Augmente avec la compétence Survie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Cône de Désorientation orienté vers une cible touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts contre les éléments destructibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de Coup de carillon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Détruire un élément destructible accorde Coups fracassants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Dégâts bruts modérés sur la durée aux cibles prises à revers si elle sont touchées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>{0:value:percent} en Vitesse d'action contre une cible prise à revers en cas de coup porté (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts aux cibles affectées par Profil bas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer immédiatement lorsqu'une attaque à l'arme de corps à corps lancée contre l'utilisateur rate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>{0:triggercount} de dégâts bruts de saignement infligés toutes les {0:value:duration} pendant {0:extravalue:duration} à la cible en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>{0:triggercount} de dégâts corrosifs infligés toutes les {0:value:duration} pendant {0:triggervalue:duration} en cas de coup porté ({0:extravalue:percent} de chances de tuer d'un coup une cible proche à chaque application de dégâts)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>{0:triggercount} de dégâts corrosifs infligés toutes les {0:value:duration} pendant {0:triggervalue:duration} en cas de coup porté ({0:extravalue:percent} de chances de paralyser la cible à chaque application de dégâts)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases d'incantateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Améliorer une invocation recharge au maximum le compteur de Phrases de l'Incantateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases d'incantateur et confère {0:extravalue:percent} de chances de restituer un Point d'amélioration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>{0:extravalue:percent} des dégâts en dégâts électriques pour chaque Phrase d'incantateur maintenue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer instantanément quand un coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>{0:value} en Précision avec les armes à distance pendant {0:extravalue:duration} en cas de coup de porté (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>{0:value} en Précision avec toutes les armes pendant {0:extravalue:duration} en cas de coup porté (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>{0:value} en Précision avec les armes à distance. Effet cumulable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer instantanément quand un coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>{0:value:percent} de chances d'ignorer la Récupération pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>{0:value:percentbonus} de Temps de récupération avec les armes de corps à corps pendant {0:extravalue:duration} en cas de coup porté avec cette arme. Effet cumulable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>{0:value:percentbonus} de Temps de récupération pendant {0:extravalue:duration} en cas de coup porté avec cette arme. Effet cumulable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>-25 % de Temps de récupération avec les armes de corps à corps pendant 30,0 sec quand un coup touche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Renvoyez à l'attaquant 20 % des dégâts des attaques de feu sous la forme de dégâts brûlants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>50 % de chances d'aveugler l'attaquant pendant 10,0 sec quand une attaque Regard manque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>{0:extravalue:percent} de chances d'étourdir la cible pendant {0:value:duration} et de la renverser en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Les capacités armées améliorées infligent Blessure à la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>{0:value} en Santé max jusqu'à la fin du combat quand un ennemi est tué avec une arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>{0:value:percent} de chances d'étourdir et de renverser une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>{0:value:percent} de chances d'immobiliser une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;Missiles mineurs de Minoletta&lt;/link&gt; sur la cible en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Prise à revers impossible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer immédiatement en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>{0:Value:PercentBonus} aux dégâts. Augmente avec la compétence Survie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Restaurez {0:value} de Santé aux alliés à proximité quand un ennemi est tué (augmente avec la compétence Religion)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>{0:value:percent} de chances d'entraver une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts bruts sur la durée en cas de coup porté avec cette arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer immédiatement en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts infligés aux cibles prises à revers (augmente avec la compétence Furtivité)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>{0:value:percent} de chances de rendre la cible confuse pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Si la cible est distraite, elle est renversée en accusant un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>{0:value:percent} des dégâts brûlants par arme restaurent la Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Les dégâts givrants d'arme réduisent la Santé max. de la cible de {0:extravalue:percent} des dégâts infligés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>{0:value:percent} de chances qu'un tir soit scindé et produise {0:extravalue:straight} projectiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Modifie les Munitions imprégnées avec {0:value:percent} de chances d'ajouter des dégâts brûlants sur la durée en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Modifie les Munitions imprégnées avec {0:value:percent} de chances de pétrifier la cible en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Modifie les Munitions imprégnées avec {0:value:percent} de chances de renverser et d'interrompre la cible en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>{0:value:percent} de chances de recharger instantanément pendant un bref laps de temps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une affliction aléatoire sur la cible en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Repoussez une cible touchée sur 4 m</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Détruisez un réceptacle de niveau inférieur après deux touches consécutives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>+3 % aux dégâts infligés et reçus si une cible est tuée. Dure jusqu'au repos. Cumulable 20 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>{0:value:percent} aux dégâts infligés si un ennemi est tué, jusqu'au repos suivant (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Si la cible est sous l'effet de l'affliction touchant la Détermination, {0:value:percent} de chances de l'interrompre en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Si la cible est sous l'effet d'une affliction touchant la Détermination, {0:triggercount} dégâts bruts sont infligés toutes les {0:extravalue:duration} pendant {0:value:duration} en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Dégâts de saignement bruts sur 12,0 sec sur une cible touchée par un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>{0:value:percent} de chances d'interrompre les cibles en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>La cible touchée par un coup critique est paralysée durant {0:value:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>{0:value} en Précision si la cible est équipée d'un Bouclier, d'une Armure moyenne ou d'une Armure lourde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>{0:value:percent} de chances de récupérer immédiatement en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps contre les plantes et les cibles dotées d'un effet d'état Plante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>{0:value} à toutes les défenses contre les attaques dotées de l'affliction Dextérité tant que la Santé est supérieure à 75 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>{0:value} à toutes les défenses contre les attaques Poison tant que la Santé est supérieure à 75 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>{0:value:percent} de chances de détruire instantanément un Primordial de niveau inférieur en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Restaurez {0:value} de Santé si un ennemi est tué avec une arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Intoxication de la cible pendant 12,0 s en cas de coup critique. Opposé par Robustesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>{0:value:percent} de chances d'effectuer une attaque de zone aqueuse infligeant des dégâts contondants à une cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>{0:value:percent} de chances d'invoquer un Chien de guerre quand un coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>+10 % aux dégâts au corps à corps et +5 en Déviation quand engagé. Cumulable 3 fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>{0:value:percentbonus} aux soins prodigués. Augmente avec la compétence Religion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>{0:value:percent} aux chances de résister aux sorts reçus. Augmente avec la compétence Religion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Dégâts bruts sur 18,0 sec sur une cible touchée dont la Santé est inférieure à 25 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action durant {0:extravalue:duration} quand un cadavre ennemi est à proximité (augmente avec la compétence Religion)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Attaques standard à ZdE qui frappe une cible principale et jusqu'à {0:extravalue} à proximité, amies ou ennemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts au corps à corps reçus pendant {0:extravalue:duration} après avoir attaqué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Pendant {0:value:duration} après avoir attaqué, vous renvoyez {0:extravalue:percent} des dégâts subis au corps à corps à l'attaquant sous forme de dégâts bruts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Contre-attaquez les attaquants au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action quand un coup est subi au corps à corps(cumulable {0:triggercount} fois, perdu en cas de déplacement)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Inspiration de Puissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Inspiration de Perception</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Inspiration d'Intelligence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>{0:extravalue:percent} de chances de convertir {0:value:percent} des dégâts des attaques de Poison, Décomposition ou Maladie en Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>{0:value:percent} de chances de riposter avec une attaque lacérante en cas d'attaque lacérante subie au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>{0:extravalue} en Volonté. Augmente à mesure que la Santé diminue (jusqu'à un max. de {0:value} de Volonté)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Subissez une attaque Veines brûlantes toutes les {0:interval}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger une affliction aléatoire pendant {0:extravalue:duration} à un ennemi quand un coup critique est subi au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Zone de dégâts bruts uniquement sur les cibles hostiles en passant Inconscient</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Accorde {0:value} en Déviation et {0:extravalue} en Réflexes jusqu'à la fin du combat (cumulable {0:triggervalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>+1 en Valeur d'armure si Aloth est Positif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>+3 en Valeur d'armure si Aloth est Très positif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Supprime Discorde familiale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts subis d'attaques de désengagement et de prise à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>{0:value:percent} de chances d'ignorer une attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>{0:value} en Déviation contre les armes à distance (augmente avec la compétence Furtivité)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Convertissez {0:value:percent} des coups avec une arme à distance en coups critiques durant {0:extravalue:duration} après avoir esquivé une attaque d'arme à distance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>{0:value} en Déviation quand pris à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>{0:extravalue} à toutes les défenses (diminue à mesure que la Santé du porteur diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>{0:value} en Santé toutes les {0:triggervalue:duration} pendant {0:extravalue:duration} quand un coup critique est subi (la Guérison augmente à mesure que la Santé du porteur diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>+3 en Précision. Augmente à mesure que la Santé du porteur diminue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>La Valeur d'armure augmente à mesure que la Santé du porteur diminue (jusqu'à un max. de {0:extravalue} en Valeur d'armure)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Les dégâts d'armes de corps à corps augmentent à mesure que la Santé du porteur diminue (jusqu'à un max. de {0:extravalue:percent} de dégâts)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts de corps à corps subis quand vous êtes pris à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Les attaques à une main gagnent {0:value:straight} en dégâts {0:damagetype} toutes les {0:interval} pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Les attaques à deux mains infligent Stupéfaction pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Les attaques à distance gagnent {0:value} en Pénétration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Les attaques à deux mains infligent Étourdissement pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Les attaques à distance gagnent {0:value} en Pénétration et {0:extravalue:percentbonus} de bonus aux dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>{0:value} de Santé toutes les {0:interval} si la Santé est inférieure à {0:extravalue:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>{0:value} à tous les niveaux de pouvoir des capacités Plante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>{0:value:percentbonus} à la durée des afflictions que vous infligez</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés sont de nouveau infligés toutes les {0:interval} pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Reste endormi tant qu'une attaque n'est pas subie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés sont subis sous la forme de dégâts bruts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Chance d'ajouter un effet « Déferlante incontrôlée » aléatoire quand un sort de Clairvoyant est lancé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Concentration complète</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Perdez toute votre Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Les dégâts des armes augmentent avec le niveau du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>La valeur de Pénétration des armes augmente avec le niveau du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>En cas de coup reçu, la Santé du porteur est restaurée et la cible subit des dégâts bruts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>{0:value:percent} des dégâts reçus restituent de la Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Jusqu'à la fin du combat, +10 % des dégâts sont ajoutés en dégâts corrosifs lors d'un coup critique Cumulable 10 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Appliquez « Perturbation de sort » quand un coup touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Les coups critiques infligent des dégâts aux ennemis proches</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>{0:value:percentbonus} aux Seuil de plaies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>{0:value} à la limite max de plaies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Affliction niveau 1 (cible), Inspiration niveau 1 (soi)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>{0:value} en Précision au corps à corps toutes les {0:interval} jusqu'à la fin du combat (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>{0:value} en Volonté jusqu'à la fin du combat en cas de coup critique subi (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>{0:value} en Constitution en cas de coup critique porté (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Attaque en cône</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>{0:value:percentbonus} au Temps de récupération (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>{0:value} en Déviation contre les armes de corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Contre-attaque effectuée contre l'ennemi en cas d'échec au corps à corps (inflige Étourdissement à la cible)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Attaques plus lentes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Les dégâts provoquent une interruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Accorde des jets de sort supplémentaires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Immunité à la Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>{0:value} ennemis nécessaires pour être pris à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts contre les cibles vulnérables aux attaques furtives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Transfert quand un ennemi est tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>{0:value} en Précision contre les cibles marquées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>{0:value:percent} des dégâts de base de l'arme sont infligés en zone quand l'arme touche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Augmente de {0} % les dégâts infligés par le groupe avec des Pistolets, Arquebuses et Tromblons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Persistance des phrases désactivée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>{0:value:percentbonus} à la durée des afflictions et des inspirations lors des attaques améliorées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} en Puissance par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:bonuspercentbonus} à tous les dégâts subis par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>{0:value} à toutes les défenses contre les attaques de Plantes tant que la santé est supérieure à {0:extravalue:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>{0:value} à toutes les défenses contre les attaques de Plantes tant que la santé est supérieure à {0:extravalue:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>{0:value:percent} de chances d'assommer la cible pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>{0:value:percent} de chances d'assommer la cible pendant {0:extravalue:duration} en cas de coup porté si le porteur est nain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger une affliction mentale aléatoire pendant {0:extravalue:duration} à la cible en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Les attaques portées avec cette arme sont Très bruyantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>{0:value:percent} des dégâts subis sont de nouveau appliqués sous la forme de dégâts bruts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>{0:value:percent} de chances d'accident</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>{0:value} Niveau de pouvoir (nécrophage uniquement)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>{0:value} Niveau de pouvoir pour les capacités d'Eau et de Givre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Inflige des dégâts lacérants et perforants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Couronne de l'âme confère les inspirations Force et Sagacité pendant {0:value:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une attaque de zone aux dégâts brûlants sur un coup porté par Marux Amanth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>{0:extravalue:percentbonus} de dégâts d'arme par ennemi engagé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>{0:value:percent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Les coups critiques désactiveront les capacités actives pendant 5 secondes sur les ennemis de niveau inférieur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Les coups critiques peuvent infliger les afflictions Entrave ou Intoxication pendant {0:extravalue:duration}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Sur cible inconsciente, lance une ZdE octroyant aux alliés l'inspiration Fermeté pendant {0:extravalue:duration} et infligeant Attaque maximum aux ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Immunité aux afflictions touchant la Détermination en dessous de {0:extravalue:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:percentbonus} de dégâts subis par cible engagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:percentbonus} de récupération par cible menacée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Vaincre un ennemi avec un coup critique provoquera une attaque de zone aux dégâts brûlants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une petite attaque de zone aux dégâts brûlants sur un coup normal ou critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>{0:value:percent} de chances d'annuler la prochaine récupération si le coup touche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Compte comme une arme secondaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>{0:value:percent} de chances de vomir toutes les {0:extravalue:duration} lorsque vous avez la gueule de bois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>{0:value} sur tous les niveaux de pouvoir lors d'une gueule de bois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Octroie de la Déviation à mesure que la Santé diminue, jusqu'à un maximum de {0:value} à 0 % de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Incapable de bouger en dessous de 25 % de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Octroie l'inspiration Sagacité sur soi et l'affliction Confusion sur un ennemi pendant {0:value:duration} lors du premier engagement d'un combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Octroie {0:extravalue} d'armure et {0:value} de Santé toutes les {0:interval} en dessous de 25 % de Santé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Engager un ennemi pour la première fois au combat provoquera une interruption.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Octroie l'inspiration Sagacité pendant {0:value:duration} lorsqu'engagé pour la première fois au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>{0:value} de Valeur d'armure pour Aloth si la relation est négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>{0:value} de Valeur d'armure pour Aloth si la relation est très négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>{0:value} de Valeur d'armure pour Edér si la relation est négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>{0:value} de Valeur d'armure pour Edér si la relation est négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>{0:value:percent} de dégâts subis convertis en guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Octroie les effets de la feuille blanche après un repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Au début du combat, octroie l'un des statuts suivants jusqu'à son terme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Toute attaque de feu critique subie provoquera une interruption ainsi qu'un malus de Volonté de {0:value} durant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Alloue {0:value} à un attribut et une capacité selon la classe de l'utilisateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Tuer un kith à l'épée entraînera l'apparition d'une ombre pendant {0:extravalue:duration}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>{0:extravalue:percentbonus} de coups convertis en coups critiques par Malice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>{0:extravalue:percentbonus} de dégâts sur coup critique par Malice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés octroient de la guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>{0:value:percent} de chances qu'un coup critique au corps à corps déclenche instantanément une nouvelle attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} en Précision par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>{0:value:percent} des dégâts subis sont infligés aux assaillants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:percentbonus} d'ampleur de la zone d'effet par Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} d'armure par {0:interval} en restant immobile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} de Constitution par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} d'Intelligence par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>(Bonus actuel : {0:value:bonuspercentbonus}) {0:extravalue:percentbonus} de dégâts de type {0:damagetype} par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>(Bonus actuel : {0:value}) {0:extravalue} d'armure par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Invocation d'arme : Fléaux mineurs de Kalakoth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>{0:value:percent} de chances d'interruption en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés octroient de la Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Applique l'une desdites inspirations aléatoirement la première fois que vous subissez une affliction au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Les kiths de niveau inférieur mourront sur un coup critique porté par cette arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Subir des coups critiques lors d'attaques au corps à corps a {0:value:percent} de chances d'infliger Confusion aux attaquants (peut être amélioré en Charme en cas de coup critique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>{0:value:percent} de chances qu'un coup à l'arme consume la Concentration de la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Les attaques du Sceptre Briseclé peuvent rebondir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>{0:value:percentbonus} de Vitesse d'action (augmente à mesure que la Santé diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>{0:value:percent} de chances d'effectuer une attaque de zone conique aux dégâts corrosifs depuis sa position et d'infliger Entrave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Soigne {0:value:percent} des dégâts infligés par une arme par {0:extravalue:duration} durant un court moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Les ennemis à proximité subiront Distraction après qu'un ennemi a été vaincu avec cette arme pendant {0:value:duration}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>{0:value:percent} de chances d'activer Foudre à chaque coup réussi avec cette arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>En cas de coup porté, applique un effet d'accumulation à l'ennemi.  En cas de coup critique, tous les ennemis dans une zone d'effet perdront leur cumuls et se verront infliger {0:extravalue} de dégâts électriques pour chacun de ces cumuls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>{0:value:percent} de chances d'assommer un attaquant pendant 8 secondes en subissant un coup critique avec une arme au corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>{0:value} secondes de durée pour l'effet Supplice des 1 000 morceaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Inflige Désorientation aux ennemis dans la zone d'effet pendant {0:extravalue:duration}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>+{0:value:percent} des dégâts infligés seront brûlants si au-dessus de {0:extravalue:percent} de Santé et +{0:value:percent} seront givrants si en dessous de {0:extravalue:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>{0:value} de Valeur d'armure si la relation est négative, {0:extravalue} de Valeur d'armure si la relation est très négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>{0:value} de Valeur d'armure si la relation est positive, {0:extravalue} de Valeur d'armure si la relation est très positive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>{0:value} pour toutes les défenses (sauf Déviation) si la relation est positive, {0:extravalue} pour toutes les défenses (sauf Déviation) si la relation est très positive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts si la relation est négative, {0:extravalue:percentbonus} de dégâts si la relation est très négative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Modwyr souhaiterait vous parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Confère aléatoirement {0:value} d'Armure, {0:value} de bonus de Pénétration, ou {0:extravalue:percentbonus} de temps de récupération pendant un bref laps de temps lorsqu'un ennemi est engagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>{0:value} de Déviation durant 45 secondes sur la cible après un coup porté. Cumulable 5 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>{0:value:percentbonus} de temps de récupération sur la cible après un coup porté. Cumulable 5 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>{0:value:percentbonus} en Vitesse d'action jusqu'à la fin du combat après un coup porté (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Lance un sort aléatoire de tempête une fois par combat lorsqu'en dessous de {0:value:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Réservé au Gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>{0:value:percent} de chances de restaurer 20 points de Santé à l'ennemi en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>{0:value:percent} de chances de recouvrer 30 points de Santé en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>{0:value} en Déviation (augmente avec la compétence Athlétisme)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>{0:value} à toutes les défenses (augmente avec la compétence Métaphysique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts subis par les sorts (augmente avec la compétence Métaphysique)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts subis par tout type d'attaque. Le bonus augmente avec la compétence Métaphysique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts subis à l'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>{0:value} de Valeur d'armure. L'armure est perdue en subissant un coup, mais se régénère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>{0:value:percent} des coups portés sont convertis en éraflures si aucun allié n'est à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>{0:extravalue:percent} de chances de résister aux dégâts lacérants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>{0:extravalue:percent} de chances de résister aux dégâts contondants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>{0:extravalue:percent} de chances de résister aux dégâts perforants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Effroi pendant {0:extravalue:duration} en cas de coup porté (éraflures mises à part)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Terreur pendant {0:extravalue:duration} en cas de coup porté (éraflures mises à part)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Faire le mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>{0:value:percentbonus} de temps de récupération sur l'attaquant (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>La capacité s'active à l'état Proche de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Réduit le malus de récupération pour armure (varie selon le type d'armure)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts pour la première attaque portée au combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>{0:value} de Précision pour la première attaque portée au combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Les kiths de niveau inférieur peuvent subir l'affliction Terreur au début du combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Détruit si rendu inconscient</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>Octroie l'un ou l'autre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>par {0:interval:duration} si en dessous de {0:extravalue:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>{0:value:percent} de chances de recevoir &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frénésie&lt;/link&gt; en cas de coup critique porté sur une cible féminine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>{0:value:percent} de chances de recevoir &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frénésie&lt;/link&gt; en cas de coup critique porté sur une cible masculine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>{0:value} de Déviation contre les prises à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Résistance aux afflictions touchant la Constitution si au-dessus de {0:extravalue:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Immunité aux afflictions touchant la Constitution si au-dessus de {0:value:percent} de Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>{0:value:percent} de chances d'assommer la cible pendant {0:extravalue:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>{0:value:percent} de chances d'assommer la cible pendant {0:extravalue:duration} en cas de coup porté si le porteur est nain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>{0:value} de Santé (augmente avec la compétence Diplomatie)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Attaque en ligne droite (3 cibles maximum)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Probabilidad del {0:value:percent} de conseguir en forma {0:extravalue:duration} en uno mismo al realizar un impacto con éxito</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>{0:value} d'engagement quand {0:triggercount} ennemis sont à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Immunité à l'engagement si au moins {0:value} alliés sont à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Les gueules de bois n'entraînent plus de vomissements et la nourriture avariée n'intoxique plus le porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Octroie de la Valeur d'armure contre les attaques électriques. La valeur augmente à mesure que le porteur perd en Santé (jusqu'à un max. de {0:value} en VA)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Octroie de la Valeur d'armure contre les attaques d'eau. La valeur augmente à mesure que le porteur perd en Santé (jusqu'à un max. de {0:value} en VA)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>{0:value} en Puissance pour les invocations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>{0:value} en Pénétration pour les invocations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts avec les armes à feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>{0:value:percent} de chances d'interrompre une cible avec les attaques à l'arquebuse, au mortier portatif et au pistolet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>{0:value:percent} de chances d'interrompre une cible avec les attaques au tromblon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>{0:value:percent} de chances de gagner de la Concentration pendant {0:extravalue:duration} en subissant un coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>{0:value:duration} de temps de chargement lors d'un changement de grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>{0:value:percentbonus} de durée des afflictions hostiles touchant la Dextérité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>{0:value} de Robustesse en restant immobile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>{0:value} à tous les niveaux de pouvoir avec le mot-clé Feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>{0:value} de Précision à l'arme après avoir esquivé une attaque au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>{0:extravalue:percentbonus} de dégâts infligés à l'arme (augmente à mesure que la Santé du porteur diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>{0:value} de Déviation à proximité d'alliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>{0:value:percentbonus} de temps de récupération avec les armes de corps à corps à deux mains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Supprime toutes les blessures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Âmes rendues à la Roue ({0:value:straight}/{0:triggercount})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>{0:value:percent} de Résistance aux sorts hostiles et alliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Supprime Lame corrodée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Les coups critiques d'armes ont {0:value:percent} de chances de déclencher une nouvelle frappe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>20 % de chances d'infliger des dégâts brûlants supplémentaires en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>20 % de chances d'infliger des dégâts de zone brûlants supplémentaires en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>N'est plus Fragile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>+2 à toutes les compétences jusqu'au prochain repos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>{0:extravalue} en Déviation par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>{0:extravalue} en Réflexes par plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>{0:value:percent} de gagner {0:extravalue:straight} plaie(s) lorsque des dégâts à l'arme de corps à corps sont subis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>{0:value:percent} de chances de riposter instantanément si une attaque au corps à corps contre l'utilisateur rate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>{0:value:percent} de chances d'interruption en cas de coup critique au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Applique le poison à la prochaine attaque à l'arme. Cet effet disparaît en cas de changement d'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Zone de dégâts brûlants toutes les {0:interval}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>{0:value:percent} de chances d'obtenir {0:extravalue} en Discipline quand un coup critique est subi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>La tempête perdure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>{0:value:percent} de chances d'obtenir {0:extravalue} Rage(s) si un ennemi est tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés avec cette arme restaurent la santé du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>{0:value:percent} de chances de gagner {0:extravalue} phrases en cas de coup critique porté à l'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

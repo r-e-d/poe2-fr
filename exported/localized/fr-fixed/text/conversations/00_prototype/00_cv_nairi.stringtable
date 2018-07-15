@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_nairi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>216</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cette femme a beau être jeune, sa gravité lui donne l'air d'être bien plus âgée. Son nez et ses oreilles sont percés en plusieurs endroits, et ses traits portent une expression renfrognée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les vents d'Amira sont chargés d'amertume aujourd'hui, étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"D'autres étrangers ? Vos maîtres seraient-ils désespérés au point de vous envoyer piller un village affamé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je pense que nous sommes partis du mauvais pied. [Player Name], capitaine du [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'ai averti les Vailiens au sujet de Poko Kohara, mais pourquoi écouter la fille huana arriérée ?
+
+"Aujourd'hui, je suis toujours là. Eux ont disparu - emportés par la malédiction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ils sont morts. J'ai trouvé leurs corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Votre malédiction les a tous tués. J'ai trouvé l'idole parmi leurs affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les Vailiens figurent parmi les meilleurs navigateurs au monde. Ils ne se perdent pas comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quelle malédiction ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"De sombres nuages entourent Poko Kohara, et dans mes rêves ils nous engloutissent tous."
+
+Elle contemple la statue près d'elle, le regard intense et brillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>C'est un bon discours, qui ressemble à une leçon apprise par cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Croyez-vous vraiment tout cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Si l'île est maudite, qui a survécu pour le rapporter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si nous racontons ces récits, ce n'est pas parce qu'ils se sont produits exactement de cette façon. Mais pour leur signification."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Et si d'autres Vailiens arrivent ?
+
+"Ekera, la même chose que ce qui est arrivé à tous les autres étrangers !" Elle déroule un bras longiligne dans les airs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Notre ranga donne trop facilement sa confiance à cause de sa peur. Il pense que les marchands Vailiens nous protègeront s'ils s'installent ici pour exploiter Poko Kohara."
+
+Elle ferme les yeux et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ruānu semble convaincu que Tikawara attirera beaucoup de commerce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Qu'arrivera-t-il, selon vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Un repaire où les marchands étrangers viennent se vautrer aux bains publics tandis que les Huanas se nourrissent de déchets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Si vous vous rendez à Poko Kohara, le mieux pour la tribu serait de la détruire." Son sourcil forme un arc pointu, dans l'attente de votre réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vous êtes réputé pour être l'ami des Huanas. Si vous ne vous êtes pas attiré nos faveurs juste pour profiter de nous, alors prouvez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"D'autres tribus ont des versions différentes : que vous êtes ami ou ennemi selon ce qui sert vos intérêts.
+
+"Voici l'occasion de prouver votre loyauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Démolir une colonne d'adra ? J'aime relever des défis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Désolé, mais je ne vais pas détruire un portail vers l'Au-delà juste parce que cela vous arrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'espère bien. Et nous n'avons pas parlé de ça, ekera ?" Elle hoche la tête, mais ses yeux restent plissés de circonspection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Elle pousse un grognement. "Alors, ne vous mettez pas sur mon chemin !" Repartez d'où vous venez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je veux vous demander quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Les dieux livrent des réponses. Mon devoir est de les écouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vous n'avez pas l'air de beaucoup apprécier l'autorité de Ruānu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Cela signerait notre fin." Son regard brûlant contraste avec sa peau claire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Qui est Anahāru ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je dois le respecter, même s'il construit un village pour nos ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Avez-vous essayé de le raisonner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"L'acier est plus convaincant que la parole. Soumettez-le aux deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous devez faire quelque chose. Vous avez un aussi un devoir envers votre tribu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ekera, c'est vrai. Et c'était aussi le cas d'Ana-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Elle s'interrompt, baissant le regard et fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"C'est le nom d'un paria. Oubliez que je l'ai prononcé." Ses paroles sont distantes, comme si elles les avait maintes fois répétées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Mais c'est un paria. Nous n'avons pas le droit de parler de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"« Paria ». Qu'est-ce que cela veut dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Elle grimace. "Cela veut dire que la tribu doit l'oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Le ranga a partagé ses possessions entre les autres Matarus, et nous ne parlons plus de lui." Elle déglutit, le regard toujours au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Dites-m'en plus sur l'Épreuve des vagues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Anahāru était le prêtre de la tribu avant moi. Et c'était mon père... avant qu'il ne défie Ruānu à une Épreuve des vagues." 
+
+Elle soupire et se saisit du pendentif, le serrant fortement dans son poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"En cas de litige insoluble entre chefs, nous nous tournons vers Ngati."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Deux candidats affrontent de violents courants, des créatures des abysses et des vagues qui menacent de les projeter contre les rochers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Le vainqueur - s'il y en a un - a la faveur de Ngati. Le perdant, mort ou vif, est oublié par Ngati et la tribu."
+
+Elle baisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Pourquoi Anahāru a-t-il défié Ruānu à une Épreuve des vagues ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Mon père savait que les marchands sont aussi dangereux que les pirates et les esclavagistes. Peut-être plus, car Neketaka leur est profitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Sa bouche dessine un trait rectiligne. Son regard se perd au loin l'espace d'un instant. Dénué de vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Et quand vint l'expédition, il supplia Ruānu de les obliger à repartir et de déplacer la tribu vers une autre île."
+
+Les bosses de ses articulations pâlissent à mesure qu'elle serre le pendentif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Ses yeux scintillent. "Seuls les barbares étrangers tuent leurs chefs. Nous avons notre manière, mais ce n'est pas celle-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Le dernier à avoir défié notre ranga était Ana-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Je sais." Elle ferme les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Anahāru. Je dois apprendre à cesser de prononcer son nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ainsi, les vagues amènent la fortune aussi bien que les débris." Elle hoche la tête respectueusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Lui donner les pages de Beza] "Vous aviez raison de vous méfier des Vailiens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Elle prend les pages et les étudie.
+
+Son doigt parcourt le texte. Elle lit lentement, mais ses yeux s'écarquillent sous le choc de la compréhension.
+
+Et de l'horreur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Et le ranga veut nous vendre à ces serpents de mer." Elle presse ses mains le long de sa jupe tombante pour s'empêcher de trembler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Merci pour l'avertissement. Mais pourquoi m'avoir rapporté cela ?" Elle vous observe avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je me suis fait de nombreux amis au sein des tribus huana. Je les aide quand j'en ai l'occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"C'était la chose qu'il convenait de faire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Disons simplement que nous avons des intérêts communs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"J'espérais une récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Alors, prenez ça en compensation." Ses traits se durcissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Et le ranga nous a vendus à ces serpents de mer." Elle presse ses mains le long de sa jupe tombante pour s'empêcher de trembler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Alors, je me réjouis que nous ayons le même dessein." Son sourire disparaît aussi vite qu'elle l'esquisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Je l'ai entendu, et je me méfiais de vos motivations." Elle presse fermement ses lèvres l'une contre l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Alors, je vous remercie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Peut-être est-il trop tard pour arrêter les Vailiens, mais je ferai mon possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Si quelqu'un parle encore d'alliance, alors je lui montrerai ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Si le ranga continue de plaider en faveur de cette alliance, je veillerai alors à ce que notre peuple en connaisse le prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Êtes-vous la prêtresse de cette tribu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Elle acquiesce, caressant du doigt le pendentif en forme de croissant qu'elle porte au cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Les étrangers l'appellent Ondra. Pour nous, ça ne fait pas de différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Son dos se raidit et ses bras s'immobilisent à ses côtés.
+
+Elle se tourne lentement vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Vous êtes allé à Poko Kohara. Repartez-y et détruisez-la. C'est ce qu'il y a de mieux pour la tribu." Elle hausse un sourcil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je les ai prévenus de ne pas y aller. J'ai averti Ruānu de ne pas les aider." 
+
+Ses doigts se crispent autour du croissant en corail érodé qu'elle porte au cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Vous avez tué les explorateurs vailiens. J'ai trouvé cette idole maudite parmi leurs affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je les ai prévenus de ne pas y aller. J'ai averti Ruānu de ne pas les aider." 
+
+Ses doigts se crispent autour du croissant en corail érodé qu'elle porte au cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Des navires étrangers ont pillé nos anciens villages et enlevé des membres de notre tribu. Ruānu nous a promis que nous serions en sécurité ici."
+
+La ficelle imprime un profond sillon dans son cou tandis qu'elle tire sur le pendentif en forme de croissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Donnez-la-moi. S'il vous plaît. Je veillerai alors à ce qu'elle ne nuise à personne d'autre." Elle tend la main et vous gratifie d'un regard glacial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Lui donner l'idole] "La voici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Nairi croise le regard de l'aumaua le plus proche d'elle. Ses traits pâlissent, mais elle demeure résolue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Je ne veux pas avoir à verser de sang, mais je ferai le nécessaire pour protéger mon peuple.
+
+"L'idole, je vous prie." Elle tend la main un peu plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Je ne vous la donnerai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Attaquer] "Vous devrez me la prendre par la force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Alors, je ne fais que mon devoir." Elle attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Poko Kohara n'était pas pour eux. Avec l'aide de Ngati, la mer prend et donne en toute équité."
+
+Elle porte les doigts à son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ceux qui se rendent à Poko Kohara se font dévorer par Ngati, la friponne des mers."
+
+Sa main cherche le croissant en corail qu'elle porte au cou. Il est rongé par le temps et semble plus ancien qu'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Elle soupire profondément, haussant ses épaules émaciées à la manière des ailes d'un vautour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ils vont nous tuer, nous voler, nous réduire à l'esclavage."
+
+"Et nous serons trop affairés à ériger leurs murs et à balayer leurs quais pour combattre." Elle se mord la lèvre dans un rictus amer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Beaucoup voient en vous la bénédiction de Ngati. Si la friponne a touché votre âme, alors prouvez-le maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Vous avez longtemps vécu dans des terres étrangères, mais vous êtes maintenant chez vous. Votre devoir est envers nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Pourquoi dites-vous ça, pour m'impressionner ? Vous ne valez pas mieux que les derniers qui sont passés par ici." Elle secoue la tête, l'air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Je m'étais trompée sur votre compte. Vous nous avez rendu un grand service, que les autres le sachent ou non." 
+
+Nairi sourit presque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Prenez ceci. C'est peut-être peu comparé à une bourse vailienne bien garnie, mais c'est tout ce que j'ai à offrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Je ne fais peut-être pas partie de votre tribu, mais je reste huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"C'est bon de savoir que vous vous en rappelez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Elle vous cherche du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Nous sommes tous deux des Huanas. Nous devrions nous battre contre les intrus parmi nous, pas l'un contre l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Il est notre ranga - ma propre grande-tante a sondé son âme et en a statué ainsi."
+
+Malgré ces propos, elle hésite, la main serrée en poing à son flanc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Vous vous rappelez certainement qu'il en va ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Alors, les villageois mêlent leur sueur au sable... en construisant un comptoir sur une île stérile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Elle grimace en entendant ce nom. 
+
+L'une de ses mains se tend vers le pendentif de corail en forme de croissant. Elle se force à la rabaisser, la clouant sous son autre bras croisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Nous vénérons les mêmes dieux que les étrangers, mais parfois sous des noms différents. Voici Ngati, la friponne des mers."
+
+Elle désigne la statue en bois. Elle est aussi lisse qu'un vieux morceau de bois flottant, et les parties décolorées au soleil et tâchées par l'eau indiquent de nombreux voyages d'un village à un autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Quelque chose vous semble familier à propos de la statue du sanctuaire. Vous avez déjà vu ce corps arrondi et cette bouche grande ouverte.
+
+Vous réalisez que c'est la réplique quasi-exacte de l'idole que vous avez trouvée à Poko Kohara. Sur le corps du membre d'expédition mort.
+
+Une autre vague de douleur et de confusion vous assaille. Vous ne vous sentez pas bien depuis que vous avez pris l'idole en main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"C'est avec l'encre et le papier de leurs pactes que les étrangers nous assujettissent, aussi bien qu'avec leurs lames, mais ils nous assujettissent malgré tout." Elle se redresse et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Étaient-ce les Rauatais ? Les Vailiens ? Ou un nouvel envahisseur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ainsi, les étrangers envoient des Huanas réduire d'autres Huanas à l'esclavage, maintenant ?" Elle laisse échapper une exclamation de dédain, retroussant la lèvre supérieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Surveillez votre langue si vous comptez la garder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Est-ce qu'elle vous taille si profondément ? Ekera, bien. Je la garde affûtée pour mes ennemis." Elle esquisse un sourire cruel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Je les ai prévenus. C'est la vérité." Son regard est rivé au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Son dos se raidit et ses bras s'immobilisent à ses côtés.
+
+Elle se tourne lentement vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"C'est pourquoi nous bâtissons ce village - et pourquoi il a sacrifié la moitié de nos réserves de nourriture pour eux." 
+
+Elle croise ses bras émaciés et se campe sur ses grands pieds, tout en angles et en détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Comment suis-je censé détruire de l'adra lumineux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Si je le savais, j'irais moi-même !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Tout ce qui a été construit peut sûrement être détruit, ekera ? Et les tempêtes sont la preuve qu'une puissante magie est à l'œuvre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"J'aimerais me reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Des gens sont morts. Je ne vous laisserai pas le dissimuler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"La Compagnie est venue ici à la demande de &lt;i&gt;votre&lt;/i&gt; chef. Vous devriez respecter sa décision."
+
+Pallegina fait la moue face à l'impudence de la jeune femme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Le mouflet en armure d'Amira n'a aucune autorité pour parler ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Nisca merla ! &lt;i&gt;Vous&lt;/i&gt; avez leur mort sur la conscience !"
+
+Sa mâchoire est si serrée que vous entendez ses dents crisser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Nisca merla ! &lt;i&gt;Vous&lt;/i&gt; avez leur mort sur la conscience !"
+
+Sa mâchoire est si serrée que vous entendez ses dents crisser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ces gens n'ont aucun respect pour l'ancienne loi : « qui trouve, garde »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Un plaidoyer sincère, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Combien de fois a-t-elle utilisé cette réplique, d'après vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Di verus ? Je préfèrerais me fier à un enfant armé d'une flotte de vaisseaux de guerre."
+
+Elle exécute un geste dédaigneux de sa main couverte de plumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"D'un côté, elle a l'air d'une humeur massacrante. De l'autre, la loi des mers dit que cela nous appartient, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Oh, Gardien. Elle demande gentiment..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Je ne vous la donnerai pas, Nairi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"C'est bien ce qu'ils feront. C'est ce que la Compagnie a fait à travers les Contrées orientales. Pourquoi pas ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"On sait toujours quand quelqu'un n'a pas fréquenté les bains publics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Tant mieux, si cela signifie une île de moins arborant le drapeau vailien sur la plage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"L'adra est la vie du Feu éteint. Cela ne se fait pas, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Il s'agit toujours de « détruire ». Et jamais de « rénover »".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Détruire une veine du précieux adra lumineux est stupide, infantile et ne profite à personne - certainement pas à la tribu qu'elle espère protéger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Saborder le bateau pour préserver son butin ? C'est pas la première fois que quelqu'un y pense."
+
+Il émet un gloussement et arrache une peluche de la fourrure de son avant-bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Parfois, la fin justifie les moyens." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Encore une fois, c'est absurde. Les notes de Beza n'appartiennent qu'à elle. Ses chimères insensées ne doivent pas déshonorer la Compagnie par extension."
+
+Pallegina plisse les yeux et serre la mâchoire sous le coup de la frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Vous vénérez Gaun, tout comme moi. À Neketaka, du moins. Mais j'avoue ne jamais avoir appelé Ondra « Ngati»."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Personne ne met de chaînes à Tekēhu. Enfin. Sauf Rabyuna." 
+
+Il se frotte le cou et sourit, l'empreinte creuse d'une collier marquée dans la chair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Bouffon sans vergogne !" Elle croise les bras et tape du pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Quand l'adra aura tari, les Vailiens creuseront ailleurs, nous laissant pointer nos pirogues vers des rivages plus cléments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Quoi qu'il en soit, il semble que les jours d'isolement de Tikawara soient comptés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Et qu'est-ce que cela ferait de nous, un autre Neketaka ?" Elle crache et s'essuie promptement la bouche du revers de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Vous voulez parler de la malédiction dévorante de Ngati ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Soumettre une île entière à une malédiction ? Pas une mince affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"La promesse de richesses est une puissante motivation, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Ekera. La déesse ouvre les mâchoires et engloutit ceux qui s'approchent de l'île sans y être invités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Ekera. Rien de bon ne peut nous arriver en nous opposant aux voraces Vailiens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Elle ne resterait peut-être pas stérile bien longtemps si vous laissiez le commerce s'y installer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Vous ne valez pas mieux que notre ranga qui profère des absurdités, ou que la reine Onekaza qui se tourne les pouces." Nairi soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Je ne m'attends pas à ce que vous compreniez à quel point ceci est dangereux, étranger."
+
+Elle ferme résolument les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Dissipez cette magie. Bannissez-la. Faites ce qu'il faut." Elle se frotte les paumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Je doute que mes amis de la compagnie commerciale apprécient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Elle esquisse une grimace en dodelinant de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Partez, alors. Je vous ai assez vu." Elle croise les bras et se détourne de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"S'il faut faire exploser quelque chose, comptez sur moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Je ne suis qu'à la recherche de Poko Kohara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Je ne suis qu'à la recherche d'une expédition vailienne perdue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Heureusement pour vous, le Rauatai se préoccupe davantage de l'expédition que de cette île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ekera, c'est aussi ce qu'a dit le dernier groupe." Elle croise les bras et vous adresse un regard noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Ruānu collabore avec les parasites qui sont allés à Poko Kohara pour mettre la main sur l'adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Hmph. Mieux vaut pour nous tous qu'ils restent perdus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Difficile de piller quand on n'atteint pas les étagères, ma chère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Hmph. Peut-être, mais ceux de votre race m'ont étonnée par le passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Je dois avouer que j'ai toujours eu un faible pour la bonne vieille technique orlane. Faire asseoir l'un de nous sur les épaules d'un autre, puis affubler le tout d'un long manteau boutonné jusqu'au col. C'était un classique sur le Sorcier."
+
+Il rit doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Ekera, et combien de temps cela peut-il durer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Je ne suis venu assujettir personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"En avez-vous terminé avec les accusations sans fondement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Sans fondement ? Ha ! Contrairement à notre ranga, je ne prends pas de grands airs d'oiseau kata pour les étrangers comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Si les Vailiens sont partis, pourquoi êtes-vous de si mauvaise humeur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Ne m'insultez pas avec les histoires de fantômes que vous racontez pour faire fuir les étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Cette fournée d'étrangers ne sera pas la dernière. D'autres suivront. Tels des requins, ils ne sont jamais rassasiés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Plus j'entends parler de ce Poko Kohara, plus ça m'a l'air ravissant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Je comprends votre dilemme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Je devrais peut-être retourner à Poko Kohara pour y jeter un coup d'œil plus minutieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Un large sourire illumine ses traits pour la première fois depuis que vous avez pris la parole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Alors, apprenez à combattre ou à lire les petits caractères. L'un ou l'autre fera l'affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Si notre ranga m'en donnait la possibilité." Elle serre les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Vous voulez peut-être causer des problèmes aux Vailiens, ekera ? Ou simplement renverser quelque chose d'imposant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Ekera, et ça a aveuglé les Vailiens alors qu'ils voguaient vers leur perte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"J'ai entendu dire qu'Anahāru a aussi eu des problèmes avec des étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Quel est le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Elle soupire et vous fait signe d'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"On n'en parle pas. Je... m'excuse." Elle serre les dents en prononçant ces mots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Anahāru s'en va vers sa vie suivante. Mais... oublié, il passe dans une autre tribu." Elle baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Ruānu... il n'a pas écouté. Et Anahāru ne comptait plus parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Une Épreuve des vagues... il a défié le ranga et perdu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Péri. Ngati l'a pris entre ses mâchoires - corps et âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"D'autres proscrivent son nom. Je... Je me couvre de honte devant Ngati, car je ne peux l'oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Il déshonore vos traditions, souille son propre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Ekera, mais la tribu ne compte plus de vaillants Matarus capables de s'opposer à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"&lt;i&gt;Nous&lt;/i&gt; sommes la vie du Feu éteint ! Même si Ngati nous dicte de défendre des rochers verts." Elle se frappe la poitrine et fusille Tekēhu du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Comme s'ils se &lt;i&gt;souciaient&lt;/i&gt; de ce qui nous arrive. Per complanca. Vous êtes jeune, mais pas assez pour être aussi naïve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Nous avons des raisons de respecter les dieux dans le Feu éteint, fille d'Amira." Elle met l'accent sur cette dernière expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Pas sûr que vous et moi partagions la même définition de l'esclavage, donzelle, mais je ne crois pas que vous vous mépreniez sur les détails."
+
+Il se gratte derrière l'oreille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Le pirate ne sait rien de tout ça !" Elle se dresse au-dessus de Serafen et serre les poings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Pardonnez ma franchise, mais je n'ai pas peur de votre déesse. J'ai un dessein divin - et donc la bénédiction de mon dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Comme ces étrangers doivent se sentir rassurés quand ils se mentent à eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Je prie que Ngati savait ce qu'elle faisait quand elle vous a envoyé au monde." Nairi se touche le front et soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Aussi regrettables que fussent ces morts, quel autre choix avait-elle ? Devons-nous la châtier pour avoir tenté d'aider son peuple ?" Il se tourne vers Nairi, perturbé mais touché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Et que ses propres méfaits ne soient pas mis au jour.
+
+"On ne peut pas l'aider à dissimuler cela." Il regarde froidement Nairi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Nous avons vu comment les Vailiens ont pris Port Maje. Imaginez un scénario semblable avec un gouverneur moins... avenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Je ne doute pas de vos intentions, mais n'est-ce pas un peu irréfléchi ? 
+
+"Sans vouloir vous offenser, vous semblez... un peu jeune pour prendre cette décision au nom de toute votre tribu." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Je suis assez âgée pour m'être rendue compte de l'avidité des étrangers, &lt;i&gt;elfe&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Ekera, votre ami comprend la tournure que prennent les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

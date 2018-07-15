@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\re_si_talfor_pirates</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fentre, un moment."</DefaultText>
+      <FemaleText>"Tella, un moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Votre garçon de courses a perdu sa sacoche. Je viens la lui rendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce que ça peut vous faire, à qui je parle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Degnos est l'un de mes associés. Son succès m'est très important, car il influence le mien."
+
+Son haussement d'épaules incarne la nonchalance et l'insouciance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Frapper Talfor]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Cela fait plaisir à entendre. Il est plutôt rare que je me réjouisse de l'intervention d'un étranger."
+
+Talfor s'incline légèrement et vous adresse un sourire en coin à la limite de la plaisanterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'ai lu votre lettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ah, et qu'en avez-vous pensé ? Puerguono, amusez-moi donc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je n'ai aucune intention de faire preuve d'ingérence. Je viens rendre la sacoche de Degnos, et je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pour quelle raison devrais-je vous révéler le fond de ma pensée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[L'ignorer et continuer votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attaquer] "Justice sera faite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Avez-vous eu le plaisir incomparable de rencontrer Avetta ? Degnos n'est pas le premier à abandonner son équipage."
+
+Il joue avec le couteau à sa taille et sourit d'un air grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"La vengeance peut prendre plusieurs formes. Quelle est la vôtre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je ne m'attendais pas à voir des pirates si pleurnichards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je suis sans doute resté trop longtemps avec les Príncipis, pour qui le fair-play a une autre importance que pour les Vailiens."
+
+Un rictus se forme sur son visage, effleurant négligemment du pouce la dague à sa ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je ne cherche pas à me venger d'Avetta, c'est sa marchandise qui m'intéresse."
+
+Il observe ses mains, regardant d'un œil distrait les nombreux anneaux qu'il porte aux doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Faire de moi votre ennemi équivaut à vous jeter aux requins vous-même !"
+
+Il brandit une lame, l'écœurement dénaturant ses traits en une sombre parodie de son sourire habituel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Attaquer] "Des paroles bien téméraires venant d'un pleutre. Lorsqu'Avetta a défendu son vaisseau, vous vous êtes enfui la queue entre les jambes, couinant tel un chien qu'on aurait cravaché !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Attaquer] "Si vous souhaitez tâter de mon fer, je ne vous retiens pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ce n'est pas déjà le cas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ce ne sera pas nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je m'en vais. Si vous voulez me suivre, c'est votre problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Fussé-je quelqu'un de susceptible, je m'offenserais d'un accusation aussi grossière."
+
+Son sourire est tranchant, plein d'ironie. Annonciateur de violence. Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Une offre bien aimable ! Que nous acceptons." Il acquiesce en direction de ses compagnons, qui sourient et murmurent leur accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ah, aimico, les rues de Neketaka sont bien trop dangereuses pour s'y promener sans escorte. J'insiste pour que mes associés et moi-même vous accompagnions à votre destination."</DefaultText>
+      <FemaleText>"Ah, aimica, les rues de Neketaka sont bien trop dangereuses pour s'y promener sans escorte. J'insiste pour que mes associés et moi-même vous accompagnions à votre destination."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hors de mon chemin, ou vous le regretterez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"J'imagine qu'Avetta aura quelques mots bien choisis sur cette affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Il est d'ailleurs triste de savoir que vous ne vivrez pas assez longtemps pour les entendre."
+
+Talfor dégaine son arme, imité par ses compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous ne prendrez pas le meilleur sur moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Talfor vous agrippe le bras au passage. Sa prise est ferme, et est accompagnée d'un grand sourire. Il ne montre aucun signe de découragement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Agh ! Bazzo !" Talfor recule sous le choc en hurlant d'une voix étranglée, la main comprimée contre son œil.
+
+Il dégaine son arme, imité par ses compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ah ah, vous êtes trop lent, aimico ! Ma belnanna frappe mieux que vous !"
+
+Talfor dégaine son arme, imité par ses compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Madiccho ! Quel dommage que nous ne puissions accorder nos violons. Juste quand je pensais que nous pourrions devenir bons amis !"
+
+Talfor dégaine son arme, imité par ses compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Cela m'embête de vous l'imposer, mais je dois m'assurer que Degnos a tout ce dont il a besoin pour son prochain voyage."
+
+Il fait un grand sourire, ses yeux plissés sous l'hilarité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"J'ai lu votre lettre, votre écriture laisse à désirer. J'aurais honte à votre place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je suis outré !"
+
+Ses joues rougissent, puis il se met à rire, en couvrant sa bouche du revers de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vous ai vu vous entretenir avec mon grand aimico, Degnos, je me suis alors dit : « Dis donc Talfor, tu devrais aller lui parler aussi ! »"
+
+Un petit groupe de kiths est déployé autour de lui, tout en armes et armures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Souhaitez-vous une escorte pour vous mener jusqu'à la Jetée de la reine, fentre ? On ne sait jamais sur quels malotrus on peut tomber, et je n'ai nullement envie que quelqu'un vous tienne la jambe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Un grand homme maigre vous barre la route. Le sourire sournois qu'il arbore lui a l'air aussi naturel que de respirer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Perguono, alors partons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Mais qu'avez-vous pensé de son contenu, cuè ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Une petite vengeance ne fera pas de mal, je pense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nous l'épargnerons, du moment qu'elle capitule, bien évidemment. Si c'est le combat qu'elle cherche, comment pourrais-je le lui refuser ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

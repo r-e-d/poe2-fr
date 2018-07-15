@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_principi_boss_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tandis que le Défi quitte Port Maje, vous observez tranquillement des dizaines d'autres navires qui vont et viennent, essentiellement pour la pêche et le commerce. Cependant, un bâtiment se démarque du reste...
+Un imposant boutre, bardé de canons, apparaît par tribord avant. Le pavillon hissé au-dessus de ses voiles indique son intention d'engager des pourparlers. Le boutre fonce toutefois vers vous à vive allure, suggérant qu'il sera sans doute difficile de l'éviter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Faire face au poursuivant]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous tournez la roue du gouvernail vers bâbord. Le bateau vire rapidement de bord, dérangeant une mouette qui se reposait sur le mât de misaine. L'oiseau lâche une fiente blanche sur le pont en signe de désapprobation.
+
+Vous redressez la roue et foncez droit sur le boutre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Tenter de distancer le boutre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous faites signe à l'équipage d'incliner le mât vers l'arrière, puis passez sous le vent du navire pour le forcer à gîter.  Quelqu'un lance un cri de joie alors que le Défi prend de la vitesse.
+
+Malgré votre manœuvre habile, le boutre continue de vous rattraper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Plusieurs hommes lourdement armés franchissent les planches, les yeux rivés sur chaque centimètre de votre bateau. La foule se sépare pour laisser passer son capitaine, un homme grand et bien vêtu. Il vous dévisage, levant un sourcil à la pilosité impeccable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Derrière le capitaine se tient un orlan hirsute, créant un contraste frappant. Deux crosses de pistolets pointent de sa ceinture et il fait nonchalamment tourner une petite mais lourde arme à feu autour de son index. 
+
+Son visage ébouriffé, encadré par de longs cheveux bleu cobalt en bataille et une barbe bleu azur hâtivement tressée, rend presque sinistre le sourire en coin qu'il vous adresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Ne rien faire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>La distance se réduit à vue d'œil et, bientôt, la coque de l'énorme boutre fend les vagues à côté de votre navire. Des planches d'abordage sont prestement jetées vers votre navire, tandis que des cris vous informent que le capitaine adverse s'apprête à monter à votre bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

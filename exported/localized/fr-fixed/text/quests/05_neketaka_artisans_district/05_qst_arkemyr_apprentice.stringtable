@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_apprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une main de cuivre dans un gant de velours</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver &lt;b&gt;Bertenno&lt;/b&gt; dans la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Payer &lt;b&gt;Hamuto&lt;/b&gt; pour faire libérer &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rendre les gants à &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Parler à &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vaincre &lt;b&gt;Hamuto&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un Vailien nommé &lt;b&gt;Bertenno&lt;/b&gt; a volé les Doigts de Rokowa, une paire de gants de valeur appartenant au magicien &lt;b&gt;Arkemyr&lt;/b&gt;. &lt;b&gt;Fassina&lt;/b&gt;, la vendeuse du Placard sombre, a besoin que je les rapporte avant que son maître ne lui cause des ennuis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Impossible de savoir où &lt;b&gt;Bertenno&lt;/b&gt; tentera de refourguer les gants, mais il doit se rendre à un rendez-vous sur les quais de la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; a accepté de lever la dette de &lt;b&gt;Bertenno&lt;/b&gt; envers la Compagnie royale du Feu éteint en échange d'un paiement. Il m'attendra devant le &lt;b&gt;poste de commande impérial&lt;/b&gt; à la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Revenir au &lt;b&gt;Placard sombre&lt;/b&gt; au &lt;b&gt;promontoire de Periki&lt;/b&gt; pour rendre les Doigts de Rokowa et raconter à &lt;b&gt;Fassina&lt;/b&gt; ce qui s'est passé avec &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Revenir au &lt;b&gt;Placard sombre&lt;/b&gt; au &lt;b&gt;promontoire de Periki&lt;/b&gt; et raconter à &lt;b&gt;Fassina&lt;/b&gt; ce qui s'est passé avec &lt;b&gt;Bertenno&lt;/b&gt; et les gants volés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Parler à &lt;b&gt;Fassina&lt;/b&gt; du &lt;b&gt;Placard sombre&lt;/b&gt;, au &lt;b&gt;promontoire de Periki&lt;/b&gt;, des gants que vous avez repris à &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>J'ai attaqué &lt;b&gt;Hamuto&lt;/b&gt; à la &lt;b&gt;Citadelle de cuivre&lt;/b&gt; et je dois le terrasser pour que &lt;b&gt;Bertenno&lt;/b&gt; soit libéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Bertenno&lt;/b&gt; doit de l'argent à un célèbre capitaine rauatai du nom de &lt;b&gt;Hamuto Pierretalon&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; a demandé 400 pièces de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; a demandé 750 pièces de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Bertenno&lt;/b&gt;. Récupérer les gants qu'il a dérobés sera désormais bien plus aisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; a fait signer à &lt;b&gt;Bertenno&lt;/b&gt; un contrat de servitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Hamuto&lt;/b&gt; et libéré &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai remboursé la dette de &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Grâce à moi, Bertenno n'a plus de dette envers la Compagnie royale du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bertenno était incapable de rembourser sa dette à la Compagnie royale du Feu éteint : il a dû devenir esclave sous contrat pour leur compte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Hamuto et ses soldats, et Bertenno va se réfugier chez les Príncipis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai récupéré les gants que Bertenno avait volés et les ai rendus à Fassina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Fassina était très déçue de ne pas récupérer ses gants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai obtenu une paire de gants fins sur un voleur en herbe au &lt;b&gt;Placard sombre&lt;/b&gt;. La vendeuse, &lt;b&gt;Fassina&lt;/b&gt;, aimerait sans doute les revoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>J'ai tué un prétendu voleur au &lt;b&gt;Placard sombre&lt;/b&gt;. L'employée, &lt;b&gt;Fassina&lt;/b&gt;, n'était guère ravie du résultat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

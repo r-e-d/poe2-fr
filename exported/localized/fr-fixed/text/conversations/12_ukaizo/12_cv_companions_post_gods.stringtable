@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_companions_post_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Debout, capitaine. On dirait bien que nous allons très vite avoir de la compagnie." 
+
+Maia hoche la tête et vous envoie balader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Enfin réveillé ? Capitaine, un autre navire est arrivé pendant que vous étiez inconscient. Nous devons nous préparer à... à quelque chose." 
+
+Tekēhu déglutit, hoche la tête et serre les poings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je ne veux pas vous presser, mais si vous vous sentez en l'état, nous devrions nous dépêcher. 
+
+"Vous êtes resté inconscient un bon moment. Assez longtemps pour que nos adversaires nous rattrapent." Il désigne du menton la mer, au-delà de la tour, en vous aidant à vous relever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Parfait, vous êtes sur pied. Vous feriez bien de préparer vos armes, de vieux amis ont décidé de débarquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous êtes réveillé. Bien. La tempête s'est calmée, mais nos ennemis en ont profité pour arriver à Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Désolé d'interrompre votre petite sieste, capitaine, mais un gros tas de cloportes a l'air de vouloir votre tête. Et la mienne, aussi, a priori."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Loué soit Gaun, vous êtes réveillé. Vous commenciez à m'inquiéter.
+
+"Nous devons faire attention. Pendant que vous rêviez, des individus peu recommandables nous ont suivis jusqu'à l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

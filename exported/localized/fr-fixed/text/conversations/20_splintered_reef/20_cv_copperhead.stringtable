@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_copperhead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Psst ! Vous, là... Hé, vous là-bas."
+
+Du balcon, une silhouette dégingandée vous fait de grands signes pour attirer votre attention. Ceci fait, elle s'accroupit derrière la balustrade.
+
+La cachette n'est pas très efficace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bien, bien ! Je croyais que vous alliez vous en aller et vous attirer des ennuis." 
+
+L'homme devant vous (ou la créature, peut-être, sa peau étant aussi grise et flétrie que celle des autres clients) porte un casque deux fois trop grand pour lui. Il oscille d'un côté à l'autre à chaque mouvement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je m'appelle Tête-de-cuivre. C'est comme ça qu'on me surnomme. Vous savez comment marchent les sobriquets."
+
+"Je, heu, je sais que vous êtes différent des autres. Je peux le voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bien sûr que je suis « différent ». Tout le monde ici est en état de putrescence !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Mentir] "Je ne vois pas de quoi vous voulez parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quel est cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Chut, pas si fort ! Vous hurlez à tue-tête comme un petit agneau dans les bois. Vous pourriez tout aussi bien brailler « mangez-moi, mangez-moi »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quoi... ? 
+
+"Non, &lt;i&gt;non&lt;/i&gt;, ne faites pas ça. Je sais ce que je vois ! Et les autres, ceux qui comptent, le verront aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Quel est votre vrai nom, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je... D'aussi loin que je me souvienne, j'ai toujours été Tête-de-cuivre. Mais j'ai dû être quelque chose d'autre, autrefois. 
+
+"Nulle mère sur terre n'aurait affligé son fils du nom de « Tête-de-cuivre ». ... Sauf peut-être une mineure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je dois m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ce n'est pas évident ? C'est un paradis ! Ouais, une terre libre des problèmes de nos foyers. Breuvages et nourriture à foison, et pas un visage triste en vue... 
+
+"Mais je sais. Je sais que ce n'est pas aussi simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Très bien. Je vous retrouverai là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ce... ce n'est pas sûr ici. Pas dans un endroit où les murs ont des oreilles.
+
+"J'ai une maison, à l'écart. Ça ne les gêne pas que je m'isole. Là-bas, nous pourrons parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Quelles sont ces étranges runes ? Tout le monde semble en avoir une, ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mais pas vous, hein ? Vous êtes aussi tape-à-l'œil qu'un chat dans une niche."
+
+Il sourit nerveusement, regardant à gauche et à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Non, attendez !" 
+
+Tête-de-cuivre essaye de vous agripper, mais sa main s'arrête bien avant d'avoir atteint votre bras. Il fait une grimace de douleur, ses lèvres se retroussant et révélant des dents noircies. 
+
+Après un moment, et avec un effort manifeste, il retire sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous... vous devez m'aider. Il se passe quelque chose d'affreux dans cette ville, et je ne peux rien y faire tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne sais pas trop..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je ne vous aiderai pas ! Vous MANGEZ des gens !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Attention aux meneurs. Ce sont ceux avec les bâtons. S'ils vous repèrent, la situation risque de vite dégénérer.
+
+"Surtout Zulka, elle... J-je dois y aller !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je peux vous aider ! Je le jure sur mon couvre-chef." 
+
+Il frappe du poing sur le côté de son casque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Pas... pas si fort ! La patrouille, elle va...
+
+"Oh, non. Cachez-vous, l'ami !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Par ici, par ici. Attention où vous mettez les pieds. J'ai, euh, collectionné des choses. J'ai passé des années à les collectionner."
+
+D'un mouvement large de la main, il vous montre la collection de détritus entassés dans chaque coin et recoin de sa maison de fortune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Un cimetière de navires, grouillant de morts ! Qui ne sont pas morts ! Qui sont... encore vivants !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Laissez-moi jeter un coup d'œil à ce casque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ouais, enfin, le rêve ne fait effet que sur les gens qui ont ce symbole sur leur tête. Je ne l'avais pas remarqué avant d'enlever mon casque. 
+
+"Et nous tous... morts, ou quelque chose dans le genre. Nous nourrissant des vivants pour prolonger un peu notre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"J'ai toujours voulu savoir. Il y a tant de navires sur le récif. Il me suffisait de plonger et de voir ce que je découvrais. 
+
+"C'était magnifique, là-bas. Des centaines d'histoires, que j'ai lues une par une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"N non ! Je ne veux pas redevenir comme avant ! J'ai la tête embrumée... Si je l'enlève, je vais retourner dans le rêve."
+
+Tête-de-cuivre se cramponne à son casque, l'enfonçant encore plus sur sa tête. Un grognement étouffé vous parvient d'entre ses profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Enlever son casque de force]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"D'accord. Tenez-vous tranquille le temps que je regarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je promets de vous le rendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il vous semble que la peur et la colère exacerbent la faim d'essence de Tête-de-cuivre. D'un autre côté, les runes semblent avoir rendu les autres habitants plutôt dociles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>L'affrontement n'a rien de noble. Vous vous empoignez avec Tête-de-cuivre quelques instants, puis arrachez le casque de sa tête alors qu'il se débat. 
+
+Les gémissements de Tête-de-cuivre s'interrompent aussitôt et vous remarquez que la rune sur son front commence à briller plus fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Tête-de-cuivre s'affaisse, la tête ballante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Remettre le casque sur sa tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Tête-de-cuivre n'est plus qu'une poupée à la mâchoire pendante. Il se convulse sans un bruit tandis que la rune sur son front clignote.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Le laisser tranquille]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sans même avoir à le regarder de plus près, vous devinez que le casque a un effet répulsif sur la magie. C'est comme si toute énergie magique capable d'affecter directement le casque était délibérément renvoyée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>En observant le casque, vous ne remarquez rien de plus que votre propre reflet à sa surface crasseuse. Vous ne remarquez rien qui puisse différencier le casque de n'importe quelle autre pièce d'armure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Alors ? Qu'est-ce que vous voyez ?"
+
+En dépit de sa réticence initiale, Tête-de-cuivre semble impatient d'entendre ce que vous avez trouvé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je n'arrive pas à voir ce qu'il a de particulier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je pense que votre casque atténue les effets de la magie. Il vous protège du sort sous l'emprise duquel se trouvent tous les autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Mentir] "Vous délirez. Ce n'est qu'un casque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je me fiche de vos promesses ! Je ne m'en séparerai pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"D'accord. Gardez votre fichu casque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Pour quelle raison s'ennuierait-on à piéger dans une illusion une ville peuplée de morts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je ne sais pas pourquoi on nous a jeté ce sort, mais je sais que ça a un rapport avec la crypte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Il doit être plus agréable de vivre dans un rêve que de découvrir que son corps est en train de se décomposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"À chaque fois qu'il y a de nouveaux arrivants, c'est de cet endroit qu'ils sortent. Et quand ils commencent à perdre la tête et deviennent trop &lt;i&gt;affamés&lt;/i&gt;, c'est ici qu'ils les entraînent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Là où je veux en venir, c'est que, quoi qu'ils fassent pour nous maintenir dans ce petit rêve éveillé, c'est là que ça se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Très bien. Je vais jeter un œil à cette crypte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Quoi, et passer le reste de notre vie en suivant les règles de quelqu'un d'autre, et d'une histoire à dormir debout ? 
+
+"La vérité vaut mieux qu'un rêve stupide. Au moins, c'est la nôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nous verrons bien. Nous trouverons peut-être un autre moyen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Attendez, vous ne pouvez pas juste... débouler comme une fleur. L'endroit est gardé. 
+
+"Même très, très bien gardé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Aucun problème. Faites-moi confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous pourriez faire diversion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Une idée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Les gardes quittent rarement leur poste, sauf quand les chasseurs reviennent avec de la viande fraîche...  Mais ils ne suivent pas d'horaire fixe. Ils vont et viennent comme bon leur chante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ce n'est pas comme si je pouvais faire autrement." 
+
+Mais, euh... Bonne chance. Je vous attends. Et s'ils vous placent une rune sur la tête, je vous promets que j'essaierai de vous en débarrasser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Tête-de-cuivre reste immobile encore quelques instants. Il se redresse ensuite brusquement.
+
+Il tapote avec hésitation le casque sur sa tête, puis vous regarde d'un œil mauvais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"C'est bon, vous avez bien rigolé ? Oui ? Peu importe si cela me donne d'horribles migraines, non, il fallait que vous mettiez vos mitaines sur... 
+
+"Et alors ? Qu'avez-vous trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ah ! J'en étais sûr ! Je me disais bien que ça faisait quelque chose ! 
+
+"Les protecteurs pensent que je suis toujours dans le rêve. Cette pauvre Tête-de-linotte vient de se doter d'un tout nouveau chapeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous êtes de retour, enfin. Qu'en est-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Depuis combien de temps êtes-vous sur le Récif escarpé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Partir] "Je partais, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oh... des années et des années. À... devenir mou et flasque sur les bords, vous savez ?" Il laisse échapper un rire hoquetant et malsain, puis se gratte l'épaule d'un air penaud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous avez réussi ! Regardez... !"
+
+Tenant son casque dans une main, Tête-de-cuivre se tape la tempe de l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"J'ai entendu des bruits bizarres... Cela m'a pris du temps pour trouver le courage, mais j'ai enlevé le casque, et j'ai gardé mes esprits !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"J'ai tué Menzzago et ai brisé l'orbe. Son maléfice est rompu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vous... n'imaginez pas ce que cela signifie. 
+
+"J'ai eu pas mal de temps pour mettre mes idées au clair. Comprendre qui j'étais, et l'accepter. Ce serait sans doute différent si tout le monde avait eu la même chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je ne sais pas vraiment que faire, à présent. Je sais au moins que je n'ai pas perdu les pédales." 
+
+Il jette un regard sur le casque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tenez. Je n'en ai plus besoin. Peut-être vous sera-t-il d'une quelconque utilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Gardez-le. On ne sait jamais, vous pourriez en avoir de nouveau besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Gardez-le. Vous pouvez me rendre la pareille en venant avec moi. Rejoignez mon équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Prendre le casque] "Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Prendre le casque] "Si vous cherchez un endroit où aller, vous pourriez rejoindre mon équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous en êtes sûr ?... Ma foi, merci. Je me suis plutôt habitué à le porter, pour tout vous dire. 
+
+"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vous êtes... sérieux ? 
+
+"Parce que je ne sais pas si vous y avez bien réfléchi. C'est que mon nouveau régime n'inclut pas les biscuits de mer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'est vous qui avez tout arrangé. Vu que je vais rester dans les parages, je vous dois une fière chandelle."
+
+Tête-de-cuivre se plie en deux en grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Hein ? Pourquoi ? C'était pourtant le but de la démarche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Menzzago est mort, mais le maléfice reste actif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Cela ne me semblait pas juste de tout leur enlever. Ils semblent plutôt heureux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je n'ai toujours pas décidé que faire avec l'orbe contrôlant le maléfice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Enfin, c'est bien beau, mais... Qu'en est-il des kiths qu'ils continuent de ramener ? Tous ces corps ? 
+
+"Et si l'ancien maître de Menzzago repointe le bout de son nez ? Lucia Rivan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Alors je m'occuperai d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"On parle de Rivan, la capitaine du Bourreau des mers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je ne connais pas son navire, mais... Rivan est connue pour être une grande capitaine. 
+
+"Elle a bâti cet endroit. Et en a fait ce que vous voyez aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Les plus forts servent de repas aux loyaux serviteurs de Menzzago. Les « protecteurs ». Les autres kiths sont lentement saignés à la taverne. Une fois de temps en temps, les protecteurs nous... offrent un corps entier..."
+
+Sa tête l'alourdit, sa phrase restant en suspens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Qui est Lucia Rivan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Une incroyable capitaine... je suppose. On dit qu'elle a bâti cet endroit. Elle saura sans doute ce qu'il était auparavant.
+
+"Elle en a &lt;i&gt;fait&lt;/i&gt; ce qu'il est aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Moi ? ... Ouais, bien sûr que je peux faire ça ! Je peux vous aider ! Je vous y retrouve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Rivan ne posera plus de problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Combien de temps pensez-vous que durera l'effet de l'orbe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je l'ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Menzzago alimentait l'orbe de sa propre énergie. Maintenant qu'il est mort, le maléfice va s'estomper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Eh bien... J'ai eu besoin de temps pour comprendre qui j'étais, et pour vivre avec. 
+
+"Avec le temps, je pourrais peut-être faire de même pour tous les autres. Les soulager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je pense que je vais avoir besoin du casque. Mais tenez, j'ai trouvé celui-là dans les décombres. 
+
+"Enfin, ce n'est pas ça qui a protégé mon esprit contre le maléfice, mais je pense que vous pourriez en faire meilleur usage que moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Eh bien... J'ai eu besoin de temps pour comprendre qui j'étais, et pour vivre avec. 
+
+"Avec le temps, je pourrais peut-être faire de même pour tous les autres. Les soulager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"J'imagine que vous allez devoir prendre votre mal en patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je ne vous aurais pas cru si vous n'aviez pas déjà supprimé Menzzago. 
+
+"Cet endroit était comme son petit royaume privé. Et nous sommes maintenant libérés de son influence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Détruisez-le, à mon avis. Fini de se cacher. Fini de faire semblant.
+
+"Nous sommes des monstres. Rien n'y changera quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ah, excellent, vous revoilà !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Loin de moi l'idée de vous dire ce que vous devriez faire, mais j'ai l'impression que ce casque était censé nous protéger, pas lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ekera, que cela serve de leçon sur l'importance de toujours porter une protection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Cette cruauté ne me semble pas nécessaire." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Faisons en sorte qu'il se réveille dans une drôle de posture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Madiccho, quel spectacle pénible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Pas sûr que cela vaille la peine de vivre ainsi. Ou quoi que ces asticots fassent qu'ils considèrent vivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"La clémence voudrait que je fauche son âme, vous ne pensez pas ?" Elle plisse le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Cette expérience a-t-elle un but ? Ou devrais-je, moi aussi, m'attendre à ce genre d'affections ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je n'irais pas jusque-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Le résultat n'a pas été à la hauteur pour ceux de la taverne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ah... Il était déjà trop tard pour eux, j'imagine. Réduits à l'état de squelettes et de tas de viande. 
+
+"Mais plus des marionnettes. Plus sous l'influence de Menzzago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je sais. Je peux voir au travers de cette illusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Laissez-moi faire, capitaine. J'ai de l'expérience lorsqu'il s'agit de suivre les ordres de personnes aux chapeaux insolites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"On pourrait seulement l'aider à en finir rapidement avec cette vie, qu'il puisse commencer sa prochaine. Vous ne pensez pas, Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Si la compassion n'est pas dans vos cordes, Gardien, dites-vous que celui-là pourrait faire un excellent sujet de recherche. Que ce soit en termes physiologiques ou métaphysiques."
+
+Ses yeux carmins s'attardent sur le réceptacle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Oh, ouais. Jetez un coup d'œil."
+
+Il bascule son casque en arrière, suffisamment pour laisser entrevoir le contour d'une rune sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Attendez, que fait l'agneau dans les bois ?"
+
+Edér vous regarde, l'air chiffonné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Doit-on vraiment tourmenter ce pauvre homme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ma vision du paradis diffère légèrement de la vôtre, mais... Je vais essayer de voir les choses de votre point de vue, m'est avis." Tekēhu pince les lèvres et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Rien ne vaut le casque. Et tout a changé depuis que je le porte. 
+
+"Lorsque je le mets, j'entraperçois ce qu'est véritablement cet endroit."
+
+Il se penche en avant et porte un regard conspirateur aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Tête-de-cuivre semble soulagé, mais garde néanmoins ses mains fermement agrippées au casque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"C'est trop dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Elle n'a pas pris la peine de revenir jusqu'à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"C'est juste. Nous avons tous été abandonnés comme des chatons indésirables, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous ne faites pas les choses à moitié, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Qui s'en préoccupe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ce n'est pas quelque chose dont on aimerait prendre conscience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ah. Non, ce fut... un choc, je peux vous l'assurer. 
+
+"J'ai peut-être perdu un peu la boule. Un petit peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Et qu'est-ce que vous cherchez à faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je veux... Je veux que tout soit révélé au grand jour. Que tout le monde sache la vérité, comme moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ils ne me verront même pas arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"À propos de cette illusion..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"La vérité blesse même les morts, semble-t-il. Di verus, c'est toujours mieux que de vivre dans le mensonge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Un peu de retenue, ce n'est pas toujours mauvais." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"J'ai ma place sur le Récif escarpé. Juste un autre endroit en perdition, mais unique.
+
+"Sans Menzzago et les autres, il ne reste plus personne pour acheminer des kiths jusqu'ici. Une conclusion honorable, ma foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Il existe des sources d'essence, pas uniquement des personnes à manger. Nous trouverons une solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Tout ira bien. Vous avez déjà entendu parler du commerce d'adra, Tête-de-cuivre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Après mûre réflexion, oublions cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Un léger sourire se dessine lentement sur le visage incrédule de Tête-de-cuivre à mesure qu'il absorbe vos mots. Il se transforme en un délicieux sourire en coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Tête-de-cuivre secoue la tête. Un léger sourire se dessine sur son visage incrédule à mesure qu'il absorbe vos mots, se transformant rapidement en un grand sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"La mer... Un véritable navire ! Merci, capitaine ! Je serai le marin le plus fidèle que vous ayez jamais vu !"
+
+Tête-de-cuivre se précipite vers la porte, l'enthousiasme à son comble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Vous pourrez manger n'importe qui. Venez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Tête-de-cuivre sourcille, bouche bée. 
+
+Réfléchissant à cette idée, un léger sourire se dessine sur son visage, avant de se transformer en grand sourire en coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"C'est-à-dire, si vous acceptez de suivre mes ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Fin prêt, capitaine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Bonne chance, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Bonne chance, là dehors. J'ignore si le Récif escarpé sera un jour sûr pour les kiths, mais... Je n'oublierai pas ce que vous avez fait pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Partir] "Vous avez raison. Je dois y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"J'imagine que c'est un progrès." Il hausse les épaules sans grande conviction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Oh, non... non, non, non ! Vous ne me bernerez pas. Vous croyez que je ne fais pas confiance à mes propres sens ? Vous croyez pouvoir me ramener dans le rêve ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"C'est là que se trouve Menzzago, celui qui commande ici. Là aussi que se trouvait le vieux donjon de Lucia Rivan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"J'ai conclu un marché avec Menzzago. L'orbe doit rester."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Vous... Pardon ? Vous... Attendez, vous l'avez rencontré ? Et vous... Vous avez fait &lt;i&gt;ami-ami&lt;/i&gt; ?"
+
+Tête-de-cuivre agrippe frénétiquement son casque, raclant le métal avec ses ongles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Et nous autres, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Quand je voguerai vers Ukaizo, vous m'accompagnerez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Vous n'aurez plus besoin de manger quiconque. L'adra vous sustentera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"&lt;i&gt;Quoi&lt;/i&gt; vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Laissez-moi tranquille..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Alors, c'est comme ça. Vous avez obtenu ce que vous vouliez, et peu vous importe le prix à payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"J'aurais dû... J'aurais dû..." Tête-de-cuivre retrousse les lèvres, grognant et grimaçant, tandis que ses yeux sombres luisent d'une fureur vorace...
+
+Tête-de-cuivre s'affaisse, tout à coup accablé. Il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Je suppose que le chef va vouloir vous dire un mot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Si nous vivons ! Si Menzzago ne... nous jette pas un nouveau sortilège !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"C'est bon, vous avez bien rigolé ? Oui ? Peu importe si cela me donne d'horribles migraines, non, il fallait que vous mettiez vos mitaines sur... 
+
+"Et alors ? Qu'avez-vous trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"C'est bon, vous avez bien rigolé ? Oui ? Peu importe si cela me donne d'horribles migraines, non, il fallait que vous mettiez vos mitaines sur... 
+
+"Et alors ? Qu'avez-vous trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

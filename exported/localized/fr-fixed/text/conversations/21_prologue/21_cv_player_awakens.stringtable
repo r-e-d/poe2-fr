@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\21_prologue\21_cv_player_awakens</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le retour dans votre corps est semblable à un réveil après une soirée alcoolisée et une nuit agitée. Le tangage du bateau déclenche des signaux de douleur qui traversent tous vos membres. Les vagues qui s'écrasent font l'effet d'un marteau cognant dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Edér veille sur votre corps d'un regard vide, tirant de longues et égales bouffées sur sa pipe.
+
+Dès que votre poitrine remue, il se lance. Son cri de surprise interrompt une de ses bouffées : il tousse puis cherche à retrouver son souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Monseigneur, êtes-vous de retour parmi nous ?"</DefaultText>
+      <FemaleText>"Maîtresse, êtes-vous de retour parmi nous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis en vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je souffre terriblement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je suis encore faible, mais je vais me rétablir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Être en vie, c'est déjà beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est peut-être ma faute. Je vous ai giflé un peu plus fort chaque jour pour tenter de vous réveiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bien sûr. Vous avez été absent un long moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Étant donné ce que vous avez subi, ce n'est pas un mince exploit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Au vu du temps que vous avez passé inconscient, j'ai peur que ce soit normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"En grande partie, j'en suis sûre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je déteste devoir jeter une ombre au tableau de votre rétablissement, mais je crains d'avoir de mauvaises nouvelles à vous annoncer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je sais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Garder le silence]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Le malheur se profile à l'horizon ! Nous... Par les feux de Magran, le capitaine bouge !" Un vieil homme à l'haleine empuantie par la bière frotte ses yeux rouges et vous regarde fixement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Comment pourriez-vous savoir tout cela ?" Vous faisiez semblant ?"
+
+Il plante son doigt dans votre épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Monseigneur, vous n'avez pas donné signe de vie depuis des semaines. Comment..."</DefaultText>
+      <FemaleText>"Maîtresse, vous n'avez pas donné signe de vie depuis des semaines. Comment..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je sais que c'est beaucoup vous demander, mais vous feriez mieux de vous armer et de vous rendre sur le pont. Il devrait y avoir de quoi vous équiper là-dedans.
+
+Il indique une armoire à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Il serait sage de commencer par vous équiper, monseigneur. Vous trouverez du matériel à cet effet dans l'armoire près de moi."</DefaultText>
+      <FemaleText>"Il serait sage de commencer par vous équiper, maîtresse. Vous trouverez du matériel à cet effet dans l'armoire près de moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je n'aurais jamais cru que ça marcherait."
+
+Edér regarde le dos, puis la paume de la main dont il s'est sans doute servi pour vous frapper, d'un air incrédule. Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bah, vous me devez une faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nan, c'est impossible. Vous êtes réveillé ! Qu'est-ce que vous faites éveillé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Comment vous sentez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Engrim, l'odeur de boisson qui émane de votre bouche est de nature à réveiller les morts.
+
+"Maintenant, que se passe-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Des pirates. Ils demandent à parlementer avec vous, capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous vous sentez bien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>La voix résonne de l'intérieur du buste : les restes de l'intendante de Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>La voix résonne de l'intérieur du buste : les restes de l'intendante de Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Caed Nua a été détruite. Éothas a pris possession de la statue de Maros Nua et est sorti de terre, consumant toutes les âmes des environs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"J'ignore comment, mais il semble avoir conservé un morceau de votre âme. Et s'en rapprocher vous a ramené."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous ne devez la vie qu'à l'exceptionnelle force de votre âme.
+
+"Et quand bien même, ce fut de justesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Plus Éothas reculait et plus vous vous affaiblissiez. Nous avons affrété ce navire pour le suivre jusqu'à l'Archipel du Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Concentré. L'univers me trouve sans cesse un nouveau but."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Bien sûr. Je veux dire, il faut bien que les dieux puissent s'en prendre à quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Espérons que vous n'ayez pas toujours à visiter l'Au-delà pour le découvrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Être mort a été une expérience enrichissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Bien sûr, tout le monde devrait s'y essayer au moins une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Et prions pour que cela ne se reproduise que dans de nombreuses années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Moi ? Vous ne vous en souvenez pas ?"
+
+Edér montre son visage du doigt, qu'il semble arranger dans son expression la plus reconnaissable. Ne recevant aucune réponse, il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je suis le capitaine de ce navire. Et j'étais quelqu'un de très important à Dyrwood. Je possédais un fort appelé Caed Nua. J'étais célèbre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Et j'étais aussi ce qu'on appelle un Gardien. Je parlais aux morts et je fichais la trouille à tous ceux qui me voyaient."
+
+Il lève les mains, courbant ses doigts pour imiter des griffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Quant à vous, vous êtes un paysan qui aime me suivre un peu partout. Et qui prend la plupart des coups à ma place quand on se fait attaquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Très drôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Cela ne me semble pas juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vraiment ? Je croyais que c'était l'inverse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ne vous en faites pas, tout ça va vous revenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ah, vous voyez ? Vous vous souvenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Si vous le dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Bon, c'était peut-être vous, le Gardien sinistre. Je m'emmêle souvent les pinceaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mais cette forteresse m'appartenait, ça je m'en souviens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eh bien, même si ça ne vous semble pas juste, ça ne me dérangerait pas que vous preniez les coups à ma place pendant les combats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Quoi qu'il en soit, vous n'avez pas répondu à ma question. Comment vous sentez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

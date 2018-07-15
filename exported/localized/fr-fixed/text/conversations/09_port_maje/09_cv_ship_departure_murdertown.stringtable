@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ship_departure_murdertown</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous savez que je m'efforce de ne pas mettre en doute vos méthodes, mon seigneur, mais... le gouverneur Clario aurait assurément pu nous aider.
+
+"Comment allons-nous réparer le navire sans lui ?"</DefaultText>
+      <FemaleText>"Vous savez que je m’efforce de ne pas mettre en doute vos méthodes, maîtresse, mais... le gouverneur Clario aurait assurément pu nous aider.
+
+"Comment allons-nous réparer le navire sans lui ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pour l'instant, nous allons devoir attendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'ai de bonnes nouvelles pour vous, mon seigneur. Si mes calculs sont exacts, une grande partie de cette plage sera sous l'eau à marée haute."</DefaultText>
+      <FemaleText>"J'ai de bonnes nouvelles pour vous, maîtresse. Si mes calculs sont exacts, une grande partie de cette plage sera sous l'eau à marée haute."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quand sera la prochaine marée haute ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Alors, on est coincés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous n'êtes quand même pas en train de dire qu'on est coincés ici." Il balaie du regard la plage jonchée de débris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oh, allons. Nous ne pouvons quand même pas être coincés ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous avez décidé de votre destination, mon seigneur ?"</DefaultText>
+      <FemaleText>"Vous avez décidé de votre destination, maîtresse ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pour vous, peut-être, mais moi, je dois la porter à bord."
+
+Il pointe l'intendante du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Et dans le cas contraire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oh, dans une semaine, je dirais. Ce n'est pas très commode, je sais. Nous allons tous devoir faire preuve de patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Nous verrons où les vents nous portent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Restons optimistes, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Une ville antique magnifique, aux dires de tous. Il me semble que nous la trouverons plus au nord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vu l'étendue des dégâts qu'il a subis, le Défi ne tiendra pas longtemps en haute mer.
+
+Il se maintiendra à flot, pour l'instant. Mais je recommande que nous trouvions quelqu'un qui puisse effectuer des réparations dès que possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ça ne devrait pas être un problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je sais qu'il est malpoli de parler du poids d'une dame, mais des poulies et des chevaux nous aideraient bien dans son cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Avec un peu de chance, la marée haute soulèvera le Défi juste assez pour lui permettre de se dégager de ce banc de sable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eh bien, je suis certaine que nous trouverons une solution. Entre-temps, je pense que le mieux serait de nous concentrer sur la tâche de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Éothas se dirigeait vers l'intérieur des terres, la dernière fois que nous l'avons vu. Je suggère que nous suivions sa trace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"La dernière fois, nous nous sommes retrouvés coincés ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

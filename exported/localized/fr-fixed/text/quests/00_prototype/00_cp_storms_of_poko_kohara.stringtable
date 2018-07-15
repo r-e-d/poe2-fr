@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_cp_storms_of_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les tempêtes de Poko Hara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Découvrir l'histoire de &lt;b&gt;Poko Kohara&lt;/b&gt; à &lt;b&gt;Tikawara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Se rendre à &lt;b&gt;Poko Kohara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fouiller les ruines de &lt;b&gt;Poko Kohara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entrer dans l'adra corrompu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rendre compte de ma progression au gouverneur &lt;b&gt;Alvari.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Quitter le plan de l'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Rendre compte de ma progression au directeur &lt;b&gt;Castol.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Découvrir l'histoire de &lt;b&gt;Poko Kohara&lt;/b&gt; à &lt;b&gt;Tikawara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rendre compte de ma progression à &lt;b&gt;Atsura.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Rendre compte de ma progression à &lt;b&gt;Atsura&lt;/b&gt; ou au directeur &lt;b&gt;Castol.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Rendre compte de ma progression à &lt;b&gt;Atsura&lt;/b&gt; ou au gouverneur &lt;b&gt;Alvari.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Selon la rumeur, un filon d'adra lumineux se trouverait dans les ruines inexplorées de &lt;b&gt;Poko Kohara.&lt;/b&gt; Le gouverneur &lt;b&gt;Lueva Alvari&lt;/b&gt; de la Compagnie commerciale vailienne a déjà envoyé une expédition pour le localiser mais n'a reçu aucun rapport sur la progression de leur mission. 
+
+Elle voudrait que je trouve une preuve de l'existence du filon et que je découvre, si possible, ce qui est arrivé à la première expédition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La première expédition prévoyait de faire halte sur l'île de &lt;b&gt;Tikawara,&lt;/b&gt; au sud-est de Neketaka, où elle espérait que les locaux la guiderait vers &lt;b&gt;Poko Kohara.&lt;/b&gt; Si je parle aux villageois de cet endroit, ils pourront peut-être me fournir les mêmes informations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Poko Kohara&lt;/b&gt; est situé juste à l'est de Tikawara et ses ruines n'attendent qu'à être explorées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ayant mouillé sans souci sur l'île de &lt;b&gt;Poko Kohara,&lt;/b&gt; je peux explorer les ruines et découvrir ce qui s'y cache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ce qui corrompt l'adra est profondément ancré en son sein. Je sens une présence provenant de l'intérieur du pilier. Je devrais être capable d'atteindre la source de la corruption en y projetant mon âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant que je sais ce qui s'est passé à Poko Kohara, le gouverneur &lt;b&gt;Alvari&lt;/b&gt; sera intéressé d'entendre mon compte-rendu.
+
+Je peux la retrouver au siège de la Compagnie commerciale vailienne, à &lt;b&gt;Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Dans l'adra, j'ai rencontré des âmes qui y avaient été piégées et déformées durant des générations.
+
+Je dois les terrasser pour fuir ou je les rejoindrai à jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Maintenant que je sais ce qui s'est passé à Poko Kohara, le directeur &lt;b&gt;Castol&lt;/b&gt; sera intéressé d'entendre mon compte-rendu.
+
+Je peux le retrouver au siège de la Compagnie commerciale vailienne, à &lt;b&gt;Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; ne connaissait pas l'emplacement exact de &lt;b&gt;Poko Kohara,&lt;/b&gt; mais les habitants de &lt;b&gt;Tikawara,&lt;/b&gt; une île au sud-est de Neketaka, pourraient savoir quelle route emprunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Maintenant que je sais ce qui s'est passé à Poko Kohara, il faut que je fasse mon compte-rendu à &lt;b&gt;Atsura&lt;/b&gt;.
+
+Il se trouve à la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;, à &lt;b&gt;Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Maintenant que je sais ce qui s'est passé à Poko Kohara, &lt;b&gt;Atsura&lt;/b&gt; et le directeur &lt;b&gt;Castol&lt;/b&gt; seront intéressés d'entendre mon compte-rendu.
+
+Je peux trouver &lt;b&gt;Atsura&lt;/b&gt; à la Citadelle de cuivre et le directeur &lt;b&gt;Castol&lt;/b&gt; au siège de la Compagnie commerciale vailienne, à &lt;b&gt;Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Maintenant que je sais ce qui s'est passé à Poko Kohara, &lt;b&gt;Atsura&lt;/b&gt; et le gouverneur &lt;b&gt;Alvari&lt;/b&gt; seront intéressés d'entendre mon compte-rendu.
+
+Je peux trouver &lt;b&gt;Atsura&lt;/b&gt; à la Citadelle de cuivre et le gouverneur &lt;b&gt;Alvari&lt;/b&gt; au siège de la Compagnie commerciale vailienne, à &lt;b&gt;Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Une expédition de la Compagnie commerciale vailienne a abandonné son campement à cet endroit. Tout semble intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai rencontré &lt;b&gt;Vektor,&lt;/b&gt; un cuisinier de l'expédition de la Compagnie commerciale vailienne. Il est resté sur &lt;b&gt;Tikawara&lt;/b&gt; alors que ses compagnons ont poursuivi leur route vers &lt;b&gt;Poko Kohara.&lt;/b&gt; Il attend toujours leur retour. Ou la nouvelle de leurs morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le chef &lt;b&gt;Ruānu&lt;/b&gt; est décédé. Je vais devoir trouver &lt;b&gt;Poko Kohara&lt;/b&gt; tout seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé un cadavre à l'extérieur des ruines. Il semble que le reste de l'expédition vailienne ait fui dans les ruines pour échapper au titan de pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Un pilier d'adra descend dans les ruines. J'ai trouvé le sommet, mais je vais devoir descendre pour voir le reste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Quelque chose a corrompu cet adra, et cela empire à mesure que je m'enfonce dans les profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;Beza,&lt;/b&gt; le chef de l'expédition de la Compagnie commerciale vailienne, est allongé sans vie dans les entrailles des ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé le cadavre d'un autre membre de l'expédition de la Compagnie commerciale vailienne. On dirait qu'ils se sont retournés les uns contre les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai trouvé une carte dans le campement qui comporte des instructions pour se rendre à &lt;b&gt;Tikawara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai trouvé le cœur de la corruption. Il y a une machine. Elle m'aidera peut-être à m'en débarrasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Le chef &lt;b&gt;Ruānu&lt;/b&gt; peut me montrer la voie vers &lt;b&gt;Poko Kohara.&lt;/b&gt; Sa hutte est au nord-est de la ville, sur une colline au-dessus du comptoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Nairi,&lt;/b&gt; la prêtresse, m'a demandé de détruire l'adra lumineux de &lt;b&gt;Poko Kohara.&lt;/b&gt; Elle craint que les Vailiens ne tuent sa tribu ou la réduisent en esclavage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai déjà entendu parler de la prêtresse du village, &lt;b&gt;Nairi,&lt;/b&gt; qui ne se réjouit pas du récent afflux d'étrangers. Si je souhaite entendre son avis, je pourrai la trouver au sanctuaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Le directeur &lt;b&gt;Castol&lt;/b&gt; de la Compagnie commerciale vailienne m'a également demandé de me rendre à &lt;b&gt;Poko Kohara&lt;/b&gt; pour examiner un filon d'adra lumineux et retrouver une expédition disparue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Le gouverneur &lt;b&gt;Alvari&lt;/b&gt; de la Compagnie commerciale vailienne m'a également demandé de me rendre à &lt;b&gt;Poko Kohara&lt;/b&gt; pour examiner un filon d'adra lumineux et retrouver une expédition disparue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;Atsura,&lt;/b&gt; un conseiller de la Compagnie royale du Feu éteint, m'a demandé de saboter l'adra lumineux à &lt;b&gt;Poko Kohara&lt;/b&gt; pour contrecarrer les tentatives d'exploitation des Vailiens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>J'ai purgé l'adra corrompu et mis fin aux tempêtes dans la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>J'ai détruit l'adra, mettant fin aux tempêtes ainsi qu'à toute ambition d'exploiter de l'adra lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Une lourde porte ferme l'accès à la ruine désertique. Pour continuer l'exploration, il va d'abord falloir trouver un moyen de la franchir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Nairi&lt;/b&gt;, la prêtresse du village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Cette quête a échoué, semble-t-il</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai purifié la corruption qui rongeait l'adra, ce qui semble avoir mis un terme aux tempêtes dans la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai détruit le pilier d'adra au cœur de &lt;b&gt;Poko Kohara,&lt;/b&gt; ce qui semble avoir fait cesser les tempêtes dans la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai mis un terme aux tempêtes et à la corruption de &lt;b&gt;Poko Kohara,&lt;/b&gt; ce qui permet aux Vailiens de commencer à y extraire l'adra lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai détruit le pilier d'adra de &lt;b&gt;Poko Kohara,&lt;/b&gt; ce qui empêchera les Vailiens d'y extraire l'adra lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai découvert une île déserte qui, curieusement, paraît être au centre de violentes et récurrentes tempêtes. Ces perturbations pourraient bien avoir une cause surnaturelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Une expédition vailienne à la recherche d'adra lumineux a disparu sur l'île inexplorée de &lt;b&gt;Poko Kohara.&lt;/b&gt; &lt;b&gt;Vektor,&lt;/b&gt; qui a été délaissé par ses compagnons, souhaite connaître leur sort.
+
+Il est convaincu que la Compagnie paierait une jolie somme pour toute information ou toute aide permettant de secourir les disparus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40004</ID>
+      <DefaultText>Le directeur &lt;b&gt;Castol&lt;/b&gt; de la Compagnie commerciale vailienne a mentionné certains intérêts économiques situés sur une île du nom de &lt;b&gt;Poko Kohara.&lt;/b&gt; Le gouverneur &lt;b&gt;Alvari&lt;/b&gt; y avait précédemment envoyé une expédition, mais elle n'a jamais donné de nouvelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40005</ID>
+      <DefaultText>&lt;b&gt;Atsura,&lt;/b&gt; de la Compagnie royale du Feu éteint, croit que la Compagnie commerciale vailienne établit une opération pour extraire de l'adra lumineux sur l'île de &lt;b&gt;Poko Kohara.&lt;/b&gt; Il souhaite que je sabote leur opération, de préférence sans verser de sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40006</ID>
+      <DefaultText>D'étranges et violentes tempêtes autour des ruines de Poko Kohara ont sévèrement entamé les réserves de nourriture de Tikawara. Le chef Ruānu s'inquiète de l'aggravation du mauvais temps, qui pourrait menacer la survie de sa tribu et l'accès des riches voyageurs à l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oui ?" Son regard tient le vôtre, attentif et silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'aimerais savoir ce que vous pensez au sujet de ma recherche d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'ai vu un vieux souvenir dans l'âme de Ruāsare, et j'ai trouvé un lien avec la Clé plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tekēhu et vous n'avez pas l'air de vous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"C'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"J'ai remarqué des frictions entre Edér et vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Que savez-vous au sujet de la Compagnie commerciale vailienne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Êtes-vous parvenu à rentrer en Aedyr ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Il se trouve que oui." Son visage s'éclaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai rendu visite à mon père. Je ne l'avais pas vu depuis ma sortie de l'académie à Bragganhyl." Sa voix s'adoucit, et il joint les mains sur ses genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai vu ma mère pour la première fois depuis de longues années." Sa posture et son regard sont emplis d'une douceur que vous n'aviez encore jamais décelée chez lui tandis qu'il vous parle de sa famille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Comment va votre mère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Avez-vous vu votre père ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ça a dû être un séjour agréable, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Elle va bien. Elle vit avec son thayn depuis un moment, je ne pense pas qu'elle ait vu mon père depuis que je suis parti." Il tripote l'ourlet de sa tenue, le regard distrait pointé au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je lui en voulais pour ses longues absences. Pour ne pas être intervenue directement auprès de mon père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Rappelez-moi ce qui s'est passé avec votre père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Qu'est-ce qui a changé avec votre mère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"C'était un homme sévère au tempérament violent. Qui évacuait souvent sa colère sur son propre fils." Son visage blêmit légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je me suis rendu compte qu'elle était tiraillée entre deux rôles très exigeants. Ainsi que deux hommes non moins difficiles." Il lève à nouveau le regard vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"J'éprouvais de la rancune envers elle pour ne pas m'avoir protégé.
+
+"Mais je comprends aujourd'hui que son absence m'a permis de grandir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Que ce fût délibéré ou non, elle m'a donné l'espace nécessaire pour prendre peu à peu mon envol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je suis désolé, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Cela s'est passé il y a des décennies." Il laisse échapper un sourire triste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je suis heureux de mieux pouvoir comprendre ma mère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je suis content pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Prendre mieux soin de vous aurait dû être sa responsabilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est une façon de voir les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Merci. Il était... agréable d'arriver à ces résolutions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Était-elle aussi responsable des accès de colère de mon père lorsqu'il buvait ? De ses attentes irréalistes ?" Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Elle était prisonnière elle aussi.
+
+"Je pense d'ailleurs qu'elle a tenté de m'aider. À sa façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Mais pas la vôtre ?" Un sourire en coin retrousse ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ce n'est pas grave. Après tout, il m'a fallu un certain temps pour arriver à cette conclusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Il secoue la tête, les lèvres serrées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"C'est une chose de pardonner ma mère pour ses absences. C'en est une autre que de justifier les agissements de mon père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Il vous adresse un hochement de tête. "Ça l'était."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Comment va votre père ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Avez-vous vu votre mère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pas bien. Toutes ces années passées à boire ont laissé leur marque. Et je ne pense pas que ma mère lui ait rendu visite depuis que j'ai quitté l'académie." Il fronce les sourcils, la rancune traversant son visage telle une ombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Néanmoins, le temps a... miné sa rudesse. Tel un vieux stelgaer aux dents émoussées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Qu'est-ce qui a changé exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Plus jeune, je le voyais tel un tyran implacable, froid et rigide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je me suis simplement rendu compte qu'en fin de compte, il était faible. Un faible qui, à sa manière, a tenté de m'apporter ordre et structure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne cautionne pas ses violences. Ou encore son tempérament. Mais j'ai pitié de lui pour ses faiblesses, et je lui pardonne ses défauts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il secoue la tête, les yeux baissés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Cela peut paraître étrange, mais il m'est plus facile de pardonner à mon père. Il a beau avoir eu un tempérament cruel, mais au moins il était présent, lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ma mère savait quel genre d'homme il était. Et elle a passé le plus clair de son temps au loin avec son thayn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je suis désolé, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Moi aussi, je serais en colère contre elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous ne pouvez pas la tenir responsable des défauts de votre père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"En effet, mais je la tiens responsable de sa propre absence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nous étions tous deux un handicap pour elle, un mari ivrogne et un fils Éveillé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Elle nous gardait donc à distance. Là où nous ne pouvions pas nuire à ses chances de réussite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Cela s'est passé il y a des décennies." Il laisse échapper un sourire triste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"C'est généreux de votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"J'ai l'impression que vous l'absolvez un peu facilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"C'est une façon de voir les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mais pas la vôtre ?" Un sourire en coin retrousse ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ce n'est pas grave. Après tout, il m'a fallu un certain temps pour arriver à cette conclusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Et c'est une... bonne chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Il laisse échapper un petit rire. "En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Et aux griffes émoussées, j'espère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je ne sais pas. Je perçois différemment aujourd'hui le fardeau de l'autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Et malgré tous ses efforts, mon père n'était pas fait pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Pouvez-vous me rappeler la relation entre vos parents ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Mon père était l'intendant d'un comte dans le Cythwood. Ma mère s'est liée à un thayn par le biais d'un haemneg lorsque j'étais encore très jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je pense qu'ils devaient s'aimer autrefois, mais je n'en ai aucun souvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Pouvez-vous me rappeler la relation entre vos parents ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Mon père était l'intendant d'un comte dans le Cythwood. Ma mère s'est liée à un thayn par le biais d'un haemneg lorsque j'étais encore très jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je pense qu'ils devaient s'aimer autrefois, mais je n'en ai aucun souvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ils semblent être compétents, dans l'ensemble. Je me sentirais mieux si elle n'était pas dirigée par des profiteurs et des animanciens." Aloth esquisse un sourire ironique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"J'avais entendu dire que le Feu éteint était en proie aux pirates, mais j'ignorais à quel point.
+
+Et à quel point ces derniers étaient... élégants." Vous avez le sentiment qu'il est impressionné malgré lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"La reine semble avoir la main légère, pour ainsi dire."
+
+Il tire sur le bout de sa ceinture, pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"La hazanui est une femme plutôt... péremptoire, vous ne trouvez pas ?" Il se gratte le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Comment vous sentez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Pas trop mal, je suppose. C'est un véritable soulagement que de pouvoir utiliser mon vrai nom à nouveau." Il sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Cela faisait longtemps que je n'avais pas eu de conversation franche, surtout à propos de la Clé plombée.
+
+"Contre toute attente, c'est libérateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Il est étrange d'imaginer qu'une secte ancienne comme la Clé plombée a œuvré dans l'ombre pendant toutes ces années.
+
+"Mais nous avons vu bien plus étrange, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Rencontrer les Wahakis m'a obligé à faire face à certaines vérités déplaisantes.
+
+"Il fut un temps où j'aurais pu déplorer d'avoir dû en prendre connaissance, mais plus maintenant.
+
+"Merci." Il hoche la tête, un léger sourire aux lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Le gouverneur Clario semble honnête et bien intentionné. 
+
+"On peut se demander pourquoi il a été affecté à un poste aussi reculé." Il hausse un sourcil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Que pensez-vous des Príncipis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je voudrais connaître votre opinion au sujet des dirigeants des Huanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Que pensez-vous de la Compagnie royale du Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Néanmoins, la seule chose plus dangereuse qu'une nation de pirates unie, est une nation pirate en proie à une guerre interne. Je m'inquiète pour ceux qui seront pris entre deux feux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je suis soulagé que leurs querelles internes soient terminées, surtout maintenant que Furrante est aux commandes. Avec le temps, je pense qu'il leur apportera une stabilité nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"J'imagine que je devrais être content qu'ils se soient stabilisés, bien que je ne sois pas particulièrement satisfait qu'Aeldys soit aux commandes. Elle a l'air... violente. Anarchique." Il pince les lèvres d'un air inquiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Le genre de donzelle qui me plaît !" L'amusement d'Iselmyr apparaît brièvement dans les yeux d'Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Oui, c'est ce qui m'inquiète."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Et peut-être un style plus... cohérent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ce n'est peut-être pas une mauvaise chose. Après tout, le Feu éteint aurait bien besoin d'un peu plus d'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Je pense que c'est l'une des organisations les plus disciplinées et réfléchies qu'il m'ait été donné de rencontrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Et cela ne m'inspire pas une confiance totale. Pas après la Clé plombée." Il se gratte le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je crains que cela ne présage rien de bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Et je pense que c'est une bonne chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Le Feu éteint est tourmenté par les intérêts rivaux et les affrontements entre puissances. 
+
+"Quelqu'un doit mettre de l'ordre dans ce chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ce dont a besoin le Feu éteint, c'est d'une personne capable de diriger sans pour autant réprimer le peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Je peux vous aider ?" Il vous regarde avec un agacement à peine dissimulé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Il reste coi mais vous contemple calmement, le regard plein de mépris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vous avez l'air d'avoir quelque chose en tête." Il penche la tête de côté et vous écoute patiemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je connais ce regard." Il vous adresse un sourire complice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Difficile d'imaginer que ce colosse fait d'adra luisant puisse être aussi difficile à trouver." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"D'un autre côté, les dieux ne vous auraient pas choisi pour une tâche facile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je n'ai pas assisté à la destruction de Caed Nua, mais si cela ressemblait de près ou de loin aux événements d'Hasongo, alors c'est un miracle que vous ayez survécu." Il vous regarde en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Éothas est-il indifférent à la destruction qu'il sème sur son passage ? Ou n'en est-il simplement pas conscient ?" Il fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Dans un cas comme dans l'autre, les conséquences sont alarmantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"J'essaie toujours de comprendre. Penser qu'Éothas voudrait détruire la Roue..." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Peu importe la suite des événements, Eora aura besoin de quelqu'un pour y donner du sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Entre-temps, les dieux se chamaillent sur la marche à suivre. Ils ne valent pas mieux que les autorités et leurs intrigues ici-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Il fronce des sourcils, perdu dans ses pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Je connais ce regard." Il s'approche de vous avec un tendre sourire, suffisamment près pour effleurer vos phalanges des siennes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Aloth regarde la vaste cité antique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Il y a cinq ans, vous contrôliez le destin de milliers d'âmes dans l'Ombre ensoleillée." Il marque une pause en appréciant la vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Mais la décision que vous avez prise aujourd'hui devrait définir le sort de tous les êtres vivants en Eora." Il se tourne vers vous. Ses yeux brillent de curiosité, mais pas seulement.
+
+De pitié, également.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'essaie de ne pas trop y penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Agir au mieux dans l'intérêt du monde est ma responsabilité. Je prendrai la meilleure décision possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Quel que soit mon choix, le monde sera également façonné par d'innombrables facteurs échappant à mon contrôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Il rit. "Trop réfléchir peut être dangereux, oui. Je peux effectivement le comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je sais. Et je suis prêt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Que devrais-je faire, à votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Bien." Il hoche la tête. Il sourit progressivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Je sais, je vous fais confiance." Il sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"C'est sans doute vrai. 
+
+"Et je suppose que s'en souvenir peut être réconfortant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"J'espère." Il sourit, hésitant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je sais que vous ferez preuve de sagesse au moment de décider. Et quoi qu'il arrive, voyager avec vous aura été un honneur. Encore une fois." 
+
+Il pose ses mains sur vos épaules et plonge ses yeux dans les vôtres avec un sourire affectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Quoi qu'il arrive, sachez que je n'échangerais notre voyage pour rien au monde. Je vous fais confiance, votre décision sera la bonne.
+
+"Et je serai ici quand vous reviendrez."
+
+Il vous attire soudainement à lui et vous étreint. Après quelques instants, il revient à lui et vous relâche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[L'embrasser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Merci, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Juste... faites attention."
+
+Il hoche la tête, souriant, mais soudainement embarrassé. Le bout de ses oreilles rougit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Il répond à votre baiser en s'accrochant fermement à vous. Vous ressentez la chaleur de son visage et la chair de poule qui envahit sa nuque.
+
+Enfin, une brise marine de passage vous rappelle les affaires importantes dont vous devez vous occuper ailleurs.
+
+Vous vous séparez. Aloth hoche la tête et serre une dernière fois votre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Nous n'avons pas toujours été d'accord, mais j'espère que vous y songerez sérieusement et que vous choisirez bien. Pour notre bien à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Il laisse échapper un petit rire. "Quand je pense au nombre de fois où je vous ai posé la même question."
+
+Il inspire profondément, pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je suppose que, si cela dépendait de moi, je laisserais quelqu'un, ou quelque chose, en charge. Pour nous guider. Nous montrer la voie." Il pose son regard sur l'antique cité brisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Je suppose que, si cela dépendait de moi, je m'assurerais que les kiths soient libres de choisir leur propre avenir. De triompher ou d'échouer selon nos propres décisions." Il pose son regard sur l'antique cité brisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Mais cela ne dépend pas de moi." Il marque une pause et se tourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ce que vous m'avez appris est vraiment merveilleux : le monde trouvera toujours son propre rythme, quoi que je fasse. Je n'ai pas à trouver la bonne réponse à une question impossible." Il pose son regard sur l'antique cité brisée et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Je compte vous offrir la même sérénité." Il se tourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

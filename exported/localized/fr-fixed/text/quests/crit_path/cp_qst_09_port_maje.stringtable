@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_09_port_maje</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Naufragé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver un moyen de réparer votre vaisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler au gouverneur Clario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Explorer l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous rendre au site d'extraction engwithan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouver Oderisi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retourner voir Clario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retourner à la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retourner à la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Aller en ville pour trouver de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Retourner à la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le Défi s'est échoué après une attaque de pirates, interrompant temporairement la traque d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le Défi a subi de lourds dégâts. Avec une coque aussi mal en point, impossible de mettre les voiles. 
+
+La plupart des îles environnantes sont habitées. Avec un peu de chance, je trouverai de l'aide non loin d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le gouverneur Clario m'a invité à venir le voir dans son domaine à Port Maje pour parler de ma situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Personne ne me tendra la main dans cette ville à présent que j'ai tué le gouverneur. Je dois trouver un moyen de quitter l'île tout seul... sans compter qu'il faut aussi que je trouve un indice m'indiquant où Éothas compte se rendre.
+
+Si je perds sa trace maintenant, qui sait si je la retrouverai un jour ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>L'intérêt de la Compagnie commerciale vailienne pour le centre de l'île porte surtout sur « l'adra lumineux » qu'on trouve sur un site d'extraction engwithan non loin de Port Maje. 
+
+Les animanciens de la ville ne sont pas revenus, et le gouverneur préfère que ses gardes restent près de lui, au cas où les pirates lanceraient un assaut tactique. Il m'a demandé d'enquêter pour lui, en échange de quoi il veillera à ce que mon navire soit réparé et remis à la mer.
+
+Le gouverneur Clario m'a indiqué comment me rendre au site d'extraction, dans la partie est de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai atteint le site d'extraction décrit par Clario. Il est évident qu'Éothas est passé par là, ce qui veut dire que les chances de trouver quelqu'un encore en vie viennent de réduire drastiquement.
+
+Si je pouvais au moins trouver le corps d'Oderisi, ce serait suffisant pour satisfaire la requête de Clario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Le sort d'Oderisi ne fait aucun doute. Je suppose que ce n'est pas ce que le gouverneur Clario espérait.
+
+Plus vite je lui apporterai la nouvelle chez lui, à Port Maje, plus vite il pourra remplir sa part du marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Le gouverneur Clario a dépêché une équipe d'ouvriers pour remettre mon navire à l'eau. Quand je serai prêt à quitter l'île, je n'aurai qu'à aller voir ses ouvriers sur la plage, à côté du Défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Je sais où Éothas compte se rendre ensuite, mais j'ai du mal à trouver un moyen de quitter l'île. 
+
+L'intendante aura peut-être une idée. Je vais aller la retrouver sur la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Je sais ce que cherche Éothas à présent, mais il me faut un navire pour le rattraper. Les chemins menant hors du site d'extraction doivent bien arriver quelque part... peut-être que je finirai par trouver quelqu'un à même de réparer mon navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>En fin de compte, j'ai décidé de tuer le gouverneur Clario. Je me débrouillerai tout seul pour quitter l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé un sentier partant de la plage. Il doit y avoir une communauté non loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai atteint Port Maje. Il y a de l'agitation sur la place centrale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Les animanciens ont suggéré qu'il se pourrait qu'Oderisi soit toujours quelque part dans les ruines en-dessous de l'arène, avec les notes sur ses recherches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Je sais ce qui est arrivé aux animanciens. Je pourrais toujours essayer de retrouver les notes d'Oderisi pour Clario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Clario veut des informations sur l'arène, mais serait surtout curieux de savoir ce qu'il reste des travaux d'Oderisi, l'animancien en chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai tué les animanciens. Il ne mèneront plus aucune expérience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Je me suis lassé de Clario. Je me débrouillerai tout seul pour quitter l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Le navire n'a plus sa splendeur d'autrefois, mais il est en état de naviguer. Je peux de nouveaux naviguer les eaux du Feu éteint, et repartir à la poursuite d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

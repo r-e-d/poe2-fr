@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_upon_new_shores</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>De nouveaux rivages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai trouvé l'esprit de Masog le long d'une passerelle dans la Couronne du serpent. Il avait été poussé de la passerelle, et était logiquement désemparé à ce sujet. Je lui ai dit que je retrouverais celui qui lui avait fait ça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Une servante a mentionné qu'une des leurs, une tisserande, manque à l'appel depuis un moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Dans le panier de la tisserande, j'ai trouvé une note expliquant comment se rendre chez elle à la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai éliminé les marins. Ils ne causeront plus de tort à personne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La servante, Ereti, a raconté une histoire sur les esclaves huanas capturés par la Compagnie commerciale vailienne et récemment vendus à la capitaine de l'Antilope. Elle a pu transmettre un message aux membres de sa tribu, mais a été découverte peu après.
+Ereti m'a donné une carte indiquant le cap prévu de l'Antilope avant de mourir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>La servante, Ereti, est morte. En fouillant ses poches, j'ai trouvé une carte contenant l'itinéraire d'un vaisseau baptisé l'Antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai trouvé l'Antilope en pleine mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>En montant à son bord, j'ai rencontré son capitaine, Teryc Lofell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ma conversation avec le capitaine a été interrompue par d'horribles cris en provenance du pont inférieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai terrassé l'Effigie. Skaen m'a fait part de quelques commentaires avant de récupérer son essence et de s'en aller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Le capitaine Lofell et le reste de l'équipage de l'Antilope ont été tués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>L'Effigie vaincue, le capitaine Lofell a donné l'ordre de jeter les esclaves par-dessus bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai pris la décision de tuer tout le monde sur l'Antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je me suis battu aux côtés du capitaine Teryc Lofell pour vaincre l'Effigie et l'ai soutenu dans sa décision de jeter les esclaves par-dessus bord afin d'éviter que le culte de Skaen se répande dans les îles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Même si j'ai vaincu leur Effigie, j'ai décidé de prendre la défense des esclaves contre le capitaine Lofell.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

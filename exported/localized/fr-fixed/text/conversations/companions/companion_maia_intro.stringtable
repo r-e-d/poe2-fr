@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_maia_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je sais exactement ce que vous vous dites." Maia croise les bras et fait claquer sa langue contre le palais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quoi donc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'en doute sincèrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous vous demandez comment vous avez pu laisser la Compagnie royale du Feu éteint placer une informatrice dans votre équipage." 
+
+Elle laisse échapper un petit rire, qui comporte toutefois une once de résignation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je suis là pour obtenir un tas d'informations, faire un brin de diplomatie et m'entraîner au tir à loisir." Elle écarte les mains, paumes ouvertes, et secoue les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Le doute, c'est sain. On peut faire avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au moins, vous ne cachez pas le fait que vous m'espionnez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Et si mes actions causaient du tort à la Compagnie royale du Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tant que vous êtes disposée à suivre mes ordres, je n'ai aucune objection à vous avoir à mon bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"La compagnie n'a pas pour habitude de réaffecter des officiers en mission sans avoir une sacrée bonne raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Toute cette campagne constitue une analyse des risques et profits. La marine sait que vous êtes un pari, et elle prend en compte toutes les pertes potentielles." 
+
+Maia essuie une ligne de poudre noire sur sa joue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Le Rauatai est là pour faire du bon travail, puisque les Huanas n'ont pas l'air de le faire eux-mêmes. Ce serait bien si vous nous laissiez agir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Lorsque vous êtes sur mon bateau, c'est moi le capitaine. Ne l'oubliez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Il est un peu tôt pour commencer à montrer vos muscles... mais je vais laisser filer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous devriez rencontrer l'oiseau, j'imagine. Ishi est plus malin qu'il n'y paraît, mais ne vous attendez pas à ce qu'il réalise des tours."
+
+Elle montre de la tête l'oiseau de proie coloré qui sautille près de vos chevilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ishiza gratte simplement le sol, puis s'enquiert de quelques insectes situés à quelques bonds gracieux de là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est un bien bel oiseau."
+
+Edér lève une main et agite son index.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Avant de s'aventurer dans des eaux plus profondes... J'ai une question." Maia se racle la gorge en se couvrant la bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous avez un navire et un titre. Être capitaine ne se résume pas à porter un grand chapeau.
+
+"Vous avez de nombreuses décisions difficiles à prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je m'en rends compte au fil de l'eau, mais oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mais je garde quand même mon grand chapeau, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Oui, naturellement. C'est votre droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je recherche Éothas. Je ne veux pas être mêlé aux histoires des compagnies marchandes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Alors, je suis impatiente de voir combien de temps cela prendra avant que vous vous retrouviez dans la poche de quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je n'ai pas tout à fait choisi cette vie, mais je fais de mon mieux pour l'apprécier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"La vie en mer... cela a le don de simplifier les choses pour n'en garder que l'essentiel." 
+
+Maia semble prête à en dire davantage, mais s'interrompt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Vous n'arrêterez jamais de vous pointer, hein ?" Maia hausse un sourcil. Son oiseau fait un petit bond inquisiteur en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Et vous en êtes une sacrée bonne, de raison. Acceptez ce compliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Edér hoche la tête en direction d'Ishiza, qui hoche la sienne en réaction. Edér hoche deux fois la tête, et le grand oiseau répond de la même manière.
+
+Edér commence à incliner la tête de haut en bas, et Ishiza l'accompagne en bougeant tout son corps d'avant en arrière.
+
+Encouragé, Edér se met à sauter, suite à quoi Ishiza s'arrête et observe Edér de biais avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Votre ami a-t-il pris un coup sur la tête ?" Maia fronce les sourcils à l'intention d'Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Imiter le roucoulement d'Ishiza]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Faire claquer votre langue comme Maia]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Bon petit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Génial. Encore un animal de compagnie qui va salir mon navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous produisez des sons doux et chaleureux à l'intention d'Ishiza, qui se tourne et vous regarde avec attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Levant la tête, Ishiza se tourne vers vous avec un mélange de curiosité et de scepticisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ne vous en faites pas pour Ishi. Je vais m'assurer qu'il se comporte bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ça va lui monter à la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Attention. Je l'ai déjà vu arracher des yeux pour moins que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Il faudra un peu d'entraînement pour qu'il vous écoute vraiment, mais c'est un bon début."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Mes supérieurs me demanderont sans doute de faire un rapport de temps à autre, mais ne vous faites pas d'idées. 
+
+"Vous n'êtes pas la seule actualité d'importance dans les parages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Mieux vaut que vous l'appreniez par moi que par quelqu'un d'autre, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Ishi, au pied !" Maia tapote son bras avec deux doigts et fait de nouveau claquer sa langue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Petit petit ! Petit petit !"
+
+Ishiza ne semble reconnaître ni Maia ni Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Simple. Comme je l'aime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Un équipage peut être une vraie famille. Il peut aussi être un nid d'enfants criards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Disons que votre maître-queue s'arrange pour pousser le reste de l'équipage à se mutiner.
+
+"Comment gèreriez-vous la situation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"J'irais en amont du problème, et je chercherais un compromis avec l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Je la tuerais. Pour que cela serve d'exemple aux autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Si elle avait une meilleure idée du moral du groupe que moi, je lui laisserais le commandement jusqu'à atteindre un port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"J'allumerais une mèche dans la sainte-barbe et je sauterais par-dessus bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Régler le problème d'égal à égal. Intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"La terreur est une sorte de loyauté, comme mon premier capitaine le disait toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Je n'ai jamais entendu des conditions de reddition aussi aimables, mais j'ai seulement servi sous des fanfarons brutaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ah... Je n'aurais jamais pensé à cette possibilité, mais me voilà corrigée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Bien sûr, la seule bonne réponse est celle qui fonctionnera, selon le moment et l'endroit. Je voulais juste connaître la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Je laisserais la situation se dérouler. Pour voir ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Bien sûr. Il y a toujours une chance que cela échoue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Mais j'ai assez parlé. Je suis contente d'être à bord, capitaine." Maia saisit votre bras et le serre énergiquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Étrangement spécifique, comme question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Avez-vous déjà maté une mutinerie, soldate ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Quelle est la vôtre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"J'ai déjà vu des choses plus étranges en mer, croyez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"J'ai principalement pris des mesures préventives. On essaie d'arracher les mauvaises herbes avant qu'elles n'atteignent le jardin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Reposez-moi la question quand je porterai le grand chapeau. Cette Maia-là ne sera pas la même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Si votre équipage a toujours besoin d'une Maia, mon offre précédente tient toujours." 
+
+Maia acquiesce avec raideur et croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Cela vous intéresserait-il de rejoindre notre [Player Ship], ou suivez-vous juste vos ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Pourquoi je ne pourrais pas faire les deux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Poursuivre un dieu, c'est mieux que d'effrayer les mouettes qui s'approchent de la poudrière avec Ishi."
+
+Maia fait claquer sa langue pour faire réagir son oiseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"J'apprécierais de bénéficier de votre expertise à bord de notre [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Ça marche pour moi, capitaine. Je me ferai petite, et Ishi se débrouille presque tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Nettoyer ses besoins, en revanche, c'est une autre histoire. Viens, Ishi."
+
+Elle fait claquer sa langue et enfile son sac à dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Votre petit bateau fait le tour des îles plus vite que les mauvaises nouvelles."
+
+Elle vous jauge avec un petit air entendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Vu la situation dans l'archipel, le Rauatai a plus besoin d'une tireuse d'élite que d'une diplomate.
+
+"Qu'en dites-vous ?" 
+
+L'oiseau aux pieds de Maia tend le cou pour vous regarder avec intérêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Par tous les diables, capitaine ! Vous reluquez ce morceau de bois, ces baguettes nues trois fois chiées, là-bas ? C'est le Délice des souffrances, le chancre bourré de pus qui sert de navire à Malnaj !"
+
+Il pointe avec insistance le demi-galion amarré à proximité. Vous ne voyez que deux matelots sur le pont. Le reste de l'équipage est sans doute sur les ponts inférieurs, ou encore à terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Impossible de me souvenir de tous vos amis pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dépêchons, alors. Cela ne peut pas être une coïncidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Malnaj ! La reine de la haute mer, diablesse du Feu éteint ! Malheureusement, aussi notre deuxième meilleur chasseur d'épaves, après votre serviteur, bien entendu."
+
+Il pouffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Malnaj est en quête de la tête de Remaro, ou alors je n'ai jamais franchi la moindre vague. Si elle le trouve avant nous, elle l'enverra dans les abysses au premier coup d'œil ! Allez, cap' !"
+
+Il sautille sur la pointe des pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"La catin était plus que résolue à me haïr à la seconde où j'ai posé le pied sur le Sorcier. Remaro m'a protégé pour que je n'aie pas à endurer la pire partie de sa « formation ». Lorsque sa tête a été mise à prix, je me suis dit qu'assurément, la reine des rats serait la première à cirer la planche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous voyez une tablette en cire couverte de sang, dont les seuls mots lisibles sont : « Udyne » et « Remaro ». 
+
+Vous ne voyez aucun autre signe d'Udyne, de Malnaj ou de Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Gardez les yeux ouverts et soyez à l'affût."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"À vos ordres, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

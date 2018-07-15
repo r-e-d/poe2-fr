@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Réflexes font partie des quatre types de défense (les autres étant la Déviation, la Force d'âme et la Volonté). Ils sont utilisés contre la plupart des attaques de zone qui infligent des dégâts ou saisissent le personnage, comme Boule de feu, Pieds emmêlés ou Souffle de dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Réflexes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La Précision détermine les chances que l'attaque atteigne sa cible, quel que soit le type d'attaque. Elle s'oppose à l'une des quatre défenses de la cible (Déviation, Robustesse, Réflexes et Volonté). Plus la Précision sera supérieure à la défense de la cible, plus l'attaque aura de chance de porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Déviation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>La Déviation fait partie des quatre types de défense (les autres étant la Robustesse, les Réflexes et la Volonté). Elle s'oppose à la plupart des attaques au corps à corps et à distance, ainsi qu'à de nombreux sorts à cible unique portant des attaques de type arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Amélioration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tous les membres du groupe peuvent améliorer une capacité ou recharger leurs ressources épuisées une fois par combat. Une capacité améliorée est lancée comme si l'utilisateur avait 5 niveaux de plus. Un personnage amélioré recouvre la moitié de ses ressources par rencontre. Les personnages ne peuvent utiliser l'amélioration qu'un nombre de fois limité entre chaque repos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Robustesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>La Robustesse fait partie des quatre types de défense (les autres étant la Déviation, les Réflexes et la Volonté). Elle s'oppose aux attaques visant la résistance physique du personnage, comme Renversement, Explosion nocive et la plupart des poisons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Blessures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Si un membre du groupe perd conscience pendant un combat ou subit un incident en rapport avec l'histoire, alors ce membre accusera une blessure. Les blessures provoquent divers effets négatifs et, si le personnage en cumule plus de trois, peuvent également être mortelles. Manger de la nourriture et se reposer aura pour effet de retirer toute blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pénétration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>La plupart des attaques infligeant des dégâts ont un indice de Pénétration. Si la Pénétration de l'attaque est inférieure à la Valeur d'armure de la cible sur ce type de dégât, alors les dommages infligés seront réduits. Lorsque l'indice de Pénétration est au moins deux fois supérieur à la Valeur d'armure de la cible, alors l'attaque se verra accorder un bonus de dégât.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sphère de sûreté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La zone d'effet de base pour beaucoup de sorts peut être augmentée à travers l'Intelligence et certains objets magiques. Cette croissance est représentée par un second cercle plus ample sur la cible. Les personnages présents dans cette zone d'effet élargie seront protégés des attaques alliées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Volonté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La Volonté fait partie des quatre types de défense (les autres étant la Déviation, la Robustesse et les Réflexes). Elle s'oppose à la plupart des attaques mentales telles que Halte, Murmure de trahison ou le Regard charmeur d'un fampyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Équilibrez vos choix d'armure en fonction des rôles de vos personnages. La plupart des personnages de première ligne préfèrent des armures moyennes et lourdes. Même les moines et les bandits peuvent bénéficier d'un peu de protection supplémentaire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Niveau de pouvoir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Toutes les capacités actives voient leur efficacité améliorée (nombre de projectiles, dégâts, durée, Pénétration) à mesure que le Niveau de pouvoir du personnage augmente. Ceci fait que même les capacités de faible niveau sont utiles à mesure que le personnage progresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

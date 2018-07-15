@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sea_creature_whale</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>122</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous tenez sur le gaillard, le regard plongé dans le ciel dégagé et la mer calme. 
+
+Les discussions de votre équipage changent de ton, se faisant plus sombres et plus inquiétantes. Les marins sont rassemblés près du bastingage à tribord et observent la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Attrapez vos lances et préparez-vous à la chasse !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nous allons laisser la créature passer en paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Elle entraîne la yole dans un large cercle autour du vaisseau et projette l'embarcation contre la coque, manquant de peu de déboîter le bras de [Specified 3]. 
+
+Malgré tout, vous sentez que sa force s'amenuise.
+
+Plusieurs heures plus tard, [Specified 1] déclare que vous pouvez faire monter la bête en toute sécurité. Le marin tranche la colonne vertébrale en quelques rapides coups de hache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>La magnifique créature longe votre navire pendant encore plusieurs heures. Vous entendez une mélodie grave aux accents mélancoliques accompagner le clapotis des vagues, et une douceur apaisante enveloppe l'équipage. 
+
+À la tombée de la nuit, la créature est toujours à vos côtés, comme une lueur réconfortante dans l'obscurité. 
+
+Au matin, elle a disparu, mais ce sentiment de paix qu'elle vous a apporté subsiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Les géants des abysses," dit [Specified 0]. "Les Huanas disent qu'ils vivent au fond de la mer, près du cœur du monde, et qu'ils ne viennent que très rarement à la surface. Il semble très rare d'en voir un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Une longue créature pâle émerge de l'eau. Sa peau est translucide, bien que tachetée de phosphorescence, ce qui vous permet de deviner la forme fantomatique de ses organes lumineux. La créature tourne doucement et vous observe de son œil bleu brillant. Le nerf optique est aussi épais qu'une drisse.
+
+[Specified 0] sourit. "Celui-là est encore jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 1] se penche par-dessus le bastingage. "Cette bête est un bon gros tas de viande. Une prise comme ça pourrait nous nourrir pendant des jours. Si le capitaine le permet." [Specified 1] affiche un grand sourire empli d'espoir. 
+
+La plupart des autres marins acquiescent avidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 2] sourit à pleines dents. "Une proie digne de Galawain lui-même. Amusons-nous un peu, capitaine !"
+
+[Specified 1] sourit en hochant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] fait un pas en arrière, atterré. "Vous voulez tuer un des messagers d'Ondra ? Gâcher cette bénédiction ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Harpon à la main, [Specified 2] saute de la barque, profitant de l'élan pour plonger son arme de tout son poids dans la chair de la bête. La créature se débat et sa queue envoie [Specified 2] valdinguer dans l'eau.
+
+La ligne reliant le harpon à la barque se tend alors que la baleine entraîne le tout dans sa fureur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Elle plonge !" hurle [Specified 3]. 
+
+[Specified 1] brandit sa hache et bondit en avant alors que la baleine commence à entraîner la barque sous l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>La magnifique créature retourne dans les profondeurs.
+
+[Specified 0] la regarde partir avec désarroi. "Si rapidement, et sans même une chanson ? C'est effectivement un mauvais présage." L'équipage marmonne en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Identifier la forme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Par Wael, qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Chargez les canons ! À vos postes de combat !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Demi-tour, on dégage d'ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>La mer s'étend jusqu'à l'horizon, légèrement agitée par des petites vagues bleu foncé surmontées d'écume blanche.
+
+"Capitaine !" appelle [Specified 3] depuis le gréement. "Il y a quelque chose dans l'eau à bâbord !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Le navire chevauche une grande vague avant de plonger dans la suivante en tressaillant de tout son long. Accroché à la rambarde, [Specified 0] hurle des ordres depuis la dunette alors que l'eau envahit le pont.
+
+[Specified 3] indique la mer agitée. "Il y a quelque chose dans l'eau !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous reconnaissez la luminescence légendaire d'un Fantôme resplendissant. Ces grandes baleines sont très souvent chassées dans tout le Feu éteint pour leur viande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>À votre connaissance, il n'existe qu'une seule créature marine lumineuse de cette taille : le Fantôme resplendissant. Leur douce chair en font une proie de choix pour les chasseurs de baleines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Un Fantôme resplendissant ! Nous ne pouvions espérer meilleur augure que cette beauté  !"
+
+Tekēhu joint ses mains et chante d'une voix profonde et musicale qui se répercute sur les vagues. La baleine répond avec un majestueux jet d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 5] regarde la lueur croître. "Ça doit être un Fantôme resplendissant. Une sorte de grosse baleine luisante. Bon à manger, d'après ce qu'on raconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Quoi que ce soit, c'est très gros et ça brille comme une lanterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>« Aucune idée » avoue [Specified 5]. "Mais voilà que ça arrive..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Par les dieux", murmure [Specified 1]
+
+La surface de la mer enfle. Une énorme silhouette luisante fait surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Attendez, capitaine..." interrompt [Specified 1] en se tournant vers [Specified 0]. "C'est bien ce que je pense ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous en dites quoi, vous tous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Toucher l'esprit de la créature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vous vous ouvrez aux pensées de la créature et ressentez la puissante impulsion de son âme chatouiller l'orée de votre propre conscience.
+
+Elle semble particulièrement développée, et son esprit est aussi complexe que celui d'un kith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous croyez entendre un chant au plus profond de la bête, un requiem primitif venu des âges sans verbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le tourbillon de pensées que vous y trouvez semble bien plus complexe que celui d'une bête et ne présente pas le froid vide que vous ressentez chez les poissons. Son esprit n'est pas aussi élaboré que celui d'un sauvage, mais la créature est bien plus intelligente qu'un cheval ou une vache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 2] soupire alors que l'équipage se remet au travail. La navigation se poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 2] sautille joyeusement et [Specified 1] vous salue vivement. L'équipage fonce mettre le canot à l'eau. Leurs rames battent l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vos marins attachent solidement la bête sur le flanc du navire. Ils dépouillent la viande riche et grasse du cadavre et la préparent pour le stockage. 
+
+Ce soir-là, vous dégustez un des meilleurs repas que vous avez jamais mangés. La viande de la créature est étonnamment tendre et savoureuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>L'avant du canot jaillit des flots, envoyant [Specified 3] s'écraser contre le plat-bord tandis que [Specified 1] se retrouve avec le bout de la ligne cassée entre les mains.
+
+La lueur de la bête disparaît dans les profondeurs d'où elle est venue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Au large du bastingage bâbord, une sombre silhouette s'extirpe des profondeurs. Les eaux s'écartent autour d'une bosse à la peau épaisse et tachetée. 
+
+Deux puissants jets d'eau jaillissent du dos de la créature, accompagnés d'un son faisant penser à un cor sous-marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Identifier la forme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous en dites quoi, vous tous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Toucher l'esprit de la créature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Attrapez vos lances et préparez-vous à la chasse !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nous allons laisser la créature passer en paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>L'épaisse tête arrondie rappelle une espèce de baleine, à fanons probablement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Specified 5] fronce les sourcils en regardant la mer. "Une baleine à fanons, peut-être ? Ou un grand cachalot. Bref, une sorte de baleine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>C'est une baleine... enfin, vous pensez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>« Aucune idée » avoue [Specified 5]. "Mais voilà que ça arrive..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 2] se passe la langue sur ses lèvres gercées. "Ça, c'est un grand cachalot, capitaine. La meilleure à chasser dans tout le Feu éteint."
+
+[Specified 1] grogne. "Ça ressemble plus à une baleine à fanons. Vous voyez ce jet en v ? Ça veut dire qu'elle a deux évents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 2] ricane. "Ça reste du bon gibier."
+
+"Pas si elle plonge et coule notre canot !" [Specified 1] lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 0] fait un pas en arrière, atterré. "Vous voulez tuer un des messagers d'Ondra ? Gâcher cette bénédiction ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 2] sautille joyeusement et [Specified 1] vous salue vivement. L'équipage fonce mettre le canot à l'eau. Leurs rames battent l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Harpon à la main, [Specified 2] saute de la barque, profitant de l'élan pour plonger son arme de tout son poids dans la chair de la bête. La créature se débat et sa queue envoie [Specified 2] valdinguer dans l'eau.
+
+La ligne reliant le harpon à la barque se tend alors que la baleine entraîne le tout dans sa fureur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Elle entraîne la yole dans un large cercle autour du vaisseau et projette l'embarcation contre la coque, manquant de peu de déboîter le bras de [Specified 3]. 
+
+Malgré tout, vous sentez que sa force s'amenuise.
+
+Plusieurs heures plus tard, [Specified 1] déclare que vous pouvez faire monter la bête en toute sécurité. Le marin tranche la colonne vertébrale en quelques rapides coups de hache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>La baleine plonge avec une vivacité surprenante, arrachant un « Merde ! » spontané à [Specified 1].
+
+Le canot et les marins disparaissent sous les flots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Votre équipage emmaillote la bête dans de solides cordages qu'il attache au bastingage. Ils se jettent ensuite sur la carcasse pour récupérer la viande et l'huile. 
+
+Un chant de baleinier s'élève du navire alors que les marins s'adonnent à leur boucherie.
+
+[Specified 0] les regarde faire depuis la dunette, l'œil mauvais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 2] soupire alors que l'équipage se remet au travail. La navigation se poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Après quelques secondes semblables à plusieurs minutes, l'équipage revient à la surface, toussant et jurant. Le regard noir, [Specified 0] envoie une corde aux marins.
+
+Alors que le navire repart, [Specified 1] jette des regards aux alentours. "Personne n'a vu [Specified 3] ?"
+
+Personne ne répond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>La grande créature suit le navire pendant des heures, son chant semblant résonner dans chaque planche du [Player Ship]. [Specified 0] fredonne doucement, tandis que [Specified 2] jette un peu de nourriture pour remercier le colossal artiste.
+
+[Specified 1] soupire. "Ça mange pas de biscuits."
+
+[Specified 3] glousse.
+
+Vous mettez les voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Une massive silhouette grisâtre apparaît brièvement sous la surface devant vous et disparaît dans un rapide mouvement de queue.
+
+"Par Ondra, c'était quoi ?" hurle [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Identifier la forme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Chargez les canons ! À vos postes de combat !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Attrapez vos lances et préparez-vous à la chasse !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous allons laisser la créature passer en paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Demi-tour, on dégage d'ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0] hoche la tête et commence à crier les ordres. Les marins s'agitent sur le pont et foncent dans la cale. Un concert métallique ne tarde pas à se faire entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] crie : « On n'a plus de boulets, capitaine ! ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>La créature réapparaît, et vous remarquez immédiatement les trois défenses, affûtées comme un trio de lances. 
+
+C'est un qilutaalik, une grande baleine carnivore connue pour trouer les coques des navires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 5] peste. "Un qilutaalik !" Vous voyez les défenses ?"
+
+Vous avez déjà entendu parler de ces immenses baleines carnivores connues pour trouer les coques des navires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>C'est une baleine... enfin, vous pensez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Aucune idée", reconnaît [Specified 5]. "Mais elle n'a pas l'air contente..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 0] reste bouche bée. "Bon sang, capitaine, vous rigolez ?"
+
+[Specified 2], cependant, attrape un harpon. "Je vous préviens, je me réserve une des défenses !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Le canot se retrouve à l'eau et l'équipage se met en position.
+
+Les rames de l'équipage battent l'écume tandis qu'ils se rapprochent du qilutaalik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Harpon à la main, [Specified 2] saute de la barque, profitant de l'élan pour plonger son arme de tout son poids dans la chair de la bête. La créature se débat et sa queue envoie [Specified 2] valdinguer dans l'eau.
+
+La ligne reliant le harpon à la barque se tend alors que la baleine entraîne le tout dans sa fureur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Un harpon à la main, [Specified 2] bondit du canot...
+
+La bête se contorsionne, claquant des mâchoires. Seule la moitié supérieure du corps de [Specified 2] tombe à l'eau.
+
+"Bonté d'Ondra", murmure [Specified 0] tandis que la bête brise le canot en morceaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Bien, capitaine !" [Specified 0] crie des ordres à [Specified 4] au gouvernail ainsi qu'aux matelots dans le gréement. L'équipage s'active sur le pont en réaction aux ordres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] rechigne. "Sans timonier expérimenté à la barre ? Par les dieux !" Le second se met à crier des ordres, et l'équipage s'active sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 4] a le regard braqué vers l'avant, les yeux plissés et les phalanges exsangues à force d'agripper la barre. La coque tribord émet un son ressemblant à une lame glissant contre un bouclier, et la grande bête grise jaillit de la mer, puis perce les voiles de ses trois défenses en mugissant.
+
+Elle retombe dans l'eau, secouant le bateau et précipitant [Specified 4] au sol. Le timonier ne se relève pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Le bateau se met à virer, mais pas assez vite, et le [Player Ship] tremble tandis que la bête le percute de dessous. Quelque part sous vos pieds, des planches se brisent, et des matelots se précipitent vers les écoutilles en attrapant des outils au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Specified 3] croise votre regard. "Pas sûr que ce soit possible, capitaine."
+
+La bête surgit soudain des vagues, comme si on l'avait appelée, et se jette contre le flanc du bateau, ses trois énormes défenses en avant. La défense du haut déchire la grand-voile et le gréement, tandis que celles du bas, plus épaisses, transpercent le flanc du navire et ressortent du pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[SkillCheck 0] réussit tout juste à éviter de se faire empaler par une des défenses qui dépassent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Une d'entre elles frappe [SkillCheck 0] à la jambe, et votre camarade tombe a sol, hurlant à l'agonie en tenant son membre blessé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Feu à volonté !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Attaquez-la pendant qu'elle est coincée dans la coque !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Lui lancer un explosif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Essayer d'apaiser sa rage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Attaquer la créature au moyen de magie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous appelez les âmes et canalisez leur essence avant de vous tendre vers l'esprit de cette bête pour le toucher.
+
+Vous trouvez la boule furieuse d'agressivité et de faim, et vous la dénouez avec précaution, apaisant la colère de la bête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Psalmodiant avec une main levée en direction de la bête, [Specified 5] invoque les esprits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Specified 1] avance à grandes enjambées, la lame à la main, et bondit sur la bête qui se démène pour se dégager. Le marin s'agrippe à la défense supérieure tout en plongeant son arme encore et encore dans la tête de la baleine. 
+
+Dans un roulement de tonnerre, [Specified 0] décharge une arquebuse directement dans l'œil de la bête.
+
+La créature cesse enfin de bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Vous faites l'inventaire de ce que vous avez à votre disposition...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Lancer une grenade]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Lancer un immolateur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Lancer une bombe chimique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Lancer une bombe à éclairs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous lancez des éclairs magiques sur la bête, qui font grésiller sa chair, mais elle continue à se démener, déchirant le pont de ses défenses et mordant la coque de sa gueule dentue, plus enragée que jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 5] lance des éclairs magiques sur la bête, faisant grésiller sa chair, mais elle continue à se démener, déchirant le pont de ses défenses et mordant la coque de sa gueule dentue, plus enragée que jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Le navire tangue tandis que les canons crachent le feu au-dessous, perçant des trous dans la bête et faisant jaillir des geysers de bruine rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Le bateau est secoué par la bordée des canons, mais aucun tir ne touche sa cible. La bête se démène et arrache un pan de la coque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Un grondement résonne, comme la fureur du tonnerre, et le pont cède sous vos pieds. Pendant un moment qui semble se prolonger indéfiniment, le monde tourne autour de vous, puis vous plongez dans l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous vous retrouvez à l'eau en état de choc, tandis que des morceaux de bois et d'acier coulent autour de vous. Trop faible pour nager, vous voyez la surface s'éloigner.
+
+Les ténèbres vous engloutissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Les défenses de la baleine demeurent plantées dans le navire, et le sang rend le pont glissant, mais le calme tombe à nouveau sur le [Player Ship]. 
+
+L'équipage se rassemble, se tapant dans le dos sans mot dire, avant de se mettre à dépecer la bête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>La créature s'immobilise, et vous plongez votre regard dans ses grands yeux noirs. Vous y voyez une lueur de compréhension.
+
+La baleine se tortille pour se libérer de la coque et glisse dans l'onde. Le calme règne à nouveau sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Trouver une autre solution]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>La bête se démène. Vous n'avez plus beaucoup de temps... ni d'options...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Vous lancez l'explosif droit dans l'évent de la bête...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Specified 5] lance l'explosif droit dans l'évent de la bête...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>L'explosif vient se loger entre la bête et le pont, dangereusement au contact du navire...
+
+"Ça ne va pas, la tête ?!" crie [Specified 0].
+
+Il explose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Le dos de la bête entre en éruption et un nuage de sang et de viscères s'en échappe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Des flammes jaillissent de la bête hurlante, brûlant sa chair et grillant vos propres sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>La bête hurle lorsque la bombe corrosive explose dans son dos, déversant sa charge mortelle directement dans ses poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>L'électricité forme des arcs d'un bleu lumineux le long du dos de la bête, bondissant vers le haut du mât et vers l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 1] chuchote une prière discrète, et [Specified 0] vous tape dans le dos. [Specified 3] regarde fixement la mer.
+
+Même les eaux semblent calmées. Pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Mais la bête ignore le marin, nageant droit vers le [Player Ship]. Elle fonce dans le flanc du navire, projetant [Specified 2] violemment contre le côté de la coque. Le marin tombe à l'eau, inerte. 
+
+La défense du haut déchire la grand-voile et le gréement, tandis que celles du bas, plus épaisses, transpercent le flanc du navire et ressortent par le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Specified 0] fait un pas en arrière, l'air révolté. "Vous abattriez un des enfants de Ngati ? Et vous gâcheriez cette bénédiction ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Specified 0] fait un pas en arrière, l'air révolté. "Vous abattriez un des enfants de Ngati ? Et vous gâcheriez cette bénédiction ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Laissez-la partir !."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Si la baleine plonge, ils seront en mauvaise posture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 1] laisse échapper un juron, mais coupe la corde du harpon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>La bête expulse un dernier souffle de ses évents et glisse sous l'eau, vous abandonnant à la mer tumultueuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

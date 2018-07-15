@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_shore_leave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous remontez les rues sinueuses de Neketaka, les sons de la ville, constitués en temps normal du raclement des roues de chariot sur les pavés et des appels des vendeurs, s'estompent, remplacés par la cacophonie de disputes enflammées sur le point d'exploser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Capitaine ?" Un marin inconnu glousse, les yeux cachés sous une capuche. 
+
+
+"Vous devriez apprendre à vos hommes à ne pas se lancer dans des batailles quand ils n'ont pas le cran de les mener jusqu'au bout."
+
+Ses compagnons pouffent de rire en se tournant vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je m'excuse du comportement de mes compagnons, mais je ne peux pas vous laisser les rendre impotents. Je suppose que des excuses ne suffiront pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si vous ne savez vraiment pas qui je suis, vous allez très vite l'apprendre. Mieux vaut ne pas me fâcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attaquer] "Personne ne s'en prend au [Player Ship]. Préparez-vous à répondre de vos actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partir] "[Specified 0] a l'air d'avoir mérité ce qui lui arrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Alors que vous vous éloignez, vous entendez les cris terrifiés de [Specified] mêlés au son des coups de poing et de botte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Alors que les marins dégainent leurs armes et se tournent vers vous, [Specified 0] vous remercie et fonce vers les quais.
+
+Les marins s'avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Les marins se tournent vers vous comme un seul homme et vous inspectent de long en large. L'un d'eux lève une main gantée, la paume tournée vers vous.
+
+"Inutile de faire couler le sang. Prenez votre sous-fifre, capitaine, et nous nous en irons." Elle regarde [Specified 0]. "Priez pour que l'on ne se croise plus, matelot."
+
+Elle tourne les talons et s'en va, suivie par les autres marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les marins s'échangent des regards, et l'un d'entre eux hoche la tête. Elle regarde [Specified 0]. "Nous t'écoutons, matelot."
+
+[Specified 0] vous adresse un regard triste, puis se retourne vers la femme. "Pardon, m'dame."
+
+"Je n'ai pas bien entendu..." Les autres marins pouffent de rire.
+
+"Pardon, m'dame !"
+
+La femme vous salue, puis tourne les talons. Les marins s'en vont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Capitaine ?" Un marin inconnu vous jette un regard noir. 
+
+"Vous êtes un tricheur comme votre marin ? Ce que je vois, c'est que [Specified 0] nous doit quelques pièces. On ne ramène pas des dés pipés à une partie entre amis." 
+
+Ses compagnons approuvent en se tournant vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Capitaine ?" Un marin inconnu vous jette un regard noir. 
+
+"Vous devriez apprendre les bonnes manières à vos marins. Ce sombre crétin a vomi sur nos bottes." 
+
+Ses compagnons approuvent en vous cherchant des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Vous approcher de l'attroupement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Alors que vous passez un angle de rue, vous voyez [Specified 0] au milieu d'un groupe de soldats inconnus. Leurs habits ne vous rappellent pas la mode locale. L'échange verbal entre [Specified 0] et eux est animé, mais vous ne parvenez pas à en comprendre l'objet. 
+
+Un des marins pousse [Specified 0] contre un mur, et la main d'un autre se rapproche dangereusement d'une arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Passer en forme spirituelle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quelques pièces aideront peut-être à dissiper tout malentendu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Un des marins attrape la bourse que vous tendez et la soupèse dans sa main gantée.
+
+"Ouais, l'ami. Ça devrait régler nos affaires entre votre pote et nous."
+
+Les marins vous laissent avec [Specified 0] et s'en vont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Une des voix vous semble familière. [Specified 0], du [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Sortir votre arc et tirer une flèche sur une des brutes inconnues]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Alors que vous passez un angle de rue, vous voyez [Specified 0] au milieu d'un groupe de soldats inconnus. Leurs habits ne vous rappellent pas la mode locale. L'échange verbal entre [Specified 0] et eux est animé, mais vous ne parvenez pas à en comprendre l'objet. 
+
+Un des marins pousse [Specified 0] contre un mur, et la main d'un autre se rapproche dangereusement d'une arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Approcher sans vous cacher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Alors que les marins poussent [Specified 0], toujours vociférant, dans une allée, vous vous positionnez pour passer à l'attaque...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] croise votre regard et ses yeux s'écarquillent. 
+
+"Capitaine ! Dieux merci ! J'aurais bien besoin d'un coup de main !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous décochez une flèche qui s'enfonce profondément dans l'épaule d'un marin. Il recule en vacillant, une main sur la blessure. Du sang coule par vagues entre ses doigts.
+
+Les autres marins s'écartent de vous sans vous quitter du regard. Après quelques murmures échangés, ils tournent les talons et détalent dans la rue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Votre flèche file entre les marins avant de se ficher dans un tonneau. Plusieurs paires d'yeux se tournent vers vous. 
+
+"Ce matelot cherche à nous tirer dessus !" Le marin inconnu se tapote le corps pour vérifier qu'une de vos flèches ne l'a pas touché sans qu'il s'en aperçoive.
+
+Un autre des marins se redresse et vous pointe d'un doigt fin. "Vous avez signé votre arrêt de mort !"
+
+Ses compères approuvent, dégainent leurs armes et s'approchent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Un des marins attrape la bourse que vous tendez et la soupèse dans sa main gantée.
+
+"Ouais, l'ami. Ça devrait régler nos affaires entre votre pote et nous."
+
+Les marins vous laissent avec [Specified 0] et s'en vont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Un silence flotte quelques instants pendant que les marins semblent pondérer vos paroles.
+
+L'un d'eux éclate de rire, et [Specified 0] en profite pour commencer à s'éclipser.
+
+L'une d'eux dégaine une arme qu'elle pointe vers vous. "Montrons à ce capitaine de quel bois nous nous chauffons."
+
+Ils avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Sans mot dire, vous invoquez l'essence spirituelle qui vous entoure. Vos muscles et vos os craquent alors que vous grandissez. Une épaisse fourrure vous recouvre, et des griffes aiguisées jaillissent de vos doigts.
+
+Les marins regardent votre transformation, médusés, terrifiés, et reconsidérant visiblement chaque pas fait dans votre direction. Vous hurlez, l'un d'eux crie, et le groupe se sépare avant de détaler dans les ruelles.
+
+La magie vous quitte et vous reprenez votre forme humaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0] s'approche de vous avec une grande grimace.
+
+"Merci, capitaine ! Vous avez sauvé ma peau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Retournez au [Player Ship], marin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Causez-moi encore des ennuis et ce sera devant moi que vous ramperez. Hors de ma vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Faites attention. La prochaine fois, je ne serai peut-être pas là pour vous sauver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"À vos ordres, capitaine."
+
+[Specified 0] retourne au navire en sifflotant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0] blêmit à vue d'œil. Le marin prend à peine le temps de hocher la tête avant de prendre ses jambes à son cou et de filer vers les quais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Le capitaine a raison, l'ami. Il serait préférable de partir." Serafen pose une main sur la poignée de son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Une manière tout à fait raisonnable de résoudre un problème." Aloth sourit de toutes ses dents en regardant tour à tour les deux camps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Si vous êtes raisonnable, prenez ces pièces." De la pointe de sa faucille, elle dessine une ligne invisible sur sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Quelques pièces aideront peut-être à dissiper tout malentendu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Si vous êtes raisonnable, prenez ces pièces." De la pointe de sa faucille, elle dessine une ligne invisible sur sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les marins se tournent vers vous comme un seul homme et vous inspectent de long en large. L'un d'eux lève une main gantée, la paume tournée vers vous.
+
+"Inutile de faire couler le sang. Prenez votre sous-fifre, capitaine, et nous nous en irons." Elle regarde [Specified 0]. "Priez pour que l'on ne se croise plus, matelot."
+
+Elle tourne les talons et s'en va, suivie par les autres marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous décochez une flèche qui s'enfonce profondément dans l'épaule d'un marin. Il recule en vacillant, une main sur la blessure. Du sang coule par vagues entre ses doigts.
+
+Les autres marins s'écartent de vous sans vous quitter du regard. Après quelques murmures échangés, ils tournent les talons et détalent dans la rue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

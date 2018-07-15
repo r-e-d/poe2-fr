@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_crew_of_the_antelope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La traversée finale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver le cimetière des navires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Chercher les restes de l'Antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Libérer les prisonniers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Lofell&lt;/b&gt;, un capitaine plutôt bizarre, raconte avoir croisé un terrible danger loin au &lt;b&gt;sud-est de Neketaka&lt;/b&gt;. Ce danger lui a volé l'équipage de son navire, &lt;/b&gt;l'Antilope&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lofell parlait d'une île jonchée d'épaves, qui serait apparemment l'antre de ce qui a attaqué son navire et pris son équipage. 
+
+Il semblait penser que ce danger serait une menace pour tous les capitaines de la région, et une horrible fin pour les moins expérimentés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai découvert l'île décrite par Lofell : des centaines de navires ont dû se briser sur ce récif. 
+
+Je peux peut-être trouver une trace de l'Antilope ou de son équipage... ou au moins des créatures qui l'ont attaqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai retrouvé &lt;b&gt;l'équipage de Lofell&lt;/b&gt;, ou tout du moins ce qu'il en restait, c'est-à-dire deux survivants. 
+
+Ils sont enfermés dans une &lt;b&gt;taverne&lt;/b&gt; où le sang tapisse les murs. Sans mon aide, ils finiront dans le ventre d'une goule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai attaqué les survivants de l'équipage de l'Antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai réussi à libérer le passage pour les deux survivants de l'équipage de Lofell. Ils ont promis de vanter mes mérites auprès des Príncipis de Mortelume, mais bon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Le temps que je retourne à la taverne, les captifs avaient disparu. L'obésité générale des mouettes du coin ne laissait aucun doute quant à leur sort : j'arrivais trop tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Lofell n'a pas survécu à notre rencontre, contrairement à son récit : j'ai trouvé l'île qu'il a mentionnée. Peut-être n'était-ce pas qu'un tissu de mensonges.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

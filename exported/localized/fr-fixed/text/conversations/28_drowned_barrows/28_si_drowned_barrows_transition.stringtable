@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_si_drowned_barrows_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une montagne domine l'horizon au nord, dont le versant ressemble à un crâne décomposé. Des oiseaux charognards tournent autour de son sommet, comme un halo morbide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une montagne en forme de crâne s'élève à l'horizon au nord, ses orbites et sa bouche béante imparfaitement dessinées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir au nord]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tandis que vous vous approchez du pied de la montagne, le battement de tambours retentit depuis la bouche béante et les orbites vides du crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Entrer par la bouche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Grimper jusqu'aux yeux]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Grimper jusqu'à l'œil droit]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>La mâchoire en surplomb et le haut du palais éclipsent le ciel. Un écho de voix qui provient de la gorge de la montagne vous indique que vous n'êtes pas seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Des rochers criblés de trous vous fournissent des prises vous permettant de grimper jusqu'à l'arête du nez.
+
+Les vibrations émises par les tambours délogent de temps à autre un caillou de la paroi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Grimper jusqu'à l'œil gauche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Entrer dans l'œil]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Descendre jusqu'à la base du crâne]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous arrivez jusqu'au bord de l'orbite. Une chute à pic mène à l'intérieur du crâne. 
+
+Des lumières brillent faiblement dans les ténèbres en bas, et des voix remontent depuis une source invisible. Il faudrait les bons outils ou une chute agile pour arriver à descendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Sauter dans l'œil]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Redescendre au pied de la montagne]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous atteignez sans difficulté un sol stable. Les percussions se font plus lointaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Une odeur de braseros émane d'un coin éloigné de la grotte, vous promettant chaleur et lumière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous roulez sur vous-même lorsque vous entrez en contact avec le sol, puis vous vous relevez prestement pour reprendre votre souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous marchez jusqu'au bord de l'orbite de l'œil droit. Un petit dénivelé descend dans les ténèbres qui engloutissent l'intérieur du crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Redescendre au pied de la montagne]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous gravissez le visage du crâne jusqu'à vous retrouver à nouveau entre les deux orbites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Fixer un grappin et descendre dans l'orbite]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous atterrissez lourdement. Un craquement d'os et une vive inspiration de [SkillCheck 0] résonnent dans le noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Après avoir solidement ancré un grappin, vous descendez le long de sa corde dans les ténèbres de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous atterrissez brutalement : votre cheville ne supporte pas tout le poids de votre corps et se brise avec un craquement sec. Vous serrez les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous revenez sur vos pas et réfléchissez aux choix qui s'offrent à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Pendant que vous prenez une pause pour examiner vos environs, les tambours oppressants pulsent dans vos oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Pendant que vous prenez une pause pour examiner vos environs, les tambours oppressants pulsent dans vos oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_alive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un navire apparaît à l'horizon. Les voiles ferlées, il gîte sur l'eau. 
+
+"Navire en quarantaine !" s'écrie [Specified 0] de la proue, le doigt pointé en l'air, désignant un pavillon vert ondulant mollement dans la brise au sommet du mât de hune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Très bien. Accostez le navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>L'équipage guide votre navire à côté du vaisseau en quarantaine. Les matelots et le capitaine semblent choqués et inquiets.
+
+"Hylea ait pitié de nous ! lâche le capitaine d'une voix râpeuse. J'avais perdu espoir qu'on nous vienne en aide."
+
+Les matelots ont la tête haute, mais leur posture mal assurée trahit la maladie qui semble tous les affecter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Faites mander le marin le plus malade de votre équipage. Nous le ferons monter à bord, nous l'ausculterons et nous lui administrerons les remèdes appropriés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Aborder le navire et le piller] "Dans cet état, ils sont sans défense ! Ne leur laissez pas une miette !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nous ne pouvons rien faire. Passez au large et reprenons notre route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le capitaine regarde amèrement votre équipage transférer le reste de leurs maigres provisions à bord de votre navire.
+
+"Qu'Ondra vous emporte." Il tente de cracher, mais il a la gorge trop sèche.
+
+Alors que vous vous écartez du navire en quarantaine, vous voyez le capitaine s'effondrer de désespoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nous ne pouvons vous fournir qu'une aide limitée. Nous n'avons pas de quoi vous soigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'équipage épuisé du navire en quarantaine s'affaisse, l'air abattu. La tête pendante, le capitaine acquiesce.
+
+"Je comprends", marmonne-t-il d'un ton empreint de déception et de frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Après un bref examen, le marin malade retourne à bord de son navire avec une quantité suffisante de remèdes pour traiter le reste de l'équipage.
+
+Las mais pleins d'espoir, ils vous saluent tandis que votre navire reprend sa route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Quel mal frappe votre équipage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Alors que votre grand-voile est hissée et que vous prenez le large, [Specified 2] laisse échapper une toux râpeuse et jette nerveusement des regards alentour.
+
+Le reste de l'équipage serre les dents et marmonne quelques jurons. Apparemment, la maladie s'est propagée à votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"La toux du matelot", dit le capitaine d'un air contrit. "Personne n'en est mort, Rymrgand détourne le regard, mais elle mine nos forces et a rapidement contaminé tout l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Certains de mes marins ont attrapé la lèpre intestinale. Nous savons qu'en tant que telle elle n'est pas mortelle, mais nous ne pouvons pas manœuvrer alors qu'ils sont si faibles." Le capitaine passe son équipage malade en revue d'un air compatissant.
+
+"En tout cas, pas sans risque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est la rymbán sjüdh", dit le capitaine, dont la voix tremble de peur.
+
+"La pétrification." "Elle a déjà ôté la vie à la moitié de mes marins... et je ne pense malheureusement pas que nous parviendrons à traiter le reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Specified 2] hausse les épaules et soupire, mais [Specified 1] acquiesce.
+
+"Sage décision, comme toujours, capitaine."
+
+L'équipage s'éloigne du navire en quarantaine et reprend sa route jusqu'à ce que celui-ci disparaisse à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Quoi ?" s'exclame [Specified 3].
+
+Parmi l'équipage, personne d'autre ne proteste à voix haute, mais leurs grommellements laissent à penser qu'ils n'apprécient guère de voir un marin malade monter à bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous scrutez le pont du navire. Quelques matelots semblent faire l'inventaire de la cargaison. Plus pâles les uns que les autres, ils semblent épuisés, leurs vêtements trempés de sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Même sans lunette, vous apercevez quelques marins s'affairer sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1] se penche vers vous. "Mieux vaut être prudent, capitaine. Nous risquons de nous faire contaminer par ce qui accable ces pauvres âmes."
+
+"Néanmoins, rétorque [Specified 2] d'un ton songeur, il pourrait y avoir quelques objets de valeur à bord."
+
+L'équipage vous jette des coups d'œil pour essayer de deviner vos intentions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] se penche vers vous. "Je ne pense pas avoir besoin de vous rappeler ce qui s'est passé la dernière fois que nous avons abordé un navire en quarantaine..."
+
+[Specified 0] affiche un sourire narquois. "Qui ne tente rien n'a rien, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Apprêtez les canons. Les canonniers ont besoin d'entraînement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] écarquille les yeux. "Vous êtes sûr, capitaine ? Vous ne prenez pas votre rôle de héraut de la mort un peu trop au sérieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1] écarquille les yeux. "Vous êtes sûr, capitaine ? Ils ne semblent présenter aucune menace..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"C'est mieux que de laisser la maladie se propager." Aloth hoche la tête avec pondération.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Edér fronce les sourcils. "Qu'ils aillent rejoindre Ondra par leurs propres moyens, si c'est ce qu'ils veulent. Je ne vois pas pourquoi nous devrions décider pour eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Au moins, ça va remonter le moral des canonniers." 
+
+Maia hausse les sourcils et observe la scène avec intérêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Un destin cruel, mais peut-être pas aussi cruel que celui qui les attend."
+
+Elle secoue la tête et tourne son regard vers le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Serafen siffle. "Morbleu, vous avez l'esprit embrouillé, capitaine Gardien ? On ne coule pas tous les navires qu'on croise !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Les dieux nous observent, capitaine... et jugent en permanence s'il vaut mieux agir ou laisser les événements suivre leur cours." 
+
+Tekēhu soupire et se masse la nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Xoti se tord les mains, mais ne dit mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Nous ne pouvons pas les laisser propager leur maladie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous m'avez entendu. Coulez-les."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Avec quoi ? Nous n'avons aucun boulet de canon."
+
+[Specified 2] tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 1] pousse un soupir de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"À vos ordres, capitaine." [Specified 1] se tourne pour transmettre vos instructions aux canonniers.
+
+[Specified 0] fronce les sourcils. [Specified 3] glousse discrètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Une salve de feu jaillit du [Player Ship], déchiquetant la coque du navire en quarantaine.
+
+Il se met à gîter, à prendre l'eau, et vous voyez des matelots sauter à la mer. Leurs hurlements portent.
+
+"Quel gâchis." [Specified 2] fronce les sourcils. "Je suppose que vous ne voulez pas voir s'il y a des choses à récupérer ? Le navire a coulé, de toute façon, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous ne constatez que peu de mouvement sur le pont. Des matelots se prélassent mollement, certains affalés contre le bastingage, d'autres sur le pont. Quelques-uns ont attaché des hamacs entre les mâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Alors que votre équipage guide votre navire à côté du vaisseau en détresse, la capitaine s'approche en titubant. Une pointe d'os, blanche et luisante, perce le côté de son cou. "Par les dieux..." Sa voix est râpeuse. "Vous venez nous porter secours ?"
+
+Quand vous baissez les yeux, vous remarquez que ses poignets et ses chevilles sont hérissés d'éruptions similaires, et que la peau autour des plaies est rouge et suintante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>La capitaine acquiesce avec raideur, quasiment sans la moindre expression. "Je comprends. La pétrification équivaut presque une condamnation à mort. Nous ne pouvons rien vous reprocher." Elle soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Quel mal frappe votre équipage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous ne pouvons vous fournir qu'une aide limitée. Nous n'avons pas de quoi vous soigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Aborder le navire et le piller] "Dans cet état, ils sont sans défense ! Ne leur laissez pas une miette !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>La capitaine regarde amèrement votre équipage transférer le reste de leurs maigres provisions à bord de votre navire.
+
+Elle soupire, abattue. "J'aurais dû m'en douter. Puisse Rymrgand réduire votre âme en poussière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Alors que votre grand-voile est hissée et que vous prenez le large, [Specified 2] laisse échapper une toux râpeuse et jette nerveusement des regards alentour.
+
+Le reste de l'équipage serre les dents et marmonne quelques jurons. Apparemment, la maladie s'est propagée à votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 3] pousse un rugissement intimidant tandis que l'équipage saute à l'abordage du navire en quarantaine. Les marins malades sont trop faibles pour résister et se mettent à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 3] pousse un rugissement intimidant tandis que l'équipage saute à l'abordage du navire en quarantaine. Les marins malades sont trop faibles pour résister et se mettent à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je ne pourrai jamais assez vous remercier, dit le capitaine. Sans votre aide, qui sait combien de temps encore nous aurions moisi ici ?"
+
+Il vous donne une petite boîte. "S'il vous plaît, prenez ceci. En témoignage de ma gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Gardez-le. Vous en aurez sûrement davantage besoin que moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Pas question que j'accepte votre cadeau pestiféré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Après un bref examen, le marin malade retourne à bord de son navire avec une quantité suffisante de remèdes pour traiter le reste de l'équipage.
+
+Las mais pleins d'espoir, ils vous saluent tandis que votre navire reprend sa route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Après un bref examen, le marin malade retourne à bord de son navire avec une quantité suffisante de remèdes pour traiter le reste de l'équipage.
+
+Las mais pleins d'espoir, ils vous saluent tandis que votre navire reprend sa route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Alors que le marin est transbordé du navire en quarantaine au vôtre, votre équipage s'écarte vivement de son chemin. Certains décrivent des signes de protection ou marmonnent des prières à Rymrgand pendant que le malade passe d'un pas traînant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Monsieur."</DefaultText>
+      <FemaleText>"M'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>À l'horizon, une fusée éclairante décrit un arc dans le ciel avant d'exploser dans un nuage rougeâtre qui se dissipe lentement.
+
+"Navire en quarantaine, capitaine", dit calmement [Specified 1]. "Une jonque rauatai, apparemment, qui demande de l'aide."
+
+[Specified 3] et [Specified 0] échangent des regards nerveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 2] s'appuie contre le bastingage pour tenter de mieux discerner le navire. "On les accoste, capitaine ? Peut-être qu'ils ont des choses de valeur à, euh... échanger."
+
+"Ouais, et peut-être qu'on attrapera tous la peste", grommelle [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Specified 3] fronce les sourcils. "Si loin des routes commerciales ? Il pourrait s'agir d'un piège, capitaine. Ils cherchent peut-être à vous attirer par la ruse."
+
+"Une jonque peut très bien abriter de précieux équipements, capitaine", intervient [Specified 2]. "Juste une idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Préparez les filets. Voyons ce que nous pouvons repêcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Partir] "Nous n'avons plus rien à faire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"À vos ordres, capitaine." [Specified 1] hoche la tête.
+
+Sur le pont, personne ne prononce un mot tandis que vous vous éloignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Specified 1] vous salue. "À vos ordres, capitaine."
+
+[Specified 2] sourit. Le [Player Ship] passe les quelques heures suivantes à recueillir des débris dans l'eau avant de mettre à la voile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Lorsque vous traversez, le capitaine vous bloque le passage, l'épée au clair. "Que Hel vous emporte, [Player Name] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Votre équipage farfouille joyeusement dans le butin, sans se soucier des marins condamnés que vous abandonnez derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Le tuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[L'assommer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Le faire tomber par magie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Le marin affaibli ne représente aucune menace pour vous, et il gît bientôt inerte à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>La chute du capitaine sur le pont ôte à ceux qui avaient brandi leurs épées contre vous toute envie de combattre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Faites mander le marin le plus malade de votre équipage. Nous le ferons monter à bord, nous l'ausculterons et nous lui administrerons les remèdes appropriés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Specified 3] reste bouche bée. "Vous êtes devenu fou, capitaine ? On parle de la pétrification, de la rymbán sjüdh ! Le fléau des marins des Blanches étendues ! Si on l'attrape, c'est la mort de notre navire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Vous m'avez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0] soupire de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>La capitaine fronce les sourcils. "Merci, Uroko. Je sais ce qu'ils signifient pour vous."
+
+Le matelot incline la tête. "Un cadavre n'a que faire d'un trésor de famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Votre équipage farfouille joyeusement dans le butin, sans se soucier des marins condamnés que vous abandonnez derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je suis sûre que le Rauatai nous revaudra toute l'aide que nous pouvons apporter. D'une manière ou d'une autre." 
+
+Maia se mordille l'intérieur des joues et réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Nous pouvons peut-être aider. Si nous ne pouvons les soigner, nous pouvons au moins leur accorder une mort miséricordieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Nous ne pouvons probablement pas faire grand-chose pour eux, mais nous pouvons au moins les laisser décider de leur destin." Aloth fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Un seul autre matelot parvient à se mettre debout. Sa gorge est presque entièrement ceinte d'un collier de pointes osseuses qui lui transpercent la peau. "Nous pouvons faire affaire si vous le souhaitez... nous avons une paire de gants enchantés, souples et rapides..."
+
+Il s'appuie lourdement contre le mât. Gênée par les étranges excroissances osseuses, sa respiration est réduite à un halètement superficiel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

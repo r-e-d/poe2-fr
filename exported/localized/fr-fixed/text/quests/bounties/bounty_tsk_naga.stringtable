@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_naga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Vessali Marcheflamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Vessali Marcheflamme&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Nungata&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une des tribus nāgas du coin a mis une prime sur la tête de &lt;b&gt;Vessali Marcheflamme&lt;b&gt;, une chamane des nāgas de feu qui a trahi et assassiné l'un des siens. La dernière fois qu'on l'a vue, elle naviguait aux alentours de la &lt;b&gt;partie est&lt;b&gt; de &lt;b&gt;Kua o Rikuhu&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Vessali Marcheflamme&lt;b&gt; occupe en ce moment sa dernière conquête, une des îles est de &lt;b&gt;Kua o Rikuhu&lt;b&gt;. &lt;b&gt;Nungata&lt;b&gt; paiera un bon prix pour sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Vessali Marcheflamme n'est plus. La nouvelle devrait ravir &lt;b&gt;Nungata&lt;b&gt;, à la &lt;b&gt;Couronne du serpent&lt;b&gt;, sur Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé de Vessali Marcheflamme et j'ai collecté la prime auprès de Nungata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

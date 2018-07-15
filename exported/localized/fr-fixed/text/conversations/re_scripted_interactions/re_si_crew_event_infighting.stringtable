@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_infighting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les oreilles de [Player Animal Companion] frémissent lorsque des cris retentissent sur le pont et interrompent votre toilette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je sais que le reste de l'équipage ne veut pas de vous à bord !" Des postillons jaillissent de la bouche de [Specified 1], ainsi que des invectives dirigées contre Eliam le Magnifique. "Avec votre tête moisie et vos bouts noirs qui dégoulinent. C'est sans doute le ragoût qui vous a fait ça !"
+
+Le divin se tient raide comme la mort, ses yeux cachés ne laissant pas deviner son expression. Ses doigts remuent toutefois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous vous frayez un chemin dans la foule, l'air appesanti par l'odeur de transpiration et d'eau salée. 
+
+"Vous venez profiter de l'action, capitaine ?" demande [Specified 3]. "Vous voulez parier sur l'issue ? Moi, j'ai misé sur la personne la plus moche. Je vous laisse deviner qui c'est !" Le marin rit bruyamment à sa blague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leur donner des écouvillons] "Allez-y. Battez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Les punir] "[Specified 2], attachez ces deux-là aux mâts et allez chercher le fouet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Specified 2], calmez-moi ces deux-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] n'arrive pas à éviter un coup à la tête et titube contre le bastingage. [Specified 0] décoche un coup au genou de [Specified 1], l'envoyant sur le pont dans un cri de douleur. La foule hurle.
+
+"Vous en avez eu assez ?" demande [Specified 0] en lui tendant la main.
+
+[Specified 1] acquiesce, et les marins applaudissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>À vos mots, le cercle s'égaie et [Specified 2] attrape les deux combattants pour les tirer jusqu'aux mâts. 
+
+"Serrez bien fort." Après avoir vérifié la solidité de leurs liens, [Specified 2] vous apporte le fouet en lanières de cuir tressées. "À votre signal, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 2] fend l'air d'un coup de sifflet strident qui calme les hurlements : l'équipage tend le cou pour mieux entendre. 
+
+"Ça suffit comme ça, messieurs-dames !" [Specified 2] lance un bâton aux bagarreurs. "Vous deux, attrapez le goudron. [Specified 1] à l'avant, [Specified 0] à l'arrière. Et n'échangez pas un mot. Vous autres, retournez à vos postes avant que le capitaine ne m'ordonne d'aller chercher le fouet !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 1] esquive un coup ample en se penchant en avant puis se jette dans les jambes de [Specified 0] pour le balayer. Le marin s'affale lourdement sur le pont, accompagné par des railleries sonores.
+
+"Vous vous rendez ?" demande [Specified 1] en lui tendant la main.
+[Specified 0] acquiesce, et les marins applaudissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Des cris qui viennent du pont vous distraient de votre étude de l'histoire des arcanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Des cris qui viennent du pont vous distraient de vos prières à [Player Deity].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Des cris qui viennent du pont vous tirent brutalement de votre méditation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Des cris qui viennent du pont vous distraient des cartes de navigation étalées devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Enquêter sur l'origine du vacarme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[L'ignorer et laisser le problème se régler tout seul]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous mettez votre tâche de côté et montez sur le pont. 
+
+La majorité de l'équipage s'est rassemblée au milieu du navire en une sommaire arène de combat et encourage ou hue l'un des deux marins au centre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Vous ignorez le boucan. La tension monte, après des semaines en mer. Vous estimez qu'elle retombera toute seule.
+
+Plus tard, vous vous apercevez que [Specified 0] a le nez cassé et une croûte de sang sur la lèvre, tandis que l'œil droit de [Specified 1] a gonflé. Chacun jette des regards à l'autre et tout l'équipage semble sur les nerfs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2] se renfrogne dès qu'il vous voit et fait signe au cercle.
+
+"Pardon pour le dérangement, capitaine. On dirait que [Specified 0] et [Specified 1] ont l'intention d'en découdre. Une histoire d'attribution de couchettes et de [Specified 1] qui ronflerait aussi fort que le Mortier lui-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"En voilà du bon grabuge ! On prend le vainqueur, hein ?" L'hilarité d'Iselmyr brille dans les yeux d'Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eh bien, eh bien. Des comptes à régler, des tensions qui naissent... Ça ne peut finir que de deux façons." 
+
+Maia pouffe et vient se placer au bord du ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Serafen hausse les épaules. "Un bon pugilat ou cinq de temps en temps, c'est ce qu'il faut pour remettre un équipage d'aplomb, cap'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ça se bat ? J'adore les bonnes grosses disputes familiales." Xoti tend le cou pour mieux suivre l'action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[S'approcher du cercle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Retourner dans votre cabine] "Je n'ai pas de temps à perdre avec ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous retournez dans vos quartiers. En fermant la porte derrière vous, vous percevez le bruit sourd de deux corps qui s'entrechoquent, suivi peu après par celui d'une foule dont le souffle est coupé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1] accepte avec empressement la tige surmontée d'une éponge, mais Eliam se contente de lever la main poliment en signe de refus. 
+
+"Vous croyez pouvoir me battre à mains nues, face de cèpe ?" [Specified 1] se débarrasse de l'écouvillon avant de se mettre en garde, juste en face d'Eliam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Rangez-moi ces poings dans vos poches et je donnerai une rasade de grog supplémentaire à tout le monde !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Le prochain qui donne un coup de poing passe par-dessus bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Manifester votre aura] "Cessez ces chamailleries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Calmer les esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Les séparer à l'aide d'une explosion magique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Des acclamations s'élèvent sur-le-champ et noient toute protestation des bagarreurs, qui sont séparés par l'équipage. Vous hochez la tête à l'intention de [Specified 2], ordonnant ainsi de commencer les libations pour calmer les ardeurs de l'équipage. 
+
+Les chants de marin débutent avant même que vous ayez regagné vos quartiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Les combattants baissent leurs poings tandis que les membres d'équipage les plus proches s'écartent de vous d'un pas.
+
+"Pas la peine, capitaine." [Specified 1] désigne votre paume ouverte. "Il n'y a rien d'anormal à ça, tout va bien."
+
+Vous continuez d'arborer un regard dur tandis que la foule se disperse et que chacun retourne à son poste en marmonnant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous laissez la puissance de votre âme se manifester, écrasant celles présentes. Les yeux deviennent vitreux et les bouches béantes. 
+
+"Désolé, capitaine." [Specified 1] s'incline. "Je ne sais pas ce qui m'a pris. C'est peut-être le soleil ? Ça n'arrivera plus, c'est promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>L'équipage se disperse, tout en se tenant à bonne distance de vous. Il n'y a que [Specified 5] qui hoche la tête dans votre direction avec un sourire triste.
+
+L'équipage s'applique à ne pas faire de bruit pour le reste de la journée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Avec quelques mots de pouvoir, vous canalisez l'essence ambiante grâce à votre grimoire pour la transformer en une explosion qui sépare les marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Faire preuve de pitié] "J'espère avoir été assez clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Les fouetter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Le claquement du fouet et les cris de douleur ricochent sur l'eau. Après avoir ordonné que les deux individus soient emmenés sous le pont pour soigner leurs plaies, le reste de l'équipage s'empresse d'obéir à vos ordres sans un mot.
+
+Le calme règne à bord du [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Alors que vous rendez le fouet à [Specified 2], [Specified 0] et [Specified 1] acquiescent vigoureusement.
+
+"Absolument, capitaine. Merci, capitaine, et qu'Ondra vous bénisse pour votre miséricorde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Les combattants acceptent chacun un écouvillon et se font face.
+
+"Vous avez entendu le capitaine." [Specified 1] esquisse un sourire narquois. "Battez-vous."
+
+Ils s'échangent des coups, les chocs du bois contre le bois résonnant sur la surface de l'eau sous les acclamations des marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>L'équipage retourne à ses corvées et le calme règne de nouveau à bord du [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous feriez mieux de le laisser tranquille", dit [Specified 4]. "Vous savez bien que son visage n'est pas naturel. Imaginez un peu combien de malédictions il pourrait faire planer au-dessus de votre tête !"
+
+"Raison de plus pour le balancer à la baille !" crie [Specified 1], levant les poings en réaction. "En garde, affreux bâtard !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Eliam se met à marmonner et ses doigts à former des gestes vifs. 
+
+"Ah, par les seins de Magran" grommelle [Specified 1] avant de viser la tête d'Eliam avec l'écouvillon. Il atteint sa cible avec force et l'extrémité de l'écouvillon graisseux se brise, rebondit sur le bastingage et tombe à l'eau.
+
+Dans un mouvement doux, Eliam tend le bras et effleure avec ses doigts celui de [Specified 1]. Une ombre noire s'extirpe de lui et pénètre dans l'autre marin, dont les yeux se révulsent. [Specified 1] est pris de violents tremblements avant de s'effondrer sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Le vacarme cesse instantanément : l'équipage échange des regards. Les spasmes de [Specified 1] continuent et il marmonne un charabia incompréhensible. [Specified 2] se racle la gorge.
+
+"Bien. Le spectacle est terminé. Vous deux." [Specified 2] fait signe à deux hommes. "Emmenez [Specified 1] à sa couchette. Les autres, au travail !"
+
+Les marins retournent vaquer à leurs occupations, un voile restant suspendu au-dessus du pont tel un épais brouillard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Aucune autre rixe n'éclate, mais il s'écoule plusieurs jours avant que l'équipage n'entonne un chant de marin ou ne lève un toast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tête moisie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>La mâchoire de [Specified 1] se décroche. "Merde. Euh. Holà, capitaine. Je voulais dire... bordel."
+
+Certains membres d'équipage pouffent de rire, mais la plupart attend votre sentence en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Retournez à vos postes, à moins que vous vouliez que je vous montre ce dont un Élu de Berath est capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Par les seins en feu de Magran, capitaine..." [Specified 1] émerge du pont en grimaçant. "Je pense pas qu'on méritait ça. Mais message reçu. Ça ne se reproduira plus, juré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>D'un geste de la main, [Specified 5] lance un sort qui envoie valdinguer les marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

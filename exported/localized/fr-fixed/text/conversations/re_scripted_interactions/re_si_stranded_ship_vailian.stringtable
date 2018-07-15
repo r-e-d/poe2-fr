@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] indique un navire au loin. "Un galion, capitaine. Un trois-mâts. Enfin, c'en était un."
+
+Il ne reste rien du mât de misaine hormis une souche brisée, et le beaupré a été arraché.
+
+"Vous voyez comme il a été mutilé ? Ce sont des pirates qui ont fait ça. Probablement les Príncipis, et probablement leurs nouvelles recrues, s'ils opèrent si près des voies des patrouilles vailiennes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Accostez le navire. Nous allons récupérer tout ce qui peut l'être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gardez le cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous assemblez un petit groupe d'abordage et vous ratissez le galion. La plupart de la cargaison et tout l'équipage ont disparu, mais vous trouvez plusieurs tonneaux d'eau douce, ainsi que quelques sacs de riz séché et de farine.
+
+Vos matelots compétents accomplissent leur tâche sans traîner. Vous retournez sur la bateau et ordonnez à [Specified 0] de lever les voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] vous salue. "À vos ordres."
+
+Les membres de l'équipage s'empressent de retourner à leurs postes, impatients de quitter la zone.
+
+Une fois le bateau loin derrière vous, les regards nerveux laissent la place à un soulagement hilare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Votre équipage se rue aux postes de combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2] se penche vers vous. "Ils ont probablement pris tout l'or, mais ils ont peut-être laissé des provisions."
+
+[Specified 1] a le front perlé de sueur. "On ferait bien de ne pas s'attarder par ici. Si les Vailiens nous voient piller l'un des leurs, ils ne nous laisseront pas le temps de nous expliquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous êtes encore sur le galion quand [Specified 0] lance un cri de mise en garde.
+
+Un navire ressemblant à un corsaire vailien fonce vers vous. 
+
+L'équipage du [Player Ship] s'active sur le pont, préparant le navire au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mais alors que les corsaires se rapprochent, vous les voyez pointer du doigt le pavillon de la Compagnie commerciale vailienne que vous battez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mais alors que les corsaires se rapprochent, vous les voyez pointer du doigt vos voiles Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Mais alors que les corsaires se rapprochent, vous les voyez pointer du doigt le pavillon que vous battez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>L'autre capitaine vous salue en soulevant son chapeau, et les corsaires s'éloignent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Apprêtez les canons. Les canonniers ont besoin d'entraînement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Le grand mât arbore un pavillon rouge orné d'une balance et d'étoiles... l'emblème de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 2] secoue la tête et soupire. "Ou on pourrait couler le butin, je suppose."
+
+[Specified 1] acquiesce. "À vos ordres, capitaine."
+
+[Specified 0] crie des ordres, et l'équipage se met à préparer les canons sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Avec quoi ? Nous n'avons aucun boulet de canon."
+
+[Specified 2] tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous assemblez un petit groupe d'abordage et vous ratissez le galion. La plupart de la cargaison et tout l'équipage ont disparu, mais vous trouvez plusieurs tonneaux d'eau douce, ainsi que quelques sacs de riz séché et de farine.
+
+Il faut à vos matelots inexpérimentés une grande partie de la journée pour transférer cela à bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Le temps que vous ayez rejoint votre bateau, levé l'ancre et déployé vos voiles, le corsaire est presque sur vous...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Piller un navire vailien n'est pas mon activité préférée, mais si nous ne prenons pas leurs marchandises, d'autres le feront."
+
+Elle inspecte le navire, les sourcils froncés, et secoue sa tête recouverte de plumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vos canonniers s'avèrent incapables de toucher la cible immobile, leurs tirs ratant largement leur objectif.
+
+L'équipage grimace à la vue de ce spectacle.
+
+[Specified 0] se tourne vers vous. "Encore, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tirez encore une bordée ! Et touchez cette saloperie, cette fois !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Non. Allons-nous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Les canons tirent à nouveau... et ratent une fois de plus leur cible.
+
+[Specified 0] soupire. "Quels sont vos ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Coulez ce foutu bateau !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_relationship_player</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Capitaine, il y a quelque chose qui m'embête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du coin de l'œil, vous remarquez Serafen qui grogne en vous regardant. Lorsque vous vous tournez vers lui, il reprend une expression neutre, sa posture raide, mais soutient votre regard, les yeux plissés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ohé, capitaine ! Si vous voulez bien me prêter l'oreille un instant, j'aimerais vous remercier de m'avoir amené à bord."
+
+Une main poilue posée sur son ventre et un talon tendu vers l'arrière, il s'incline profondément, ses oreilles frôlant le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ohé, capitaine !
+
+Serafen vous salue brusquement, un sourire rayonnant sur son visage poilu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dites-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"... Vous embête ? J'espère que ce n'est pas au sujet de votre vie amoureuse..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vos problèmes ne me concernent pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Très bien, alors. Merci de m'avoir remis à ma place."
+
+Vous sentez la brûlure de la rage à la base de votre crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;i&gt;Une brève série de cris et de hurlements, des coups de fouet lacérant les dos, les éclairs de douleur entre vos omoplates, les cheveux violemment tirés, l'agonie d'un ongle arraché, la griffure des embruns froids et humides de la mer, la douleur dans vos membres, alors que vous êtes attaché au beaupré.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si je suis honnête - et je déteste l'honnêteté -, je ne suis pas certain d'avoir ma place au sein de cet équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous n'êtes pas le seul à être un peu différent, ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pourquoi ? Quel est le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je ne suis pas convaincu que vous ayez votre place ici, non plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tiens donc ? Les îles peuvent être une sale catin sèche pour les marginaux et ceux qui aiment la solitude. Les eaux sont bien plus accueillantes lorsqu'on a un ami à ses côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je trouve que vous pourriez me faire un peu plus confiance. Personne dans votre équipage ne connaît les dangers du Feu éteint comme moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"La confiance se mérite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'y penserai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"C'est ça. Je n'ai peut-être pas encore gagné votre confiance, mais, à mes yeux, la confiance est comme l'eau. Elle vogue plus facilement d'amont en aval."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne suis pas votre mousse. Je ne suis ni un singe à poudre ni un gamin de cabine. Et je ne suis certainement pas votre fichu esclave, pigé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'utiliserai vos services comme bon me semble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Merci, capitaine."
+
+Serafen scrute ses bottes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quelque chose vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Quel est le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Ignorer Serafen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Très bien, capitaine, mais depuis quand accordez-vous le moindre intérêt à ce qui se passe dans ma tête ?"
+
+Sous sa moustache hirsute, les lèvres de Serafen sont tirées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Compréhension] "Je sais que me suivre n'a pas été facile pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Dites-moi, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Parlez." C'est un ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je me demande juste en quoi vous êtes différent du capitaine Furrante. Je n'ai jamais aimé ce vieux bâtard, mais au moins, je savais que je pouvais lui faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous regardez Serafen quelques secondes avant qu'il baisse les yeux. Lorsque vous concentrez votre attention ailleurs, vous sentez un certain soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Qu'est-ce qui vous manque ici, comparé à votre dernier navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Assurément, je suis meilleur que Furrante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Partez, alors ! Il n'y a pas de place sur mon navire pour ceux qui n'ont pas envie d'y être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Alors, je démissionne avec joie de mon poste. J'irai retrouver mes vrais compagnons, sur le Chambellan flâneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vous autorise à partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Oui, par pitié, dégagez, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Non, j'ai besoin de vous, ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Avec tout le respect que je vous dois, Gardien, allez vous faire foutre aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Serafen vous salue ironiquement avec un sourire sardonique, puis s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est trop tard pour ça, Gardien." Vous et moi ? Il n'y a plus rien entre nous, maintenant. Peut-être qu'il n'y a jamais eu quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je n'étais peut-être pas aussi proche de l'équipage du Chambellan, mais au moins, ces bâtards salés me traitaient avec respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je ne peux pas vous contredire à ce sujet, mais comme c'était le cas avec Furrante, c'est évident que vous et moi, nous ne sommes pas amis, aussi vrai qu'un fermier de Dyrwood est sec, et que nous ne le serons jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je veux que nous soyons amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je n'ai pas besoin de votre amitié, juste de votre loyauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Le problème, capitaine, c'est que j'ai rarement rencontré de kith aussi pourri que vous. Les dieux savent que je suis loin de porter la bure, mais par rapport à vous, les quelques principes auxquels je tiens me feraient presque passer pour un saint readceran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Et qu'ai-je fait de si impardonnable ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je suis désolé. Je m'efforcerai de mieux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je ferai ce qui me plaît. Si vous êtes incapable de le supporter, alors vous ferez un piètre repas pour les requins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"'Faut un vrai bâtard pour laisser un ami se noyer dans le sable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous avez raison. Tant que vous n'allez pas chercher des esclaves sur les côtes ou raser le foyer d'innocents."
+
+Il soutient votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je suis content que vous soyez à mes côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vous en prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>La fourrure de Serafen se hérisse et ses yeux s'écarquillent. Sa main frémit près de ses armes, à sa taille. Puis, il soupire bruyamment et se force à esquisser un sourire sinistre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vous êtes la plaie de l'humanité, cap', mais je ferai ce que vous demandez... pour l'instant."</DefaultText>
+      <FemaleText>"Vous êtes la plaie de l’humanité, cap', mais je ferai ce que vous demandez... pour l’instant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Serafen vous salue sobrement, puis retourne à ses tâches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je l'espère bien, d'autant que c'est vous qui en êtes responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je ne m'attends pas à ce que vous compreniez, mais à ce que vous obéissiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Parlez-moi du Chambellan flâneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je n'ai pas le temps pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Notre navire est comme une famille pour moi, et je vous considère comme mon frère, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ah, je me considère plutôt comme votre oncle un peu timbré que votre frère, mais je suis quand même heureux de vous l'entendre dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous êtes un précieux membre de mon équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'ai un présent pour vous. Cette breloque provient d'un des premiers navires que j'ai traqués. Malnaj me l'aurait prise si je n'avais pas trouvé l'endroit parfait pour la cacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je comprends. Vous êtes une partie importante de cet équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Si vous avez fini de vous plaindre, j'ai d'autres choses à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Alors, où l'aviez-vous cachée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Merci pour ce cadeau, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je n'ai pas besoin de ce cadeau. Vous devriez le garder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Non, si je vous le disais, vous risquez de ne plus en vouloir..."
+
+Serafen siffle d'un air innocent, tout en se grattant les fesses aussi subtilement qu'« humainement » possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oui, capitaine Gardien. Au travail, alors."
+
+Il fronce les sourcils et se frotte l'arrière du crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Hein ? Bon, comme vous voudrez. Mais vous devez savoir que, pour les pirates, refuser un cadeau offert de bon cœur attire la pire des malchances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Pourquoi Malnaj vous traitait-elle si mal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ha ! Juste une blague, cap' ! Nan, je l'avais enfoncée dans ma barbe. 'Ne portais pas de tresses, à cette époque, alors mes poils attrapaient tout, des plumes aux os de poisson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Malnaj me secouait de haut en bas après chaque pillage, mais j'avais deviné que jamais elle ne toucherait ma barbe. 'Disait que ma tête lui rappelait un fétiche xaurip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"J'en suis pas sûr, cap'. Au début, je pensais qu'elle avait envie de moi. Les filles font ça, des fois, vous traitent encore plus mal lorsqu'elles vous aiment bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Étant donné qu'elle a tenté de me tuer deux fois durant notre première semaine ensemble, j'étais convaincu qu'elle était follement amoureuse de moi."
+
+Il rit doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"'N'avais aucune envie d'elle, mais un homme a des besoins. Alors, 'me disais qu'elle était aussi mouillée qu'une autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Étiez-vous attiré par Malnaj ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"L'amour pousse les gens à faire les choses les plus farfelues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"À bien y repenser, je ne veux pas le savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"'Décidé de lui murmurer ce que nous pourrions faire ensemble dans la soute... Sa réponse a été un non sans équivoque, avec une certaine sécheresse, d'ailleurs. Probablement le moment où j'ai été le plus près d'y laisser ma fourrure."
+
+Il grimace et se gratte la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"'Peux pas vous en vouloir. Malnaj est un des sujets dont j'aime le moins parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Comme je l'ai dit, je ne l'ai jamais vraiment su. Ce n'était pas parce que je suis orlan... Elle l'est, elle aussi. Remaro m'a dit qu'elle était peut-être verte de jalousie, mais je serais Wael lui-même que je ne comprendrais pas pourquoi."
+
+Il hausse les épaules, ses paumes bien ouvertes, orientées vers le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Alors, quel était le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"En tant que chasseur d'épaves ? Peut-être. Je l'ai certainement dépassée, si je peux dire. Peut-être avait-elle deviné ce qui se passerait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Le Chambellan est le meilleur navire des Príncipis, et le capitaine Furrante notre maître de bord le plus respecté. C'était deux honneurs et demi que d'être choisi pour faire partie de son équipage..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ne vous sous-estimez pas, cap', et moi non plus. Je sais reconnaître une occasion quand j'en vois une."
+
+Il glousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Pourquoi avez-vous accepté de quitter cet équipage pour rejoindre le mien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"C'est bon à savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je sens un « mais » quelque part..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ouais, vous avez pas tort. Rejoindre le Chambellan signifiait quitter le Sorcier, et donc quitter la seule famille que j'avais jamais connue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Je n'avais jamais eu de famille avant le Sorcier. Ils sont ma famille de sel et, à mes yeux, ça compte plus que les liens du sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Et, croyez-moi, je m'apprécie déjà pas mal."
+
+Il arbore un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Mais je vous en prie. Maintenant, si vous voulez bien m'excuser, j'ai pratiquement atteint mon seuil de bons sentiments."
+
+Serafen vous salue avec un grand sourire avant de s'en aller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ne prenez pas trop vos aises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je n'y songerais même pas, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vous avez trouvé ça où ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Et je pense aussi que ça vous ira très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Remaro me l'a donné quand j'ai pris congé du Sorcier. Selon lui, j'étais voué à devenir capitaine moi-même, un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Merci pour le cadeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Est-ce que ça veut dire que vous ne voulez pas être capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Vous devriez garder ça pour quand vous serez capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vous ? "Capitaine ? C'est amusant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Peut-être que je convoitais d'occuper les quartiers du capitaine quand je portais encore le froc de matelot, mais servir Furrante, avec vous, en voyant les qualités qu'il faut pour diriger un équipage... bah, j'admets que, comme le mariage... c'est pas pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Tout le plaisir est pour moi, cap'. Puisse-t-il vous servir à moitié autant qu'à moi."
+
+Il effectue une profonde courbette, puis vous salue et prend congé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Je serais sûrement une belle demi-portion de capitaine pirate si je voulais, encore faudrait-il que mes adversaires me sous-estiment pas. Mes amis, aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Pourquoi pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Pour commencer, j'ai moins qu'une once de patience pour tout ce qui est politique, serrage de pogne, copinage et flagornerie qui va avec le Consuaglo."
+
+Il secoue la tête, puis s'interrompt, souriant, et se tape le centre de la poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Mais, en grande part, ce cœur est deux fois plus tendre que ce bidon. Et probablement aussi poilu."
+
+Il glousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Quand vous recouvrez la vue, Serafen a disparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Hé, ils nous connaissent, ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Il se raidit, menton saillant et lèvre inférieure rentrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Alors, faites plus d'efforts."
+
+Il secoue la tête et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Je sais qu'on n'a pas toujours été comme larrons en foire, mais servir à vos côtés me change quand même agréablement du Chambellan flâneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Vous savez y faire et vous n'êtes pas un mauvais bougre, non plus. Ce sera une bouffée de fraîcheur comparé au Chambellan flâneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"J'ai vu ce qu'il y avait à voir sur le Chambellan, appris les ficelles du métier. Il me semble qu'un Gardien pourchassant un dieu mort m'ouvrira les yeux comme jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ouais, capitaine, c'est sacrément vrai, ce que vous dites là."
+
+Il acquiesce avec sérieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Vous devriez le garder en tête, également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Peut-être vous voyait-elle comme une menace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je crois comprendre. C'est moitié-moins de temps qu'il n'en faut pour vous jeter par-dessus le bastingage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Vous n'êtes pas vraiment sophistiqué, à proprement parler. Vous l'avez probablement vexée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Eh bien, merci mille fois pour l'avertissement, capitaine Gardien. Je vais aller m'exercer à la brasse coulée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ouais, c'est un peu comme ça que je le voyais aussi. Ma grande gueule m'a attiré des ennuis une fois ou dix."
+
+Il cligne de l'œil en ricanant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je n'avais pas réalisé que Malnaj était du genre sensible, voilà tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Gah ! Desganta !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ohé, Serafen, ohé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Qu'est-ce qui vous rend si content ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"À vrai dire, je me suis pas senti aussi bien dans un équipage depuis ma vadrouille sur le Sorcier. Avec Remaro et tous les autres. Une belle époque et demi, pour sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Après avoir cligné des yeux à trois reprises, Serafen laisse échapper un gloussement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Pour vous témoigner ma gratitude, j'ai un présent à vous donner. Seuls les grands capitaines peuvent le porter. Je pense que vous avez les qualifications nécessaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Les sourcils légèrement froncés, Serafen vous fixe du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Peut-être que je pourrais diriger un bateau, comme vous. Sachant garder la quille à flot. Mais vous êtes unique en votre genre, pas vrai ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"La barre du capitaine exige de faire des choix de plus en plus difficiles, et il est certaines choses que je préfère ne pas faire peser sur ma conscience face à Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je connais pas mal de navires qui auraient bien besoin d'un capitaine doté d'un minimum de jugeote."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Vous avez le cœur aussi gros que votre bouche est nauséabonde, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"J'aime quand les gens vous complimentent, Gardien. Ça montre qu'ils sont intelligents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"J'ai toujours su y faire avec les filles."
+
+Il vous décoche un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"J'aurais aimé vous croire, capitaine."
+
+Il secoue la tête et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Si c'est une blague, capitaine, elle est salement pourrie. Sinon..."
+
+Il secoue tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Peut-être que vous vous souvenez fraîchement d'avoir &lt;i&gt;vendu&lt;/i&gt; ce garçon de Fassina aux Rauatais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Deux mots pour vous, cap' : Crochet. Éperon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Pratiquement tout, cap'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Dois-je vous rappeler la petite orlane que vous avez enlevée, puis sauvagement assassinée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Même si je n'étais pas un fervent admirateur d'Aloth, force m'est de reconnaître que vous avez lâchement abandonné cette pauvre andouille."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

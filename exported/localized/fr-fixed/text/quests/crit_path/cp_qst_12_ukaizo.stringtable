@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_12_ukaizo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La cité perdue dans le temps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver &lt;b&gt;Éothas.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Neutraliser la tempête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Faire face à &lt;b&gt;Éothas.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Se rendre à &lt;b&gt;Ukaizo.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vaincre le &lt;b&gt;Gardien d'Ukaizo.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Éothas&lt;/b&gt; se dirige vers la légendaire île d'&lt;b&gt;Ukaizo&lt;/b&gt; pour perturber ou détruire le cycle de réincarnation d'&lt;b&gt;Eora&lt;/b&gt;. Ce n'est qu'en le suivant jusque là-bas que je pourrai le confronter directement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maintenant que je suis arrivé à &lt;b&gt;Ukaizo,&lt;/b&gt;, il ne me reste plus qu'à trouver &lt;b&gt;Éothas.&lt;/b&gt; À supposer qu'il évolue toujours sous la forme d'un colosse de plus de 200 mètres de haut, ça ne devrait pas être bien difficile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Éothas&lt;/b&gt; se trouve quelque part au cœur de la ville. Le chemin jusqu'à lui est barré par une tempête démentielle et un bîaŵac, tous deux semblant provenir d'une tour à l'horizon. Si je trouvais un moyen de neutraliser les tempêtes, je pourrais atteindre &lt;b&gt;Éothas.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que la tempête s'est dissipée, je peux m'aventurer plus loin dans la ville pour y confronter &lt;b&gt;Éothas&lt;/b&gt; directement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Ukaizo&lt;/b&gt; est située loin au &lt;b&gt;nord-est de Neketaka&lt;/b&gt;. Le seul moyen de l'atteindre consiste à emprunter le &lt;b&gt;canal d'Ofecchia&lt;/b&gt;, un passage naturel qui relie les Dents de Magran aux orages du Mortier d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Le gardien d'&lt;b&gt;Ukaizo&lt;/b&gt; est apparu. Je ne serai pas en mesure d'atteindre &lt;b&gt;Éothas&lt;/b&gt; avant d'en être venu à bout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>La flotte huana m'y retrouvera pour me prêter main-forte dans la course effrénée vers Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>La flotte de la Compagnie commerciale vailienne m'y retrouvera pour me prêter main-forte dans la course effrénée vers Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>La flotte de la Compagnie royale du Feu éteint m'y retrouvera pour me prêter main-forte dans la course effrénée vers Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La flotte des Príncipis m'y retrouvera pour me prêter main-forte dans la course effrénée vers Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai tourné le dos à mes alliés. Je n'ai plus aucune aide à attendre de personne durant mon voyage jusqu'à Ukaizo. Je vais devoir atteindre l'île par mes propres moyens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai confronté &lt;b&gt;Éothas.&lt;/b&gt; Il est porteur d'un grand changement pour &lt;b&gt;Eora&lt;/b&gt; et les kiths et dieux doivent s'unir pour y faire face.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

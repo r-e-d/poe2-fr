@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_bs_tavern_patrons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Un toast à nous tous, autant que nous sommes, échoués sur cette maudite île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Est-ce que &lt;i&gt;vous&lt;/i&gt; avez vu le géant ? On n'avait vraiment pas besoin de monstres comme ça dans les parages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ces Étoiles de l'aube pensent que tout est l'œuvre d'Éothas. Comme s'il allait se déranger pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Connaissez-vous la vérité sur l'Œil du kraken ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"On dirait que le gouverneur avait raison. Le ravitaillement afflue, et les affaires reprennent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Neketaka, c'est une ville de gros bourgeois. Un toast pour Port Maje !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Arrêtez-le !"</DefaultText>
+      <FemaleText>"Arrêtez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je n'arrive pas à croire que quelqu'un ait volé l'Œil du kraken !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pauvre Thorel. Il déprime depuis qu'on lui a volé son œil de kraken."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

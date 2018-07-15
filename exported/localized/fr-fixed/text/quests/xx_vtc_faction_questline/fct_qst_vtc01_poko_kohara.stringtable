@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc01_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Termes de l'échange</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enquêter sur la situation à &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner au &lt;b&gt;siège de la Compagnie commerciale vailienne&lt;/b&gt;, à la &lt;b&gt;Jetée de la reine&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La Compagnie commerciale vailienne a envoyé un corps expéditionnaire trouver l'île de Poko Kohara. Ils ne sont jamais revenus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La &lt;b&gt;Compagnie commerciale vailienne&lt;/b&gt; m'a demandé de retrouver l'expédition initialement en route vers Poko Kohara et, le cas échéant, d'achever leur mission. La première étape consiste à naviguer jusqu'à &lt;b&gt;Tikawara&lt;/b&gt;.
+
+On m'a promis une récompense si j'arrive à résoudre la situation au profit de la &lt;b&gt;Compagnie commerciale vailienne&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Les représentants de la Compagnie voudront savoir ce qui est arrivé à &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai fait mon rapport à la Compagnie commerciale vailienne et reçu ma récompense. Il y a d'autres contrats à saisir pour le compte des Vailiens, si cela m'intéresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

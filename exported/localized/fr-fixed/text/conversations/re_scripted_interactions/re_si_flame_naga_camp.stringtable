@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_flame_naga_camp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Devant vous, le col de montagne est bloqué par un groupe de nāgas de feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Vous approcher des nāgas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les nāgas se préparent au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Vous faufiler jusqu'aux nāgas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Les nāgas au repos ne se rendent même pas compte que vous vous approchez d'eux furtivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tandis que vous vous rapprochez discrètement des nāgas, l'un d'entre eux lève la tête et scrute les environs avant de croiser votre regard. Il pousse un sifflement sonore, alertant les autres nāgas, qui se préparent au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tandis que vous vous rapprochez discrètement des nāgas, l'un d'entre eux lève la tête et son regard se pose directement sur [SkillCheck 0]. Il pousse un sifflement sonore, alertant les autres nāgas qui s'avancent en ondulant. Ils ne semblent pas avoir remarqué qui que ce soit d'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Tenir votre position avec [SkillCheck 0]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Profiter de la distraction créée par [SkillCheck 0] pour vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Quand ils vous remarquent, les nāgas s'interrompent un instant avant d'avancer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous fuyez les lieux tandis que vous entendez [SkillCheck 0] livrer bataille, un acte courageux mais futile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Passer les nāgas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Lancer une attaque furtive sur les nāgas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous contournez discrètement les nāgas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous vous rapprochez des nāgas, qui ne se doutent de rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

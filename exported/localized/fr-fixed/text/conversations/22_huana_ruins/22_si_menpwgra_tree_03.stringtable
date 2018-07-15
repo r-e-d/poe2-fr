@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_si_menpwgra_tree_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'écorce de cet arbre, éraflée et meurtrie, a une consistance similaire à de la chair malade. Ses racines sont gonflées de pustules suintants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Murmurer à l'arbre, le convaincre d'expulser la corruption qui empoisonne son cœur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Demander à un druide de murmurer à l'arbre, de le convaincre d'expulser la corruption qui empoisonne son cœur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Détruire l'arbre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Les lianes épineuses plongent sous terre. Du cœur de l'arbre, un gargouillis précède l'éjection d'une flaque noire et bilieuse à vos pieds. 
+
+Privé de ce qui le corrompait, l'arbre semble déjà plus vert et plus vif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous tranchez les racines et les lianes affamées. Telle du sang, de la sève noire suinte du tronc. L'arbre ne va pas tarder à succomber à ses blessures.
+
+Vous entendez le hurlement assourdissant d'une mênpŵgra en proie à la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Quelque chose dans votre sac tressaute et s'agite. C'est l'Épine du vert hallier. 
+
+Le bois palpite d'une blanche lumière spectrale, tremblant légèrement tandis que vous vous tenez à côté de l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Utiliser l'Épine du vert hallier pour soigner la corruption de l'arbre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Alors que vous tendez une extrémité du bâton, l'arbre vibre d'anticipation. 
+
+Curieuses et affamées, d'épaisses vrilles jaillissent du cœur de l'arbre perverti et saisissent la branche offerte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous implorez l'arbre en recourant à des termes qu'il peut comprendre : croissance, temps, eau, invoquant son ancienne nature oubliée. 
+
+Vous lui commandez d'évacuer l'infection qui empoisonne son cœur. 
+
+Les lianes environnantes tressaillent et palpitent en réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous implorez l'arbre en recourant à des termes qu'il peut comprendre : croissance, temps, eau, invoquant son ancienne nature oubliée. 
+
+Vous lui commandez d'évacuer l'infection qui empoisonne son cœur. 
+
+Les lianes environnantes tressaillent et palpitent en réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0] se penche en avant, murmurant à l'arbre et caressant doucement son écorce. 
+
+Les lianes environnantes tressaillent et palpitent en réaction.
+
+[Specified 0] recule et vous adresse un hochement de tête optimiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Soudain, vous sentez les poils se hérisser sur votre nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;DÉMON ! Quittez notre domaine !&lt;/ispeech&gt; La voix désincarnée s'abat sur votre esprit telle une tempête de grêle, puis s'évanouit aussi rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>&lt;ispeech&gt;Qui êtes-VOUS pour oser pénétrer sans autorisation dans notre demeure ? Partez immédiatement, ou vous en subirez les conséquences !&lt;/ispeech&gt; Vous sentez la présence importune quitter votre esprit dans un bruissement de feuilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;Nous vous VOYONS... GARDIEN.&lt;/ispeech&gt; Des murmures pressants, haineux, résonnent dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;Quittez cette île tant que vous le pouvez encore. Vous n'êtes PAS LE BIENVENU.&lt;/ispeech&gt; Avec un bruit de bois sec qui se brise, la voix s'extrait de vos pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;Nous allons nous DÉLECTER de vos suppliques tandis que vous suffoquerez. Intrus.&lt;/ispeech&gt; La voix désincarnée frémit d'anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Étudier l'arbre, voir si tout espoir de guérison n'est pas perdu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>L'écorce est gonflée de sève rance. La vie subsiste quelque part au cœur de cet arbre, mais le temps et la corruption l'ont rendue presque méconnaissable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;ispeech&gt;Notre jardin guérira de toutes les plaies que vous lui infligerez, étranger. Nous avons subsisté au long hiver purulent. Nous vous survivrons aussi.&lt;/ispeech&gt;
+
+Un sentiment d'ancienneté et de profond chagrin imprègne la voix dans votre tête. Elle retourne en virevoltant dans la jungle avant que vous ayez pu apprendre quoi que ce soit d'autre à son sujet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Quelqu'un ayant un lien avec la nature pourrait réparer les dommages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Prendre le bâton] "Que..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le bâton se tortille dans vos mains tel un membre vivant, se tordant en direction de l'arbre perverti. Il semble impatient de plonger dans les filets de sève noire. 
+
+La magie de guérison s'est éveillée dans ce vieux morceau de bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Plaquer le bâton à terre] "Tu n'iras nulle part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>À peine approchez-vous de l'arbre que vous sentez un cri plaintif appeler faiblement à l'aide quelque part en son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Toucher l'écorce, écouter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>De la sève chaude et visqueuse vous coule sur la main. La vie du vieil arbre hurle sa souffrance, vous suppliant de répondre à son appel. 
+
+Vous pensez pouvoir arracher l'arbre à la corruption qui le ronge de l'intérieur, mais il va falloir un peu de travail et de concentration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Ignorer la sensation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ne trouvant aucun espoir, la conscience de l'arbre s'éloigne de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Votre bâton se tortille spontanément entre vos mains. Le bois chauffe soudainement et des épines pointues le hérissent.
+
+L'Épine du vert hallier palpite d'une blanche lumière spectrale, tremblant alors que vous l'approchez de l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Tenir fermement le bâton] "Par Eora..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

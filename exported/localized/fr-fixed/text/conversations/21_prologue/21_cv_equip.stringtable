@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\21_prologue\21_cv_equip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Très bien, servez-vous-en maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous devriez vous préparer au combat, monseigneur. Il ne faut s'attendre à aucune miséricorde de la part des pirates."</DefaultText>
+      <FemaleText>"Vous devriez vous préparer au combat, maîtresse. Il ne faut s’attendre à aucune miséricorde de la part des pirates."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

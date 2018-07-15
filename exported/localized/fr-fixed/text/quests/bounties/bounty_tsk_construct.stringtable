@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : le Prêcheur d'acier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer le &lt;b&gt;Prêcheur d'acier&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Nungata&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un prêtre magranite dans le corps d'acier d'un automate sillonne le Feu éteint en faisant des ravages. On promet une jolie prime à celui qui mettra le &lt;b&gt;Prêcheur d'acier&lt;b&gt; hors d'état de nuire. Aux dernières nouvelles, il se trouvait sur une île au sud de &lt;b&gt;Mortelume&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le &lt;b&gt;Prêcheur d'acier&lt;b&gt; n'a pas l'air d'être un enfant de chœur. On le trouve sur une île au sud de &lt;b&gt;Mortelume&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le Prêcheur d'acier a été mis en pièces. Je peux retourner voir &lt;b&gt;Nungata&lt;b&gt; à la &lt;b&gt;Couronne du serpent&lt;b&gt;, sur Neketaka, pour toucher ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai anéanti le Prêcheur d'acier et collecté la prime auprès de Nungata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

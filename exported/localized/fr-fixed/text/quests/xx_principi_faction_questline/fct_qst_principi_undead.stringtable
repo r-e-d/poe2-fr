@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_undead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Symboles de mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler avec le capitaine Furrante à Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Se rendre au district de l'Escalier sacré à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver l'endroit où repose Yseyr le berathian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouver la tombe d'Yseyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retourner voir le capitaine Furrante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le &lt;b&gt;capitaine Furrante&lt;b&gt; a envoyé un messager me convoquer à &lt;b&gt;Dunnage&lt;b&gt;. Le chef des Príncipis du Consuaglo mes Casitàs souhaite discuter d'une possible opportunité commerciale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le chef du Consuaglo mes Casitàs des Príncipis m'attend dans sa tour, à la colonie pirate de Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La seule piste menant à Lucia Rivan est enterrée quelque part dans l'Escalier sacré, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que je suis arrivé au district de l'Escalier sacré de Neketaka, il me faut découvrir où est enterré Yseyr le berathian.</DefaultText>
+      <FemaleText>Maintenant que je suis arrivée au district de l'Escalier sacré de Neketaka, il me faut découvrir où est enterré Yseyr le berathian.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai pénétré dans un dédale de catacombes sous le temple de Berath. Cela devrait être l'endroit où Yseyr a été enterré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant que j'ai appris certaines choses concernant le passé de Lucia Rivan, &lt;b&gt;Furrante&lt;b&gt; voudra savoir ce que j'ai découvert. 
+
+Rivan est revenue d'entre les morts après s'être fait tuer par Yseyr. Le berathian a traqué le Fonferrus avant de perdre le combat qui s'est ensuivi : la Bataille de l'île de Dusken. Yseyr s'est réfugié à Neketaka et devint mort-vivant pour protéger la puissante épée que Rivan portait lors de sa défaite : l'Engoliero do Espirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai appris qu'il existe un temple dédié à Berath au sein de l'Escalier sacré, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kasu a mentionné qu'Yseyr a été enseveli ici, dans les Sépulcres suspendus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai lu une partie de l'éloge funèbre d'Yseyr. Son champion, Faywden, la Dame qui ne dort jamais, se rendait au combat armée d'une masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai lu une partie de l'éloge funèbre d'Yseyr. Son champion, Borthwn, le seigneur d'Heldengate, combattait les morts-vivants avec une lance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Une porte massive, flanquée de deux squelettes affublés d'une armure cérémonielle, barre le passage menant à une pièce ancienne à l'intérieur des Sépulcres suspendus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai appris qu'Yseyr repose sous le temple berathian, dans un endroit appelé les Sépulcres suspendus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>L'entrée des Sépulcres suspendus se trouve à l'extérieur du temple de Berath, sur sa passerelle inférieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai parlé à Furrante d'une nouvelle piste concernant la nature du Bourreau des mers. Lucia Rivan a perdu la vie et sa puissante épée face à Yseyr le berathian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Le Bourreau des mers du Feu éteint n'est pas qu'une simple légende. La bannière de Lucia Rivan, un ancien paladin Darcozzi, flotte au vent sur le mât de ce galion. Furrante souhaite en savoir plus sur le passé de Rivan et apprendre comment lutter contre cette menace surnaturelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

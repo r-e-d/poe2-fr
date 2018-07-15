@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_exit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous enfilez votre encombrante combinaison de plongée et quittez les ruines. Quand vous traversez le champ protecteur et scintillant des ruines, vous sentez la mer appuyer contre votre torse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>L'intense pression des fonds marins transforme votre remontée en une véritable épreuve d'endurance, et vous devez lutter pour atteindre la surface. Dès que vous jaillissez de l'eau, votre équipage se dépêche de vous ramener sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

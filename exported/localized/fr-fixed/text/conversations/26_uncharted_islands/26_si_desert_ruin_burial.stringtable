@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_burial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>159</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Devant vous se trouve un sarcophage à la riche ornementation, sculpté dans un seul et même bloc d'adra, si pur qu'il en est presque translucide.
+
+La silhouette de la personne gisant à l'intérieur est clairement visible, mais ses traits sont difficiles à distinguer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sur le côté du sarcophage, vous trouvez un panneau opaque sur lequel sont gravés des symboles énigmatiques.
+
+Au sein de ce panneau se trouve un trou qui donne sur l'intérieur du sarcophage. Le trou est bordé d'un cadran en métal poli.
+
+Trois plaques en pierre entourent le cadran, avec chacune une image gravée en relief : un oiseau, une baudroie, et deux anguilles se dévorant mutuellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examiner les plaques et le cadran]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Essayer de déplacer le cadran]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Au moment où vous commencez à tourner le cadran, un grondement résonne dans la pièce, et le sol se met à trembler sous vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Un grincement surgi du passé émane de l'estrade sous vos pieds, tandis que des rouages longtemps inusités se mettent en branle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Pas particulièrement désireux de vous jeter dans la gueule du loup, vous vous éloignez du sarcophage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Passer une main dans le trou]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous plongez une main dans le trou et sentez quelque chose de rêche et de sec au bout de vos doigts. Vous tirez, révélant les ossements d'un bras et les restes d'une main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Encore intrigué, vous replongez la main dans le trou et découvrez une poignée au centre du sarcophage. Rien ne se passe quand vous la poussez et la tirez. Mais lorsque vous la tournez, le résultat semble plus prometteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Tourner la poignée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>La poignée tourne, puis s'arrête et un léger cliquetis se fait entendre. Rien ne semble se passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>La poignée grince quand vous la tournez, puis elle s'arrête avec léger cliquetis. La porte derrière vous s'ouvre dans un souffle d'air déplacé. Le sable cesse de couler des statues avoisinantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[SkillCheck 0] pousse du pied le squelette par terre et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>La poignée s'avère être un dispositif homme-mort : elle arrête le piège, mais uniquement si la poignée est tenue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Relâcher la poignée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Les plaques ont été gravées avec un soin remarquable. Vous reconnaissez les créatures dépeintes comme les représentations huanas des dieux Amira, Ngati et Rikuhu. Le cadran pointe actuellement entre les images de Amira et de Ngati.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous passez vos doigts sur la piste du cadran, à la recherche de détails que vos yeux n'auraient pas décelés. Vous sentez une encoche à peine perceptible au centre de la plaque de Rikuhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>D'après la présence du cadran et des plaques gravées, vous déduisez que le sarcophage est verrouillé par une combinaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Essayer d'ouvrir le sarcophage par la force]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous calez vos doigts pour avoir une bonne prise, rassemblez vos forces, et tentez de soulever le couvercle. Impossible de le bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[L'énigme commence]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Examiner le sarcophage plus attentivement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Un sarcophage d'adra n'est pas de taille face à vous. Vous trouvez une bonne prise, rassemblez vos forces et réussissez à soulever le couvercle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Le couvercle du sarcophage a beau paraître fragile, il résiste à vos tentatives de le briser.
+
+Vous coincez deux pieds-de-biche sous le rebord du couvercle du sarcophage. Le premier se brise dès que vous appuyez dessus, mais le deuxième trouve prise dans l'adra, vous permettant de forcer l'ouverture du couvercle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le sarcophage s'ouvre et s'avère contenir les restes d'un cadavre ancien, vêtu des pieds à la tête des habits hauts en couleurs d'un chef de clan huana.
+
+Le corps repose sur une feuille d'adra, sous laquelle on peut voir les engrenages imbriqués et l'antique machinerie du verrou du sarcophage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Le squelette est entouré d'une grande quantité de pièces anciennes et de pierres précieuses. Le squelette tient entre ses mains une vieille étoffe ouvragée avec des poches cousues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Prendre les offrandes funéraires]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Prendre l'étoffe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Essayer de déplacer le cadran]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>D'après votre précédent examen des plaques, vous êtes relativement certain que la plaque de Rikuhu est la première de la séquence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[L'oiseau, Amira]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous vous demandez où placer le cadran en premier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[La baudroie, Ngati]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Les anguilles, Rikuhu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous tournez le cadran jusqu'à ce qu'il se mette en position avec un cliquetis.
+
+Vous réfléchissez où placer le cadran à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Pour la quatrième et dernière fois, vous alignez le cadran sur une plaque. Vous retenez votre souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[L'oiseau, Amira]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[La baudroie, Ngati]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Les anguilles, Rikuhu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Le sarcophage gronde. Quelque chose empêche les engrenages à l'intérieur de tourner.
+
+Les bouches des statues derrière vous s'ouvrent en grand, figées à présent en un cri silencieux. Le sable s'écoule deux fois plus vite qu'avant.
+
+Le cadran revient à sa position de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Le sable s'écoulant des statues ralentit jusqu'à n'être plus qu'un mince filet, puis s'arrête complètement. Le sable qui s'était amassé sur le sol est évacué de la pièce par un système de grilles.
+
+La porte derrière vous s'ouvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Vous éloigner de l'énigme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vous vous éloignez un instant du sarcophage pour vous calmer les nerfs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le sol tremble sous vos pieds. Mais le sarcophage ne s'ouvre toujours pas.
+
+Le sable s'écoule toujours de la bouche des statues, atteignant bientôt l'estrade.
+
+Le cadran revient à sa position de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Le sarcophage se soulève dans un ultime craquement. Le sable envahit la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous vous débattez pour vous libérer de la marée montante de sable, mais en vain. En l'espace d'un instant, vous êtes enfoui sous la masse écrasante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Tandis que les ténèbres vous engloutissent, la dernière image qui traverse votre esprit est celle du visage déçu de la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 0] relâche le dispositif homme-mort avec un soupir de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Vous entendez le gémissement sourd d'antiques rouages refusant de tourner. Il semble que le dispositif homme-mort empêche le sarcophage de s'ouvrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vous balayez la poussière et le tissu en décomposition des trésors et vous les enfouissez dans votre sacoche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Avec délicatesse, vous dégagez l'étoffe des mains de l'ancien chef de tribu huana et vous la mettez dans votre sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>La poignée semble activer les pièges dans la pièce. Cependant, dès que vous la relâchez, le sable se remet à couler, et la porte derrière vous se referme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 0] pousse un cri de surprise. Le dispositif se rétracte rapidement dans le sarcophage avec un grincement aigu et strident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vous tournez une deuxième fois le cadran jusqu'à ce qu'il soit en place.
+
+Vous réfléchissez où placer le cadran à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[L'oiseau, Amira]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[La baudroie, Ngati]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Les anguilles, Rikuhu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Vous faites pivoter le cadran une troisième fois jusqu'à ce qu'il soit en place.
+
+Vous réfléchissez où placer le cadran à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[L'oiseau, Amira]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[La baudroie, Ngati]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Les anguilles, Rikuhu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Alors que le sable se déverse autour de vous, vous arrachez l'étoffe des mains de l'antique chef de tribu Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Reprendre l'examen du sarcophage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Le sable s'écoule des statues alignées contre les murs. Il s'amasse sur le sol, puis atteint l'estrade. Bientôt, il gagne vos chevilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Après des siècles d'inactivité, les engrenages contrôlant l'ancienne machinerie sous le sarcophage grincent et gémissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Retourner en arrière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Passer une main dans le trou]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Grâce à votre force et à votre ténacité, vous réussissez à dégager le sable du trou dans le sarcophage et à y enfoncer votre bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Vous dégagez frénétiquement le sable du sarcophage, essayant d'atteindre le trou à l'intérieur, mais en vain : le sable s'accumule plus vite que vous ne pouvez l'évacuer .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Retourner en arrière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vous avez intérêt à vous laver les mains après ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Un de ces jours, il faudra que vous me disiez entre quatre yeux ce que vous vous attendiez à trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"On ne doit pas s'ennuyer aux enterrements, avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Et si on évitait de fourrer nos mains dans des trous sombres, au beau milieu d'endroits conçus pour nous tuer ?"
+
+Pallegina examine la main avec une curiosité morbide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Merci, cap', je me demandais où j'avais laissé tout ça."
+
+Serafen plisse le nez en voyant votre sinistre butin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"La prochaine fois, laissez Tekēhu s'en charger, ekera ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Xoti passe la main sur le rebord du trou poussiéreux. Elle sourit en observant la poussière de tombe sur ses doigts, puis les enfouit dans ses cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Si c'est une leçon sur la valeur des prises de risque et la spontanéité, on peut peut-être la remettre à plus tard ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Le truc que vous venez de faire ? Il faudrait peut-être faire l'inverse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Un sarcophage piégé ? Où sont-ils allés chercher une idée pareille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous deviez bien vous y attendre."
+
+L'activité soudaine de l'antique construction ne semble pas perturber Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Vous savez ce qui se passe quand on se charge des cadavres en mer ? &lt;i&gt;Pas ça !&lt;/i&gt;"
+
+Ses oreilles s'agitent alors qu'il s'accroupit pour lutter contre les secousses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ekera, voilà ce qui m'arrive à chaque fois que je me mêle des affaires des morts !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Voilà pourquoi il faut être prudent quand on profane les morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Le visage de [Specified 0] se tord dans un rictus de panique.
+
+Le cadran revient à sa position de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Specified 0] se dresse et étire ses muscles fatigués, poussant un soupir tremblant.
+
+Le sable se remet à s'écouler des statues. Le cadran revient à sa position de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Vous retenez votre respiration autant que vous le pouvez, les bras désespérément tendus vers la poche d'air au plafond qui se réduit petit à petit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vous relâchez la poignée et vous vous éloignez du sarcophage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Vous entendez le grincement et le cliquetis d'engrenages anciens qui tournent au sein du sarcophage d'adra. Vous entendez un grand bruit, puis le couvercle du sarcophage s'ouvre en glissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Les trésors sous vos yeux ne vous étant d'aucune utilité si vous ne parvenez pas à mettre la main dessus, vous réfléchissez à un moyen d'ouvrir le sarcophage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Demander à [Specified 4] de garder la main sur le dispositif homme-mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Specified 4] plonge sa main dans le trou du sarcophage et tourne la poignée du dispositif homme-mort, arrêtant l'écoulement du sable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Abandonner [Specified 4]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Vous ne pouvez pas me laisser comme ça ! S'il vous plaît, attendez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Hé, attendez. On devait retrouver Éothas ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Vous reviendrez pour Ishi et moi, pas vrai ?" Maia déglutit.
+
+Ishiza semble prêt à s'envoler. Mais au lieu de ça, il s'arrête et pousse du bec la botte de Maia, vous jetant un regard froid et accusateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vous !"
+
+Pallegina secoue sa tête emplumée dans votre direction, la main toujours sur la poignée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Cap' ? Vous êtes pas en train de penser... à ce à quoi vous avez l'air de penser, j'espère. Y'a pas pire comme façon de crever... "
+
+Ses grands yeux vous sondent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Mère Ngati, pas comme ça !" 
+
+Une goutte d'encre noire coule lentement de la chevelure de Tekēhu jusque sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"A... attendez. Où croyez-vous aller comme ça ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Vous... vous n'êtes pas sérieux, bazzo ?" 
+
+Fassina fait un mouvement brusque dans votre direction, mais la montée du sable la contraint à maintenir sa prise sur la poignée. Elle mord sa lèvre inférieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"D'accord, très drôle. Revenez maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Lash xe tetuxir med pux xe taxun ! Vous m'entendez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Vous vous éloignez lentement du sarcophage. Incrédule, [Specified 4] vous regarde avec de grands yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Non ! Vous... vous n'oseriez pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Vous vous enfuyez de la pièce, les cris de panique de [Specified 4] retentissant dans vos oreilles. Quelques instants après votre départ, vous entendez la porte se refermer brutalement derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Vu &lt;i&gt;bazzo&lt;/i&gt; ! Si j'étais de nature à prier, je prierais Berath qu'il me ressuscite juste pour vous tuer !"
+
+Elle ne vous quitte pas du regard, sans cligner une seule fois des yeux, jusqu'à ce qu'elle disparaisse de votre vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

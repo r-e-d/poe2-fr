@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_animancer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Meryel la détraquée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Meryel&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Abocco&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Meryel la détraquée&lt;b&gt; est une animancienne qui n'a aucun respect pour la vie. Forte d'un lourd passé d'expériences sanguinaires, sa tête est aujourd'hui mise à prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aux dernières nouvelles, &lt;b&gt;Meryel&lt;b&gt; quittait Port Maje pour se rendre à l'&lt;b&gt;ouest de l'île de Maje&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La vie de carnages et d'expérimentations de Meryel est arrivée à son terme. &lt;b&gt;Abocco&lt;b&gt;, à la &lt;b&gt;Jument sauvage&lt;b&gt;, dans la Jetée de la reine, paiera une prime en échange d'une preuve de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu Meryel et collecté la prime mise sur sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

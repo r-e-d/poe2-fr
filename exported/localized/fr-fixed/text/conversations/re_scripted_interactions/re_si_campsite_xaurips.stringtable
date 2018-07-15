@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_campsite_xaurips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Le vent du désert porte à vos oreilles un murmure sifflant en provenance du canyon devant. Ponctué de craquements et de crépitements, le bruit vous fait penser à des œufs sur une poêle chaude ou à un buisson sec en flammes. Toutefois, le grognement profond qui l'accompagne vous fait dresser les cheveux sur la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Continuer d'avancer prudemment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Écouter attentivement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Le bruit se mue en pépiements réguliers, montant et descendant de façon lente et cyclique. On dirait un chœur de voix... de voix inhumaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Vous pénétrez avec prudence dans le canyon du désert, en restant dans l'ombre que projettent les grandes pierres dressés. 
+
+Devant vous, un groupe de xaurips chante. Sur leurs maigres jambes, ils font des bonds en avant et en arrière, agitant leurs lances. D'entre eux s'élève la silhouette noire et tannée d'un drake. Les ailes de la créature s'élèvent au-dessus d'elle alors qu'elle déchiquète le cadavre d'un sanglier à ses pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Profiter de la distraction pour vous rapprocher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous avancez sans un bruit de pierre en pierre et pénétrez le canyon sans attirer l'attention des créatures...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>En avançant, votre pied glisse sur du terrain friable, envoyant des cailloux dégringoler sur les rochers. 
+
+Les sauvages se retournent tous et posent leurs regards perçants sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>En avançant, le pied de [Specified 0] glisse sur du terrain friable, envoyant des cailloux dégringoler sur les rochers. 
+
+Les sauvages se retournent tous et posent leurs regards perçants sur votre groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>À l'ouest de Neketaka, des plaines vallonnées et verdoyantes s'étendent vers les montagnes. Des plantes épineuses aux fleurs multicolores jalonnent les hautes herbes vert émeraude. Quelques arbres parsèment le paysage, leurs vastes feuillages projetant de l'ombre tels des parasols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Vous traversez discrètement les broussailles, en restant aux aguets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Brandir vos armes et hurler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[Partir] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>En silence, les xaurips vous regardent reculer. Dès que vous êtes suffisamment loin, ils se mettent à pépier entre eux. Quelques-uns retournent à leurs affaires, mais d'autres commencent à monter la garde autour du rocher.
+
+Vous vous éloignez des sauvages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Les yeux perçants des xaurips s'écarquillent devant la soudaine apparition d'une menace aussi proche, et ils trébuchent les uns sur les autres, piaillant et poussant des cris stridents lorsqu'ils essayent de s'écarter. 
+
+Le groupe se disperse, et les xaurips laissent tomber leurs armes pour s'enfuir vers la jungle.
+
+Vous récupérez ce qu'ils ont laissé derrière eux et reprenez votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Les xaurips poussent un cri de surprise quand vous les chargez. Ils se dispersent et lèvent leurs armes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>En restant baissé, vous fuyez les xaurips. L'herbe s'enroule autour de vos jambes et les épines des plantes lacèrent votre peau, mais vous réussissez à échapper aux sauvages... qui n'étaient de toute façon pas à votre poursuite.
+
+Vous reprenez votre souffle et poursuivez votre chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>En restant baissé, vous fuyez les xaurips, mais votre jambe se prend dans les ronces et vous tombez tête la première sur le sol. Voyant les épines s'enfoncer dans votre peau, les xaurips crient gaiement.
+
+Ils lèvent leurs armes et s'avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>En restant baissé, vous fuyez les xaurips... et vous entendez [Specified 3] s'écraser dans les buissons sur votre gauche. Vous tournez la tête et voyez votre compagnon en train d'essayer de se libérer de l'étreinte de ronces sauvages.
+
+Les xaurips pépient gaiement. Les armes levées, ils s'avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Envoyer Ishiza en éclaireur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Détecter la présence d'autres esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Maia vous adresse un signe de tête et lève le bras. Ishiza prend son envol, filant comme un éclair dans le ciel. Il n'est bientôt plus qu'un minuscule point au-dessus de votre tête.
+
+Quelques minutes plus tard, il est de retour et se pose sur le bras de Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Un drake et quelques xaurips. En restant prudents, on peut prendre le dessus.
+
+"Qui c'est qui est un bon garçon ?" 
+
+Maia sort de son sac un morceau de viande qu'elle lance à Ishiza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Les yeux de [Specified 0] se ferment et sa respiration ralentit. Vous sentez le léger picotement du pouvoir du clairvoyant sonder le bord de votre âme avant de se détourner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Bon, cap'. Y'a entre trois et cinq esprits devant. L'un d'eux est sacrément grand et a les crocs."
+
+Serafen grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Difficile d'en être vraiment sûr, mais je pense sentir quatre esprits devant. Ce ne sont pas des kiths, mais ils sont plus évolués que des animaux. L'un d'entre eux a l'air... plutôt affamé."
+
+Ydwin fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Il y a des esprits devant. Des sauvages, je pense. Quatre ou cinq, peut-être ?" [Specified 0] hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Vous sondez avec votre âme, à la recherche de toute pensée dissimulée derrière ce sifflement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Bien vite, vous détectez les pensées de plusieurs créatures. La plupart sont faibles et primitives, mais l'une d'entre elle dégage bien plus de puissance que les autres.
+
+Quelle que soit cette créature, elle a faim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>On dirait des murmures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Continuer d'observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Charmer le drake]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>D'un puissant mouvement de son cou musculeux, le drake déchire le sanglier en deux. Il se dresse sur ses pattes, lève la tête, et ne fait qu'une seule bouchée de la moitié arrière de l'animal. On peut voir le parcours du sanglier dans la gorge du reptile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Un des xaurips s'avance d'un bond. Il retire la coiffe à plumes de sa tête et la jette sur le côté. Puis, il laisse tomber son bâton et écarte les bras devant le drake. La bête massive baisse le regard sur lui, puis, rapide comme un éclair, elle ne fait qu'une bouchée du petit sauvage. 
+
+Les autres xaurips poussent des acclamations, frappant leurs lances contre leurs boucliers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Le regard du dragon se trouble quand vous remplacez ses pensées par les vôtres. Le chant des xaurips s'estompe et les chétifs reptiles échangent des regards confus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Specified 1] chante doucement, et le regard du dragon s'éteint. Le chant des xaurips s'estompe et les chétifs reptiles échangent des regards confus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>La tête du drake se redresse violemment, et il pousse un puissant rugissement. Il tourne son regard dans tous les sens jusqu'à ce qu'un de ses yeux mi-clos tombe sur vous. La tentative de manipulation de son esprit semble l'avoir rendu furieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[Forcer le drake à attaquer les xaurips]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Lui ordonner de s'en aller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Relâcher votre emprise sur le drake]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Le drake gobe méthodiquement les xaurips restants, l'un après l'autre. Le dernier semble avoir du mal à passer : les xaurips ont beau être petits, le groupe a suffi à remplir la panse de la bête.
+
+Il se pelotonne et ferme les yeux, se prélassant au soleil, le ventre plein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>D'une impulsion de ses pattes charnues, ses ailes battant l'air, le drake prend son envol. Les xaurips partent à sa poursuite en poussant des gémissements pitoyables. 
+
+Bien vite, il ne reste plus que vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Les xaurips lèvent leurs armes alors que le drake prend son envol dans leur dos...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Le tuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Vous reprenez la route sans autres perturbations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Endormi, le drake ne se débat même pas quand vous lui enfoncez la lame dans le crâne. Alors qu'une flaque de sang s'étend sous lui, vous prélevez les meilleurs morceaux du reptile.
+
+Votre sordide tâche accomplie, vous reprenez la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>À travers votre lunette, vous distinguez un groupe d'une dizaine de xaurips. Quelques-uns piquent des larves au moyen de longs bâtons, sous la direction d'un de leurs chamans. 
+
+Au centre du cercle, deux des larves s'affrontent, encouragées par leurs gardiens xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Vous traversez discrètement les broussailles, en restant aux aguets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Un des xaurips se redresse, les narines dilatées, et sa tête se tourne directement vers [Specified 0]. Il crie et pépie en pointant une griffe en direction de votre compagnon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[Approcher sans vous cacher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Vous vous avancez vers le groupe, et les xaurips couinent et piaillent à votre approche. Plusieurs d'entre eux lèvent leurs lances et leurs arcs.
+
+Les sauvages échangent quelques regards, hésitant à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Un des xaurips se redresse, les narines dilatées, et sa tête se tourne directement vers vous. Il crie et pépie en pointant une griffe dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Hurlant à leur tour, les xaurips sortent eux aussi leurs armes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Tout à leur affaire, les sauvages ne semblent pas vous avoir remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Franchir la zone discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Vous contournez le groupe sans attirer son attention et vous vous éloignez discrètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>En atteignant le sommet d'une côte, vous repérez un groupe de silhouettes reptiliennes à une centaine de pieds, en bas de la colline. Se tenant voûtés au sommet d'un large rocher plat, les xaurips piaillent et crient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Tandis que vous vous rapprochez, vous remarquez un groupe d'une dizaine de xaurips. Quelques-uns piquent des larves au moyen de longs bâtons, sous la direction d'un de leurs chamans. 
+
+Au centre du cercle, deux des larves s'affrontent, encouragées par leurs gardiens xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Tandis que vous vous rapprochez, vous remarquez un groupe d'une dizaine de xaurips. Quelques-uns piquent des larves au moyen de longs bâtons, sous la direction d'un de leurs chamans. 
+
+Au centre du cercle, deux des larves s'affrontent, encouragées par leurs gardiens xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Les petits êtres sortent des arcs et des lances, et les brandissent devant vous d'un air menaçant.
+
+Cependant, ils ne s'avancent pas pour attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Les laisser là]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Charmer les larves]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Vous murmurez aux esprits, sondant l'âme simple des larves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Specified 3] murmure des mots noyés dans le vacarme produit par les xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Les larves ralentissent puis se figent, et les xaurips poussent des pépiements confus...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Ordonner aux larves de s'en aller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[Ordonner aux larves d'attaquer les xaurips]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Pousser les larves à danser en ondulant]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Faites fuir les larves. Les xaurips les suivront sûrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Faites en sorte que les larves se retournent contre leurs maîtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Faites danser les larves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Du calme. Nous ne vous voulons aucun mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Est-ce que [Player Animal Companion] peut participer à votre... combat de larves ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Le chaman xaurip s'avance, sa coiffe de plumes se balançant sur sa tête. Il piaille, désigne l'horizon, puis une bourse pendant à sa ceinture.
+
+Les autres xaurips hochent la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Les xaurips piaillent furieusement, et agitent leurs lances vers vous comme s'ils cherchaient à vous chasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Les impressionner avec un tour de passe-passe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Les xaurips examinent [Player Animal Companion] avec méfiance. Celui arborant la coiffe à plumes crie, levant ses deux poings rachitiques au ciel, et les autres l'imitent, formant un chœur de hurlements.
+
+Ils semblent d'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Les xaurips vous observent, fascinés par la complexité de votre tour. À la fin, quand vous faites réapparaître la pièce de derrière votre dos, ils poussent des cris stridents, sautillant sur place et levant les mains au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Les xaurips sont captivés par le tour de passe-passe compliqué que réalise [Specified 4] avec une pièce. Quand la pièce, apparemment disparue, réapparaît, ils poussent des cris de joie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Les xaurips observent le tour de passe-passe basique que réalise [Specified 4] avec une pièce. Ils échangent des regards confus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Vas-y doucement, [Player Animal Companion]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Massacre ces larves !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>On dirait qu'il veut vous offrir quelque chose pour vous faire partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Vous n'avez aucune idée de ce qu'il essaye de dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Euh... bien sûr ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Le combat est trop long. Sur la fin, seule votre connexion spirituelle avec votre compagnon animal empêche [Player Animal Companion] de trépasser. Vous absorbez sa souffrance, et les cris des xaurips s'évanouissent presque derrière un voile de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Le combat est court mais intense, et [Player Animal Companion] remporte la victoire. Les xaurips piaillent et hurlent, mais difficile de savoir s'ils sont furieux ou s'ils s'amusent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[Hocher la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Le xaurip plonge la main dans sa bourse, son regard alternant entre vous et son contenu. Vous ne savez pas s'il se méfie de vous ou bien s'il évalue ses possessions. Peut-être les deux.
+
+Il finit par se décider, et sort l'objet qu'il a choisi. Il fait quelques bonds discrets dans votre direction, pose une petite statuette de dragon devant vous, puis regagne sa position en sautillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Partir] "Merci. Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Vous faites un tour de passe-passe basique avec une pièce, et les xaurips vous observent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Le chaman xaurip s'avance, sa coiffe de plumes se balançant sur sa tête. Il piaille, désigne l'horizon, puis une bourse pendant à sa ceinture.
+
+Les autres xaurips hochent la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Vous flattez le dos de [Player Animal Companion] avant de le pousser en avant. Votre compagnon poilu s'avance au centre du cercle et un des xaurips dépose une larve sur le sol. 
+
+[Player Animal Companion] tourne autour de la larve, et elle se rapproche doucement de la bête, faisant claquer ses petites mandibules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Vous flattez le dos de [Player Animal Companion] avant de le pousser en avant. Votre compagnon poilu s'avance au centre du cercle et un des xaurips dépose une larve sur le sol. 
+
+[Player Animal Companion] tourne autour de la larve, et elle se rapproche doucement de la bête, faisant claquer ses petites mandibules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Quand les larves commencent à s'enfuir en rampant, les xaurips restent d'abord bouche bée. Ils se regardent, regardent les larves, regardent leur chaman, puis regardent de nouveau les larves.
+
+Le chaman piaille et hurle, pointant un doigt décharné, et les xaurips se précipitent à la poursuite des larves, dans l'espoir de les récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Les xaurips poussent un cri de surprise quand les larves les attaquent. Ils les lacèrent de leurs griffes et les piquent de leurs lances, tuant leurs anciens animaux domestiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Les xaurips observent, complètement hypnotisés, la danse des larves qui gigotent de concert. L'un d'entre eux se met à battre le rythme sur les écailles de sa poitrine. Les autres xaurips commencent à dodeliner de la tête, à se balancer d'un pied sur l'autre, et finissent par danser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Specified 3] lève un sourcil surpris, mais acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Les sauvages sont de toute évidence distraits...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Vous contournez le groupe sans attirer son attention et vous vous éloignez discrètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Les yeux perçants des xaurips s'écarquillent devant la soudaine apparition d'une menace aussi proche, et ils trébuchent les uns sur les autres, piaillant et poussant des cris stridents lorsqu'ils essayent de s'écarter. 
+
+Le groupe se disperse, et les xaurips laissent tomber leurs armes pour s'enfuir vers la jungle.
+
+Vous récupérez ce qu'ils ont laissé derrière eux et reprenez votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Vous n'avez jamais vu de sauvages aussi peu impressionnés. L'un d'eux secoue la tête, posant d'un air déçu une main sur son museau. Un autre s'assied, prenant sa tête entre ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

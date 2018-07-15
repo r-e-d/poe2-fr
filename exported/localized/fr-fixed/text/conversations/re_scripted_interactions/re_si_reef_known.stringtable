@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_known</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les eaux s'assombrissent à tribord de la proue. Des éperons et des pics acérés jaillissent des flots pas loin du navire.
+
+Vous entendez des voix en provenance de la barre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Passons par le récif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Contournons le récif. Je ne veux pas endommager le navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] guide d'une main experte le navire, qui esquive les amas de rochers et de coraux avec la grâce d'un danseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] tente de guider le navire par le récif sans rien accrocher, mais en vain. Vous sursautez en entendant le vaisseau racler contre le corail et la pierre. Un bruit de bois déchiré résonne sur tout le pont. Les marins foncent dans la cale pour essayer de repérer les fuites et les réparer avant que les stocks soient endommagés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Alors que vous reprenez votre route, [Specified 4] et [Specified 1] font fureur avec leurs histoires mélancoliques à la gloire de la Merveille de Teotara... gloire que vous avez manquée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mais [Specified 0] s'accroche au gouvernail avec une détermination farouche. "Peu importe si c'est la poitrine salée d'Ondra. On passe pas dans un récif." [Specified 0] vous remarque et se calme. "Capitaine. Aidez-moi à ramener [Specified 1] à la raison."
+
+[Specified 1] reste bouche bée en vous voyant. "Et manquer notre chance ? Voilà des semaines que les marins attendent un temps et une mer aussi calmes. Si vous voulez voir la Merveille de Teotara, c'est maintenant ou jamais."
+
+D'autres membres de l'équipage se sont rassemblés, une lueur d'espoir dans les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qu'est-ce que la Merveille de Teotara ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] hausse les épaules. "C'est censé être une vue de toute beauté. Un mystère antique. Je sais pas vraiment, je l'ai jamais vue."
+
+[Specified 4] acquiesce. "Un vétéran avec qui j'ai navigué racontait l'avoir vue. Il jurait que ça lui a garanti dix années de bonne santé et de vents favorables."
+
+Les autres marins murmurent, enthousiastes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Specified 2], avons-nous des cartes pouvant nous faire traverser le récif ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"[Specified 3], dans quel état est la coque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2] hoche la tête, sans conviction. "Il y a du bricolage, mais ça tiendra... tant que [Specified 0 nous sort de là."
+
+[Specified 0] lance un regard noir à [Specified 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 3] sourit à pleines dents. "Les réparations sont solides, capitaine. Personnellement, je ne m'aventurerais pas dans un récif, mais c'est le moment ou jamais d'essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Les sourcils froncés, [Specified 3] inspecte chaque planche du pont du regard. "Je suppose qu'elle pourrait prendre un coup ou deux. Mais je ne le recommanderais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 3] vous fixe, les yeux écarquillés. "C'est déjà un miracle qu'on prenne pas l'eau, capitaine ! C'est pas vraiment le moment de tenter le diable !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Les hauts-fonds multicolores laissent place aux profondeurs d'un bleu uniforme. Un énorme gouffre s'ouvre autour de vous, assez large pour engloutir une flotte.
+
+[Specified 0] soupire de soulagement pendant que [Specified 1] scrute l'horizon à la recherche d'un signe de la merveille mythique.
+
+Le [Player Ship] met les voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>La majeure partie de la pierre est incrustée de corail, mais les portions visibles s'enroulent au-dessus de l'eau en de longues spirales entortillées. L'adra se développe naturellement en grands piliers, mais la formation que vous avez sous les yeux ressemble plus aux sept tentacules d'un terrible monstre marin tentant d'attraper le ciel.
+
+[Specified 2] siffle doucement. "C'est tellement ancien. Ça doit être les Engwithans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Il est effectivement difficile de déterminer si l'étrange forme de l'adra a été lentement façonnée par la mer ou déformée par elle. Et c'est une partie de cette ambiguïté qui rend le spectacle encore plus extraordinaire.
+
+Le reste de l'équipage rejoint le débat sur la signification et les origines de la merveille, mais sans élever la voix, encore impressionné par le spectacle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ce doit être le triomphe d'un peuple ancestral ! Nous avons de la chance de le contempler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Et maintenant que nous l'avons bien vu. Pouvons-nous repartir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gardez le cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0] contourne l'adra en maintenant une distance de sécurité.
+
+[Specified 1] et [Specified 4] foncent à la dunette, toujours médusés par la Merveille de Teotara, incapables de la quitter des yeux jusqu'à ce qu'elle disparaisse à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Impossible de savoir d'où elle vient. Profitez-en bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Elle représente la malice des dieux. Regardez, ils l'entraînent dans les profondeurs. Pour l'éternité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"C'est clairement l'œuvre des dieux. Et nous sommes bénis d'avoir pu poser les yeux dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Par la grâce d'Ondra", chuchote [Specified 4], la tête baissée. [Specified 1] et [Specified 2] échangent des sourires reconnaissants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 1] vous jette un regard, les sourcils froncés, et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ils vous fixent du regard, la bouche ouverte sous le coup de l'horreur. 
+
+Après un dernier regard à l'adra, ils retournent à leurs affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 2] hoche la tête pendant que [Specified 4] murmure une douce prière. Le reste de l'équipage hoche la tête et retourne à ses affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"La Merveille de Teotara est toute proche ! Tous les marins doivent la voir au moins une fois !" [Specified 1] joint les mains pour vous implorer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Le corail mort darde ça et là hors de l'eau, semblable à des pattes d'araignée. Le vent siffle en passant entre les appendices acérés. Dans l'eau, des bancs de poissons filent entre les récifs brillants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1] montre les basses eaux. "Nous pouvons gagner quelques jours de traversée en passant par ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous retournez aux hauts-fonds qui pourraient offrir un raccourci à travers l'archipel... pour peu que le [Player Ship] puisse résister aux vicieux écueils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mais [Specified 0] s'accroche au gouvernail avec une détermination farouche. "Rien à faire : même si ça devait remplir notre cale de rhum, nous ne traverserons pas un récif." [Specified 0] vous remarque et se détend. "Capitaine. Aidez-moi à ramener [Specified 1] à la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 0] soupire. "Même si cette merveille se trouve effectivement dans les environs, nous n'avons aucune garantie que nous pourrions l'atteindre en traversant ce récif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Un grondement résonne, comme la fureur du tonnerre, et le pont cède sous vos pieds. Pendant un moment qui semble se prolonger indéfiniment, le monde tourne autour de vous, puis vous plongez dans l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vous vous retrouvez à l'eau en état de choc, tandis que des morceaux de bois et d'acier coulent autour de vous. Trop faible pour nager, vous voyez la surface s'éloigner.
+
+Les ténèbres vous engloutissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] vous salue. "À vos ordres, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>La mer est vaste et lisse comme du verre cyan. Sautillant sur place, [Specified 1] crie et pointe le pâle pilier d'adra lumineux qui jaillit des flots à bâbord.
+
+[Specified 0] vous rapproche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>La Merveille de Teotara jaillit des flots, scintillante sous le ciel, aussi étrange et silencieuse que la première fois que vous l'avez vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0] tente de guider le navire par le récif sans rien accrocher, mais en vain. Vous sursautez en entendant le vaisseau racler contre le corail et la pierre. Un bruit de bois déchiré résonne sur tout le pont. Les marins foncent dans la cale pour essayer de repérer les fuites et les réparer avant que les stocks soient endommagés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 4] ricane. "Même eux n'auraient pas pu faire ça. C'est l'œuvre lente et ciselée d'Ondra."
+
+L'adra capte la lumière du soleil, brillant comme s'il émettait directement la lumière de l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 4] ricane. "Même eux n'auraient pas pu faire ça. C'est l'œuvre lente et ciselée d'Ondra."
+
+L'adra scintille même la nuit, éclairant la surface de la mer d'une lueur fantomatique venue de ses entrailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les marins observent le spectacle, certains figés dans une prière silencieuse, d'autres dans une gratitude muette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Un récif s'étend devant vous. Avec votre équipage restreint, vous ne pouvez pas éviter les écueils.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

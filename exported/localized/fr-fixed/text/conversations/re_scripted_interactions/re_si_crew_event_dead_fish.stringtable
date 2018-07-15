@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_dead_fish</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une dispute sur le pont détourne votre attention du doux roulis du navire et de l'étendue bleue se perdant dans l'horizon. 
+
+"La moitié de ces poissons flottait ventre à l'air !" hurle [Specified 0]. "Mieux vaut jeter toutes nos prises plutôt que de rendre l'équipage malade !"
+
+"Ils avaient l'air en pleine forme quand on les a pêchés !" rétorque [Specified 1], agitant violemment les mains en direction du tas de poissons sur le pont. "Les poissons meurent quand on les sort de l'eau ! C'est normal, c'est des poissons !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Chercher des signes de maladie sur les poissons] "Voyons-voir si nos prises sont en bonne santé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"On ne peut pas se permettre de jeter de la nourriture. Stockez les poissons dans la cale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Remettez ces poissons en mer. Je ne voudrais pas que mon équipage tombe malade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Quelques poissons présentent des écailles décolorées et des ventres boursouflés... Il est clair qu'ils sont malades. Leur chair avariée pourrait contaminer l'équipage.
+
+"Vous voyez ?" lance [Specified 0] à [Specified 1] avec un regard noir. "Vous voulez qu'on attrape tous la courante ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous voyez, [Specified 0] ? Le capitaine sait qu'on ne peut pas se permettre de jeter des repas parfaitement sains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sage décision, capitaine." [Specified 0] hoche gaiement la tête. 
+
+Les deux marins vident les tonneaux par-dessus bord, remettant les poissons à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Il n'y a aucun signe évident de maladie : ni plaies suintantes, ni yeux en sang. Mais vous pourriez être passé à côté d'indices plus subtils. 
+
+"Si on garde ces poissons, votre équipage risque de passer des jours entiers les fesses par-dessus le bastingage." 
+
+"Vous vous faites plus de mouron que ma grand-mère, [Specified 0]. Ils n'ont pas l'air malades du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous n'observez pas de signes de décoloration, ni de plaies ouvertes ou de ventres boursouflés. Les poissons ont l'air parfaitement sains.
+
+"Je vous avais dit qu'il n'y avait pas de danger," jubile [Specified 1], les mains sur les hanches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] en reste bouche bée. "Vous plaisantez, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Qu'en penses-tu, [Player Animal Companion] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Player Animal Companion] s'approche du tonneau, renifle les poissons, en prend un dans sa gueule et vient vous l'offrir. [Specified 1] rit de bon cœur. 
+
+"On dirait qu'on a l'approbation d'un des membres de l'équipage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Player Animal Companion] renifle les poissons, puis détourne la tête du tonneau, en vous avertissant d'un hochement de tête. [Specified 0] pousse un soupir.
+
+"On dirait que [Player Animal Companion] a plus de plomb dans la cervelle que certains de nos compagnons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous m'avez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Après réflexion, balancez-les."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] soupire. "Si on les garde, capitaine, on risque de... "
+
+"Stockez-les", aboie [Specified 1]. "C'est le capitaine qui commande. Transportons ces poissons à la cale."
+
+Ils soulèvent le tonneau et l'emportent à la trappe, vous laissant regagner la poupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1] se tourne vers [Player Animal Companion]. "J'ai aussi faim que les autres, si ce n'est plus, mais qu'en est-il de la réaction de [Player Animal Companion] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] secoue vigoureusement la tête. "Je sais que je voulais les garder, mais c'était avant que vous me montriez leurs ventres, leurs écailles et tout le reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Purger les poissons de leurs toxines] "Nous allons arranger ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ouvrant vos mains au-dessus du tonneau, vous invoquez l'essence dans l'air autour de vous et, en la projetant dans le tonneau, vous éradiquez les maladies à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"On ne peut pas se permettre de jeter de la nourriture. Stockez les poissons dans la cale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Remettez ces poissons en mer. Je ne voudrais pas que mon équipage tombe malade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>En murmurant quelques mots, vous invoquez [Player Animal Companion], qui apparaît devant vous sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ouvrant ses mains au-dessus du tonneau, [Specified 2] invoque l'essence dans l'air autour de vous et, en la projetant dans le tonneau, éradique les maladies à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous allez guérir des poissons morts ?" s'interloque [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

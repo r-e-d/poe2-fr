@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_tsk_trickle_down_economics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fruit cueilli</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enquêter sur les koīkis disparus, autour du village de &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rendre les koīkis à &lt;b&gt;Mukūmu&lt;/b&gt;, au village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les derniers fruits koīkis de la tribu ont disparu. &lt;b&gt;Mukūmu&lt;/b&gt; croit que c'est &lt;b&gt;Tamau&lt;/b&gt; qui les a volés, mais &lt;b&gt;Tamau&lt;/b&gt; persiste à dire qu'il est innocent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le pêcheur &lt;b&gt;Pekeho&lt;/b&gt; a surpris &lt;b&gt;Tamau&lt;/b&gt; en train de voler les koīkis. &lt;b&gt;Mukūmu&lt;/b&gt; veut que l'on retrouve le reste des fruits disparus.
+
+Je pourrais peut-être en apprendre plus en discutant avec &lt;b&gt;Tamau&lt;/b&gt; et &lt;b&gt;Pekeho&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé les koīkis volés, cachés sur la plage.
+
+&lt;b&gt;Mukūmu&lt;/b&gt; sera très heureux de voir que je les ai retrouvés mais voudra aussi connaître le coupable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Tamau&lt;/b&gt; maintient qu'il est innocent. Il prétend que les fruits étaient stockés dans la hutte de séchage, au nord de la maison du ranga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Rongi&lt;/b&gt;, le tisseur de paniers, descend sur la plage tous les soirs à minuit. Personne ne sait pourquoi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Rongi&lt;/b&gt; a rapidement écarté l'hypothèse de l'innocence de &lt;b&gt;Tamau&lt;/b&gt;. Il est sûrement préférable que je garde un œil sur lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Rongi&lt;/b&gt; a dérobé les koīkis pour en récolter les graines. Il m'a supplié de dénoncer &lt;b&gt;Tamau&lt;/b&gt; à sa place pour donner aux graines une chance de pousser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Pekeho&lt;/b&gt; avoue que &lt;b&gt;Tamau&lt;/b&gt; n'a pas volé les koīkis. Il prétend que les fruits étaient en sécurité dans une hutte de séchage, au nord de la maison du ranga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Le roseau kaora que j'ai trouvé sert apparemment au tressage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Rongi&lt;/b&gt; a admis avoir volé les koīkis. Il a dit qu'ils étaient enterrés sur la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Pekeho&lt;/b&gt; n'a pas fourni beaucoup d'informations. Il semble détester tout particulièrement &lt;b&gt;Tamau&lt;/b&gt; ; il cache peut-être une rancune plus profonde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai trouvé un roseau de kaora à côté de la hutte de séchage. On le dirait tâché par une sorte de jus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai fait porter le chapeau à Tamau pour le vol des koīkis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai accusé Rongi d'avoir volé les koīkis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Rongi savait que j'avais découvert sa réserve de koīkis. Il doit avoir déplacé la réserve et parlé à Mukūmu, car Tamau a été exécuté en conséquence de ce vol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

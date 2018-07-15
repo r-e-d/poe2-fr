@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_wilders</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La tension à bord est montée, aussi poisseuse que l'humidité, les murmures incessants faisant penser au chant des grillons. Ils atteignent parfois un volume qu'il est difficile d'ignorer.
+
+On frappe à la porte de votre cabine. Vous trouvez [Specified 1] sur le seuil, qui essuie la sueur de son front à l'aide d'un chiffon sale et déchiré. "Ohé, capitaine. On a un problème qui requiert votre attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Monter sur le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quel genre de problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[L'ignorer et laisser le problème se régler tout seul]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] vous suit sur le pont, où la fraîche brise marine donne immédiatement la chair de poule aux parties de votre corps à découvert. Un groupe de marins qui hurlent s'est rassemblé vers la proue : vous vous en approchez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Quelques-uns de nos gars sont en train de se disputer avec le gros our..." [Specified 1] tousse dans son poing. "Avec Birta. Je saurais pas vous dire pourquoi, mais, si ça continue, j'ai peur que cette brute finisse par couler le bateau tout entier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 1] grimace mais finit par abandonner et vous laisser tranquille. Au bout d'un moment, le vacarme provenant du pont s'atténue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Quelques-uns des matelots ont coincé Grande-gueule sur le gaillard d'avant. Je sais pas trop ce qu'ils ont en tête. Je crois qu'ils ne se rendent pas compte du danger que présente ce vithrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 1] pousse un soupir. "L'équipage a réussi à pousser [Specified 0] dans une cage qu'ils ont sortie de la cale. Je crois qu'ils veulent lui régler son compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Plus tard, vous remarquez que Birta a des hématomes et entailles récents. Rien de comparable toutefois à la véritable correction que [Specified 2] et [Specified 3] ont reçue. 
+
+[Specified 5] vous informe que le navire a besoin de quelques réparations suite aux dégâts infligés par Birta quand elle s'est défendue face aux autres.
+
+La frustration continue de régner à bord de votre vaisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous apprenez plus tard de la part de [Specified 1] que l'équipage a tué Grande-gueule, pour se défendre, disent-il. Plusieurs membres ont été blessés dans l'échauffourée, mais ne sont pas dans un état aussi grave que [Specified 2], [Specified 3] et [Specified 4].
+
+Malgré ces événements, le moral à bord s'améliore sensiblement : les murmures ont laissé la place aux rires et aux chansons paillardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Durant le reste de votre périple, vous vous rendez compte que vous n'avez pas vu [Specified 0] récemment. Personne ne semble savoir où cette petite créature est passée.
+
+Malgré ces événements, le moral à bord s'améliore : les murmures ont laissé la place aux rires et aux chansons paillardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous ne savez pas très bien où Birta a trouvé l'énorme poteau noueux qu'elle agite dans tous les sens pour tenir à distance l'équipage en furie, mais chacun de ses gestes menace de détruire une voile, le bastingage ou toute autre partie vitale de votre bateau.
+
+[Specified 2] et [Specified 3], couteaux en main, hurlent des insultes à l'ogre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 2] et [Specified 3], couteaux en main, hurlent dans la direction du vithrack coincé. 
+
+"Vous feriez mieux de relâcher notre pote !" grogne l'un d'eux. 
+
+[Specified 4], dont le visage s'est départi de toute émotion, se tient entre l'équipage et l'objet de leur attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ils se sont rassemblés autour d'une petite cage. [Specified 2] et [Specified 3] en frappent le dessus avec des planches. 
+
+À l'intérieur, Rocher-pointu se recroqueville : sa coiffure emplumée est désordonnée et elle pépie et siffle de terreur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ils se sont rassemblés autour d'une petite cage. [Specified 2] et [Specified 3] en frappent le dessus avec des planches. À l'intérieur, Crétin de la lune se protège la tête avec les mains, hurlant de terreur.
+
+"VOUS LAISSER CRÉTIN DE LA LUNE TRANQUILLE OU VOUS BEAUCOUP REGRETTER QUAND CAPITAINE ARRIVER !" Ses yeux globuleux croisent les vôtres et semblent grossir davantage, si tant est que cela est possible. "CAPITAINE ! SAUVER CRÉTIN DE LA LUNE D'ÉQUIPAGE STUPIDE !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Fronçant les sourcils, [Specified 1] vous regarde. "Quels sont vos ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Qu'est-ce qu'il se passe ici, [Specified 0] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vous avez intérêt à vous expliquer, [Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Libérez [Specified 4] sur-le-champ, Grande-gueule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Dégainer votre arme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je comprends qu'il y ait beaucoup de tension, mais ce n'est pas la bonne manière de se défouler. Que tout le monde aille se servir une lampée de grog et se détende. Je vais tenter de remettre les choses en ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Si vous ne reprenez pas tous votre poste, je vous arrache la peau un par un pour en faire des voiles !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"On fait tous partie du même équipage. On souffre les uns pour les autres, et on veille les uns sur les autres. Je sais que [Specified 0] est un peu à part, mais vous avez davantage de points communs que vous le pensez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Tuer [Specified 0]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Tous les yeux sont rivés sur votre main, laquelle a dégainé votre arme. 
+
+[Specified 3] lève les mains, les paumes tournées vers vous. "Allons, capitaine, pas de précipitation."
+
+"Imbécile" souffle [Specified 2]. "Le capitaine va régler ça, une bonne fois pour toutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Tuer [Specified 2]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Tuer [Specified 3]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Birta donne un coup de son grand bout de bois en direction de l'équipage.
+
+"Ces kiths sans cervelle croient Birta responsable de tout qui tourne mal. Ne se critiquent pas. Ne vous critiquent pas. Toujours la faute de l'ogre. Je vais broyer leurs crânes puisqu'ils s'en servent pas."
+
+"'Jamais entendu pareil ramassis de foutaises !" [Specified 2] jette un regard noir à l'ogre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>L'esprit du vithrack touche le vôtre et sa voix résonne dans vos pensées.
+
+&lt;ispeech&gt;Votre équipage débile cherche à nous faire porter le chapeau pour vos erreurs de commandement. Il cherche à se décharger de sa frustration sur nous. Si nous avons pris ce personnage...&lt;/ispeech&gt; il désigne [Specified 4] d'un geste gracieux, &lt;ispeech&gt;... c'est pour qu'il ne lui arrive rien.&lt;/ispeech&gt;
+
+"Ce bâtard s'en prend au cap'taine !" crie [Specified 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Mère Rocher-pointu couine et gémit, agitant ses mains griffues et osseuses vers l'équipage comme pour le chasser. 
+
+"Attention, cap'taine." [Specified 2] pose sa main sur votre épaule. "Les sorcières xaurips sont capables d'ensorceler les matelots avec leur art infâme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'EST FAUX, CAPITAINE. SUIS EN CAGE ! AI RIEN FAIT DE MAL !"
+
+[Specified 2] frappe la cage et la secoue. "On sait tous que c'est pas vrai !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tout va bien, [Specified 0] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>&lt;ispeech&gt;Seuls des kiths subornés garantissent notre sécurité. Nous jurez-vous, capitaine-kith, qu'il ne nous sera fait aucun mal ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je jure, sur mon navire, que rien ne vous arrivera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"C'était un ordre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La créature dégingandée secoue la tête en cliquetant des mandibules.
+
+&lt;ispeech&gt;Impossible. La seule personne capable de garantir notre sécurité est [Specified 4].&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les mandibules de la créature dégingandée cliquètent rapidement tandis que [Specified 4] cligne des yeux et tente maladroitement de s'en éloigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Les mandibules de la créature dégingandée cliquètent rapidement tandis que [Specified 4] cligne des yeux et tente maladroitement de s'en éloigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>La créature dégingandée secoue la tête en cliquetant des mandibules.
+
+&lt;ispeech&gt;Impossible. La seule personne capable de garantir notre sécurité est [Specified 4].&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eh bien, vous voyez, capitaine, [Specified 2] et moi, on s'est mis à discuter, et puis vous savez comme moi que, dernièrement, les ennuis s'accumulent sur le bateau..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"On ne peut pas résoudre tous les problèmes, mais on peut certainement s'occuper de l'ogre qui dévore toutes nos réserves."
+
+"Birta ne mange pas tant que ça. Juste assez pour être vraie femme." L'ogre produit un son qui s'apparente à un grognement ou à un gloussement.
+
+[Specified 2] se renfrogne. "Je m'inquiète plus pour ce qui arrivera si les choses empirent. Les ogres sont réputés pour leur manque de jugeote. Que fera-t-on quand elle touchera à la coque ou au mât ?"
+
+"Moi toucher le mât du petit kith." Birta lance un regard lubrique à [Specified 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Regardez par vous-même, cap'taine !" Faisant un pas en avant, [Specified 2] désigne le vithrack et le membre d'équipage qui le défend. "L'animal a fait de [Specified 4] sa foutue marionnette ! Encore combien de temps avant qu'il ne se mette à déguster &lt;i&gt;nos&lt;/i&gt; cerveaux ?"
+
+"Et s'il était déjà dans notre cerveau, à se délecter de nos idées ?" bêle [Specified 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 2] se tourne vers vous. "Ce petit animal est une sorcière et une prêtresse. Vous savez comme moi que ces trucs vénèrent les dragons. On fera quoi quand ses petites prières attireront l'attention de l'un d'entre eux ? On coulera, voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 2] pointe la cage du doigt. "Et ce petit voleur furtif constitue les neuf-dixièmes du problème. Le concept de propriété est étranger à ceux de sa race. Seuls les dieux savent tout ce qu'il a chapardé !"
+
+"A RIEN VOLÉ DU TOUT !" gémit le diablotin.
+
+[Specified 4] ricane. "J'ai retrouvé mon sextant dans votre dégoûtante petite planque, Crétin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Mettre fin à la domination du vithrack avec vos capacités de clairvoyant]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Les matelots rassemblés opinent du chef à vos paroles.
+
+"Vous avez entendu le capitaine" lance [Specified 1]. "Arrêtez ça, et tournée de grog pour tout le monde !"
+
+Une clameur mi-figue mi-raisin se fait entendre alors que l'équipage se disperse. Vous avez évité la crise... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Specified 2] se renfrogne. "Désolé cap', mais ça ne marche pas avec nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Les matelots reculent, les yeux écarquillés de terreur. "C'était pour rigoler, cap'taine", gémit [Specified 3].
+
+[Specified 1] tape contre le mât avec un bâton. "Vous avez entendu le capitaine ! Tous à vos postes !"
+
+L'équipage se disperse en échangeant des regards, tout en prenant soin d'éviter le vôtre. Vous avez évité la crise, pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>L'équipage se regarde, et [Specified 2] crache par-dessus le bastingage. "Franchement, cap'taine, on a plus peur de cette chose que de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Les matelots s'entreregardent : certains se frottent la nuque, d'autres se tordent les poignets.
+
+"Désolé cap'taine..." Le regard de [Specified 3] papillonne entre [Specified 0] et vous. "J'avais pas les idées claires."
+
+"Remettez-vous au travail !" crie [Specified 1]. "Circulez, le spectacle est terminé."
+
+L'équipage se disperse et retourne vaquer à ses occupations. Vous avez évité la crise... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Secouant tristement la tête, [Specified 2] laisse échapper un petit rire. "Vous essayez de nous faire avaler qu'un matelot sauvage fait partie de la famille ?" Les autres se mettent à murmurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Les mandibules de la créature dégingandée cliquètent rapidement tandis que [Specified 4] cligne des yeux et tente maladroitement de s'en éloigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Capter l'attention de l'équipage] "Écoutez-moi tous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Tous les regards se fixent sur vous.
+
+"Oui, cap'taine ?" demande [Specified 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Embrouiller leurs esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Les yeux de l'équipage deviennent vitreux et se perdent dans le vague, les bouches béent, et tous semblent plus facilement malléables et impressionnables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous attrapez la cage et la traînez sur le pont, [Specified 0] ne cessant de pousser des gémissements plaintifs. Ahanant dans un dernier effort, vous lancez la cage par-dessus le bastingage et dans l'eau. Les cris de la créature s'interrompent soudainement lorsque l'armature en métal disparaît sous la surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>D'un geste fluide et maintes fois répété, vous tendez votre arme, visez et tirez...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous faites un bond en avant. Votre arme dessine un brutal arc de cercle en l'air...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Dans un bruit sourd, [Specified 0] s'effondre sur le pont. Du sang se répand sur les planches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Du sang éclabousse la voile de misaine. Les yeux écarquillés par la surprise, [Specified 2] s'affale sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Le pont est aspergé de sang. La mâchoire pendante, [Specified 3] tombe à la renverse dans l'eau, par-dessus le bastingage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je savais qu'on pouvait compter sur vous pour arranger les choses, cap'taine." [Specified 2] vous adresse un sourire en coin avant d'entraîner le reste de l'équipage dans une chanson vantant votre sagesse et votre courage.
+
+La chanson vous accompagne durant la suite de votre traversée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Les autres membres de l'équipage hésitent et font quelques pas hésitants en arrière, peu désireux de connaître le même sort que leur camarade. 
+
+"Je crois que la volonté du capitaine est claire !" [Specified 1] tape le mât avec un bâton. "Retournez à vos postes... et que ça saute !"
+
+Les matelots s'éparpillent lentement, le visage plus sombre que jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Pour ça, 'faudrait déjà que vous ayez des idées" assène Serafen, bras croisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Les matelots rassemblés opinent du chef à vos paroles.
+
+"Vous avez entendu le capitaine" lance [Specified 1]. "Arrêtez ça, et tournée de grog pour tout le monde !"
+
+Une clameur mi-figue mi-raisin se fait entendre alors que l'équipage se disperse. Vous avez évité la crise... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Les matelots reculent, les yeux écarquillés de terreur. "C'était pour rigoler, cap'taine", gémit [Specified 3].
+
+[Specified 1] tape contre le mât avec un bâton. "Vous avez entendu le capitaine ! Tous à vos postes !"
+
+L'équipage se disperse en échangeant des regards, tout en prenant soin d'éviter le vôtre. Vous avez évité la crise, pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Les matelots s'entreregardent : certains se frottent la nuque, d'autres se tordent les poignets.
+
+"Désolé cap'taine..." Le regard de [Specified 3] papillonne entre [Specified 0] et vous. "J'avais pas les idées claires."
+
+"Remettez-vous au travail !" crie [Specified 1]. "Circulez, le spectacle est terminé."
+
+L'équipage se disperse et retourne vaquer à ses occupations. Vous avez évité la crise... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

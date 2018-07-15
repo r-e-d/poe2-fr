@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_sick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] vient vous trouver dans votre cabine. À travers la fenêtre ouverte, vous distinguez le bruit d'un de vos marins en train de vomir âprement.
+
+"Si ça continue, capitaine, votre équipage ne sera plus en état de naviguer. C'est déjà presque le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>La maladie débute en douceur. Un toussotement par ci, un tremblement par là. Puis elle touche l'équipage vite et fort, se répandant sur le pont comme une vague en furie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Aller trouver le chirurgien de bord] "Vous voulez bien me dire pourquoi tout mon bateau est malade, [Specified 1] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que voulez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Puisez dans les réserves de médicaments. Que tout le monde soit traité jusqu'à ce que ce soit éradiqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ferlez les voiles et jetez l'ancre. Reposons-nous jusqu'à ce que ça passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Aller trouver le chirurgien de bord] "Vous voulez bien me dire pourquoi tout mon bateau est malade, [Specified 1] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Que voulez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Puisez dans les réserves de médicaments. Que tout le monde soit traité jusqu'à ce que ce soit éradiqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ferlez les voiles et jetez l'ancre. Reposons-nous jusqu'à ce que ça passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nous allons purifier ceux contaminés par ces toxines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Prier pour une intervention divine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ça ressemble à des douleurs à l'estomac"  répond le chirurgien. "Probablement causées par ces poissons morts que vous nous aviez fait garder dans la cale. Non pas que ce soit votre faute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1] réfléchit. "Au minimum, vous devriez laisser les malades se reposer le plus possible. Si vous estimez qu'on a assez de médicaments à bord, ce serait le bon moment pour en utiliser une partie."
+
+Le chirurgien fronce les sourcils. "Pour de meilleurs résultats, pourquoi pas les deux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 1] tousse violemment et crache. "C'est la toux du matelot, capitaine. On a dû attraper ça sur ce navire en quarantaine, je présume. Il y a peu de chances que quelqu'un en meure, mais ça peut affaiblir les kiths et augmenter les risques d'accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"La meilleure chose à faire serait de soigner les hommes. J'espère qu'on a assez de médicaments pour tout le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous ordonnez d'ouvrir l'armoire à médicaments et distribuez des doses à l'équipage. Pâles et tremblants, ils vous remercient, impatients de se remettre d'aplomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous passez au milieu des membres d'équipage malades tel un esprit miséricordieux. À l'aide de doux chants et de gestes guérisseurs, vous calmez le fléau que la prise contaminée a infligé à vos marins. Tous vous remercient, impatients d'être remis sur pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bien qu'il ne s'exécute pas sans rechigner, Tekēhu passe parmi l'équipage et gratifie chacun des membres malades de son charme magnétique ainsi que de sa magie purificatrice. Il laisse chaque marin dans un meilleur état qu'il l'a trouvé, et ils vous remercient tous deux chaleureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>L'équipage obéit à vos ordres et le bateau s'immobilise. Tout le monde se repose du mieux qu'il le peut depuis son poste temporaire, courbé en deux par-dessus le bastingage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Petit à petit, la maladie disparaît, et le moral de l'équipage augmente en parallèle avec sa capacité à ne pas régurgiter tout ce qu'il ingère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sous la direction de [Specified 1], les matelots ouvrent les paquets d'herbes aromatiques et écrasent les feuilles avec un pilon et un mortier. 
+
+Bientôt, la poitrine de chaque membre d'équipage est emmaillotée d'une pâte parfumée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vous priez votre patron, la divinité bipartite de la mort, de détourner ses yeux du bateau et de le purifier de la maladie. Un frisson parcourt le navire lorsqu'un brouillard s'élève de la surface de l'eau. Le vent tombe.
+
+Pendant près d'une heure, le navire sommeille dans cette zone de calme brumeuse. [Specified 2] jure entendre des murmures en direction de la proue, à bâbord.
+
+Puis, aussi rapidement qu'il s'était levé, le brouillard se dissipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Même sans l'obligation de faire leur devoir, la maladie des marins semble s'aggraver. [Specified 4] n'arrive même plus à quitter son lit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous voulez que je prie un aspect de la mort ?" Les lèvres de Xoti trahissent son amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Suite à cette démonstration divine, vous vous sentez purifié. L'équipage chante les louanges des dieux, offrant gaiement les pièces ou les petits bijoux dont ils disposent en sacrifice.
+
+La navigation se poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Remettez tout le monde au travail. Notre destination nous attend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Remettez tout le monde au travail. Notre destination nous attend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0] relaie vos ordres, qui génèrent un concert de gémissements de la part de l'équipage.
+
+Le navire continue sa route, frappé par les miasmes écœurants de la maladie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le navire lève l'ancre mais avance à faible allure à cause de la pétrification qui contamine l'équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 5] appelle les dieux à l'aide, et une énergie purificatrice parcourt le vaisseau, fortifiant tous ses occupants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 5] passe parmi l'équipage, psalmodiant calmement et réalisant des gestes protecteurs pour calmer les problèmes digestifs. Chaque marin vous remercie tous les deux, impatient d'être remis sur pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Soignons-les. Jetez l'ancre et assurez-vous que chacun dispose du remède nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous ordonnez de ferler les voiles et de distribuer des médicaments à l'équipage. Grâce à un traitement adéquat et au temps nécessaire pour récupérer, vos hommes sont vite remis sur pied. Et lorsque vous entendez des chants de marin s'élever à nouveau du pont, vous savez qu'ils sont prêt à reprendre la navigation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Rien n'a changé ! Toutes voiles dehors, en avant toute !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>L'équipage reprend le travail. Cependant, la pétrification gagnant du terrain, les matelots deviennent incapables de réaliser jusqu'aux tâches les plus simples. Une fois la barre et le gréement désertés, le navire s'immobilise et commence à dériver, à la merci d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Au fil du temps, la maladie rétrocède. L'équipage, lui, reste silencieux et d'humeur maussade alors qu'il exécute ses tâches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Secouant lentement la tête, le chirurgien se renfrogne. "C'est la lèpre intestinale, capitaine, comme sur le navire en quarantaine. Naviguer avec ça à bord, c'est s'exposer à des accidents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Rymbán sjüdh", répond [Specified 1] avec gravité. "La pétrification, comme sur le navire en quarantaine. Elle fera des victimes si on ne trouve pas de remède."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>La maladie s'empare du bateau telle une subite rafale du nord-est. Pas un moment ne s'écoule sans que la moitié de l'équipage soit pliée en deux par-dessus le bastingage ou ait les fesses vissées sur un seau.
+
+L'odeur vous brûle les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>L'équipage apprécie cette occasion de se reposer, malgré la fatigue provoquée par une toux incessante. Dans les jours qui suivent, la maladie rétrocède. Lorsque le bateau reprend sa marche en avant, l'équipage n'est que trop heureux de faire route vers des eaux plus bleues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Le navire lève l'ancre, mais avance à faible allure à cause de la maladie qui ravage l'équipage.
+
+Vous entendez un cri en provenance du pont, suivi d'un choc sourd. [Specified 3] a perdu connaissance et a chu du gréement. Il a subi une commotion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>L'équipage retourne à son poste mais devient de plus en plus misérable à mesure que la lèpre gagne du terrain. De nombreux marins ont des plaies ouvertes, et la plupart ont au moins un œil gonflé et recouvert d'une croûte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Avant la fin de la journée, plus un seul membre d'équipage n'arrive à respirer convenablement. Ils toussent à n'en plus finir et crachent des amas de glaires sanguinolents à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Votre équipage est bientôt réduit à l'état de loques couvertes de mucus, aux yeux gonflés et aux éruptions cutanées aberrantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Le navire est progressivement laissé à l'abandon, tandis que vos matelots se traînent péniblement et avec raideur sur le pont. Des pointes osseuses leur transpercent la peau, laissant des plaies rougeâtres et suintantes dans leur sillage. Chaque recoin du navire est envahi de geignements de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] vient vous trouver dans votre cabine. À travers la fenêtre ouverte, vous distinguez le bruit d'un de vos marins en train de vomir âprement.
+
+"Si ça continue, capitaine, votre équipage ne sera plus en état de naviguer. C'est déjà presque le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] revient avec des jarres d'une épaisse résine de chardon marron. Le baume dense provoque une sensation de picotement déplaisante quand il est appliqué sur les zones affectées.
+
+Tous les membres d'équipage arborent bientôt des taches d'une substance marron à certains endroits sur leur peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] revient de la cale avec un petit coffre qui contient du terreau noir. "Des vers holistiques", grommelle le matelot. "Ils se nourrissent de la pétrification qui engendre ces pointes osseuses. Ce n'est ni beau à voir ni agréable, mais ça sauvera des vies."
+
+Chaque membre d'équipage se rend tour à tour auprès de [Specified 1] pour que leur moelle contaminée soit excisée par les créatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vous priez l'Enfant de la lumière, incapable de ne pas vous souvenir de la raison de votre présence dans le Feu éteint. Durant vos supplications, la couleur du ciel vire au rouge-rosé de l'aube. La lumière inonde le pont et réchauffe ceux qui s'y reposent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Vous priez la déesse de la flamme, pour que son feu fasse disparaître la maladie de votre navire. Vous commencez à dodeliner de la tête tandis que la chaleur s'empare de votre corps. Lorsque la fièvre arrive, vous tombez sur les planches du pont, entendant vaguement les gémissements d'inconfort du reste de l'équipage.
+
+Cela vous passe toutefois, et vos idées redeviennent claires lorsque le vent frais du Feu éteint sèche votre sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vous priez votre patron, la divinité du châtiment, et lui rappelez que votre équipage a besoin d'être en pleine possession de ses moyens pour faire ployer le genou à un dieu. Les ombres s'allongent et les ténèbres tombent sur le bateau. Toutes les chandelles prennent vie.
+
+[Specified 2] et [Specified 3] jurent qu'une silhouette inconnue erre sous le pont, mais la fouille n'aboutit à rien.
+
+La noirceur anormale finit par se dissiper pour faire place à la lumière naturelle du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous priez le dieu des mystères et le suppliez de vous délivrer de cette maladie. 
+
+Vous perdez connaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Avec le bon remède, l'équipage est rapidement rétabli. Les voilà bien vite sur le pont à hurler des chants de marin à tue-tête en direction de l'horizon.
+
+La navigation se poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Vous reprenez conscience sur le gaillard d'avant, où vous vous tenez le dos tourné vers la mer. Le reste de l'équipage jette des regards à la ronde, le visage clairement confus.
+
+La maladie a disparu, mais deux jours ont passé et aucun des marins ne se souvient des événements qui se sont produits durant ce laps de temps. 
+
+Vous ne résoudrez jamais ce mystère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 1] passe la main en travers de son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 1] se pince l'arête du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] réapparaît. "Désolé, capitaine. Les stocks sont presque vides. On n'a pas le remède qu'il nous faudrait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0] réapparaît. "Désolé, capitaine. Les stocks sont presque vides. On n'a pas le remède qu'il nous faudrait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Vous ordonnez de ferler les voiles et hissez un drapeau vert en haut du grand mât pour avertir les autres navires de garder leurs distances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Attendre que la maladie se résorbe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sur le pont, le regard de l'équipage est noir : les pointes osseuses qui hérissent leurs articulations font ressembler certains à des automates caparaçonnés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Le deuxième jour, [Specified 2] rejoint [Specified 4] dans la mort. [Specified 0] leur emboîte le pas le jour suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le deuxième jour, [Specified 2] rejoint [Specified 4] dans la mort. [Specified 0] leur emboîte le pas le jour suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Quelques heures plus tard, [Specified 0] s'approche de vous. "Triste nouvelle, capitaine. [Specified 4] n'a pas survécu. [Specified 2] dira quelques mots à sa mémoire avant qu'on ne confie son corps à Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Quelques heures plus tard, [Specified 0] s'approche de vous. "Triste nouvelle, capitaine. [Specified 4] n'a pas survécu. [Specified 2] dira quelques mots à sa mémoire avant qu'on ne confie son corps à Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0] frappe à la porte. "Désolé de vous apporter de mauvaises nouvelles, capitaine, mais [SkillCheck 0] montre des symptômes de rymbán sjüdh, la pétrification. C'est une maladie horrible des Blanches étendues, connue pour décimer un équipage jusqu'au dernier matelot."
+
+Le marin détourne un instant les yeux, puis croise à nouveau votre regard. "Quels sont vos ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Que [Specified 1] y jette un œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Enfermez [SkillCheck 0] dans ses quartiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"On ne peut pas prendre le risque que ça se répande. Je vais jeter [SkillCheck 0] par-dessus bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] se renfrogne. "C'est déjà fait, capitaine. Le chirurgien l'a confirmé. Selon ses dires, seuls le repos et le traitement pourraient l'endiguer, sans pour autant l'empêcher de se répandre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Alors, traitement et repos ce sera. Veillez à ce que [SkillCheck 0] en bénéficie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je ne vais pas tuer un de mes amis ! Il faut trouver une autre solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Le regard de [Specified 0] se perd. "Ouais. Et en attendant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Le membre d'équipage effectue un salut sans enthousiasme. "À vos ordres, capitaine."
+
+[Specified 0] vous laisse, et le [Player Ship] poursuit son itinéraire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] acquiesce. "C'est une décision difficile, mais c'est la bonne. Je vais... m'occuper du patient."
+
+Lorsque vous parvenez sur le pont, [SkillCheck 0] est à genoux devant vous, avec des entraves aux chevilles et aux poignets. Des pointes osseuses luisantes dépassent d'entre les cordes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Aloth croise votre regard comme s'il s'attendait à ce que ce moment arrive. Il hoche faiblement la tête.
+
+"C'est la bonne décision, [Player Name]. Ce qui importe, c'est de trouver Éothas." Il grimace et tremble de douleur.
+
+"J'ai fait mon possible pour vous être utile. Mais la suite dépend de vous. Elle a toujours dépendu de vous. On se reverra peut-être dans un prochain tour de Roue." Il vous offre un dernier sourire peiné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Faites ce que vous devez faire de moi. C'est vous qui devez arriver jusqu'au bout.
+
+"Mais rendez-moi un service. Dites à Éothas de ma part qu'il a beaucoup de bons fidèles. Dites-lui qu'il a toujours une responsabilité envers eux.
+
+"Dites-lui qu'il leur est redevable." Edér respire en serrant les dents. Il vous observe, patiemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ishi... reste avec le capitaine, désormais. J'ai dit non, espèce d'écervelé ! Je..." 
+
+Désobéissant à ses ordres, Ishiza reste aux côtés de Maia, en picorant le lobe de son oreille et en roucoulant doucement. L'angoisse dessine une grimace sur le visage de Maia, mais elle s'abstient de protester davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Pallegina vous fixe de ses yeux dorés à moitié fermés.
+
+"Ces affections peuvent être soignées, vous savez. Ou peut-être ne le savez-vous pas. Ou peut-être que vous vous en moquez."
+
+Elle vous tourne le dos.
+
+"Si cela vous donne l'impression d'être un important capitaine de navire, allez-y. Vous ne voudriez quand même pas que l'équipage décèle le moindre soupçon de clémence en vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Il prend un air renfrogné et crache. "C'est une décision tordue, et vous le savez, capitaine Gardien. On peut survivre à la pétrification. J'y ai moi-même survécu deux fois !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Pourquoi Ngati m'a-t-elle fait venir au monde, si c'est pour connaître une fin si ignoble ? Les prêtres... m'est avis que leurs prédictions étaient erronées. 
+
+"C'est le Feu éteint qui est malade." 
+
+Abattu, Tekēhu détourne son regard du vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Si vous pensez que cela m'empêchera d'accomplir mon devoir, Gardien, vous vous trompez. Je trouverai toujours un moyen, même quand ce corps aura pourri et disparu."
+
+La tête haute, Xoti contemple l'océan qui s'étend devant elle, prête à la fin qui l'attend sous les flots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[SkillCheck 0] se débat malgré les chaînes. "Pitié, ne faites pas ça, [Player Name] ! Il doit y avoir un autre moyen !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Lancer [SkillCheck 0] par-dessus bord] "Désolé, camarade. S'il existait un autre moyen de sauver tout le monde..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Lancer [SkillCheck 0] par-dessus bord] "Ça ne me fait pas plaisir, mais je dois faire un choix entre vous ou le bateau tout entier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Lancer [SkillCheck 0] par-dessus bord] "La seule chose qui me désole, c'est que vous n'ayez pas attrapé la pétrification plus tôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Lancer [SkillCheck 0] par-dessus bord. Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"... Je ne peux pas faire ça. Placez [SkillCheck 0] en quarantaine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Sans plus de cérémonie, vous jetez votre camarade par-dessus le bastingage. Un cri suivi d'un plouf étouffé, telle est la dernière chose que vous entendez de la part de [SkillCheck 0].
+
+Les marins échangent des regards, et leurs visages trahissent leur nervosité. Vous ignorez ce qu'ils craignent le plus : le fléau ou leur capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Le navire maintient son cap et, au grand soulagement de tous, aucun autre symptôme de rymbán sjüdh ne fait son apparition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Laissant échapper un soupir les bras croisés, votre camarade vous regarde dans les yeux. "Si ça se répand, capitaine, on n'aura pas de quoi traiter tout l'équipage. Il y aura des morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Laissant échapper un soupir les bras croisés, votre camarade vous regarde dans les yeux. "Si ça se répand, capitaine, on n'aura pas de quoi traiter tout l'équipage. Il y aura des morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vous m'avez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Vous m'avez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je suppose que je peux négocier le passage de nos âmes à travers Hel, si nous venions tous à trépasser bientôt."
+
+Elle hoche la tête avant de courber l'échine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Gloire aux nombreux aspects d'Éothas. Gloire à Gaun, le plus grand d'entre eux. Puisse ma voix t'atteindre par cette éternelle prière d'humilité et de gratitude. Entends-moi, mon dieu, et prends ma demande en pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Lorsque nous voguons sur les mers du sombre fléau de la mort, nous ne craignons pas la moisson à venir. Car ta lanterne est avec nous et guide nos pas. Nous n'achopperons ni ne nous écarterons du chemin que tu nous a préparé pour traverser Hel. Nous embrasserons la fin de nos vies et laisserons de côté les enveloppes putrides de nos corps déchus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Alors, ta main nous plantera pour faire germer notre renaissance.
+
+"Pour toujours et à jamais, tandis que tourne la Roue,
+
+"Amen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[SkillCheck 0] cherche à se libérer des liens, n'émettant que quelques plaintes étouffées par un bâillon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[SkillCheck 0] se débat malgré les chaînes. "Pitié, ne faites pas ça, [Player Name] ! Il doit y avoir un autre moyen !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

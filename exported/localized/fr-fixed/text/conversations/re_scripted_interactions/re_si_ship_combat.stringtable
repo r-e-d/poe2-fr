@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>173</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] voit son équipage bondir en action, courant sur le pont. Certains grimpent sur les mâts pour enrouler ou dérouler des voiles, tandis que d'autres tirent sur de longues cordes lovées et rendues glissantes par la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Joindre le combat] "En avant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Tenter une retraite] "On se replie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] relaie votre ordre, et votre équipage passe à l'action d'un bond. [ShipDuel_PlayerShip] atteint plus rapidement le côté au vent, virant de bâbord à tribord aux moments appropriés.
+
+Votre navire plus rapide et votre équipage mieux préparé vous permettent de vous positionner au vent par rapport au [ShipDuel_OpponentShip], avant que ses marins aient le temps de manœuvrer et de vous griller la politesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous ordonnez à votre équipage de fuir en toute hâte.
+
+Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Vitesse d'éperonnage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt; "Demi voilure !" ([ShipDuel_PlayerHalfSailDist])</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Canons avant, feu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'équipage se précipite pour préparer la grand voile à virer de bord, guère plus enthousiaste que vous à l'idée d'un combat imprévu.
+
+Alors que les voiles sont relâchées, [ShipDuel_PlayerShip] se tourne lentement sous le vent. Les voiles gonflées au maximum, le navire bat hâtivement en retraite, poussé par le vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous vous retrouvez seul en haute mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Les voiles gonflées et le vent dans le dos, [ShipDuel_PlayerShip] fend les eaux en direction du bateau ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt; "Parés à l'empannage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Votre bordée déchire les voiles ennemies, n'en laissant que des lambeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Votre bordée dévaste le pont adverse, ne laissant que destruction dans son sillage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>L'équipage grimpe précipitamment aux mâts pour déployer les voiles restantes. Le navire bondit en avant avec une énergie nouvelle. Votre équipage se précipite contre le bastingage, s'arc-boutant en prévision du choc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Votre vaisseau fend les eaux, caracolant sur le dos des vagues et bondissant de l'autre côté. Les embruns noient le pont principal.
+
+Avec un craquement assourdissant, le [ShipDuel_PlayerShip] et le [ShipDuel_OpponentShip] se heurtent, envoyant voler des éclats de bois et des marins ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt; "Parés à plonger !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Tous les compartiments font savoir qu'ils sont prêts à plonger.
+
+[Specified 0] fait sonner la cloche d'alerte de plongée, et le sous-marin se glisse sous les vagues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] manœuvre afin de fondre sur vous, pointant son artillerie droit sur le [Player Ship].
+
+Le lointain tonnerre des coups de canon résonne sur la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] déploie ses voiles et fonce vers vous, profitant de toute la force du vent dans sa poupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] bat en retraite, son équipage déployant frénétiquement les voiles restantes afin de prendre le vent. Bientôt, le bateau n'est plus qu'un point à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] déploie ses voiles pour prendre le vent. Il fend les eaux, les cris de triomphe claquant dans le vent comme des fouets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Les tirs de vos canons passent au-dessus du pont ennemi, épargnant totalement son flanc et ses voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les tirs de vos canons déchirent la plupart des voiles ennemies de la proue à la poupe, et perforent la coque du bateau. Les cris paniqués des marins ennemis résonnent sur l'eau jusqu'à vos oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>L'eau de mer s'engouffre dans les trous de la coque du [ShipDuel_OpponentShip]. En quelques instants, le bateau est à moitié immergé.
+
+Une explosion dans la cale déchiquète le vaisseau. Dans le ciel monte un épais nuage de fumée noire, dont le vent porte l'odeur jusqu'à vous. De la poudre à canon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Le flanc du bateau adverse explose en une éruption d'éclisses. La fumée âcre des propres coups de canon de l'ennemi se répand sur l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vos voiles se désintègrent sous les coups de canon ennemis, ressemblant désormais davantage à des toiles d'araignée qu'à des ailes.
+
+Votre gréement craque. Les haubans subitement détendus fouettent l'air, envoyant les membres de votre équipage surpris au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Les tirs ennemis frappent votre pont, suscitant des cris de consternation parmi votre équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Le capitaine ennemi ordonne à ses canonniers de tirer sur une montée de houle, alors que votre navire descend dans le creux de la vague. La bordée décrit un arc au-dessus de votre pont et passe à côté de vos voiles en sifflant, manquant complètement sa cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Les coups de canon ennemis martèlent votre coque, creusant de larges trous du pont à la cale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Les canons ennemis rugissent, annonçant une autre salve. Le son de leurs tirs qui déchirent la coque est assourdissant et vous remue les os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0] encourage votre équipage à combattre. "Sortez les canons ! Préparez à viser !"
+
+Les canonniers pointent leurs armes vers le navire ennemi.
+
+"Feu !"
+
+Vos bouches à feu éructent des explosions assourdissantes. Les projectiles des canons volent vers le [ShipDuel_OpponentShip].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 0] relaie les ordres à l'équipage. "Tirez à la prochaine montée de houle !"
+
+Alors que le bateau franchit la crête d'une vague, vos canonniers tirent une salve assourdissante en direction du vaisseau adverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt; "Toutes voiles dehors !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Toutes voiles dehors !" ([ShipDuel_PlayerFullSailDist])</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Les tirs de vos canons réduisent les voiles adverses en lambeaux de la poupe à la proue, perforant le pont et pénétrant la coque. Les cris et les grognements de l'équipage ennemi parviennent à vos oreilles par-dessus l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Les tirs de vos canons déchirent les voiles adverses de la poupe à la proue, n'en laissant aucune intacte. Ils touchent le pont ennemi, le transformant en une gueule béante pleine d'échardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Vos boulets font ressembler leur pont à une gueule béante pleine d'échardes. Ils percent la coque du bateau, poursuivant leur chemin, ne laissant que la destruction dans leur sillage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Les tirs des canons frappent votre vaisseau, déchirant vos voiles. Il ne reste guère plus que des lambeaux se balançant dans le vent.
+
+Des boulets de canon s'écrasent sur votre pont, détruisant votre gréement et abîmant vos mâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Les projectiles percent votre coque et s'écrasent sur votre pont, détruisant votre gréement et endommageant vos mâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Les projectiles déchirent vos voiles et percent votre coque, laissant marchandises et canons pulvérisés dans leur sillage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Choisissez quoi faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 0] et [Specified 1] grimpent au grand mât et déroulent les voiles restantes.
+
+Les voiles se gonflent et prennent pleinement le vent. Le [ShipDuel_PlayerShip] bondit en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Le vent dans votre dos se renforce, mugissant dans vos oreilles.
+
+Votre bateau fonce à travers les vagues, poussé en avant par le vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Vos matelots déploient les voiles restantes et le [ShipDuel_PlayerShip] fonce droit devant. Votre équipage se précipite contre le bastingage, s'arc-boutant en prévision du choc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Specified 0], votre maître d'équipage, arpente le pont à grandes enjambées, incitant vos matelots à s'activer.
+
+Les voiles du [ShipDuel_PlayerShip] prennent le vent. Votre bateau fonce vers le vaisseau ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Sûr de son avantage, le [ShipDuel_PlayerShip] s'approche de l'embarcation ennemie à une allure régulière et implacable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Peut-être l'équipage ennemi est-il impatient de combattre, mais vous n'êtes pas pressé de leur donner satisfaction. Vous progressez vers le vaisseau adverse à votre rythme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Les projectiles de vos canons percent le navire ennemi, pulvérisant sa coque et déchirant ses voiles. Avant même que vous ayez le temps de vous réjouir, le navire ennemi explose brusquement dans un &lt;i&gt;boum&lt;/i&gt; assourdissant.
+
+Vos tirs ont dû toucher leur réserve de poudre à canon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tuez le capitaine et capturez l'équipage ! On peut pas laisser une telle fortune nous échapper !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"La prime de Benweth et plein de butin ! C'est notre jour de chance !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Restez alertes ! Ne laissez pas ces salopards s'approcher !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Vous me faites pas peur ! Je suis pas un lâche !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>&lt;i&gt;Chhhrr - krek - kek - isss&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Casità, mes boulets voudraient parlementer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Le tonnerre roulait comme les vagues des mers noires, et sept hommes se retrouvèrent sur le pont !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Vidòrio, les amis, et on fêtera ça dix fois plus que le jour où on a touché terre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Même les guerriers kamoas ne sont pas aussi forts que nous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"On monte comme la marée d'Ondra. En avant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ekera, quel beau bateau ! Que diriez-vous que je vous en débarrasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Aussi sûr que les vents gonflent mes voiles, puissent-ils quitter les vôtres !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Est-ce que vous sentez la Chevaleresse blême vous souffler dans le cou ? Est-ce que vous entendez les mots accueillants du Portier dans votre oreille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vous ferez une belle prime !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tournez le gouvernail vers le côté sous le vent ! Il ne faut pas les laisser prendre l'avantage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Que souffle le vent froid de la mort ! Que s'élève la vague sombre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Stabilisez le pont, je les ai dans mon viseur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Faites preuve d'intelligence. Je ne voudrais pas qu'on me déçoive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Votre peur résonne dans mon esprit comme une cloche !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Le poids de ma bourse prédit votre défaite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Je connais cette mer comme le dos de ma main. Vous ne pouvez pas m'échapper !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Mourez vite, et peut-être que je rentrerai à temps pour rendre visite à vos mères !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Gellarde ! Enfin des ennemis dignes de moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Je vais récolter ce que vous avez semé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Double ration de grog pour qui ramènera leur capitaine en vie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Mon équipage va vous arracher les membres les uns après les autres et vos hurlements n'inspireront aucune pitié !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"La forge de Magran a besoin qu'on alimente son feu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"On va vous écorcher de bout en bout !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"On est les marteaux, et vous n'êtes que de petits clous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Le navire s'approche, et l'équipage ouvre brusquement ses sabords.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Avec un cri d'encouragement, votre équipage lance ses grappins et autres planches d'abordage entre vos deux navires.
+
+Ils se répandent sur le pont du bateau, les armes au clair. L'équipage ennemi sort de son hébétude et va à la rencontre de vos hommes dans le tonnerre des pistolets et les tintements de l'acier contre l'acier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>L'équipage grimpe précipitamment aux mâts pour déployer les voiles restantes. Le navire bondit, soulevé par le nouvel apport de vent.
+
+Vous ralentissez à l'approche du navire ennemi. Le vent qui vous poussait est tombé, vous laissant trop loin de votre objectif, mais à portée des canons adverses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Le navire ennemi est avalé par le feu. La fumée, noire et âcre, tourbillonne dans le ciel.
+
+L'eau inonde la cale, et le bateau enflammé sombre rapidement sous les vagues, disparaissant de la surface de la mer comme s'il n'avait jamais flotté dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Avant que vous puissiez cligner les yeux, la masse du bateau disparaît sous les vagues. Il n'en reste plus que le grand mât et ses lambeaux de voiles, se dressant en un dernier adieu, avant de céder à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Bientôt, le seul son audible par-dessus le vacarme des tirs de canons est le craquement et le gémissement du [ShipDuel_PlayerShip]. Votre équipage est mort.
+
+Le bateau s'incline sous vos pieds et glisse avec un silence presque absolu dans les bras de l'océan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Specified 0] relaie vos ordres à l'équipage. "À vos postes ! Préparez-vous au choc !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Specified 0] relaie vos ordres et le bateau prend de la vitesse, fendant les vagues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Specified 0] crie pour se faire entendre tout le long du sous-marin. "Préparez la navigation silencieuse ! Allure normale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Le vaisseau garde ses distances, rôdant au coin de votre œil comme un chat sauvage autour d'un abattoir.
+
+Il ne fait aucune tentative pour vous saluer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Entamer le combat] "Une proie facile !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Battre en retraite] "Qu'ils se débrouillent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Le navire adverse déploie ses voiles pour prendre le vent. Il fend les eaux, les cris de triomphe claquant dans le vent comme des fouets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Le navire adverse déploie ses voiles et file avec toute la force du vent dans sa poupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Malgré le tumulte de l'eau, vous entendez les cris du maître d'équipage adverse ordonnant à ses hommes de gagner leurs postes.
+
+Les marins grimpent sur le gréement comme des araignées puis laissent pendre les voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Le navire adverse manœuvre afin de fondre sur vous, pointant son artillerie droit sur le [Player Ship].
+
+Le lointain tonnerre des coups de canon résonne sur la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>L'équipage du navire adverse s'empresse de prendre position autour des canons.
+
+Après un cri de leur maître d'équipage, le tonnerre des coups de canon roule sur la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Le bateau adverse fait demi-tour pour s'enfuir sous le vent. Bientôt, le bateau n'est plus qu'un point à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Le capitaine adverse sonne la retraite, et l'équipage se précipite pour préparer les voiles. Le navire ennemi vire de bord avec empressement et se dirige sous le vent, naviguant aussi proche de ce dernier que possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] voit son équipage bondir en action, courant vers ses postes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>L'équipage ennemi se presse vers ses postes afin d'être paré à la manœuvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Le [ShipDuel_PlayerShip] se met sous le vent, louvoyant de bâbord à tribord avec la rapidité voulue.
+
+Votre navire plus rapide et votre équipage mieux préparé vous permettent de vous positionner au vent par rapport au [ShipDuel_OpponentShip], avant que ses marins aient le temps de manœuvrer et de vous griller la politesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Au prix de manœuvres audacieuses, le [ShipDuel_PlayerShip] se positionne au vent par rapport au [ShipDuel_OpponentShip], avant que ses marins aient le temps de manœuvrer et de vous griller la politesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] voit l'eau s'engouffrer dans les trous qui percent sa coque. En à peine plus d'un instant, le navire est à moitié submergé. Ses marins se jettent à l'eau depuis le pont. Ils s'accrochent aux débris flottants et marchandises éparpillées, crachant de l'eau, les yeux hagards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Alors que le bateau franchit la crête d'une vague, vos canonniers tirent une salve assourdissante en direction du vaisseau adverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Specified 0] pointe du doigt un lointain point sombre à l'horizon.
+
+"Capitaine, il y a un vaisseau en approche."
+
+Vous plissez les yeux en direction de l'horizon et remarquez que l'étendard qui claque dans le vent ne vous est pas familier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>L'équipage ennemi se presse vers ses postes afin d'être paré à la manœuvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt; "Tenez la position !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt; "Virez à bâbord !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt; "Virez à tribord !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>L'équipage se précipite pour réduire la voilure, rendant le bateau quasiment immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Le timonier tourne le gouvernail vers bâbord, alors que l'équipage réduit la voilure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Le timonier tourne le gouvernail vers tribord, alors que l'équipage réduit la voilure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Les voiles de vos adversaires pendouillent alors que leur bateau s'arrête. Le vent est tombé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] vire à bâbord sous l'impulsion du capitaine adverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] vire à tribord sous l'impulsion du capitaine adverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Le bateau adverse change de cap et rebrousse chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>L'équipage adverse court sur le pont, alors que son capitaine lui assigne de nouveaux postes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Le [ShipDuel_PlayerShip] dépasse le [ShipDuel_OpponentShip], tout en tenant ses canons prêts à tirer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>L'équipage se précipite pour préparer la grand voile à virer de bord afin d'effectuer un demi-tour avec le [ShipDuel_PlayerShip].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Canons arrière, feu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Canons bâbord, feu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Canons tribord, feu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt; "Présentez-vous à..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Votre équipage court sur le pont pour prendre position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[ERREUR] L'ordinateur a utilisé une action de combat naval non reconnue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Vitesse d'éperonnage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; "Parés à l'abordage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Vous plissez les yeux en direction d'un point sombre à l'horizon et remarquez que l'étendard qui claque dans le vent ne vous est pas familier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Alors que le navire s'approche, l'équipage ouvre brusquement ses sabords.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Joindre le combat] "En avant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Battre en retraite] "Ce n'est pas notre combat !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Le navire adverse est sur vous avant que vous ayez eu la moindre chance de fuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Les flammes lèchent votre grand mât et se répandent parmi vos voiles. Les voiles sèment des braises sur le pont, qui prend feu lui aussi. Le feu se répand trop vite pour être étouffé, et votre navire est débordé. Les membres de votre équipage qui ne brûlent pas vifs se noient lorsque ce qui reste de votre embarcation finit par être englouti par les vagues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Les flammes lèchent le grand mât adverse et se répandent parmi les voiles. Les voiles sèment des braises sur le pont, qui prend feu lui aussi. Le feu se répand trop vite pour être étouffé par vos adversaires, et le bateau est débordé. Les membres de l'équipage qui ne brûlent pas vifs se noient lorsque ce qui reste de leur embarcation finit par être englouti par les vagues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Le [ShipDuel_PlayerShip] voit sa cale envahie par l'eau de mer. Le bateau s'incline sous vos pieds et glisse, aussi discret qu'un chuchotement, dans les bras de l'océan.
+
+Les ténèbres se referment sur vous. La chaude clarté du soleil n'est plus qu'un souvenir indistinct. Vous prenez votre dernier souffle sous les vagues. Votre voyage a pris fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>L'eau inonde la cale, et le bateau sombre rapidement sous les vagues, disparaissant sous la surface de la mer comme s'il n'avait jamais flotté dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Le [ShipDuel_PlayerShip] voit son équipage se précipiter pour en remonter les voiles. Votre bateau ralentit jusqu'à l'arrêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Le [ShipDuel_PlayerShip] vire à bâbord avec fluidité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[ShipDuel_PlayerShip] vire à tribord avec fluidité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] voit son équipage prendre de nouveaux postes alors que son capitaine lui aboie de se presser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Le capitaine ennemi aboie un ordre, et le [ShipDuel_OpponentShip] voit son équipage se précipiter à son poste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] tourne sa poupe au vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Le vaisseau ennemi vire de bord à travers le vent, rebroussant chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] vire à bâbord pour tenter de prendre l'avantage du vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] vire à tribord pour tenter de prendre l'avantage du vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] a mal évalué le sens du vent. Alors que l'équipage effectue la manœuvre, les voiles du bateau pendouillent brusquement à leurs mâts. Le navire finit par s'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Le bateau ennemi s'arrête brusquement dans l'eau. Ils ont perdu le vent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Les ténèbres se referment sur vous. La chaude clarté du soleil n'est plus qu'un souvenir indistinct. Vous prenez votre dernier souffle sous les vagues. Votre voyage a pris fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Vous ordonnez à votre équipage de fuir en toute hâte.
+
+Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[S'approcher pour aborder] "Pas de quartier ! Chargez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Mais votre navire n'est pas intact. Le [ShipDuel_PlayerShip] voit l'eau s'engouffrer dans les trous de sa coque. Votre navire se retrouve à demi submergé en ce qui vous semble un instant. Certains de vos marins se jettent à l'eau depuis le pont. Ils s'accrochent aux débris flottants et marchandises éparpillées, crachant de l'eau, les yeux hagards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>L'équipage ennemi envahit votre pont dans un concert d'acclamations rauques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Le [ShipDuel_OpponentShip] fond sur vous. Le navire fonce dans le vôtre sous les acclamations rauques de son équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt; "Préparez-vous au choc !" ([ShipDuel_BraceChance] de chances d'éviter les Blessures)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Votre équipage se précipite pour s'accrocher à quelque chose avant l'impact. Les matelots attrapent fermement la rambarde du pont principal, et ceux qui n'ont pas le temps de descendre du gréement s'accrochent solidement aux mâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>L'équipage du [ShipDuel_OpponentShip] se jette contre la rambarde du pont principal, et les matelots dans le gréement s'accrochent au mât.
+
+"Préparez-vous au choc !" Leur maître d'équipage hurle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Bien que votre équipage soit rapide, il faut un certain temps au [ShipDuel_PlayerShip] pour virer afin d'entamer la manœuvre suivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[ERREUR] Le joueur a essayé de poursuivre une action continue non prise en charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Le navire de votre adversaire vire en toute hâte. Bien que l'équipage adverse ait le pied léger, il faut un certain temps pour faire virer de bord un vaisseau aussi gros que le [ShipDuel_OpponentShip].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[ERREUR] L'adversaire a essayé de poursuivre une action continue non prise en charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Capituler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Pour votre capitulation, le [ShipDuel_Opponent] exige :
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>[Accepter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[Refuser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Vous hissez un drapeau blanc pour indiquer votre capitulation. Le [ShipDuel_Opponent] envoie une poignée de marins collecter le butin.
+
+Des acclamations retentissent parmi l'équipage du [ShipDuel_Opponent]. [ShipDuel_OpponentShip] s'éloigne, et vous vous retrouvez seul en haute mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Choisissez quoi faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Vous n'avez pas l'équipage suffisant pour manœuvrer votre navire, aussi devez-vous capituler.
+
+[ShipDuel_Opponent] prendra :
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Accepter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Refuser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>L'équipage marmonne nerveusement tandis que vous donnez l'ordre de charger. Le [ShipDuel_PlayerShip] sera exposé aux tirs de traverse et vous risquerez morts et blessés :
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[Continuer d'avancer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

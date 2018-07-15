@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_captain_personality</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le marin jette un coup d'œil par-dessus son épaule, puis se retourne vers vous.
+
+"Si vous voulez que ces gars vous obéissent, vous devriez mettre les points sur les i. Montrez-leur qui vous êtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eh bien..." [Specified 0] fronce les sourcils en regardant le pont. "En ce moment, les rations s'amenuisent pas mal. Et des choses comme ça, ça fait réfléchir les marins sur la légitimité de leur capitaine." Le marin tousse. "Mais parfois, une bonne démonstration de force suffit à mettre les choses au clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Rassembler l'équipage pour lui parler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Retourner dans vos quartiers]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] rassemble l'équipage sur le pont. Certains marins pendent nonchalamment au gréement, d'autres sont perchés sur des caisses, et d'autres encore s'appuient contre le bastingage.
+
+Leurs regards se fixent sur vous quand vous surgissez sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] prend un air ahuri quand vous fermez la porte.
+
+"C'est fichu, je suppose... " entendez-vous marmonner le marin quand il retourne sur le pont.
+
+Vous mettez les voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je ne tolèrerai aucune insubordination. Si je vous dis de sauter, vous me demandez de quelle hauteur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ce navire ne se résume pas à ses planches et à ses voiles. Ce navire, c'est vous. En tant que capitaine, je vous donnerai tout. Et j'attends la même chose de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je sais que je dormais pendant la traversée, mais à présent que je suis réveillé, il est temps que les choses sérieuses commencent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ravi qu'on ait mis ça au clair. Maintenant, tous à vos postes avant que j'en jette un par-dessus bord !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 4] s'avance. 
+
+"Pardonnez ma question, capitaine, mais quelle &lt;i&gt;est&lt;/i&gt; la mission du navire au Feu éteint, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Cette immense statue nue a pris un morceau de mon âme. Je compte le reprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Éothas sème destruction et désespoir sur son passage. C'est à nous d'arranger la situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nous sommes à la poursuite d'un bâtard bleu qu'on appelle dieu ! Qui est avec moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous avez tous vos propres raisons d'être ici, et je doute que vous souhaitiez tous les confier. C'est pareil pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'équipage se redresse, se tenant raide et ne bougeant qu'avec le roulis du navire. Ils n'osent pas même échanger un regard entre eux. Une goutte de sueur perle sur le nez de [Specified 0], et tombe sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"À vos ordres, capitaine !" s'exclame [Specified 3] en riant. [Specified 0] applaudit, et le reste de l'équipage l'imite, souriant et acquiesçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 3] ricane. "Je suppose que nous n'aurons pas droit à une sieste comme la vôtre ?"
+
+"Vous ne croyez pas que vous dormez bien assez comme ça, [Specified 3] ?" rétorque [Specified 2].
+
+L'équipage éclate de rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Les marins clignent des yeux, hésitant un instant, avant de retourner à leurs postes, saisissant des cordes, des marteaux et des serpillères.
+
+Vous leur tournez le dos et repartez d'une démarche assurée jusqu'à vos quartiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Une rumeur s'élève de l'équipage tandis qu'ils échangent des regards incrédules. 
+
+[Specified 1] se signe. "Notre capitaine est béni par les dieux."
+
+[Specified 3] acquiesce, pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 1] murmure une prière, mais hoche néanmoins la tête.
+
+[Specified 0] s'avance. "Au travail bien fait, et aux pièces durement gagnées !" 
+
+[Specified 3] pousse des acclamations, et les autres matelots sourient et hochent la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Le capitaine compte vraiment s'en prendre aux dieux... " soupire [Specified 3], passant la main sur son visage aux traits tirés.
+
+"Priez pour qu'Ondra ne soit pas de la partie," lance [Specified 1], suscitant des rires nerveux.
+
+"Quelqu'un doit l'arrêter !" [Specified 5] enfonce son poing dans la paume de sa main. "Qu'importe ce qu'il manigance, il a déjà tué trop de monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Les membres de l'équipage chuchotent entre eux, échangeant des regards nerveux. 
+
+[Specified 3] hausse les épaules. "Le capitaine a pas tort."
+
+[Specified 0] hoche la tête, puis claque des talons et fait un salut. "On sait pourquoi on est là, capitaine. On est là pour vous." 
+
+[Specified 5] acquiesce avec gravité. "On est à votre service, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bienvenue à bord du [Player Ship], mesdames et messieurs. Je suis [Player Name], votre capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ravi de vous avoir à nos côtés, capitaine !" crie [Specified 3], un large sourire aux lèvres, suscitant l'approbation d'autres membres de l'équipage. Les bras croisés, [Specified 2] vous sourit, et [Specified 1] applaudit faiblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Êtes-vous en train de dire que j'ai des raisons de m'inquiéter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Non, capitaine. C'est juste la tradition. Et puis, c'est la moindre des choses." [Specified 0] ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ohé, compagnons ! Je prends ce que veux, quand je le veux. Et c'est pareil pour mon redoutable navire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Après des années d'exil, me voici de nouveau sur les eaux vastes et chaudes du Feu éteint. C'est bon d'être de retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Eh bien, &lt;i&gt;ça&lt;/i&gt; c'est un équipage. Pouvez-vous croire que cette statue dans ma chambre m'a dit que vous ne valiez rien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ces yeux ont soulevé le voile de la mort, et je suis de retour, moi le héraut de Berath et exécuteur de sa volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Garde à vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 1] lance un coup d'œil à [Specified 2], qui coupe court à toute remarque d'un rapide hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le groupe de marins s'esclaffe, et le rire de [Specified 1] s'achève dans un reniflement involontaire.
+
+"Le capitaine parlait pas de vous, [Specified 1] !" lance [Specified 3], suscitant une nouvelle vague d'hilarité générale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Après un instant d'hésitation, l'assemblage hétéroclite de marins claque des talons, en présentant une variété de saluts issus des différentes cultures d'Eora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"J'ai l'intention de commander un navire réglo. Nous ne sommes ni des pirates, ni des pillards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Qui aime l'argent, ici ? Restez avec moi, et vous en aurez plus que vous ne pourrez en dépenser !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Pillages et mises à sac, messieurs-dames ! On est là pour piller et mettre à sac !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ne suis pas là pour répondre à vos questions ! Remettez vous au travail !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Voilà un credo derrière lequel un marin aime se ranger !" [Specified 3] brandit le poing en l'air, suscitant une vague de rires. Les rires se muent en acclamations avant de finir en chants de marin paillards et tapageurs.
+
+Secouant lentement la tête, [Specified 0] laisse échapper un petit rire. "Vous parlez comme un vrai gars du Feu éteint, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Edér est le premier à se raidir. Cette réaction inhabituellement sérieuse ne lui ressemble tellement pas que l'équipage semble s'en rendre compte, et l'imite sans hésiter.
+
+De son côté, Edèr a l'air sincèrement surpris par la façon dont son corps a réagi à votre ordre, comme s'il avait sa volonté propre. Un bref sourire traverse son visage avant qu'il ne se reprenne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Et moi qui croyais qu'on allait au devant de plus graves ennuis," lance Aloth d'un air soucieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>L'équipage se sépare et reprend ses activités tandis que le navire, votre navire, fend les eaux bleues et claires du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bon retour parmi nous, capitaine !" lance [Specified 3]. Le reste de l'équipage sourit en hochant la tête ou applaudit doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ah, voilà qui ravit mes oreilles de pirate !"
+
+La bouche de Serafen s'étend en un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Par Gaun, vous avez bien raison. Et personne ne nous arrêtera."
+
+Faucille et lanterne levées, l'ombre de Xoti s'étend sur le navire. C'est une silhouette de taille monstrueuse d'une faucheuse d'âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Elle croise les bras. "Je ne m'élèverai &lt;i&gt;pas&lt;/i&gt; contre mon dieu. Mais rien ne m'empêche de vous accompagner pour soulager les souffrances que ne manquera pas de causer sa mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Edèr s'avance et se tourne vers l'équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ah, voilà qui ravit mes oreilles de pirate !"
+
+La bouche de Serafen s'étend en un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous venez de prendre la mer quand [Specified 0] apparaît à votre porte, épongeant la sueur sur son front avec un chiffon.
+
+"Je vous demande pardon, capitaine. Nous voguons depuis un petit moment, mais la majeure partie du temps vous n'étiez pas en état de parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aloth hausse brièvement les sourcils. Il semble comprendre votre réserve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ce n'est pas tout ce qu'il a pris, et s'il ne vous a rien pris à vous et aux vôtres, ne vous croyez pas à l'abri pour autant. Nous sommes tous dans le même bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

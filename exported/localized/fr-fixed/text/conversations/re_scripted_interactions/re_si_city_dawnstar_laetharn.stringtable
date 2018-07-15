@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_dawnstar_laetharn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous arpentez les rues quand un homme fend la foule et s'approche de vous.
+
+Vous ne l'avez jamais vu, mais la manière dont il vous regarde laisse entendre qu'il vous reconnaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gardien ? Laissez-moi passer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Un homme du peuple des prairies émerge de la foule, le visage empourpré et les cheveux en bataille. Il ne prête aucune attention aux badauds irrités qui lui jettent des regards noirs. Ses yeux brillants sont braqués sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous avez l'air aussi... fervent qu'à votre habitude, Laethärn." Xoti lève le menton en guise de bref salut.
+
+Pour toute réponse, le missionnaire souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous. C'est vous qui avez assisté au miracle. Lorsqu'Éothas est sorti de terre à Caed Nua." L'exaltation et la conviction font trembler sa voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Notre peuple chante vos louanges. Il n'est pas étonnant qu'Éothas vous ait choisi pour être témoin de son retour.
+
+"C'est pourquoi j'espère que vous pourrez nous aider."
+
+Un bref instant de doute se lit sur son visage. Il le fait disparaître en inspirant profondément et débute son récit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Notre peuple ne vous tient pas en haute estime. Mais il semble qu'Éothas vous ait choisi pour une raison, malgré tout."
+
+Il soupire tel un homme qui fait confiance alors qu'il sait qu'il ne le devrait pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'ai entendu beaucoup d'histoires à votre sujet de la part des miens. Je ne sais pas vraiment quoi en penser, pour tout vous dire." Il plisse des yeux, comme pour essayer de lire la réponse dans votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mais si Éothas vous a choisi pour être témoin de son retour, il doit y avoir une bonne raison."
+
+Il inspire profondément avant de continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je fais des rêves étranges, ces derniers temps. Une roue qui ne cesse de tourner.
+
+"Un verger d'arbres à koīkis, chacun d'eux issu d'un fruit tombé du précédent." Il gratte son menton barbu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Soudain, les rayons de la roue se disloquent. Les arbres cessent de pousser. Les fruits en tombent et pourrissent, recouvrant le sol d'une pulpe moisie et nauséabonde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pourquoi me dites-vous cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je me dois de croire que vous, plus que tout autre, êtes capable de comprendre ce que cela signifie. 
+
+"En outre..." Il se ronge la lèvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous vénérez également Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous vous interrogiez sur les grands mystères de ce monde. Contempliez des choses que la plupart d'entre nous ne peuvent appréhender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous n'êtes peut-être pas un fidèle d'Éothas, mais vous vénérez les dieux et parlez en leur nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous avez l'esprit affûté pour ce qui est des mystères de ce monde. Leur étude fut autrefois le travail de votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous avez été béni des dieux. Vous portiez leur marque à la naissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Il inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dans ces rêves, je vous vois aussi. Vous êtes au centre de la roue. Au milieu du verger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vous étiez là quand Éothas a surgi. Et vous semblez le suivre partout où il passe."
+
+Il fait une moue chagrinée tandis qu'il arrive au cœur de ses préoccupations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Éothas a toujours symbolisé la réincarnation et la rédemption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mais il y a tant de mort dans son sillage. C'était le cas durant la guerre du Saint, ça l'est maintenant ici. Une fois de plus." Ses yeux écarquillés sont pleins de questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hé, je suis vraiment comme ça ?"
+
+Edér vous adresse une petite moue coupable Il se tourne vers Laethärn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mon ami, j'aimerais vous payer un verre, si ça peut aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Il secoue la tête, une anxiété croissante dans son regard.
+
+"Je dois savoir ce que cela &lt;i&gt;signifie&lt;/i&gt;. S'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Il n'y a pas de réponse simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mais les gens disent qu'il va détruire le cycle !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Pourquoi venez-vous me parler de ça ? Je n'ai jamais demandé à être un porte-parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"La mort et la réincarnation font partie du même cycle. L'une ne va pas sans l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mais les gens disent qu'il va détruire le cycle !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Mais comme ça ? Tant de chaos. Tant de violence." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Les miens ont guerroyé aux côtés d'Éothas autrefois. Je me demande parfois si notre défaite était un manquement à nos engagements envers lui. 
+
+"Ou si le simple fait de prendre les armes l'était déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vous en prie, vous en avez vu plus que quiconque. Vous devez bien avoir une idée de ce que tout cela signifie.
+
+"Et de la façon pour nous d'y trouver un sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je ne peux pas vous dire comment réagir. Vous allez devoir le découvrir par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Laethärn hoche la tête, prenant le temps de bien assimiler vos paroles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ne vais pas vous retenir. Mais vous m'avez donné matière à réflexion. Merci."
+
+Il se retourne et disparaît dans la foule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ne laissez pas votre foi être portée par l'habitude. Ou vous irez au-devant des mêmes erreurs qu'autrefois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ça tombe vraiment sous le sens, dit comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"J'ignore ce que cela signifie, mais je crois que les actes des dieux, y compris ceux d'Éothas, suivent un dessein supérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"C'est une idée très réconfortante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Même les dieux doivent répondre de leurs crimes. Éothas ne fait pas exception à la règle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"J'imagine que s'ils ont fixé les règles, ils doivent également les respecter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Les dieux ne sont pas la seule voie menant à un meilleur entendement. Ensemble, les kiths peuvent accomplir de grandes choses ; voyez l'animancie, par exemple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Votre foi et votre mode de vie ont assuré la survie des vôtres malgré la guerre et la famine. Ne les abandonnez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous avez raison. Je ne devrais pas céder aux doutes, pas au moment où nous avons le plus besoin de notre foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Les Étoiles de l'aube ont survécu grâce à leur communauté. Vous n'avez pas besoin d'Éothas pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Voilà un angle que je n'avais jamais envisagé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je vous ai dit de me laisser en dehors de ça ! Ce n'est pas mon problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>En proie à une franche déception, il raidit ses épaules et prend un air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Dommage que vous ressentiez les choses ainsi. J'estime que les faits et gestes des dieux nous concernent tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Mais quoi qu'il en soit, vous m'avez donné matière à réfléchir."
+
+Il se retourne et disparaît dans la foule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je ne pense pas qu'Éothas cherche à faire le mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Mais peut-être qu'il le fait malgré tout. C'est ce que vous voulez dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Il a causé beaucoup de souffrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Son expression est celle de quelqu'un qui a quelque chose coincé entre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"C'est votre subconscient qui vous joue des tours. Pas la peine de vous emporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je vous en prie, c'est important." Il fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Il &lt;i&gt;doit&lt;/i&gt; y avoir un sens caché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est bien ce que je crains." Il marque une pause, tripotant anxieusement l'ourlet de sa tunique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Quelqu'un a clairement abusé des sucreries avant d'aller se coucher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Venez-en au fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Et vous devez être Laethärn. Vous avez quitté Hasongo juste avant l'arrivée d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"J'en étais sûr. Il était écrit que nos chemins se croiseraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Et ce fut une tragédie. La moitié des hommes, femmes et enfants de la forteresse sont morts ce jour-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Pour renaître dans une nouvelle vie glorieuse, assurément. Ne le pensez-vous pas ?" Il grimace, pas tout à fait convaincu de sa réponse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Cela dépend de qui le demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Laethärn. Des Enfants des Étoiles de l'aube. Je travaillais dans les champs d'Hasongo jusqu'à récemment." Il grimace, ne sachant trop comment continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Que la lumière vous bénisse." Xoti baisse la tête pour saluer respectueusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Les paroles de Xoti semblent le mettre à l'aise. 
+
+"Vous de même, Moissonneuse." Il incline la tête à son attention avant de se tourner vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Lorsque le dieu de la réincarnation est lui-même né à nouveau. Une chose merveilleuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Son visage s'illumine. "Assurément. Je prie qu'un jour, il me juge digne de l'honneur d'assister à pareil miracle." 
+
+Il marque une pause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Bien sûr. Je veux dire, pourquoi en serait-il autrement ?" Malgré son ton innocent, Xoti arbore un sourire bien trop goguenard et carnassier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je suppose que, venant de vous, c'était un compliment. En effet, je m'efforce de suivre la voie de la lumière... et de la piété."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je crois qu'à partir de maintenant, je vais tenir ma langue." Xoti se hérisse immédiatement. 
+
+Ignorant le regard noir qu'elle lui jette, Laethärn reporte son attention sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Alors permettez-moi de vous rendre la pareille. Vous me semblez plus sombre qu'a l'accoutumée, Moissonneuse. Il y a comme un voile sur vous. Un voile de mort et d'hérésie."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

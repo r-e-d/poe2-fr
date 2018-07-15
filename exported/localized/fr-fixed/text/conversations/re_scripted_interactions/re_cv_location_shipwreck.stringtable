@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_shipwreck</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une épave se blottit dans les vagues déferlantes, ses barrots fendus se dressant dans l'eau telle une cage thoracique.
+
+L'épave paraît abandonnée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous passez quelques heures à explorer l'épave...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>... et vous ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous avez fouillé le navire de la proue à la poupe. Il ne contient plus rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>... et trouvez une caisse de provisions pour aventurier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... et trouvez une boîte pleine de rations encore comestibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... et trouvez un baril encore plein de boisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... et trouvez dans une caisse quelques provisions utiles pour le navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... et trouvez un vieux drapeau en lambeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... et trouvez un coffre plein de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... et trouvez un canon en étonnamment bon état.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... et vous trouvez un étrange pendentif qui luit d'une douce lumière émanant de son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Passer l'épave au crible]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Continuer de fouiller le navire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Prendre le pendentif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous ramassez le pendentif et vous remarquez qu'il est étrangement chaud au toucher, comme si quelqu'un venait de le porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous avez fouillé le navire de la proue à la poupe. Il ne contient plus rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous trouvez un boutre abandonné, à demi enterré dans le sable. Le vent souffle à travers les trous béants de sa coque, faisant grincer et gémir le bois blanchi par le soleil. Des caisses, toujours fermées, gisent éparses autour de l'épave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vous tombez sur un sloop abandonné qui s'est échoué sur la plage. Les coraux et les rochers volcaniques à proximité ont dû réduire sa coque en miettes, mais il se peut qu'il reste des choses à récupérer dans la cale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Un vieux et majestueux galion s'est échoué à proximité du rivage, incliné si fortement que son pont supérieur est presque vertical. Son grand mât est brisé en deux, comme par la main d'une bête irascible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous tombez sur une épave antique. Ses voiles pendent du grand mât telles des toiles d'araignée, déchiquetées par les canonnades et la virulence des vents. La coque du navire est craquelée et déformée, mais peut-être contient-elle encore quelque chose de récupérable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Une jonque danse sur l'eau à proximité du rivage. Sa coque est marquée de profondes entailles au-dessus de la ligne de flottaison, et des parties de la poupe sont réduites en cendres. Il se peut que la cale contienne encore des choses récupérables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous retournez au vaisseau délabré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous continuez à fouiner dans l'épave...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous passez quelques heures à explorer l'épave...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>... et vous trouvez une arme qui est en meilleur état que ce à quoi vous vous attendiez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>... et trouvez un curieux objet rangé dans un recoin de la cale.
+
+Après quelques minutes à creuser pour le dégager de l'épave, vous découvrez qu'il s'agit en fait d'une hache d'armes de qualité exceptionnelle qui luit d'une étrange lueur interne.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

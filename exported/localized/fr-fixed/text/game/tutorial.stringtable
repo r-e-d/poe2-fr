@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>134</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Déplacement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pour déplacer les personnages sélectionnés, cliquez sur n'importe quel espace dégagé sur la carte. Tous les personnages sélectionnés se déplaceront à l'endroit indiqué, dans votre formation actuelle.  Les personnages ne peuvent pas se rendre aux endroits où le curseur prend l'apparence d'un cercle rouge barré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cliquez sur les objets en surbrillance pour interagir avec eux. Chaque type d'objet a son propre type d'interactions de base. Les portes vont s'ouvrir ou se fermer, les choses verrouillées seront déverrouillées, les objets seront ramassés, les personnes dans le monde vont vous parler, et les ennemis seront attaqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Interagir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Inventaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_inventory" tint=1&gt; ou sur la touche [I] pour ouvrir l'inventaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Si vous cliquez sur un objet dans votre inventaire pour le déplacer, vous pouvez le placer dans n'importe lequel des emplacements en surbrillance pour l'équiper. Vous pouvez également faire un double clic sur les objets pour les équiper automatiquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Équiper des objets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Introduction au combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Les personnages accompagnés d'un cercle de sélection rouge vous sont hostiles. Pour attaquer un ennemi avec l'arme que vous avez équipée, cliquez sur le cercle de sélection de l'ennemi.
+
+Vous pouvez aussi sélectionner le bouton &lt;sprite="Inline" name="ico_attack" tint=1&gt;, en bas au milieu de l'écran, pour faire passer le curseur en mode offensif. Ceci vous permettra d'attaquer n'importe qui, y compris les personnages amicaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dispositions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous avez gagné une réputation dans une disposition. Les dispositions représentent la manière dont les gens perçoivent votre personnalité à travers le monde. Même des réputations en apparence mauvaises seront appréciées par certaines personnes, tandis que de bonnes réputations susciteront des réactions négatives chez d'autres. Il n'y a pas de disposition qui soit intrinsèquement bonne ou mauvaise dans Pillars of Eternity II : Deadfire.
+
+Pour voir les icônes indiquant l'effet des choix de dialogue sur la disposition, activez l'option « Afficher la personnalité/réputation » dans les réglages de difficulté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dispositions : paladin et prêtre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous avez gagné une réputation dans une disposition. Les dispositions représentent la manière dont les gens perçoivent votre personnalité à travers le monde. Même des réputations en apparence mauvaises seront appréciées par certaines personnes, tandis que de bonnes réputations susciteront des réactions négatives chez d'autres. Il n'y a pas de disposition qui soit intrinsèquement bonne ou mauvaise dans Pillars of Eternity II : Deadfire.
+
+Cependant, votre Gardien étant un prêtre ou un paladin, vous devez veillez à ce que ses dispositions soient conformes aux dispositions privilégiées de son dieu ou de son ordre, respectivement. Pour le Gardien uniquement, les dispositions vont modifier les effets du Rayonnement sacré (pour les prêtres) et de Foi et conviction (pour les paladins).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Journal de quêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Quand vous recevrez des quêtes, votre journal sera mis à jour avec des informations utiles. Si jamais vous vous retrouvez bloqué, ouvrez-le pour relire vos notes en appuyant sur &lt;sprite="Inline" name="ico_journal" tint=1&gt; ou sur la touche [J].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Dialoguer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Cliquez sur les cercles de sélection des personnages neutres ou amicaux dans le monde pour engager la conversation avec eux. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sélection des personnages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Pour sélectionner un membre du groupe, cliquez sur son cercle de sélection, son portrait, ou appuyez sur la touche numérale correspondant à sa position dans l'équipe (commençant par 1 pour celui qui se trouve le plus à gauche). 
+
+Pour sélectionner plusieurs membres du groupe, cliquez n'importe où sur l'écran et maintenez le bouton enfoncé, puis tracez un rectangle de sélection comprenant les cercles des membres de l'équipe que vous souhaitez inclure.
+
+Pour sélectionner le groupe entier, appuyez sur &lt;sprite="Inline" name="ico_selectall" tint=1&gt; ou sur la touche [Retour arrière].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bestiaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vaincre des créatures vous permettra de déverrouiller leurs entrées respectives dans le bestiaire.  En déverrouillant plus d'informations dans le bestiaire, vous obtiendrez plus d'expérience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Résultats des attaques en combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Tous les personnages du jeu ont quatre types de défenses contre les attaques : La Déviation, la Robustesse, les Réflexes et la Volonté. Ces défenses sont basées sur leurs attributs, leur niveau, leur équipement, ainsi que d'autres effets. Plus le personnage sera puissant, plus ses défenses seront efficaces et plus il sera difficile de le frapper ou de l'affecter au moyen de capacités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Le jet d'attaque est un nombre aléatoire compris entre 1 et 100, auquel est additionnée la différence entre la Précision de l'attaque &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; et la défense de la cible &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;.  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Si la Précision est inférieure à la défense, le jet d'attaque subit un malus. Si la Précision est supérieure à la défense, le jet d'attaque gagne un bonus.
+
+Il vaut toujours mieux avoir un jet d'attaque final élevé.  0-24 = Échec, 24-49 = Éraflure, 50-99 = Coup, 100+ = Critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Un échec n'a aucun effet. Un coup a l'effet standard prévu. Une éraflure inflige moins de dégâts et a une durée plus courte (pour les effets). Un critique inflige plus de dégâts, a plus de Pénétration &lt;sprite="Inline" name="cs_penetration" tint=1&gt; et a une durée plus longue (pour les effets).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Objets rapides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Les consommables comme les potions, les parchemins, les explosifs, les pièges et les figurines magiques sont équipés dans les emplacements d'objet rapide du personnage.  Il est possible d'accéder à ces objets en plein combat en sélectionnant le &lt;sprite="Inline" name="quickitems_s" tint=1&gt; sur la barre de raccourcis du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Réputation des compagnons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; ou sur la touche [C] pour afficher la fiche de personnage.  Sélectionnez l'onglet Réputation, puis sélectionnez le portrait de n'importe quel compagnon pour voir ses relations avec les autres membres du groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Réputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>La réputation du Gardien, ses dispositions ainsi que ses relations figurent sur la Roue de réputation.
+
+La Roue de réputation d'un compagnon montre ses relations avec les autres membres du groupe ainsi que ses préférences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Furtivité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_stealth" tint=1&gt; ou sur la touche [Alt] pour faire passer les personnages sélectionnés en mode furtif ou le quitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Détection de la Furtivité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Quand un personnage en mode furtif pénètre dans le périmètre auditif ou le champ de vision de quelqu'un, cette personne commence à le détecter.  Le taux de détection dépend du niveau de Furtivité du personnage et du niveau de la personne qui le détecte. La détection se fait plus rapidement dans le champ de vision que dans le périmètre auditif. En mode furtif, vous pouvez passer votre curseur sur n'importe quel personnage pour voir son périmètre auditif ainsi que son champ de vision.
+
+Certains objets, comme les crécelles, peuvent servir à distraire et à faire bouger les personnes quand vous vous déplacez en mode furtif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Pièges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Des pièges, ainsi que d'autres objets cachés, peuvent être découverts au cours de votre exploration. La capacité d'un personnage à découvrir des objets cachés dépend de sa Perception, et son habileté à désarmer un piège détecté dépend de sa compétence Mécanique.
+
+Tous les personnages (y compris les ennemis) peuvent déclencher un piège. Une fois activés, les pièges causent des blessures à tout personnage qu'ils touchent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Capacités</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Chaque personnage a sa propre barre de capacités qui contient toutes ses capacités actives (comme les sorts, les pouvoirs, les invocations, etc.). Pour utiliser une capacité, cliquez dessus. Certaines capacités ciblent automatiquement l'utilisateur, mais pour la plupart il vous faudra indiquer une cible en cliquant dessus.
+
+Certaines capacités ciblent une zone d'effet (ZdE). La zone d'effet la plus répandue est un cercle. Si votre zone d'effet prend la forme de deux cercles, l'un plus grand que l'autre, les personnages alliés qui se trouvent dans la limite entre les cercles ne seront &lt;i&gt;jamais&lt;/i&gt; blessés. C'est toujours une zone sans danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>La plupart des capacités tirent leur pouvoir d'une ressource unique à chaque classe de personnage. Les capacités des barbares, des combattants, des moines, des paladins, des rôdeurs et des bandits puisent dans une réserve qui est pleine au début de chaque combat. Chaque capacité consomme une partie de cette ressource, jusqu'à ce qu'elle soit complètement épuisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Contrairement aux barbares et aux combattants, les druides, les prêtres et les magiciens n'ont &lt;i&gt;pas&lt;/i&gt; de réserve de ressource commune à toutes leurs capacités. Au lieu de ça, à chaque combat, ils peuvent lancer un nombre défini de sorts de chaque niveau de sort auquel ils ont accès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Les incantateurs, les clairvoyants et les moines commencent avec une partie de leur réserve totale de ressource et doivent l'augmenter au fil du temps durant chaque combat. Chaque classe gagne sa ressource d'une façon différente. À l'inverse des autres classes, ils peuvent continuer à recharger leurs ressources en plein combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Armure et Pénétration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les personnages ont des Valeurs d'armure &lt;sprite="Inline" name="cs_ar" tint=1&gt; qui représentent leur capacité à résister à la Pénétration &lt;sprite="Inline" name="cs_penetration" tint=1&gt; de différents types de dégâts. Les attaques causant des dégâts ont une valeur de Pénétration qui sert à déterminer avec quelle facilité elles peuvent surpasser la Valeur d'armure de la cible.
+
+Si la Pénétration d'une attaque est égale ou supérieure à la Valeur d'armure de la cible pour le type de dégâts correspondants, elle inflige l'intégralité des dégâts. Si la Pénétration de l' attaque est inférieure à la Valeur d'armure de la cible, la quantité de dégâts est réduite pour chaque point de différence. Si la Pénétration d'une attaque équivaut au moins au double de la Valeur d'armure de la cible, un bonus est appliqué aux dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Engagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Un de vos personnages s'est retrouvé engagé dans un corps-à-corps. Si un personnage engagé s'éloigne du personnage qu'il affronte, ce dernier lancera une attaque de désengagement.
+
+Une interruption, comme le Renversement du combattant, peut permettre de rompre l'engagement pour s'enfuir sans danger. Certaines capacités, telles que la Fuite du bandit, permettent à un personnage de s'échapper sans déclencher d'attaque de désengagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Interruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Certaines capacités indiquent qu'elles peuvent faire subir une interruption à un personnage. Quand un personnage est affecté par une interruption, son action en cours est perdue, ainsi que toutes les ressources (ainsi que tous les objets rapides) qu'il était en train d'utiliser.
+
+Les interruptions peuvent être bloquées par Concentration. Si un personnage avec Concentration est affecté par une interruption, il perd sa Concentration, mais il n'est pas interrompu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Blessures et Repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Quand un personnage déclenche un piège ou est assommé en combat, il se voit infliger une blessure. Un personnage garde ses blessures jusqu'à ce qu'il boive ou mange en se reposant, ou qu'il se repose dans une auberge. Appuyez sur &lt;sprite="Inline" name="ico_rest" tint=1&gt; en bas et au centre de l'écran, ou appuyez sur la touche [R], pour vous reposer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bonus de repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Un membre du groupe a obtenu un bonus de repos.  Ces bonus s'obtiennent en se reposant dans une auberge ou en mangeant ou buvant quand vous vous reposez dans d'autres endroits. Les bonus de repos durent jusqu'à ce que le personnage se repose de nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Montée de niveau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Votre personnage a acquis suffisamment d'expérience pour monter de niveau. Appuyez sur l'icône + sur son portrait pour le faire monter de niveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous pouvez maintenant Améliorer &lt;sprite="Inline" name="empowered" tint=1&gt; vos capacités ou vous-même. Une fois par combat, vous pouvez utiliser Améliorer sur une capacité active pour la rendre beaucoup plus puissante. Vous pouvez aussi utiliser Améliorer sur vous-même pour recharger une partie de vos ressources de capacité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Améliorer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Psalmodies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Cliquer sur &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; vous permettra de modifier ou de créer de nouvelles Psalmodies.
+
+Cliquez sur une Psalmodie pour la sélectionner. Les Phrases cliquées sur le panneau gauche seront ajoutées à la Psalmodie sélectionnée. Si vous souhaitez supprimer une Phrase, cliquez dessus dans la Psalmodie.
+
+Une Psalmodie active lira automatiquement chaque Phrase dans l'ordre et reviendra au début une fois parvenue à la fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Carte du monde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Cliquer sur la carte du monde transférera votre groupe jusqu'à l'endroit sélectionné.  Pour activer/désactiver automatiquement la caméra suivant le groupe, cliquez sur l'option Caméra de suivi en bas à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Réputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Appuyez sur &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; en bas et au centre de l'écran, ou sur la touche [C], pour afficher la fiche de personnage. Sélectionnez l'onglet Réputation pour afficher les Réputations de faction et de communauté que votre personnage a acquises.
+
+Les factions afficheront la part de réputation positive que vous possédez avec une barre bleue et la part de réputation négative avec une barre rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Votre navire requiert des membres d'équipage.  Vous pouvez recruter des membres d'équipage dans la plupart des auberges des villes portuaires.  Cliquez sur &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt; pour afficher les membres d'équipage disponibles dans une auberge.
+
+Une fois que vous avez recruté un membre d'équipage, vous devez lui attribuer un poste actif sur votre navire. Les membres d'équipage non placés sur votre navire ne sont pas actifs et ne coûteront rien en nourriture, en boisson ni en salaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Les grimoires permettent aux magiciens de lancer des sorts qu'ils n'ont pas encore appris. Pour lancer les sorts contenus dans un grimoire, ce dernier doit être équipé dans l'emplacement de grimoire du magicien. Un magicien peut rapidement changer de grimoire en combat en plaçant d'autres grimoires dans ses emplacements d'objet rapide.
+
+Pour afficher les sorts inclus dans un grimoire, cliquez droit dessus ou cliquez sur l'icône ? dans l'inventaire, puis cliquez sur le grimoire. Notez que, bien que les grimoires donnent accès à de nombreux sorts puissants, un magicien ne peut pas lancer le sort d'un grimoire s'il n'a pas le niveau suffisant pour accéder aux sorts de ce niveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ingrédients</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Vous avez trouvé un ingrédient.  Les ingrédients peuvent servir à enchanter des armes, armures et boucliers uniques, mais aussi à fabriquer de la nourriture, des parchemins, des potions et d'autres objets.
+
+Sélectionnez &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; dans la Réserve du groupe pour afficher vos ingrédients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Enchantement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les armes, armures et boucliers uniques (bordés d'or) peuvent être enchantés pour en augmenter la puissance.  Chaque recette d'enchantement exige certains ingrédients spécifiques. Lorsque vous possédez les ingrédients pour appliquer un enchantement à un objet, vous verrez s'afficher un + en haut à gauche de l'icône de cet objet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Objets cachés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Les objets cachés peuvent être découverts via l'exploration.  La capacité d'un personnage à découvrir des objets cachés dépend de sa Perception.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Contres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Un contre est toute capacité ou effet qui, une fois appliqué, supprime et accorde l'immunité à une autre catégorie d'effets. Il existe deux types de contres : les inspirations et les mots-clés.
+
+Les inspirations sont regroupées par attribut (par. ex. : Dextérité, Perception) et contrecarrent et immunisent automatiquement au groupe d'afflictions correspondant à cet attribut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>IA de groupe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Si vous souhaitez que les membres de votre groupe exécutent des actions automatiquement en combat, vous pouvez sélectionner des comportements d'IA les concernant. Chaque classe propose plusieurs comportements au choix, selon les différents rôles qu'elle peut endosser.
+
+Vous avez aussi la possibilité de personnaliser entièrement ou de créer de nouveaux comportements en ouvrant l'éditeur de comportements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Embarquer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Quand vous êtes sur le pont de votre navire, vous pouvez sélectionner &lt;sprite="Inline" name="citymapicon_setsail"&gt; pour accéder à la carte du monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Capitaine du navire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Le Gardien est le capitaine du navire.  Comme les autres membres de l'équipage, il gagne de l'Expérience de marin, mais, pour ce qui est du capitaine, cette dernière fait toujours progresser son rang de capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>IU de navire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Il y a plusieurs tâches sur le navire dont l'équipage a besoin de s'acquitter en mer. Chaque navire a besoin de matelots, de canonniers et d'un timonier, et tous les navires tirent profit de la présence d'un cuisinier, d'un chirurgien et d'un navigateur à bord. Les navires plus grands exigent aussi un maître d'équipage pour gérer les matelots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Pour engager un nouveau marin sur le navire, vous devez être dans un port. Cliquez sur un marin disponible dans la section Marins connus et déplacez-le vers un rôle disponible sur le navire. Notez que chaque marin possède des talents différents. Tous les marins ne sont pas compétents pour une tâche donnée. Filtrez les types de tâches associés aux Marins connus pour voir qui est le plus doué dans chaque rôle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Quand il part à l'aventure, votre équipage consomme de la nourriture et de la boisson. Le type de nourriture et de boisson dont ils s'alimentent influera sur leur moral. Les produits plus onéreux les rendent plus heureux. La nourriture et la boisson bon marché feront baisser leur moral à la longue.
+
+Même dans ce cas, peu de choses auront autant d'impact sur le moral de l'équipage que de le laisser mourir de faim. Un équipage affamé et dont le moral est bas risque d'avoir recours à une mutinerie. S'il est négligé trop longtemps, certains risquent même de mourir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Il existe plusieurs tâches sur un navire.
+
+Lors des combats entre navires, le capitaine détermine la probabilité du navire à prendre l'ascendant (première manœuvre et autres bonus).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Lors des combats entre navires, les matelots sont tenus d'accomplir des manœuvres. Si un navire ne compte pas assez de matelots, il se déplacera plus lentement sur la carte du monde. Plus un navire compte de matelots compétents et plus il sera rapide en combat.
+
+Le maître d'équipage est considéré comme un matelot, mais il est plus important compte tenu de sa capacité à accélérer le cours d'événements spéciaux (comme éteindre un incendie sur le pont) sur le navire en coordonnant les actions de l'équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Un timonier est nécessaire pour les actions de virée de bord et d'empannage lors des combats entre navires. Les timoniers plus expérimentés rendent le navire plus difficile à toucher après avoir accompli des actions de virée de bord et d'empannage.
+
+Les canons ne peuvent pas tirer sans qu'un canonnier y ait été affecté. Plus un canonnier est expérimenté et plus son tir est précis.
+
+Le chirurgien augmente la vitesse à laquelle les membres d'équipage blessés guérissent dans la Réserve, en combat comme en traversée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Deux tâches ne sont associées à aucun rôle en combat, mais peuvent être sollicitées pour résoudre des événements de navire.
+
+Le navigateur augmente la vitesse sur la carte du monde et le cuisinier réduit la consommation de nourriture lors des traversées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Navigation en mer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Cliquez sur la liste déroulante Emplacements connus pour afficher une liste des endroits que vous avez découverts. Vous pouvez aussi chercher un lieu par nom. Les navires filent plus vite en eau profonde et plus lentement dans les haut-fonds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Rations faibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Votre équipage consomme de la nourriture et de l'eau tous les jours.  Vous devrez réapprovisionner ces ressources en les trouvant ou en les achetant.
+
+Appuyez sur &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt; pour gérer votre navire.  Réalimentez vos stocks de nourriture et de boisson en achetant ces provisions et en les plaçant dans la file d'attente appropriée. Les provisions sont toujours consommées de gauche à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Pas de rations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Voyager sans nourriture ni boisson affamera les membres de votre équipage, sapant leur moral et, s'ils ne finissent pas par mourir, les poussera à la mutinerie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Moral faible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Si votre équipage a le moral très atteint, cela risque de le pousser à la mutinerie. Vous pouvez améliorer le moral de votre équipage en lui offrant des provisions plus chères, en triomphant de navires ennemis et en partageant le butin de ces victoires avec eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Combat entre navires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Dans le Feu éteint, tous les navires ne sont pas amicaux. Certains navires hostiles risquent de vous défier au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Lors de combats entre navires, la distance et l'orientation vis-à-vis de l'ennemi sont essentielles à votre succès.  La distance détermine si l'ennemi est à portée de vos canons (ou si vous êtes à portée des leurs). L'orientation détermine quels canons (si vous en possédez) vous pouvez tirer, et si votre navire est susceptible d'être touché. Tourner votre flanc vers l'ennemi peut vous permettre de tirer la plupart de vos canons, mais fait aussi de vous une cible plus facile.
+
+Chaque navire doit entretenir ses voiles et sa coque Les voiles endommagées limitent la vitesse d'un navire. Si une coque est détruite, le navire coulera. Les canons d'un navire sont également limités par la quantité de munitions que contient votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Quand deux navires se rapprochent l'un de l'autre, ils peuvent parer à l'abordage ou s'éperonner. L'abordage plaque les deux navires l'un à l'autre et il s'ensuit un combat de pont à pont entre les deux équipages des navires. Une attaque d'éperonnage occasionne des dégâts aux coques des deux bateaux. Dans le cas où l'un des deux bateaux n'a pas coulé, le combat se poursuit de pont à pont.
+
+Une fois que vous avez réussi à couler le navire adverse ou vaincu son équipage en combat de pont à pont, vous pouvez piller ce qu'il en reste.  Le pillage inclut généralement les ressources et trésors du navire, et parfois le triomphe face à un capitaine ennemi de renom. Les pièces sonnantes et trébuchantes peuvent être partagées avec l'équipage pour améliorer le moral et les triomphes sont toujours exposés sur le gréement de votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Blessures de l'équipage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>L'équipage peut subir des blessures lors des combats et rencontres en mer. Elles limitent les capacités de ses membres. En combat, vous pouvez utiliser la commande « Présentez-vous à... » pour mettre un membre d'équipage blessé au repos, où il sera soigné par le chirurgien du navire. Tant qu'il est blessé, il ne peut pas tenir son rôle en combat à moins que le chirurgien l'ait remis sur pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Expérience de marin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Survivre à des rencontres et vaincre des capitaines ennemis en mer rapporte de l'Expérience de marin à l'équipage et au capitaine.  Acquérir de l'Expérience de marin améliorera les rangs de la tâche actuelle du membre d'équipage concerné. Les membres d'équipage peuvent &lt;i&gt;uniquement&lt;/i&gt; gagner des rangs supplémentaires dans les tâches pour lesquelles ils possèdent déjà au moins un rang. Le capitaine progresse quant à lui par rangs de capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Traits de marin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Les membres d'équipage progressent naturellement dans les tâches auxquelles ils sont affectés à mesure qu'ils cumulent de l'Expérience de marin. Les membres d'équipage peuvent uniquement progresser dans les tâches pour lesquelles ils possèdent déjà au moins un rang. Les tâches d'équipage ordinaires comptent 4 rangs maximum. Le Gardien gagne des rangs en tant que capitaine, jusqu'à 5 maximum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Sur une carte de ville, vous pouvez sélectionner &lt;sprite="Inline" name="citymapicon_supplies"&gt; pour utiliser le magasin de port et réapprovisionner votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Magasin de port</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Proche de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Un membre d'équipage a subi trois blessures. À la quatrième, il mourra. Soignez les blessures en consommant de la nourriture ou de la boisson au repos ou en vous reposant dans une auberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Un membre d'équipage est mort. Les membres d'équipage peuvent mourir après avoir subi quatre blessures non soignées ou en subissant un puissant effet de destruction. Soignez les blessures en consommant de la nourriture ou de la boisson au repos ou en vous reposant dans une auberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Conversations avec les compagnons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>L'un de vos compagnons souhaite vous parler.  Pour lancer la conversation avec un compagnon, sélectionnez-le puis cliquez sur &lt;sprite="Inline" name="ico_talk" tint=1&gt; sur la barre de capacités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Les réputations et les dispositions du Gardien figurent sur la Roue de réputation.
+
+La Roue de réputation des compagnons montre leur réputation auprès des autres membres du groupe ainsi que leurs préférences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>IU de Réputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Recrutement d'équipage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Événements de navire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Il arrive parfois qu'une attaque sur votre navire entraîne un événement de navire. C'est un problème récurrent auquel vous devez affecter des membres d'équipage. Utilisez la commande « Présentez-vous à... » pour affecter des membres d'équipage à un événement. Plus il y a de membres d'équipage affectés à l'événement et plus cet événement sera résolu rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Les acolytes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Les acolytes débutent tels des PNJ uniques ayant des quêtes spécifiques, ainsi qu'une personnalité et une apparence qui leur sont propres, ils peuvent vous proposer de rejoindre votre groupe en tant que récompense de quête. Comme les compagnons, ces nouveaux personnages ont leurs portraits et leurs voix respectives. Mais, à la différence des compagnons, ils n'ont pas de quêtes révélatrices et ne participeront pas au système de relation des compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Les mots-clés sont des qualificatifs comme Eau, Feu et Givre.  Eau contre Feu, et Feu contre Givre. La relation entre mots-clés est à sens unique : Feu &lt;i&gt;ne contre pas&lt;/i&gt; Eau.
+
+Par exemple, un personnage est sous l'effet d'un Bouclier de flammes avec le mot-clé Feu. Un ennemi le touche avec une Vague écrasante associée au mot-clé Eau.  Tous les effets de la Vague écrasante sont appliqués et le Bouclier de flammes est supprimé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Certaines des quêtes que vous recevez peuvent se révéler ardues tant que votre personnage n'a pas acquis davantage de niveaux. Une quête de niveau supérieur à celui de votre personnage sera marquée dans votre journal avec un, deux ou trois crânes : un pour chaque niveau de plus. Si une quête est supérieure à votre niveau de personnage actuel de plus de trois niveaux, les crânes apparaîtront en rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Pour améliorer une capacité, cliquez &lt;sprite="Inline" name="empowered" tint=1&gt; sur votre barre d'action, puis sélectionnez la capacité que vous souhaitez améliorer. Pour restaurer des ressources, cliquez sur &lt;sprite="Inline" name="empowered" tint=1&gt; puis cliquez sur le portait ou le cercle de sélection de votre personnage.
+
+Vous pouvez utiliser Améliorer une fois par combat uniquement et une nombre de fois limité entre les repos. Vous reposer dans une auberge, ou bien manger ou boire en vous reposant à d'autres endroits, restaurera tous les points d'Amélioration d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Sur la carte du monde, forcer un membre d'équipage à travailler avec une blessure a un lourd impact sur le moral. Les membres d'équipage peuvent toujours être soignés par le chirurgien du navire, à condition d'être placés dans un emplacement de réserve.
+
+Que ce soit sur la carte du monde ou en combat, si un membre d'équipage accuse quatre blessures (même s'il est soigné par un chirurgien), il en mourra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Certaines attaques et capacités génèrent du bruit auquel les PNJ peuvent réagir. Les gardes iront s'enquérir d'un bruit et se mettront à patrouiller la zone qu'ils protègent de manière active.
+
+Les petits feux d'artifice explosifs à fabriquer pousseront tout PNJ à portée à enquêter sur l'origine du bruit produit. Cela peut créer des opportunités pour que vos personnages se faufilent dans le dos de patrouilles ennemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>L'Éditeur de comportements vous permet de créer de nouveaux comportements pour les membres de votre groupe.  Chaque comportement est composé d'un ensemble d'actions qui dicte la conduite du membre de votre groupe en combat.
+
+Un ensemble d'actions consiste en une liste d'actions comportant des conditions, des cibles et des temps de récupération.  Chaque classe est dotée de plusieurs ensembles d'actions créés à titre d'exemples, que vous pouvez dupliquer afin de servir de point de départ pour créer vos propres ensembles d'actions personnalisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Chaque armure a une Valeur d'armure de base qui indique sa résistance générale à tous les types de dégâts.  Le champ « Contre un type de dégâts » affiche les types de dégâts spécifiques auxquels l'armure est plus ou moins résistante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Les auberges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Au sein du Feu éteint, les auberges servent à plusieurs choses. Dans chaque auberge, vous pourrez accéder à un espace d'entreposage, louer une chambre, recruter des aventuriers, reprendre la formation de personnages et gérer votre groupe.
+
+Certaines chambres vous octroieront un bonus de repos qui s'appliquera à tout le groupe et durera jusqu'à ce que votre groupe se repose de nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Le recrutement d'un aventurier vous permet de créer un personnage intégralement, tout comme vous l'avez fait pour votre personnage principal. Le coût de l'aventurier augmente en fonction du niveau auquel vous le recrutez.
+
+Reprendre l'entraînement d'un personnage le réinitialise au niveau 1 et vous permet de reprendre toutes les montées de niveau accumulées.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

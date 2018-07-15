@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_rauatai_ship_captain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cette Rauatai est assise, raide comme un piquet. Sur la table à côté d'elle se trouvent une bouteille d'alcool à moitié vide et une petite tasse en porcelaine. Les deux sentent l'anis.
+
+Elle semble vouloir s'intégrer, mais son immobilité troublante (et sa tenue claire et sans tache) la font ressortir comme un poisson des récifs sur fond de rochers.
+
+Ses yeux trouvent les vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Qu'est-ce que vous me voulez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Avez-vous déjà croisé un homme nommé Botaro ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Biha et les enfants ont encore besoin de quitter la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je veux trouver assez de place pour Biha et tous les enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Orron ne voyagera plus avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'est-ce qui vous amène à Neketaka ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parlez-moi d'Orron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Elle se raidit. "Celui qui m'a fait des menaces. Je ne suis pas près de l'oublier."
+
+Elle lève son gobelet pour une autre gorgée, plongeant sa mine renfrognée dans l'alcool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Il n'y a rien que je puisse faire. Les quartiers des passagers ont été réservés par un nain nommé Orron." Elle retire un fil égaré de sa veste lisse et rigide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Et je vous ai dit qu'il n'y en a pas. Les trois que j'ai bien voulu prendre vont déjà à peine tenir dans la cale." Sa main serre son gobelet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je commence à penser qu'on doit y aller. Bientôt." Elle se penche et baisse la voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Presque fini, j'espère. J'ai vendu une cargaison de fer et de corail de culture, et vais retourner au Rauatai avec des vorlas, des baies noires et des étoiles d'Ondra." 
+
+Elle s'agite sur sa chaise, tiraillant ses habits à la brillance et la propreté manifestes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lui et ses hommes sont des chevaliers du Pacte d'or. Orron est... particulier." Elle regarde son équipage, qui acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Les couchettes sont payées. Vous pouvez envoyer vos amis, tant que vous promettez de ne pas me poser de problèmes." Elle regarde de gauche comme de droite, vérifiant que personne n'écoute aux portes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pourquoi est-ce que vous m'amenez ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ce qui est arrivé à Botaro ne vous chagrine pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sedūzo Nui, ils n'ont pas grand-chose ici. Pensez à tout ce que la culture rauatai pourrait leur apporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Être marchand, n'est-ce pas votre métier ? Je vous paierai pour les prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ça doit être la première fois que j'entends du langage châtié à la Raveline." Elle hoche la tête en entendant votre utilisation du suffixe marquant le respect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Très bien. Je peux encore en prendre trois dans la cale, mais pas davantage. Orron et ses compagnons ont réservé les couchettes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Harami !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je suis là, Sedūzo Nui !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Est-ce que nous attendons un marchand [Player Culture], aujourd'hui ?" Sedūzo garde les yeux sur vous tout en parlant au soldat.
+
+Il y a un bref instant de flottement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ce n'est pas le cas, Sedūzo Nui !"
+
+Le capitaine s'agite, mal à l'aise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Alors dites ce que vous voulez, et vite. J'aimerais éviter une autre... surprise."
+
+Elle regarde rapidement aux alentours, comme si elle s'attendait à ce que quelqu'un jaillisse d'un autre coin de la taverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que s'est-il passé, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Est-ce que ces « jolis mots » sont trop gros pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Cette personne voulait embarquer sur mon bateau. Comme si j'étais le passeur du bac du village !" Elle expédie un peu trop vite le reste de sa boisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous, les Huanas, vous apprenez trop de jolis mots des Vailiens. Personne ne peut faire confiance à ce que vous dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ces Huanas apprennent trop de jolis mots des Vailiens. On ne peut pas faire confiance à ce qu'ils disent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je peux encore en prendre trois dans la cale, mais pas davantage. Orron et ses compagnons ont réservé les couchettes.
+
+"En supposant que vous ayez l'argent." Elle vous adresse un regard inquisiteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Payer 300 pc] "C'est un juste prix pour trois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Laissez-moi y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Mais peut-être que c'est bon. Il vient d'honorer un contrat de surveillance du moulin d'adra lumineux vailien. 
+
+"On dit que les animanciens sont également spéciaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Il est à l'étage. Mais ne le dérangez pas s'il est en train de ranger des objets." Elle échange rapidement un autre regard complice avec son équipage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Comme c'est étrange que vous alliez faire affaire dans les bidonvilles. À moins qu'il s'agisse de quelque chose d'illégal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous avez l'air nerveux. Est-ce que la Compagnie royale du Feu éteint sait que vous commercez par ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je pensais que les Rauatais opéraient depuis la Citadelle de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Elle repose son verre avec fracas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"La plupart, oui." 
+
+Elle évite de croiser votre regard. Ses lèvres sont serrées en une grimace rigide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous avez l'air nerveux. Est-ce que la Compagnie royale du Feu éteint sait que vous commercez par ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"La Compagnie royale du Feu éteint verrait... d'un mauvais œil les affaires dans ce district.
+
+"Mais ce qu'ils ne savent pas ne peut pas les chagriner." Elle rit nerveusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je ne dirai rien à la Compagnie royale du Feu éteint si vous prenez Biha et les enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Elle tiraille son col et regarde aux alentours pour voir si quelqu'un aurait pu vous entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"La Raveline est un endroit dangereux. Ayez pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Envoyez-les moi. Plus tôt nous partirons et mieux ce sera." Elle remue sur sa chaise, regardant toute la taverne comme si elle s'attendait à ce que quelqu'un se jette sur elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Elle se détend, comme soulagée d'avoir réglé le problème.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"La pitié ne paiera pas mes dettes. Et puis, regardez un peu autour de vous. Je ne peux pas acheminer tous les nécessiteux au Rauatai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Les enfants sont petits. Vous pouvez sûrement en prendre davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Les enfants sont petits. Vous pouvez sûrement en prendre davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Elle secoue la tête. "Je vais déjà devoir abandonner des caisses de marchandises pour faire de la place à ces trois-là... sans compter la nourriture et la boisson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Elle secoue la tête. "Je vais déjà devoir abandonner des caisses de marchandises pour faire de la place à ces trois-là... sans compter la nourriture et la boisson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je lui ai dit qu'il n'y en avait pas. Certainement pas à ce prix." Elle renverse son gobelet vide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Alors quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Quel manque de cœur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ça paraît raisonnable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Elle grogne. "Ce n'est pas ce qu'il pensait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Elle se hérisse. "Mieux vaut être sans cœur que sans cerveau. J'ai entendu des histoires de marchands incités à inviter des pirates à bord de leur navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ses narines se dilatent. "À quoi les remords ont-ils jamais servi ? De plus, ce Botaro cherchait les ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Elle tient son menton levé, mais vous pouvez remarquer une contraction éloquente à la commissure de ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Oui, il aurait dû savoir comment se comporter en présence de gens civilisés." Elle hoche la tête, comme pour se convaincre elle-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Restez sur vos gardes, Harami. Nous devons éviter de faire une autre scène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Elle cligne des yeux en vous regardant, puis tourne les yeux vers son second.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Harami, est-ce que ça veut dire..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Mais ne traînez pas. Je ne voudrais pas que le désordre que vous avez semé se répande sur mes ponts." Elle regarde son équipage et fait tournoyer son doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Alors vous avez de la chance qu'Orron ne voyage plus avec moi." Elle vous regarde avec suspicion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ça fait quelques saisons que je n'ai pas personnellement réquisitionné un navire, mais je doute que le hazanui s'en soucie." Maia fait craquer les jointures de ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Maia ici présente pourrait avoir une chose ou deux à dire concernant la Citadelle de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ce ne sera pas nécessaire."
+
+Elle sourit d'un air penaud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Kana m'a lancé le même regard quand il a « accidentellement » tiré avec mon arme sur le gong favori du ranga nui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nous avons eu des mots fleuris avant que le premier navire accoste au Rauatai." Tekēhu serre les lèvres, les poings sur les hanches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Oui, mais les utilisiez-vous avec des intentions aussi fourbes ?" 
+
+Irritée, elle se détourne de Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Vous remarquez à nouveau que sa main tremble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Si vous commercez ici, peut-être serait-il judicieux d'apprendre la culture locale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Mieux vaut que les gens disent ce qu'ils pensent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ce n'est pas nécessaire quand on a tous les canons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Non, mais je n'aime pas perdre mon temps." Elle vous lance un regard furieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Si seulement tout le monde faisait pareil..." Elle lève son verre en votre honneur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Dans quelques années, ces gens apprendront tous nos coutumes et rendront hommage au ranga nui." Son front se plisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Elle tressaille. "Ce n'est pas mon problème. Je ne suis ici que pour les affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mais vous avez posé une question à propos de... qui, déjà ? Botaro ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Elle remplit de nouveau son gobelet et repose la bouteille sans ménagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Comme vous dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Harami hausse les épaules.
+
+Sedūzo regarde entre vous deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je viens de me souvenir que j'ai un rapport à écrire pour mon patron. Ne faites pas attention à moi." 
+
+Maia étale un rouleau de parchemin et commence à transcrire la déclaration de Sedūzo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Est-ce que vous... êtes en train de noter ça ?" Elle lève un sourcil en direction de Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Nan, ma petite. Juste l'envie soudaine de faire des rimes en hommage à la beauté qui me ravit les yeux." 
+
+Il se racle la gorge et range le bout de papier dans un sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"En tout cas, c'est ce qui m'a amené ici." Elle tripote son gobelet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"D'énormes exagérations de compagnies marchandes, je parie."
+
+L'orlan vous sourit, levant les paumes et haussant les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je n'ai pas encore l'argent. Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Elle vous regarde avec suspicion. Le soldat à ses côtés hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"C'est pratique pour vous. Mais ne vous inquiétez pas... s'il y a des ennuis, je compte bien les éviter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Il m'a dit que vous aviez de l'argent. Beaucoup. Je ne l'ai pas cru... Comment un homme vivant dans une décharge pourrait-il avoir assez d'argent pour la traversée ?"
+
+Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Et puis il m'a montré un suolenet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Un suolenet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Une pièce marquée... une preuve d'allégeance. Les Príncipis les portent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Alors, j'ai su que je parlais à un pirate. J'avais entendu dire qu'ils avaient de l'influence à la Raveline, mais je n'imaginais pas à quel point." Elle se renfrogne et tressaille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"J'ai appelé les gardes, qui ils l'ont embarqué. Et c'est la dernière fois que je l'ai vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Connaissez-vous le chemin de l'Allée du mineur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Je ne voudrais rien avoir à faire avec un tel endroit." Sa posture se raidit alors que ses yeux parcourent la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Mais j'ai entendu dire que le, euh, propriétaire pourrait en savoir davantage." Elle indique discrètement le bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ishi, mon arme." Le front de Maia se plisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"... mais il paraît que c'est dans les Gorges. Derrière un étal de marchand vide." Elle se tasse un peu plus dans sa chaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Le propriétaire savait probablement." Elle regarde la zone derrière le bar, puis repose les yeux sur vous, avec prudence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je sais que vous avez l'oreille de la hazanui, mais si c'est elle qui vous envoie, peut-être devriez-vous oublier notre rencontre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Alors, vous avez présumé du pire et l'avez jeté aux loups."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Non, et la présomption n'épargne visiblement pas les Aedyrans. Je n'ai préjugé de rien jusqu'à voir le suolenet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Et je n'y croyais pas non plus à ce moment-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Elle pâlit, levant une main à sa bouche alors que la vitesse d'écriture de Maia s'accélère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ahh, quel bleu au grand cœur vous faites. Vous allez le partager avec vos filous d'amis, mais pas avec nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Compris, m'dame. À usage strictement personnel, si vous voyez ce que je veux dire."
+
+Il vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Écoutons ça, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ignorez-le, Sedūzo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Alors..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ah, ce sont, euh, des rimes fort paillardes, cap. Pas faites pour les marchants guindés et respectueux."
+
+Il se frotte l'arrière de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Elle regarde Serafen comme s'il s'agissait d'un rongeur particulièrement bavard.
+
+Elle se tourne à nouveau vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Avec plaisir." Elle acquiesce lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"On doit voir un marchand de grimperacine, aujourd'hui ?" Sedūzo garde les yeux sur vous tout en parlant au soldat.
+
+Il y a un bref instant de flottement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"On doit voir un marchand local, aujourd'hui ?" Sedūzo garde les yeux sur vous tout en parlant au soldat.
+
+Il y a un bref instant de flottement.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

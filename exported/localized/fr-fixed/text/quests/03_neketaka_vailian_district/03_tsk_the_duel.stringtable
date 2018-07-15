@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_the_duel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un couteau dans la plaie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver Larro Bardatto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Affronter les duellistes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Résoudre le conflit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nera Bardatto craint que son petit frère, Larro, ne se soit mis dans de beaux draps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nera m'a dit que son petit frère a raté un rendez-vous. Il se trouve sans doute à la Jetée de la reine. Nera souhaite que je le retrouve et que je le ramène à la résidence Bardatto le plus tôt possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis tombé sur un duel entre deux jeunes hommes des maisons Bardatto et Valera. Ils n'ont pas semblé goûter que je les interrompe. Si j'intervenais, je parie que je pourrais donner à cette situation une fin intéressante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé Larro en plein duel avec Orso Valera. Cela tombe clairement sous la définition de ce que Nera appellerait des « ennuis ». Je pourrais trouver un moyen de les séparer, ou au moins de mettre fin à ce duel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Nera a mentionné le fait que Larro et ses amis font souvent la bringue à la taverne, sur le pont sud-ouest et derrière la cascade du district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Larro Bardatto est sorti vainqueur du duel. Il n'a pas l'air très heureux d'avoir gagné, mais il a suggéré que je parle à sa mère, Ezzali Bardatto, si je suis motivé pour travailler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Orso Valera est sorti vainqueur du duel. Il n'a pas l'air très heureux d'avoir gagné, mais il m'a invité à la résidence Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai chassé les deux jeunes imbéciles de la cascade. Ils pourraient décider de retenter leur chance. Mais pas tant que je serai dans les parages, à mon avis. Il semblerait que je n'aie vu que la partie visible d'un conflit bien plus profond et nuancé entre ces deux familles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Dans le duel entre Orso Valera et Larro Bardatto, c'est moi qui en suis sorti seul vainqueur. Je doute que leurs familles soient ravies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Orso Valera a remporté ce duel, et Larro Bardatto en est quitte pour un visage un peu moins beau. Personne n'a été tué, et les deux parties semblent satisfaites. Voilà une journée bien remplie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Larro Bardatto est sorti vainqueur de ce duel, et Orso Valera se souviendra de sa défaite grâce à sa nouvelle cicatrice. Personne n'a été tué, et les deux parties semblent satisfaites. Voilà une journée bien remplie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Deux jeunes hommes des familles Bardatto et Valera semblent avoir choisi la cascade au-dessus du moulin d'adra de la Jetée de la reine pour s'y livrer un duel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

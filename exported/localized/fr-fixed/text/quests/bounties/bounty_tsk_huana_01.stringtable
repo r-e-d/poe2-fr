@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_huana_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Diccila</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer Diccila et vous emparer du triomphe de son navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Barati&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Barati&lt;b&gt; m'a chargé de traquer &lt;b&gt;Diccila&lt;b&gt;, une capitaine vailienne aux commandes du prao &lt;b&gt;Alisio&lt;b&gt;. Il y a une prime à toucher en échange d'une preuve de la mort du capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Diccila&lt;b&gt; est à la tête du prao &lt;b&gt;Alisio&lt;b&gt;. On la trouve souvent dans les eaux au sud de &lt;b&gt;Neketaka&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Diccila n'est plus, et &lt;b&gt;Barati&lt;b&gt; me récompensera en échange d'une preuve de sa mort. On le trouve à l'étage supérieur du palais de la &lt;b&gt;Couronne du serpent&lt;b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé de Diccila et collecté la prime mise sur sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

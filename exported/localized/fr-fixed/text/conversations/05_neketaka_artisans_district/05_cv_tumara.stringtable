@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_tumara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Si vous êtes venu voir Arkemyr, vous arrivez trop tard. Il a quitté le domaine pour s'occuper d'« affaires de magicien »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Toutes ces emmerdes pour une foutue tablette de pierre... Si ma position au sein de la Compagnie n'était pas en jeu, j'aurais déjà passé cette histoire par profits et pertes." Tumara se tient le front et vous fait signe de parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Devais-je comprendre que notre affaire est conclue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce que vous lui vouliez, à Arkemyr ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que se passe-t-il entre vous deux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Le magicien a mis la main sur une tablette huana : le récit épique d'Harapo. Je suis ici pour la reprendre au nom des Rauatais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Comment Arkemyr a-t-il obtenu la tablette ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je crois qu'il a fait affaire avec des chasseurs de trésor sur le marché noir. Mais la reine ne le mettra pas en cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'ai rien à faire de votre fierté tribale, et je parie qu'Arkemyr s'en soucie encore moins !" 
+
+La femme aumaua serre les poings à ses côtés. Ses traits sévères forment une grimace rigide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Parlez-moi de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Des idées sur la façon de récupérer l'épopée d'Harapo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'aide à financer des expéditions dans les îles, ce qui implique souvent d'être à l'écoute des rumeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vous désirez quelque chose ? Autant le demander tout de suite." 
+
+Tumara croise les bras et vous observe d'un regard neutre mais évaluateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"J'aimerais vous poser des questions au sujet du récit épique d'Harapo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Une affirmation que je ne contesterai pas si ce sont les Rauatais qui jouissent de sa valeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"L'épopée d'Harapo appartient aux Huanas. La reine m'envoie pour vous le rappeler à tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Comment Arkemyr a-t-il obtenu la tablette ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je crois qu'il a fait affaire avec des chasseurs de trésor sur le marché noir. Mais la reine ne le mettra pas en cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Donner la tablette] "J'ai recouvré la tablette au manoir d'Arkemyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Malgré tout ce mal et tous ces efforts, je ne m'attendais pas à ce que ce jour arrive." Elle prend la tablette en main, sourit, puis la range.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vous remercie, au nom de la Compagnie royale du Feu éteint. Nous n'oublions pas nos amis et, et... par le derrière poilu de Rymrgand, qu'est-ce que c'est que ça ?" 
+
+Elle plisse les yeux tandis qu'une silhouette qui s'approche annonce sa présence avec un raclement de gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Qui est Arkemyr ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Un mage des plus compétents. Spécialiste des malédictions et des illusions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"De quels types de défenses Arkemyr dispose-t-il dans son manoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Arkemyr est un mage érudit qui vit en reclus. C'est une combinaison fort dangereuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Si c'est ce que vous appelez de la diplomatie rauatai, votre hazanui a du pain sur la planche." 
+
+Plus calme et posée que son interlocutrice, la Huana sourit et se tourne vers vous lorsqu'elle vous aperçoit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Une source primaire intacte est une rare trouvaille pour les Huanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ekera, peu d'étrangers peuvent comprendre ce qu'un tel objet pourrait signifier pour notre peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ces simagrées au sujet de valeur culturelle ne riment à rien. Vous et moi voulons la tablette pour la même raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Parlons-nous de l'archimage Arkemyr ? J'ai un faible pour ses Lumières éblouissantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Lui-même. Il préfère sa propre compagnie et ne reçoit personne dans sa demeure, à part Fassina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Netehe et vous n'avez pas l'air de bien vous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Savez-vous où Arkemyr est allé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Arkemyr pourrait être en train de boire du vin de koīki avec des rois défunts. S'il ne souhaite pas qu'on le trouve, il restera introuvable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ainsi, vous vous êtes laissé abuser par les belles paroles de Netehe au sujet de fierté culturelle ?" Tumara croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Fichez le camp. Je n'ai plus rien à vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Donnez-moi ça immédiatement !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Montrer la tablette] "CE récit épique d'Harapo, vous voulez dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"C'est un artefact du peuple huana, façonné par des mains huanas." Netehe écarte les mains, paumes ouvertes, et hausse les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Donner à Tumara] "J'espère que vous en tirerez un bon prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Donner à Netehe] "Tenez, une belle histoire à raconter aux tribus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Partir] "Je crois que je vais le garder pour l'instant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous n'aviez pas le droit de vous immiscer dans les affaires du Rauatai !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"La culture huana n'est pas une « affaire », espèce de tâcheron de la compagnie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous avez dit « affaires de magicien » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Arkemyr pourrait être en train de boire du vin de koīki avec des rois défunts. S'il ne souhaite pas qu'on le trouve, il restera introuvable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Tumara et moi voulions quelque chose d'Arkemyr. Notre force de persuasion laisse beaucoup à désirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ah, Tekēhu. Modelez-vous toujours les fontaines en phallus pour le plus grand plaisir des dames aux bains publics ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ekera, je ne me suis pas laissé aller à des tours de passe-passe depuis votre dernière visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Netehe a ses principes. Contrairement à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Peut-être que le Compagnie royale du Feu éteint devrait gérer plus discrètement le côté plus sordide de ses affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"J'espère que votre séjour à Neketaka en tant qu'homme à tout faire et ami des Huanas vous est profitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Peut-être le ferons-nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Maintenant, fichez le camp d'ici. Nous n'avons plus rien à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Son âme est maintenant liée à l'appareil de divination au Placard sombre. Un étrange destin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Cela n'a rien de très romantique, quand on est derrière un bureau, mais la campagne du Rauatai a besoin de fonds supplémentaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"C'est un beau morceau de pierre, de grande valeur selon certains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Revenons à mes questions précédentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Cela me convient très bien. Vivement le jour où l'épopée d'Harapo sera le problème de quelqu'un d'autre." Elle laisse échapper un petit rire dénué d'humour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Toutes ses histoires de fierté culturelle ne sont qu'un moyen de parvenir à ses fins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Il se repose sur des diablotins et des automates cuirassés pour entretenir la propriété."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Au lieu de rester plantées là, à vous quereller, pourquoi ne pas négocier avec lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Arkemyr a quitté la ville, probablement en quête la tranquillité dont nous le privions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Au moins, j'ai offert de le payer. Votre seule monnaie est l'altruisme." Tumara grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"C'est bien ma... venez me trouver à la Citadelle de cuivre quand vous aurez retrouvé la raison !" Elle lève les bras au ciel et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Voilà qui est curieux. Je serai à la Couronne du serpent si vous décidez de faire ce qui convient." Netehe hausse les épaules, puis s'éloigne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Quel est votre plan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Autant que j'aille au palais, à la Couronne du serpent, et que je laisse à Arkemyr le temps de réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Qu'est-ce qu'il ne faut pas... Vous comptez mettre la main sur cette tablette, Arkemyr ou pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Retournez donc à la Citadelle de cuivre pour y élaborer vos propres plans. Je ferai de même avec plaisir de mon côté de l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Tumara, j'aimerais vous parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"J'ai des questions pour Netehe avant que vous ne partiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Je peux vous accorder un moment, je suppose." Elle regarde Netehe s'éloigner, les sourcils froncés et le regard incertain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Pour moi ? Un peu de répit me ferait sans doute du bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Sous le choc, Netehe la dévisage, cligne des yeux et prend un moment pour lisser les plis de son uniforme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"J'ai entendu parler d'Ifren, un voleur qui affectionne les visites à domicile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Pourquoi la Compagnie royale du Feu éteint veut-elle le récit épique d'Harapo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Nous cherchons autre chose qu'une pierre angulaire culturelle arbitraire, j'imagine que ce n'est un secret pour personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Nous cherchons un chemin menant à Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Il est raisonnable de penser que les légendes anciennes pourraient détenir la clé à cet égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Au beau milieu de mes négociations, cette petite peste s'est manifestée et a revendiqué la possession de la tablette." Elle indique Netehe d'un geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Attendez, y a-t-il une autre raison pour laquelle vous désirez tant cette tablette, toutes les deux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Les deux se taisent et s'évitent du regard, tournées dans des directions différentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Il y a des choses qu'il vaut mieux passer sous silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Surtout quand je suis là, vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ekera, je ne vais pas le nier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Si je me souviens bien, c'est vous qui aviez applaudi le plus fort ma « Colonne liquide »." Tekēhu la salue en s'inclinant, son regard plongé dans le sien et arborant un sourire amusé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Lorsqu'on a vécu aussi longtemps qu'Arkemyr, je suppose que la confiance devient problématique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Son apprentie et lui gèrent le Placard sombre, notre boutique de magie locale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Elle est trop occupée à négocier avec les bellicistes à sa porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Vous autres rats des îles êtes à peine capables d'écrire votre propre nom, alors imaginez une épopée notable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Netehe regarde Tumara s'éloigner l'air renfrogné, ne se tournant à nouveau vers vous qu'une fois qu'elle est partie, puis elle laisse échapper un long soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Il se dit qu'Ifren aurait réussi à pénétrer dans le manoir d'Arkemyr et serait mort plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Est-ce que le récit épique d'Harapo pourrait vraiment indiquer le chemin d'Ukaizo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Concernant la recherche de l'île perdue, nous ne pouvons nous permettre de négliger aucune piste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Le ranga nui cherche à asservir le climat et exploiter la tempête. S'il y a bien un endroit où cela peut arriver, c'est Ukaizo." Tumara hausse les épaules et époussette la poitrine de son uniforme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Comme tous les Huanas, elle n'hésiterait pas à exploiter un avantage si cela pouvait la rapprocher de ses fins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ça ne semble pas très juste, comme remarque. Les Huanas tentent de s'en sortir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Vous marquez un point. Les Huanas ont accumulé de jolis bénéfices en vendant les îles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Absolument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Revenons à mes questions précédentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Le duo s'échange des regards lourds de sous-entendus et respire par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"J'espère que vous trouverez une solution pour vous mettre d'accord, toutes les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

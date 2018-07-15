@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_gwenfin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'air est tiède et sent le renfermé, comme l'haleine d'un poivrot, mais l'elfe se tient les bras fermement croisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>L'elfe saute en arrière quand la porte s'ouvre. Son arme est levée, prête à attaquer.
+
+Mais vous remarquant, elle l'abaisse lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Z'avez quelque chose pour moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est vous. Mais comment avez-vous fait pour arriver ici ?" Elle regarde à travers la porte pour voir le sanctuaire de l'autre côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'ai trouvé le vieux temple dans un endroit inondé, à la confluence des chutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'ai trouvé un autre « cornet » dans les ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Montrer le Cornet des vagues] "J'ai ce que vous cherchez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Qu'est-ce que vous faites ici-bas, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Beau travail. Je ferai en sorte que personne d'autre ne tombe dessus."
+
+Elle vous claque l'épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je me fiche de savoir où vous l'avez trouvé, tant qu'il nous permet de passer cette porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Elle inspecte la coquille mais ne la prend pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je pensais qu'on avait déjà parlé de ça. J'attends que vous apportiez la marchandise pour qu'on puisse trouver la mosaïque de Dereo et dégager d'ici." Ses yeux bondissent dans toutes les directions, comme si elle s'attendait à ce que quelque chose jaillisse de l'ombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"En attendant, Dereo appréciera d'entendre la nouvelle. Pourquoi pas aller le prévenir et chercher votre récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Juste pour que ce soit clair, nous ne payons pas le double pour les deux, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"On dirait que c'est bon. Voyons si ça ouvre cette porte, là-bas." Elle fait un signe de tête en direction du panneau au milieu du mur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si le patron ne vous l'a pas dit, je ne vais pas déblatérer à ce propos non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Elle se hérisse. "Qu'est-ce que vous dites ? Il fait... chaud par ici. C'est tout." Elle frissonne à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Restez en arrière !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Préparez-vous à tout !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Où est le reste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Dereo a pris son temps pour vous envoyer. Vous avez la clef ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Clef ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Dereo m'envoie récupérer un vieil artefact huana, pas une clef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Peut-être voulez-vous parler du Cornet des vagues ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Même s'il l'avait fait, je ne suis pas assez bête pour en parler aux étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Surveillez votre ton avec moi si vous voulez le récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Si vous le dites. Tout ce qui compte pour moi, c'est d'ouvrir cette porte." Elle fait un signe de tête en direction de la grande cloison au milieu du mur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Allez, il est plus que temps d'en finir." Elle décolle une mèche gluante de sueur de son cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vous deviez rendre visite à notre ami Takano. Le soulager d'une vieille relique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous l'avez ou pas ?" Elle resserre ses bras autour d'elle-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Montrer le Cornet des profondeurs] "Est-ce là ce que vous cherchez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mais pourquoi Dereo veut-il cette mosaïque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Cette mosaïque doit être importante. Il est évident que vous n'avez pas envie d'être ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Une partie de Neketaka s'est écroulée ici il y a bien longtemps. Je n'ai aucun doute qu'il y a des choses intéressantes à glaner parmi les ruines..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"En tout cas, si le patron veut quelque chose, je ne suis pas là pour contester ses ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Une fois que Dereo aura ce qu'il veut, vous pourrez fouiller tant que vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Plus tôt cette porte sera ouverte, plus tôt nous pourrons retrouver l'air frais et la bonne compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Cet endroit est plein d'imagerie ondrite : des vagues, des coquilles, la statue. Est-ce un lieu de culte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Pourquoi est-ce que vous ne le faites pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je veux vous demander quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je surveille." Elle recule, se retenant de trembler à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Partir] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Enfin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Dereo a dit qu'il y avait tout un temple là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Est-ce que c'est ça ?"
+
+Elle grogne d'exaspération et regarde derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Que cherchez-vous, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Il y a un ancien temple d'Ondra. Dereo a dit qu'il était juste derrière cette porte." Elle regarde aux alentours, comme si elle cherchait quelque chose qu'elle aurait raté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je pourrais chercher ce temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Bonne chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Eh, pas si vite. Dereo ne nous a pas envoyés ici pour trouver un minable petit sanctuaire." Elle fronce les sourcils, exhibant une rangée de dents irrégulières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Exactement ce que je me disais." Elle sourit, exhibant une rangée de dents irrégulières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"J'attendrai ici. Venez me prévenir quand vous aurez trouvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Que savez-vous à propos du temple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Est-ce que vous « supervisez » encore ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Pourquoi n'allez-vous pas chercher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Pas grand-chose, apparemment." Elle crache dans le coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Hilarant." Elle ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Je suis un sbire. Qu'est-ce que je connais des temples maudits... et autres trucs du genre ?" Elle frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous avez peur d'y aller vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vous savez que les Huanas envoient des gens ici-bas pour qu'ils se fassent dévorer par des horreurs monstrueuses, hein ?" Elle fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je ne promets rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je vais trouver le temple, mais il faudra payer. D'avance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Très bien, mais c'est tout ce que vous aurez jusqu'à ce que le travail soit fini." Elle vous tend avec réticence un sac tintant de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Libre à vous de prendre tout ce que vous pourrez sortir du temple. Revenez juste rendre compte quand vous l'aurez trouvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Celui qu'on recherche est assez grand, et devrait comporter... une mosaïque très particulière. Vous saurez quand vous la verrez."
+
+Elle regarde les murs moisis et croise à nouveau ses bras autour de ses épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Qu'est-ce qu'il veut faire avec une mosaïque d'Ukaizo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Son sourire se fige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je sais que vous avez le bras long chez les Príncipis, mais ce n'est pas à moi de venir en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Dereo est le seul à pouvoir parler des affaires de Dereo. Si j'étais vous, j'oublierais cette conversation et je prendrais ma paie.
+
+"Mais c'est votre peau." Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je ne suis pas à vos ordres. Que ce soit bien clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Elle lève les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Du calme." J'essaie juste de me tirer d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ekera, on va rapporter des choses au musée ? J'espère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Qu'est-ce que vous attendez ?" Essayez de voir s'il y a moyen d'ouvrir cette porte avec cet... truc à coquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je me fiche de savoir où vous avez trouvé ça, du moment que ça nous permet de pénétrer dans le temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Elle vous toise de haut en bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Bonne petite."
+
+Serafen fait un clin d'œil à Gwenfin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"C'est ce qu'espère le patron. Et si vous avez compris ça par vous-même, c'est bon signe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Finissons-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Il fait plus sombre que dans le trou du cul d'Ondra, par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"C'est à vous. Dereo a dit que vous saviez quoi faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Qui va là ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ce n'est pas ce qu'on me dit d'habitude..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Elle vous congédie d'un geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ça m'a l'air d'un temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Que savez-vous à propos du temple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Pas grand-chose, apparemment." Elle crache dans le coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Elle crache sur les tuiles de pierre et se penche pour s'approcher, d'un regard évaluateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous me demandez alors que vous êtes chef du culte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous me demandez alors que vous en êtes spécialiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"En tout cas, je pensais que vous saviez tout sur ces histoires hermétiques bizarres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je courtisais autrefois une fille qui faisait ça à chaque fois que je passais la voir. Elle me manque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Si vous voulez cambrioler ou vandaliser un sanctuaire de Ngati, puisse l'eau autour de vous se remplir de requins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"En tout cas, je pensais que vous saviez tout sur ces histoires hermétiques bizarres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous me demandez alors que vous êtes chef du culte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous me demandez alors que vous en êtes spécialiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je vais garder un œil sur elle, histoire de vérifier qu'elle supervise bien."
+
+Edér cligne de l'œil et se recule pour s'éloigner de votre position. Il hoche la tête pour vous rassurer à une distance sûre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"J'en ai plus qu'assez qu'vous m'attaquiez gratuitement ! Alors prenez c't'obus et écartez l'as de pique !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Je n'ai rien compris de tout ça, mais pas question que j'approche cette porte.
+
+"Ou lui." Elle pointe Aloth du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Quel plaisir de voir que Dereo emploie de vrais professionnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Je tiens toujours les cordons de la bourse, magicien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ngati engloutirait l'île sous les vagues plutôt que de l'abandonner aux pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"En tout cas, c'est une bonne chose que j'aie pu bien voir cette fresque avant qu'elle disparaisse." Maia lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"C'est fou, le nombre de gens intéressés par cette ville « mythique »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Si Dereo envoie ses bateaux dans le trou cendreux de Woedica à cause d'un appât, qui sommes-nous pour l'arrêter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Emportez-le dans la tombe, pour ce que j'en ai à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ferme-la, fi-fils à sa maman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"On dirait que Dereo a enfin envoyé quelqu'un de capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Dereo est malade ? Il envoie vraiment quelqu'un comme vous ?" Elle secoue la tête et soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

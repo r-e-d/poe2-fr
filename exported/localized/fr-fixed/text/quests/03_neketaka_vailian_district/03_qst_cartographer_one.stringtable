@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_one</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cartographie de l'Archipel : Port Maje</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorer les îles inexplorées autour de Port Maje</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir Sanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, le pétulant cartographe rencontré à la Jetée de la reine, veut compiler un guide complet des îles du Feu éteint, mais il n'y arrivera jamais tout seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, le cartographe de la Jetée de la reine, m'a demandé d'étudier les îles inexplorées de l'archipel du Feu éteint.
+
+Il m'a suggéré de commencer par les deux au nord et au sud de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai étudié les deux îles de cette région. &lt;b&gt;Sanza&lt;/b&gt; voudra que je l'informe de l'avancement que j'ai effectué, et il voudra saisir cette opportunité de compléter ses cartes. Il m'attend dans son échoppe à la &lt;b&gt;Jetée de la reine&lt;/b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai découvert une île habitée par un clan de xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je suis tombé sur une île de naufragés que la faim a poussés au cannibalisme et à la folie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai donné à Sanza mon rapport sur les îles proches de Port Maje et j'ai touché ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

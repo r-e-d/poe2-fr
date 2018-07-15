@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_vault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La chambre forte de l'archimage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver un moyen de pénétrer dans le &lt;b&gt;manoir d'Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Localiser la &lt;b&gt;chambre forte d'Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ouvrir la &lt;b&gt;chambre forte d'Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Récupérer la tablette dans la &lt;b&gt;chambre forte&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rendre l'artefact à &lt;b&gt;Tumara&lt;/b&gt; ou &lt;b&gt;Netehe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le Rauatai et les Huanas considèrent tous deux que le récit épique d'Harapo, une tablette ancienne actuellement en possession du magicien &lt;b&gt;Arkemyr&lt;/b&gt;, leur appartient de droit. &lt;b&gt;Tumara&lt;/b&gt; et &lt;b&gt;Netehe&lt;/b&gt; désirent ardemment s'emparer de la tablette. Si la tablette atterrissait dans les mains de l'un d'entre eux, chacun en serait ravi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je dois trouver un moyen d'entrer dans le &lt;b&gt;manoir d'Arkemyr&lt;/b&gt;, au &lt;b&gt;promontoire de Periki&lt;/b&gt;. L'évidence désignerait la porte d'entrée, mais elle est fermée à clé. Et nul doute que des gardes patrouillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis parvenu à entrer dans le &lt;b&gt;manoir d'Arkemyr&lt;/b&gt;. Je dois à présent trouver sa &lt;b&gt;chambre forte&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je sais où est la &lt;b&gt;chambre forte d'Arkemyr&lt;/b&gt;, mais la porte est protégée par une sorte de verrou à combinaison impliquant des pierres précieuses. J'ai peu de chances d'en deviner la combinaison au hasard : il va me falloir la découvrir pour entrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai pénétré dans la &lt;b&gt;chambre forte d'Arkemyr&lt;/b&gt;. Le récit épique d'Harapo devrait être à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant que je détiens le récit épique d'Harapo, la question est de savoir quoi en faire. &lt;b&gt;Tumara&lt;/b&gt; m'attend devant le &lt;b&gt;poste de commande impérial&lt;/b&gt; à la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;. &lt;b&gt;Netehe&lt;/b&gt; se trouve à l'entrée du &lt;b&gt;palais des Kahangas&lt;/b&gt;, à la &lt;b&gt;Couronne du serpent&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Fassina&lt;/b&gt;, l'apprentie d'&lt;b&gt;Arkemyr&lt;/b&gt;, en saura davantage sur le manoir. Elle tient le &lt;b&gt;Placard sombre&lt;/b&gt;, au &lt;b&gt;promontoire de Periki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Quelqu'un du nom d'&lt;b&gt;Ifren&lt;/b&gt; a doublé &lt;b&gt;Arkemyr&lt;/b&gt; et son âme a été liée à la machine de divination du &lt;b&gt;Placard sombre&lt;/b&gt;. Il en saura peut-être plus sur la manière d'entrer dans le manoir d'&lt;b&gt;Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Une pierre précieuse manque au milieu du verrou. Des marques autour de cet endroit suggèrent qu'elle en a été retirée de force récemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai retrouvé la pierre précieuse qui manquait au verrou de la chambre forte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai appris la combinaison de la chambre forte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Le verrou de la chambre forte a été réparé et devrait fonctionner sans la pierre qui manque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Un diablotin au salon du deuxième étage serait derrière le vol de la pierre précieuse du verrou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Ifren&lt;/b&gt; m'a dit que son compère et lui sont entrés dans le manoir via un tunnel naturel qui part des &lt;b&gt;Bains lumineux&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Fassina&lt;/b&gt; dispose d'une clé du &lt;b&gt;manoir d'Arkemyr&lt;/b&gt;, mais ne veut pas me la donner. Je vais devoir la lui subtiliser ou lui prendre de force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Je pourrais accéder au balcon du &lt;b&gt;manoir d'Arkemyr&lt;/b&gt; depuis la fenêtre à l'étage du &lt;b&gt;Placard sombre&lt;/b&gt;, mais il me faudrait un grappin et une corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Netehe&lt;/b&gt; ou &lt;b&gt;Tumara&lt;/b&gt; devraient savoir comment pénétrer dans le &lt;b&gt;manoir d'Arkemyr&lt;/b&gt;. Je les trouverai pendant la journée à la &lt;b&gt;Couronne du serpent&lt;/b&gt; et à la &lt;b&gt;Citadelle de cuivre&lt;/b&gt;, respectivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;La chambre forte d'Arkemyr&lt;/b&gt; se trouve dans le coin sud-ouest de l'étage inférieur de la résidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Si je trouve une des robes personnelles d'&lt;b&gt;Arkemyr&lt;/b&gt; dans sa chambre, il est possible que j'arrive à tromper ses gardes diablotins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>J'ai acquis la clé de la porte d'entrée du manoir d'&lt;b&gt;Arkemyr&lt;/b&gt; grâce à &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; a donné à ses diablotins un mot de passe pour le reconnaître lorsqu'il change de forme : cidre et fromage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>J'ai réussi à berner les diablotins. Je vais pouvoir explorer le manoir en paix, tant que je garde mon sang-froid, cela va sans dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rendu l'artefact à la Compagnie royale du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rendu l'artefact au peuple huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

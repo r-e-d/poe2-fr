@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_backer_npc_marofeto_liano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous découvrez un homme vêtu d'une armure de cuir sale et élimée. Sa longue barbe en bataille est incrustée de sel, ses cheveux bouclés ont l'air de ne pas avoir vu la couleur d'un peigne depuis un certain temps, et les ongles de ses pieds nus sont craquelés.
+
+La seule chose de valeur en sa possession, c'est une amulette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oh. Bonjour." Il hésite un instant avant d'en dire plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Salut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous illuminez le cœur d'un vieillard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bien le bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"En quoi puis-je vous être utile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Parlez-moi de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Autrefois, j'étais quelqu'un de fier. Un chevalier du Pacte d'or. Et puis j'ai accepté une mission qui s'est mal passée.
+
+"Je ne pouvais plus rester au sein de l'ordre après... &lt;i&gt;ça&lt;/i&gt;." À ce souvenir, il regarde dans le vide d'un air absent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Pourriez-vous me transmettre ce que vous avez appris au cours de vos années d'errance au Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je vous ai appris tout ce que je pouvais. Si vous voulez un enseignement gratuit, allez rejoindre les Étoiles de l'aube."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vous demandez à un vieillard de partager sa sagesse ? Eh bien, je pourrais... pour trois mille pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Il vous raconte ce qu'il a appris en matière de négociation durant ses années au sein des chevaliers du Pacte d'or, et vous montre comment deviner si un marchand sait que ses produits sont de piètre qualité ou trop chers.
+
+Lorsqu'il est convaincu que vous ne vous ferez pas escroquer par le premier bonimenteur que vous croiserez, il vous congédie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je ne vous retiens pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Durant les années qui ont suivi, j'ai parcouru le Feu éteint de long en large, vouant mon existence à l'auto-discipline et à l'abstinence des plaisirs matériels. Ce n'est que par la souffrance que l'âme se renforce, vous comprenez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"C'est tout... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eh bien... En fait, j'attends quelqu'un. Mais j'ignore quand cette personne arrivera ni quelle identité elle assumera alors.
+
+"Tout ce que je sais, c'est qu'elle a des dons de prophétie, et qu'elle me cherche. Donc, j'attends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Comment allez-vous la reconnaître ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je vous souhaite bonne chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je ne la reconnaîtra pas, mais ça n'a aucune importance. J'ai mon amulette, et je respire encore. C'est tout ce dont j'ai besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Puis-je l'avoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Brandir votre arme] "Une amulette, hein ? Ça pourrait m'être utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous devriez faire confiance aux dons de prophétie de cette personne. Elle devrait pouvoir vous trouver sans son aide. Ce serait ça, le véritable test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"... Non ? Quelqu'un est à ma recherche, et cette personne reconnaîtra mon amulette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je l'espère pour vous, jeune homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Seul un idiot se fie à la chance. J'ai mon amulette, et je respire encore. C'est tout ce dont j'ai besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"T-très bien ! Prenez-la !" Il ôte rapidement l'amulette de son cou et la fourre dans vos mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Peut-être... peut-être avez-vous raison." Il retire délicatement l'amulette de son cou. Il la tient un instant dans la paume de sa main, d'un air impassible, puis vous la tend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Juste... s'il vous plaît, prenez-en grand soin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je ne la reconnaîtrai pas, mais ça n'a aucune importance... c'est &lt;i&gt;elle&lt;/i&gt; qui me reconnaîtra. J'en suis convaincu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je n'ai pas besoin de chance, j'ai la &lt;i&gt;foi&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je n'ai plus rien à vous offrir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vous ai déjà donné mon bien le plus précieux, et vous m'en demandez davantage encore ?
+
+"Très bien, je vais vous montrer ce que je peux... pour trois mille pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pour... pourquoi pas..." Il vous lance un regard interrogateur, ne sachant peut-être pas très bien pourquoi vous lui posez une question si personnelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Les yeux du vieillard passent de votre visage à votre main, qui plane juste au-dessus de votre arme. Ses mains se mettent à trembler.
+
+Même s'il était autrefois chevalier, la vieillesse l'a rendu frêle, et il semble désormais incapable de l'emporter au combat ne serait-ce que sur un enfant, sans parler d'un Gardien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Non, je ne crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Comme vous voudrez. Vous savez où me trouver si vous avez besoin de moi." Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Merci, voyageur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Améliorer la Compréhension et l'Intimidation] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

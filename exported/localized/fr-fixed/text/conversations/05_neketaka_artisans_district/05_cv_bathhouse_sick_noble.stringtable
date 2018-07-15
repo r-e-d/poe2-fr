@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_bathhouse_sick_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'vois qu'vous avez amené vot' douleur, mais point pour vous en soulager. Dommage."
+
+Une elfe vénérable est assise près de l'eau, sa peau craquelée et tachetée légèrement rougie par la chaleur. De nombreuses cicatrices balafrent sa peau, autant sur son visage que sur son torse. Elle ouvre les yeux, et son regard perçant se fixe sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Qu'est-ce qui vous amène aux bains ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ça soulage ma douleur. C't'une longue histouère, que j'ne pourrais commencer à la légère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wanweird ou bien la volonté des dieux. Un fermier près du Foyer de rondins avait invité les soldats à dîner. Faisait soif, pis la récolte était abondante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes Udyne, c'est-ce pas ? On nous a dit que vous saviez où nous pourrions trouver Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Serafen."
+
+Elle a un sourire à la fois triste et plein de bonté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Il a abandonné le Sorcier ? "Et pour quoi ?" Un clipper elfique ? C'est aussi absurde que des pis sur un drake, cap ! Il serait facile à attraper pour n'importe quel boucanier voulant lui faire la peau !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je ne peux vous dire c'qu'il compte faire, mais il a pris la mer pour Sayuka avec l'intention d's'y ravitailler. C'est tout c'que j'sais, mais ça vous fait une belle jambe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Udyne c'est moi, mais j'connais pas de Remaro... en tout cas aucun qu'aurait pas r'joint la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ça a l'air horrible !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Avec son homme, elle nous avait préparé moult plats délicieux... tourte au cerf et saumon, potage de choux, carottes et patates, courges grillées aux pignons de pin et le pain au miel le plus doux que j'aie jamais goûté."
+
+Un faible sourire agrandit sa bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Les Glanfathans ont perturbé les animaux. Mais nous connaissions déjà leurs ruses, donc le capitaine a dit à la famille du fermier de rester à l'abri. On est sortis dans la nuit, on a approché la porcherie... pis les flèches ont commencé à pleuvoir."
+
+Le sourire s'est dissipé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Pardonnez ma curiosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Avez-vous essayé de vous tuer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ses yeux se plissent et son nez se ride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nan. Seule la Chevaleresse blême a le droit de prendre les vies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"À moins qu'vous ayez besoin d'aut'chose, merci d'me laisser aller vers mon eau."
+
+La femme se tamponne avec un linge tiède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ouais. Si vous l'dites."
+
+Les yeux de l'elfe vous observent comme ceux d'un médecin, curieux mais impersonnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Douleur ? Je n'ai pas mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"J'ai une lettre où Remaro disait de vous chercher ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Dites-moi où trouver Remaro, ou je vous tuerai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"La mort nous accueille tous, au bout du compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"J'peux rien dire sur vot'lettre. P'têtre qu'elle était pas pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[La tuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous attrapez la vieille elfe par le menton et l'arrière de la tête, et d'un simple mouvement tournant, vous lui brisez le cou. Elle glisse sans force dans l'eau, des bulles s'élevant de ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Danger ? Non, point moi. Mais je l'cherche tout de même, et j'sens dans les tréfonds de mes vieilles tripes qu'il a besoin de moi. S'il vous est précieux, dites-moi ce que vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Y m'a dit de n'parler à personne d'ses plans, pas plus à vous qu'aux autres. Il a quitté la région, d'peur d'attirer le danger sur ses proches."
+
+Elle pousse un soupir déchirant accompagné d'un tressaillement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'vais vous l'dire... et vous faire confiance pour savoir quoi faire d'l'information. Remaro m'a échangé son galion cont'mon clipper. Une affaire pas équilibrée, mais l'a insisté sur son besoin d'vitesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Y'avait pas d'gloire là-d'dans. En vrai, j'ai plus d'chance qu'la plupart. Les orlans d'Eir Glanfath avaient des lames coupant l'esprit autant qu'la chair. Certains d'mes compagnons ont été massacrés corps pis âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Elle pousse un soupir à la fois long et faible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Par les boules bombées de Berath ! Épargnez-nous le psychodrame larmoyant, vieille chouette salée ! Parlez-nous de Remaro, et on vous laissera à votre misère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Qui cherche Remaro, sinon Malnaj ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Bizarre que votre cher ami fasse tant d'efforts pour vous éviter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Nous devrions nous hâter vers Sayuka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Y'a pas de doute que ce piège à saucisse assaisonné est la plus grosse menace, mais d'autres voudront cette proie, sans compter la prime qui va avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ouais, cap, z'avez lu dans mes pensées ! Et moi qui m'disais que c'était mon talent particulier."
+
+Il vous envoie un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Serafen cligne des yeux, et son nez tressaute. Ses oreilles se tournent légèrement vers l'arrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Y pense sûrement m'protéger. Même si j'ai l'air têtu, capitaine Gardien, Remaro me fait passer pour un aimable amateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Serafen, vous avez une curieuse façon de demander une faveur. Combien de fois est-ce que ça a marché pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'aimerais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Pas besoin de m'en dire davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vous pourriez trouver l'histoire familière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"J'ai combattu lors de la guerre de la Pierre profanée, il y a près de deux siècles maintenant. J'ai quitté les bois d'Aedyr pour les Contrées orientales. J'prétendais vouloir protéger nos colons, mais en vérité, j'voulais la gloire d'la bataille."
+
+Elle soupire et touche son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Que vous est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ouais, c'tait. Souvent, quand j'dors, j'revois encore leurs yeux vides. Regardant l'néant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je... ben... peut-être une fois ou deux ? Ça marche probablement mieux avec un flingue pour appuyer le propos. M'dame."
+
+Se raclant la gorge, il est pris d'un subit intérêt pour ses orteils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Elle pousse un soupir à la fois long et faible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Leurs Sceltrfolcs, éclaireurs et chasseurs-nés, tiraient droit, et deux d'entre nous sont tombés sans répliquer. Les orlans ont ensuite chargé, petits et discrets, uniquement visibles grâce aux flammes violettes consumant leurs lames."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Nous avons étouffé ce feu avec du sang, venu des deux côtés. À la fin, y n'restait plus qu'moi, à l'entrée de la ferme, rassemblant mes tripes et attendant qu'un autre salopard vienne achever l'travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je n'ai survécu que grâce à cette fermière. Elle a pu me recoudre et m'a nourri jusqu'à ce que je puisse me tenir debout. Elle disait que j'étais à elle, mais..."
+
+Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"J'pense qu'nous deux on savait qu'on leur avait causé des ennuis par not' seule présence. Nos ennemis étaient trop nombreux pour attaquer une simple ferme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vos blessures vous ennuient toujours ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Merci d'avoir partagé votre histoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La douleur m'gênait un peu quand j'étais jeune. Mais j'ai combattu. J'ai mis l'feu aux arbres noirs. J'ai r'pris les armes lors de la révolte de la Nouvelle Dunryd. Après ça, j'n'étais point en odeur de sainteté auprès du nouveau duc, alors j'ai voyagé vers l'nord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ouais. Merci d'avoir écouté. Bien peu l'font."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Avec le temps, les vieilles blessures gagnent parfois en profondeur. Si j'ai ben compté, j'ai pris dix-huit flèches, pis moitié autant d'coups d'couteau en prime. Si chuis encore en vie, c'est la preuve que chuis coriace, ou qu'les dieux sont têtus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Pendant sept ans j'ai cherché un onguent cont'la douleur grandissante. La boisson a aidé un temps. Et le svef pendant un autre. Désormais, seuls ces bains infusés d'adra soulagent mon agonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je dirais que vous avez eu ce que vous méritiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Peut-être. La Roue me prendra quand ce sera mon heure, et l'équilibre sera rétabli."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous parlez des chasseurs d'esprits, des guerriers-clairvoyants glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Certes, je le dis, et quel tas de saloperies ils sont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous vous êtes battu contre l'indépendance du Dyrwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oui, je l'ai fait. À cette époque, ça semblait la bonne chose à faire. Maintenant ? J'ai moins de certitudes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Votre aide envers nous toucherait beaucoup l'un de mes amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ben p'têtre qu'il aurait fallu l'amener ici avec vous."
+
+Elle sourit tristement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Votre description par Remaro était très précise. Il m'a dit que vous viendriez en cas de danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"On dirait que Remaro ne voulait pas que vous le trouviez, Serafen. Peut-être devriez-vous laisser tomber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aidez mon ami, Udyne, je vous en prie. Il aime Remaro comme un père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Dites-nous où trouver Remaro, ou perdez la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous avons perdu assez de temps comme ça, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Mes excuses. Mais je n'peux point vous dire c'que j'sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Il est ce que j'ai de plus proche en termes de parent. Pourquoi ne m'a-t-il pas fait confiance ?"
+
+Serafen baisse soudain la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Il vous faisait confiance. Il vous faisait totalement confiance."
+
+Udyne adresse un froncement de sourcils à Serafen, les yeux humides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Nous avons appris tout ce qu'il y avait à savoir ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ouais. Et cette vapeur ne fait aucun bien à ma fourrure."
+
+Il montre un bras humide, aux poils épais et emmêlés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Merci beaucoup, ma chère. Bon bain à vous."
+
+Il salue Udyne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Bon voyage." Les conséquences de la guerre vous rattrapent tôt ou tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Est-ce que ça vous choque ? Je connais votre rengaine, Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Pardon ? Je ne comprends pas exactement ce que vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Comment connaissez-vous Remaro ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"J'connais Remaro depuis un sacré bail, et même plus. On a fait des affaires, pas souvent légales, mais jamais malintentionnées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je trouvais ça bizarre qu'une vieille étrangère puisse s'offrir des bains quotidiens à l'Eau Magique sans le moindre signe de doigts poisseux. Mieux vaut ne pas mettre notre nez là-dedans, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ouais, vieille chouette salée ! Crachez ce que vous savez avant qu'on vous fasse cracher vos tripes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

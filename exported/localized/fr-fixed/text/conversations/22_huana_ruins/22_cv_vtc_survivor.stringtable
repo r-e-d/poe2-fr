@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_vtc_survivor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"À l'aide... pitié..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Complanca... a-aidez-moi !" Des ronces rampantes enlacent cette Vailienne, l'étouffant dans une étreinte mortelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Faites... faites-moi sortir d'ici, frero !" L'exploratrice vailienne vous implore du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que vous est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je m'en vais, mais je reviendrai peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"La nature s'est retournée contre cette femme... nous ne pouvons la laisser comme ça, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Le directeur Castol nous a envoyés. Nous... nous suivions une expédition des Huanas pour essayer de découvrir ce qu'ils cherchaient." Son regard erre vers les abords d'une ruine visible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Quelque chose nous a attrapés alors que nous nous reposions. Oh, dieux... Quand je me suis réveillée, une fleur poussait dans la bouche de ma casità. J'ai commencé à arracher l'herbe qui sortait d'entre ses dents..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Morts, tous... mais nous ne pouvions interrompre la mission, c'est pourquoi nous nous sommes enfoncés dans la jungle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Voyons si nous pouvons nous débarrasser de ces ronces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"M-merci ! Je ne sais absolument pas comment nous allons nous y prendre..." Elle désigne la masse de végétation entortillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Utiliser Putréfaction sur les ronces]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si je m'occupe des plus grosses ronces, vous pensez pouvoir vous extirper ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tekēhu, vous n'auriez pas quelque chose pour aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous posez un doigt sur une ronce. Une trainée putride et noirâtre envahit l'excroissance végétale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je... Je crois que ça marche ! Agracima." Elle se remet difficilement sur pied, grognant de douleur et massant son corps endolori.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Puis-je me joindre à vous ? Peu importe où nous accostons, tant que c'est loin d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Accepter sa proposition] "Bienvenue dans l'équipage. Je vous retrouve sur le bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Refuser sa proposition] "Nous avons assez de bouches à nourrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ac, casità ! On se voit sur le pont." Baltia vous salue promptement, un sourire aux lèvres, sincère mais déformé par la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Les Wahakis ont peut-être de la place dans leurs canoës. Merla, ils vont probablement planter ma tête sur une pique, pour mettre en garde les autres étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'abandonne. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ekera. Il devrait suffire de priver ces lianes de leur eau bien-aimée." Tekēhu se gratte le menton, un sourire de défi aux lèvres. Il s'accroupit, ferme les yeux et passe ses mains sur les lianes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La végétation capitule, expulsant le liquide rance qui la nourrissait et qui ne tarde pas à former une flaque noire et écœurante à vos pieds. Les dernières ronces libèrent Baltia et se retirent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ac, peut-être. Cette ronce est tellement serrée que ça ne facilite pas la tâche. J'accepte toute l'aide que vous proposerez." Elle vous adresse un signe de tête encourageant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Tirer les ronces avec vos mains]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous assurez vos appuis et attrapez solidement la plus grosse ronce en faisant bien attention aux épines les plus vicieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"N-non ! Ne me laissez pas ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"C'est pas joli-joli, mais c'est bon." Il adresse un clin d'œil à Baltia et l'aide à se relever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Vous tenez toujours la ronce bien en main. Alors que vous essayez de la tirer et l'arracher, vous sentez comme un muscle se contracter dans la plante. Petit à petit, il fléchit, libérant l'exploratrice vailienne de son étreinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Vous forcez tant que vous pouvez, mais la ronce ne bouge pas. Alors que vous essayez de la tirer et l'arracher, sans succès, vous vous ouvrez malencontreusement la peau sur une série d'épines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Utiliser Purge de toxines sur les ronces]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je vais soumettre la corruption de la nature à ma volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous... vous êtes sûr de ce que vous faites ?" Elle inspire profondément et se prépare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je dois y réfléchir. Mais j'ai quelques questions à vous poser, avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Très bien... Je peux tenir." Elle serre les dents et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>La végétation capitule, expulsant le liquide rance qui la nourrissait et qui ne tarde pas à former une flaque noire et écœurante à vos pieds. Les dernières ronces libèrent Baltia et se retirent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Communier avec les ronces, leur demander d'évacuer leur eau et d'accepter la mort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous projetez vos sens et ordonnez aux ronces d'oublier leur instinct et de se suicider en se purgeant elles-mêmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je peux me débrouiller tout seul. Vous allez voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Il vaut peut-être mieux réfléchir à une autre solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Si... si vous le dites." Baltia fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je sens toujours ces lianes sous ma peau... mais ça va passer. Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je devrais peut-être essayer une autre approche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ac... comme vous voudrez." Baltia grimace d'appréhension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Argh ! Madiccho. Cette saleté resserre son étau." Baltia grimace et serre les dents avec détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"J'espère que vous avez une bonne poigne, frero, sans quoi ça risque de mal finir pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Edér, vous voulez bien essayer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Vous pensez que ma vieille carcasse en est capable ?"
+
+Edér fait jouer les muscles de ses mains et étire chacun de ses doigts épais. Il sourit comme un homme satisfait de sa raison d'être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Il agrippe les lianes et se cambre, faisant levier avec tous les muscles de son corps. Avec un craquement humide, la plus grosse des lianes cède et libère Baltia de son étreinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>La force d'Edér ne fait pas le poids face à la liane, qui se resserre davantage encore sur sa prisonnière. Tandis qu'il tire violemment et en vain, une méchante rangée d'épines lui entaille profondément la paume de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"C'est agréable de se sentir utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Baltia hurle à pleins poumons alors que les lianes se resserrent autour d'elle, écrasant ses os et faisant jaillir du sang dans toutes les directions, jusqu'à ce que vous ne voyiez plus d'elle qu'une main émergeant de la masse de végétaux corrompus. 
+
+En un rien de temps, ses cris étouffés s'estompent complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Au nord, il y a un disque doré, énorme, très lourd. L'un de mes compagnons s'est emparé d'un fragment. Après ça, les choses se sont gâtées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Comment ce lieu a-t-il pu déjà exterminer deux expéditions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Quelque chose guide les créatures : une femme, je crois. Elle... s'immisce dans votre esprit." Baltia lève une main tremblante à son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je l'ai seulement aperçue en passant. Énorme... et ses filles ne portent pas les étrangers dans leur cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Que pensez-vous que je doive faire de cette... reine putride ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Tuez-la ! Si cette jungle a un jour abrité une parcelle de beauté, cette reine l'a étranglée de ses griffes jusqu'à ce que mort s'ensuive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Je crois que ce bâton pourrait faire l'affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Alors que vous décidez de vous débarrasser une bonne fois pour toutes de la liane, l'Épine du vert hallier se met à briller d'une pâle lueur apaisante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Soudain, vous sentez les poils se hérisser sur votre nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;Nous allons nous DÉLECTER de vos suppliques tandis que vous suffoquerez. Intrus.&lt;/ispeech&gt; La voix désincarnée frémit d'anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>&lt;ispeech&gt;DÉMON ! Quittez notre domaine !&lt;/ispeech&gt; La voix désincarnée s'abat sur votre esprit telle une tempête de grêle, puis s'évanouit aussi rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;Qui êtes-VOUS pour oser pénétrer sans autorisation dans notre demeure ? Partez immédiatement, ou vous en subirez les conséquences !&lt;/ispeech&gt; Vous sentez la présence importune quitter votre esprit dans un bruissement de feuilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;Nous vous VOYONS... GARDIEN.&lt;/ispeech&gt; Des murmures pressants, haineux, résonnent dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>&lt;ispeech&gt;Quittez cette île tant que vous le pouvez encore. Vous n'êtes PAS LE BIENVENU.&lt;/ispeech&gt; Avec un bruit de bois sec qui se brise, la voix s'extrait de vos pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"J'ai entendu quelque chose dans ma tête pendant que je vous libérais..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"C'était la reine putride, la matriarche de cette ruine désolée." Baltia darde un regard apeuré vers l'intérieur de la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Vous abaissez la pointe luisante de votre bâton vers la liane, qui s'écarte docilement. Tandis que vous avancez d'un air menaçant, la liane se déroule et libère Baltia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Vous avez mentionné quelque chose concernant un disque doré ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Nous n'avons pas appris grand chose. Le temps que nous arrivions sur place, il lui manquait déjà un fragment. J'ai juste pu distinguer quelques gribouillages huanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Je parie que c'est ce que l'autre expédition était venue chercher... même s'ils n'ont pas eu plus de chance que nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ces « gribouillages » ont été laissés par mon peuple il y a des milliers d'années ! Je suppose qu'il vous intéressait seulement en tant que butin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Pas nécessairement. Il aurait fait un charmant bureau au siège de la Compagnie." La commissure de ses lèvres se contracte en un sourire réflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"On ne peut pas transiger avec une créature pareille. Quoi qu'on en dise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Elle caquette dans ma tête depuis que je me suis fait attraper. Les arbres, les lianes... ce CAUCHEMAR ! Madiccho, tout cela est son œuvre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Si j'étais assez folle pour m'attarder encore un moment, je me déplacerais le plus silencieusement possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Les pŵgras qui gardent cette jungle deviennent nerveuses quand on s'approche trop de leurs arbres." Elle hoche la tête et vous adresse un salut respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Vous... allez m'abandonner ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Je ne sais pas qui vous êtes, étranger... mais votre gentillesse est réconfortante." Elle esquisse un sourire blafard à l'adresse de Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Qu'avez-vous trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Je suis plus fort que j'en ai l'air, sérre. Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Elle est interrompue par les lianes qui lui compriment l'abdomen, expulsant presque l'air de ses poumons.
+
+Serrant les dents, elle rassemble ses forces et tente de repousser les lianes pour pouvoir respirer un peu mieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Bazzo ! Saleté de plante." Elle vous regarde avec des yeux épuisés, injectés de sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Alors on m'a frappée par derrière et je me suis ré... réveillée ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Notre bateau a accosté de l'autre côté de l'île, mais... Je suis la dernière de l'équipage, et je ne peux pas naviguer seule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"J'en ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Vous avez joué avec la vie de votre équipage et vous avez perdu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ac, mais la Compagnie attend cela de chacun d'entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Sientere de vous ennuyer." Elle fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Di verus." Elle adresse un bref hochement de tête à la matelote.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Gardien, vite, nous devons l'aider !"
+
+Les yeux de Pallegina se dardent sur Baltia, puis sur les lianes et sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Agracima, sérre... J'aurais bien besoin d'un coup de main... ou quatre." Son sourire est blafard mais empreint de gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Pourquoi donc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Merci du conseil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Elle est sur le point d'en dire plus, mais se ravise, hausse les épaules et s'éloigne en boitant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Je suis déjà tombé sur quelques-unes des pŵgras qui rôdent dans les environs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ac, alors vous êtes mieux préparé que nous l'étions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Mieux vaut mourir sur la plage que dans cette jungle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Vous refusez de me prendre à bord ? Pas même pour m'arracher à ces terres désolées ? Je ne sais pas combien de temps je pourrai encore attendre de l'aide..." 
+
+L'incrédulité éclipsant un instant sa fatigue, elle déglutit et vous regarde en clignant les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Je ne prends pas beaucoup de place, frero. Je travaillerai pour payer ma pitance... ac ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"J'ai dit non. Je ne changerai pas d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Très bien, vous pouvez venir. Bienvenue dans l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Résignée, elle sort lentement des ruines. Puis elle jette un coup d'œil par-dessus son épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Ekera. Protégez votre jolie tête, matelot." Tekēhu la salue. 
+
+Baltia se contente de cligner les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Vous trouverez ici largement de quoi construire un radeau. Bonne chance à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Toucher les lianes, sonder la vie qui palpite en leur cœur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Les lianes sont rendues glissantes par une substance tiède qui ressemble davantage à des sucs digestifs qu'à de la sève. Elles sont actuellement trop occupées à comprimer Baltia pour vous prêter attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Vous sentez la présence de la Dame putride qui s'estompe. Par votre toucher, la liane vient à se rendre compte que sa matrone a disparu. 
+
+Un mélange de tristesse et de soulagement caresse votre esprit avant de s'évanouir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Des murmures emplissent la jungle tout autour de vous. La nature n'est plus ici qu'un lointain écho. Quelque chose d'ancien et de puissant l'a remplacée, et ce qu'il en reste traite les perturbateurs avec une poigne de fer. 
+
+Baltia vous lance un regard plein d'espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

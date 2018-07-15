@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_vtc_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Veen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer Veen et vous emparer du triomphe de son navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Aenia&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Aenia&lt;b&gt; m'a chargé de traquer &lt;b&gt;Veen&lt;b&gt;, un pirate vithrack manœuvrant le boutre le &lt;b&gt;Téméraire&lt;b&gt;. Il y a une prime à toucher en échange d'une preuve de la mort du capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Veen&lt;b&gt; manœuvre son boutre, le &lt;b&gt;Téméraire&lt;b&gt;, dans les eaux tout à l'&lt;b&gt;est de Neketaka&lt;b&gt;, au-delà du chapelet d'îles de &lt;b&gt;Kua o Rikuhu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La prime mise sur la tête de Veen est à moi. Je peux retourner récupérer ma récompense auprès d'&lt;b&gt;Aenia&lt;b&gt;, devant le &lt;b&gt;siège vailien de la Compagnie commerciale vailienne&lt;b&gt; dans la Jetée de la reine, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé de Veen et j'ai collecté la prime mise sur sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

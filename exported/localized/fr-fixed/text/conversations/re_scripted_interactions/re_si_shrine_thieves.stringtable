@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_shrine_thieves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous remarquez un petit bâtiment abritant une grande statue de pierre érodée, juste à l'écart du sentier. On dirait un sanctuaire huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Profaner le sanctuaire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Quitter le sanctuaire et continuer votre voyage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La sculpture représente un oiseau du paradis aux plumes flamboyantes. Son long corps s'enroule autour d'un œuf rond. Quelques taches de peinture écaillée collent obstinément sur la pierre.
+
+C'est Amira, l'incarnation d'Hylea pour les Huanas.
+
+Vous voyez une inscription sur le socle de la statue : "Les fidèles n'abandonnent jamais, aussi rapides que l'albatros, aussi agiles que le balbuzard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous ouvrez les yeux lorsque vous entendez une série d'étranges cliquetis et de grondements dans les environs. 
+
+Un xaurip solitaire fouille dans vos affaires et renifle vos provisions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La statue représente le corps d'une femme nue, surmonté d'une tête de poisson monstrueuse. 
+
+C'est Ngati, l'incarnation d'Ondra pour les Huanas.
+
+Le socle de la statue porte une inscription. "Les vagues polissent la pierre, mais peuvent également la réduire en sable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Une paire d'anguilles de pierre entourent la sculpture. La bouche de chacune des anguilles engloutit la queue de l'autre, créant un cercle sans fin. 
+
+C'est Rikuhu, l'incarnation de Berath pour les Huanas.
+
+Le socle de la statue porte une inscription. "Certains se sauvent. D'autres combattent. Rikuhu les dévore tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La qualité de la sculpture est admirable, mais le temps a érodé ses traits. 
+
+Vous n'arrivez pas à lire à qui cette statue est dédiée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Allez, maintenant ! Fiche le camp !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Le xaurip pousse un sifflement effrayé et s'enfuit dans le sous-bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>La créature regarde rapidement à droite et à gauche, et ses pupilles en forme de losange se contractent quand ses yeux se posent sur vous.
+
+Elle lâche une série d'aboiements aigus et vous entendez d'autres créatures se déplacer dans le sous-bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Manipuler l'esprit du xaurip]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le reptile se raidit un instant et chancelle avant de s'éloigner d'un pas pesant du camp, apparemment sans but précis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Vous glisser derrière le xaurip et l'attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Le reptile sauvage ne remarque pas votre approche et s'écroule lorsque vous lui assenez un coup à la tête.
+
+Vous le désarmez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>La créature regarde rapidement à droite et à gauche, et ses pupilles en forme de losange se contractent quand ses yeux se posent sur vous.
+
+Elle lâche une série d'aboiements aigus et vous entendez d'autres créatures se déplacer dans le sous-bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Le xaurip émet un couinement de joie et fouille dans votre sac. Il y trouve un morceau de nourriture et se met à le grignoter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Le laisser partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Le xaurip émet faiblement quelques bruits secs, abandonne votre sac et se gratte la tête de sa main griffue. Il balaie les environs du regard, humant l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>La statue est incrustée de poussière, et d'étranges pigments brillants ont été badigeonnés sur sa surface, prêtant à la divinité des traits reptiliens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Prier au sanctuaire et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous vous agenouillez près de la statue et murmurez une prière à la pierre froide. 
+
+Elle ne vous répond pas, mais lorsque vous vous relevez et vous apprêtez à dresser le camp, vous vous sentez plus calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>La statue est vieille et érodée, elle s'effrite sous vos coups et des morceaux tombent sur le sol. Après avoir profané la statue, vous la poussez et elle tombe à la renverse.
+
+Tout ce qui reste de ce lieu sacré, c'est un socle de pierre et un tas de cailloux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Vous approcher afin de l'identifier]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Méditer sur votre labeur et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Quitter le sanctuaire et continuer votre voyage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Dresser le camp et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Lorsque Ngati fera sombrer votre navire, je sais qui sera épargné." Tekēhu croise les bras et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Si seulement Hylea elle-même était aussi facile à renverser que cette statue..."
+
+Pallegina examine le résultat de vos efforts, ses yeux dorés brillants de satisfaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Des problèmes avec l'autorité, je vois ?" Aloth inspecte votre travail, sardonique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Assis dans le sanctuaire, vous ralentissez votre respiration et détendez vos muscles.
+
+Vous rassemblez vos idées et les remettez en ordre. 
+
+Lorsque vous vous levez, tout semble moins périlleux, ou plus réalisable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Un bruit vous tire de votre sommeil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Perte de temps," marmonne Pallegina d'une voix forte durant votre prière. Elle fulmine sur le chemin jusqu'à ce que votre prière soit terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"La force passe du capitaine à la mère, de la mère à l'enfant, et la gratitude remonte à la source, m'est avis." Tekēhu étreint ses mains l'une contre l'autre et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Hé, cap. Rien de mal à rester en bons termes avec le vieux qui vous a ramené à la vie."
+
+Serafen esquisse un sourire narquois et s'agenouille près de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Explorer la zone environnante]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Le site autour du sanctuaire est dégagé et semble être un bon endroit pour vous reposer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Examiner les environs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Vous partez à la recherche des autres xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Vous rendormir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Les heures passent interruption. Vous vous réveillez et reprenez votre voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Chanter pour lui]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Le xaurip vous regarde lorsque vous entonnez votre incantation, sa tête légèrement inclinée, ses muscles raides.
+
+Vous poursuivez votre incantation et la créature se met à balancer doucement au rythme de vos mots. Il fait quelques bonds prudents pour s'approcher de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Sa lance en main, il s'avance en traînant des pieds vers un de vos compagnons endormis...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Le nourrir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Attaquer sans avertissement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous lui offrez une ration tirée de votre sac, mais rien ne semble attirer la petite créature sauvage.
+
+Il sautille d'un pied à l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Il renifle le morceau tendu, puis vous l'arrache des doigts avant de reculer de quelques bonds.
+
+Le xaurip engouffre la nourriture et la mâchouille tout en reculant avec hésitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Le laisser partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Le xaurip braque ses yeux dans les vôtres, piaille doucement et pose quelques objets aux abords de votre camp, notamment sa lance et son bouclier.
+
+Puis, il s'enfuit dans les broussailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>L'effet de surprise est efficace : le xaurip s'écroule après votre attaque et s'affaisse à vos pieds.
+
+Vous le désarmez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>La statue représente une créature qui ressemble à un stelgaer, mais une tête d'araignée est juchée sur son épaule droite et celle d'un sanglier aux défenses énormes sur celle de gauche.
+
+C'est ainsi que les Huanas représentent Galawain.
+
+Le socle de la statue porte une inscription. "Traquer. Tuer. Survivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Des traces de xaurips sont visibles dans le sol meuble des alentours. Elles ont l'air relativement fraîches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>La statue est incrustée de poussière, et d'étranges pigments brillants ont été badigeonnés sur sa surface, prêtant à la divinité des traits reptiliens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Votre figurine de chien se joint à vos aboiements, et le xaurip fuit dans le sous-bois en gazouillant de peur.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

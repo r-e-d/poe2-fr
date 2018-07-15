@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_marauder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Nomu le Maraudeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Nomu&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Abocco&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Pillard et chef de gang, &lt;b&gt;Nomu le Maraudeur&lt;b&gt; s'est évadé de prison avec le reste de son équipage. Il s'est enfui avec eux dans les étendues sauvages au nord-ouest de &lt;b&gt;Neketaka&lt;b&gt;, semant le carnage sur son chemin. Une prime est offerte contre sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Nomu&lt;b&gt; et son gang de nouveau réuni ont été repérés pour la dernière fois dans les étendues sauvages au &lt;b&gt;nord-ouest de Neketaka&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>À présent que je me suis occupé de Nomu, &lt;b&gt;Abocco&lt;b&gt;, à la &lt;b&gt;Jument sauvage&lt;b&gt;, dans la Jetée de la reine, me paiera une coquette somme en échange d'une preuve de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Nomu le Maraudeur et collecté la prime auprès d'Abocco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

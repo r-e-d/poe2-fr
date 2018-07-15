@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_zamar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je suis à vous dans un... j'ai failli l'avoir, maudits yeux." 
+
+Le nain à la peau tannée par le soleil tente d'extraire une écharde de son pouce en marmonnant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Radora doit penser que je travaille gratuitement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Le [Player Ship] aurait bien besoin de bois et de goudron si vous avez ça sous la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous voilà de retour ? Vous ne pouvez plus vous passer de ce vieux Zamar ?" Se tripotant la barbe d'une main, il vous invite à parler d'un signe de l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'espère que vous trouverez une solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oui, de l'espoir et un marteau, c'est tout ce qu'il me reste." Il hausse les épaules et soupire en direction de son atelier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ohé du bateau. Vous avez des nouvelles intéressantes ?" Zamar s'époussette les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"J'ai parlé avec le capitaine Radora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Les Príncipis ne vous ennuieront plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"J'ai parlé aux Príncipis en votre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous avez réellement défié ces fauves ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je crois qu'il vaut mieux accepter leur offre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Réflexion faite, je reviendrai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"C'est la meilleure nouvelle que j'aie entendue depuis mon arrivée sur ce rocher !" Zamar baisse les mains. Elles tremblent comme si elles ne savaient pas où aller.
+
+Il les replonge dans sa barbe, moins frénétiquement cette fois-ci.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Elle s'est fait voler. Ne lui en voulez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"L'argent a disparu, mais je vais traquer le responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Il faut être intrépide pour s'attaquer à un capitaine de la Jetée de la reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Les choses étant ce qu'elles sont, la commande de Radora est à vous si vous pouvez vous l'offrir." Zamar se lisse la moustache et en déloge un peu de sciure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"J'ai besoin d'ARGENT, et non d'un intermédiaire qui négocie avec des assassins !" Il tire un petit fusil à silex de sa ceinture et le pointe vers le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Posez ce fusil. Le marché est déjà conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Les Príncipis ne resteront pas toujours des voyous. Donnez-leur une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je ne suis peut-être pas aussi confiant que certains kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Miser mon avenir sur des pirates apatrides ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Radora est sans le sou. Les Príncipis sont votre seule solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sa poitrine se gonfle au rythme de sa lourde respiration tandis qu'il lève à demi son fusil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"J'aimerais voir vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Il se pourrait que je veuille racheter la commande de Radora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je vous en prie." Il s'écarte pour vous montrer le contenu de ses caisses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Encore vous ?" Zamar frotte le bord d'une nouvelle ecchymose autour de son œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Les affaires vont et viennent comme la marée. Que puis-je faire pour vous ?" Zamar s'aère la barbe et vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Très bien, faites donc." Tout en secouant la tête, Zamar vous congédie d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je fais ce métier depuis trop longtemps pour me laisser avoir par l'intimidation et les coups bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Cela ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous... vous acceptez ? Je veux dire, vous acceptez !" 
+
+Il vous prend la main et la serre vigoureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Eh bien, vous savez où me trouver si vous changez d'avis." Il hausse les épaules et soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Mais les Príncipis l'ont déjà revendiqué. On dirait que vous avez raté l'occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Cotta est mort... Vous vous êtes donné tout ce mal pour rien, alors ?" Zamar fronce les sourcils et tire sur une mèche tressée de sa barbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"De rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ne vous méprenez pas, je l'ai fait pour mon propre divertissement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Rappelez-moi de ne jamais chercher à en savoir plus." Zamar se passe la main sur le front et vous fait signe de vous exprimer librement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Pourquoi n'avez-vous pas déjà réglé votre différend ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Parce que j'ai du travail en retard qui m'attend jusqu'au prochain tour de la Roue !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Et je suis un vieil homme, bon sang. Je ne peux même pas me rendre à la Jument sans que mes hanches protestent furieusement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les Príncipis ont leur charpentier de marine, qu'Ondra les emporte." 
+
+Il empoigne sa barbe et émet un grognement, s'arrachant quelques poils au passage. Zamar ouvre la main et le vent les emporte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"J'ai persuadé Cotta de vous laisser tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Vous avez des problèmes avec un client ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Et avant que vous ne posiez la question, cela inclut les matériaux, la main-d'œuvre et les frais." Il compte sur ses doigts avant de les fourrer à nouveau dans sa barbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Alors que je suis endetté jusqu'au cou, elle claque tout son argent à la Jument sauvage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Et maintenant des PIRATES me mettent la pression pour que j'accepte un marché véreux." Zamar grimace et tire encore plus fort sur sa barbe, comme pour se punir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Si quelqu'un achetait la pièce que Radota a commandée, cela résoudrait-il vos problèmes d'argent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Oui, mais il faudrait d'abord qu'elle avoue ne pas avoir l'argent." En passant la main dans sa barbe, Zamar trouve un poil noir et l'arrache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Et tant pis si continuer d'espérer fait de moi un idiot. C'est une cliente de longue date et une amie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je ne possède pas une telle somme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"C'est bien ce que je pensais. Il y a quelque chose à la Jetée de la reine qui nous saigne tous à blanc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Si vous êtes en manque de fonds, les gens qui savent se rendre utiles n'ont pas de mal à trouver rémunération par ici." Il indique d'un geste le quartier autour de lui et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Si vous pouvez remettre à flot le [Player Ship], faites-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Je vais vous régler ça en un rien de temps. Laissez-moi vous expliquer exactement ce que nous allons devoir faire..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ach, le pauvre. L'archipel laisse des traces sur tous les navires qui y passent." Zamar se gratte la mâchoire et jette un coup d'œil en direction de votre vaisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"J'aimerais voir les navires dont vous disposez, Zamar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Pas un mince investissement. Laissez-moi vous montrer ce que j'ai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Comme vous voudrez. Prévenez-moi lorsque vous voudrez que j'inspecte votre navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"C'est un tarif exorbitant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Dites-le à mes fournisseurs. Tout le monde a besoin de matériaux de base, et je ne vois pas beaucoup d'arbres dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Vous sous-estimez les efforts que déploient les Príncipis pour vous obliger à coopérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ça n'en reste pas moins injuste !" Il resserre sa prise sur le pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vous êtes censé accepter cette offre, avant qu'ils ne vous en fassent une qui vous plaira moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Voulez-vous voir ce qui se produit une fois leur patience poussée à bout ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Mille pièces, c'est nettement moins que le prix que j'avais fixé pour la capitaine aguerrie." Zamar hausse l'un de ses sourcils broussailleux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Et si je baissais le prix de deux cent pièces ? Cela me semble être une juste compensation pour l'écharde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Je ne peux faire autrement. Mes excuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Vous semblez connaître la valeur d'une journée d'honnête labeur. Ôtez cinq cent pièces au prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"A-t-elle enfin dessaoulé, ou faut-il aller la secouer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Oubliez Radora. C'est moi qui ai réglé votre problème avec les pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Oui, mais..." Zamar se gratte la nuque et jette un coup d'œil le long de l'artère principale de la Jetée de la reine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Lorsqu'on perd de l'argent à la Jetée de la reine, il a tendance à rester perdu, mais je vous fais confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Vous vous baladez avec ce genre de somme en poche ?" Zamar cligne des yeux et accepte plusieurs grandes brassées de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Les risques du métier."
+
+Il émet un grognement de frustration et abandonne, agitant sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Vous êtes arrivé sur le sloop ? Je peux réparer votre navire si vous pouvez me &lt;i&gt;payer&lt;/i&gt; pour mon travail." Zamar vous montre ses dents et les fait grincer si fort que le bruit est audible malgré le vacarme des quais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"C'est le Tonneur de fer, un canon qui porte bien son nom." Le visage de Zamar rayonne de fierté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Pour mille pièces, il fendra une coque, arrachera une voile ou fera voler un pont en éclats comme un diablotin qui veut faire ses preuves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"C'est ainsi que je suis récompensé de mon aide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Votre vaisseau crachera le feu comme un dragonnet au ventre rempli de varech ardent." Il claque des doigts à l'intention d'un de ses assistants et pointe du doigt votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Quel genre de « marché » ces pirates proposent-ils ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Le genre où je répare les navires príncipis et aucun autre." Zamar ramène ses cheveux en arrière des deux mains, mais ils reprennent aussitôt leur configuration emmêlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Ces salopards éloignent la clientèle pour m'obliger à accepter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Moins de claques là-dedans qu'on ne pourrait le croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Au bout du compte, tout est une histoire de pands et de pièces, pas vrai ?" Zamar crache en direction des pilotis du quai et se retourne pour contempler l'étendue de la tâche restante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Oui. La capitaine Radora ne m'a pas payé pour le canon qu'elle a commandé." Zamar tire sur l'extrémité de sa barbe et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Il ne respecte peut-être pas les normes rauatais, mais il a du cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Heureux de ne pas devoir lever la tête pour m'adresser à un client, pour une fois."
+
+Il émet un grognement de frustration et abandonne, agitant sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"On pourrait dire la même chose de la tribu des Wahakis, et regardez ce qui leur est arrivé." Maia fait un clin d'œil à Ishiza et lui adresse un sourire espiègle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Zamar lance un regard noir à Maia, puis porte son attention sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Mais le prix a augmenté de cinq cents pièces suite à la remarque de votre amie." Il croise les bras et indique Maia du menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Maia n'a rien dit de bien insultant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Je ne m'immisce pas dans les affaires de mes clients, car cela bride les miennes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Les Huanas sont de bons clients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Je m'assurerai que vous en ayez pour votre argent, capitaine." Maia soutient le regard de Zamar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Je ne possède pas une telle somme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"C'est d'autant plus dommage. Revenez quand ce sera le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Zamar expire profondément par le nez et ferme les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Si je dois choisir entre ma vie et ma fierté..." Il serre les dents, rabaisse le chien de son pistolet et range l'arme à sa ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Cotta n'est pas un mauvais bougre. Son loup est adorable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Vous vous rangez du côté de cet escroc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Et après tout, un loup n'est qu'un chien qui n'a pas été assez caressé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Mais peut-être devrais-je l'être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Je refuse de me laisser brimer par des intrigants et des meurtriers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Mentir] "Elle a dit que je pouvais prendre sa commande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Détroussée ? Par le poing d'Abydon !" Zamar cligne des yeux, regarde par-dessus votre épaule et déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ah oui, vraiment ?" Zamar se lisse les poils des narines afin qu'ils se fondent avec sa moustache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Bah. Même si je souhaite aider Radora, il est grand temps que je me soucie de moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Pour le Tonneur de fer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Pour le Tonneur de fer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Par les temps qui courent, l'ouvrage coûtera au moins... dix mille pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Si je ne reçois pas le paiement de Radora, il ne me reste plus qu'à graver mon propre suolenet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Per complanca, ne soyez pas ridicule !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Et si vous travaillez lentement, peut-être qu'ils ne feront que vous tuer ?" Maia soupire par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Si cela me vaut une ristourne sur votre tarif, je pourrais trouver Radora pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Vous feriez ça ? Je vous ferais un bon prix, cela va sans dire, l'ami." Zamar sort la main de sa barbe pour vous adresser un signe du pouce et de l'index, vous gratifiant également d'un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Et qu'en est-il de la capitaine Radora ?" Zamar tire sur l'extrémité de sa moustache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Je n'ai pas encore assez d'argent pour faire réparer le [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"D'accord, mais vous savez où me trouver lorsque vous l'aurez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ces vieilles articulations ne me permettent pas d'aller très loin." Il se masse la hanche et grimace en observant les passants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Par le fourneau puant d'Abydon, que me voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Les chats sont sacrés à bord, vous savez. Je ne vous aurais pas pris pour le genre à vénérer les Príncipis."
+
+Serafen arbore un sourire malicieux, les bras ballants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Sur la terre ferme, les gens les mettent parfois dans la marmite. Trouvez-y donc une forme de vénération." 
+
+Zamar lève les yeux au ciel. Il croise les bras et son regard quitte Serafen pour se poser sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Et moi qui croyais qu'un charpentier de marine ne demanderait pas mieux qu'un contrat exclusif. Surtout avec des clients dont les navires se font régulièrement canarder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Les gens comme ça n'ont pas de mal à trouver de l'argent, et le perdent aussi rapidement. 
+
+"Je ne vais pas laisser sombrer mon commerce pour faire plaisir à une bande de rats de cale arrogants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Ce qui signifie que &lt;i&gt;nous&lt;/i&gt; devons nous rendre à la Jument sauvage. Quelle chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"La Jument est un endroit très apprécié. Je pourrais vous demander pire, comme faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Oui, beaucoup des deux. J'ai servi sur des épaves plus fiables que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Il n'y a qu'à Gaun que nous devrions payer la dîme ! Et vous réclamez dix mille pièces ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Remettre un navire en état de naviguer n'est pas une mince affaire.
+
+"Après, si vous voulez vous en remettre à la prière pour vous procurer un bateau, libre à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Par la bourse en fer d'Abydon, messire nain ! Vous ne &lt;i&gt;voulez&lt;/i&gt; donc pas de notre clientèle ?"
+
+Il écarte les bras, paumes ouvertes et tournées vers le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Dix mille pièces est un tarif honnête, vous ne trouverez pas mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"C'est à l'aune de vos épreuves que vous serez forgé. Tirez-en de la force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"De la force ? J'ai &lt;i&gt;déjà&lt;/i&gt; de la force !" Il tend ses mains tremblantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"À propos du capitaine Radora..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

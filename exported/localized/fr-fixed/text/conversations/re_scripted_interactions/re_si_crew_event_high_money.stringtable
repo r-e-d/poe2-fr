@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_high_money</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous sirotez votre chope sous le pont avec l'équipage et observez des marins s'adonnant à un jeu à boire lorsqu'un petit groupe de matelots, plus imbibés que les autres et enhardis par l'alcool, s'approche de vous.
+
+"Ohé, capitaine." [Specified 0] s'incline en retirant son couvre-chef. "Avec les gars, on a remarqué qu'au cours de vos aventures vous avez amassé pas mal de pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'apprécie votre dur labeur. Je veux que vous sachiez à quel point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il est normal que tout le monde veuille sa part du butin. Répartissez ça entre vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Non. Je vous paie en salaire, en nourriture, et je vous loge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] reste bouche bée pendant un instant, puis se fend d'un grand sourire. Elle lève sa chope. "Au meilleur des capitaines qu'un matelot puisse espérer avoir !" 
+
+Sa déclaration est suivie par un chœur d'acclamations. La rumeur s'étend au reste de l'équipage comme une traînée de poudre et, pendant un bon moment, les marins vous saluent avec des sourires chaleureux et vous lèvent leur chapeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] s'incline avec un large sourire. "À vos ordres, capitaine."
+
+Les marins prennent la bourse et, pendant la demi-heure qui suit, vous les entendez répartir le butin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] se renfrogne. "Bien entendu, capitaine, bien entendu. Mais parfois, les biscuits rassis et le grog coupé à l'eau ne suffisent pas." Les autres acquiescent en grommelant. "Eh bien, vous allez devoir vous en satisfaire, alors."
+
+Les jours suivants, vous ne pouvez vous empêcher de remarquer les regards noirs qu'on vous jette lorsque vous vous déplacez sur le navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous vous tenez à la proue quand [Specified 0] et quelques autres marins s'approchent, chapeau à la main. 
+
+"Ohé, capitaine. On se demandait si vous aviez réfléchi à cette histoire de pièces pour l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Depuis la poupe, vous êtes en train d'observer le sillage que laisse le bateau quand vous entendez quelques marins approcher derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vu que vous êtes du Feu éteint, on se disait que vous voudriez peut-être dépenser un peu de votre trésor pour votre terre natale... et pour vos compatriotes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Comme vous êtes de [Player Culture], on s'est dit que vous ne connaissiez peut-être pas le code des marins. En mer, on partage équitablement, enfin plus équitablement que sur terre en tout cas. Que le trésor vienne de pillages, du commerce, ou d'aventures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dans ce cas, tenez. Un peu d'argent de poche. Et maintenant, remettez-vous au travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Chacun d'entre vous bénéficie de l'argent que je dépense pour le navire en armement et en provisions. J'aimerais bien pouvoir vous donner plus, mais je ne peux pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Le prochain à me parler d'argent rentre chez lui à la nage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Organiser une fête] "Absolument ! Vous avez mérité une récompense. Qu'on ouvre les tonneaux et qu'on apporte de la bonne viande !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous êtes trop bon, capitaine." [Specified 0] accepte la bourse d'argent en vous tirant son chapeau. "Je veillerai à ce que chacun aie sa part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0] blêmit tandis que ses compagnons essaient de se faire tout petits. "Bien, capitaine. C'est compris." 
+
+Ils se dispersent.
+
+Pendant quelques jours, l'équipage garde ses distances, vous jetant des regards méfiants quand vous les croisez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les marins échangent des regards, et leurs visages s'assombrissent.
+
+"Bien, capitaine." lance [Specified 0] d'un air renfrogné. "Je passerai le mot au reste de l'équipage."
+
+Pendant plusieurs jours, vous entendez qu'on murmure à votre passage sur le navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous l'avez déjà dit, capitaine." Les bras croisés,[Specified 0] fronce les sourcils. "Et pourtant, on en est là... "
+
+Les matelots vous dévisagent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Les cris de joie font presque trembler le bateau. Bien vite, la bière et le vin coulent à flot, accompagnant des doubles rations de viandes salées et épicées. Les chants de marins retentissent jusque tard dans la nuit, et cette histoire de paie est oubliée... pour l'instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Les matelots se regardent. "On aime faire la fête autant que n'importe qui, capitaine, mais vient un moment où on préférerait tenir une bourse dans nos mains plutôt qu'une chope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On aime s'amuser autant que n'importe qui, mais sans vouloir vous manquer de respect, peut-être que vous pourriez envisager de nous donner quelques-unes de vos pièces, cette fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0] se gratte l'arrière du crâne. "Je suppose que c'est logique." Les marins échangent des regards. "On va arrêter de vous embêter avec ça, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est pas qu'on ne comprend pas votre position, capitaine." [Specified 0] jette un œil à ses compagnons, qui acquiescent. "Mais on fait un boulot dangereux, et on ne peut pas se contenter de mots en guise de récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Jeter [Specified 0] par-dessus bord.] "Je vous avais prévenus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>La dernière fois que l'équipage vous a demandé une part de votre trésor, vous avez refusé. Depuis, vous n'avez eu de cesse de les entendre s'en plaindre dans votre dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ohé, mon capitaine !" [Specified 0] et quelques autres matelots vous saluent chaleureusement. "Comme vous avez été si généreux par le passé, on espérait que vous voudriez peut-être partager un peu plus du butin de nos voyages, avec tout le travail qu'on abat pour maintenir le [Player Ship] en bon état !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 0] laisse à peine échapper un couinement quand vous la saisissez au cou et la poussez par-dessus le bastingage. Le plouf est noyé dans le brouhaha que font les matelots affolés en s'éloignant de vous. L'un d'entre eux lève les mains pour se protéger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 0] se gratte l'arrière du crâne. "Je suppose que c'est logique." Les marins échangent des regards. "On va arrêter de vous embêter avec ça, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 0] reste bouche bée pendant un instant, puis se fend d'un grand sourire. Il lève sa chope. "Au meilleur des capitaines qu'un matelot puisse espérer avoir !" 
+
+Sa déclaration est suivie par un chœur d'acclamations. La rumeur s'étend au reste de l'équipage comme une traînée de poudre et, pendant un bon moment, les marins vous saluent avec des sourires chaleureux et vous lèvent leur chapeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] laisse à peine échapper un couinement quand vous le saisissez au cou et le poussez par-dessus le bastingage. Le plouf est noyé dans le brouhaha que font les matelots affolés en s'éloignant de vous. L'un d'entre eux lève les mains pour se protéger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Excusez-nous, capitaine." [Specified 1] déglutit. "On va... se remettre au travail, si vous le voulez bien."
+
+Vous chassez les matelots d'un geste, et ils détalent. Pendant les jours qui suivent, l'équipage vous évite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Leur accorder une prime...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Refuser leur demande...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous réfléchissez à la somme que vous allez leur donner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ils vous regardent avec espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Changer d'avis...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ils vous regardent avec espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_magran_high_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le prêtre magranite a une carrure de rocher. Son corps trapu tend les coutures de sa robe raffinée.
+
+Il vous considère avec un regard inflexible, vous souhaitant la bienvenue d'un mouvement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Chaque obstacle est un défi que nous devons relever. Ce sont les pierres qui nous aiguisent pour faire de nous des lames acérées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Muhai n'est plus. Je souhaiterais confier son corps aux flammes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Muhai ?!"
+
+L'apparence calme du prêtre est brisée par son exclamation sifflée. Il regarde autour de vous deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Muhai a rompu avec le wahana. La reine a interdit le moindre contact avec elle. 
+
+"Ekera, elle serait bannie dans les bas-fonds sans sa maladie, et maintenant ça l'a achevée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous faites preuve de beaucoup de docilité, pour un prêtre de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Qu'est-ce que cela signifie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Frapper sans but ne fait qu'émousser la lame. 
+
+"Magran nous enseigne à brûler ce qui est faible en nous : la peur, l'envie, l'arrogance. Ces choses qui pourrissent l'âme de l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Un groupe de Wapūas est venu chercher conseil auprès de Muhai, car elle était connue pour ses talents de navigatrice. 
+
+"Muhai faisait partie des Auwēkis avant de venir à Neketaka. Les Auwēkis et les Wapūas ont été des ennemis héréditaires avant le règne de la reine Onekaza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"La reine comptait joindre nos tribus en un poing levé.
+
+"Elle ne pouvait pas tolérer le crime de Muhai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Elle leur a donné de mauvaises indications. Ce n'est pas la même chose que de les tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Le partage des ressources au sein de la tribu. Pourquoi laisser les Matarus nous diriger si ce n'est pour répartir le wahana équitablement ?" Tekēhu soupire par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ekera, comment dire... Le partage que pratique notre peuple. Chacun d'entre nous, selon ses moyens. 
+
+"C'est le rôle des Matarus de guider, de protéger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mes excuses. Je ne savais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Qu'est-ce que ça peut bien me faire ? Hors de mon chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Elle est morte seule. N'est-ce pas suffisant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous iriez à l'encontre des paroles de notre reine ?"
+
+Le prêtre vous regarde de haut, son visage ridé tordu en un froncement solennel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Non, mais je dis que vous devriez. Ou alors..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Vous débarrasser du corps dans le feu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Cela ne passera pas inaperçu, étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je ne ferai plus couler de sang au nom de Muhai. 
+
+"Mais sachez que telle témérité ne vous apportera que souffrances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Il y a ceux qui tuent par l'épée et ceux qui tuent par la ruse. 
+
+"Pour les morts, cela ne fait aucune différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Allez, donnez-moi le corps. J'irai l'enterrer au-delà des murs de la ville. 
+
+"C'est le mieux que je puisse faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Lui confier le corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Non. Je vais faire selon sa volonté et brûler son corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je vais faire comme promis. Je vous remercie, étranger. Les Wapūas ont leur propre justice, et la loi de la reine prévaut. 
+
+"Vous avez fait le bon choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Elle aussi a agi toute seule, contre son peuple. 
+
+"Elle ne mérite pas l'honneur de marcher avec les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Les dieux ne font que causer des problèmes. Il n'y a pas d'honneur à en retirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Mais... J'ai entendu dire que vous aviez prêté serment envers Rikuhu. Envers Berath. Serait-ce faux ?"
+
+"En parler n'est pas prudent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Très bien. Qu'est-ce que je devrais faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"La crémation du corps n'est qu'un symbole. À qui est-ce que ça fait du mal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Chacun d'entre nous, si nous laissons les vieilles rancunes nous diviser à nouveau. 
+
+"Muhai n'est pas innocente là-dedans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ne peut-elle pas se racheter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Muhai est morte. Elle a perdu sa dernière bataille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Pourquoi être revenu ? Cherchez-vous à vous déshonorer davantage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Honneur ? Per complanca. Les dieux ruinent tout ce qu'ils touchent. Ils sont tous des charlatans et des lâches, tous. »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Qui a dit que les chances de rédemption prenaient fin avec la mort ? Pour certains, ce n'est que le début."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Elle était tout de même une d'entre vous. Son esprit ne peut se reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'ai entendu parler de votre amitié avec la reine. Du fait qu'elle fait confiance à votre jugement.
+
+"... Alors, je dois faire de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Quelle bonté de votre part de tant vous inquiéter d'un membre de notre peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je ne peux accomplir les rites funéraires complets. Les membres de sa famille la rejettent encore. 
+
+"Mais si les feux de Magran la réclament... Ainsi soit-il."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous n'êtes pas d'ici. Vous ne connaissez rien de nos coutumes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous avez passé trop de temps loin d'ici, camarade. Vous avez oublié ce qui est juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous, là ! Qu'est-ce que vous faites ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oh, rien. Simple élimination de déchets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Fuir] "Rien !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mais qu'est-ce que c'est que ça... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"N'y a-t-il pas d'autre moyen ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous n'êtes pas de la tribu kahanga. 
+
+"Pourquoi faites-vous ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Très bien. "Emmenez-la.!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je suis un prêtre de Magran. À défaut d'être honorée en tant que membre des Kahangas, je peux tout de même lui administrer les rites des fidèles de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Alors, puisse Magran prêter force au bras qui tient votre épée. Vous n'allez pas vous faire d'amis à Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"J'ai du chagrin pour elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Moi de même. Muhai s'est attirée beaucoup de souffrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Le prêtre soupire, regardant les jardins du temple à l'extérieur.
+
+Il se gratte pensivement la mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Son esprit m'a promis une récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ekera, étranger, n'avez-vous pas honte ? L'égoïsme a scellé son sort. Il en sera de même pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"L'unité ramollit. Maintenant, vous dépendez de la reine au lieu de mener vos propres batailles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les Kahangas ont conquis une grande partie du Feu éteint. Maintenant, Onekaza façonne le cours de notre avenir. 
+
+"M'est avis que c'est son exemple que nous devrions suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Bienvenue. Nous nous rassemblons pour honorer la déesse, car nous devons gagner la force de supporter les heures les plus sombres de nos vies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Savez-vous quoi faire ? Cette femme que vous transportez ne peut recevoir de tels rites.
+
+"Vous risquez de mettre la reine en colère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Peu m'importent vos coutumes. J'ai besoin que son esprit cesse de me harceler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"L'esprit de Muhai vous dérange ? Elle seule devait porter le fardeau de sa punition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Quel crime contre son peuple a-t-elle commis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Muhai a égaré le groupe de chasse, et mené à leur perte. 
+
+"Nous sommes tous des Kahangas, désormais. Nuire aux Wapūas, c'est nuire aux Auwēkis. Comme Muhai a tourné le dos aux siens, il nous a été ordonné de faire de même avec elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Alors, c'était une décision politique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"M'est avis que c'était pour le bien de notre peuple. Les commerçants sont en guerre les uns contre les autres.
+
+"Chacun ravivant la flamme de l'autre, pour finir comme des braises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>À côté, le prêtre considère les flammes dansantes avec une désapprobation sévère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous soulevez votre triste fardeau pour le placer dans le brasier, où il atterrit en dispersant des braises. 
+
+Le corps se consume dans les flammes avec une rapidité hors du commun pour finir réduit en cendres en l'espace de quelques secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Et m'est avis que votre reine est une dirigeante rusée. Vous devriez vous estimer heureux." Il hoche la tête, manifestement impressionné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Par où se trouve le palais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Le prêtre cligne des yeux. Son sourire est chaleureux, mais il y pointe peu d'amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Suivez le chemin montagneux jusqu'à la cime, la Couronne du serpent. Vous verrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"C'est toujours un plaisir de rencontrer d'autres prêtres. Bienvenue à vous. Rejoignez les autres, si vous désirez pratiquer vos Formes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"C'est ça, votre temple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ekera, la pluie et le vent sont de meilleurs enseignants que n'importe quel prêtre. Un combattant habitué au confort n'y gagne que des bleus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je ne m'attendais pas à voir tant d'étrangers dans les temples."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"C'est l'occasion d'apprendre. Que vaut un combattant qui sait se défendre contre un seul ennemi ?
+
+"Si, un jour, nous devons nous combattre, telle sera la volonté de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Magran et moi ne sommes pas dans les meilleurs termes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Personnellement, je préfèrerais me trouver un coin tranquille avec un livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Alors, vous faites partie de ceux d'Amira. Les animanciens se sont emparés de ses terres sacrées pour leurs propres fins. 
+
+"Mais alors, peut-être qu'une telle créativité honore Amira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Le croyez-vous ? Ce n'est pas par sa seule puissance que Magran maintient son influence. Il y a un but. Une conviction. Une mission. 
+
+"Vous pouvez l'honorer de bien des façons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Il est temps de faire des excuses, avant que l'apathie et l'échec vous maudissent."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

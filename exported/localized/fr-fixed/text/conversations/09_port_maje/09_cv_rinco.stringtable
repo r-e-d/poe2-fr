@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_rinco</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Torri, c'est t... Attendez. Qui êtes-vous ?"
+
+Dans le lit est étendu un jeune Vailien. La première chose que vous remarquez, c'est qu'il a l'air d'avoir subi une sacrée raclée. L'un de ses yeux est tellement enflé qu'il ne peut pas l'ouvrir, et son corps est constellé de contusions violacées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Encore vous. Vous êtes venu me souhaiter un bon rétablissement ?" 
+
+Le petit rire qui s'ensuit est empreint d'amertume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"En temps normal, je vous aurais accueilli plus chaleureusement. Désolé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis réveillé, je suis réveillé. Je me repose juste les yeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous êtes venu jouer les bonnes d'enfant ? J'ai juste besoin de repos. Je serai bientôt sur pied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Qu'y a-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'ai parlé à Mokeha. Elle affirme qu'elle a gagné à la loyale et que vous l'avez insultée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Donner la bourse à Rinco] "Voici ce que vous m'avez demandé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Il suffit que je tourne le dos cinq minutes pour que vous alliez chercher querelle aux femmes requins ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Per complanca, Zani, je suis déjà en mille morceaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Agh... Qui est là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Il se redresse en gémissant et grimaçant, tout en vous toisant de son œil valide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Qu'y a-t-il ? Que me vaut la visite d'un divin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous êtes venu en remettre une couche pour votre cousine ? Madiccho, laissez-moi tranquille !"
+
+Il tire sur la couverture pour se réfugier dessous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ça me rappelle le jour où Iselmyr avait un peu trop chatouillé les oreilles d'un mercenaire rauatai." Il s'approche de vous pour vous murmurer à l'oreille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je sais exactement ce qu'il ressent. J'ai moi-même rossé pas mal de gens comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Tout le monde raconte des histoires sur les krakens et les ravageurs, mais je clame depuis belle lurette que le véritable danger du Feu éteint, ce sont les aumauas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"On dirait que vous avez déjà un pied dans la tombe." Elle tripote pensivement l'armature de sa lanterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Que vous est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Aïe. Ça c'est de l'œil au beurre noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je ne fais que passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous venez vous moquer ? Madiccho, ça ne se serait pas passé comme ça à Ozia."
+
+Il tire sur la couverture pour se réfugier dessous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"À Ozia, il y aurait toute une foule ici pour vous railler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Rinco s'esclaffe brièvement, avant de grimacer de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Partir] "Je vais vous laisser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Quelle surprise, l'animal sait parler ? Et vous avez survécu à la conversation en un morceau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Merla... Peut-être l'alcool m'a-t-il délié la langue. Et alors ? 
+
+"Un homme qui pique l'orgueil d'un de ces sauvages mérite-t-il pour autant une raclée ? La loi est de mon côté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Peut-être que je pourrai faire entendre raison à cette femme. Par où devrais-je commencer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je suis toujours prêt pour une bonne bagarre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Cela aiderait peut-être si vous ne les appeliez pas « sauvages »".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ces Huanas... Ils ne sont pas raisonnables ! Je jouais aux cartes ce soir-là, lorsque l'une d'entre eux m'a attaqué. Sans raison !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous avez perdu une bagarre dans une taverne. Pas la peine de pleurnicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Lorsque la dispute s'est terminée, elle a pris ma bourse et elle est partie. Quelle audace, quand même !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Partir] "Je reviendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Écoutez, je suis sans le sou. Elle m'a volé ma bourse - ma paie. Comment suis-je censé payer le gouverneur ? Comment vais-je nourrir mon fils ?"
+
+Son visage tuméfié rougit encore davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je reprends mes forces. Bientôt, je serai sur pied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oui, il faut toujours mettre ses bijoux de côté avant une bagarre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Bazzo. Le nasenale avec qui je travaille me donne suffisamment de leçons de ce genre."
+
+Il se laisse retomber sur le matelas en ronchonnant.</DefaultText>
+      <FemaleText>"Ah, allez au Hel. Le nasenale avec qui je travaille me donne suffisamment de leçons de ce genre."
+
+Il se laisse retomber sur le matelas en ronchonnant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Peut-être avez-vous raison. Alors, vous venez me rendre visite ? Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Eccosi ? Allez voir ailleurs. Je suis sérieux. Laissez mes affaires tranquilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Un de votre race, aumaua. Je ne faisais rien de mal. Je jouais aux cartes à la taverne, après une longue journée. Et soudainement, une de ces Huanas m'attaque !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne lui avais pas adressé la parole, à cette diablesse enragée. Regardez ce qu'elle m'a fait ! Mon oreille !"
+
+Il tourne la tête et vous voyez une vilaine entaille recouverte de croûte, à l'endroit où un morceau de chair a été arraché de son oreille gauche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Madiccho, elle ne jouait même pas ! J'étais là, à compter mes gains, et soudain, une géante m'attrape par l'épaule.
+
+"Pff. J'ai peut-être dit quelque chose à ce moment-là, mais c'est elle qui a porté le premier coup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous trichiez ou quelque chose du genre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est horrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Le gouverneur laisse les Huanas faire comme bon leur semble, et voilà le résultat !
+
+"Je devrais être là-bas, en train d'aider à chercher les disparus. Pour reconstruire. Au lieu de ça..."
+
+Il esquisse faiblement un geste de la main en grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sciòderie ! Cette femme m'attaque sans la moindre provocation et ne subit aucune conséquence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'avais déjà beaucoup bu. C'était loin d'être un combat à la loyale !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eh bien. De toute évidence, vous avez plus de compassion que la bande d'imbéciles qui gloussaient en nous regardant nous battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Cette femme mérite d'être clouée au pilori ! Les gardes ne font rien. Mais vous, au moins, vous m'avez écouté. 
+
+"Soyez aimable, retrouvez ma bourse et je vous donnerai ce que je peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ils l'appellent Mokeha. J'imagine qu'elle est retournée dans son village. Sans doute très fière d'elle. 
+
+Suivez la route qui vire vers le nord, puis vers l'ouest. Vous ne pouvez pas le rater. C'est un tas de bois et de paille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>À ces mots, il s'affale contre le matelas, visiblement épuisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous avez vraiment réussi ? Gellarde ! Je me demandais si je ne vous avais pas envoyé au-devant d'une raclée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Zaneta croise les bras et fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Mokeha est morte. Voilà qui devrait compenser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Comment ? Di verus ?"
+
+Il vous regarde bouche bée, son front soudainement plissé par l'anxiété.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Le gouverneur ne sera pas content... Mais je vous suis reconnaissant. Maintenant, je n'aurai plus à m'inquiéter de voir une folle défoncer ma porte à tout moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je vous avais promis une récompense, ne ? Vous avez fait plus que remplir votre part du marché.
+
+"Agracima. Tout le monde dans cette ville saura ce que vous avez fait pour moi, aimico."</DefaultText>
+      <FemaleText>"Je vous avais promis une récompense, ne ? Vous avez fait plus que remplir votre part du marché.
+
+"Agracima. Tout le monde dans cette ville saura ce que vous avez fait pour moi, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tenez. Mokeha s'est excusée et a accepté de vous rendre votre argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Elle a quoi ?" 
+
+Il lorgne la bourse dans sa main, puis vous lance un regard noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Qu'elle s'excuse en personne, cette enfant de requin ! Merla. À quoi me servent ses excuses ? Cela guérira-t-il mon oreille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Bah. Assez. Je suis indulgent. Vous avez ce que je vous avais demandé, et je vous avais promis une récompense. Restons-en là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous avez sauvé ma famille, aimico. Je vous le dis en toute sincérité. Agracima." 
+
+Sa tête retombe sur l'oreiller et il lève péniblement un bras pour esquisser un geste d'adieu.</DefaultText>
+      <FemaleText>"Vous avez sauvé ma famille, aimica. Je vous le dis en toute sincérité. Agracima." 
+
+Sa tête retombe sur l'oreiller et il lève péniblement un bras pour esquisser un geste d'adieu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je ne parle que de Mokeha ! Cette harpie au visage de requin. Que les créatures d'Ondra lui dévorent les yeux !"
+
+Rinco s'agite faiblement sur son lit, levant le poing d'un air de défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Les gardes ont arrêté Mokeha. Vous aurez votre argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Di verus ? Ha ! Vous avez fait l'impossible, alors : convaincre ces imbéciles de gardes de faire quelque chose d'utile.
+
+Merci ! Je ne pensais pas trouver de justice si loin des Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Il fait un clin d'œil à Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Sans vouloir vous vexer, capitaine."
+
+Il vous adresse un sourire en coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Dès qu'un navire accostera, ma famille et moi repartirons vers Ostia !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Et la bourse que Mokeha a volée ? L'avez-vous trouvée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Lui donner la bourse vide] "Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"J'ai déjà pris ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous pouvez garder les pièces qui restent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Je vais la chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous l'avez trouvée ! Que les dieux vous gardent." 
+
+Rinco se démène quelques instants avec le cordon de la bourse, puis il en inspecte le contenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Rinco tend la main pour saisir la bourse que vous tenez. Il la retourne dans sa main en fronçant les sourcils, puis lève les yeux vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Attendez. C'est une blague ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Mentir] "Mokeha a tout dépensé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vous avez demandé une bourse. La voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"C'est une façon de voir les choses. Je garde l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Elle m'a volé ! Faut-il que nous vivions dans la rue pour préserver l'alliance de Clario ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"J'ai décidé de laisser Mokeha garder l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Retirez vos accusations et je me ferai un plaisir de vous donner un coup de main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Avouez tout à Darmo, ou vous ne mangerez que de la soupe pour le restant de vos jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Comment ? Madiccho, mais pourquoi ? Je croyais que nous avions conclu un marché !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Si vous n'êtes pas capable de défendre ce qui vous appartient, vous ne le méritez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Vous m'avez menti ! L'argent lui appartenait de droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Parce que je ne vous aime pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Espèce de... Venant de vous, j'aurais dû m'y attendre ! Vous n'êtes même pas de la même tribu, mais vous vous liguez contre moi ! 
+
+"Vous ne valez pas mieux qu'elle ! Allez-vous-en !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Espèce de... comment osez-vous ! Que Hel vous emporte tous les deux ! 
+
+"Sortez de chez moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Pas si cet argent lui appartient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vous... vous n'avez aucune preuve. 
+
+"Ayez pitié. Je ne peux pas travailler dans mon état actuel. Si je ne peux pas payer mes dettes, je perdrai ma maison. Mon fils se retrouvera à la rue !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Il ne mérite pas ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Postenago ! Pourquoi m'ennuyez-vous avec ces sottises ? Je ne peux pas vous payer si je ne possède rien. Je suis ruiné !" 
+
+Il jette la bourse vide au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ces misérables chiens de la garde, ils n'ont pas fini d'en entendre parler.
+
+"Quant à vous, si vous avez une once de jugeote, vous partirez d'ici dès que possible pour rallier un endroit civilisé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Vous... vous n'êtes qu'un pitoyable voleur !
+
+"Que les dieux me maudissent d'avoir eu la faiblesse de vous faire confiance ! Il n'y a pas une personne honnête à Port Maje !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Puissiez-vous finir sur la potence !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je... Je vois." 
+
+Rinco semble quelque peu anxieux lorsqu'il vous prend la bourse, mais son expression se détend tandis qu'il en inspecte le contenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"C'est suffisant. Avec ceci, je pourrai payer mes dettes et nourrir mon fils, jusqu'à ce que je sois en état de travailler à nouveau.
+
+Agracima. Tout le monde dans cette ville saura ce que vous avez fait pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Cuè ? Vous retrouvez notre argent pour me le voler à nouveau ?" 
+
+Rinco se démène quelques instants avec le cordon de la bourse, puis il en inspecte le contenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ça... ça ne suffira pas à couvrir la paie que j'ai perdue !
+
+"Et je ne suis pas en position de négocier, c'est ça ? Madiccho. Il n'y a pas une personne honnête à Port Maje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"J'ai réglé votre problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Merla... Et je ne suis pas en position de négocier, c'est ça ? 
+
+"Eh bien, vous n'avez pas tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Soit. Je dirai aux gardes que le problème est réglé. 
+
+"Et... agracima.  L'argent nous permettra de conserver un toit au-dessus de nos têtes jusqu'à ce que je puisse travailler à nouveau. J'ignore pourquoi vous l'avez fait, mais je ne l'oublierai jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Rinco vous dévisage, les yeux écarquillés. Ses doigts sont crispés sur les draps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ça ne vous suffit pas qu'elle m'ait ruiné ? Vous venez en plus me menacer sous mon propre toit ? Je vous en prie, pour mon fils...
+
+"Je dirai la vérité aux gardes. Je le jure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"J'espère que les chiens de Clario se montreront plus cléments que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Le gouverneur laisse les Huanas faire comme bon leur semble, et voilà le résultat !
+
+"Je devrais être là-bas, en train d'aider à retrouver les nôtres. Ma femme, Zaneta, elle... elle est là-bas, quelque part. Et je..."
+
+Il esquisse faiblement un geste de la main en grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Cette femme mérite d'être clouée au pilori ! Les gardes ne font rien. Mais vous, au moins, vous m'avez écouté. 
+
+"Soyez aimable, retrouvez ma bourse et je vous donnerai ce que je peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Donner la bourse à Rinco] "Voici ce que vous m'avez demandé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"En fait, je suis déjà tombé sur Mokeha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Cuè ? Vous l'avez rencontrée ? Et la bourse ? Vous l'avez vue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Cuè ? Mais comment ? Vous vous êtes déjà occupé d'elle ? Gellarde ! La chance commence déjà à tourner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Mokeha est morte. Voilà qui devrait compenser."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

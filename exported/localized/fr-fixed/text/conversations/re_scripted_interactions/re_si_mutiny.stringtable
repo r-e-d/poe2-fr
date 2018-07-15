@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_mutiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Après avoir rendu compte dans votre journal de vos récents voyages, vous soulevez votre plume et êtes gratifié d'un silence quasi absolu. Vous écoutez, mais ne discernez que le crépitement de la bougie qui se consume, le grincement des membrures et le doux clapotement de la mer contre vos hublots.
+
+Rien d'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Pousser [Specified 0] par-dessus bord d'un coup de pied]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous avez oublié ce que j'ai fait à la dernière personne qui m'a pris à rebrousse-poil ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquer] "Très bien. Réglons ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Les deux camps dégainent leurs armes des fourreaux et étuis et s'avancent l'un vers l'autre...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"En nous entretuant, nous ne ferons qu'aggraver les problèmes. Déposez vos armes et discutons en kiths civilisés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes conscients que je massacre des ogres et des drakes en guise de passe-temps, pas vrai ? Peut-être vaudrait-il mieux que vous y réfléchissiez à deux fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 0] s'avance et vous pivotez vers la droite. Le mutin vous suit, décrivant un cercle tandis que vous le forcez à se rabattre contre le bastingage bâbord.
+
+"Ça fait bizarre, hein, capitaine ?" demande [Specified 0]. "D'assumer les conséquences de..."
+
+Vous vous précipitez en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] aligne les mutins et les compte, attribuant à chacun un numéro. Le marin loyal sort un dé d'une bourse et le lance sur le pont. Il cliquète puis s'arrête.
+
+"L'heureux gagnant est le numéro trois."
+
+"Par les dieux, non !" s'écrie [Specified 2]. "Pitié, capitaine, pitié !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les mutins marquent une pause. [Specified 3] leur murmure quelque chose à toute vitesse, sans doute à propos de vous et de votre passé.
+
+"Déposez vos armes", aboie [Specified 1]. "Que la peur vous exhorte à rester vivant, ou choisissez d'ignorer ce que vous savez être vrai et aventurez-vous dans un avenir où, croyez-moi, le capitaine et moi vous attendons déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0] s'approche du bastingage bâbord, y fait courir son doigt et regarde par-dessus bord. "Ouais, je crois que je serais bien plus à même de mener cette opération."
+
+Vous jetez un œil aux mutins.. C'est l'occasion ou jamais. Vous foncez vers [Specified 0]. Le temps que cette ordure lève les yeux, vous lui plantez votre botte dans l'estomac. Reculant, le mutin titube sous la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 0] vous précédant sans se méfier, vous comblez à toute allure la distance qui vous sépare. Vous jetez votre pied en avant alors que vous glissez sur le pont. 
+
+[Specified 0] vous esquive nonchalamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Les vêtements des marins ondulent dans le vent, claquant contre les silhouettes efflanquées tels des drapeaux contre leur poteau. Des visages émaciés vous regardent à l'unisson de leurs orbites caves aux sourcils froncés. [Specified 0] tousse avant de prendre la parole.
+
+"Vous sortez avec des miettes sur votre veste et l'haleine chargée d'arômes épicés." 
+
+[Specified 4] enchaîne. "Tandis que nous, nous jeûnons depuis des jours."
+
+"Nous ne pouvons qu'écouter notre estomac gargouiller." Les sourcils froncés, [Specified 3] secoue la tête. "Nous nous disputons des miettes rassises, nous chassons les rats de cale comme s'ils étaient en or..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] jette une chope sur le pont. Elle rebondit avec fracas sur les planches. Puis elle finit par s'arrêter à vos pieds.
+
+"Nous sommes des marins, capitaine. Nous ne sommes si des prêtres, ni des moines, ni quelque autre forme d'ascète que ce soit. Des marins. Sans une goutte d'eau pour nous désaltérer, ni une lampée de grog pour apaiser nos tourments, ni une gorgée de rhum pour oublier notre vie de chien."
+
+[Specified 2] hoche la tête d'un air renfrogné. "Je cracherais bien, mais la salive me manque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] avance d'un pas et fait rouler une pièce sur le pont. Elle rebondit, frappe votre porte et s'arrête. 
+
+"Regardez-la, capitaine. C'est la seule pièce que je possède."
+
+[Specified 4] laisse échapper un grondement sourd. "Vous voulez sans doute qu'on se la divise entre nous tous, hein ? Parce que vous pouvez être sûr qu'on ne travaille pas pour rien, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"L'équipage est mécontent." [Specified 0] parle d'une voix calme, presque nonchalante, comme s'il énonçait un problème. "Comment est-ce arrivé ? Par manque de planification. Et qui s'occupe de la planification ?"
+
+Les mutins s'exclament : "Le capitaine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Les mutins marquent une pause. [Specified 3] leur murmure quelque chose à toute vitesse, sans doute à propos de vous et de votre passé.
+
+"Déposez vos armes", aboie [Specified 1]. "Que la peur vous exhorte à rester vivant, ou choisissez d'ignorer ce que vous savez être vrai et aventurez-vous dans un avenir où, croyez-moi, le capitaine et moi vous attendons déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les mutins lèvent les mains. [Specified 1] s'approche de vous, la matraque à la main.
+
+"Il ne faut pas laisser passer ça, capitaine", grommelle le marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0] se racle la gorge et crache. "Voilà comment je vois les choses : une fois débarrassés de vous et de vos amis, nous aurons moins de bouches à nourrir et moins de poches à remplir. Je ne suis pas mathématicien, mais je pense que ça en fera plus pour nous, pas vrai les gars ?"
+
+[Specified 2] rit doucement, acquiesçant à l'adresse de [Specified 3]. [Specified 4] sourit et jette un œil aux autres matelots, comme s'il calculait la valeur en argent de chacun.
+
+"Que dites-vous de mes talents de diplomate, capitaine ?" demande [Specified 0] avec un sourire ironique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] s'esclaffe. "Oh non, un capitaine au tempérament cruel ? Qu'allons-nous bien pouvoir faire ?"
+
+[Specified 2] laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] ricane, avec la rage contenue des vaincus, tel un blaireau pris dans un piège. L'arme du marin tombe sur le pont, et les autres mutins l'imitent à contrecœur. [Specified 1] s'avance, matraque en main.
+
+"Laissez-les partir", dit [Specified 0]. "Sans moi, ils ne seraient jamais intervenus. J'assume la totale responsabilité de cette affaire."
+
+[Specified 1] vous regarde. La diplomatie ne fonctionnerait pas si vous récidiviez chaque fois. Vous étiez en faveur de la paix...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Tirer sur [Specified 0]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0] regarde les autres. "On s'en occupe, alors ?"
+
+Avant que le marin puisse se retourner, vous dégainez votre pistolet et tirez. Le front de [Specified 0] éclate et des morceaux de crâne volent en l'air. Une bouillie fumante pendouille de sa boîte crânienne tandis que le mutin s'effondre sur le pont dans une mare de sang. Un œil roule lentement vers vous avant de s'arrêter.
+
+Vous reportez votre attention sur les autres à travers la fumée de votre arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0] hausse les épaules, mains ouvertes, comme pour demander : « marché conclu ? »
+
+Vous dégainez votre pistolet. Le mutin tressaille. 
+
+Vous tirez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous arrachez votre pistolet de son étui et appuyez sur la détente dans un même mouvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Les mutins sont dénudés jusqu'à la taille et alignés contre le bastingage. Trois coups : un sur le dos pour qu'ils y pensent en s'endormant, un sur les jambes pour qu'ils y pensent en marchant, et un sur la main faible pour leur rappeler l'indulgence de votre punition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je crois que nous savons tous les deux pourquoi nous sommes ici, capitaine." [Specified 0] grimace.
+
+[Specified 4] acquiesce. "Même si la dernière fois on a laissé courir, vient un temps où chaque kith doit réparer ses torts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Oublions toute cette affaire. Remettez-les au travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Fouettez-les tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Faites-en passer un sous la quille. N'importe lequel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] ricane, avec la rage contenue des vaincus, tel un blaireau pris dans un piège. L'arme du marin tombe sur le pont, et les autres mutins l'imitent à contrecœur. [Specified 1] s'avance, matraque en main.
+
+"Laissez-les partir", dit [Specified 0]. "Sans moi, ils ne seraient jamais intervenus. J'assume la totale responsabilité de cette affaire."
+
+[Specified 1] vous regarde. La diplomatie ne fonctionnerait pas si vous récidiviez chaque fois. Vous étiez en faveur de la paix...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0] ricane, avec la rage contenue des vaincus, tel un blaireau pris dans un piège. L'arme du marin tombe sur le pont, et les autres mutins l'imitent à contrecœur. [Specified 1] s'avance, matraque en main.
+
+"Laissez-les partir", dit [Specified 0]. "Sans moi, ils ne seraient jamais intervenus. J'assume la totale responsabilité de cette affaire."
+
+[Specified 1] vous regarde. La diplomatie ne fonctionnerait pas si vous récidiviez chaque fois. Vous étiez en faveur de la paix...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Les mutins marquent une pause. [Specified 3] leur murmure quelque chose à toute vitesse, sans doute à propos de vous et de votre passé.
+
+"Déposez vos armes", aboie [Specified 1]. "Que la peur vous exhorte à rester vivant, ou choisissez d'ignorer ce que vous savez être vrai et aventurez-vous dans un avenir où, croyez-moi, le capitaine et moi vous attendons déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Les mutins marquent une pause. [Specified 3] leur murmure quelque chose à toute vitesse, sans doute à propos de vous et de votre passé.
+
+"Déposez vos armes", aboie [Specified 1]. "Que la peur vous exhorte à rester vivant, ou choisissez d'ignorer ce que vous savez être vrai et aventurez-vous dans un avenir où, croyez-moi, le capitaine et moi vous attendons déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Faites passer [Specified 0] sous la quille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0] plisse les yeux, mais n'affiche aucune surprise. "On se reverra de l'autre côté de la Roue, capitaine."
+
+L'équipage se hâte de ligoter le mutin, puis le bruit du corps frappant l'eau retentit sur le pont tel un coup de pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1] fronce les sourcils, croise brièvement votre regard, puis se détourne.
+
+[Specified 0] tend la main avec un sourire rusé. "Ça n'a pas besoin de se terminer en bain de sang, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Mes excuses, capitaine." [Specified 0] vous regarde fixement, les yeux plissés. "Mais certains d'entre nous n'ont pas apprécié la manière dont vous avez traité cette petite orlane. Vela faisait quasiment partie de la famille. Vous ne savez peut-être pas ce que ça signifie mais, pour des loups de mer comme nous, c'est sacré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le bruit de vos pas retentit dans la cabine comme si vous arpentiez un monastère abandonné. 
+
+Vous sortez sur le pont et trouvez l'équipage qui vous dévisage, les bras croisés, arme à la ceinture, précédé de [Specified 0] qui se tient au centre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous vous essuyez le visage après avoir effectué votre toilette. Alors que vous regardez la surface claire et tremblotante de l'eau, vous remarquez une curieuse absence de bruit. Le navire est inhabituellement silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vos cartes étalées devant vous, vous luttez pour ne pas vous assoupir à la lueur vacillante et au doux ballottement de votre cabine. Étrangement, ce qui finit par vous sortir de votre torpeur n'est pas un son, mais l'absence quasiment totale de bruit. Vous n'entendez que le crépitement de la cire et le murmure de la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Exhortant la foule, [Specified 0] fait volte-face, les bras écartés. "Eh bien, dans ce cas, ça veut dire que nous n'avons pas de capitaine ! Et on ne peut pas naviguer sans capitaine, pas vrai ? Alors, d'après vous, qui devrait être capitaine ?"
+
+"Vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Non, capitaine", vous avertit [Specified 3]. "Je vous ai déjà vu agir de la sorte. Je vous conseille d'éloigner la main de ce pistolet."
+
+[Specified 0] crache sur le pont. "Qu'en dites-vous, capitaine [Player Name] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Le manteau du traître se déchire au niveau de l'épaule, et des fragments de tissu vont tourbillonner dans la foule. Vous abaissez le pistolet et regardez la poudre noire se dissiper.
+
+Une main plaquée sur sa blessure, [Specified 0] se tourne lentement vers vous. "Tuez-les tous, les gars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous arrachez votre pistolet de son étui et appuyez sur la détente dans un même mouvement. 
+
+Le bastingage se fêle et une pluie d'échardes éclabousse les mutins.
+
+[Specified 0] se redresse lentement, se lèche un doigt, puis le lève en l'air. "Il n'y a même pas de vent." Le mutin regarde les autres. "Tuez ce tireur d'élite et tous ceux qui s'opposent à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>L'équipage vous observe tandis que vous réfléchissez soigneusement à ce que vous allez dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Tenter de désamorcer la situation avec des mots...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Tenter de mettre fin à la mutinerie par une action violente, immédiate et décisive...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Influencer leurs cœurs ou leurs esprits avec une capacité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Les mutins vous lancent des regards appréhensifs tandis que vous les jaugez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Attention à ce que vous faites, [Player Name]." [Specified 2] pointe un pistolet sur vous. "Votre petit manège ne marche plus avec nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Les terrifier avec une capacité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Alors que vous tissez vos chaînes d'assujettissement à partir de l'essence et des âmes des mutins, leurs yeux deviennent vitreux et ils tombent en adoration devant vous. 
+
+Le reste de l'équipage, cependant, vous contemple avec horreur et dégoût.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Grâce à l'utilisation judicieuse de ses talents mystiques, [Specified 5] parvient à infléchir le cœur des mutins et à les convaincre de vous servir à nouveau.
+
+Le reste de l'équipage, cependant, vous contemple tous deux avec horreur et dégoût.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Votre psalmodie retentit sur le pont, accumulant autour de vous l'essence en une aura de pure terreur.
+
+Les matelots, mutins comme loyalistes, tombent à genoux, tremblant de peur, pleurant toutes les larmes de leur corps tandis que du sang coule de leurs poings serrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Avec un hochement de tête, [Specified 5] tourne un regard sinistre en direction des mutins et entonne une psalmodie chuchotée. L'atmosphère se rafraîchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Réfléchir à une autre solution]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ils vous regardent avec espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Laissez-les. Mais [Specified 0] est de corvée de latrine à perpétuité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Une vague de soulagement se peint sur les visages des matelots et la tension se dissipe au milieu de quelques gloussements. 
+
+Quand vous retournez à votre cabine, [Specified 1] vous salue d'un hochement de tête. 
+
+Près de la proue du navire, [Specified 5] entonne les premiers vers d'une chanson de marin.
+
+D'autres y joignent lentement leur voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>La tension se dissipe et le soulagement envahit les visages des matelots. [Specified 1] lance un regard d'avertissement à [Specified 2], tandis que [Specified 4] tâche de s'esquiver discrètement. Bientôt, les ordres résonnent de nouveau, les gréements sont resserrés, et on entend même une chanson de marin s'élever parmi tout ce vacarme.
+
+Vous retournez dans votre cabine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] tend vers vous ses mains vides.
+
+"Vous voyez ça, capitaine ? Voilà tout ce que je possède."
+
+[Specified 4] acquiesce. "En mettant les voiles à Port Maje, vous avez dit à l'équipage qu'il allait piller les trésors du Feu éteint. Maintenant, regardez où nous en sommes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>L'arme tombe des mains de [Specified 2]. "De toute façon, je ne voulais rien à voir avec tout cela."
+
+Les autres l'imitent jusqu'à ce qu'ils n'aient plus les moyens de mener à bien une mutinerie et que [Specified 0] n'ait plus le moindre soutien. Secouant tristement la tête, le marin finit par lâcher pistolet et épée sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Specified 0] se racle la gorge et crache, puis jette un regard alentour comme pour réfléchir déjà à la manière de redécorer le navire. "Je vais vous découper en morceaux et m'en servir comme appâts, et puis je pendrai ce qu'il reste à la bôme de la grand-voile pour regarder les oiseaux vous picorer les yeux. Vous saviez qu'ils aimaient ça ? C'est leur partie préférée. Et tout ce que vous pouvez faire, c'est regarder. Cligner les yeux ne sert à rien. Les paupières ne les gênent pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Il continue d'implorer votre pitié, mais l'équipage lui lie rapidement les pieds et les poings, puis le traîne jusqu'au bastingage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Elle continue d'implorer votre pitié, mais l'équipage lui lie rapidement les pieds et les poings, puis la traîne jusqu'au bastingage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Attendez. Libérez cette ordure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Passez le bonjour à Berath de ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>On attache [Specified 2] avec une corde puis on l'envoie par-dessus bord. Un peu plus tard, un amas difforme de vêtements en lambeaux et de chair déchiquetée émerge dans le sillage du bateau. [Specified 1] fait récupérer le cadavre, puis le fait pendre pour servir d'exemple.
+
+Vous retournez dans votre cabine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 1] libère à contrecœur le marin qui se débat. [Specified 2] se relève et vient se jeter à vos pieds.
+
+"Merci, capitaine ! Que les dieux vous bénissent ! Vous ne regretterez pas votre clémence, je vous le jure !" De la morve écume dans les narines de [Specified 2].
+
+Vous vous détournez et rentrez dans votre cabine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Alors que [Specified 1] remonte le cadavre pour qu'il serve d'exemple, vous retournez dans votre cabine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ils retentent le coup !" s'écrie [Specified 2].
+
+"Tuez ces ordures !" [Specified 0] vous pointe du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ils retentent le coup !" s'écrie [Specified 2].
+
+"Tuez ces ordures !" [Specified 0] vous pointe du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vous pénétrez dans l'âme des mutins, découvrez leurs cauchemars et leurs peurs, et les tirez à la surface. Les marins tombent à genoux, tremblant et pleurant tandis que vous vous tenez au-dessus d'eux impérieusement.
+
+Le reste de l'équipage vous regarde dans un silence horrifié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Votre beuglement, attisé par une essence bouillonnant de colère, déferle sur l'équipage.
+
+Les matelots tombent à genoux, mutins comme loyalistes, tremblant de peur tandis que vous les dominez, le regard farouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Les mutins tombent à genoux, tremblant et pleurant face au pouvoir de votre compagnon.
+
+Le reste de l'équipage vous regarde tous deux dans un silence horrifié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 5] se précipite aussitôt en avant, poussant un rugissement de rage effrénée à l'adresse des mutins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 0] serre les dents et attrape nerveusement son pistolet. Le chien s'accroche dans la ceinture et le coup part, transperçant le pont. 
+
+Vous traversez le nuage de fumée et plantez votre pied dans la poitrine du mutin, propulsant [Specified 0] par-dessus le bastingage et l'envoyant rebondir contre la coque avec des craquements sinistres. Lorsque vous regardez par-dessus la rambarde, vous voyez le cadavre du marin flotter sur le ventre.
+
+Vous vous retournez et voyez les matelots lâcher leurs pistolets et épées sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>En se redressant, [Specified 0] vous pointe du doigt. "Tuez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous continuez sur votre lancée, dérapant, cherchant à reprendre appui avant de vous arrêter. [Specified 2] glousse.
+
+"Bien essayé", dit [Specified 0], tout en dégainant lentement son épée. "[Specified 4] m'a parié que vous n'aviez même pas &lt;i&gt;ça&lt;/i&gt; en vous. Je récolterai mes gains directement sur votre cadavre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Attention à vous", lance [Specified 1] aux mutins d'un ton lugubre.
+
+"Personne ne vous a demandé votre avis", réplique [Specified 0]. "Très bientôt, vous allez devoir calculer le prix de votre loyauté, [Specified 1]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

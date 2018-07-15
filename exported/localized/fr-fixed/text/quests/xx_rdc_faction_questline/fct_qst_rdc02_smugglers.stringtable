@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc02_smugglers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une précieuse cargaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrouver Widla en mer au lieu de rendez-vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler à la hazanui Karū dans son bureau à la Citadelle de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parler au maître de la flotte Okaya, à Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parler au maître de la flotte Okaya, à Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La hazanui Karū m'a demandé de récupérer une importante cargaison et de l'acheminer sur l'île de Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Widla&lt;/b&gt; et son équipage attendent à un endroit pré-déterminé, &lt;b&gt;à l'ouest de Neketaka&lt;/b&gt;. Je dois la retrouver là-bas pour récupérer la cargaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La hazanui Karū a une mission pour moi. Son bureau se trouve à l'étage principal du poste de commande impérial, à la Citadelle de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai payé le prix de la contrebandière et acquis la cargaison. Il ne reste plus qu'à la livrer au port de Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai tué les contrebandiers et pris la cargaison. Il ne reste plus qu'à la livrer au port de Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>La hazanui se trouve actuellement au palais, avec la reine et les dirigeants vailiens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Une scientifique du nom d'&lt;b&gt;Iverra&lt;/b&gt; s'était cachée dans la cargaison pour passer clandestinement. Elle affirme qu'elle a à faire à &lt;b&gt;Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Iverra&lt;/b&gt; et moi-même sommes arrivés à &lt;b&gt;Sayuka&lt;/b&gt; sains et saufs. Elle est partie à la rencontre de ses contacts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai livré la cargaison à Sayuka, comme on me l'a demandé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je me suis attiré le courroux de la Compagnie royale du Feu éteint, ils ne veulent plus rien avoir à faire avec moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>La hazanui Karū a sollicité mon aide pour une question délicate.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

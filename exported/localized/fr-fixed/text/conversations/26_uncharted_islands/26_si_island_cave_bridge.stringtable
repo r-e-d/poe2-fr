@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_island_cave_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Après des heures passées à vous frayer un chemin dans les broussailles et les plantes grimpantes des contreforts, vous atteignez l'entrée d'une grotte en bord de mer.
+
+Les vagues viennent s'écraser derrière vous. Les mouettes plongent et piaillent au-dessus de votre tête. La grotte est grande et bâille dans la paroi de la falaise comme la gueule d'un carnassier immense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Plus vous vous enfoncez dans la grotte, plus l'air se rafraîchit. Bientôt, vous voyez de la buée sortir de votre bouche.
+
+Le chemin dans la grotte descend abruptement et suit un virage serré. Il semble retourner vers la mer, et vers une île de l'autre côté d'un chenal étroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Entrer dans la grotte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Après quelques centaines de pas de descente, le chemin s'aplanit. Quelque chose attire votre attention, et vous vous agenouillez pour l'examiner. Des empreintes de kith dans le sable, probablement fraîches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Quelques heures plus tard, vous vous retrouvez face à une paroi fendu par une ouverture tout juste assez large pour vous permettre de passer. Vous vous glissez à travers, et vous émergez sur une île de l'autre côté du chenal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous vous faufilez à nouveau à travers l'étroite ouverture, en vidant vos poumons pour passer, et revenez dans le passage souterrain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Quelques heures plus tard, vous descendez épuisé de la grotte et vous vous retrouvez sur l'île de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous tournez le dos à la grotte et vous reprenez votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

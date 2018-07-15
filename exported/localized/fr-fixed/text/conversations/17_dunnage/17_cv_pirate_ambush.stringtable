@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_pirate_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ça alors, si ce n'est pas le nouveau partenaire commercial de Harker. Vous avez échangé tous deux une somme d'argent considérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'était une affaire unique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'est-ce que ça peut vous faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquer] "Vous êtes sur ma route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"D'accord. On sait tous que ça démangeait Harker de sortir de sa retraite pour s'approprier une plus grande part du gâteau que constitue Dunnage.
+
+"Il convoite un siège au Conseil, je le parierais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"On sait tous que Harker prévoit de sortir de sa retraite pour s'approprier une plus grande part du gâteau que constitue Dunnage. Il désire peut-être même voler un siège au Conseil ! 
+
+"On ne peut décemment pas laisser quelqu'un de votre réputation le soutenir, vous ne croyez pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je pense lui envoyer votre tête pour lui rappeler qu'il ferait mieux de s'en tenir à son commerce de grog et de lits infestés de punaises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Mentir] "Qui ? Jamais entendu parler de ce Harker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ne vous fatiguez pas à mentir : plusieurs de mes hommes vous ont vu au Cercueil du roi. Il semble que Harker embauche de nouveaux hommes de main et reprenne ses activités.
+
+"Et je ne peux pas le permettre, vous le comprenez bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nous ne sommes pas partenaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Harker est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"M-m-mort ?! Le Roi rouge ?!" Le pirate bafouille, désemparé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Non...attendez une seconde. C'est encore un de ses stratagèmes, n'est-ce pas ? Oui, ça doit être ça. Et je n'aime pas être dupé."
+
+Une dent en or luit lorsqu'il ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

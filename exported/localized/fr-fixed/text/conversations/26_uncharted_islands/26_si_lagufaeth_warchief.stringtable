@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_lagufaeth_warchief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Un groupe de lagufaeths se tient en cercle autour de quelques emblèmes primitifs. Ils se balancent d'avant en arrière, chantant dans une langue gutturale et sifflante. Ils ne semblent pas vous avoir remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Attaquer les lagufaeths]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous vous éclipsez avant que les lagufaeths ne vous repèrent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Vous faufiler derrière les lagufaeths]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Les lagufaeths ont un mouvement de recul, leurs yeux globuleux écarquillés de peur. Ils brandissent leurs armes et les agitent vers vous d'un air menaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Tandis que vous vous approchez furtivement des lagufaeths, les emblèmes à leurs pieds se mettent à luire, les avertissant de votre présence. Dans un concert de sifflements, ils se ruent sur leurs armes et vous tombent dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

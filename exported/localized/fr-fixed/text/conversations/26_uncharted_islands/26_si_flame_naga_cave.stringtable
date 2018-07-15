@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_flame_naga_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous hissez sur le palier. Une grotte s'ouvre devant vous. De grands nuages de fumée noire et poisseuse s'échappent, tels une exhalaison, de l'entrée de la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Entrer dans la grotte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Descendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Devant vous se dresse le versant escarpé d'une montagne. Des gravats et des broussailles vous barrent la route, mais des rochers et des zones d'érosion pourraient aussi vous fournir de bonnes prises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Une nuée de chauve-souris surgit des petites cavités dans le versant de la montagne. Quand elles vous survolent, vous les esquivez habilement en vous baissant.
+
+Le nāga siffle et agite les bras, invoquant des ténèbres un nuage de feu vif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Une nuée de chauves-souris surgit des petites cavités dans le versant de la montagne, vous prenant au dépourvu. Les chauves-souris vous percutent, et vous envoient dans un tas de rochers pointus.
+
+Le nāga siffle et agite les bras, invoquant des ténèbres un nuage de feu vif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Une nuée de chauves-souris surgit des petites cavités du versant de la montagne. [Specified 0] ne se baisse pas à temps, et prend les chauves-souris de plein fouet. [Specified 0] dégringole et atterrit sur un tas de rochers pointus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le nāga commence à incanter d'une voix profonde et sifflante. Les chauves-souris, hurlant et battant furieusement des ailes, se regroupent en une nuée au dessus de vous, puis fondent sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous vous frayez un chemin dans la fumée, les larmes aux yeux et les poumons brûlants, et atteignez la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous en avez assez de cette montagne. Vous redescendez par où vous êtes arrivé et reprenez votre exploration de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous débutez votre difficile ascension du versant de la montagne. Vous atteignez bientôt sur une petite corniche plate sur le versant.
+
+Vous vous hissez sur la corniche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>La montagne vous domine, si haute qu'elle semble percer le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Gravir la montagne]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Descendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous quittez le flanc de montagne et reprenez votre exploration de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Un nāga portant une tenue haute en couleurs se dresse sur la corniche, les bras levés au-dessus d'un totem délabré.
+
+Le nāga vous aperçoit et a un mouvement de recul, laissant échapper un long sifflement perçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Escalader le flanc de montagne]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Entrer discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lancer un explosif sur le totem]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Dégainer vos armes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous allumez en hâte l'explosif et le jetez sur le totem. La détonation envoie des morceaux de totem sur tout le palier. Le chaman nāga émerge indemne de la fumée, ses yeux de fouine braqués sur vous.
+
+Un cri strident retentit dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1] allume l'explosif et le jette sur le totem. La détonation envoie des morceaux de totem sur tout le palier. Le chaman nāga émerge indemne de la fumée, ses yeux de fouine braqués sur [Specified 1].
+
+Un cri strident retentit dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Vous jetez l'explosif vers le totem, mais vous ne le lancez pas assez vite, et il explose en l'air.
+
+Un cri strident retentit dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous soupesez votre arme et tentez d'intimider le chaman nāga. Mais alors que vous pensez qu'il va attaquer, un cri strident retentit dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous faites demi-tour pour redescendre de la montagne, mais vous hésitez lorsque vous entendez un cri strident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1] jette l'explosif vers le totem, mais pas assez vite, et il explose en l'air.
+
+Un cri strident retentit dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

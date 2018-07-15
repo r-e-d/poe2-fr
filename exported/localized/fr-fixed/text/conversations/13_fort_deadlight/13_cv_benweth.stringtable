@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_benweth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>137</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le capitaine renverse la tête en arrière et avale à grands traits le contenu d'une bouteille vert sale. Lorsqu'il vous remarque, il lance la bouteille contre le mur, où elle s'écrase en projetant du verre sur le luxueux plancher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous avez des burnes d'airain pour faire irruption ici après que l'alarme a sonné. Pourtant, votre visage ne m'est pas familier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Le capitaine se passe la main dans ses cheveux humides et éponge la sueur de son front. Avec un sourire sinistre, il envoie un baiser à l'un de ses matelots dans la foule. Puis il darde violemment les yeux sur votre visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bouche bée, le capitaine cherche à reprendre son souffle. Tandis qu'il regarde son navire s'éloigner, ses sourcils s'affaissent tel un violent orage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Laissez ça, espèce de mignon d'eau douce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je ne connais rien de pire que de voir le fond d'une coupe vide. Je ferais mieux de me verser encore du grog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'est-ce que j'entends ? On organise une fête sans moi ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh, d'accord ! Vous voulez m'entendre jouer, moussaillons, c'est ça ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Prêtez l'oreille à ce délice absolu ! Vous n'avez jamais entendu de plus douce mélodie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Qui a sonné la cloche, et pourquoi ?! J'espère que ce n'est pas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Par les profondeurs obscures de Hel ?! Arrêtez ! Arrêtez, c'est mon navire, nom d'Ondra !!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que la malepeste emporte ces maudits enfoirés ! Je les noierai jusqu'à ce que mort s'ensuive !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je vous écorcherai le visage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Est-ce que je vous connais ?" Il se frotte la nuque d'un air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Eh bien, vous ne seriez pas le premier avec qui je me brouille et que j'oublie aussitôt."</DefaultText>
+      <FemaleText>"Eh bien, vous ne seriez pas la première avec qui je me brouille et que j'oublie aussitôt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Une bonne beigne sur le coin de la figure devrait vous rafraîchir la mémoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pas du tout. Je ne suis absolument pas venu me venger de vous."</DefaultText>
+      <FemaleText>"Pas du tout. Je ne suis absolument pas venue me venger de vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"C'est le genre de chose qui arrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vraiment ?! Vous ne vous souvenez pas de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Pour que ça marche, il faudrait déjà que vous parveniez à me toucher. Et il n'est pas question que je vous laisse faire."
+
+Il éclate d'un gros ricanement râpeux, les bras croisés sur la poitrine, muscles saillants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh. Très bien, alors. Et je vous crois absolument... pas du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Eh bien, il faut avouer que vous avez un visage assez quelconque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ah, oui. Vous êtes le capitaine du sloop qui s'est fait prendre dans les tempêtes. Je présume que vous avez liquidé mon équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Il ricane de toutes ses dents tordues, puis gratte de ses doigts calleux la cicatrice qui lui balafre le visage. Cependant, vous remarquez que, ce faisant, il lance des regards en tous sens pour chercher des renforts.
+
+Des renforts qui n'existent pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous vous rendez compte que vous êtes cerné par des pirates ? Des pirates armés, et qui me sont fidèles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous vous rendez compte que vous vous trouvez à l'endroit le mieux gardé de tout Mortelume ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Qu'espériez-vous accomplir en venant ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Personne ne va venir vous sauver, mon petit Benny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"La plupart des pirates sont trop ivres pour se battre. Le reste se contentera de profiter du spectacle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je suis arrivé jusqu'ici sans difficulté."</DefaultText>
+      <FemaleText>"Je suis arrivée jusqu'ici sans difficulté."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je suis ici pour vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Attaquer] "Ce sera plus facile si je vous montre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>De la sueur lui dégouline sur le visage. Il grimace en s'essuyant la joue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Il sont peut-être dans le cirage, en effet."
+
+Il se renfrogne puis redresse les épaules, refusant d'abandonner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eh bien, que voilà une personne courageuse et adroite. Je suppose que ça mérite un certain respect de ma part." Il penche la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vous en prie, faites la queue. Vous n'êtes pas le premier et vous ne serez pas le dernier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"D'accord. J'ouvre grand les yeux." Ricanant à demi, il dégaine son pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous pouvez m'affronter si ça vous chante. Mais vous ne quitterez pas cette forteresse vivant."</DefaultText>
+      <FemaleText>"Vous pouvez m'affronter si ça vous chante. Mais vous ne quitterez pas cette forteresse vivante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Lui rire férocement au visage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Imaginons qu'il existe un moyen de régler ça en évitant un bain de sang..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Personne ne vous a jamais appris à garder vos amis près de vous, mais vos ennemis plus près encore ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous préférez que je vous fasse passer sous la quille ou que je vous pende à l'extrémité d'une vergue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je suis prêt à conclure un marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Fermez-la et réfléchissez une minute. Il vous faut quelqu'un comme moi dans votre camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Furrante complote pour vous éliminer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Votre manque de retenue met en danger la prospérité future des Príncipis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous êtes fou à lier ?" Son visage se vide de toute couleur, faisant ressortir nettement la cicatrice sur sa peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dans ce cas, j'écouterais..." Les yeux plissés, il s'humecte les lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Et donc je devrais vous garder tout contre moi, c'est ça ?"
+
+Il sourit, ce qui, venant de lui, se mue en une sinistre expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Écoutez, je n'ai pas peur mais je ne suis pas suicidaire non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Pour l'un comme pour l'autre, il faudrait déjà que vous m'attrapiez vivant. Ce qui ne risque pas d'arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"J'aime conclure de bonnes affaires. Surtout quand elles sont en ma faveur." Il esquisse un sourire de requin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous voulez dire quelqu'un d'impitoyable, un dur à cuire ? C'est ce que je vois en vous. Vous avez un cœur de pirate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Attention à ce que vous allez dire, car je vous ferai volontiers manger vos entrailles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Évidemment qu'il complote. C'est un pirate, non ? Il sait reconnaître ce qui menace sa survie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"J'ai l'impression d'entendre le perroquet de Furrante." Il pousse un grognement de dédain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Contrairement à vous, apparemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Continuez de piailler et je vous embroche par le gosier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Pourquoi avez-vous attaqué mon navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Qui est cette capitaine Aeldys dont on me rebat les oreilles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Hors de ma vue avant que je vous tue vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Faire mine de le frapper à la gorge]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"J'attaque quasiment tous ceux qui croisent mon chemin. Allez savoir à côté de quels trésors on peut passer si on ne cherche pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sans le Drake, toutefois, je ne risque pas d'attaquer qui que ce soit avant un moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous vous trouvez tout bonnement dans sa forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je crois qu'elle ne va pas être contente qu'on ait bu ses réserves spéciales. Il va falloir que je trouve le bon bouc émissaire à accuser à ma place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous parlez comme un homme, un vrai."</DefaultText>
+      <FemaleText>"Vous parlez comme une femme, une vraie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"La mort par ingestion de vos entrailles, adjugé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je suis ici pour vous donner une leçon, mais vous n'aurez pas forcément à la payer de votre sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Vous commencez à comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"N'y a-t-il aucun moyen de régler ça pacifiquement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Il faut du doigté pour exécuter correctement ce supplice, sans quoi la victime se vide de son sang avant de pouvoir s'étouffer.
+
+"Vous êtes sûr de vouloir vous mesurer à moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"En effet, je suis suffisamment riche pour acheter toute votre miséricorde. Qu'est-ce que ce sera, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Très bien, admettons que vous m'ayez convaincu. Je peux être un allié de poids pour ceux qui ont gagné ma loyauté.
+
+"Et pour l'instant, c'est vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je ne crois pas, non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Si vous avez besoin de moi, je serai dans les quartiers d'Aeldys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Logique, j'aurais dû rester pour vous tuer moi-même. Apparemment, je vais devoir y remédier, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Et si je vous dis : « Je poserai votre crâne en trophée dans ma cabine. »"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je vous réponds que ça prend le temps qu'il faut, mais que vous savez mettre vos menaces à exécution." Il rit durement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Faire un geste obscène de la main]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ça ne me rappelle toujours rien." C'est du moins ce qu'il prétend, car il affiche un large sourire et un regard brillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous avez essayé de me livrer votre navire au milieu d'une horrible tempête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ah bon ? Ça me rappelle vaguement quelque chose..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'est ce que vous pensiez que je répondrais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Maintenant, c'est un combat à mort." Vous transperçant d'un sourire féroce, il dégaine son pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Peut-être que je voulais simplement discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Dans ce cas, chantez. Et faites vite. Parce que si vous avez des idées louches, je peux vous dire que..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Même moi je sais reconnaître ma défaite, oui." Il déglutit péniblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Pour que je nous estime quittes, il en faudra plus que quelques-unes." Avec un grognement, il jette une lourde sacoche à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tonnerre de feu !"
+
+L'émotion lui empourpre le visage avant qu'il puisse se ressaisir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"C'est notre chef à tous, nous les nouvelles recrues que le règne étouffant de Furrante exaspère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Notre commandante doit être en mer à l'heure qu'il est, mais elle ne va pas tarder à revenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je vais rappeler les navires qui vous pourchassaient en mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Quant à la forteresse, mon équipage vous laissera l'arpenter à votre guise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Je ne refuserais pas quelques pièces pour me lester les poches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Quelque chose de luxueux pour équiper mon navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Chantez mes louanges à tous les équipages qui accostent à Mortelume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"J'ai précisément ce qu'il vous faut. Rien ne sera plus majestueux dans vos quartiers de capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Tous les pirates qui passeront par ici entendront parler de votre force et de votre ruse, vous pouvez me faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Personne ne fait la fête sans Benny !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je crois que j'ai promis de transformer votre ami en pantalon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Le frapper au ventre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Lui donner une claque]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Par les ténèbres de Hel !" Avec un craquement, sa tête est projetée de côté. Du sang en jaillit, et Benweth cherche son arme à tâtons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>L'air est expulsé de ses poumons, et le capitaine se plie en deux, les dents serrées, les lèvres ensanglantées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Espèce d'enfoiré !" Il tombe sur l'un de ses genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Le frapper une nouvelle fois]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Faire craquer vos articulations]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Attendez, attendez !" Il essaye d'essuyer de la main le sang sur sa bouche, mais ne fait que l'étaler sur son menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous observant avec méfiance, il crache du sang sur le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Mais je suis entouré de cœurs sombres. Un de plus ou un de moins..." Il ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Si nous nous affrontions, vous ne feriez que vous ridiculiser et mourir, et pas forcément dans cet ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je crois que vous commencez à me plaire, mon gars. Peut-être que je ne vous dépècerai pas vivant, juste pour voir où ça nous mène... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ravi que nous ayons trouvé un terrain d'entente, ou du moins quelque chose qui y ressemble." En ricanant, il passe la langue sur ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Partir] "À plus, l'ami."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Il jette des regards nerveux autour de lui, s'humectant les lèvres. Des gouttes de sueur perlent sur sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Il jette des regards nerveux autour de lui, s'humectant les lèvres. Des gouttes de sueur perlent sur sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Il jette des regards nerveux autour de lui, s'humectant les lèvres. Des gouttes de sueur perlent sur sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Si quelqu'un doit mourir étranglé par ses propres tripes, ce sera vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Vous vous jetez sur le capitaine narquois, mais il s'avère plus rapide que vous... et étonnamment agile compte tenu de sa masse imposante ; il se baisse et esquive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ce corniaud vous importune, Ben ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Bah ! Il était temps que quelqu'un fasse manger ses dents à Benny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Parlez pour vous, espèce de vipère. Tant que je serai là, aucun étranger ne lèvera la main sur l'un des nôtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Pointer chaque pirate du doigt et passer votre pouce en travers de votre gorge]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Je viens de la part du Conseil des capitaines. Vous tenez aussi à vous opposer à Furrante ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"J'en ai déjà étripé plein, des comme vous. Alors, quelques-uns de plus..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Attaquer] "Alors, venez vous battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Qu-quoi ? Ne me regardez pas comme ça. D'abord, je ne comptais même pas intervenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Sacrebleu ! Il est déjà neuf heures passées ? Je, euh, dois aller donner un coup de main aux autres pour charger la cargaison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Vous vous foutez de moi ? Où allez-vous, comme ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Désolé, Ben, mais je... Je crois que mon capitaine m'appelle. Je vous paierai une pinte tout-à-l'heure, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Les misérables vauriens." Le capitaine laisse glisser sa main sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Que disiez-vous déjà, au sujet des pirates ici... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Maintenant, c'est un combat à mort." Vous transperçant d'un sourire féroce, il dégaine son pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Aeldys n'a jamais ce genre d'ennui. Bon, crachez le morceau. Que voulez-vous de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Vous l'avez entendu, les gars."</DefaultText>
+      <FemaleText>"Vous l'avez entendue, les gars."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Agaçant, n'est-ce pas ?" Il recule, esquivant avec un éclat de rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

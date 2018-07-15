@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_pallegina_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>253</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Comme nous nous retrouvons, Gardien. Je croyais qu'après la crise des sans-âme, nous ne nous reverrions plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ça ne s'est pas passé exactement comme prévu, mais tout s'est bien terminé."
+
+Elle regarde les cinq soleils de sa cuirasse, esquisse un petit sourire et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je n'aurais jamais cru me retrouver en compagnie du Gardien de Caed Nua, et encore moins sur l'ordre d'un canta."
+
+Son expression fluctue entre l'amusement et la contrariété.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gardien."
+
+Elle vous adresse un hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous vouliez me parler de quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Très bien, en effet. Je suis heureux que vous avoir de nouveau à mes côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Assez bien, je suppose. Même si ce n'est pas exactement ce que nous espérions l'un ou l'autre, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Formidable pour vous. Moi, j'ai perdu mon château et j'ai failli mourir. Mais apparemment, ça ne vous intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"En effet. Je suis heureux que vous avoir de nouveau à mes côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"« Bien terminé ? » C'est une façon de voir les choses, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Même si ça ne vous intéresse pas, mon château a été détruit et j'ai failli mourir. Alors, je trouve un peu exagéré de dire que « tout s'est bien terminé »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je sais que vous ne souhaitiez pas mon malheur, et je vous suis reconnaissante pour ce que vous avez dit à la Jetée de la reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je sais que mon bien-être vous importe peu, mais, dans notre intérêt mutuel, je vais tâcher de faire en sorte que tout se passe bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Et, pour qu'il n'y ait pas d'ambiguïté, si le canta ne me l'avait pas ordonné, je ne me serais jamais associée avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'ai entendu annoncer votre arrivée à la Jetée de la reine, mais je n'y ai cru que lorsque le canta Nicese m'a convoquée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Belfetto."
+
+Elle hoche respectueusement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Troublée, elle reporte son regard sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Elle cligne les membranes de ses yeux et son regard se reporte brusquement sur vous. Son visage entier se fronce de contrariété.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Racontez-moi ce qui s'est passé après que nous avons vaincu Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Quelle est votre opinion sur les événements concernant Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que pensez-vous du Feu éteint jusqu'à présent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Comment allez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Quand nous nous sommes séparés, je suis retournée aux Républiques pour rendre compte de ma mission aux ducs bels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Dans un premier temps, l'accord commercial s'est avéré profitable pour les Républiques. Les ducs m'ont comblée d'honneurs pour avoir contribué à obtenir des conditions si avantageuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Quoi qu'il, ou plutôt &lt;i&gt;ils&lt;/i&gt; au pluriel, manigancent, ça n'augure rien de bon pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Eh bien, même s'il s'intéresse tout spécialement à vous, je doute qu'il soit moins fou que ce que j'avais prédit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ses yeux dorés pétillant, elle éclate d'un rire teinté d'ironie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Peu importe l'endroit où on m'envoie en mission. Je crois cependant que le Feu éteint peut s'avérer profitable aux Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"J'en ai par-dessus la tête de Tekēhu. Si vous avez la moindre influence sur lui, per complanca, faites-lui entendre raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Xoti." Elle lève ses yeux dorés au ciel et agite la main avec dédain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ma mission consiste à vous aider, Gardien, mais mon assistance a des limites."
+
+Elle vous regarde dans les yeux, impassible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Bien. Je n'ai aucun problème, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je dois avouer que notre expédition aux Ormes jumeaux s'est bien terminée pour nous deux."
+
+Elle vous adresse l'un de ses rares sourires et ajuste sa ceinture rouge autour de sa cuirasse. Après un moment, elle tourne la tête, le regard dans le vide, et son sourire s'estompe avec un tic de défiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ce n'est pas faux, Gardien. Nous n'obtenons pas toujours ce que nous voulons, même quand nous faisons de notre mieux."
+
+Vos paroles semblent avoir rapidement étouffé l'étincelle de joie qui brillait en elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Eh bien, vous respirez encore, non ?"
+
+Elle chasse sa frustration d'un haussement d'épaules et d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Peut-être que les choses se passeront mieux pour nous deux, cette fois-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Elle ponctue sa remarque d'un geste de la main droite, balayant l'air dans votre direction puis vers le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"L'accord commercial que nous avons négocié avec l'anamenfath s'est avéré très lucratif pour les Républiques. Le Dyrwood, qui était encore en plein rétablissement après l'Héritage de Waiden, n'était pas en mesure de nous concurrencer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les ducs bels étaient si satisfaits de mon succès que j'ai été nommée garde personnel de la duchesse Spirento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Spirento est la plus belle de toutes les républiques et, même si je ne devrais pas l'admettre, j'apprécie la duchesse davantage que tous les autres ducs bels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Néanmoins, nos profits se sont faits aux dépens du Dyrwood. Les fruits de la victoire étaient moins doux sachant que le Dyrwood souffrait à cause de mes actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ils étaient furieux, évidemment. J'ai eu de la chance de m'en sortir vivante. Ils m'ont dépouillée de ma cuirasse et en ont effacé les étoiles. Puis, ils m'ont mise sur un navire en direction du Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Mais, quand le Dyrwood a appris que ses relations commerciales avec Eir Glanfath étaient rompues, il a déclaré la guerre aux Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Nous avons perdu des dizaines de navires marchands et des milliers de citoyens. Le duc de Selona a même perdu la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"À la fin, nous avons dû revenir sur notre décision et rouvrir les routes commerciales entre le Dyrwood et Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Inconsciemment, je savais peut-être que c'était inévitable. Je regrette simplement que tant de mes compatriotes aient dû souffrir pour que mon instinct se vérifie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"J'ai navigué de port en port, travaillant comme garde pendant presque trois ans avant que la duchesse de Spirento me fasse savoir que ma présence était requise à Biageppe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Les ducs avaient finalement décidé que le commerce qui s'était développé entre Eir Glanfath, le Dyrwood et les Républiques était une aubaine sur le long terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Comme pour vous, je ne m'attendais pas à les revoir un jour. Je n'ai eu droit à aucune excuse, mais j'ai accepté la grâce de la duchesse de Biageppe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'ai expliqué qu'autoriser le Dyrwood à conserver des droits commerciaux avec Eir Glanfath serait bénéfique pour tous sur le long terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Au mieux, les dieux sont des enfants à la puissance démesurée. Au pire, ils sont à peine mieux que des bêtes sauvages qui passent leur colère sur notre monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Peu m'importe de savoir dans quelle catégorie ranger Éothas."
+
+Elle écarte cette pensée d'un revers de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mais c'est exactement comme la dernière fois, non ? Les dieux jouent à leurs petits jeux, puis nous laissent le soin de régler la note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Et je doute que Berath et les autres dieux considèrent votre « dette » envers eux acquittée. Toute, merla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vous et moi, nous devons trouver un moyen de retourner la situation à notre avantage. Di verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je dois reconnaître un mérite à Éothas. C'est le seul à voir à quel point les dieux sont corrompus et égoïstes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Cerise sur le gâteau, son plan, aussi fou soit-il, pourrait signer l'arrêt de mort de ses semblables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Leurs jours sont comptés et rien de ce qu'ils peuvent faire ne les sauvera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ça ne vous inquiète pas qu'Éothas arrête la Roue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ils finiront tous par recevoir ce qu'ils méritent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Et ça vous fait plaisir ? Qu'est-ce qui cloche chez vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Di verus."
+
+Elle serre la mâchoire et vous adresse un bref hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Attendez. Je ne veux pas que les dieux soient détruits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Pas du tout. Les animanciens répareront ce que les dieux ont perverti, et les Républiques seront en première ligne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Avec un peu de chance, dans quelques générations, les noms des dieux seront complètement oubliés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Elle pousse un grognement de dédain. "Apparemment, ce que vous voulez importe peu, Gardien. Pour une fois, je ne demande pas mieux que de laisser ce dieu réaliser ses ambitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"&lt;i&gt;Rien&lt;/i&gt; ne cloche chez moi. Les mortels se débrouillaient très bien avant que les Engwithans décident de jouer aux dieux. Nous nous porterons tout aussi bien quand ils auront disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Il faudra sans doute un moment aux animanciens pour réparer les dégâts causés par les dieux, mais je suis sûre qu'ils réussiront."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Si les ducs ont besoin de moi ici, je suis heureuse de les servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Apparemment, il estime que nous partageons une espèce de lien spécial au prétexte que nous sommes tous deux des « divins »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Di verus, le seul lien que je veux partager avec lui, c'est une ancre attachée à son cou."
+
+Elle ferme les yeux et souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Non, je suis trop dure. Autour de son pied, ça suffira. Per complanca, faites-le taire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"C'est une enfant. Elle pense comme une enfant, et elle agit comme une enfant. Si elle veut vivre dans un monde imaginaire, c'est son droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Mais les idées contraires aux siennes la blessent trop facilement. Les Readcerans sont-ils réellement si couvés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Quels que soient ses problèmes, ils ne concernent qu'elle. Si elle insiste pour m'impliquer là-dedans, elle va finir blessée, au propre comme au figuré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je vous suis, mais ce sont les Républiques de Vailia que je sers. Je ne m'attends pas à ce qu'un étranger partage mon patriotisme, mais n'agissez pas à l'encontre de nos intérêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les ducs, la Compagnie commerciale vailienne, même les grandes familles... je suis responsable de leur protection à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Si vous respectez cela, je vous respecterai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"J'ai échoué dans ma mission et je n'avais aucune excuse. Les Républiques avaient perdu une chance en or de commercer avec les Glanfathans, ce qui a rendu les ducs furieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ils m'ont chassée de la confrérie, ont effacé les soleils de ma cuirasse et m'ont mise sur un navire à destination du Readceras. Di verus, j'ai eu de la chance de m'en sortir vivante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"J'ai travaillé en tant que garde. Caravanes, navires, riches marchands. J'acceptais n'importe quoi. Après mon exil, j'ai perdu ma motivation comme ma fierté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Les années m'ont emmenée des Contrées orientales au Feu éteint. Certains diraient que c'est le destin qui nous a de nouveau réunis, Gardien. Mais vous devez déjà savoir ce que j'en pense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"C'est juste le hasard. L'avenir dira si c'est de la chance ou de la malchance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Alors, vous avez changé d'avis concernant mon offre de travailler avec les Républiques ?"
+
+Elle incline sa tête emplumée et vous regarde curieusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Oui. J'ai besoin de votre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Pas encore, non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Quand vous serez revenu à la raison, vous saurez où me trouver." Le canta Nicese m'a donné pour mission de vous aider... alors j'attends."
+
+Elle tape impatiemment du pied et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Bien."
+
+Elle vous adresse un bref hochement de tête et vient se placer à vos côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Que s'est-il passé entre vous et Maneha ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Pallegina se tourne lentement vers vous, les sourcils arqués, en clignant ses membranes nictitantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Cuè ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Vous et Maneha, vous étiez ensemble, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Euh... vous voyez ce que je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Maneha était une bonne campagna et une guerrière adroite, mais son imagination a eu raison d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Elle lève ses yeux dorés au ciel et serre la mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Apparemment, elle a aussi eu raison de vous."
+
+Du bout des doigts, elle appuie sur une plume de son poignet qui pointe dans la mauvaise direction et la plaque contre sa peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Gardien, si vous avez un moment, j'aimerais vous parler de quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Gardien, il est temps que nous ayons une petite discussion. Maintenant."
+
+Son attitude est froide, elle a les yeux mis-clos, les bras croisés, la mâchoire serrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je comprends que vous ayez des problèmes personnels à régler au Feu éteint, mais je suis ici au nom des Républiques de Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je ferai de mon mieux pour vous aider tant que vous restez supportable et que vous n'agissez pas à l'encontre des Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je commence à douter de vos allégeances et de votre caractère. Si ça continue, j'irai en rendre compte à mes supérieurs et je demanderai une nouvelle affectation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je suis désolé. Je n'avais pas l'intention d'agir contre vous ou les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Pallegina, veuillez comprendre que je me trouve dans une position délicate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Permettez-moi de vous éviter cette peine. Partez immédiatement. Je n'ai ni besoin ni envie de vous avoir en ma compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Bien. Comportez-vous en conséquence."
+
+Elle vous adresse un bref hochement de tête et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je ne comprends que trop bien. Les positions délicates nous mettent à l'épreuve. Voici votre épreuve. Agissez en conséquence."
+
+Elle vous adresse un bref hochement de tête et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Elle serre la mâchoire et souffle rageusement. Les plumes se dressent sur sa tête. Vous entendez ses dents grincer tandis qu'elle vous fixe du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Des deux mains, elle se lisse les plumes de chaque côté de sa tête. Sa mâchoire se détend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Gellarde."
+
+Pallegina vous adresse un regard impassible et un salut de la tête inexpressif avant de tourner les talons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Si vous me trahissez, je vous le ferai payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Essayez un peu. J'accepterais volontiers de mourir pour les Républiques. Mais, au moins, je sais maintenant à quoi m'en tenir vous concernant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Corès, Gardien. "
+
+Elle vous adresse un bref hochement de tête et tourne les talons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je vous sais gré de m'aider, d'aider les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je sais que vous avez une mission importante au Feu éteint, et que cette mission diffère de la nôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Toutefois, j'espère que vous verrez le potentiel des Républiques à améliorer la situation ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Je le vois très bien. Les Républiques font du bon travail ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Il y a du potentiel, en effet, mais la situation est compliquée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ne mettez pas la charrue avant les bœufs. Le chemin est encore long avant qu'on y voie plus clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Agracima. Corès." Elle vous adresse un large sourire et un hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Plutôt, oui, mais j'espère que vous continuerez de nous soutenir à l'avenir."
+
+Elle sourit et vous adresse un petit hochement de tête, mais l'ombre d'un doute lui contracte la commissure des lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Toute joie disparaît de son visage de même que l'hilarité d'un ivrogne disparaît devant la dure réalité des lueurs matinales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Corès."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vous aurais-je mal jugé ?"
+
+Elle recule pour vous jauger du regard, vous parcourant de ses yeux dorés tandis que clignent ses membranes nictitantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Vous êtes évidemment libre de choisir qui vous soutenez. Mais vous savez de quoi il en retourne me concernant."
+
+Elle vous adresse un hochement de tête guindé et tourne les talons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Gardien, je retourne auprès de mes supérieurs leur rendre compte de vos actions durant notre association. Je ne reviendrai pas."
+
+Elle serre les dents en attendant votre réponse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je suis désolé. Vous semblez fâchée. On ne pourrait pas en discuter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Quoi, vous espérez peut-être que je vais m'effondrer en larmes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Bien. Partez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Si vous avez des plaintes à formuler à mon encontre, faites-les parvenir au palais de la duchesse Spirento, per complanca."
+
+Un sourire sarcastique incurve la commissure de ses lèvres, mais elle se maîtrise et hoche brièvement la tête avant de tourner les talons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;link="neutralvalue://Vailian: Je souhaite à ton navire de couler, pauvre merde."&gt;"Peri chue na tuor nau bassenderi, merlanet."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Elle vous lance un rire sarcastique et secoue sa tête emplumée avant de tourner les talons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ado, gardien. Le canta Nicese m'a appelée. On dirait que, grâce à vous, les Républiques ont de nouveau besoin de moi."
+
+L'expression sur son visage est difficile à lire. Les commissures de ses lèvres se retroussent brièvement en un sourire, mais on peut lire l'inquiétude dans son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Est-ce que &lt;i&gt;vous&lt;/i&gt; avez besoin de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"J'aurai toujours besoin de vous, Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"J'imagine que oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Pas tout de suite, non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Non. Pourquoi voudrais-je d'une ratée qui s'est faite éjecter de son ordre de paladins ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Bien." Elle hoche la tête d'un mouvement sec et s'avance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Si vous changez d'avis, le canta Nicese m'a ordonné de rester à votre disposition."
+
+Elle vous adresse un lent hochement de tête avant de reculer d'un pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Ses lourdes paupières tombent sur ses iris dorés. Elle serre la mâchoire et expire par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Comme vous voudrez. Je ne suis là que parce que le canta m'a ordonné de venir. Auret augori avec le colosse, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Comme si une odeur pestilentielle venait de lui monter au nez, elle vous fait signe de partir d'un geste de la main et détourne la tête avec un sourire méprisant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Une fois de plus, il semblerait que vous m'ayez entraînée dans un divin bazar. Au moins cette fois-ci, nous pourrons voir les dieux recevoir ce qu'ils méritent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Et grâce à vous, c'est la Compagnie qui en sortira gagnante."
+
+Elle sourit chaleureusement et vous adresse un petit hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"J'aurais préféré que vous choisissiez de soutenir la Compagnie, évidemment, mais... J'imagine que les Huanas ont le droit d'être maîtres de leur propre destin, tant que les Républiques n'en pâtissent pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"J'aurais préféré que vous choisissiez de soutenir la Compagnie, évidemment, mais... tant que les Républiques n'en pâtissent pas, les Príncipis ont droit à leur part du butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je suis honorée d'avoir servi à vos côtés, Gardien. Vous êtes, et serez toujours, mon camerata."
+
+Elle s'avance vers vous et tend la main. Elle a la tête haute, et une flame bleue danse dans les pupilles de ses yeux dorés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Vous êtes un campagna honorable et je suis fière d'avoir de nouveau servi à vos côtés."
+
+Elle claque des talons et vous adresse un brusque salut, la main sur le cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Il est vrai que n'étions pas toujours d'accord, mais... Je suis ravie que nous ayons surmonté tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Lui retourner le geste en avançant et en serrant son avant-bras]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Lui adresser un salut en retour]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Notre voyage aura été dur, mais il touche bientôt à sa fin. Menons-le à bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"De même. À présent, menons à bien notre aventure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Pas si vite. Ce n'est pas fini. Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Alors que vous vous serrez chacun un bras, une vague de chaleur émanant de Pallegina traverse votre corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>La chaleur physique s'accompagne d'une chaleur émotionnelle, une fierté et un amour profonds pour son pays et son peuple.
+
+Vous entrapercevez la myriade de villes des Républiques de Vailia, les ducs bels et les panits. Vous voyez des marchands, des artistes et des animanciens en plein commerce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Vous voyez aussi les visages de nombreux autres paladins de la Confrérie des Cinq soleils. Bien que vous ne sentiez pas de chaleur de sa part à leur égard, vous ressentez toujours cette même fierté et ce même respect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Enfin, vous voyez votre propre visage parmi la foule des chefs et des sommités vailiens. Vous pouvez sentir l'admiration qu'a Pallegina pour vous en tant que champion de son pays.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Et puis, petit à petit, la chaleur s'évanouit. Vous contemplez de nouveau le visage serein de Pallegina.
+
+Elle place son autre main sur la vôtre avant de hocher la tête et de relâcher votre bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Partons. Éothas nous attend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Elle hésite un instant puis fait un pas en arrière, l'air hébété. Sans mot dire, elle porte la main à sa hanche.
+
+Regardant au loin, elle hoche la tête dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Un sourire se dessine sur son visage quand vous lui rendez la pareille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Bien sûr. Après vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Gardien, j'aimerais vous parler, si vous avez un moment."
+
+Pallegina arbore un sourire tranquille. Dans les pupilles sombres de ses yeux dorés, vous voyez danser une flamme bleue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"J'apprécie que vous m'ayez aidée avec Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Sans vous, je n'aurais pas pu le sauver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Même si nous n'avons pas pu le sauver, sans votre aide, je ne l'aurais peut-être jamais retrouvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Et ça m'a fait réfléchir à l'avenir de l'animancie, surtout dans les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Je sais que l'amour que j'ai pour mon pays peut vous paraître étrange. Parfois, il me paraît même étrange à moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Même si je ne partage pas vos croyances, je vous comprends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ce n'est pas étrange du tout. Je pense que les Républiques de Vailia vont nous mener vers l'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"C'est un peu étrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Ses lèvres s'ouvrent en un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Elle sourit avec modestie et acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Elle vous adresse un faible sourire en haussant les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Les Républiques sont le seul amour que j'ai jamais connu. Je donnerais tout ce que j'ai pour elles, pour notre peuple, pour notre avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"C'est logique. Vous leur avez consacré votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Le seul amour ? N'avez-vous jamais aimé quelqu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ce sont ses chefs et son peuple qui font la réputation d'un pays. Vous ne devriez pas avoir foi en quelque chose d'aussi fragile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Ce n'est pas sans motif. Et ce n'est pas parce que j'ai été choyée dans les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"J'ai parcouru le monde et vu de nombreux peuples, villes et cultures magnifiques. Je crois toujours, en mon âme et conscience, que les Républiques de Vailia nous mèneront vers l'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Elle incline sa tête emplumée, réfléchissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Si aimer signifie ressentir ce que je ressens pour mon pays, non. Mon amour ne se réduit pas à une personne ou aux ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Un pays ne se résume pas à ses chefs et à son peuple. Il ne se résume pas à ses villes, ni aux terres qui les entourent. Il y a un esprit entre nous. Il nous relie. Il nous transcende en tant qu'individus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Il y a un esprit entre nous, tout mon peuple, qui transcende les individus, qu'ils soient citoyens ordinaires ou chefs. Il nous lie tous et nous pousse à aller de l'avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"C'est ce qui nous pousse à créer, à apprendre, à repousser les limites de ce que nous connaissons d'Eora, des Limbes et de l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"C'est un esprit qui vit dans le cœur de chaque Vailien, et c'est ce qui me donne la force de croire qu'un avenir meilleur attend Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Je comprends. Je le sens aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Pourquoi me dites-vous ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Je ne partage pas votre enthousiasme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Gellarde!"
+
+Vous apercevez une flamme bleue qui brille au fond des yeux de Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Parce que, Gardien, vous marchez parmi les plus grandes puissances d'Eora et de l'Au-delà"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Un jour viendra où c'est votre main qui décidera du sort des peuples du Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Quand ce jour viendra, j'espère... J'&lt;i&gt;espère&lt;/i&gt; que vous verrez l'avenir tel que je le vois."
+
+Au fond des yeux de Pallegina, vous voyez une flamme bleue briller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"&lt;i&gt;Vous&lt;/i&gt; n'avez pas prêté serment aux Frermàs mes Canc Suolias. Personne ne vous demande de le faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Pourtant, il se pourrait qu'un jour ce soit votre main qui décide du sort des peuples du Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"En attendant, corès."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Vous savez quel avenir les Républiques peuvent apporter, tout comme vous savez qu'il se pourrait qu'un jour prochain ce soit votre main qui décide du sort des peuples du Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Quand ce moment viendra, je crois que... Je &lt;i&gt;sais&lt;/i&gt; que vous verrez l'avenir du même œil que je le vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Gardien, je dois vous dire que vous avez pris une excellente décision. Les Républiques ne vous laisseront pas tomber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Gardien, je dois émettre une objection. Quel que soit votre plan pour vous attirer leurs faveurs... les pirates ne peuvent venir si ça doit coûter à la Compagnie son moulin d'adra lumineux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Calmez-vous. Je n'ai aucune intention de voler le moulin d'adra lumineux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Eh bien, nous verrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Au cas où vous ne l'auriez pas remarqué, je me fiche de la Compagnie commerciale vailienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Bien."
+
+Elle acquiesce, mais il y a encore dans ses yeux une trace de méfiance quand elle détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Je vous préviens, si vous vous opposez à la Compagnie commerciale vailienne, je révèlerai vos agissements."
+
+Elle agite le doigt dans votre direction avant de secouer la tête et de se détourner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Gardien, vous m'avez mis dans une position telle que je dois vous quitter sans attendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"La Compagnie royale du Feu éteint est non seulement un ennemi pour la Compagnie commerciale vailienne, mais, di verus, c'est aussi un ennemi pour les Républiques elles-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"J'ai visiblement été incapable de vous dissuader de vous allier avec nos ennemis, et je dois donc partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"À tous points de vue, les Príncipi sen Patrena valent à peine mieux que des pirates qui dépouilleraient Ukaizo de tous les fragments d'adra lumineux qu'ils pourraient arracher sur son sol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Il s'est écoulé plus de deux mille ans depuis la dernière fois qu'un Huana a mis les pieds sur Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Si vous les laissez la revendiquer, ils empêcheront &lt;i&gt;tout&lt;/i&gt; animancien d'étudier les machines qu'Éothas s'apprête à détruire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Si on les laisse faire, les animanciens ne pourront jamais trouver ni étudier les machines qu'Éothas s'apprête à détruire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"S'ils revendiquent Ukaizo, elle sera convertie en un énième port militaire, en une nouvelle fonderie pour les canons, en un autre chantier naval pour construire une plus grande flotte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Tout l'adra lumineux, ainsi que l'ensemble des machines engwithanes que les animanciens pourraient étudier et qu'Éothas s'apprête à détruire, seront laissés à l'abandon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Je suis désolé, Pallegina. Je ne voulais pas que ça se termine ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"J'ai fait mon choix et vous avez fait le vôtre. Que dire de plus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Vous êtes du mauvais côté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Ce n'est pas encore la fin. Mais peut-être nous retrouverons-nous quand elle viendra."
+
+En hochant sèchement sa tête emplumée, elle se retourne pour partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>En hochant sèchement sa tête emplumée, elle se retourne pour partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Pourquoi donc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Les Républiques de Vailia sont des impérialistes coloniaux qui exploitent les terres des Huanas à leurs dépens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Je n'arrive simplement pas à croire que ce sont les Républiques qui vont nous mener vers un meilleur avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"La Compagnie royale du Feu éteint apportera de l'ordre à l'archipel. C'est ce dont il a besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Les Príncipis croient comme moi en la liberté. Ils méritent un foyer, et c'est ce que je vais leur donner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Les Príncipis risquent de disparaître. Leur culture a le droit de survivre, le droit d'avoir un foyer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Je n'ai pas besoin de m'expliquer devant vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Le Feu éteint appartient aux Huanas. Les Engwithans leur ont volé Ukaizo. Je vais la leur rendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Elle grince des dents sans répliquer. En hochant sèchement sa tête emplumée, elle se retourne pour partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Si c'est ainsi que nous répondons au défi qu'Éothas nous lance, je m'inquiète pour l'avenir de tous les kiths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Vous avez refusé l'aide des Républiques pour atteindre Ukaizo. Pire encore, vous vous êtes mis à dos la Compagnie commerciale vailienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Si les Républiques ne sécurisent pas Ukaizo, toutes les machines qu'Éothas s'apprête à détruire, tout cet adra lumineux, seront inaccessibles aux animanciens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"J'aide les Huanas, mais les Vailiens ne sont pas mes ennemis. Vous n'êtes pas obligée de faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"J'aide les Príncipis, mais les Vailiens ne sont pas mes ennemis. Vous n'êtes pas obligée de faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Je m'en chargerai tout seul, mais les Vailiens ne sont pas mes ennemis. Vous n'êtes pas obligée de faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Elle plisse les yeux en vous examinant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Je vous ai fait confiance aux Ormes jumeaux. Et vous ne m'avez pas laissée tomber là-bas, Gardien. Peut-être puis-je de nouveau vous accorder ma confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ne me le faites pas regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Non. Je vous ai fait confiance aux Ormes Jumeaux. En retour, j'ai écopé de cinq ans d'exil. Je ne décevrai plus &lt;i&gt;jamais&lt;/i&gt; mon pays, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Corès."
+
+En hochant sèchement sa tête emplumée, elle se retourne pour partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ah, le Gardien de Caed Nua. J'ai entendu dire que vous étiez dans le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ah, le Gardien de Caed Nua. J'ai entendu dire que vous étiez dans le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Le canta Nicese m'a ordonné de rester à votre disposition. Dans l'intérêt des Républiques, évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Le canta Nicese a décidé de me pardonner mes offenses passées afin que je puisse vous épauler. On dirait que les Républiques ont de nouveau besoin de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Avez-vous besoin de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

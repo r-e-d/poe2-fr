@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc04_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Âmes sœurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler au capitaine Furrante des Príncipis, à Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rencontrer Maître Kua sur l'Éperon tordu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aider le capitaine Furrante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retourner voir le directeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Aider Maître Kua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Explorer l'île de l'Éperon tordu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Retourner voir le directeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le directeur Castol a un contact au sein des Príncipis, le capitaine Furrante, qui est apparemment en mesure de favoriser certaines perspectives commerciales potentielles des Vailiens sur l'île de l'Éperon tordu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le directeur Castol m'a demandé de me rendre à Dunnage pour y rencontrer le capitaine Furrante et discuter d'une affaire confidentielle. Apparemment, les intérêts de la compagnie marchande coïncident avec ceux des Príncipis dans cette affaire.
+
+Le capitaine Furrante se trouve dans un havre príncipi appelé Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le directeur Castol m'a demandé de naviguer jusqu'à l'île de l'Éperon tordu et d'y rencontrer le chef d'un groupe d'esclavagistes local : Maître Kua.
+
+Maître Kua a promis des ressources et des fonds en échange d'assistance. Apparemment, c'est là que j'interviens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le capitaine Furrante veut s'assurer la loyauté des esclavagistes de l'Éperon tordu. Gagner leur allégeance aidera Furrante à asseoir sa propre position, et fera avancer les projets du directeur Castol pour le Feu éteint sur le long terme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai résolu la situation sur l'île de l'Éperon tordu, et le directeur attend que je lui fasse mon rapport au siège de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maître Kua veut que je m'occupe de la féroce tribu des Wahakis, un groupe de Huanas établi sur l'île d'Ori o Koīki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>La proposition commerciale de Castol impliquait un groupe qui contrôle l'île de l'Éperon tordu. Il pourrait être utile de mener l'enquête à mes heures perdues, si je le souhaite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>J'ai décidé de ne pas aider Maître Kua. Castol ne sera pas content, mais peut-être comprendra-t-il mon raisonnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Maintenant que Furrante est mort, je dois m'occuper de ce qu'il tramait sur l'Éperon tordu si je veux aider Castol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai dénoué la situation sur l'Éperon tordu en gagnant la confiance du capitaine Furrante et en consolidant son alliance avec le directeur Castol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai dénoué la situation sur l'Éperon tordu, et j'ai été rémunéré pour mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai décidé de ne pas aider Maître Kua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Castol dispose d'un contact fortuné parmi les esclavagistes de l'Éperon tordu. Les récents problèmes ont entamé leurs profits, et le contact est disposé à faire don de ressources et de fonds à la Compagnie commerciale vailienne en échange de son aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

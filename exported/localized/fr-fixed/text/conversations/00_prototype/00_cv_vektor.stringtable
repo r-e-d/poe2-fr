@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_vektor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Un... un vaisseau ! Je suis sauvé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le nain s'évente à l'aide d'un chiffon. Son visage est sombre, l'effort physique fait luire sa peau. La sueur trace de larges auréoles sombres sur sa chemise. 
+
+Il vous regarde comme un noyé regarderait la rive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il y a des semaines que j'ai échoué ici ! Et la Compagnie commerciale vailienne n'a encore envoyé personne. À moins que..."  
+
+Il plisse les yeux, tamponnant fiévreusement le chiffon sur son front pour en éponger la sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ils m'ont embauché pour que je trouve une expédition. J'imagine que c'est de vous qu'il s'agit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Personne ne m'envoie. Je suis venu de mon propre chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Échoué ? Mais c'est une île civilisée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Merla, j'ai la chance d'un pendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Besoin de quelque chose ? C'est bon de voir un visage amical." Il essuie son front à l'aide d'un chiffon sale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pourquoi êtes-vous si nerveux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Et à la fin de l'après-midi, Ruānu était le seul à être revenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Notre capitaine voulait absolument partir avant que les vents changent à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Maintenant, personne n'ose même parler d'Anahāru. Étrange, non ?" Des perles de sueur brillent sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous avez mentionné Nairi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"La prêtresse ? Elle rêve de me donner en pâture à sa déesse-poisson, j'en suis convaincu." Il s'évente encore plus rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vektor n'est pas un nom vailien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Non, c'est pargrun. Mes grand-parents ont abandonné leurs traditions nomades en s'installant dans les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Mais je peux comprendre l'envie de rester à un endroit. Un endroit sûr." Il se tamponne la nuque en balayant l'endroit du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"J'ai besoin de matériel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"J'ai trouvé ce qui reste de votre expédition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Lui donner les pages de Beza] "Votre capitaine avait de sombres desseins pour la tribu..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Morts, vous voulez dire ? Madiccho !" Il fronce soudainement ses épais sourcils, visiblement inquiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Si leur travail était terminé, leurs familles, dans les Républiques, recevraient une compensation..." Il vous regarde d'un air suppliant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Lui montrer l'idole maudite] "J'imagine que Nairi a joué un rôle dans leur triste fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Cuè ? Non, non, c'est impossible..." Tout en parlant, il regarde l'idole avec des yeux écarquillés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ruānu doit en être informé. Oui, laissez-le s'occuper d'elle." Il se passe rapidement la langue sur les lèvres en acquiesçant sèchement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Agracima." Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Cuè ? Que voulez-vous dire ?" Il s'empare des pages et les feuillette. 
+
+Puis, il s'arrête, une main immobilisée au-dessus du papier souillé.
+
+Il lève les yeux vers vous et rit nerveusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Per complancanet, il ne faut pas prendre ces choses trop au sérieux. B-Beza était une académicienne bornée qui espérait attirer l'attention du directeur..." De nouvelles perles de sueur apparaissent sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Et de toute façon, je n'ai rien à voir dans toute cette histoire. Je suis le cuisinier, voilà tout."
+
+Vektor tire sur son col, décollant ainsi le vêtement trempé de sueur de sa peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je veillerai à ce que cela parvienne aux oreilles du directeur, à Neketaka. Pas d'inquiétude."
+
+Il esquisse un sourire las et range les papiers à toute vitesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je l'aurais accompagnée, mais mon estomac... j'ai dû mal digérer. Maintenant, ils auraient dû être de retour depuis des semaines. Je ne suis que le cuisinier du vaisseau, pas une équipe de sauvetage !" 
+
+Il pose la main sur son ventre et grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"À quel moment les choses ont-elles commencé à dérailler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Vous étiez plutôt occupé, pour un homme qui affirme être malade..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Par les dieux, la musique et la bière font des miracles sur l'âme." Il pose une main sur son cœur et vous regarde d'un air pitoyable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Avec le prêtre. Anahāru."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Il prétendait que nous étions venus pour piller et saccager. Nairi et lui, ils ont monté les villageois contre nous." Il essuie une nouvelle goutte de sueur qui coule sur sa tempe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Après ça, nous avons dormi sur le bateau et alterné les tours de garde, pour surveiller la rive.
+
+"Tous, sauf moi. Je devais prendre du repos, question de me remettre, bien sûr." Il est pris d'une quinte de toux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Puis, au petit matin, notre sentinelle a vu Ruānu et Anahāru disparaître ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Où sont-ils allés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je l'ignore, je le jure ! Tout ce que j'ai entendu dire, c'est qu'ils ont quitté le village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Les villageois nous ont ignorés toute la journée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Et même alors, ils n'ont rien fait pour apaiser Anahāru."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Peut-être devrais-je être reconnaissant qu'ils m'aient abandonné ici." Il détourne les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Finalement, il laisse échapper un gémissement étranglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Si cette expédition échoue, la Compagnie hésitera à en financer une seconde. Ils pourraient simplement tourner la page."
+
+Il pousse un soupir et se gratte la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je dois retourner surveiller le matériel au comptoir. Vous viendrez me voir, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Belfetto ! C'est pas trop tôt !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Mentir] "La Compagnie m'envoie. Dites-moi ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Mentir] "Je suis désolé. Je n'ai aucune idée de quoi vous parlez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Pas le moindre signe de mes compagnons à l'horizon."
+
+Il pousse un soupir, faisant gonfler l'avant de sa chemise. Le tissu mouillé retombe contre son torse avec un son mat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Elle se terre dans le sanctuaire, près de cette horrible statue. Je ne supporte pas son air malfaisant, mais si elle ne vous effraie pas, vous pouvez essayer de lui parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Je vous en prie, pas un mot à ce sujet. Maintenant que Ruānu est parti, qui nous protégera ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Il vaut mieux ne pas nous en mêler, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Hylea, divine Mère, ne me laissez pas mourir ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Bientôt, le directeur enverra des provisions, des animanciens et des soldats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"À moins que... vous n'ayez un peu de place sur votre navire ?" Il vous regarde en pétrissant ses jointures dans l'autre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Bientôt, le directeur enverra un vaisseau prendre le reste des provisions. Et moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Le [Player Ship] a probablement besoin d'un cuisinier... à moins que vous ne préfériez rester ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"J'accepterais volontiers d'être enchaîné dans une galère si ça me permet de quitter cette terre stérile." Il pousse un soupir et enfonce son chiffon dans la poche.</DefaultText>
+      <FemaleText>"Aimica, tout plutôt que d’attendre sur cette plage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"M'est avis qu'il lui manque quelques neurones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"La Compagnie n'aurait rien dit de ses plans à Vektor. Je suis certaine qu'il a raison. De toute évidence, Beza opérait seule et non sous les ordres de la Compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ce que je comprends, c'est que quelqu'un cherche à finir bouilli dans le jus de koīki."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ça sent pas bon, c'est sûr. Et je ne parle pas de la nourriture." 
+
+Xoti croise les bras sur sa poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Un cuisinier sans vergogne, voilà qui fait un pitoyable petit-déjeuner." 
+
+Tekēhu croise les bras et plisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Vous feriez bien de le prouver en nous montrant ce que vous savez préparer de bon."
+
+Edér regarde autour de lui, espérant trouver quelque soutien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ce n'est pas votre faute ni votre problème. Voilà un refrain familier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Je vais ouvrir l'œil. Peut-être qu'ils ont trouvé quelque chose d'intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"J'imagine que la Compagnie offrira une coquette somme contre des nouvelles de l'expédition ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Eccosi si je vous ai dévisagé. C'est... inhabituel de voir des gens si bien équipés, dans la région." Il regarde Maia de bas en haut... surtout en haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ah, bon piacco. À quel sujet ?" Il serre le chiffon jusqu'à ce que ses jointures en deviennent blanches, puis se détend quelque peu, le front encore plissé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"La compensation va de soi avec la Compagnie. Elle achète rapidement ce qu'elle ne possède pas." 
+
+Il hoche la tête, une lueur de soulagement éclaire finalement ses yeux rougis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Agracima, voilà qui me donne espoir." Il soupire et s'incline avec raideur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Vous... partiriez à leur recherche ? Agracima !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Allons espérons que vos compagnons reviendront."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Ac. La Compagnie serait prête à recruter une équipe de sauvetage si une personne compétente se présentait."
+
+Il soupire, balançant son chiffon par-dessus l'épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Depuis votre arrivée, j'ai bon espoir de les voir revenir sains et saufs, ac ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ac, ils n'ont rien dit, lorsqu'ils vous ont envoyés ?" Il se pince les lèvres, puis fait un geste de la main pour indiquer son ignorance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Il déglutit nerveusement avant de glisser un regard par-dessus son épaule, vers le village délabré plongé dans le sommeil. Son regard passe rapidement d'une hutte au toit de chaume à l'autre, comme s'il craignait qu'une horreur sans nom en émerge à tout moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ado, voilà si longtemps que j'attends de voir un visage amical dans ce taudis hostile !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ac, la délivrance, enfin !" Il pousse un long soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Mais qui pourrait bien qualifier cet endroit de « civilisé » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Le gouverneur Alvari vous a sans doute dit que nous étions à la recherche de l'adra lumineux, à Poko Kohara ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"La seule raison pour laquelle je croupis ici, c'est parce que mes compagnons se sont aventurés à Poko Kohara en quête de l'adra lumineux." Il éjecte un insecte qui grimpe le long de sa manche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Suivre son regard, pour voir où il porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ai ! Bazzo ! Ça n'a rien de drôle !" 
+
+Ses cris perçants attirent l'attention de plusieurs villageois. Il vous dévisage d'un air sombre et sa respiration se fait saccadée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Il ne regarde rien en particulier, mais ses yeux semblent s'agrandir chaque fois qu'un aumaua s'approche de lui. 
+
+Il tressaille et se racle la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Je crains que Ruānu, le chef local, ait donné de fausses informations au capitaine Beza et à mes compagnons." Il tord le chiffon entre ses mains, tirant jusqu'à le rendre raide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Mais pourquoi ferait-il une chose pareille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Agir ainsi serait une honte pour la dignité des Matarus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Pourquoi m'aventurerais-je en territoire hostile en quête de réponse ?" Il secoue son chiffon comme un mouchoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Ruānu a été le dernier à parler au capitaine avant qu'elle ne mette les voiles. Il vit dans la hutte au nord-est de ce pitoyable marché."
+
+Il hoche la tête en regardant la coque éventrée d'un navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ce mot, « Mataru ». C'est une malédiction ? Seuls les insulaires les plus puissants semblent le prononcer." Son front se plisse et il fait un geste pour écarter la question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Un de vos semblables ? Il y a déjà suffisamment de bouches à nourrir sur l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Plus inhabituel qu'un nain incapable de retrouver sa route ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"En débarquant sur Tikawara, le chef nous a accueillis comme des ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Nous avons festoyé, dansé, bu... Nous ne dormions que pour pouvoir festoyer, danser et boire davantage." L'ombre d'un sourire traverse son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Le capitaine devait revenir. Nous sommes en territoire hostile, ac ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Vous vous en sortez bien, parce que je l'aime bien, celle-là." Maia croise les bras et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Le capitaine m'a laissé à peu près tout ce dont elle n'avait pas besoin. Je survis en commerçant avec les villageois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Eccosi, mais je suis presque à court de bière." Il esquisse un faible sourire et vous montre ses marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Vous disiez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Bon piacco, alors posez votre question." Son front se plisse, dans l'attente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Coincé sur cette île qui embaume, toujours ensoleillée... Voilà qui semble intolérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ac, vous comprenez." Il hoche la tête vigoureusement en sortant ce dernier commentaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[Faire apparaître une étincelle magique près de son oreille]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"J'espère qu'elle n'a pas payé pour cette information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Je ne pense pas, non. Le chef nous confectionnerait de nouvelles voiles, si cela pouvait lui attirer les bonnes grâces du capitaine." Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Eccosi. La tribu m'a complètement écorché les nerfs." Il s'essuie la nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Il déglutit et lance un regard plein d'espoir vers Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Di verus, les problèmes de la Compagnie sont également ceux du duc, ce qui en fait également &lt;i&gt;mes&lt;/i&gt; problèmes. Toutefois, sauver votre peau ne fait pas partie de mes ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Alors, c'est la volonté des dieux et de nos compatriotes que je demeure perdu ici." Abattu, il lève la main à son front et porte son regard vers l'océan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Ou il ignorait le chemin, et il essayait simplement d'impressionner l'étrangère." Maia fait un clin d'œil à Ishiza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Ac, quel endroit affreux." Il regarde Maia en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Vous suez beaucoup pour des peccadilles, Vektor. Je ne me souviens pas d'une expédition où la Compagnie aurait imputé le succès ou l'échec au &lt;i&gt;cuisinier&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Capitaine Beza disait toujours que le cuisinier est le cœur même de l'équipage ! Imaginez-vous la pression que je subis, quand le destin d'une équipe entière dépend de chacun de mes plats ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"C'est bon de savoir que vos priorités étaient si bien établies quand vous travailliez pour la Compagnie."
+
+Ses paupières sombres s'affaissent sur ses yeux dorés, elle dévisage le nain en sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"D-dites-le au capitaine ! C'était son idée, tout ça !" Il recule d'un pas, mains levées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Vous n'êtes pas venu pour piller ? Ekera, j'avais mal compris l'essence de votre mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Il s'écarte de Tekēhu, les yeux soudainement alarmés. Il s'éclaircit la voix et reporte son attention sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

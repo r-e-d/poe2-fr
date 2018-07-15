@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_wrecked_merchant_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous dépassez le récif quand [Specified 3] appelle, le doigt pointé vers bâbord. Vous y voyez un navire échoué, gîté sur un écueil étroit. Il penche et se balance au gré des vagues. 
+
+Son mât arbore un drapeau bleu à l'effigie d'un croissant de lune plongeant sous les flots.
+
+Excité, votre équipage se rassemble en discutant à voix basse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Préparez une barque. Nous allons l'atteindre à la rame et escalader la coque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gardez le cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Alors que le navire se stabilise, [SkillCheck 0] hurle, glisse et tombe dans le corail aiguisé en embuscade sous les flots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>L'équipage commence à se disperser en marmonnant. [Specified 0] gratte le pont de sa botte et ricane en regardant [Specified 1] et [Specified 2] battre en retraite.
+
+"Ça aurait pu être quelque chose de bien. Ça coûte rien d'aller voir." [Specified 0] hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous tenez bon. 
+
+Une fois le bateau stabilisé, vous reprenez votre ascension et parvenez sain et sauf sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>C'est alors qu'une grosse vague s'écrase contre le navire, le projetant violemment contre le récif. La coque se fend avec un craquement assourdissant.
+
+[Specified 0] reste bouche bée.
+
+[Specified 2] fait demi-tour. "C'est pour ça que [Player Name] est le capitaine."
+
+Le visage de [Specified 0] s'assombrit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le navire est déserté. Vous ne trouvez même pas un corps. S'il y avait jadis une barque, il n'est plus là, non plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] fonce à la rambarde. "Capitaine, c'est un navire Porteur d'offrandes ! Il doit sûrement contenir toutes sortes de trésors."
+
+[Specified 1] grogne. "Les Porteurs d'offrandes transportent de la camelote sentimentale. Des trucs sans valeur. Non, ça, c'est un navire de contrebandier déguisé. Un grand classique."
+
+[Specified 2] crache dans l'eau. "Alors, c'est sacrément débile. Les Porteurs d'offrandes ne visitent que les colonies sans accès à la mer. C'est un piège."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Cela ne suffit pas. Alors que le navire se stabilise, vous vous écrasez contre sa paroi. Vous lâchez prise et tombez à l'eau. Une douleur aiguë envahit votre torse. Alors que vous parvenez à vous hisser sur l'écueil, vous remarquez que du sang s'échappe d'une plaie profonde de votre flanc et coule sur la pierre. Vous arrachez un gros éclat de corail logé entre vos côtes et le rendez à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Les planches tordues et les bernacles vous servent de prise pour vous hisser. Vous atteignez presque le pont principal quand une vague s'écrase contre le bateau. Vous entendez un craquement quelque part sous vos pieds et le navire commence à se balancer. Vous glissez, mais parvenez à planter vos doigts dans le bois trempé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous poussez une caisse pleine de camelote pour dévoiler une trappe. Vous trouvez dessous un petit coffre rempli de scellings en or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>C'est alors que vous remarquez des éraflures le long du pont. Comme si la caisse pleine de camelote avait été régulièrement déplacée. 
+
+Vous la poussez pour dévoiler une trappe. Vous trouvez dessous un petit coffre rempli de scellings en or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous chargez votre trouvaille sur la barque et retournez à votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 4] jette des coups d'œil aux alentours avant de pousser la caisse pleine de camelote... et de trouver la trappe qu'elle cachait. Vous trouvez dessous un petit coffre rempli de scellings en or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Que disiez-vous à propos des Porteurs d'offrandes, [Specified 1] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 1] regarde pensivement l'épave, les sourcils froncés. "Sans vouloir vous offenser, capitaine, les serviteurs d'Ondra récupèrent les trucs que les gens veulent oublier pour les confier à la mer. Par définition, les Porteurs d'offrandes transportent des trucs dont personne ne veut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>L'épave gîte sur l'eau en se balançant au gré des vagues. Les planches les plus proches de la surface semblent craquées et fendues. Vous doutez que ce qu'il reste du navire soit encore intact demain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Qu'en pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Le navire tombe en miettes, capitaine. Il n'y a rien à faire. Laissez la mer prendre son dû." 
+
+Maia hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est pas un piège, capitaine. Ce truc est trop défoncé pour que ça en soit un. Il est peut-être même trop défoncé pour pouvoir en récupérer quoi que ce soit." Serafen se gratte l'arrière du crâne en regardant le vaisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Les bateaux des Porteurs d'offrandes sont effectivement rares. Je n'ai jamais entendu dire que l'un d'eux avait disparu, m'est avis..." 
+
+Tekēhu réarrange ses appendices et réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>La mine sombre, [Specified 5] secoue la tête sans rien dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous manœuvrez au-dessus des récifs. La barque, malmenée par les vagues, s'accroche de temps à autre aux crocs minéraux qui la guette sous les flots.
+
+Vous l'attachez à une aspérité de corail, non loin de l'épave. L'eau est agitée et la coque glissante, mais vous parvenez à trouver des appuis entre les planches instables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Retenter l'escalade]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Retourner sur votre navire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous réunissez votre équipage et retournez à votre navire, laissant les dangers de l'épave derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Malgré vos bras endoloris et votre blessure au côté, vous reprenez votre ascension et vous hissez sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Chercher des choses à récupérer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Chercher des traces de contrebandiers]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous trouvez plusieurs caisses de ravitaillement, et encore plus de bric-à-brac : mouchoirs, morceaux de bijoux, os de baleine gravés détériorés, poupées pour enfants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Retourner sur votre navire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous repensez au commentaire de [Specified 1] et vous demandez si ça ne pourrait pas être un navire de contrebandiers, après tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La mine renfrognée, [Specified 4] désigne une série d'éraflures insolites, sur le pont. Comme si la caisse pleine de camelote avait été régulièrement déplacée. 
+
+Vous la poussez pour dévoiler une trappe. Vous trouvez dessous un petit coffre rempli de scellings en or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il ne semble rien y avoir d'autre de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 4] sifflote. "Eh oui... contrebandiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[SkillCheck 0] s'extirpe de l'eau et se traîne sur la barque, du sang coulant d'une profonde entaille à son flanc. Il lève la tête vers vous et vous fait signe de poursuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[SkillCheck 0] s'extirpe de l'eau et se traîne sur la barque, du sang coulant d'une profonde entaille à son flanc. Elle lève la tête vers vous et vous fait signe de poursuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Escalader]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Aloth se gratte le menton. "J'ai entendu dire que certains Porteurs d'offrandes menaient également une activité de contrebande. 
+
+"Je suppose qu'il est possible qu'ils transportent des biens de valeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ma faucille abat les contrebandiers aussi facilement que n'importe quel autre kith. Plus facilement, peut-être."
+
+Xoti se passe la langue sur sa lèvre inférieure en étudiant le vaisseau qui semble être à la dérive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous vous demandez ce que vous pensez, mais vous êtes le seul à pouvoir y répondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Apprêtez les canons. Les canonniers ont besoin d'entraînement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Avec quoi ? Nous n'avons aucun boulet de canon."
+
+[Specified 2] tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 2] secoue la tête et soupire. "Ou on pourrait couler le butin, je suppose."
+
+[Specified 1] acquiesce. "À vos ordres, capitaine."
+
+[Specified 0] crie des ordres, et l'équipage se met à préparer les canons sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Monsieur."</DefaultText>
+      <FemaleText>"M'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vos canonniers s'avèrent incapables de toucher la cible immobile, leurs tirs ratant largement leur objectif.
+
+L'équipage grimace à la vue de ce spectacle.
+
+[Specified 0] se tourne vers vous. "Encore, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tirez encore une bordée ! Et touchez cette saloperie, cette fois !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Les canons tirent à nouveau... et ratent une fois de plus leur cible.
+
+[Specified 0] soupire. "Quels sont vos ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Coulez ce foutu bateau !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vos canonniers s'avèrent tout à fait capables de toucher une cible immobile. Votre cible gîte, roule sur l'eau, puis coule sous vos yeux.
+
+L'équipage tape des pieds et pousse des acclamations sous le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Non. Allons-nous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Contre toute attente, vous trouvez une petite figurine de diablotin au milieu des pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

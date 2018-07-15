@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_ascetic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Dhwrgas l'ascète</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Dhwrgas&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Okauro&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dhwrgas&lt;b&gt;, un moine orlan, est recherché pour crimes contre son ancien ordre monastique. On a retrouvé sa trace dans les étendues sauvages de l'&lt;b&gt;île de l'Éperon tordu&lt;b&gt;, au &lt;b&gt;nord-ouest de Neketaka&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aux dernières nouvelles, &lt;b&gt;Dhwrgas&lt;b&gt; voyageait dans les contrées sauvages de l'&lt;b&gt;île de l'Éperon tordu&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>À présent que j'ai la tête de Dhwrgas, je peux toucher sa prime auprès d'&lt;b&gt;Okauro&lt;b&gt;, dans le district de l'&lt;b&gt;Escalier sacré&lt;b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai assassiné Dhwrgas et collecté la prime auprès d'Okauro.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

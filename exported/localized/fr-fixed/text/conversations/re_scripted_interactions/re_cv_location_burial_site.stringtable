@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_burial_site</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous tombez sur un site antique, autrefois utilisé pour les inhumations célestes. De vieux ossements kiths sont éparpillés sur un gros bloc de pierre, ainsi qu'un ensemble d'urnes de différentes tailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Continuer de fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous passez quelques heures à fouiller le site funéraire...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... et vous ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... et trouvez une offrande de pièces à côté des restes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... et trouvez une arme à côté des restes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... et trouvez une poignée de gemmes ordinaires dans une petite bourse en cuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... et trouvez un parchemin jauni.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... et trouvez un talisman niché parmi les offrandes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... et trouvez une jolie babiole enveloppée dans de l'herbe séchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... et trouvez un ensemble de gemmes rares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>... et vous trouvez un étrange pendentif qui luit d'une douce lumière émanant de son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous avez fouillé la totalité du site funéraire. Il ne reste rien que des morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Prendre le pendentif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous ramassez le pendentif et vous remarquez qu'il est étrangement chaud au toucher, comme si quelqu'un venait de le porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous avez fouillé la totalité du site funéraire. Il ne reste rien que des morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Alors que vous arpentez la campagne du Feu éteint, vous tombez sur un site fréquemment utilisé pour les crémations rituelles. À côté de l'étendue de terre plane où devait être érigé le bûcher s'ouvre une petite crypte pleine de jolis paniers contenant des dépouilles incinérées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Une tombe se dresse devant vous. Sa paroi extérieure, bien taillée, est décorée de reliefs de Tangaloa et de Ngati. Elle abrite certainement le corps d'un personnage important pour une tribu huana locale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous continuez à chercher dans le site funéraire tout ce qui pourrait vous être utile...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vous retournez fouiller le site funéraire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous tombez sur une volée de larges marches qui s'enfoncent profondément sous terre. De l'air glacial émane d'une porte sombre au pied de l'escalier. Il charrie une légère odeur de poussière et de pierre froide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous passez quelques heures à fouiller le site funéraire...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>... et vous trouvez une arme qui est en meilleur état que ce à quoi vous vous attendiez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... et trouvez un curieux objet par terre. Des lianes s'enroulent autour, le maintenant fermement au sol.
+
+Vous parvenez à le débarrasser des lianes, même si elles résistent étrangement à vos efforts. Vous découvrez alors une arquebuse de confection inhabituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

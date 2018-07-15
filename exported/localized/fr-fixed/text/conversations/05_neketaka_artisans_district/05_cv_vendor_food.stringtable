@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_vendor_food</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"La prise du jour ! Toute fraîche et cuite. Et épicée, que vous soyez étranger ou de la région !"
+
+Le vendeur désigne un lit de charbons ardents dans son chariot. Une bonne odeur s'élève de plusieurs morceaux de viande enrobés dans des feuilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous revoilà ! Ekera, je savais bien que j'avais entendu un estomac crier son désespoir." 
+
+Wekeme agite la main pour pousser l'odeur de viande grillée dans la rue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai fermé pour ce soir, mon ami. Mais revenez demain matin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Brochettes de piragnac ! Espadon en croûte !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Que nous vaut &lt;i&gt;votre&lt;/i&gt; retour, mon ami ? Votre faim ne connaît-elle donc point de limite ?"
+
+Il pouffe de rire et tape joyeusement l'épaule de Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wekeme, je mangerais tous les habitants du royaume de ma mère, si c'est vous qui les cuisiniez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ce serait un honneur si mon travail rassasiait l'élu de Ngati." 
+
+Wekeme s'incline et vous sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

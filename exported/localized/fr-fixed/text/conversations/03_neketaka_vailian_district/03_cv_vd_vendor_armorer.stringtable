@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_vd_vendor_armorer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bien le bonjour, étranger. Si vous cherchez à investir dans la protection, j'échangerai volontiers mon acier contre du cuivre." 
+
+L'armurière vous adresse un sourire amical.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, vous revoilà. Vous cherchez quelque chose en particulier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'ai beaucoup de choix, prenez votre temps." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Non ! La poudre à canon !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous avez un bien bel inventaire, mais je recherche un équipement de meilleure qualité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je peux vous assurer que tout ce que j'ai à vendre est le fruit d'une confection sans faille." Son sourire se fait hésitant. "Mais, je dois avouer que mon niveau d'armurerie arrive loin derrière celui de Marihi, et je ne parle même pas des connaissances en armes à feu d'Uto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous trouverez Marihi au promontoire de Periki, le quartier au nord. Et Uto a sa boutique à la Citadelle de cuivre, dans la partie est de Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

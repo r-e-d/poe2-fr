@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_roparu_beggar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Voyageur ! Avez-vous quoi que ce soit à manger ? Vous avez sûrement des restes dont vous pouvez vous passer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une femme roparu émaciée tente d'attraper votre jambe. Elle vous touche avec une emprise fragile, les doigts décharnés et tremblants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ne pouvez-vous pas trouver de nourriture ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"La loi du partage est toujours en vigueur, mais le tas est devenu plus maigre ces dernières années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Lui donner de la nourriture]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La femme arrache la nourriture de vos mains avec une vitesse surprenante, les yeux surveillant tous les spectateurs avant de la fourrer entre ses dents.
+
+Elle ronge désespérément, avale, s'étouffe, mâche encore, et parle avec la bouche encore à moitié pleine de sa bouchée suivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Lui donner un coup de pied]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous frappez du pied l'épaule de la mendiante, la faisant couiner alors qu'elle s'écroule de côté. Ses cheveux filandreux pendent devant son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La Roparu met deux doigts à ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Pitié, voyageur. Jamais je n'ai eu si faim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Peut-être devriez-vous chercher un travail rémunérateur. Il y a des endroits qui vendraient de la nourriture même à des vagabonds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Un rire incrédule semble lui fendre la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Beaucoup de Roparus viennent des autres îles de nos jours. Ils font des travailleurs forts et capables... pas comme moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Comme si mon âme ne souffrait pas déjà assez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Vous accroupir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ses yeux s'agrandissent alors que vous vous abaissez à son point de vue. D'aussi près, vous pouvez voir que ses iris sont aussi verts que du verre de mer, et piquetés d'or.
+
+Elle éloigne sa main de vous avec brusquerie et hésitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Quel est votre nom ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je ne suis personne, seulement Rakara. Juste Kara. Je veux dire, pour les amis."
+
+Elle regarde de côté et passe ses doigts osseux sur les plis de sa jupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ne pouvez-vous pas trouver de nourriture, Kara ?" Pas d'argent ni de maison... ni d'espoir de travail ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ai la générosité de la tribu et ma part de la fortune des Matarus. Que demander de plus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vraiment ?"
+
+Ses cheveux emmêlés tombent sur ses épaules alors qu'elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est comme ça, et quoi que je gagne, que ce soit de l'argent d'une main généreuse ou du poisson de la mer, je dois donner ma dîme à la tribu. Pour notre bien à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pensez-vous que ce soit une bonne idée de me toucher,  « personne » qu'on appelle Rakara ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ses yeux brillent de peur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'ai arrêté, n'est-ce pas ? Je vous en prie, oubliez ce que je vous ai demandé. Jamais plus je ne vous toucherai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mais vous mourez de faim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Mais je meurs de faim." Ça sonne trop creux pour une affirmation. On dirait plutôt de la résignation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Comme je l'ai dit, j'ai la générosité de la tribu et ma part de la fortune des Matarus. Que demander de plus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Veuillez m'excuser, j'en dis trop. Si vous voulez en savoir davantage, demandez à Enoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Merci. Je partagerai, je le jure. "Merci, voyageur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Il est là-bas, dans la maison à droite après avoir traversé le pont. Il peut parler de la faim."
+
+Son bras tremblotant indique le sud-est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Elle semble moins décharnée qu'auparavant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Mon ventre est rempli de bonne nourriture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Avant, je rêvais de nourriture. Maintenant, je la mange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Peu de choses tombant sur notre tas ne sont pas tournées ou pourries... de la semaine, voire d'avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"La reine finira sûrement par nous fournir, un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Notre ancien écoute ceux qui sont dans le besoin et il parle... hors de portée d'oreille des gardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Même les marins des quais et même les voyageurs errants me connaissent en tant que Roparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Mais eux aussi contribuent de leur dîme, conformément à la loi du partage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Trouvez-vous quelque chose à manger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Un rire rauque et amer s'échappe de sa bouche. Elle vous jette vos pièces avec un ricanement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous pensez que les marchands vendraient aux Roparus ? Et même s'ils le faisaient, est-ce que vous pensez que les Matarus me laisseraient garder mes achats ?
+
+"On voit que vous n'êtes pas d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Lui donner un coup de pied] "Misérable ingrate !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Qui est le chef par ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Est-ce que vous pouvez me dire comment me rendre à l'Allée du mineur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Elle glousse sombrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"La Raveline est une zone de non-droit, oubliée. La seule autorité ici est celle des Matarus, et ils ne travaillent pas pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Mais si vous cherchez un sage, allez voir Enoi chez lui. Il essaie de nous garder en sécurité et nourris. Il ne réussit pas toujours, mais au moins il essaie.
+
+"Essayer, c'est déjà beaucoup, ici-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Le marché noir ? J'en ai entendu parler, mais je ne l'ai jamais vu. Je préfère garder ma tête sur mes épaules, ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Si Enoi ne peut pas vous aider, demandez Fyrna. Elle tient la taverne du Trou. De nombreux secrets passent par ses oreilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mais... peut-être que l'ancien du village pourra vous indiquer le bon chemin. Il s'appelle Enoi... vous pourrez le trouver chez lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mais... Enoi pourrait savoir. Il a beau être aveugle, il n'est nul endroit dans la Raveline qui échappe à ses yeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous... vous allez m'aider, n'est-ce pas ? Vous étiez là pour nous, avant, et je n'ai jamais été aussi affamée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"S'il vous plaît, je sais que vous avez vu notre souffrance ! Vous n'auriez pas une miette à donner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous ne savez pas ? Mais vous... vous..." Elle s'arrête brusquement et baisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ses mains décharnées tremblent sur ses genoux. Elle risque un regard vers vous, mais se détourne très vite, avant même que vos yeux rencontrent les siens.
+
+Vous l'effrayez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Merci, voyageur, merci. Je savais que vous étiez quelqu'un de bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

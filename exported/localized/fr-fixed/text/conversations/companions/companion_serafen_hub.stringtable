@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ohé, là ! J'imagine que vous vous ennuyez de moi ?"
+
+Un pied campé derrière lui et les bras sur les côtés, tels des ailes, l'orlan bleu s'incline en un profond salut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Prenez vos affaires et rendez-vous au [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Pas maintenant, non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Z'avez décidé que vous avez besoin de mon aide, finalement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Et qu'apporterez-vous à mon équipage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"À vos ordres, capitaine."
+
+Il vous salue d'un geste sec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Très bien, capitaine."
+
+Il hoche la tête, un pli se creuse légèrement sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Vous voulez dire, à part mes talents de chasseur de navires tant vantées, mes bonnes manières évidentes et mon savoir-faire encyclopédique de toute ce qui a trait à la piraterie ?" Ses dents luisent entre les courbes de son sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Si les choses tournent mal, j'ai l'esprit assez affûté pour trancher, et je ne suis pas manchot avec une balle non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Qui plus est, je suis plutôt agréable à l'œil, ou du moins c'est ce que me disent les donzelles." Il hausse vivement les sourcils deux fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Serafen vous dévisage ouvertement, mains sur les hanches, et crache près de ses pieds à votre approche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Nous devons parler, capitaine Gardien."
+
+Serafen se tient debout, les bras croisés, les oreilles pointées vers le sol, son pelage bleu hérissé sur sa peau. Ses yeux ont rétréci et ne sont plus que des fentes d'un jaune verdâtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Je n'ai pas beaucoup de règles, capitaine Gardien... En fait, juste une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Vous avez l'air irrité. J'écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Je m'en fiche pas mal, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Irrité ? « Irrité » serait minorer la chose, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Je me fiche pas mal que vous vous en fichiez pas mal, cap'. Il va falloir discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Je ne suis pas un esclave. Et je ne servirai pas sur un navire crasseux qui fait dans l'esclavage. Pigé ? Faites encore ça, et je dégage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Pourquoi avez-vous des problèmes avec l'esclavage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Je ne fais pas dans l'esclavage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"La seule personne qui donne des ordres sur mon navire, c'est moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Je peux vous faire gagner du temps, alors. Ramassez vos affaires et débarquez de mon navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Oui, à vos foutus ordres, capitaine. Et bon débarras."
+
+Il tourne les talons et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Je suis désolé, Serafen. Je ne le referai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Oh, je ne sais pas, cap'... Peut-être que c'est juste parce que c'est de l'esclavage ? J'ignorais qu'un matelot devait se justifier pour ne pas tolérer les esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"J'aimerais pouvoir vous croire sur parole, capitaine. Contentez-vous de... faire mieux."
+
+Il pousse un soupir et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"J'espère que vous ne le ferez pas."
+
+Il pousse un soupir, boit un grand trait d'une outre qu'il porte à son flanc, et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Vous les aidez, par contre, non ? C'est comme si vous le faisiez vous-même. Et quant aux Príncipis... c'est à moi de régler ce problème."
+
+Il secoue la tête, son oreille frémit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Le nez de Serafen se fronce et sa fourrure se hérisse, comme si une tempête faisait rage sous sa peau. Ses lèvres se retroussent sur ses dents mal alignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Je croyais que j'avais été clair sur la question de l'esclavage. Et pourtant, nous y voici. Encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Vous êtes sérieux, à ce sujet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je suis désolé, Serafen. Promis, je ne le referai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Partez, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Vous me mettez au défi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Évidemment ! Aussi sérieux qu'une fuite à la ligne de flottaison !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"C'est trop tard pour ça, capitaine. Trompez-moi une fois, et vous serez la ventouse de fond de cale. Trompez-moi une deuxième fois, et..."
+
+Il place ses paumes vers le ciel et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Mentirais-je si je disais que l'idée n'a jamais traversé mon esprit poilu. Mais j'imagine que le monde a besoin de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Bon bordel de voyage, capitaine. Priez pour que nos chemins ne se croisent plus jamais."
+
+Il fait volte-face et s'en va à petits pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Vous voilà averti, capitaine Gardien."
+
+Il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Il vous décoche un salut sec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>L'orlan bleu cligne rapidement des yeux, et son oreille gauche frémit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Les mains sur les hanches et l'air lugubre, Serafen secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Je regarde en arrière, et je ne suis pas sûr de savoir comment nous en sommes arrivés là, cap'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Eh bien, vous nous avez tous condamnés à mort en nous coinçant sur cette île, capitaine Gardien. J'espère que vous êtes fier de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ça serait bien de vous avoir à nos côtés. J'espère que vous savez que nous sommes avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Et je ne dis pas « avec vous » comme l'entendent les pirates d'habitude, prêts à décamper dès qu'on a le dos tourné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Travailler avec les Huanas... ce n'est pas vraiment le chemin que je comptais emprunter, mais ça ne veut pas dire pour autant que votre boussole est brisée."
+
+Il soupire et se gratte l'arrière de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Surgir sans rien ni personne, nous faire naviguer au travers de cette mère de toutes les tempêtes, nous faire débarquer je ne sais où."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Vous en avez une sacrée paire. Ça, c'est sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"J'espère que vous savez ce que vous faites. À titre personnel, je n'aurais pas hissé ces couleurs-là, mais ça vous le savez bien. Depuis, je me suis fait une raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Évidemment, l'idée de tirer sur les gars des Príncipis ne m'enchante pas beaucoup. Ils sont pas parfaits, loin s'en faut, mais ils sont quand même de la famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"C'est pas comme si j'avais cherché à couler tous ces Huanas plus souvent qu'à mon tour. Ce qui est salement regrettable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Il y a sûrement une leçon à retenir ici. Mais je sais pas laquelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Mais je peux pas dire que ça m'ait déplu de montrer à ces enfoirés de la compagnie la taille de nos boulets de canon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"On a quand même donné une bonne leçon de navigation à ces déchets du Rauatai, hein capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Sur un bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Nous avons vogué à travers l'Au-delà. Qu'est-ce qui vous dérange ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Nous devions tous être ivres-morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Vous aussi ? Voilà qui devrait expliquer pourquoi il me manque des bouteilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Je suis à deux doigts de laisser tomber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Quoi qu'il arrive, je suis content que vous soyez là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Vous êtes prêt pour ce qui nous attend ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Je vais faire de mon mieux pour tous nous sortir de là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Allons-y. Nous avons un dieu à retrouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Merci pour le vote de confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Nous nous en sortirons. Je le promets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Personne ne vous a traîné ici, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Je pourrais veiller à ce que vous mouriez maintenant, si vous le désirez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Vous avez mes bras et mon cerveau. Ça devrait être plus qu'assez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Je ne pense pas que ce soit le moment idéal pour prêter serment. Vous risquez peut-être de devoir répondre de vos actes devant les dieux plus tôt que prévu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Pas faux. J'ai de quoi m'en mordre les doigts pendant longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Non, pas besoin. Je suis certain qu'on y arrivera bien assez tôt comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Vous essayez de me tenter, cap' ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Il fallait bien que quelqu'un sauve votre peau d'ami des spectres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Je sais, cap'. Espérons que ce sera suffisant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"À vos ordres, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Personne n'est prêt pour ce qui arrive, capitaine. Ça ne veut pas dire pour autant que ça ne va pas arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Alors en avant, capitaine. Allons jusqu'au bout, et plus loin encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Allons accomplir la sottise que nous sommes venus faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_dawnstar_vendor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Que le D-d-dieu brillant illumine votre chemin, étranger ! Êtes-vous intéressé par ce que nous avons à proposer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vais jeter un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"M-merci, monsieur !"</DefaultText>
+      <FemaleText>"M-merci, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je travaillais dans une ferme, je faisais pousser des vorlas. J-j-j'aurais jamais cru que je quitterais cette région. 
+
+"Euh. Pardon. Vous souhaitez acheter quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"On a r-r-recueilli ce qu'on a pu. Une grande partie de notre argent sert à nourrir les nécessiteux, au temple ».</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

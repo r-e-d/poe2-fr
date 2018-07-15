@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_xoti_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>415</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ouah ! Enfin un moment de répit. J'ai les pieds couverts de cloques."
+
+Les mains appuyées sur ses genoux, elle se penche en avant et inspire une bouffée d'air frais. Elle ne quitte pas votre visage des yeux. Le rose lui monte lentement aux joues, et elle vous adresse un grand sourire radieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"À quoi vous pensez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Comment en êtes-vous venue à vénérer Gaun davantage qu'Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Comment vous sentez-vous ? Vous avez souffert de cauchemars récemment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que pensez-vous d'Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est tout pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Mes parents... disons que ce ne sont pas des fidèles d'Éothas typiques. Bien sûr, ils se sentent plus proches de la lumière que des ténèbres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mais la guerre a durement touché ma famille. Ça les a changés. Certains en sont morts... même si je ne me souviens pas d'en avoir été témoin." Elle renifle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Les autres se sont endurcis, sont devenus des survivants... et ça, je l'ai vu de mes propres yeux, même des années plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Qu'est-il arrivé à votre famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Y a-t-il d'autres fidèles de Gaun comme vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ils sont morts." Xoti lève la tête pour vous regarder directement dans les yeux. Sans broncher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Non, Gardien, je ne préfère pas." Elle secoue la tête, brisant le contact. Ses cils abaissés dessinent des ombres sur ses pommettes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bien sûr, même si nous sommes peu nombreux et épars. Pour la plupart, nous ne nous cantonnons pas aux temples. Guider les âmes, ça nécessite de voyager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'ai appris l'essentiel en lisant. Je mettais la main sur tous les textes se rapportant à Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Inutile de tourner autour du pot. J'écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Xoti, j'aimerais que vous m'accompagniez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je me disais que vous changeriez peut-être d'avis. Mettons-nous en route, alors." Elle se frappe les mains l'une contre l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pas un seul. Grâce à vous, je dors comme un bébé. Non, mieux encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je n'aurais jamais imaginé que le néant puisse être si chaleureux et agréable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Toujours. Il ne se passe pas un jour ou une nuit sans que j'entrevoie les ténèbres. Mais ça ne fait rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ai quelque chose de sauvage dans le sang, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ils hantent mon esprit quand je dors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Et parfois je les sens au fond de ma gorge, tels une traînée de sable. Ça arrive quand j'absorbe une âme particulièrement... instable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Pendant la guerre du Saint ou après sa mort ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eh bien, avant sa mort il était toujours l'Éothas que la majorité de mes frères et sœurs connaissaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'ai l'impression que vous ne cadrez pas réellement avec les autres Étoiles de l'aube."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Il est sans doute dans la nature de la lumière de vouloir éclipser les ténèbres, mais cela ne favorise pas un équilibre." La tête basse, elle tâte pensivement du doigt le tranchant de sa faucille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ce n'est pas comme si la nuit et la mort étaient de mauvaises choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous et Edér semblez bien vous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous croyez ?" Elle vous décoche un sourire narquois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je veux dire..." Le regard baissé, Xoti soupire. Du bout de la langue, pointe rose cendré, elle s'humecte la commissure des lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous éprouvez de l'affection pour lui, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vous êtes peut-être un peu jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Oui. J'ai essayé de l'éviter, mais je ne peux pas m'en empêcher." Elle expédie cette confession en rougissant légèrement, avec un hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"C'est comme ça que vous appelez une femme de vingt-sept ans ? À moins que vous me trouviez immature... je conviendrais mieux à quelqu'un d'autre, peut-être ?"
+
+Ses yeux brillent gaiement et elle étudie vos lèvres, votre nez, votre menton, tandis qu'elle incline la tête en arrière. Puis, pour empirer les choses, elle vous décoche un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Le problème, Gardien, c'est que je ne pense pas qu'il m'apprécie tellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous avez une personne à me suggérer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Qu'est-ce que c'était que ça, Xoti ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est elle qui a commencé !" Furieuse, Xoti crache littéralement à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bon, d'accord. C'était peut-être moi. Mais cette tête emplumée le méritait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Salut, vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ouais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je suis tout ouïe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Il est temps que je me mette en quête d'âmes perdues." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ouais. Mieux vaut nous mettre en route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Si vous avez besoin de moi, vous n'avez qu'à beugler un bon coup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"N'est-il pas inconvenant pour une prêtresse de jurer autant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Probablement, oui." Elle vous adresse un large sourire plein d'assurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Mais je ne peux pas museler mon côté rebelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sans exagérer, cela dit. Ma mère m'a surprise une fois en train de batifoler dans les buissons. Et bien sûr, je me bats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Mais je n'ai jamais vraiment rien fait de plus grave. Et je n'utilise pas les mots les plus vilains."
+
+Elle agite sa faucille en une espèce de signe d'impuissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Parfois les sentiments... jaillissent de moi sans prévenir. Bon sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ne le sont-elles pas, pourtant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Il est inutile de craindre les forces naturelles. La vie n'est pas une ligne droite, c'est un cycle. Il faut se dépouiller de son ancienne vie pour accueillir la nouvelle." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"La lanterne brûle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"C'est quelqu'un de bien. Il est gentil aussi. Mais un peu vieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est possible. Mais ça dépend..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bon sang, Xoti. Ce n'est pas ce que je voulais dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Incapable de se retenir, elle s'esclaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous ressemblez à ma grande prêtresse lorsqu'elle hésite à m'étriper sur place." 
+
+Elle laisse échapper un soupir de dépit et gratte le sol du bout du pied. Elle lance deux coups de pied, puis s'arrête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je ferais mieux d'arrêter mes bêtises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[L'embrasser passionnément]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Et de quoi est-ce que ça dépend ?" Xoti s'approche doucement, presque avec hésitation, jusqu'à ce que le bout de ses bottes touche les vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Un silence pesant s'installe avant que Xoti s'éclaircisse la voix d'un air gêné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Une exclamation étranglée tente de s'échapper de sa gorge, mais vous l'avalez, tel un envahisseur, un conquérant, la pressant jusqu'à ce qu'elle s'abandonne à votre étreinte musclée et vous rende timidement votre baiser.
+
+Avec enthousiasme, elle se laisse alors complètement aller, cramponnée à vos épaules et à votre cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je vais prendre ça pour un non... Merci de m'avoir ménagée."
+
+Chamboulée, elle tripote le plat de sa faucille, et vous notez que ses ongles sont presque livides, sales et rongés jusqu'au sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Lorsque vous vous détachez, elle tente de suivre vos lèvres avec un petit grognement. Mais, tout aussi soudainement, elle se reprend, le rouge lui monte aux joues et elle jette à la dérobée des regards alentour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Par Gaun ! C'était... Je veux dire, je..." Confuse, elle s'évente, la tête rentrée dans les épaules, tandis que ses lèvres gonflées tressaillent de façon charmante.
+
+Lorsqu'elle relève la tête, ses yeux bruns luisent d'un voile sombre. D'un profond désir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Vous comptez m'embrasser maintenant, Gardien ? Parce que si c'était le cas... Je ne pense pas que je m'en plaindrais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je voulais juste dire qu'Edér et vous étiez bien assortis malgré votre différence d'âge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Bien sûr, pourquoi pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Désolé, ça ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous me trouvez frivole." Elle rougit légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ah, vraiment ?" Elle serre les lèvres d'un air buté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous savez vraiment comment parler aux filles. Pas vrai, Gardien ?"
+
+Xoti souffle mais, en dépit de son ressentiment momentané, elle s'humecte les lèvres et son regard s'égare vers votre bouche, chargé d'attente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ça ne répond pas à ma question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"C'est ma tante qui m'a appris le cycle de la vie. Et de la mort. Qui m'a expliqué que tout se produisait par phases."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Qu'on évolue ou qu'on régresse... de la graine à la pourriture pour renaître à nouveau... tout n'est que phases de l'existence et équilibre. Vous comprenez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'est comme ça que j'ai appris que Gaun existait au sein d'Éothas."
+
+Elle vous adresse un large sourire, confiant et heureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ensuite, j'ai dévoré toutes les doctrines de Gaun, tout ce sur quoi je pouvais mettre la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Par exemple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Les douze livres de Nyrwith. Ainsi que les épîtres des prophètes mineurs. Beaucoup ne font pas partie des canons actuels, mais ça ne veut pas dire qu'ils ont tort."
+
+Elle croise les bras sur la poitrine, d'un air amer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"La tradition veut que le cadet de la famille devienne prêtre d'Éothas. À ma façon, je l'ai respectée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vraiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Vous pouvez développer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Pas pour le moment. Peut-être jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Toutes mes condoléances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Xoti, avez-vous tué votre famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>L'espace de quelques battements de cœur, elle semble sur le point de fondre en larmes, le visage crispé de douleur. Puis elle se passe une main sale sous le nez toute trace de l'émotion s'évanouit complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Me lamenter n'a jamais rien changé pour moi. Mais merci quand même de compatir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>L'espace de quelques battements de cœur, elle semble sur le point de fondre en larmes, le visage crispé de douleur. Puis elle se passe une main sale sous le nez toute trace de l'émotion s'évanouit complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Non. Je n'étais pas encore une faucheuse d'âme. Et je n'avais pas non plus appris la valeur de la pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Bon sang, vous me faites tourner la tête, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"C'est une bonne chose que nous ayons mis les choses à plat, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Mais il n'y a pas que ça... vraiment. Je fais de mon mieux, mais je crois qu'il ne m'aime pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[L'embrasser chastement sur la joue]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Oh ! Je... ce n'est pas tout à fait ce que j'imaginais..."
+
+L'espace d'un instant, elle semble hésiter entre rire ou pleurer. Puis un sourire amusé adoucit ses traits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je suppose qu'il faut me faire une raison." La déception marque les traits de son visage fermé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Xoti se penche en avant, visant clairement vos lèvres. Mais vous déviez le visage juste avant qu'elle touche vos lèvres. À la place, vous déposez un doux baiser au bord de sa joue. 
+
+Surprise, elle s'écarte brusquement et laisse retomber ses mains, qu'elle avait tendues vers vous. Son visage tout entier s'empourpre tandis qu'elle recule d'un pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Oubliez-le. Vous pouvez trouver mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Pour m'intéresser à quoi ? Ou à qui, vous voulez dire ?"
+
+Ses yeux brillent gaiement et elle étudie vos lèvres, votre nez, votre menton, tandis qu'elle incline la tête en arrière. Puis, pour empirer les choses, elle vous décoche un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Qu'est-ce qui vous fait dire ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Vous êtes trop pressante. Il trouve ça irritant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Il est si aimable et prévenant, si ce n'est envers moi, du moins envers tous les autres. Et il est tellement grand et fort. Je suis sûre que mon père l'aurait apprécié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"En dehors du fait que, chaque fois que je lui adresse la parole, il me houspille ?" Elle sourit du coin des lèvres, semblant à la fois confuse et amusée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Voilà exactement ce qu'a envie d'entendre une fille... Formidable, simplement formidable. Y a-t-il quelqu'un que je n'aie pas encore repoussé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Il faut vous faire une raison, Xoti. Vous devez passer à autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Peut-être qu'il vous aime, mais qu'il ne sait pas comment vous le montrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Que vaut un homme qui ne peut pas admettre ses sentiments ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous n'avez sans doute pas tort." Elle grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Est-ce que vous lui avez montré vos... charmes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Mes... mes quoi ?" Elle croise les bras sur sa poitrine en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Lui adresser un regard plein de sous-entendus]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Les aspects les plus admirables de votre personnalité. Comme votre passion et votre vivacité d'esprit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je parle de vos attributs féminins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Oh." Un sourire se dessine lentement sur ses lèvres, et elle laisse tomber les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Elle vous rend votre regard. Elle cligne des yeux et se passe la langue sur les dents d'un air maussade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Bon sang, Gardien !" Elle s'étouffe et se couvre la bouche de sa paume. Elle jette des regards furtifs alentour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Non. Oui. Je veux dire peut-être. J'ai essayé une ou deux fois. Mais en vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Bien sûr que non. Et je ne le ferai pas. Pas sans y être invitée, en tout cas..."
+
+Avec un gémissement étranglé, elle se prend la tête dans les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Moins fort, vous voulez bien ? Et la réponse est non..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Que dois-je faire ? Vous m'aiderez, Gardien, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Insistez. C'est tout ce que vous pouvez faire pour l'instant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Donnez-lui le temps, et la place, de changer d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"C'est vrai. Même moi, je sais que pour attraper un cerf, il faut le chasser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Xoti se mâchonne un moment la lèvre inférieure avant de pousser un léger soupir. Elle marmonne quelque chose qui ressemble à « mm-hm ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Vous devriez probablement l'encourager à parler d'Éothas et de la guerre du Saint. Ou de son frère décédé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Vous croyez sincèrement que ça va nous amener à faire rapidement des galipettes ? Parce que chaque fois que j'aborde ces sujets, c'est comme si j'avais une haleine de rat mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Et à ce rythme, ça risque de ne jamais arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je suis sceptique. Mais j'y réfléchirai, promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"J'espère que vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Une nuit, pendant que tout le monde dormait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ses traits se décomposent tandis que ses espoirs s'effondrent. Incapable de vous regarder en face, elle vous jette un regard furtif de sous ses cils tout en se mordillant la lèvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous me trouvez sans doute naïve, et vous avez peut-être raison... mais d'après ce que j'ai pu constater, je pense qu'il doit y avoir un peu d'ardeur entre un mari et son épouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je suppose que je me suis ridiculisée ? Encore plus que d'habitude ?" 
+
+Xoti gratte le sol du bout du pied, en silence, la tête basse. Après une longue pause, elle relève la tête, un air de défi dans le regard, la mâchoire serrée, et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Si tout était facile, nous n'aurions aucune raison de vénérer nos dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Bas les pattes. Edér est à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Un son étranglé s'échappe de la gorge de Xoti. Les yeux écarquillés, elle se martèle la poitrine du poing, s'étouffant jusqu'à ce qu'elle réussisse à prononcer quelques mots d'une voix enrouée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Pardonnez-moi. J'ignorais que vous étiez... promis l'un à l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Soyez sûr que je ne parlerai plus jamais de lui." Elle ferme la mâchoire et détourne le regard, visiblement réticente à poursuivre la discussion sur ce sujet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Je vous arrête tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Continuez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Elle s'éclaircit la voix en se dissimulant la bouche derrière ses doigts. Vous ne savez pas si elle est gênée ou si elle cherche à étouffer un ricanement. Puis elle pousse un soupir et semble se détendre. Elle se penche en avant et vous pouvez presque sentir le poids de son désir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"J'ai emprunté une bouteille de rhum et je l'ai réveillé. Je pensais qu'il serait plus enclin à discuter à la lueur de ma lanterne. Vous comprenez, si nous n'étions que tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ouais. Tout ce que vous avez besoin de savoir, c'est que ça n'a pas fonctionné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Il m'a regardée comme si j'étais un scorpion qui s'était faufilé dans son sac de couchage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vous ne mettez pas un peu la charrue avant les bœufs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Si c'est de la passion que vous voulez, vous ne cherchez pas au bon endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Elle éclate d'un rire nerveux avant de pouvoir le réprimer en plaquant les deux mains sur sa bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Tiens donc, vraiment ? Je m'intéresse à la mauvaise personne ?" Xoti s'éclaircit la voix, masquant le bas de son visage derrière son poing tandis que le rouge lui monte aux joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"C'est un bon argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Un large sourire se dessine lentement sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Non, tout le monde est d'accord sur ce point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Bien sûr. Je vous aime bien, moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Maia et vous semblez bien vous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Oui, c'est vrai. J'aime bien Maia. Elle est plus solide que l'acier, agile comme un vison, sans parler de son intelligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Vraiment ? Vous ne dites pas ça simplement pour me remonter le moral ?" Son regard erre lentement de votre torse à vos cuisses. Un regard appréciateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Merci de vous ranger à mon point de vue, Gardien. Parfois, les filles doutent d'elles-mêmes, et alors c'est comme si le monde entier nous condamnait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Mais même quand on n'est pas d'accord, je sais que vous me soutenez. Sachez que moi aussi je vous soutiendrai toujours."
+
+Elle pousse un profond soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ce n'est pas ça qui va régler mon problème, toutefois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"J'ai réellement envie de fonder une famille un jour, que ce soit avec quelqu'un d'autre ou non." Elle soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Enfin à condition qu'on vive tous assez longtemps... et que j'aie tort à propos des ténèbres à venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"En attendant..." Elle se frotte la nuque avec la main, le visage grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Peut-être que je cherchais l'amour et l'affection... l'empathie... au mauvais endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Je dois admettre que vous êtes trop bien pour moi. Je ne pensais pas avoir la moindre chance. Mais maintenant, je me demande... 
+
+Gardien, est-ce que par hasard vous auriez... envie de moi... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"J'essayais de vous conseiller au sujet d'Edér."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"O-oh. Bien sûr." Elle se mordille la lèvre et détourne le regard, gênée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"J'en étais sûre. Je ne suis bonne à rien. Lamentable. Je serais incapable de me sortir de la moindre situation par mon charme, même si votre vie en dépendait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Évidemment, elle est très jolie aussi." Xoti fronce les sourcils tandis qu'une étrange expression, une prise de conscience, la saisit. Puis elle sourit doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Par Gaun, je ferai de mon mieux. Je vous le promets. C'est juste que..."
+
+Comme si elle ne pouvait pas s'en empêcher, elle vous lance un sourire radieux, plein d'espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Une intensité aiguise les traits de Xoti. Elle pénètre ses épaules, la cambrure de ses hanches et, l'espace d'un instant, la lanterne accrochée à son support semble crépiter de cette même détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Elle secoue sèchement la tête et relâche sa lèvre. Puis, bondissant sur la pointe des pieds, elle souffle et relève fièrement le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Devenir plus folle que je ne le suis déjà ? Je ne sais pas vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Qu'est-ce que vous allez faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ne vous inquiétez pas. Nous trouverons une solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"On y arrivera ? Le faut-il vraiment ? Je ne sais pas." Xoti soupire et se pince l'arête du nez entre ses doigts sales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Je n'arrive pas à croire que vous avez pris son parti, Gardien !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Au moins, je sais que vous êtes derrière moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Pallegina a raison. Arrêtez d'être si étroite d'esprit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Je vous soutiendrai toujours, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Quant à vous... vous ne m'avez pas du tout aidée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ohhhh ! Vous me donnez envie... vous me donnez envie d'étrangler quelqu'un, Gardien. Et je pense que le meurtre ne sied guère à une prêtresse." Elle se tourne pour hurler par-dessus son épaule en brandissant sa faucille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"V-vous appelez ça me soutenir ?! Vous pourriez m'expliquer ça, Gardien ? Parce que, pour l'instant, j'ai plutôt l'impression d'avoir été poignardée dans le dos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"MÊME SI ELLE LE MÉRITE !"
+
+La prêtresse porte à nouveau son regard furieux vers vous. Elle appuie le revers incurvé de sa faucille contre votre poitrine. Coup de faucille. Regard noir. Coup de faucille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vous savez quoi ? Peu importe. Je n'ai besoin du soutien de personne. Ni de celui de ma mère, les dieux aient son âme. Ni de celui de ma grande prêtresse. Ni du vôtre."
+
+Xoti donne un coup de pied par terre, assez fort pour envoyer valdinguer quelques débris. Puis, elle pousse un juron à voix basse et s'éloigne en fulminant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Gardien, je me demandais si je pouvais vous parler de quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Qu'est-ce qui vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Peut-être une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Eh bien, pour faire simple... Vous." Elle déglutit péniblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Oh. Ouais, d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Disons, un certain fidèle d'Éothas qui parfois fuit la lumière, mais qui a bon cœur et qui est plein de bon sens."
+
+Ses joues s'empourprent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Qu'est-ce que cela signifie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Je crois savoir où vous voulez en venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"V-vraiment ? J'espère que c'est bon signe, alors. Ou du moins que c'est de meilleur augure que mes présages habituels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Pardonnez mon audace. Je sais que je ne devrais pas, mais j'ai de l'affection pour vous. Plus que je ne saurais le dire."
+
+Les doigts tremblants, elle essuie ses mains moites sur sa tunique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Est-ce que ça a marché avec Edér ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"J'aimerais le croire, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Non. Je suis quasiment certaine que ça ne marchera pas."
+
+Elle hausse les épaules en se frottant la nuque. Étonnamment, ça n'a pas l'air de la contrarier plus que ça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Pour être honnête, je pensais que ça m'affecterait davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je ne suis pas intéressé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Grâce à vos conseils, nous avons pu parler à cœur ouvert. J'aimerais croire que nous sommes au moins amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Avec un sourire éclatant, elle vous adresse un hochement de tête empreint de gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Je me demandais si mes sentiments étaient réciproques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Je pensais que ce serait évident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Je croyais que c'était Edér qui vous intéressait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Comment me permettrais-je de croire.. ou par Hel, ne serait-ce que penser... que le Gardien lui-même pourrait s'intéresser à moi ? Je le désirais ardemment, oui. Mais l'espérer... ?"</DefaultText>
+      <FemaleText>"Comment me permettrais-je de croire.. ou par Hel, ne serait-ce que penser... que le Gardien elle-même pourrait s'intéresser à moi ? Je le désirais ardemment, oui. Mais l'espérer... ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Je le croyais aussi, au début... mais à un moment donné, je me suis rendue compte que ce n'était pas lui qui faisait vibrer mon cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Combien de temps allez-vous faire une fixation sur lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Elle déglutit péniblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Que voulez-vous dire, Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Il n'est pas fait pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Oubliez ça. Remettons-nous en route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Comme si je ne le savais pas. J'ai l'impression qu'il est fait pour tout le monde SAUF pour moi." Elle pousse un petit soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Je savais que je n'avais aucune chance avec vous, alors je pensais me rabattre... Mais ça n'a plus d'importance maintenant. C'est du passé."
+
+Elle se masse les tempes de ses doigts maculés de terre, puis son cuir chevelu, se décoiffant au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"J'ai beau essayer, je ne peux pas m'empêcher de penser et rêver à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"En fait, c'est plutôt une personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Je ne sais pas ce qui cloche chez moi. Chaque fois qu'il est près de moi, je deviens muette, et quand il n'y est pas, je n'arrête pas de penser à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"C'est votre opinion. Et maintenant que vous l'avez formulée, je peux la prendre à cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"En attendant, nous ferions mieux de nous remettre en route..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"J'ai presque peur de le croire... de croire que vous pourriez avoir envie de moi avec autant de force."
+
+Xoti rentre la tête dans les épaules, sans toutefois réussir à masquer la rougeur de ses joues ni le sourire qui lui fend le visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Il était grand temps de vous réveiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"J'ai toujours été là pour vous, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Et il ne me fait pas frissonner comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"La vérité, c'est que j'avais peur d'avoir envie de vous. Je ne pensais pas que le Gardien lui-même pourrait s'intéresser à moi."</DefaultText>
+      <FemaleText>"La vérité, c'est que j'avais peur d'avoir envie de vous. Je ne pensais pas que la Gardienne elle-même pourrait s'intéresser à moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Je ne l'admire pas comme je vous admire." Elle s'humecte les lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"C'est vrai. Je sais que vous avez toujours été là. C'est juste que..." Elle baisse timidement les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Pourquoi ne pas continuer cette discussion dans un endroit plus... intime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Que faisons-nous maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Je pensais que vous ne le demanderiez jamais, Gardien." Elle laisse échapper un rire guttural, ardent, tandis qu'elle vous tire par la main.</DefaultText>
+      <FemaleText>"Je pensais que vous ne le demanderiez jamais, Gardienne." Elle laisse échapper un rire guttural, ardent, tandis qu'elle vous tire par la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Il y a tant de choses que je meurs d'envie d'essayer et de voir... ou de ne pas voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Si vous êtes sûr de vouloir de moi, je ferai de mon mieux pour marcher la tête haute à vos côtés. Vous verrez, je vous rendrai fier. Vous et mon dieu."
+
+Lentement, délicatement, elle enlace ses doigts dans les vôtres. Tandis qu'elle plonge son regard dans vos yeux, ses pupilles se dilatent, engloutissant le brun de ses iris.</DefaultText>
+      <FemaleText>"Si vous êtes sûre de vouloir de moi, je ferai de mon mieux pour marcher la tête haute à vos côtés. Vous verrez, je vous rendrai fière. Vous et mon dieu."
+
+Lentement, délicatement, elle enlace ses doigts dans les vôtres. Tandis qu'elle plonge son regard dans vos yeux, ses pupilles se dilatent, engloutissant le brun de ses iris.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Mais sachez-le dès maintenant : je ne suis pas une femme partageuse."
+
+Elle se penche en avant et dépose un baiser sur vos lèvres. Elle vous embrasse doucement une fois, puis deux, avant de s'abandonner à vous avec un soupir, les yeux clos tandis qu'elle approfondit le baiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Très bien, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Vous êtes sérieuse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Avec joie." Elle vous salue en souriant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Retrouvons-nous à la Cabine du capitaine, où nous pourrons prendre tout notre temps. Je vous demande seulement d'être patient avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Vous avez de l'affection pour moi... en tant qu'ami ?"</DefaultText>
+      <FemaleText>"Vous avez de l'affection pour moi... en tant qu'amie ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Le rouge lui monte violemment du sommet des oreilles à la pointe du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Plus que ça. Je n'ai pas seulement de l'affection pour vous. J'ai envie de vous, Gardien, Pour toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Moi aussi j'ai envie de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ça me flatte, vraiment. Mais ne croyez-vous pas que nous avons des problèmes plus urgents à régler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Comme Gaun qui saccage tout sur son passage ? Et les ténèbres à venir lors de la moisson finale ?" Elle serre les dents, son visage aux joues rouges empreint d'angoisse... et de détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Elle passe le bout de sa langue rose sur ses lèvres. Elle prend sensuellement sa lèvre inférieure entre ses dents avant de pousser un soupir ardent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Ouais, vous avez sûrement raison. Merci de m'avoir rappelé mes priorités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"On dirait qu'un grand poids vous a été ôté des épaules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Elle gratte le sol du bout du pied, d'avant en arrière. Elle redresse les épaules avant de les laisser retomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Vous savez quoi ? Oubliez ça. Oubliez même que j'ai songé à aborder le sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ne vous préoccupez pas de ça, Gardien. Sérieusement." Un muscle palpite le long de sa mâchoire serrée. Les épaules droites, elle s'éloigne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Quand on pense à quel point vous êtes puissant par rapport à moi, ça n'a aucun sens, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Mais bon sang, ça me rend très, très heureuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Glisser une mèche de cheveux flottante derrière son oreille]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Un sourire confiant se dessine sur le visage de Xoti, dévoilant ses dents blanches. Elle se passe le bout de la langue sur ces dents nacrées, s'arrêtant songeusement sur une canine avant de lentement, délicatement, enlacer ses doigts dans les vôtres. 
+
+Les pupilles dilatées, elle inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Je ferai tout pour que vous ne regrettiez jamais de m'avoir choisie, Gardien. Vous verrez."
+
+Elle se penche en avant et dépose un baiser sur vos lèvres. Elle vous embrasse doucement une fois, puis deux, avant de s'abandonner à vous avec un soupir, les yeux clos tandis qu'elle approfondit le baiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Vous m'appartenez, Xoti, et à personne d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Vous avez raison sur ce point." Délicatement, la prêtresse vous prend la main et la plaque sur son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Je parie que d'autres parties de votre corps sont tout aussi chaudes. Voire plus chaudes encore." Les muscles de sa gorge se tendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Quand vous me touchez comme ça, même à travers mes vêtements, votre main est aussi chaude qu'un tison. J'aimerais inscrire votre nom au fer rouge sur mon cœur, Gardien. Si seulement vous m'y autorisiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"J'aimerais m'en rendre compte par moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Tudieu." Elle halète doucement, ouvrant des yeux sidérés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"J'ai changé d'avis. Je ne crois pas que ce soit une bonne idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"C'est une blague ? Je n'apprécie pas beaucoup qu'on se moque de moi, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Ne croyez pas que je vous le proposerai à nouveau." La mine renfrognée, Xoti crache par terre avant de vous tourner le dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Il faut qu'on se sépare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Vous avez le goût de rêves oubliés. Du destin." Elle halète doucement, ouvrant des yeux sidérés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Je vais réduire la lumière de ma lanterne. Je veux qu'il n'y ait rien d'autre que des ombres entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Avec langueur, Xoti se passe la main dans ses cheveux décoiffés. Elle vous regarde avidement, alors même qu'elle devrait être rassasiée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"C'était divin. Gardien, vous êtes assurément une bénédiction de Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Quelle est la différence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Parlez-moi de lui avant et pendant la guerre du Saint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Après. Je veux dire maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Je ne sais que ce que mes parents m'ont appris." Hésitante, elle se gratte l'arrière du crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Dans ce cas, vous voulez parler de Gaun ? Bien sûr, peut-être que mon dieu répond toujours au nom d'Éothas, aussi. Pourquoi pas ? Mais Éothas est mort. Et la mort implique un changement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Elles m'appellent. C'est mon devoir et mon dieu. Elles le savent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Peut-être que je cherchais l'amour et l'affection... l'empathie... au mauvais endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Où voulez-vous en venir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Arrêtez-vous là. Je ne veux pas l'entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Je sais que c'est de la folie, et que vous allez probablement me haïr à jamais si je le dis... mais je me haïrai encore plus si je me tais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"De mon esprit, plutôt." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Éothas s'est incarné en homme... et quand cet homme a été déchiqueté par la bombe, nous avons tous cru qu'Éothas était mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Xoti se tapote les lèvres avec un doigt, l'air songeuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Xoti redresse le dos, droite comme un piquet et son expression se fige de même. Tout signe de son habituelle allégresse disparaît brusquement de son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Réfléchissez soigneusement avant d'ouvrir à nouveau la bouche. Parce que ce sera définitif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"C'est terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Vous n'avez aucun sens de l'humour. Je plaisantais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Elle soupire, aussitôt vidée de tout esprit combatif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Je sais que je peux parfois donner l'impression d'être un peu... trop intense. Je suppose que je ne suis pas surprise qu'on en arrive là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Quoi qu'il en soit, vous feriez mieux de ne dormir que d'un œil pour le restant de notre périple."
+
+Elle vous adresse un sourire bienveillant, mais ses yeux brillent d'un éclat dérangeant, retors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"J'espère seulement que nous pourrons rester amis." Elle rentre la tête dans les épaules et se masse la nuque d'une main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Le temps d'un battement de cœur, tout son corps se détend. D'un air presque penaud, un sourire soulagé incurve ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Ne plaisantez pas avec moi comme ça. Je ne sais jamais si vous êtes séreux."
+
+Elle secoue la tête et vous donne un coup de poing dans l'épaule, sans se retenir, et vous remarquez la colère sombre qui couve dans son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Quoi qu'il se passe dans les jours et les nuits à venir, je n'oublierai jamais celui qui m'a délivrée de mes rêves..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"... et du fardeau des âmes que j'avais acquises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Vous vous rapprochez donc de votre but ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Oh, en effet, Gardien." Elle hoche gravement la tête, les yeux noyés dans les ombres.
+
+Lorsqu'elle lève la lanterne à hauteur de son visage, celle-ci cliquète violemment au bout de sa chaîne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Vous les entendez là-dedans ? Les nouvelles âmes que j'ai attrapées ?"
+
+Les longs cils de Xoti, noirs tels les ailes d'un corbeau, papillonnent de ravissement tandis qu'elle colle son oreille contre le verre de la lanterne pour écouter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Elles me procurent déjà de doux rêves mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Je croyais que, de par leur culture, les Readcerans formaient uniquement des couples en mesure d'engendrer une progéniture viable... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Ouais, et où voulez-vous en venir... ?" D'un air revêche, elle croise les bras sur la poitrine en se déhanchant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Faut-il que nous ayons la conversation au sujet de la petite graine, Xoti ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Visiblement, ça ne vous inquiète pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Ne prenez pas la mouche, j'étais juste curieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"J'ai mis au monde suffisamment de veaux, chevreaux et porcelets, sans compter mes propres frères et sœurs pour savoir comment tout s'emboîte, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Si, ça me préoccupe, mais pas de la façon dont vous pensez. Je suis têtue, d'accord. Mais je ne suis pas totalement ignare."
+
+Elle se frotte le nez de ses doigts sales, à la peau sèche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"D'accord." Elle hausse les épaules, les bras ballants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Dans ce cas, je suis curieuse de savoir pourquoi vous vous en souciez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Je suis simplement surpris que vous soyez différente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Laissez tomber..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Toute ma vie, ma famille n'a cessé de se plaindre de ma différence." Elle hausse à nouveau les épaules en se grattant une oreille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Tant que mon dieu est satisfait de moi, que m'importe si les autres m'apprécient ou non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Sans problème. Je laisse tomber si vous faites de même, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Pour ce qui est du long terme, vous avez raison. Ma mère voulait que je devienne une pieuse porteuse de lumière, qui élèverait suffisamment d'enfants pour prendre la succession de la ferme familiale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Mais je ne suis pas comme ça. Et je ne pense pas vouloir un jour devenir comme ça. Je suis une faucheuse d'âme de Gaun. Mon but n'est pas de cultiver, il est de guider les âmes des morts, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Vous me répondrez que je peux sans doute faire les deux. Peut-être que je le ferai, un jour. Peut-être aussi que ça n'arrivera jamais. Mais cette décision n'appartient qu'à moi et à mon dieu."
+
+Elle soupire et ses épaules s'affaissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Je pense juste... pourquoi est-ce que ça devrait poser problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Et je pense qu'une partie de lui est effectivement morte : la partie qu'il avait le plus entremêlée à sa chair. La partie qui représentait la vie. Et la renaissance après la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Ce qui signifie que la partie de lui qui a peut-être survécu, qui a ravagé les mers du Feu éteint, était la partie liée à l'abscission, à la pourriture et au dépouillement.
+
+"La partie qui représente la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Éothas s'est incarné en saint Waidwen. Mais, pendant la guerre, une bombe l'a réduit en miettes. C'est le problème avec les corps humains. Ils finissent tous par mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"En tant que divinité de la renaissance, il était bien entendu écrit qu'Éothas reviendrait. Mais là où mon opinion diffère de celle de ma famille, et de celle de ma prêtresse, c'est que j'ai étudié l'apothéose de Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Je sais donc tout de l'envers du décor, de la chute, de la phase &lt;i&gt;mortelle&lt;/i&gt; du cycle de la vie. Abscission. Pourriture. Renaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Ce qui disparaît est perdu à jamais. Ce qui revient est changé. Toujours.
+
+"Même si ce qui revient est un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Il n'est plus ce qu'il était. Pas exactement de la même façon. Voilà pourquoi je pense que c'est son autre aspect, ses ténèbres dans la lumière, qui brûle plus vivement en lui aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Ce n'est pas comme si je pouvais tourner le dos à mon devoir envers mon dieu. Même si je dois en mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"J'ai confiance en vous, Gardien, Je vous le jure. C'est juste que... J'ai parfois peur de ce qui m'attend. Mais, bon..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Et parfois je les sens au fond de ma gorge, tels une traînée de sable. Ça arrive quand j'absorbe une âme particulièrement... instable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Je vous soutiendrai toujours, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Cela fait longtemps que je n'ai pas eu quelqu'un pour me soutenir, Gardien. J'ai énormément de chance de vous avoir rencontré.
+
+"Ça me fait penser que c'est peut-être le destin qui nous a réunis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Quant à &lt;i&gt;vous&lt;/i&gt;... Je n'ai plus rien à vous dire pour le moment. Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>[Prendre la faucille de Xoti]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>[Éclater de rire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"H-hé ! Bon sang, Gardien ! C'est du vol !" Elle se précipite pour attraper la faucille, mais vous la maintenez facilement hors de sa portée. Rapidement, le rouge monte aux joues de Xoti, qui se met à rire, comme si elle avait à la fois envie de vous étrangler et de vous embrasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Xoti écarquille les yeux et son visage s'empourpre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Vous trouvez que j'exagère. D'accord. Peut-être que vous avez raison. Mais vous n'aviez pas besoin de réagir comme ça."
+
+Elle croise les bras sur sa poitrine, les sourcils froncés, avant de laisser échapper un rire irrité. Elle secoue la tête et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Vous avez de la chance que je ne puisse jamais rester longtemps en colère contre vous." Poussant un soupir exaspéré, elle se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Que j'étais destinée à vous aider, tout autant que vous m'avez aidée." Elle se masse timidement la nuque, tandis qu'un sourire radieux se dessine sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Oui. Et vous étiez dans l'un d'eux, récemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Vous arpentiez les profondeurs océaniques, sans vous noyer. Et dans votre main, vous teniez la clé de la fin d'Eora." 
+
+Son visage s'illumine de férocité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"J'ai vu des étoiles couronner le front d'une statue et des âmes couler telles des larmes sur de l'adra étincelant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Alors mon dieu s'en est allé au cœur de la tempête. Où il pourrait trouver l'obscurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Quelqu'un d'autre que les dieux sait ce qui se passe dans la tête d'Edér ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Des problèmes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"La vie en mer est une belle aventure, n'est-ce pas ? Imaginez tous ces lieux que nous pouvons atteindre. Tous ces paysages que nous pouvons admirer. Ce n'est vraiment pas comme rester coincé dans une ferme... ou au fond d'un temple."
+
+Xoti frotte sa faucille contre sa cuisse tout en examinant la disposition du bateau. Satisfaite, elle penche sa tête vers vous avec un petit sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Je suis contente que nous ayons pu discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Vous savez où me trouver si vous voulez discuter. Ou si vous voulez communier autrement." Ses yeux brillent de malice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Pas de problème, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"On y va ou pas ?"
+
+Xoti lèche ses lèvres gercées, ses yeux sombres se plissant quand elle aperçoit les ruines de l'antique cité. La lanterne qu'elle tient en hauteur projette des ombres sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Nous sommes arrivés jusqu'ici, et pourtant nous sommes encore vivants. On ferait bien de régler son compte à mon dieu avant que la chance nous tourne le dos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Est-ce que ça valait le coup de pourchasser votre dieu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Peu importe ce qui arrivera avec Éothas, je suis avec vous. D'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Si nous survivons... Non, ne faites pas attention. Je vous le dirai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Vous pensez qu'on pourra lui faire entendre raison ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"J'imagine que oui. Bien sûr, j'ai fait des choses que je regrette à présent. Gaun sait que j'ai beaucoup de sang sur les mains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Mais je ne pourrais imaginer d'autre moyen." Xoti serre la mâchoire, l'air lugubre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Bien sûr. Si Gaun veut votre mort, j'imagine qu'il peut arriver à ses fins tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Je vous prends au mot." Un sourire malicieux éclaire son visage, mais disparaît aussi vite qu'il est apparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Faire changer d'avis un dieu ? Vous voulez rire ?" La lanterne cliquète avant qu'elle l'abaisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Ça n'avait rien à voir avec la chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Ni avec la modestie, on dirait." Xoti vous adresse un sourire serein. Ses épaules se détendent et elle soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Eh bien, si quelqu'un en est capable, je pense que c'est bien vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Par ailleurs, la partie d'Éothas qui a ravagé le Feu éteint ne m'a pas été d'une grande aide aux Dents de Magran."
+
+Elle passe une main tremblante dans ses cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Je pensais que l'issue serait différente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Allons donc découvrir si nous vivrons ou si nous mourrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Ma lanterne pèse plus lourd à présent. J'ai presque l'impression d'entendre les âmes quand je l'agite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"À chaque âme, la lanterne se fait plus lourde dans ma main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Gardien, pourrais-je vous parler ? Juste une minute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Qu'est-ce qui vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Parlez-moi de l'implication d'Éothas avant et pendant la guerre du Saint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Quel est votre avis sur Éothas après la guerre du Saint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Bien sûr, et je le referais, avec encore plus d'effusions de sang cette fois. Pensez à toutes les âmes que j'aurais pu recueillir si je les avais moissonnée directement chez les vivants."
+
+Un frisson parcourt le dos de Xoti tandis qu'elle frappe sa faucille souillée de sang contre sa cuisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Et maintenant, si on partait affronter mon dieu une dernière fois ? Histoire de découvrir ce qu'on est ou pas capables de faire en ces temps de fin du monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Ça n'a pas vraiment marché aux Dents de Magran, pas vrai ? Mais d'accord, on peut de nouveau essayer de faire changer d'avis mon dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Si ça ne vous dérange pas, Gardien, je préfèrerais ne pas rater le moment où mon dieu abattra les ténèbres sur nous.
+
+"Je veux que Gaun devienne la vraie divinité de la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Comment pourrait-il en être autrement ? Gaun représente la mort et la décomposition. C'est une autre facette d'Éothas, qui régit quant à lui le processus de renaissance.
+
+"Mais Éothas est mort au cours de la guerre du Saint, et à présent Gaun s'apprête à détruire la réincarnation telle que nous la connaissons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Vous pensez que c'est ce qui va se passer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Dites-moi, Gardien, peut-il exister un dieu de la lumière et de la naissance si les âmes elles-mêmes se retrouvent incapables de renaître ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Elle reste silencieuse pendant si longtemps que vous pensez qu'elle ne va pas répondre. Puis elle frappe sa faucille souillée de sang contre sa cuisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Bien sûr, vous pouvez compter sur moi. Même si c'est mon dieu que vous affrontez."
+
+Mais ses paroles semblent creuses, tel un mensonge grossier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Elle pointe sa lanterne en direction des sombres ruines au loin, les os brisés d'Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Ouais, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Non, d'abord je veux vous parler de quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Pour que vous vouliez en discuter maintenant, ça doit être important. Très bien, j'écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Considérez moi comme votre deuxième ombre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Que nous soyons censés flétrir ou fleurir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Je veux dire..." Le regard baissé, Xoti soupire. Du bout de la langue, pointe rose cendré, elle s'humecte la commissure des lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Je vous plains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"C'est un léger progrès, mais vous y arriverez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"De quoi vouliez-vous me parler plus tôt ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"J'aimerais savoir ce qui &lt;i&gt;vous&lt;/i&gt; préoccupe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Vous savez où je veux en venir. Je vous l'ai déjà &lt;i&gt;dit&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"D'accord." Elle hausse les épaules, les bras ballants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Pour être honnête, je pensais que ça m'affecterait davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Vous vouliez parler de Maia, pas vrai ? J'écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Ce qui disparaît est perdu à jamais. Ce qui revient est changé. Toujours.
+
+"Même si ce qui revient est un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Ce qui signifie que la partie de lui qui a peut-être survécu, qui a ravagé les mers du Feu éteint, était la partie liée à l'abscission, à la pourriture et au dépouillement.
+
+"La partie qui représente la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Parfois les sentiments... jaillissent de moi sans prévenir. Bon sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Les autres se sont endurcis, sont devenus des survivants... et ça, je l'ai vu de mes propres yeux, même des années plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Ils sont morts." Xoti lève la tête pour vous regarder directement dans les yeux. Sans broncher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Il est inutile de craindre les forces naturelles. La vie n'est pas une ligne droite, c'est un cycle. Il faut se dépouiller de son ancienne vie pour accueillir la nouvelle." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"La tradition veut que le cadet de la famille devienne prêtre d'Éothas. À ma façon, je l'ai respectée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Ensuite, j'ai dévoré toutes les doctrines de Gaun, tout ce sur quoi je pouvais mettre la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Bien sûr, même si nous sommes peu nombreux et épars. Pour la plupart, nous ne nous cantonnons pas aux temples. Guider les âmes, ça nécessite de voyager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Alors mon dieu s'en est allé au cœur de la tempête. Où il pourrait trouver l'obscurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Ce n'est pas comme si je pouvais tourner le dos à mon devoir envers mon dieu. Même si je dois en mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Une nuit, pendant que tout le monde dormait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Vous me trouvez sans doute naïve, et vous avez peut-être raison... mais d'après ce que j'ai pu constater, je pense qu'il doit y avoir un peu d'ardeur entre un mari et son épouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Si tout était facile, nous n'aurions aucune raison de vénérer nos dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Je ferais mieux d'arrêter mes bêtises."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

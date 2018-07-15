@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_ruined_tower</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les vestiges d'une tour gisent éparpillés sur le sol devant vous. La structure en pierre semble s'être écroulée lors d'un tremblement de terre. La tour paraît abandonnée. Il ne reste pas même un cadavre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Continuer de fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous passez quelques heures à fouiller la tour...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... et vous ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... et trouvez un petit coffre plein de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... et trouvez quelques outils utiles parmi les décombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... et trouvez une poignée de gemmes ordinaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... et trouvez un paquet d'ingrédients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... et trouvez une cache pleine de puissants parchemins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... et trouvez un ensemble de potions rares entassées sur une étagère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... et trouvez un grimoire tout abîmé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>... et vous trouvez un étrange pendentif qui luit d'une douce lumière émanant de son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous avez fouillé le moindre recoin de la tour. Vous ne trouvez plus rien d'intéressant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Prendre le pendentif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous ramassez le pendentif et vous remarquez qu'il est étrangement chaud au toucher, comme si quelqu'un venait de le porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous avez fouillé le moindre recoin de la tour. Vous ne trouvez plus rien d'intéressant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous trouvez une tour en ruine qui se dresse au sommet d'un petit monticule. La structure en bois et en pierre est maculée de résidus de fumée huileuse, et quelques éléments de maçonnerie sont éparpillés en un large éventail au pied de la tour. Elle semble avoir été victime d'une espèce d'explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Une haute et étroite tour en bois s'élève au-dessus de vous. Au-dessus de la porte, qui s'ouvre au pied de la tour, est peinte une scène représentant Amira et Ngati en train de se livrer un violent combat. La tour penche fortement sur le côté, et semble sur le point de s'effondrer complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous retournez au pied de la tour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous continuez à explorer les ruines de la tour...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_tsk_all_aboard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tout le monde à bord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver &lt;b&gt;Biha&lt;/b&gt; à la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Contacter la &lt;b&gt;capitaine Sedūzo&lt;/b&gt; à la &lt;b&gt;taverne&lt;/b&gt; de la &lt;b&gt;Raveline&lt;/b&gt; au sujet d'un droit de passage pour &lt;b&gt;Biha&lt;/b&gt; et les enfants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Annoncer la nouvelle à &lt;b&gt;Biha&lt;/b&gt;, chez elle à la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai été témoin de ce qui paraissait être une exécution : un homme traîné de force dans une cage et descendu dans un profond ravin. Avant de disparaître, il appelait une femme du nom de &lt;b&gt;Biha&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai vu un Huana nommé &lt;b&gt;Botaro&lt;/b&gt; être descendu dans la &lt;b&gt;Vieille ville&lt;/b&gt;. Il a crié quelque chose à une femme appelée &lt;b&gt;Biha&lt;/b&gt;, mais n'a pas pu terminer ce qu'il avait à dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Une capitaine rauatai du nom de &lt;b&gt;Sedūzo&lt;/b&gt; est à la &lt;/b&gt;taverne des bidonvilles&lt;b&gt;. &lt;b&gt;Biha&lt;/b&gt; croit que Sedūzo pourrait les emmener au Rauatai, les enfants et elle, mais après ce qui est arrivé à Botaro, elle hésite à approcher seule la femme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je me suis arrangé pour obtenir un droit de passage sur le navire de la capitaine Sedūzo. &lt;b&gt;Biha&lt;/b&gt; doit préparer les enfants à leur départ imminent.</DefaultText>
+      <FemaleText>Je me suis arrangée pour obtenir un droit de passage sur le navire de la capitaine Sedūzo. &lt;b&gt;Biha&lt;/b&gt; doit préparer les enfants à leur départ imminent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Biha&lt;/b&gt; vit dans une maison qui donne sur les passerelles, près de la cage où &lt;b&gt;Botaro&lt;/b&gt; a été descendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Orron&lt;/b&gt; et sa compagnie de chevaliers du Pacte d'or ont réservé toutes les couchettes du navire de Sedūzo. Ils résident dans une &lt;b&gt;chambre à l'étage de la taverne&lt;/b&gt;. Je pourrais éventuellement aller leur parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai parlé à &lt;b&gt;Orron&lt;/b&gt;. Il n'a pas l'air disposé à céder ses places sur le &lt;b&gt;navire de Sedūzo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Je me suis assuré que la bande d'&lt;b&gt;Orron&lt;/b&gt; n'ira pas trouver &lt;b&gt;Sedūzo&lt;/b&gt;. Elle pourrait maintenant accepter d'embarquer &lt;b&gt;Biha&lt;/b&gt; et les enfants.</DefaultText>
+      <FemaleText>Je me suis assurée que la bande d'&lt;b&gt;Orron&lt;/b&gt; n'ira pas trouver &lt;b&gt;Sedūzo&lt;/b&gt;. Elle pourrait maintenant accepter d'embarquer &lt;b&gt;Biha&lt;/b&gt; et les enfants.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai embauché Rouille pour me débarrasser d'&lt;b&gt;Orron&lt;/b&gt; et de ses chevaliers du Pacte d'or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Je me suis assuré que la bande d'&lt;b&gt;Orron&lt;/b&gt; n'ira pas trouver &lt;b&gt;Sedūzo&lt;/b&gt;.</DefaultText>
+      <FemaleText>Je me suis assurée que la bande d'&lt;b&gt;Orron&lt;/b&gt; n'ira pas trouver &lt;b&gt;Sedūzo&lt;/b&gt;.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>La &lt;b&gt;capitaine Sedūzo&lt;/b&gt; a accepté d'emmener &lt;b&gt;Biha&lt;/b&gt; et tous les enfants au Rauatai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Je n'ai pu obtenir que trois places à bord parce qu'&lt;b&gt;Orron&lt;/b&gt; a réservé toutes les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Si je paie, &lt;b&gt;Sedūzo&lt;/b&gt; a accepté d'embarquer trois passagers. Quelqu'un du nom d'&lt;b&gt;Orron&lt;/b&gt; a réservé les autres places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Botaro&lt;/b&gt; a caché l'&lt;b&gt;argent de Dereo&lt;/b&gt; dans un tas de débris à proximité de la &lt;b&gt;taverne&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Botaro&lt;/b&gt; avait de l'argent sur lui avant d'être arrêté. &lt;b&gt;Biha&lt;/b&gt; ne sait pas où il se trouve, mais elle pense qu'il est sur son corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>J'ai proposé de partir à la recherche de &lt;b&gt;Botaro&lt;/b&gt; dans la &lt;b&gt;Vieille ville&lt;/b&gt;. &lt;b&gt;Biha&lt;/b&gt; m'a demandé de lui prêter assistance ou bien de lui rapporter ce qui lui était arrivé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>J'ai découvert le cadavre de &lt;b&gt;Botaro&lt;/b&gt; dans la &lt;b&gt;Vieille ville&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai obtenu le droit de passage pour Biha et tous les enfants. Ils sont en route vers le Rauatai et, je l'espère, un avenir plus radieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je n'ai pu obtenir de places à bord que pour Biha et les jumeaux. Ils sont en route vers le Rauatai et, je l'espère, un avenir plus radieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Je n'ai pu obtenir de places à bord que pour les enfants les plus âgés. Ils sont en route vers le Rauatai et, je l'espère, un avenir plus radieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Biha&lt;/b&gt; et les enfants souhaitent entamer une nouvelle vie hors des &lt;b&gt;taudis&lt;/b&gt; de &lt;b&gt;Neketaka&lt;/b&gt;. Son compagnon, &lt;b&gt;Botaro&lt;/b&gt;, s'est rapproché d'une capitaine rauatai à la taverne pour lui demander de les embarquer, mais il a été banni dans la &lt;b&gt;Vieille ville&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

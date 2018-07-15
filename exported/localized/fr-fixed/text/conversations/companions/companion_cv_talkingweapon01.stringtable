@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_talkingweapon01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>286</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hé ! "Arrêtez !" Qu'est-ce que vous faites, andouille aux gros doigts ? Reposez-moi !"
+
+L'épée s'agite et remue dans votre main, tâchant en vain d'échapper à votre emprise. Le mot MODWYR est gravé et doré à la base de la lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah ! Ça parle !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hum. Comment se fait-il que vous parliez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Parlez-moi encore comme ça et je vous ferai reforger en un pot de chambre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Comment se fait-il que vous parliez ?" Elle imite votre voix d'une manière moqueuse, comme une comptine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Modwyr souffle d'irritation et se retourne dans votre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Maintenant, si ça ne vous dérange pas, j'attends le retour certain et imminent de quelqu'un de très important, et si vous êtes là quand elle reviendra, vous allez le regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Qui attendez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Depuis combien de temps est-ce que vous êtes là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"La maîtresse animancienne responsable de votre triste état, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'aime cette épée. On peut la garder ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Enlevez vos sales pattes de moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Prendre l'épée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Si vous insinuez qu'elle ne se souvient plus de moi, vous vous trompez ! Elle a dit qu'elle reviendrait de suite, et elle a toujours été une femme de parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Alors, ça fait longtemps que vous attendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Que sont quelques années, comparées à la décennie que nous avons passée ensemble ? Je sais qu'elle va revenir. D'un jour à l'autre. C'est notre destin d'être ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eh, on devrait la donner à Aloth pour qu'Iselmyr puisse avoir une nouvelle amie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'aimerais qu'Iselmyr soit ici. Je parie qu'elle aurait été très amie avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Oh oui, c'est toujours comme ça que ça commençait. Ça finissait généralement avec quelqu'un qui perdait un œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"La personne à laquelle j'appartiens, évidemment." Modwyr grogne d'un dégoût évident envers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous pouvez vous arrêter ici, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Montrez-moi. J'apprends vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Modwyr produit des bruits exagérés de haut-le-cœur, faisant semblant de vomir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ça parle !" Elle imite votre voix d'une manière moqueuse, comme une comptine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous savez quoi ? Ça m'impressionne." C'était... ouah. Je n'avais jamais vécu quelque chose comme ça avant."
+
+Modwyr chauffe entre vos mains, mais se met aussi à briller faiblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"En fait... même si vous ne valez clairement guère mieux qu'une andouille maladroite, peut-être que vous pouvez faire quelque chose pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Alors, pourquoi vous abandonner ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous ne la connaissez pas comme je la connais. Elle reviendra, vous verrez ! Notre destin est d'être ensemble... rien ne nous séparera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vous savez, j'ai développé un intérêt soudain pour les doigts ! Je me demande, quel goût ont les vôtres ?" La garde de l'épée brûle presque trop fort pour la garder en main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"« Quelque chose de nouveau pour Iselmyr » se termine toujours par « quelqu'un qui perd un œil »." Elle lance un regard mauvais à Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>L'épée hurle d'indignation alors que vous la fourrez dans votre paquetage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Non, ÇA c'est l'homme connu dans tout Eora comme le grand magicien De Quoi Je Me Mêle. Vous avez entendu parler de lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Est-ce que j'ai fait une bêtise ?"
+
+Modwyr s'interrompt, choisissant ses prochains mots avec soin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Partir] "Comme vous voulez. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nous verrons. Faire des promesses n'est pas mon métier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Alors, laissez-moi tranquille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Partir] "Comme vous voudrez." Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Prendre l'épée] "Vous êtes trop utile pour qu'on vous laisse ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mais seulement jusqu'à ce qu'on retrouve ma propriétaire, compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Est-ce que je devrais errer dans tout Eora en interrogeant chaque épéiste que je croise ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ce que vous faites, ça vous regarde. Je ne sais pas encore si je peux vous faire confiance. Vous devez d'abord me prouver ce que vous valez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Et comment dois-je m'y prendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Plantez-moi dans des monstres ! Qu'est-ce que vous voulez foutre d'autre avec une épée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous n'allez pas lui parler de... nous, n'est-ce pas ? Pas que je vous apprécie, ni rien. Je veux juste qu'elle ne se fasse pas de fausses idées. Elle est très sensible."
+
+Vous sentez que Modwyr tente d'être sévère, mais son sérieux est trahi par une légère cassure dans sa voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"On dirait qu'il se passe quelque chose de vraiment exceptionnel entre vous deux. Ça donnerait presque envie d'avoir sa propre épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Edér, vous avez déjà une épée. Plusieurs, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ouais, mais je n'en ai jamais eue qui ronronne quand on la caresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Alors, MAINTENANT je vous plais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ça sera notre petit secret. À moins qu'elle veuille participer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Et dire que je croyais être une andouille maladroite. Qu'est-ce qui a changé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je vous hais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je n'ai pas dit ÇA. Je dis juste que je n'ai peut-être pas été très juste avec vous. Peut-être qu'au final, vous n'êtes pas une andouille maladroite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Et sinon, v'prenez d'aut' z'offres ?" Iselmyr brille vivement dans les yeux d'Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ouah, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous m'aiiiiimeeez... bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"C'était une erreur. Je savais que je n'aurais pas dû ramener ça sur le tapis."
+
+Modwyr grogne, regrettant clairement ses précédent propos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Allez, je ne disais pas ça comme ça. Vous êtes... bien. Vous êtes tout à fait bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Alors, le fermier, vous dites ne pas avoir l'équipement ? Ou bien que vous ne savez pas vous en servir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nan, je traite mes épées avec grand respect. J'ai le coup de main avec la pierre à aiguiser, ça les apaise."
+
+Il lève les pouces et deux doigts de chaque main, puis mime le mouvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Attendez. Pourquoi est-ce qu'elle vous dirait où elle va au lieu de vous emmener ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Partir] "Peut-être qu'on peut y arriver, peut-être pas. Je ne promets rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Partir] "Nous allons nous y rendre maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"J'ai étudié la philosophie de l'amour des Príncipis, vous savez. Je veux bien partager les fruits de la connaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Écoutez, je veux bien être la personne la plus magnanime d'entre nous et avouer que j'avais peut-être tort. Peut-être que vous n'êtes pas tout à fait aussi bête que je le pensais."
+
+L'acier scintillant de la lame de Modwyr sent l'odeur particulière du lustrant pour épées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Mais vous n'êtes pas une personne... vous êtes une épée. Vous le savez, que vous êtes une épée, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Allez-vous enfin me dire où vous pensez qu'elle est allée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ne vous méprenez pas sur mes intentions... vous êtes un outil, et vous ne serez jamais rien de plus pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Après tous les monstres que nous avons tués ensemble ? J'ai même laissé Edér m'essayer parce que vous me l'aviez demandé !"
+
+Modwyr pèse dans votre main comme un poids mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Bien sûr que je sais que je suis une épée. Pourquoi croyez-vous que je vous demande de me lustrer tous les soirs ?"
+
+L'épée soupire d'exaspération. Si elle avait un front, vous ne doutez pas qu'elle serait en train de se le frotter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Pointez-moi juste vers une carte et j'indiquerai le dernier endroit où j'ai entendu dire qu'elle allait... une ville nommée Dunnage."
+
+Modwyr soupire. Si elle avait un front, vous ne doutez pas qu'elle serait en train de se le frotter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Posez-moi. Je ne plaisante pas, ici, par terre. Le prochain kith à se présenter sera peut-être un cinglé ou un meurtrier, mais il a toutes les chances de valoir mieux que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"C'est juste la fatigue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"La personne à laquelle vous appartenez et qui a préféré vous abandonner parmi des ordures ? C'est ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Quel est vraiment le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je regarde les choses que [Specified 0] fait avec son arme et j'aimerais être à sa place. Pas AVEC lui, bien entendu. Avec vous, je veux dire. Leur couple... a l'air heureux."
+
+Modwyr hésite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ne croyez pas que j'ignore ce que vous avez fait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Qu'est-ce que j'ai fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nous y revoilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"J'ai vu ce que vous faisiez avec l'autre arme. Ça doit être bien, de pouvoir utiliser n'importe quelle arme ayant l'air nouvelle et intéressante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Toutes ces exécutions qu'on a vécues ensemble, ces derniers temps ? J'imaginais [Specified 0] avec la main sur mon manche à chaque fois. "C'est exact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ce n'était qu'une passade... ça n'arrivera plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Et alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Vous pensez être triste, là ? Attendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Il y a clairement davantage là-dessous que vous ne laissez paraître. Dites-moi ce qui est arrivé... je peux peut-être aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Partir] "Très bien. Mais on en reparlera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Elle m'a largué, d'accord ? Elle a dit qu'elle ne pouvait plus continuer et elle m'a jeté sur un tas d'ordures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"C'est affreux. Je suis triste pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Faites-vous une raison. Vous devez aller de l'avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je ne veux pas de votre foutue pitié."
+
+Modwyr s'immobilise, soudainement si lourde que vous pouvez à peine la soulever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je ne veux plus en parler." Sa voix devient fluette et étouffée, comme si toute volonté de parler s'était envolée.
+
+Modwyr s'immobilise, soudainement si lourde que vous pouvez à peine la soulever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Est-ce que c'est vraiment ce que vous voulez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je n'aurais rien contre."
+
+Modwyr tiédit légèrement contre votre paume, comme si le rouge lui montait aux joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Pointez-moi juste vers une carte et j'indiquerai le dernier endroit où j'ai entendu dire qu'elle allait... une ville nommée Dunnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Mais n'allez pas dire à tout le monde que j'ai dit ça... j'ai une réputation à tenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Allez, fichez le camp d'ici. Je ne veux plus jamais vous parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Après tous les monstres que nous avons tués ensemble ? Je n'y crois pas !"
+
+Modwyr pèse dans votre main comme un poids mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Audacieux. Comme votre style."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Elle m'a largué, d'accord ? Elle a dit qu'elle ne pouvait plus continuer et m'a jeté parmi un tas d'ordures." Est-ce que vous vous sentez mieux, maintenant que j'ai dû m'humilier pour vous ? Est-ce que c'est ce que vous vouliez entendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Vous n'avez pas rechigné à mieux me traiter que ce que j'attendais. Je ne le montre peut-être pas toujours, mais...
+
+"Je vous en sais gré. Je suppose."
+
+Modwyr s'allège étrangement, jusqu'à sembler ne rien peser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Pourquoi Dunnage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Elle ne l'a jamais dit. Elle détestait toujours partager ses secrets, même avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ça y est ?" "C'est tout ce que vous avez à dire ?" Mais qu'est-ce qui ne va PAS chez vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Vous ne faites plus aucun effort ! C'est comme si vous vous fichiez que je sois votre épée ou non."
+
+Modwyr s'interrompt et tremble, semblant essayer d'enterrer une émotion refoulée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je pourrais essayer, si c'est vraiment ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je ne pense pas que ce soit vraiment moi le sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je ne sais pas ce que vous voulez de moi, là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je ne veux plus en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous... vous croyez me CONNAÎTRE, juste parce que j'ai été dans votre main et que je vous ai servi à découper des monstres en nombre ?"
+
+L'épée saute de vos mains et tombe au sol, se tournant du côté opposé au vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Dieux, quelle poids."
+
+Modwyr saute de vos mains et tombe au sol, se tournant du côté opposé au vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Je sais que je ne devrais plus parler d'elle. De ma propriétaire, je veux dire. Ce chapitre de ma vie est terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Juste que... J'aurais besoin d'en faire le deuil. J'ai besoin de savoir pourquoi. Qu'est-ce que j'ai fait de mal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Quand on la trouvera, vous devriez lui demander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Vous avez besoin de vous affranchir de tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Je suppose... je suppose que MÊME si on la trouvait, il n'est pas certain qu'elle me donne une vraie raison. Peut-être que c'est débile de ma part d'en chercher une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Qu'est-ce que vous voulez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Qui étiez-vous avant qu'on vous coince dans cette épée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Qui était votre propriétaire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Une bien meilleure épéiste que vous, déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Les animats conservent rarement leur conscience, et encore moins leurs souvenirs. Vous n'êtes pas comme eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Merci de vous en rendre compte." Vous percevez une pointe de ricanement dans la voix de Modwyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Il y a sûrement davantage à dire sur elle. Comment est-elle devenue si habile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Très drôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"En vérité, je ne sais pas qui j'étais. Même dans mon plus lointain souvenir, j'ai toujours été une épée.
+
+"Quels qu'aient été mes souvenirs antérieurs... ils ont disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Principalement des meurtres d'animanciens fauteurs de troubles." Derrière les mots de Modwyr se dessine un sourire malicieux comme un chat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ne vous en faites pas. Je n'ai aucun doute qu'elle reviendra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Peut-être est-elle morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Oh zut, comme ça doit être embarrassant pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Mais ma propriétaire, elle était vraiment super. Je veux dire, EST vraiment super. Ses doigts calleux étaient si agréables sur mon manche. Elle pouvait faire avec une épée des choses qui défieraient votre imagination..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Je vous laisserai me prendre en main, mais à une seule condition... que vous m'aidiez à retrouver ma propriétaire. D'accord ?" Elle appuie sur votre paume, tiédissant lentement à votre contact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Rappelez-moi qui de nous deux vient de quitter un tas d'ordures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Partir] "Je ne doute pas une seconde de l'arrivée imminente d'un génie digne de votre éblouissante intelligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Pas besoin de dire des MÉCHANCETÉS."
+
+Modwyr se refroidit. Du givre se forme sur la lame. Pourtant, la garde demeure étrangement tiède, presque accueillante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Une épée querelleuse. Fascinant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Pas étonnant qu'elle ait préféré vous jeter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Vous soupesez l'épée afin d'en évaluer le poids. Bien qu'elle soit finement ouvragée, elle a connu de meilleurs jours. Elle a juste besoin d'un coup de lustrage.
+
+Vous la glissez dans son fourreau et poursuivez votre chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Prendre l'épée] "Non, vous êtes à moi, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Bon, je tâcherai de penser à chercher à qui vous appartenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ma propriétaire... les choses n'allaient pas au mieux entre nous. Parfois, elle pleurait après s'être servie de moi, ou elle me rangeait au fourreau et m'ignorait pendant des jours.
+
+"C'était compliqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Je savais que vous finiriez par faire ce qu'il faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ne rendez pas ça plus louche que ça ne l'est déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Est-ce que vous parliez comme ça à votre propriétaire, ou est-ce que vous me réservez vos impolitesses ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Trop mignon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Moi aussi, je vous hais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"PARDON ? J'ai dû mal vous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vos oreilles vont très bien. C'est une relation strictement professionnelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Mes excuses, je ne le pensais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Pas votre foutue affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Quelle femme. Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Vous ne savez pas, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Si vous le dites. Mais si jamais vous voulez en parler..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Je n'ai pas envie de parler de ça pour l'instant." Un frisson parcourt la lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Vous ne savez pas, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Si vous le dites. Mais si jamais vous voulez en parler..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Vous n'avez pas mérité le droit de me poser ce genre de questions. Je vous connais à peine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Allez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"C'est bien ce que je pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Je regarde ce que les autres kiths font avec leurs armes et je m'imagine à leur place. Enfin, pas AVEC eux, bien sûr, je ne les connais pas. Je veux dire, avec vous."
+
+Modwyr hésite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Je regarde les choses faites par [Specified 0] à son arme et j'aimerais être à sa place. Pas AVEC elle, bien entendu. Je veux dire avec vous. Leur couple... a l'air heureux."
+
+Modwyr hésite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ça me rappelle quand je tirais avec une arquebuse timide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Normalement, je suggèrerais d'écrire des poèmes ou quelque chose du genre, mais je vous laisse vous débrouiller sur ce coup, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Un problème aussi vieux que la séduction elle-même, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"J'ai l'avantage de ma longue... histoire avec mon grimoire. Il ne faut pas précipiter ce genre de choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Si j'étais vous, je le traînerais dans les armureries. Histoire d'envoyer un message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Merla. Je n'ai jamais connu d'épée à la lame si tranchante qu'elle vaille la peine de supporter tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Qui eût crû qu'une épée puisse être si exigeante ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Toutes ces exécutions qu'on a vécues ensemble, ces derniers temps ? J'imaginais ma propriétaire la main sur mon manche à chaque fois. C'est exact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"J'étais un souverain incomparable. Beau, juste, excessivement musculeux, aimé de mes sujets et soutenu par Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Elle était un agent du rang de Dunryd... en tout cas, pendant quelque temps. Son nom est Yngfrith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Je ne m'ennuyais jamais avec ma propriétaire... elle savait toujours se renouveler. Pourquoi est-ce que vous ne pouvez pas être comme elle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Je ne m'ennuyais jamais avec ma propriétaire... elle savait toujours se renouveler. Pourquoi est-ce que vous ne pouvez pas être comme elle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Quand je tue quelqu'un, vous savez, je veux dire, c'est quand même génial. Vous êtes bien. Mais j'ai remarqué que vous répétiez souvent les mêmes mouvements, et que vous ne me lustrez pas aussi souvent qu'avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Je ne m'ennuyais jamais avec ma propriétaire... elle savait toujours se renouveler. Pourquoi est-ce que vous ne pouvez pas être comme elle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Laissez-moi tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Elle a fait de moi ce que je suis. Je faisais de mon mieux pour elle, repoussant toujours mes limites. Pourquoi est-ce qu'elle m'a abandonné ?"
+
+La voix renifle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"En tout cas, merci d'avoir écouté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"V'savez pas vous amuser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Di verus ? Gardien, vous parlez à &lt;i&gt;une épée&lt;/i&gt;. Depuis combien de temps vous croyez que c'est comme ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Oh, c'est devenu bizarre il y a longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Vous savez, je me disais bien que cette épée avait l'air un peu abîmée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Si on avait voulu un fardeau, on aurait pris le sac à dos parlant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Capitaine, votre devriez revoir votre seuil de tolérance pour les bizarreries."
+
+Tekēhu tire sur ses appendices et serre les lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Est-ce que vous vous sentez mieux, maintenant que j'ai dû m'humilier pour vous ? Est-ce que c'est ce que vous vouliez entendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Je ne veux plus en parler." Sa voix devient fluette et étouffée, comme si sa volonté de parler s'était envolée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Je suis bluffé que vous ayez réussi à survivre jusqu'à l'âge avancé que vous avez en étant si stupide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>La voix murmure « Débile ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>L'épée dit « Je ne partage pas » avec snobisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Bien sûr qu'elle le fera. Je n'ai pas besoin que VOUS me le disiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>La pointe de la lame émet un bref éclair de lumière rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"C'est... c'est pas possible ! Je le saurais !
+
+"Nous partageons un lien spécial. Des barbares tels que VOUS ne pourraient pas comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Vous ne méritez pas d'entendre parler d'elle, EN TOUT CAS."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Oh. Vous revoilà ?" Modwyr se réchauffe à votre contact, puis un frisson parcourt la lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Vous avez finalement décidé de m'aider à retrouver la personne à laquelle j'appartiens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Beuh. Gardez vos sentiments pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"JE NE PARTAGE PAS." Modwyr chauffe brièvement d'un rouge flamboyant, puis refroidit, laissant une odeur d'ozone et de lustrant pour métal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>De l'électricité grésille le long du tranchant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Ouah, impressionnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>[Lever les yeux au ciel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Pardon, mais le sarcasme, c'est MA marque de fabrique. Trouvez la vôtre." Bien que l'épée essaie de garder un ton sérieux, un léger rire suit ses propos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Eh, c'est pas parce que je n'ai pas d'yeux que je ne peux pas voir ce que vous faites !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Oh, alors maintenant, vous ne voulez plus rien me dire ? QUELLE maturité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Tous ces monstres qu'on a tués ensemble... ça ne voulait RIEN dire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Eh... bien..." La garde de Modwyr alterne le chaud et le froid, hésitante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Il faut qu'on parle de ce qui est arrivé avec Yngfrith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Comment allez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Évitons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"DIEUX que vous êtes insupportable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Vous savez quoi ? Vous avez raison. On est bien. Je nage dans le bonheur.
+
+"Le passé, c'est le passé, et toutes ces inepties philosophiques bien pensantes que les gens se disent pour faire semblant d'avoir surmonté quelque chose." La voix soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Hé, [Player Name] ? Merci. Vous savez... pour tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Bien entendu. Je ne veux que votre bonheur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Beurk, je crois que votre sincérité déteint sur moi. Est-ce que les autres armes vont se moquer de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Bien ? Mal ? Je ne sais pas comment me sentir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Vous étiez dans le coma pendant cette conversation, ou quoi ? Vous avez décidé de mon avenir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Est-ce que je devrais être en colère qu'elle ait choisi de m'abandonner ? Est-ce que je devrais être content que vous ayez voulu continuer avec moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Nous allons faire de superbes choses ensemble. Réjouissez-vous en d'avance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Ce n'est pas déraisonnable de ressentir les deux. Je veux dire, ça fait beaucoup à encaisser pour une seule, euh... personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Votre colère est normale. Éprouvez-la si vous en avez besoin. J'écouterai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Est-ce que vous pourriez arrêter d'avoir tout le temps raison ? Je déteste ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Il y a sûrement davantage à dire sur elle. Comment est-elle devenue si habile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Allons, il y a encore autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Allons donc tuer quelque chose !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Bien, je commençais à m'ennuyer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Enfin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Les animats conservent rarement leur conscience, et encore moins leurs souvenirs. Vous n'êtes pas comme eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Il ne vaudrait mieux pas, ou je vais vous picoter à toutes SORTES d'endroits sensibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Entre nous... qu'est-ce que vous pensez de vos camarades de voyage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Des commérages ? VRAIMENT ? ... Là, on va se comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Edér."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Un des autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Est-ce que vous pensez que Rekke a reçu cette cicatrice en accomplissant quelque chose de noble ou de stupide ?
+
+"En fait, laissez tomber... je connais la réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Fassina est probablement la personne la plus intelligente de cette joyeuse bande de bras cassés.
+
+"À part moi, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Ydwin chante des épopées de Wending quand elle croit que personne n'est à portée. Ce serait presque mignon, si elle ne chantait pas comme une casserole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Konstanten et moi avons un accord. La nature de cet accord ne vous concerne pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Pallegina me prend en main quand elle pense que vous ne regardez pas. Elle a beau être sévère, elle est plus douce qu'on pourrait l'imaginer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Elle me demande tout le temps si je pense que ses armes sont heureuses. Est-ce que vous pouvez lui dire de me laisser tranquille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Le poiscaille est si occupé à se regarder le nombril qu'il est difficile de croire qu'il ait le temps pour quoi que ce soit d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Je lui ai demandé qui d'entre nous était le plus grand à son avis. Depuis, il ne me parle plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Si Aloth veut de nouvelles cicatrices, dites-lui que je veux bien contribuer à son effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"La seule chose que Xoti aime autant que son dieu flippant, c'est vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Pas exactement une lumière, mais quels MUSCLES."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Il veut que Rekke lui touche les appendices. Je m'en rends bien compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Iselmyr m'a demandé si elle pouvait m'offrir un verre... Je lui ai répondu que je n'avais soif que de sang. Aloth en a presque mouillé son pantalon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Je m'attends à moitié à voir Xoti s'introduire dans votre tente quand vous avez le dos tourné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"B-bon débarras, alors ! Ce n'est pas comme si j'avais DEMANDÉ à vous parler ou quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>[Partir] "Je n'ai pas besoin de ça. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"J'attends la personne à qui j'appartiens, &lt;i&gt;évidemment&lt;/i&gt;." Modwyr grogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"C'était extraordinaire ! Vous avez un tel génie pour tuer des choses. Je veux dire, VRAIMENT du génie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Est-ce qu'on pourrait le refaire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Ouah. Je me sens dans une forme extraordinaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Une andouille si forte, aux doigts calleux, et qui sait comment me prendre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Il est temps d'aller de l'avant pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Rappelez-moi où je devrais trouver votre propriétaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Dunnage. L'endroit où tous les pirates traînent et ont des activités criminelles ou des trucs du genre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"N'oubliez pas d'y chercher ma propriétaire, d'accord ? C'est... c'est important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Mais ne parlez à personne de nous, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Je n'ai rien fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Hah, c'est ce que vous VOUDRIEZ, hein ? Je vais le crier sur tous les toits partout où on ira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"[Player Name] aime une épée, [Player Name] aime une épée !" L'épée vous nargue d'une voix de comptine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"L'humilité ne vous sied pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Je ne veux plus en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Avant que vous vous tordiez dans tous les sens... je plaisante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Principalement."
+
+La garde de Modwyr commence à émettre une douce lumière. L'épée soupire et la garde tiédit, apaisante et familière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Alors que les paroles de l'épée se dissipent, la tiédeur demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Personne ne vous a jamais appris à ne pas écouter aux portes ? Gardez vos oreilles pour vous, vilain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Si vous ne faites pas attention, je pourrais bien vous enfoncer dans un nécroblême et vous laisser sur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Une vague de froid parcourt la lame sur toute sa longueur. Elle semble sur le point de répliquer pendant un instant, puis elle pousse un brusque soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Si vous ne faites pas attention, je pourrais bien vous enfoncer dans un nécroblême et vous laisser sur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Arrêtez de vous plaindre et dites-moi ce qui ne va pas, ou je vous laisse ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>La pointe de la lame émet un bref éclair de lumière rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

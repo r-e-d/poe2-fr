@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_ext</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous descendez une pente menant à un profond canyon. Vous n'avez que deux solutions : continuer à vous avancer dans les profondeurs inconnues du canyon, ou rebrousser chemin.
+
+Avant même d'avoir pu vous décider, vous entendez un bruit étrange provenant de quelque part devant vous. Vous vous abritez derrière une paire de rochers et vous plissez les yeux pour déceler la source du bruit, mais vous ne voyez rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Écouter attentivement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Vous déplacer pour avoir un meilleur point de vue]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous écoutez attentivement et vous rendez vite compte que ces sons étranges sont les voix sifflantes de plusieurs nāgas résonnant sur les parois du canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>L'écho sur les parois du canyon vous empêche de localiser l'origine des voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous vous enfoncez dans le canyon. Vous vous abritez derrière broussailles et rochers quand vous le pouvez, et restez dans l'ombre le reste du temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous vous enfoncez dans le canyon. [SkillCheck 0] trébuche sur un caillou, l'envoyant ricocher sur la pente couverte d'éboulis.
+
+Les bruits plus haut s'interrompent. Un silence inquiétant s'abat sur le canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous entendez un brusque sifflement en hauteur, derrière vous. Vous faites volte-face, et un guerrier nāga saute d'un rocher au-dessus de vous, vous barrant la route. Le nāga atterrit en position de combat et lâche un hurlement strident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Contourner furtivement le camp nāga]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Attaquer les nāgas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous vous déplacez silencieusement de cachette en cachette, en restant dans l'ombre profonde le long des parois du canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous bondissez de votre cachette et vous vous précipitez dans le canyon, avec l'intention de vous confronter aux guerriers du camp nāga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Après quelques minutes angoissantes de déplacement furtif, vous découvrez la source des bruits. Devant vous sont réunis plusieurs nāgas chuchotant de leurs voix sifflantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Alors que vous vous enfoncez dans le canyon, vous trébuchez sur un caillou, l'envoyant ricocher sur la pente couverte d'éboulis.
+
+Devant vous, les bruits s'interrompent. Un silence inquiétant s'abat sur le canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] vous guide de cachette en cachette, restant dans les ombres profondes qui bordent les parois du canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Alors que vous vous enfoncez dans le canyon, vous trébuchez sur un caillou, l'envoyant ricocher sur la pente couverte d'éboulis.
+
+Devant vous, les bruits s'interrompent. Un silence inquiétant s'abat sur le canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>En vous déplaçant aux bons moments et en faisant attention où vous mettez les pieds, vous traversez furtivement la plus grande partie du camp nāga sans vous faire repérer.
+
+Devant vous se trouve un dernier groupe de nāgas, seul obstacle entre vous et la sortie du canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

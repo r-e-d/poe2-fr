@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_forwin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lorsque vous vous approchez, une elfe des bois se redresse sur un autel dédié à Gaun. Ses vêtements la désignent comme une grande-prêtresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pitli m'a dit que vous pourriez peut-être aider à résoudre la pénurie de nourriture à la Raveline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous avez bien agi, en aidant Pitli avec les infectés. Toute personne capable de la moitié de ça a toute mon attention. Mais je ne vous ferai aucune vaine promesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si c'est Pitli qui vous a envoyé, je vous écoute. Mais je ne ferai pas de promesses que je ne peux pas tenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nous avons essayé : on a envoyé quelques rations par charité il y a de cela, dieux, presque deux ans. On avait les moyens de faire une vraie bonne action.
+
+"Mais les gardes ne l'ont pas entendu de cette oreille. Ils ont tout envoyé au palais pour partager équitablement. Ça n'a jamais refait surface."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Et si je pouvais vous assurer que cela parviendrait aux Roparus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bien sûr, nous serions heureux de donner un coup de main. Mais comment acheminerez-vous nos rations jusqu'aux Roparus, cette fois ? 
+
+"Qu'est-ce qui vous fait croire que ça va marcher maintenant, alors que ça n'a pas marché à l'époque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Laissez-moi faire. Contentez-vous de rassembler la nourriture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je vais faire le nécessaire pour obtenir une audience auprès de la reine et lui demander d'autoriser votre acte de charité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Les Príncipis contrôlent un port sous la Raveline. Je pourrais les convaincre de transporter la nourriture clandestinement, si vous tenez le rôle de fournisseur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"D'accord. Vous gagnez les bonnes grâces de la famille royale des Kahangas, vous les faites revenir dans le droit chemin, et je vous confierai notre nourriture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Non mais, attendez une minute. Je n'ai pas de problèmes avec les Príncipis. Mais la contrebande ? Ça nous mettrait du mauvais côté de la loi des Kahangas."
+
+Elle redresse ses épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Partir] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous préférez faire de la politique plutôt que de nourrir une population affamée, prêtresse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nos vies ne sont pas un jeu. Je sais que vous voulez aider les Roparus. Moi aussi. Mais je ne peux pas le faire en mettant un coup de pied dans la fourmilière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ne vous inquiétez pas. Cet arrangement avec les Príncipis n'a pas à se savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Il n'y a pas d'autre choix. Les Roparus vont mourir de faim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Eh bien, évidemment que j'adorerais avoir une occasion d'aider les Roparus. Mais... et ne le prenez pas mal... je ne vous connais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est tout ce que vous attendez de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Un grand merci pour votre générosité, mon ami." Elle sourit, radieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hmm hmm. En quoi puis-je vous aider, cette fois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Et vous pouvez le promettre ? Personne n'en saura rien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ce ne sont certainement pas les Príncipis qui répandront la nouvelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je vous le jure. Et je suis connu pour tenir ma parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ce qui compte, ce sont les résultats. Je ne supporte pas de rester les bras croisés tandis que les Roparus souffrent.
+
+"Nous vous obtiendrons la nourriture. Occupez-vous du reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je ne voudrais pas mettre les croyants en danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'espère que les Enfants des Étoiles de l'aube peuvent donner un coup de main pour combattre la famine des Roparus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous savez que nous voulons aider. Mais comment pensez-vous que nous devrions procéder ? Nous avons déjà essayé, en vain. Alors, quelle astuce proposez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Elle sourit à la vue d'un étranger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Les Príncipis contrôlent un port sous la Raveline. Je pourrais les convaincre de transporter la nourriture clandestinement, si vous tenez le rôle de fournisseur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si nous le faisons, la reine doit l'approuver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Partir] "Je reviendrai quand j'aurai déterminé la meilleure façon de faire entrer la nourriture dans la Raveline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Xoti. J'espère que vous ne vous fourrez pas dans un guêpier, là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Qui, moi ? Non, je n'oserais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Elle penche la tête, pensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Et c'était tout ? Ce n'était pas un gros effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous êtes la grande prêtresse de ce temple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Est-ce que les porcs sentent le lisier ?" Elle vous adresse un sourire plein de dents, les yeux brillants d'amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"J'imagine que, si vous êtes ici, ce n'est pas pour le rituel. Alors, qu'est-ce que je peux faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je suppose que c'est juste. Il faut bien que quelqu'un dise les vérités qui fâchent."
+
+Ses mots sont assez agréables, mais ses yeux brillent d'une colère acérée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Partir] "Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Certains n'hésitent pas à se servir de nous, les croyants. 
+
+"Peut-être que vous êtes comme ça, et que je n'en sais rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Écoutez, c'est comme ça. J'adorerais avoir une chance d'aider les Roparus. Mais... et ne le prenez pas mal... je ne vous connais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous avez besoin d'une preuve de ma bonne... foi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Venons-en au fait, prêtresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Une offrande à Éothas pourrait vraiment aider l'effort de restauration du temple, si vous voyez ce que je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Elle appuie le pouce contre l'arête de son nez, sa gorge produisant un ronronnement contemplatif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nous ne sommes ici dans la tribu que par la volonté royale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Peut-être que je pourrais vous donner un objet de valeur en guise de caution, jusqu'à ce je remplisse ma promesse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je ne vais pas vous priver de vos objets de valeur. Votre offre est déjà suffisante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Elle hoche la tête. Son visage, constellé de taches de rousseur, est ouvert et sérieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Les yeux couleur de bière et de vieil or se plissent avec attention.
+
+Saewyn secoue la tête, faisant retomber des mèches lâches sur ses joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous aurez peut-être du mal à le croire, mais je ne suis pas née de la dernière pluie. Maintenant, rappelez-moi pourquoi je devrais vous faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"C'est la lumière qui a guidé vos pas jusqu'ici." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Maintenant que vous pouvez mieux l'observer, vous remarquez que la robe de l'elfe des bois correspond au rang de grande prêtresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Allons, mais il vous faudra excuser notre dispute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Oh, allons, Saewyn. Nous ne pouvons pas nous contenter de ne rien faire. Faites confiance au Gardien. C'est mon cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mes excuses, mais je m'inquiète. La façon dont nos récoltes passeront des îles aux bouches des Roparus pourrait affecter nos relations avec la tribu kahanga toute entière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"C'est toujours un plaisir de voir un autre fidèle d'Éothas. Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Elle courbe son dos et le fait craquer bruyamment, après quoi un sourire satisfait barre son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Elle courbe son dos et le fait craquer bruyamment, après quoi un sourire satisfait barre son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Bien sûr, nous serions heureux de donner un coup de main. Mais comment acheminerez-vous nos rations jusqu'aux Roparus, cette fois ? 
+
+"Qu'est-ce qui vous fait croire que ça va marcher maintenant, alors que ça n'a pas marché à l'époque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nous recherchons quelqu'un." Elle aurait pu passer par ici, il y a des années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nous recevons des fidèles du Dieu brillant tous les jours. Peut-être que vous devriez parler avec Nordagand, là-bas." 
+
+Elle indique sa droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Personne n'a été ici depuis plus longtemps qu'elle, et elle prend soin de faire connaissance avec chacun de nos coreligionnaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Est-ce que l'endroit n'a pas tendance à être un peu humide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vous devez avoir beaucoup de visiteurs, ces derniers temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Pas plus qu'ailleurs. Il serait absurde de lutter contre." 
+
+Elle fait un clin d'œil. "L'eau abreuve notre foi aussi sûrement que ces arbres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Oh, oui. Les gens ont peur et sont en colère. Le changement peut faire peur. 
+
+"Mais pourquoi chacun d'entre nous est-il venu ici, si ce n'est pour un nouveau départ ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Vous êtes des fidèles de Gaun ? Qu'en est-il des autres manifestations d'Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Gaun est le seul qui compte." Xoti ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Le Dieu brillant a de nombreux visages, mais ils sont tous les siens. 
+
+"Waidwen le roi divin a vu les Étoiles de l'aube lui parler des choses à venir. Mais c'est Gaun, avec sa faucille et sa lanterne, qui est venu dans le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Saewyn ferme ses yeux et expire fortement, puis les ouvre à nouveau pour vous regarder avec un sourire patient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Notre dieu est revenu, et il va amener l'équilibre dans le monde. Il va redresser tous les torts dont nous avons soufferts. 
+
+"Gaun nous offrira un nouveau départ à tous, quand l'heure viendra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Gaun entend vos prières, aussi bien que moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Le Dieu brillant a de nombreux visages, mais ils sont tous les siens. 
+
+"Nous devons obéissance à Éothas, dieu de lumière et de rédemption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Notre dieu est de retour, et il va redresser tous les torts dont nous avons soufferts. Il nous ouvrira un autre chemin. Un nouveau commencement, pour nous tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Elle penche la tête, pensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_poko_kohara_soul_decision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous soumettez les âmes en furie, les déchirant en petits morceaux de l'essence qui les constitue.
+
+Au-delà de ce nuage d'essence, vous sentez l'attraction du cycle, une force qui croît lentement mais sûrement. Ce pilier reste séparé du flux naturel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Rendre à l'adra le flux naturel de son essence, restaurant sa luminosité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Faire exploser l'adra, détruisant le pilier]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous poussez l'essence dans le passage grandissant qui mène à l'Au-delà. Elle bouillonne et disparaît. Soudain, l'éther autour de vous se transforme en un maelstrom tourbillonnant.
+
+Vous revenez vers votre corps avant que la force vous arrache l'âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>L'essence corrompue s'anime en une force destructrice déchirant l'espace environnant.
+
+Vous fuyez vers votre corps avant d'être détruit vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'essence bourdonne toujours de puissance. L'envoyer dans le cycle restaurerait l'adra qui vous entoure.
+
+La fragmenter ferait détonner le précaire équilibre des forces et détruirait le pilier.
+
+Quoi qu'il en soit, l'Au-delà exerce une force d'attraction de plus en plus intense. Vous devez vous décider prestement.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

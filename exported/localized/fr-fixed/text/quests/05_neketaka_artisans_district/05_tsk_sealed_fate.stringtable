@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_sealed_fate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Destin scellé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver la sacoche de &lt;b&gt;Degnos&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rendre sa sacoche à &lt;b&gt;Degnos&lt;/b&gt; au &lt;b&gt;Canal des camelots&lt;/b&gt;, à la Jetée de la reine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai trouvé &lt;b&gt;Degnos&lt;/b&gt; devant les &lt;b&gt;Bains lumineux&lt;/b&gt;, en train de se lamenter d'avoir perdu sa sacoche. Il disait l'avoir laissée dans une des pièces du &lt;b&gt;deuxième étage&lt;/b&gt; des thermes, mais que les gardes ne voulaient pas le laisser entrer pour la récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fouiller le deuxième étage des &lt;b&gt;Bains lumineux&lt;/b&gt; pour retrouver la sacoche de &lt;b&gt;Degnos&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé la sacoche de &lt;b&gt;Degnos&lt;/b&gt; aux Bains lumineux. Il m'a demandé de ne pas l'ouvrir. Pendant que je recherchais sa sacoche, Degnos a couru à la Jetée de la reine pour rendre compte à Avetta, sa capitaine. Il a mentionné qu'il serait près du &lt;b&gt;Canal des camelots&lt;/b&gt; et a demandé que je lui rende la sacoche là-bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai ouvert la sacoche de &lt;b&gt;Degnos&lt;/b&gt; et j'y ai trouvé un sceau finement taillé, une lettre usée et une poignée d'autres objets étranges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>La lettre du sac de Degnos décrit un plan de sabotage du &lt;b&gt;navire d'Avetta&lt;/b&gt; pour que Degnos puisse rejoindre l'équipage du capitaine príncipi &lt;b&gt;Talfor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Talfor&lt;/b&gt; et son équipage m'ont interpellé alors que je me rendais à la &lt;b&gt;Jetée de la reine&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai dit à &lt;b&gt;Talfor&lt;/b&gt; que je n'interférerais pas dans ses plans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Talfor&lt;/b&gt;. Je suppose que &lt;b&gt;Degnos&lt;/b&gt; ne rejoindra pas son équipage, désormais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rendu sa sacoche à Degnos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rendu à Degnos les objets que j'ai trouvés dans sa sacoche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Talfor et mis fin à l'embuscade, mais je n'ai pas rendu compte de la trahison de Degnos à Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai rendu compte de la trahison de Degnos à Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai convaincu Degnos d'abandonner l'idée d'assassiner Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

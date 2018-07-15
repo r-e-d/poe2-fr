@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_cv_witch_notes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ces notes sont rédigées dans un étrange code. Vous n'avez aucune idée de ce qu'elles racontent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Utiliser votre connaissance des sciences alchimiques pour déchiffrer les notes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Utiliser votre connaissance des langues oubliées pour déchiffrer les notes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Mettre les notes de côté]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La complexité des équations alchimiques met vos connaissances de cette science à rude épreuve.
+
+Avec un peu de temps et de patience, vous parvenez à déchiffrer les éléments des équations, et de là vous en déduisez le reste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Décrypter le code]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le code protégeant le contenu des notes est l'un des plus complexes que vous ayez jamais vu.
+
+Cependant, il ne fait pas le poids face à votre vivacité d'esprit et votre intellect, et vous le décryptez rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous vous rendez compte que les notes sont rédigées dans une langue ancienne, proche de l'engwithan.
+
+Vous reconnaissez la signification de quelques-uns des symboles, et de là vous parvenez à cerner l'essentiel de la signification des notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

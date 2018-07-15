@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_maze</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Après une pénible traversée, vous atteignez enfin le centre de la jungle. Devant vous se trouve un bâtiment en pierre à la large devanture et malmené par le temps.
+
+L'œil de Wael, solitaire et omniscient, orne la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous vous approchez de la porte. Bien qu'il ne soit fait que de pierre, vous sentez le regard brûlant de l'œil sur vous.
+
+La porte s'ouvre sans bruit et révèle un escalier sombre et étroit qui s'enfonce sous terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La porte s'ouvre à votre approche, comme si elle attendait votre retour.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

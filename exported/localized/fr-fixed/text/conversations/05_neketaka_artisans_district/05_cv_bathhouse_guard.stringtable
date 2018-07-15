@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_bathhouse_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah, le perturbateur prodigue est de retour." L'intendant pose la main à proximité d'un long stylet bien fourbi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"C'est raisonnable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"C'est le double du prix de départ ! Qu'est-ce qui a changé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Les armes et les armures ne sont pas autorisées dans les bains, comme vous le savez bien." L'intendant vous adresse un sourire entendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Retirer vos armes et votre armure] "Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Non, je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Les armes et les armures sont interdites dans les bains. Je vous l'ai déjà dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Profitez bien des bains. Quand vous serez prêt à partir, je vous fournirai une serviette." Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Partir] "Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Quitter les bains] "Très bien, je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Afin de profiter des services uniques proposés par les bains, vous devrez débourser 1000 pièces de cuivre par session." L'intendant des bains croise les bras et sourit. Son expression est à la fois hospitalière et teintée d'avertissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Pourquoi est-ce si cher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Une sage question." Il se redresse de toute sa hauteur et met les mains dans le dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je passe mon tour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Si ça continue, vous allez me dire que l'adra lumineux accorde la vie éternelle aux baigneurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Si seulement ! Ganor se ferait un paquet d'argent, et je serais peut-être augmenté, pas vrai ?"
+
+L'intendant des bains glousse avec entrain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ganor a l'air d'être quelqu'un de généreux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Depuis quand les hommes tels que Ganor partagent-ils leurs profits ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous, je vous aime bien. J'ai l'impression que nous partageons beaucoup de points de vue similaires." Il s'esclaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"C'est généreux de votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"J'ai connu pire, c'est vrai." L"intendant des bains sourit, mais son sourire est crispé et ne semble pas totalement sincère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tekēhu ! Quel plaisir de vous revoir si tôt. À qui avez-vous emprunté pour payer votre visite cette fois-ci ?" L'intendant des bains ne fait rien pour masquer sa perplexité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Aujourd'hui, je remercie mère Ngati pour les poches bien garnies de mon capitaine." 
+
+Alors que son gloussement s'estompe, Tekēhu vous lance un regard de biais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ekera, peut-être plus tard. Un homme doit avoir son jardin secret." Tekēhu cligne de l'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ganor pourrait vous en apprendre davantage, si vous êtes curieux. C'est un alchimiste amateur, en plus d'être un homme d'affaires très compétent et d'une grande perspicacité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'admire votre toupet !" Il rit de bon cœur, les mains posées sur sa large poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous faites référence aux « troubles », je suppose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"De quoi parlez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Attaquer] "Admirez un peu ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Inutile de jouer les vierges effarouchées avec moi. Vous pensez que vos activités sont secrètes ?" Il pousse un grognement de mépris. "Loin de là. Partout où vous allez, les ennuis vous suivent. C'est bien connu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Oui, vous nous avez causé énormément de problèmes. Ganor..."
+
+L'intendant des bains allait dire autre chose, mais se reprend et regarde par-dessus votre épaule pour vérifier si Ganor ne risque pas de l'entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Puis-je conserver la tenue de bain ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"C'est très seyant, n'est-ce pas ? Et je dois avouer qu'elle vous va à ravir."
+
+Il vous toise de haut en bas, puis vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ils ne remarqueront sûrement rien s'il n'en manque qu'une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Partir] "Je vais la garder encore un peu, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Très bien, si vous y tenez tant que ça, vous pouvez garder celle-là." Il rit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Partir] "Je reviendrai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les armes et les armures ne sont pas autorisées dans les bains." Si vous voulez vous baigner, vous devrez revêtir notre tenue de bain."
+
+Il vous tend des habits de bain sortant de la blanchisserie, qui sentent encore les feuilles de khapa avec lesquelles ils ont été séchés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Profitez bien des bains. Quand vous serez prêt à partir, je vous fournirai une serviette." Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mon ami ! Vous êtes là depuis un bon moment." Il glousse. "Je ne vous reproche rien, bien au contraire."
+
+Il claque des mains en signe de conciliation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Payer] "J'aimerais rester encore un peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"C'est-à-dire... s'il faut tous se déshabiller, déshabillons-nous." Elle rit d'un air gêné, les joues rouges tandis qu'elle jette un œil à Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"À l'académie, tous les acolytes devaient se baigner ensemble. Tout se passait parfaitement bien."
+
+Le regard perdu au loin, Pallegina entreprend de se déshabiller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je ne suis pas obligée de me mettre nue, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"J'espère que vous n'avez pas prévu quelque mauvais tour, pour votre bien comme pour le mien.
+
+"Pour vous, un tarif spécial. 2000 pièces de cuivre."
+
+Son large sourire ironique découvre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"« Qu'est-ce qui a changé ? » Ah, elle est bien bonne. Vous êtes effronté &lt;i&gt;et&lt;/i&gt; drôle... une dangereuse combinaison."
+
+Il détourne le regard, prétendant essuyer une larme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ganor sait garder rancune, vous comprenez. « Si vous le revoyez », qu'il m'a dit, « faites-lui payer le double »."
+
+Il sourit d'un air penaud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Tenez, mettez ça."
+
+Il vous tend une tenue de bain sortant de la blanchisserie, qui sent encore les feuilles de khapa avec lesquelles elle a été séchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Malheureusement, je dois vous demander de payer à nouveau si vous souhaitez continuer à vous baigner. À moins que vous vouliez récupérer votre équipement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Dans les eaux de bain infuses de l'adra lumineux raffiné à la main, ce qui favorise un rééquilibrage général des humeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"En raison des formidables qualités de l'adra lumineux, celui-ci nécessite des investissements importants en termes d'approvisionnement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Maintenant, parlons affaires. Le tarif de cette merveilleuse expérience est de 1000 pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Une petite remise pour vous, mon ami, pour m'avoir fait rire. 900 pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mais rien qu'une, sans quoi les serviteurs vont avoir ma peau. Ils sont très pointilleux à propos des serviettes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ekera, mieux vaut ne pas les contrarier, croyez-moi." Il écarquille les yeux avec une joie de conspirateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Hélas, les serviteurs des bains seraient très mécontents si je les distribuais sans compter. À mon grand regret, je dois refuser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Souhaitez-vous revêtir votre équipement habituel, maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Maintenant, veuillez vous changer, sans quoi je me verrai forcé de vous escorter jusqu'à la sortie."
+
+L'intendant pose la main sur sa hanche, à proximité d'un long stylet bien fourbi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Je... vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Non, j'ai bien peur que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Il est plus fort qu'il en a l'air. C'est un lutteur aquatique accompli." 
+
+Il lève un sourcil et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Voulez-vous profiter des bains, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Souhaitez-vous profiter des services des bains ? Le tarif est de 1000 pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Profitez bien des bains. Quand vous serez prêt à partir, je vous fournirai une serviette." Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Il vous dit au revoir de la main en souriant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

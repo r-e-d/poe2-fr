@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\01_si_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous trouvez un vieux coffre en pierre, usé et tâché par une longue exposition aux éléments. Le couvercle est craquelé, mais d'épaisses lianes noueuses, telles des doigts de géant, le maintiennent en place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Lancer un sort pour brûler les lianes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les plantes geignent et s'enflamment, produisant une odeur qui évoque curieusement la chair brûlée.
+
+Elles dépérissent et se muent en fibres noircies et éparses. Pourtant, à peine ont-elles rétréci qu'elles se mettent à frémir, se contractent et se gonflent à nouveau de sève.
+
+Vous arrachez le couvercle du coffre avant qu'elles ne puissent resserrer leur étreinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Lancer un sort pour geler les lianes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Les lianes se durcissent et pâlissent sous la couche de givre, puis finissent par se briser.
+
+De nouvelles pousses commencent à germer au niveau des moignons gelés. Vous arrachez le couvercle avant que les lianes ne puissent resserrer leur étreinte sur le coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Arracher les lianes du coffre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous ne parvenez pas à arracher une seule liane du coffre.
+
+Elles semblent au contraire se resserrer lorsque vous les tirez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Demander à quelqu'un d'arracher les lianes du coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0] ne parvient pas à desserrer une seule liane.
+
+[Specified 0] tire sur les lianes, mais ces dernières resserrent leur étreinte autour du coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous retirez du coffre une hachette ancienne en bronze, que les lianes tentent en vain d'enlacer de leurs faibles pousses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Brûler les lianes avec une torche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous maintenez votre torche sous l'une des plus grosses lianes pendant plusieurs secondes. Elle finit par dépérir et se trouve réduite à l'état de brindille.
+
+Cependant, de nouvelles pousses jaillissent des lianes les plus proches et s'empressent de la recouvrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous arrachez les pousses du coffre. Les lianes tentent d'enserrer à nouveau le coffre, mais vous les arrachez plus vite qu'elles ne repoussent.
+
+Vous parvenez enfin à arracher le couvercle du coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] arrache les pousses du coffre. Les lianes tentent d'enserrer à nouveau le coffre, mais [Specified 0] les arrache plus vite qu'elles ne repoussent.
+
+Vous parvenez enfin à arracher le couvercle du coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

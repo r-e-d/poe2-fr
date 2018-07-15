@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_bm_lift_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Faites demi-tour. Il n'y a aucune boutique de ce côté, étranger." Le voyou vous bloque le passage, levant des mains étonnamment lisses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"L'Allée du mineur a beaucoup à offrir. Mais c'est de l'autre côté." Il pointe un doigt manucuré par-dessus votre épaule. Son autre main est posée sur la poignée de son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous êtes [Player Name] ? Dereo m'a dit que vous pouviez passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Attrapez-le !"</DefaultText>
+      <FemaleText>"Attrapez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Passez. L'ascenseur vous mènera au Caveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que gardez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Comment puis-je obtenir le droit de passage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attaquer] "Je vais où je veux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous croyez qu'on m'a posté là pour vous renseigner ? Allez, partez." Il vous congédie d'un geste des doigts. Ses ongles brillent à la lumière des torches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"C'est à Dereo de décider." Il se tambourine la hanche de ses ongles longs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Montrer le suolenet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Au temps pour moi. Veuillez passer." Il s'écarte et tend une main délicate vers l'ascenseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Un éclair de reconnaissance traverse son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Si vous le dites. Le seul moyen pour vous de passer, c'est d'obtenir l'accord de Dereo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Où puis-je trouver Dereo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentir] "Dereo m'a confié un message pour Morena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"En sortant de l'Allée, tournez à droite après l'étal, à gauche au croisement, puis suivez la ruelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Il pousse un grognement de mépris. "On ne me l'avait jamais faite, celle-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je cherche Morena la Folle. Elle travaille dans le Caveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Est-ce que ça ira en guise d'« accord » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"L'argent ne sert à rien à un homme mort. Et je ne me risquerais pas à fâcher Dereo pour tout l'argent qui se trouve à Neketaka." Il vous rend votre argent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Montrer le médaillon] "Est-ce que par hasard je peux passer avec ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je n'ai même pas besoin de regarder pour vous dire que la réponse est non."
+
+Il détourne le regard en plissant les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est toujours non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Qu'est-ce que VOUS faites ici ?" Il toise Tekēhu d'un air désapprobateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ekera, je suis là pour... faire une enquête sur... les établissements..." 
+
+Tekēhu se ravise et comprend qu'il vaut mieux se taire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Eh bien, descendez avant qu'on vous aperçoive." Il incline la tête et s'écarte pour laisser passer Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous jetant un regard hésitant, Tekēhu fait un pas en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Et moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Où est-ce que ça mène ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Le laisser partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quoi, qu'est-ce que vous voulez ?" Il vous toise des pieds à la tête, puis reporte son attention sur Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Alors que Tekēhu s'avance, le garde interpose à nouveau sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Attendez un instant. Je me souviendrais de ce visage." Les yeux plissés, il lorgne Tekēhu en hochant lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Si vous avez besoin de le demander..." Son regard passe de vous à Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous alliez l'autoriser à descendre. Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Laissez descendre mon ami. Nous pouvons l'attendre ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ça ne fonctionne pas comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Expliquez-moi ce que vous venez faire ici ou rebroussez chemin. Je n'ai plus envie de jouer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Il vous regarde tous les deux en grimaçant, la main sur son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Il ne sert à rien de m'ignorer, mon ami."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"M'est avis que vous n'êtes pas très doué pour les compliments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vous n'avez rien à faire en bas." Il tapote la poignée de son arme de ses ongles longs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Si vous voyez des taches de svef par terre, c'est que vous êtes sur la bonne voie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous aimez jouer avec le feu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Que fait ce divin mort, là-bas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Capitaine Tatzatl a envoyé ses divins chercher un prisonnier. Apparemment, le type en question leur a posé plus de problèmes que prévu." Il ricane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mais ils ont quand même fini par le faire monter dans le Canot divin. Il devrait maintenant être à mi-chemin de Dunnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Cuè ?! Madi-"
+
+Pallegina s'interrompt et vous entraîne dans un coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je suis là au nom de la capitaine Aeldys."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_wildrhymer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Uamoru le prétendant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Uamoru&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Nungata&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Uamoru&lt;b&gt;, un divin de la nature et prétendant au trône kahanga, essaye de fomenter une rébellion contre les dirigeants de &lt;b&gt;Neketaka&lt;b&gt;. Lui et ses partisans campent sur une île à l'&lt;b&gt;est des Dents de Magran&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Quelqu'un offre une généreuse prime contre la tête d'&lt;b&gt;Uamoru&lt;b&gt;. Il a été repéré sur une île à l'&lt;b&gt;est des Dents de Magran&lt;b&gt;, où, avec son lion de compagnie, il risque de donner du fil à retordre aux aventuriers venant le défier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La rébellion d'Uamoru n'aura pas fait long feu. &lt;b&gt;Nungaga&lt;b&gt;, à la &lt;b&gt;Couronne du serpent&lt;b&gt; de Neketaka, paiera généreusement pour sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé d'Uamoru et j'ai collecté la prime auprès de Nungata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

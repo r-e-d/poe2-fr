@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_si_vailian_to_slums_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous laissez derrière vous l'agitation de la Jetée de la reine et vous engagez sur le chemin tortueux qui mène à la Raveline.
+
+Le sentier gravit la montagne pendant quelque temps. Malgré cela, la vue du port et de la mer disparaît, occultée par des murs de toutes parts et des bâtiments huanas délabrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous atteignez un passage obscur creusé dans la montagne, tout juste assez large pour permettre à un chariot de passer. 
+
+Le chemin s'enfonce progressivement dans la paroi rocheuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Après un long périple à travers le tunnel mal éclairé, vous arrivez aux portes de la Raveline. La première chose qui vous frappe est l'odeur, nauséabonde : un mélange infect de pourriture, de renfermé et d'odeurs corporelles.
+
+Vous apercevez un garde en train de pousser une charrette pleine de nourriture moisie, ce qui explique en partie la puanteur ambiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les demeures de la Raveline surgissent devant vous sous la forme de lumières dans l'obscurité. Quelque part en-dessous de vous, vous entendez le déferlement de l'eau, et une brise glaciale s'élève tel un souffle des profondeurs insondables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous laissez derrière vous l'agitation de la foule et vous engagez sur le chemin tortueux qui mène à la Raveline. 
+
+Le sentier gravit la montagne pendant quelque temps. Malgré tout, les murs exigus et les bâtiments huanas délabrés se rapprochent de vous et vous bouchent la vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

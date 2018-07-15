@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc06_no_confidence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Motion de censure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Assister au procès en tant que témoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler au directeur Castol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parler au gouverneur Alvari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Écouter le verdict final de Nirro, le canta Nicese</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Lueva Alvari a convoqué une réunion des investisseurs clés de la Compagnie commerciale vailienne pour exiger le limogeage du directeur Castol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le canta Nicese souhaitera entendre les personnes impliquées dans les récentes opérations du directeur Castol. Autrement dit : moi
+
+Alvari m'a demandé de rejoindre la réunion du Conseil dans les quartiers du directeur, à l'étage supérieur du siège de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La place du directeur Castol est assurée. Lueva Alvari ayant été exilée de Neketaka, elle ne sera plus en mesure de se dresser contre lui.
+Castol aura probablement une idée de la marche à suivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Castol a été condamné à l'exil, et Lueva Alvari est le nouveau directeur de la Compagnie commerciale vailienne. 
+Alvari aura probablement une idée de la marche à suivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai dit ce que j'avais à dire. Maintenant, reste à voir ce qui advient de la direction de la CCV.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Vous avez tué quelqu'un jouant un rôle crucial dans cette quête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>La Songretta a condamné Alvari à l'exil, laissant le directeur Castol aux commandes des efforts de la Compagnie commerciale vailienne pour s'emparer d'Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>La Songretta a condamné Castol à l'exil, accordant le titre de directrice à Lueva Alvari en lieu et place. Elle mènera les opérations dans le but de s'emparer d'Ukaizo et a demandé mon aide dans cette entreprise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

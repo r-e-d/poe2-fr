@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_vault_lock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce dispositif est un panneau de commande complexe. Il est composé de gemmes disposées dans des socles de pierres amovibles. Quatre pierres précieuses de couleur sont positionnées autour d'un orifice au centre. 
+
+Quelque chose semble manquer. Un bricoleur émérite pourrait toutefois arriver à compenser cette absence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examiner ce qui manque au centre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Cela ressemble à une empreinte destinée à accueillir une pierre précieuse. Des éraflures suggèrent que quelqu'un, ou quelque chose, a arraché la pierre de son socle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Placer le cristal transparent dans le trou]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le cristal s'encastre dans l'orifice prévu à cet effet avec un léger cliquetis. Les autres pierres se mettent instantanément à clignoter, avec des couleurs brillantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ce panneau de commande comporte quatre pierres précieuses de couleur placées autour d'un cristal transparent au milieu. Les quatre pierres peuvent être manipulées pour procurer un grand nombre de configurations différentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Saisir la combinaison que vous avez trouvée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Jouer un peu avec le panneau pour voir si vous arrivez à déclencher quelque chose]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Après de nombreuses et précautionneuses manipulations, les pierres autour du trou inoccupé clignotent avec des couleurs brillantes. Le système D a semble-t-il fonctionné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bricoler le panneau ne vous amène nulle part.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Demander à quelqu'un de bricoler le panneau pour tenter de le faire marcher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Au terme d'un bricolage précautionneux, les pierres à l'extérieur du panneau de commande brillent d'une luminescence arcanique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous changez les pierres précieuses de place et trouvez la configuration voulue. Un bruit de pierres qui frottent prend de l'ampleur. La porte se déplace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Après des gestes doux grâce à une main experte, un léger clic et un pschitt arcanique s'échappent de la serrure. [Specified 0] contemple ce travail bien fait avec un sourire satisfait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Le bricolage du panneau ne déclenche rien. [Specified 0] soupire et fusille le panneau du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Changer les gemmes de position pour expérimenter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous manipulez les gemmes dans leurs emplacements mais le nombre de possibilités a raison de vous. Il semblerait que cette serrure nécessite quelque chose de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Changer les gemmes de position pour expérimenter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous manipulez les gemmes dans leurs emplacements mais le nombre de possibilités a raison de vous. Il semblerait que cette serrure nécessite quelque chose de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Examiner les pierres précieuses]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Les pierres précieuses autour du centre de la serrure peuvent être manipulées pour former plusieurs configurations, comme pour un cadenas à combinaisons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ces pierres sont exactement identiques à celles référencées sur la combinaison que vous avez découverte plus tôt. Vous savez déjà quelles rotations et positions pourront déverrouiller cette serrure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bidouiller le socle central a déjà fourni la solution pour déverrouiller la serrure. Il ne reste plus qu'à saisir la combinaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le socle laissé vide au milieu de la serrure suggère qu'un composant est toujours manquant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Maintenant que le cristal manquant a été inséré dans le panneau central, il ne reste plus qu'à placer les pierres environnantes selon la bonne combinaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Examiner les pierres précieuses]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ces pierres sont exactement identiques à celles référencées sur la combinaison que vous avez découverte plus tôt. Vous savez déjà quelles rotations et positions pourront déverrouiller cette serrure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Maintenant que le cristal manquant a été inséré dans le panneau central, il ne reste plus qu'à placer les pierres environnantes selon la bonne combinaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bidouiller le socle central a déjà fourni la solution pour déverrouiller la serrure. Il ne reste plus qu'à saisir la combinaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Le socle laissé vide au milieu de la serrure suggère qu'un composant est toujours manquant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les pierres précieuses autour du centre de la serrure peuvent être manipulées pour former plusieurs configurations, comme pour un cadenas à combinaisons.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

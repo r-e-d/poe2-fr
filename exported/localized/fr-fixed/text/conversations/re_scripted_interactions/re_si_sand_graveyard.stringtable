@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sand_graveyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Des os craquent sous vos pieds. Sur le sable se trouvent des squelettes à moitié enterrés dans des dunes formées par le vent ou blanchis et recuits par le soleil. Les dépouilles portent toujours les lambeaux de leurs habits, les membres emmêlés dans leurs paquetages.
+
+Les wurms volent en cercle loin au-dessus de vous, tels des vautours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouiller les squelettes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Laisser la zone en paix]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous sentez quelque chose accroché à votre jambe. Mère Rocher-pointu s'accroche à votre botte en regardant les dunes, puis lève les yeux vers vous. Ses yeux sont écarquillés sous l'effet de la peur. Elle craint cet endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous allez vers le squelette le plus proche et démêlez le paquetage de ses restes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Alors que vous remuez le squelette, plusieurs fléaux de sable émergent du désert avec une grande rafale de vent et se dirigent droit vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Le sable est étrangement vif par ici. Il danse comme si une brise le remuait, malgré l'absence du moindre souffle d'air. Plusieurs tas de poussière s'élèvent au-dessus des dunes en des monticules suspicieusement ordonnés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous passez à distance prudente des squelettes et continuez d'explorer l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Utiliser une arme à distance pour tester les réactions du monticule sableux]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Le tas de sable se transforme en une petite tempête. Elle souffle à travers les dunes, et son jaillissement éveille les monticules de sable qui l'entourent. Ils s'élèvent ensemble du désert en un nuage tourbillonnant vous tombant dessus en masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

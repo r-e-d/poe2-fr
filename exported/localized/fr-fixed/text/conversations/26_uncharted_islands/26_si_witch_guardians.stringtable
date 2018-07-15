@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_witch_guardians</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous errez dans un marais sombre et froid. Plus vous avancez et plus l'eau autour de vous devient profonde. Le limon et la boue glissent sous vos bottes. Le sentier devant vous se fait plus traître qu'avant, mais vous n'avez pas fait tout ce chemin pour vous arrêter ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Continuer dans le marais]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous reprenez votre pénible marche. De profondes mares d'eau et de boue vorace recouvrent le sol à perte de vue, mais en restant prudent et en regardant où vous mettez les pieds, vous parvenez à les éviter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous vous frayez un chemin dans le marais. Dans un moment d'inattention, vous posez accidentellement le pied sur une parcelle de sol instable et vous coulez au fond de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous vous frayez un chemin dans le marais. Dans un moment d'inattention, [Specified 0] pose accidentellement le pied sur une parcelle de sol instable et coule au fond de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous plongez les bras dans l'eau boueuse et ramenez [Specified 0] à la surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous plongez les bras dans l'eau boueuse, mais vous n'arrivez pas à trouver [Specified 0] parmi les plantes en décomposition et les racines.
+
+Quelques instants tendus s'écoulent, puis une série de bulles perturbe la surface. [Specified 0] en jaillit, crachant et luttant pour reprendre son souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous vous débattez pour remonter à la surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous avez beau essayer de toutes vos forces, vous n'arrivez pas à progresser vers la surface, et vous vous mettez à couler au plus profond de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tandis que la faible lumière de la surface s'estompe, [SkillCheck 0] se penche et vous extirpe de l'eau.
+
+Vous avez survécu, mais l'épreuve vous laisse au bord de l'épuisement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tandis que vos poumons brûlent et que votre vision commence à s'estomper, vous rassemblez vos dernières forces avec l'énergie du désespoir et vous vous propulsez vers la surface.
+
+Vous vous hissez sur la terre ferme en crachant l'eau de marais au goût répugnant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Avec de l'aide, [Specified 0] réussit à atteindre la surface et se hisser sur la terre ferme, crachant de l'eau marécageuse. Grâce à votre réaction prompte, votre compatriote s'en tire avec plus de peur que de mal, et des vêtements quelque peu trempés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le marais est silencieux et rien n'y bouge. Il empeste la décomposition, ses eaux stagnantes emplies de nombreuses décennies d'accumulation de plantes et d'animaux morts.
+
+Une épaisse brume se déploie sur l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Plusieurs kiths portant des capuches émergent du brouillard sans un bruit, suivis d'un troupeau de sombres guetteurs des marécages. Un grand aumaua à la tête du groupe tire son épée et la pointe vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Pourquoi devrais-je vous écouter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>L'aumaua ne dit rien de plus mais n'abaisse pas son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Alors que vous pensiez avoir semé le gardien des marais, il réapparaît, suivi de sa horde de sombres guetteurs.
+
+Même si vous aviez le temps de courir, le sol gluant rendrait impossible toute tentative de fuite. Ils se jettent sur vous sans le moindre avertissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Votre présence ici n'est pas la bienvenue !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous tirez [Specified 0] de l'eau. Vous retombez ensemble sur la terre ferme. [Specified 0] régurgite l'équivalent d'un seau d'eau marécageuse et gît au sol en grognant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si vous tenez à la vie, partez d'ici et ne revenez jamais." Il vous fixe intensément, comme s'il vous mettait au défi de lui désobéir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je suis le gardien de ce lieu, et je ne vous laisserai pas le profaner de votre présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Alors... vous venez ici souvent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je ne fais que passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Partir] "Je vous laisse bien volontiers ce marais, l'ami."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Tirer [Specified 0] hors de l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1] essaie d'aider [Specified 0] mais échoue, évitant tout juste de tomber à son tour à l'eau.
+
+Quelques instants tendus s'écoulent, puis une série de bulles perturbe la surface. [Specified 0] en jaillit, crachant et luttant pour reprendre son souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Laisser [Specified 0] à son sort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 1] enfonce le bras dans l'eau et ramène [Specified 0] à la surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Malgré l'absence d'aide, [Specified 0] réussit remonter à la surface et se hisser sur la terre ferme, régurgitant de l'eau marécageuse par seaux entiers.
+
+[Specified 0] vous jette un regard chargé de signification, les yeux plissés, mais ne dit mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Quelques moments s'écoulent et l'eau cesse de remuer. [Specified 0] n'émerge pas de l'eau, et n'en émergera jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous reprenez votre pénible marche. Où que vous regardiez, le sol est parsemé de profonds trous d'eau et de boue qui vous colle aux bottes, mais [Specified 0] vous guide habilement à travers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Abandonner [Specified 0] à son sort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>L'aumaua ne dit rien de plus mais n'abaisse pas son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>L'homme vous dévisage un long moment avant de prendre la parole, les sourcils froncés. Puis il grommelle, davantage contrarié qu'en colère, et croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Il écarquille alors les yeux et recule en trébuchant, surpris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Veuillez accepter ceci, et présentez mes excuses au Seigneur de la chasse. Je ne pensais pas à mal." Il tire une petite bourse usée de sa ceinture et la pose avec déférence dans vos mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous êtes un élu de Galawain ! Pardonnez-moi, je vous en prie... je l'ignorais. Vous pouvez évidemment traverser ce marécage comme bon vous semble, ô élu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous pouvez passer, mais ne vous attardez pas. Si nous nous croisons à nouveau, les civilités ne seront plus de mise."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

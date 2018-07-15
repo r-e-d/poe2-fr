@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_woedica_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Après avoir erré dans un désert aride pendant plusieurs heures, vous arrivez devant une ruine engwithane au milieu d'une clairière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous retournez à la ruine. La porte bâille toujours, mais à votre entrée, aucune présence ne vient affleurer votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La porte s'ouvre à votre approche, et vous sentez immédiatement une présence oppressante tenter de pénétrer votre esprit. Elle éprouve vos défenses mentales, à la recherche d'une faille à exploiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>En approchant, vous remarquez que la porte à l'entrée de la ruine arbore la couronne brisée de Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Puis, tout aussi rapidement que la présence est apparue, elle s'évanouit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous retournez à la ruine. La porte est toujours entrouverte, et la présence tente à nouveau de pénétrer votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

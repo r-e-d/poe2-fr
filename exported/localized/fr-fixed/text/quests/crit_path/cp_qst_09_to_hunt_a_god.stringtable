@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_09_to_hunt_a_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Chasser un dieu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorer l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous rendre au site d'extraction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fouiller les ruines engwithanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Suite à la tempête, la piste d'Éothas menace de se refroidir. La seule chance de le rattraper consiste à trouver une trace de sa présence sur l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nous avons perdu la trace d'Éothas dans la tempête, mais il semblait se diriger vers l'intérieur des terres au moment du naufrage. 
+
+Énorme comme il est, il a dû laisser des marques de son passage derrière lui. Explorer l'île reste le meilleur moyen de retrouver sa trace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le gouverneur de Port Maje a mentionné que plusieurs témoins prétendent avoir vu un « géant » se déplacer vers l'est en direction d'un site d'extraction tenu par les animanciens de la Compagnie commerciale vailienne. Voilà qui mérite un coup d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>j'ai atteint un gigantesque site d'extraction centré sur des ruines engwithanes. D'après les immenses empreintes laissées dans la zone, il est clair qu'Éothas est passé par là, non sans causer les mêmes ravages qu'à Caed Nua.
+
+Je ferais mieux de jeter un coup d'œil alentour. Peut-être que je peux découvrir ce qu'il cherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Les citoyens de Port Maje ont vu le géant. Peut-être que le gouverneur en sait plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Au site d'extraction, un esprit a raconté avoir vu une lumière vive. Cette lumière me rappelle le faisceau lumineux qui m'a attiré dans le royaume de Berath, même si l'esprit prétend qu'il s'est éteint depuis. Peut-être que l'arrivée d'Éothas a un lien avec ça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Par l'intermédiaire d'un énorme pilier d'adra situé dans les ruines engwithanes, je suis parvenu à créer une connexion entre Éothas et moi. J'ai réussi à récupérer une fraction de mon essence toujours en lui, mais Éothas a coupé le lien avant que je puisse faire quoi que ce soit d'autre. Il semblait absorber le pouvoir de l'adra lumineux. Si c'est comme ça qu'il s'alimente pour traverser le Feu éteint, alors peut-être finirai-je par le retrouver en découvrant d'autres piliers d'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

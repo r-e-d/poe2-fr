@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_guard_horn_ext_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vous, là ! Vous n'avez pas le droit d'être là !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attaquer] "Vraiment ? Qui va m'arrêter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Palsambleu !" La pirate tressaille, reculant d'un demi-pas pour tenter hâtivement de sortir son arme à feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Reculer en levant les mains] "Je m'excuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>La pirate, plus sale que bronzée, crache au sol avant de prendre les devants pour vous escorter jusqu'à la sortie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vous êtes sourd, sale rat de cale ? J'ai dit que vous ne pouviez pas rester ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Très bien, vous l'aurez voulu. N'est-ce pas, vieux forban ?"
+
+Sa langue roule sur ses dents de traviole avant de lever un cor à ses lèvres. Sa poitrine se gonfle alors qu'elle prend une profonde inspiration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tous aux armes ! Nous avons des intrus !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Si Ben le barbare a conclu un marché avec vous, c'est que vous devez être un sacré requin de capitaine. On m'a dit de vous laisser aller et venir à votre guise."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Sentier lumineux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver quelqu'un qui pourrait connaître l'amie d'Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Chercher Elafa à Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enquêter au sujet des partisans du Sentier lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Atteindre le navire d'"avant-garde".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Poursuivre le navire du Sentier lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Secourir Bearn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Bearn&lt;/b&gt; sur &lt;b&gt;Hasongo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Edér aimerait reprendre contact avec une femme qu'il a connue, et qui se serait installée dans le Feu éteint avec les Enfants des Étoiles de l'aube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Quelqu'un parmi les Enfants des Étoiles de l'aube doit avoir entendu parler d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Un membre des Étoiles de l'aube dont nous avons fait la connaissance semblait penser qu'Elafa s'était installée à Hasongo avec son fils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nous avons rencontré Bearn, le fils d'Elafa, et appris que celle-ci était décédée il y a quelques temps. 
+
+Il semble s'être mis à fréquenter une secte des Étoiles de l'aube dont les membres se font appeler les partisans du Sentier lumineux, dirigée par un certain Gaderian Bosc, qui semble avoir des opinions peu banales et militaristes au sujet du passage d'Éothas à travers le Feu éteint.
+
+Malgré les nouvelles au sujet d'Elafa, Edér semble inquiet pour son fils désormais, et souhaite enquêter sur cette secte.
+
+Bearn nous a conseillé d'aller voir une femme du nom d'Ogne, au temple de Gaun à Neketaka, qui recrute de nouveaux membres pour le Sentier lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Il est apparu lors de la conversation avec Ogne que les partisans du Sentier lumineux comptent rejoindre Éothas en mourant près de lui.
+
+Bearn a dit qu'il comptait faire partie de leur avant-garde... la première vague à rejoindre Éothas. Leur navire est à quai à Neketaka.
+
+Nous devons nous y rendre avant qu'il appareille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Nous sommes arrivés trop tard pour embarquer sur le bateau du Sentier lumineux pendant qu'il était à quai à Neketaka.
+
+J'ai promis à Edér que nous poursuivrions le bateau et que nous sauverions Bearn s'il se trouve à bord. 
+
+Ils suivent la piste d'Éothas... Ils vont certainement mettre le cap au nord et suivre son sillage jonché de destruction.
+
+Au vu de leurs intentions, le temps presse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Je dois retrouver Bearn et lui faire quitter le navire avant qu'il ne soit trop tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Suite à l'épreuve de &lt;b&gt;Bearn&lt;/b&gt;, &lt;b&gt;Edér&lt;/b&gt; pense que la meilleure chose à faire pour lui à présent serait de le ramener sur &lt;b&gt;Hasongo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>On m'a dit de parler avec un ancien des Étoiles de l'aube nommé Nordagand, au temple de Gaun à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Ogne&lt;/b&gt; transportait quelques documents froissés. Ils peuvent peut-être nous apprendre quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nous avons réussi à convaincre Bearn de ne pas boire le poison qu'ont ingurgité les autres membres de sa secte. Il a survécu à cette épreuve, même s'il ne semble pas convaincu que ce soit une bonne chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bearn a bu le poison sous nos yeux, mais nous avons heureusement pu le ranimer. Il a survécu à cette épreuve, même s'il ne semble pas convaincu que ce soit une bonne chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nous n'avons pas pu empêcher Bearn de se suicider avec les autres partisans du Sentier lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Des documents qu'Ogne avait sur elle semblent laisser entendre que les partisans du Sentier lumineux comptent rejoindre Éothas en mourant près de lui.
+
+Bearn a dit qu'il comptait faire partie de leur avant-garde... la première vague à rejoindre Éothas. Leur navire était récemment à quai à Neketaka.
+
+Nous devons nous y rendre avant qu'il appareille.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

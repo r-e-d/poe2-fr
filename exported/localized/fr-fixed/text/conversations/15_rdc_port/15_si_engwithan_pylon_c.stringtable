@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_engwithan_pylon_c</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'anneau poursuit sa rotation léthargique autour du pylône. De près, un faible vrombissement en émane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous trouvez, sur une estrade, une petite machine entourée d'un anneau tournoyant. Elle semble être engwithane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Désactiver la machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examiner la machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous notez la vitesse de rotation de l'anneau et le subtil rythme du vrombissement de la machine. Après quelques tests, vous comprenez le fonctionnement du pylône.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous avez beau bidouiller la machine, vous ne parvenez pas à en comprendre le fonctionnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous éteignez la machine. L'anneau flottant s'arrête petit à petit, et l'énergie qu'il émet disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous frappez plusieurs fois le panneau de contrôle jusqu'à ce que la délicate machinerie se torde et casse. Quelques instants plus tard, l'anneau entourant la machine arrête de tourner. L'énergie qu'il émet disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Essayer de casser la machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous faites de votre mieux, mais le pylône ne réagit pas à vos attaques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Un grondement sourd résonne dans les ruines, et la barrière de la fenêtre la plus proche de vous vacille brièvement. Des filets d'eau commencent à couler aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Le grondement est cette fois plus important, et la barrière à l'opposé de vous clignote et vacille. Les murs se fissurent, engendrant plus de fuites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>L'intégralité de la structure est agitée par des secousses si violentes que vous manquez de finir à genoux. La barrière vacille, puis pop... disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

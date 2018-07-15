@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_tsk_spirit_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sa dernière requête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fouiller le domaine de Muhai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler à Muhai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Incinérer les restes de Muhai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai trouvé un esprit, Muhai, dans l'un des domaines de la Couronne du serpent. On l'a laissé mourir seule, et elle a refusé de passer dans la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Muhai explique que son corps est non loin de là et qu'elle a succombé à une maladie. Elle veut que j'aille le chercher pour l'enterrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé le corps de Muhai dans son lit, où il devait reposer depuis plusieurs jours. On dirait que personne ne s'est rendu compte de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Muhai m'a demandé d'apporter son cadavre au temple de Magran, dans le quartier de l'Escalier sacré. Là, je dois y incinérer ce qu'il reste d'elle pour permettre à son esprit de retourner dans la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai incinéré les restes de Muhai. Satisfait, son esprit m'a abandonné pour faire route vers le destin qui l'attend, quel qu'il soit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai remis le corps de Muhai au prêtre de Magran pour qu'il soit enterré ailleurs. L'esprit de Muhai n'a pas apprécié.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

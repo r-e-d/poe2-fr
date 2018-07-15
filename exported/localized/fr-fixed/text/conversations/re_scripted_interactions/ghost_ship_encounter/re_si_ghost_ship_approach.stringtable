@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_approach</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'Engolerio do Espirs vibre de pouvoir dans votre main. Il tressaute dans son fourreau, et pour la première fois depuis deux cents ans, la lame en est libérée. Tandis que vous brandissez l'épée, votre voix résonne au-dessus des flots, son volume augmentant étrangement alors qu'elle voyage, plutôt que de s'estomper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une brume blanche, froide comme la tombe, s'élève de la surface de la mer. Elle tourbillonne autour du [Player Ship] et franchit les flancs du navire juste au moment où vous entendez un galion s'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les grincements du bois pourri par les âges laissent la place aux grognements des morts-vivants. Tandis que le galion vous contourne par le flanc, Lucia Rivan vous transperce de son regard à travers le brouillard épais, son visage décharné illuminé par le feu brûlant de ses orbites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Puis la garde de la mort et ses marins squelettiques abordent votre navire, pour mettre la main sur l'épée. Et sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

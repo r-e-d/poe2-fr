@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_abandoned_village</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous arrivez à un village huana abandonné. Les quelques huttes qui n'ont pas été éparpillées ici et là dans le paysage du Feu éteint sont en ruines. Des arbres que les vents violents ont fait tomber gisent au sol à la périphérie du village. Quelques structures sont cependant toujours debout, et pourraient contenir quelque chose valant la peine d'être récupéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Continuer de fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous passez quelques heures à fouiller le village abandonné...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... et vous ne trouvez rien de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... et vous trouvez la nourriture qui n'est pas encore avariée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... et vous trouvez à boire dans un coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... et vous trouvez quelques pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... et trouvez un paquet d'ingrédients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... et vous trouvez un petit bibelot dissimulé parmi les ordures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... et vous trouvez des drogues cachées dans un coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>... et vous trouvez une poignée de pierres précieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>... et vous trouvez un étrange pendentif qui luit d'une douce lumière émanant de son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous avez fouillé le moindre recoin du village. Il ne reste rien qui vaille la peine d'être pris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Prendre le pendentif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous ramassez le pendentif et vous remarquez qu'il est étrangement chaud au toucher, comme si quelqu'un venait de le porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous avez fouillé le moindre recoin du village. Il ne reste rien qui vaille la peine d'être pris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Un silence de mort plane sur l'avant-poste colonial qui se dresse devant vous. Bien que ses bâtiments semblent être en bon état, vous n'apercevez pas âme qui vive. Vous trouvez sur la place principale un panneau planté à côté des restes de corps calcinés : un avertissement au sujet d'une maladie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le petit village huana que vous vous attendiez à trouver n'est en fait qu'un tas de décombres. Plusieurs grandes fosses sont creusées dans son allée centrale. Alors que vous vous approchez, vous réalisez que les fosses sont en fait les empreintes de pas d'un kith qui doit être grand comme une montagne. Il y a peut-être quelque chose à récupérer parmi les décombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous découvrez un petit village niché dans un flanc de colline. Le silence qui y règne n'est interrompu que par le sifflement du vent qui s'engouffre à travers les fenêtres ouvertes. Alors que vous vous approchez, vous remarquez que la rue est jonchée de corps de kiths morts depuis longtemps. Leurs os brisés portent la marque des dents d'une grande créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Les champs environnants sont stériles et brûlés par le soleil. Un petit verger contient des arbres à koīkis desséchés dont les fruits sont flétris comme des raisins secs. Vous vous approchez du village, que vous trouvez vide et recouvert tout entier d'une fine couche de poussière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous retournez fouiller le village pour essayer de trouver quelque chose à y récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous continuez de fouiller le village pour essayer d'y trouver quelque chose d'utile...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Vous passez quelques heures à fouiller le village abandonné...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>... et vous trouvez un petit bibelot dissimulé parmi les ordures.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

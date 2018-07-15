@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_dragon_magma</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>220</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une créature de fumée et d'écailles, de braise et de griffes, sort de l'obscurité.
+
+Son dos et ses côtes luisent d'un rouge obscène, aussi rouge que le lac de feu qui repose à ses pieds. Elle émet un sifflement pareil à des roches qui s'entrechoqueraient dans sa gorge et, bien que ses lèvres retroussées ne prononcent aucune parole, vous comprenez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Parlez sans délai. Cela pourrait bien vous maintenir en vie.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Portez-vous bien, intrus. J'espère vous englout... pardon, vous revoir un jour.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;Subissez mes flammes ! Contemplez votre fin dans leurs yeux vacillants !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;Qui se présente pour aviver les flammes du chaos ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;N'ai-je pas déjà assez festoyé ? Je suppose que je puis faire de la place pour un autre plat...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Les Rathuns vous ont invoquée... donc vous les avez attaqués ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attaquer] "Retourne dans la Roue, créature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;Je suis le CŒUR des flammes ! Rien ne me contrôle. Ni la volonté pathétique d'un géant, ni un bijou de pacotille.&lt;ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le rire tonitruant de la dragonne fait trembler le sol de la grotte. Se préparant à attaquer, elle secoue les ailes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Majestueuse créature de la Gueule, n'êtes-vous pas un tantinet curieuse de la raison qui me pousse à venir discuter avec vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Votre argument est percutant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;Pénétrez-vous dans mon antre... pour me supplier de vous accorder mon attention ?&lt;/ispeech&gt;
+
+Sa tête pivote sur le côté et vous scrute, ne faisant pas mystère de ses mortels desseins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"J'ai besoin de récupérer le Torque d'Bithákten sur le corps de la brenthís."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ce ne serait pas la brenthís, là-bas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je dois arriver jusqu'à Éothas dans les profondeurs de la Gueule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Pourquoi les Rathuns vous ont-ils invoquée pendant l'invasion d'Éothas ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Magran est prête à tout pour arrêter Éothas. Si elle provoque l'éruption de ce volcan, vous disparaîtrez avec lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La dragonne déploie ses ailes de manière possessive sur son trésor et sa gorge écaillée lâche un grondement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Personne n'a parlé de vol. Ne peut-on pas conclure un marché ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Lever les mains] "Très bien. Oubliez ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;Servez-vous. Je n'ai cure de ce torque. Ni du cadavre.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>&lt;ispeech&gt;En effet, sa dépouille se trouve sur ce talus là-bas.&lt;/ispeech&gt;
+
+La dragonne oriente prestement son cou vers le cadavre mutilé et noirci d'une Rathune à l'extrémité de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;Nous avions conclu un accord... il y a des éons. Je l'avais signé avec une brenthís rusée. Il est vrai que ces... Rathuns... m'ont fourni une nourriture exquise pendant si longtemps.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;ispeech&gt;Devrais-je croire les viles paroles d'un intrus qui s'est introduit subrepticement dans mon antre ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Croyez-moi, dragonne, je ne mentirais pas sur un sujet aussi grave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>&lt;ispeech&gt;Je vole !&lt;/ispeech&gt; Dans un grand effort, elle arrache son corps au magma et prend son envol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>&lt;ispeech&gt;Vous suggérez de me monter MOI, la Grande tempête de feu de la Gueule, pour partir à la rencontre d'un dieu fanfaron ?&lt;/ispeech&gt;
+
+Le petit rire de l'énorme bête roule comme le tonnerre, mais de la fumée âcre sort de ses narines pour souligner sa colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>&lt;ispeech&gt;Si les Rathuns n'ont pu me dompter, pourquoi un pauvre misérable tel que vous connaîtrait-il meilleur sort ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;Mais aujourd'hui, ils convoitaient mes ailes telle une tempête à semer sur le champ de bataille, et mes crocs telles des lances embrasées pour transpercer un dieu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>&lt;ispeech&gt;Je vous confierai ceci, si tant est que cela vous tienne éloigné de mes ailes. Pour parvenir à Éothas, il vous faudra passer par Magran... traverser son sanctuaire dans le fort des Rathuns.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Attendez, je n'ai pas l'intention de vous affronter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Attaquez-moi, bête, et ce sera la dernière chose que vous ferez ici-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Est-ce... un torque sacré que j'aperçois là ? Il se trouve que j'en recherche justement un ! Allons, concluons un marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;ispeech&gt;Un repas facile reste un repas, n'est-ce pas ?&lt;/ispeech&gt; La bête souffle en étirant son cou fumant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;ispeech&gt;Vous, un être aussi chétif ? Vous estimez être capable de mettre un terme à des éons d'une existence tenace et continue ? Là où des géants ont échoué ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez pénétré sans autorisation dans mon antre, et voilà que vous désirez dérober mes richesses ?!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>&lt;ispeech&gt;Détalez en hurlant si cela vous chante. Je sucerai bientôt la moelle de vos os, quoi qu'il arrive.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Créature, qu'avez-vous fait à ces Rathuns ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;ispeech&gt;Nous avions conclu un accord... il y a des éons. Je l'avais signé avec une brenthís rusée. Il est vrai que ces... Rathuns... m'ont fourni une nourriture exquise pendant si longtemps.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;Mais aujourd'hui, ils convoitaient mes ailes telle une tempête à semer sur le champ de bataille, et mes crocs telles des lances embrasées pour transpercer un dieu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>La dragonne vous adresse un sourire espiègle de ses crocs noircis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Quelle était la nature du marché passé avec eux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>L'animal produit un rire sonore, grinçant et insidieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>&lt;ispeech&gt;Les Rathuns payaient leur tribut de chair, de sang, de feu et d'or. Et je me battais farouchement à leurs côtés lorsqu'ils m'invoquaient.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La dragonne s'allonge dans le magma, toute à sa réflexion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne crois pas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>&lt;ispeech&gt;Dites-moi, quelles richesses récupérerai-je sur votre corps ? Quelles exquises babioles retirerai-je de ma gueule ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Brandir votre arme] "Jetez-y un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Le rire tonitruant de la dragonne fait trembler les murs de la grotte tandis que sa queue ondule dans le magma en fusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je ne vous conseille pas de me manger. Je suis bien trop filandreux, je vous donnerais mal au ventre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>&lt;ispeech&gt;Votre langue est habile. Elle me divertit.&lt;/ispeech&gt;
+
+Elle expulse de la fumée de ses narines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>&lt;ispeech&gt;Je vous écoute. Bêlez plus fort, petite bouchée.&lt;ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ce n'est pas exactement ce que j'avais en tête. Mais maintenant que vous le dites..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Connaissez-vous un chemin physique vers les profondeurs de la Gueule ou non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Parce que si vous ne m'aidez pas, je vous arracherai les ailes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Le corps de la dragonne flamboie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>&lt;ispeech&gt;Vraiment, misérable créature ? Vous ne demanderez pas plutôt grâce une fois enveloppé par MES flammes ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>&lt;ispeech&gt;Même cette grande-prêtresse n'a pas pu supporter leur chaleur.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>&lt;ispeech&gt;Et quand bien même : le feu me nourrit. Il ne saurait me nuire.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"C'est intelligent de votre part de convoiter une relique sacrée de Magran. Sa maîtrise du feu est suprême, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je comprends votre désir pour ce torque. L'histoire est remplie de dragons qui amassent des reliques de pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Qu'est-ce que c'est que ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Créature entêtée ! Votre obstination causera votre perte. Souffrez que la mienne vous laisse en vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous avez vécu trop longtemps pour risquer de mourir maintenant. Envolez-vous en lieu sûr, et revenez lorsque les dieux auront résolu leur querelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Le feu de Magran peut ravager jusqu'au corps d'un dieu. Elle a déjà tué Éothas auparavant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;Sage décision.&lt;/ispeech&gt; Un rire retentit dans sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Les narines de la dragonne se dilatent alors qu'elle inspire. Lentement, ses lèvres écaillées dévoilent ses crocs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;Pourquoi devrais-je marchander lorsque je puis me servir sur votre cadavre ?!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>&lt;ispeech&gt;Non, misérable être, vous ne possédez rien que je désire.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous êtes une créature qui mérite d'être révérée ! Votre éminence ne provient pas de votre capacité à massacrer sans remords - non, n'importe quel dragon en est capable - mais de votre capacité à faire preuve de pitié envers vos fidèles les plus dévoués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous souhaitez regarder la mort en face ? Je suis prêt à vous y aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Un instant, il y a autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;Dérobez mes possessions, si vous désirez que votre cadavre rejoigne le sien !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;Et qu'est-ce donc ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>&lt;ispeech&gt;Mais ne souhaitez-vous pas vous en servir pour me contrôler ?&lt;/ispeech&gt;
+
+La dragonne plisse les yeux pour mieux vous regarder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Croyez-vous que je laisserais exister un objet qui peut également me contrôler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je n'ai aucune affinité avec le feu. Je ne pourrais pas vous contrôler, même si je le voulais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>&lt;ispeech&gt;Je vous le concède, nous sommes alliés en la matière.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Mentir] "Je n'ai aucune affinité avec le feu. Je ne pourrais pas vous contrôler, même si je le voulais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>&lt;ispeech&gt;Je sens bien quelque chose... d'attirant venant de vous. Une épée qui irradie une essence singulière... ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>&lt;ispeech&gt;Je sens bien quelque chose... d'attirant venant de vous. Une ou deux pierres précieuses... ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;Je sens bien quelque chose... d'attirant venant de vous. Est-ce... Une pierre de protection... ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;Non. Vous paraissez être une créature capable de terrasser des dragons.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Un grognement sort du fond de sa gorge et elle replie ses ailes sur son dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;Moi, convoiter l'une des abjectes babioles de Magran ?! Certainement pas ! Je ne porte aucun intérêt à ces broutilles !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>La dragonne nettoie ses écailles, et ses yeux brillent comme des braises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>&lt;ispeech&gt;Les Rathuns sont des imbéciles, dévoués aveuglément à Magran. Ils ne m'ont jamais vénérée, pas comme je le méritais.&lt;/ispeech&gt;
+
+Ronronnant, elle se tortille puis s'allonge dans le magma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;Comment ? Où ?!&lt;/ispeech&gt; La tête de la dragonne pivote brusquement sur un côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Edér hoche la tête. "Gardez-la occupée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Retenez juste son attention."
+
+Elle opine presque imperceptiblement du chef et commence prudemment à s'éloigner en pas chassés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Se mordant la lèvre du bas, Tekēhu penche la tête et ne montre aucun signe de compréhension. 
+
+Puis, il cligne des yeux, comme frappé par la révélation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Distrayez-la, alors, cap'taine. Ça n'amuserait personne de se retrouver avec un Serafen rôti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Contentez-vous de me couvrir, patron." 
+
+Elle hausse le front et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Tenez-la occupée. Je vais chiper le torque." Xoti hurle en chuchotant avant de se rapprocher lentement des restes calcinés de la prêtresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Essayez de retenir son attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Siffloter innocemment pour indiquer à Maia votre intention]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Lancer un regard discret à Tekēhu avant de hocher la tête en direction du torque]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Faire signer à quelqu'un de dérober discrètement le torque]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Ne rien faire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne vois rien ! Et je n'aime pas les minables escroqueries, intrus !&lt;/ispeech&gt;
+
+La tête de la dragonne fait un demi-tour et produit un sourd grognement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Désigner Xoti de l'index, puis montrer le torque du pouce]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Secouer la tête pour lui demander d'arrêter] "Ne faites pas attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;ispeech&gt;La genèse de ma mémoire débute lorsque je n'étais encore qu'un bébé fraîchement sorti de l'œuf...&lt;/ispeech&gt;
+
+Tandis que la Vénérable radote, ses phrases craquant telles des braises sur le point de s'éteindre, vous avez du mal à vous empêcher de regarder votre compatriote se diriger furtivement vers le corps de la prêtresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[S'éclaircir la gorge et lancer à Aloth un regard entendu]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Indiquer du menton à Edér qu'il doit aller le dérober]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Faire un signe furtif de la main à Pallegina pour qu'elle se rapproche discrètement du torque]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Claquer des doigts pour que Serafen reporte son attention vers le trésor]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Secouer la tête pour lui demander d'arrêter] "Ne faites pas attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Dragonne, régalez-moi d'un récit de votre grandeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>&lt;ispeech&gt;L'immensité de mon existence s'étale sur des éons. Vous serez sans doute un tas d'os moisis avant même que j'en termine un. 
+
+Mais puisque vous semblez si intéressé...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>&lt;ispeech&gt;Vous dites peut-être la vérité, et cela pourrait tout à fait advenir.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;Quand bien même défendriez-vous votre cas durant des éons... je ne vous croirais pas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;Je suis le CŒUR des flammes ! Rien ne me contrôle. Ni la volonté pathétique d'un géant, ni un bijou de pacotille.&lt;ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Elle montre les crocs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;Je vous confierai ceci, si tant est que cela vous tienne éloigné de mes ailes. Pour parvenir à Éothas, il vous faudra passer par Magran... traverser son sanctuaire dans le fort des Rathuns.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Lentement, ses ailes se déploient. Elle grésillent et pétillent, produisant presque de la vapeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>&lt;ispeech&gt;Mon sommeil a duré une éternité, et mon envie de me défouler encore davantage. Étendre mes ailes me fera du bien. Pour la chasse.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;Comment ces dieux osent-ils guerroyer dans mon antre !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>&lt;ispeech&gt;Je suppose...&lt;/ispeech&gt; Elle émet un grondement pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>&lt;ispeech&gt;J'ai dit aux Rathuns que je ne voulais pas m'en mêler. Et je ne m'en mêlerai pas. Je pars, le temps que le feu s'apaise.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Vous avez trompé les Rathuns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;En effet. Mais vous...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>&lt;ispeech&gt;Vous semblez bien plus intelligent.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ce ne serait pas la brenthís, là-bas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>&lt;ispeech&gt;Vous parlez de la dépouille calcinée sur ce talus, là-bas ?&lt;/ispeech&gt;
+
+La dragonne oriente prestement son cou vers le cadavre mutilé et noirci d'une Rathune à l'extrémité de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>La dragonne vous adresse un sourire espiègle de ses crocs noircis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>&lt;/ispeech&gt;La viande macérée dans l'inquiétude a un goût exquis. Elle était trempée. De peur... de sueur... de surprise...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Oui, il semble bien que ce soit elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Reculer lentement] "En vérité, non. Je ne crois pas que ce soit la prêtresse que je recherche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Commencez par l'oiseau. Elle se plaint depuis qu'on est arrivés ici." 
+
+Maia regarde Ishiza, qui lève la tête en retour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Que Ngati soit maudite pour m'avoir doté d'une chair aussi tendre et délicieuse, m'est avis." 
+
+Tekēhu glousse, inquiet, et recule d'un pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Xoti étouffe un cri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Vous trouverez ce repas bien difficile à digérer, dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ne vous laissez pas abuser, ma chère. Je suis fait que de poils et d'os."
+
+Serafen se touche le bedon tout en faisant nerveusement un pas en arrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je viens de me rendre compte de la chance qu'on a de n'avoir jamais croisé un dragon des égouts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Allons, allons... Ce ne serait pas sain..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Un rire sec s'échappe de la gorge écaillée de la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Et dire que je croyais que ce dragon n'était pas à sa place dans le Feu éteint."
+
+Il lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Voilà qui est horriblement froid de la part d'une créature de feu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Tous les dragons de l'archipel doivent-ils s'enchaîner à la cause de quelqu'un d'autre ?" 
+
+Tekēhu plisse le front en soupirant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Vous savez, ce genre d'arrangement pourrait intéresser le Rauatai. Je peux vous mettre en relation avec les personnes adéquates." 
+
+Maia fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ça va mieux. J'ai cru qu'on se battait contre un dragon. Mais en fait, c'est qu'un gros serpent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Un seul appel à accomplir votre devoir en plusieurs siècles et vous êtes trop couarde pour y répondre. Pathétique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>La dragonne expulse de la fumée de son museau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Et dire que je croyais que ce dragon n'était pas à sa place dans le Feu éteint."
+
+Il lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Voilà qui est horriblement froid de la part d'une créature de feu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Tous les dragons de l'archipel doivent-ils s'enchaîner à la cause de quelqu'un d'autre ?" 
+
+Tekēhu plisse le front en soupirant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Vous savez, ce genre d'arrangement pourrait intéresser le Rauatai. Je peux vous mettre en relation avec les personnes adéquates." 
+
+Maia fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Un seul appel à accomplir votre devoir en plusieurs siècles et vous êtes trop couarde pour y répondre. Pathétique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ça va mieux. J'ai cru qu'on se battait contre un dragon. Mais en fait, c'est qu'un gros serpent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>La dragonne expulse de la fumée de son museau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Comment puis-je alimenter le sanctuaire dédié à Magran, dans le fort des Rathuns ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;Eh bien, je crois que la brenthís détient ce que vous recherchez. Un certain torque qu'elle a tenté d'utiliser contre moi.&lt;/ispeech&gt;
+
+Jadaferlas la Vénérable nettoie le bout d'une de ses incisives avec la langue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>&lt;ispeech&gt;Malheureusement pour elle, sa puissance n'était qu'une étincelle en comparaison de la mienne. Toutefois, comme il s'agissait là de la dernière offrande sacrificielle de la brenthís, vous comprendrez que je ne puis autoriser son larcin.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>&lt;ispeech&gt;Oh, petite bouchée. Pensiez-vous que je vous permettrais de prendre congé ? Que nenni, vous restez festoyer en ma compagnie.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>&lt;ispeech&gt;Vous persistez à vous rapprocher de moi ? Soit vous êtes un prédateur rusé, soit un adorable idiot.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>&lt;ispeech&gt;Êtes-vous toujours en vie, intrus ? Êtes-vous venu me tenter, avec votre odeur si alléchante ?&lt;/ispeech&gt;
+
+Elle glousse. Ses ailes fendent l'air torride, pareilles à des branches d'arbre morts : très sèches et avec de forts craquements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Laissez-moi partir sur-le-champ et je vous rapporterai un festin digne d'une reine. Plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Distraire la dragonne en jonglant et en réalisant des sauts périlleux arrière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Attaquer] "Mangez donc ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>&lt;ispeech&gt;En effet, le moment est venu de vous dire adieu. Pour la dernière fois, misérable.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>&lt;ispeech&gt;Lorsque vous mourrez, sachez que ce sera dans le but de me sustenter de la plus délicieuse des façons.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"L'ignorez-vous donc ? Les divins sont terriblement déconseillés pour une constitution telle que la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>&lt;ispeech&gt;Je n'ai encore jamais savouré la chair d'êtres marqués à ce point par les dieux.&lt;/ispeech&gt;
+
+La majestueuse bête renâcle, et de la fumée jaillit de son museau irrégulier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;Fuyez donc, amère engeance divine, avant que je ne décide de goûter par moi-même à votre misère.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>La dragonne pivote la tête vers un côté et vous observe de ses yeux rouge braise, fortement intéressée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>&lt;ispeech&gt;Comme c'est amusant. Quel délice, de voir son repas danser ainsi.&lt;/ispeech&gt; Son gloussement sourd tonne dans la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Mais malgré son discours menaçant, la bête majestueuse semble momentanément apaisée : elle s'assoit sur ses pattes, détendue et indolente, et son regard se perd dans le lointain. Ce qui vous donne amplement le temps de battre en retraite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>&lt;ispeech&gt;Le pouvez-vous ? Il est exact que j'aime à conclure pareils marchés.&lt;/ispeech&gt;
+
+La dragonne tend le cou pour vous renifler, projetant de l'air chaud sur votre peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez aiguisé mon appétit. Ainsi, lorsque vous reviendrez, ce ne sera pas sans un mets exceptionnellement délicieux.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Attaquez-moi, bête, et ce sera la dernière chose que vous ferez ici-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>La dragonne s'allonge dans le magma, toute à sa réflexion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>&lt;ispeech&gt;Vous, un être aussi chétif ? Vous estimez être capable de mettre un terme à des éons d'une existence tenace et continue ? Là où des géants ont échoué ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Vous êtes arrogante, ça c'est sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>&lt;ispeech&gt;La flatterie ne vous sauvera pas, petite bouchée. Vous n'auriez jamais dû vous aventurer dans mon antre.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>&lt;ispeech&gt;Votre langue est habile. Elle me divertit.&lt;/ispeech&gt;
+
+Elle expulse de la fumée de ses narines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>&lt;ispeech&gt;Quant à vous, misérable créature, vous allez tout aussi sûrement mourir sous peu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Les Rathuns n'ont pas réussi à honorer votre magnificence comme il se devait, mais je vous offre humblement mes services, ô Vénérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>&lt;ispeech&gt;Vraiment ? Et pourquoi quelqu'un d'aussi vénérable que moi aurait besoin de quelqu'un aussi... tendre que vous ?&lt;/ispeech&gt;
+
+Elle enfonce son énorme corps un peu plus dans le magma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>&lt;ispeech&gt;Ou bien êtes-vous dur. Plus dur que ces Rathuns.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez aiguisé mon appétit. Fuyez sur-le-champ, misérable être, avant que je décide de goûter votre chair.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ce serait un honneur que de connaître pareille fin, mais je préférerais continuer de vivre pour vanter votre splendeur à autrui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Croiser les bras sur la poitrine] "Ai-je l'air d'une proie, pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>&lt;ispeech&gt;Que savez-vous de l'honneur et de ce que ce mot signifie pour un être tel que moi ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>De la fumée s'échappe des narines de la Vénérable alors qu'elle rapproche un peu plus son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>&lt;ispeech&gt;Non. Vous n'êtes qu'une petite bouchée, comparé à mes repas usuels.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Brandir vos poings] "Jetez-y un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Un grondement fuse de sa gorge et ses ailes craquent alors qu'elle change de position, impatiente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Secouer la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Elle repose son regard de braise sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Serafen tressaille à cette idée, puis indique ostensiblement la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Une lance de douleur intense vous perce la tête, recouvrant le rugissement du dragon. Un grondement sourd s'ensuit, qui fait vibrer la salle toute entière. 
+
+Une paire d'yeux couleur d'ambre luit dans les ténèbres. L'attention qu'elle vous porte génère un nœud dans vos tripes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"H-hé, ça ne faisait pas partie du marché !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"M'est avis que je suis meilleur en diversion qu'en furtivité, mais va pour cette fois. 
+
+"Faites-la parler." 
+
+Tekēhu s'éclaircit la voix et regarde le torque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>&lt;ispeech&gt;Il faut être idiot pour risquer sa vie à combattre les dieux. J'ai vécu pendant des éons, et j'en vivrai encore de nombreux autres.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Pourquoi ?! Pourquoi n'avez-vous pas honoré notre accord, Vénérable ?! La brenthís était venue requérir votre aide pour la bataille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Sale traîtresse ! Misérable bête !" La chevelure de la guerrière danse de plus en plus violemment sous son casque, en rythme avec sa rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>&lt;ispeech&gt;Cette arrogante prêtresse pensait me chevaucher, MOI, LE MAGMA QUI EMBRASE LA MONTAGNE ! Elle voulait me commander ! 
+
+Alors, je l'ai consumée.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>&lt;ispeech&gt;Les Rathuns ont forgé cet accord alors que je n'étais qu'un nouveau-né. Désormais, plus personne ne me contrôle. Et jamais je ne combattrais un dieu pour des idiots !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ô puissante Vénérable, je suis votre humble et respectueux serviteur. Peut-être pourrions-nous trouver un arrangement honorable ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Vous allez brûler pour votre trahison, créature !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne crains ni les flammes ni les idiots !&lt;/ispeech&gt; Elle agite ses ailes dans un bruissement sinistre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ne proférez pas de mensonges devant nos feux sacrés, vermine. La Vénérable ne nous attaquerait jamais !"
+
+Furieuse, la guerrière prépare son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>&lt;ispeech&gt;Bien sûr que je l'ai tuée, idiote. Et je recommencerais volontiers.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Bénie soyez-vous, terrible Vénérable ! Le bathor m'a envoyée chercher..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Pourquoi ?! Pourquoi n'avez-vous pas honoré notre accord, Vénérable ?! La brenthís était venue requérir votre aide pour la bataille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>&lt;ispeech&gt;Cette arrogante prêtresse pensait me chevaucher, MOI, LE MAGMA QUI EMBRASE LA MONTAGNE ! Elle voulait me commander ! 
+
+Alors, je l'ai consumée.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>&lt;ispeech&gt;Les Rathuns ont forgé cet accord alors que je n'étais qu'un nouveau-né. Désormais, plus personne ne me contrôle. Et jamais je ne combattrais un dieu pour des idiots !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Sale traîtresse ! Misérable bête !" La chevelure de la guerrière danse de plus en plus violemment sous son casque, en rythme avec sa rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Vous êtes une créature des plus amusantes. Peut-être vous autoriserai-je à vivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>La géante tremble d'indignation. Les motifs enflammés de sa peau étincèlent brièvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Vous aviez juré de rassasier les survivants avec les restes des morts, mais les âmes du Dyrwood gémissent de faim." 
+
+Les yeux se plissent. Puis leur attention se porte sur la créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Les âmes du Dyrwood brillent de vitalité. Les morts ont rempli les besoins des vivants." 
+
+Les yeux oscillent tandis que leur détenteur effectue un hochement de tête approbateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Lorsque mon champion refermera ses mâchoires sur vous, sachez que ce sont &lt;i&gt;mes&lt;/i&gt; dents qui perceront votre peau." 
+
+Galawain hoche la tête en direction de la dragonne de magma, puis se retire dans les ténèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Savourez ce répit de votre traque, mais ne laissez pas la suffisance émousser vos dents." 
+
+Lorsque les yeux se ferment, c'est comme s'ils n'avaient jamais été là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Une poussée d'adrénaline vous parcourt de la tête aux pieds, et vous êtes pénétré de chaleur et de vigueur. Rien n'a changé, hormis le fait que vous voyez désormais la dragonne comme une simple proie, une de plus dans une longue lignée qui s'étend à la fois dans votre passé et dans votre avenir. 
+
+Une paire d'yeux couleur d'ambre vous observe depuis les ténèbres de la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>&lt;ispeech&gt;Allumer le sanctuaire de Magran le fait descendre dans la Gueule pour qu'un brenthís puisse la vénérer devant le pilier d'adra, vous voyez.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>&lt;ispeech&gt;Allumer le sanctuaire de Magran le fait descendre dans la Gueule pour qu'un brenthís puisse la vénérer devant le pilier d'adra, vous voyez.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

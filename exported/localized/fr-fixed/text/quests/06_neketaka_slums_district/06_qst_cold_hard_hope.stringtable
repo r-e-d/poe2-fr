@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_cold_hard_hope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Âpre remède</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Se rendre dans &lt;b&gt;l'Allée du mineur&lt;/b&gt; à la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouver le médicament contre la pleurésie du noyé dans l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Donner le médicament contre la pleurésie du noyé à &lt;b&gt;Pitli&lt;/b&gt;, chez elle à la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Plusieurs Roparus de la &lt;b&gt;Raveline&lt;/b&gt; ont contracté la pleurésie du noyé, une maladie contagieuse et mortelle. &lt;b&gt;Pitli&lt;/b&gt;, prêtresse des Enfants des Étoiles de l'aube, s'occupe d'eux en secret et a besoin de médicaments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pitli&lt;/b&gt; estime que je pourrais me procurer les médicaments nécessaires dans l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'Allée du mineur fourmille de magasins et d'individus douteux. L'un d'eux aura forcément les médicaments dont Pitli a besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai les médicaments pour &lt;b&gt;Pitli&lt;/b&gt;. Elle m'attend auprès des Roparus malades chez elle, à la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Pitli ignore comment se rendre à l'Allée du mineur, mais les gens qui traînent autour de la &lt;b&gt;taverne&lt;/b&gt; le sauront sans doute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; a promis de me donner les médicaments si je tuais &lt;b&gt;l'Échalas&lt;/b&gt;, un autre marchand de l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Certains membres de la bande d'&lt;b&gt;Ernezzo&lt;/b&gt; quittent son magasin la nuit pour aller boire. Il sera donc faiblement gardé à cette heure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>L'Échalas a parlé d'une entrée secrète menant à la &lt;b&gt;réserve d'Ernezzo&lt;/b&gt;. Je peux m'infiltrer à partir de la &lt;b&gt;passerelle en bois située à l'est de la boutique&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>L'Échalas m'a proposé de tuer &lt;b&gt;Ernezzo&lt;/b&gt; à la place. En échange, il m'a promis de baisser ses prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai volé les &lt;b&gt;médicaments&lt;/b&gt; à Ernezzo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Ernezzo&lt;/b&gt; et pris ses &lt;b&gt;médicaments&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Selon la rumeur, &lt;b&gt;Ernezzo&lt;/b&gt; disposerait des &lt;b&gt;médicaments&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;L'Échalas&lt;/b&gt; est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Rouille&lt;/b&gt; va éliminer &lt;b&gt;Ernezzo&lt;/b&gt; à ma demande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai embauché &lt;b&gt;Rouille&lt;/b&gt; pour me débarrasser de &lt;b&gt;l'Échalas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai dénoncé les Roparus malades. Pitli et ses protégés ont été bannis vers la Vieille ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai donné les médicaments à Pitli. Les Roparus malades, ainsi qu'elle-même, sont en voie de rétablissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

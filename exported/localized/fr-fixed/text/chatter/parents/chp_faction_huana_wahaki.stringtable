@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>chatter\parents\chp_faction_huana_wahaki</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Nous sommes attaqués par nos frères !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Le sauvage étranger attaque !"</DefaultText>
+      <FemaleText>"L'étrangère sauvage attaque !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Partez, frères et sœurs !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hm ? Qui va là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que puis-je pour vous, cousin ?"</DefaultText>
+      <FemaleText>"Que puis-je pour vous, cousine ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous êtes venu nous réduire en esclavage ?</DefaultText>
+      <FemaleText>"Vous êtes venue nous réduire en esclavage ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"L'élu de Ngati ? Un choix bien curieux, pour un compagnon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ekera, on se retrouve là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Un Huana ami avec une étrangère à plumes ?"</DefaultText>
+      <FemaleText>"Une Huana amie avec une étrangère à plumes ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Une lanterne bien étrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"La fille d'Amira... est-elle porteuse d'un présage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Étranger."</DefaultText>
+      <FemaleText>"Étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Voleur !"</DefaultText>
+      <FemaleText>"Voleuse !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Pourquoi tant de discrétion, cousin ?"</DefaultText>
+      <FemaleText>"Pourquoi tant de discrétion, cousine ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Espion étranger."</DefaultText>
+      <FemaleText>"Espionne étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"La jungle est bien animée, aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous jouissez de la liberté de notre forteresse. Faites-en bon usage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Parlez à Ruāsare. Elle s'occupera de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

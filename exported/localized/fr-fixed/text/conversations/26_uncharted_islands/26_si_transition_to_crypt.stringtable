@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_crypt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une vallée étroite et luxuriante s'étend au-dessous de vous. Vous repérez un édifice en pierre envahi par la végétation au loin dans la vallée.
+
+Devant l'édifice s'étend un vaste terrain parsemé de socles anciens et de monticules de ruines en pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous suivez rapidement le chemin familier menant à la crypte et pénétrez à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>En vous rapprochant, vous découvrez que l'édifice en pierre s'avère être l'entrée d'une crypte. Bien que l'entrée soit souillée par la boue et humide comme de la peau couverte de sueur, vous descendez dans les ténèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

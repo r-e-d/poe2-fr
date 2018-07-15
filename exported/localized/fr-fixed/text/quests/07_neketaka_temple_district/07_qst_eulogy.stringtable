@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_qst_eulogy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Éloge funèbre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Descendre dans les &lt;b&gt;Sépulcres suspendus&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explorer les &lt;b&gt;Sépulcres suspendus&lt;/b&gt; à la recherche de l'&lt;b&gt;éloge funèbre d'Yseyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Kasu&lt;/b&gt; au &lt;b&gt;temple of Berath&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kasu&lt;/b&gt;, le grand prêtre de Berath, souhaite mettre la main sur un texte sacré , l'&lt;b&gt;éloge funèbre d'Yseyr&lt;/b&gt;. L'éloge repose dans les catacombes sous l'&lt;b&gt;Escalier sacré&lt;/b&gt;, dans un endroit où seuls peuvent pénétrer ceux possédant la marque de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kasu a dit que l'&lt;b&gt;éloge funèbre d'Yseyr&lt;/b&gt; était gravée sur des tablettes de pierre reposant dans les &lt;b&gt;Sépulcres suspendus&lt;/b&gt;, un enchevêtrement de catacombes sculptées sous L'Escalier sacré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai réussi à pénétrer dans les Sépulcres suspendus et peux ainsi commencer mes recherches. L'éloge funèbre a été divisée en odes écrites par les &lt;b&gt; champions d'Yseyr&lt;/b&gt; et placées à côté de leurs &lt;b&gt;tombes&lt;/b&gt;. La première étape consiste à trouver ces tombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai retrouvé l'&lt;b&gt;éloge funèbre d'Yseyr&lt;/b&gt;. Nul doute que &lt;b&gt;Kasu&lt;/b&gt; doit avoir hâte d'en lire tout son contenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je trouverai l'entrée des &lt;b&gt;Sépulcres suspendus&lt;/b&gt; à l'extérieur du &lt;b&gt;temple de Berath&lt;/b&gt;, sur la passerelle inférieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Seuls ceux possédant la marque de Berath sont à même d'utiliser la &lt;b&gt;Volute de l'anguille&lt;/b&gt;, un symbole de la déesse permettant de pénétrer dans le &lt;b&gt;tombeau sous le temple&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai obtenu la &lt;b&gt;Volute de l'anguille&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai lu une partie de I'éloge funèbre d'Yseyr. Sa championne, &lt;b&gt;Faywden&lt;/b&gt;, la &lt;b&gt;Dame qui ne dort jamais&lt;/b&gt;, combattait à ses côtés armée d'une &lt;b&gt;masse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai lu une partie de I'éloge funèbre d'Yseyr. Son champion, &lt;b&gt;Borthwn&lt;/b&gt;, le &lt;b&gt;seigneur d'Heldengate&lt;/b&gt;, maniait la &lt;b&gt;lance&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Une impressionnante porte barre le passage vers les Sépulcres suspendus. Deux squelettes encadrent la porte, chacun orné d'un symbole ; celui d'un portail pour le premier, et d'une lanterne pour le second.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé le dernier morceau de l'&lt;b&gt;éloge funèbre d'Yseyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai obtenu une partie de l'éloge funèbre, se référant à &lt;b&gt;la Porte&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai obtenu une partie de l'éloge funèbre, se référant à &lt;b&gt;la Dame&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai apporté les tablettes de pierre renfermant l'éloge funèbre d'Yseyr à Kasu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

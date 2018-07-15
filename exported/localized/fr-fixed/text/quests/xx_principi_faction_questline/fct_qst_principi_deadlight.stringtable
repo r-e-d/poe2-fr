@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_deadlight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'homme à abattre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Naviguer jusqu'à Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouver Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver un moyen d'atteindre Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Affronter Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Furrante, chef des Príncipi sen Patrena, a révélé l'identité et l'endroit où se trouve le pirate qui m'a attaqué en mer : un capitaine nommé Benweth, qui a trouvé refuge au havre des pirates de Mortelume. Il m'a suggéré de partir me venger à Mortelume et affirme que nous y gagnerions tous deux si Benweth venait à être éliminé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Benweth est retourné à Mortelume. Cette forteresse retranchée se dresse sur une petite île dans le sud-ouest du Feu éteint. Toutes sortes d'équipages de pirates sont basés à Mortelume. Parvenir jusqu'à Benweth, par la force ou par la ruse, ne sera pas chose aisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis arrivé à Mortelume. Benweth se trouve quelque part dans le fort. Une fois que j'aurai découvert où il se trouve, je réfléchirai au moyen de l'atteindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Benweth s'est installé dans les étages supérieurs du fort, derrière des portes solidement verrouillées et des gardes pirates acquis à sa cause. Le chemin le plus court jusqu'à lui semble bien défendu, mais peut-être y a-t-il des moyens moins évidents de contourner ces obstacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé un moyen de passer par les zones restreintes menant aux quartiers du capitaine de Mortelume, là où réside Benweth. Bien qu'une approche directe soit désormais possible, je peux envisager d'autres options pour me charger de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>La maîtresse de Mortelume est Aeldys, qui est à la tête d'une sous-faction importante au sein des Príncipis. En son absence, Benweth dirige la forteresse, bien que la plupart de ses résidents soient loyaux envers Aeldys, plutôt qu'envers lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Furrante déconseille un assaut direct contre le fort. Ses murs, ses canons et ses pirates constituent un réel danger. Il suggère plutôt de s'infiltrer furtivement ou de se faire passer pour un équipage príncipi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Si je bats le pavillon príncipi lors de mon approche de Mortelume, je pourrais alors mouiller dans son port en me faisant passer pour un pirate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai envahi Mortelume par la force brute. Les pirates dans la zone vont certainement me barrer la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai jeté l'ancre dans le port de Mortelume, déguisé en pirate. Si les autres percent à jour mon subterfuge, cela pourrait m'attirer de gros ennuis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai approché Mortelume en yole à la faveur de la nuit. Les pirates dans la forteresse n'ont aucune raison de me suspecter à vue, à moins que l'on me surprenne là où je ne devrais pas me trouver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>L'accès aux remparts et aux cachots du fort est exclusivement réservé aux compagnons de bord de Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Les gardes de Benweth utilisent une corne pour alerter le fort en cas de danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai appris comment annuler l'alarme à l'aide d'une corne de garde, mais il est peu probable que cela fonctionne une seconde fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Il pourrait être possible d'attirer Benweth hors des quartiers bien gardés du capitaine de Mortelume en l'appâtant par des bruits de fête dans le réfectoire du fort : l'arcade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Mirke pense que le rhum spécial d'Aeldys serait un bon point de départ pour encourager les pirates à festoyer à l'arcade de Mortelume. Une cargaison de ce précieux alcool est en train d'être chargée par grue sur les remparts est du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Lamond m'a promis de déverrouiller une porte menant aux étages supérieurs du fort si je libère son équipage de la prison flottante dans les cachots de Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>L'équipage de Lamond est emprisonné dans la prison flottante située dans la partie sud-est des cachots. Les clés des cellules doivent se trouver près de la guérite de la geôlière... ou sur elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Benweth a la réputation de jouer du clavecin lors des orgies organisées à l'arcade de Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Mirke a besoin d'un ragoût spécial préparé par le cuisinier pour pimenter la fête à l'arcade de Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Lamond sera prêt à voler le Drake une fois que je me serai débarrassé de l'équipage de Benweth sur les quais privés, sous les cachots de Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Une fois les quais dégagés, je dois faire sonner la cloche située sur les remparts ouest pour informer Lamond que l'heure est venue de voler le navire de Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Pour rejoindre le cuisinier du côté nord des cachots, il faut passer par les entrepôts de poudre... et les gardes de Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Lamond a un plan pour débusquer Benweth de ses quartiers intérieurs et l'éloigner de ses gardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Je me suis approprié le stock de rhum privé d'Aeldys. Mirke sera heureuse de mettre la main dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>J'ai libéré l'équipage de Lamond de la prison flottante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>J'ai acquis le ragoût arrosé d'alcool dont Mirke a besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>J'ai dégagé les quais privés. Dès que je ferai retentir le signal de départ du navire depuis les remparts, Lamond prendra le large à bord du navire de Benweth, le Drake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai fait forte impression auprès des pirates du Feu éteint en venant à bout de Benweth. Le capitaine Furrante, qui réside sur l'île de Dunnage, sera heureux d'apprendre le décès du pirate importun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai fait forte impression auprès des pirates du Feu éteint en rendant à Benweth la monnaie de sa pièce, même si je l'ai finalement épargnée. Le capitaine Furrante, qui réside sur l'île de Dunnage, sera heureux d'apprendre mon succès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

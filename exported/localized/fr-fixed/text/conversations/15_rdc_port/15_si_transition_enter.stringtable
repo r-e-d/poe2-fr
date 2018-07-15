@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous arrivez au large des côtes de Sayuka, à l'endroit indiqué par le maçon de corail. Vous regardez par-dessus le bord de votre navire et remarquez une légère lueur loin, loin dans les profondeurs de l'océan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Enfiler votre combinaison de plongée et sauter dans l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Faire demi-tour]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous enfilez votre combinaison et plongez avec force éclaboussures.
+
+Vous nagez vers la lumière, en respirant de l'air frais grâce à l'invention d'Iverra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous traversez la barrière et découvrez que, contrairement à ce que vous pensiez, l'intérieur des ruines n'est pas inondé, mais totalement sec. Vous retirez votre casque, inspirez une grande bouffée d'air frais et entrez dans les ruines de Cignath Mór.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous remarquez que plus vous descendez, et plus les eaux qui vous entourent s'assombrissent, contrairement à la lueur qui, elle, s'intensifie. Des bancs de poissons gigantesques filent et virevoltent autour de vous, sans prêter attention.
+
+Vous finissez par distinguer la vague forme d'une structure reposant sur le fond marin. Une grande tour et ce qui semble être une petite plateforme de débarquement jaillissent des ruines de Cignath Mór.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La lueur semble venir de quelque part au fond de l'océan. Vous ne manquerez pas de vous noyer si vous tentez de l'atteindre en nageant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Traverser la barrière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Quand vous atteignez enfin la tour, vous découvrez qu'une barrière scintillante entoure les ruines. Vous passez la main à travers et ne sentez rien d'autre qu'un picotement, comme si de l'électricité statique courait sur votre peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

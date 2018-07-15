@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_treasure_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'appel de la conque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Obtenir le &lt;b&gt;Cornet des vagues&lt;/b&gt; dans la &lt;b&gt;villa de Takano&lt;/b&gt;, à la &lt;b&gt;Couronne du serpent&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rencontrer &lt;b&gt;Gwenfin&lt;/b&gt; au &lt;b&gt;Caveau&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver un &lt;b&gt;temple d'Ondra&lt;/b&gt; dans la &lt;b&gt;Vieille ville&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Faire un rapport à &lt;b&gt;Gwenfin&lt;/b&gt;, à l'entrée du &lt;b&gt;Caveau&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Dereo&lt;/b&gt; aux &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rencontrer un mystérieux personnage dans les &lt;b&gt;Gorges&lt;/b&gt; de la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Rendre le Cornet à &lt;b&gt;Dereo&lt;/b&gt; dans les &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Dereo&lt;/b&gt; aux &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Trouver la mosaïque que &lt;b&gt;Dereo&lt;/b&gt; cherche dans la &lt;b&gt;Vieille ville&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dereo le svelte&lt;/b&gt;, un baron du crime de la &lt;b&gt;Raveline&lt;/b&gt;, recherche un artefact de valeur connu sous le nom de &lt;b&gt;Cornet des vagues&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dereo m'a demandé d'obtenir un artefact appelé le &lt;b&gt;« Cornet des vagues »&lt;/b&gt; auprès de son propriétaire mataru, &lt;b&gt;Takano&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; m'attend (ainsi que le Cornet) au &lt;b&gt;Caveau&lt;/b&gt;, près d'une ancienne porte de style huana.
+
+Dereo m'a expliqué comment la rejoindre au moyen d'un &lt;b&gt;ascenseur&lt;/b&gt; dans l'&lt;b&gt;Allée du mineur&lt;/b&gt; qui ne fait pas partie de la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Apparemment, la mosaïque que Dereo recherche se trouve dans un &lt;b&gt;vieux temple&lt;/b&gt; quelque part dans les &lt;b&gt;ruines&lt;/b&gt;. 
+
+&lt;b&gt;Gwenfin&lt;/b&gt; m'a demandé de lui communiquer l'endroit quand je l'aurai localisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé le temple d'Ondra et vu une mosaïque complexe sur un mur qui dépeint un endroit appelé « Ukaizo ». Ce doit être ce que &lt;b&gt;Dereo&lt;/b&gt; cherchait.
+
+&lt;b&gt;Gwenfin&lt;/b&gt; attend de mes nouvelles au passage entre le &lt;b&gt;Caveau&lt;/b&gt; et la &lt;b&gt;Vieille ville&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Gwenfin est en route pour sécuriser le temple. Elle m'a demandé de transmettre la bonne nouvelle à &lt;b&gt;Dereo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Un messager m'a informé que quelqu'un d'importance désirait s'entretenir avec moi. 
+
+On m'a demandé de me rendre dans les &lt;b&gt;Gorges&lt;/b&gt;, de tourner à droite, puis encore à droite, et de prendre à gauche au coude tout en guettant des signes d'utilisation de svef. Si je rencontre de la résistance, je n'aurai qu'à dire que c'est &lt;b&gt;Dereo&lt;/b&gt; qui m'envoie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Je me suis procuré un instrument en forme de conque, avec des symboles d'Ondra gravés dessus : cela ressemble au « Cornet » que &lt;b&gt;Dereo&lt;/b&gt; désire. 
+
+Il l'attend dans les &lt;b&gt;Gorges&lt;/b&gt;, les tunnels qui entourent la Raveline.</DefaultText>
+      <FemaleText>Je me suis procurée un instrument en forme de conque, avec des symboles d'Ondra gravés dessus : cela ressemble au « Cornet » que &lt;b&gt;Dereo&lt;/b&gt; désire. 
+
+Il l'attend dans les &lt;b&gt;Gorges&lt;/b&gt;, les tunnels qui entourent la Raveline.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai trouvé le temple d'Ondra et vu une mosaïque complexe sur un mur qui dépeint un endroit appelé &lt;b&gt;« Ukaizo »&lt;/b&gt;. Ce doit être ce que &lt;b&gt;Dereo&lt;/b&gt; cherchait.
+
+Il avait promis de me récompenser lorsque je le trouverais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Dereo veut que je déniche une mosaïque dans la &lt;b&gt;Vieille ville&lt;/b&gt;. À présent que Gwenfin n'est plus là, j'en suis réduit à espérer reconnaître la bonne, si je tombe dessus.</DefaultText>
+      <FemaleText>Dereo veut que je déniche une mosaïque dans la &lt;b&gt;Vieille ville&lt;/b&gt;. À présent que Gwenfin n'est plus là, j'en suis réduite à espérer reconnaître la bonne, si je tombe dessus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; désire le cornet bien plus qu'il ne le laisse paraître. Il a précisé qu'il avait de la valeur, mais n'a rien dit de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dans les ruines de la &lt;b&gt;Vieille ville&lt;/b&gt; se trouve une fresque qui dépeint deux conques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Dans la &lt;b&gt;Vieille ville&lt;/b&gt;, j'ai trouvé une conque sur laquelle sont gravés des symboles ondrites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; est postée devant une antique ruine huana dans le &lt;b&gt;Caveau&lt;/b&gt;, près de la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai loué les services de &lt;b&gt;Rouille&lt;/b&gt; afin qu'il acquière le &lt;b&gt;Cornet des vagues&lt;/b&gt; pour moi. L'assassin aura besoin d'un jour entier pour accomplir sa tâche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; estime que je peux me servir du Cornet pour ouvrir une porte près de la statue ondrite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; m'a parlé d'un artefact en rapport avec celui-ci, le &lt;b&gt;Cornet des profondeurs&lt;/b&gt;, qui fut perdu lorsque la &lt;b&gt;Vieille ville&lt;/b&gt; a coulé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Je ne suis pas la première personne à entreprendre cette tâche. &lt;b&gt;Dereo&lt;/b&gt; avait commencé par embaucher quelqu'un d'autre, mais cette personne a échoué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Ateira&lt;/b&gt;, la mercenaire recrutée à l'origine par &lt;b&gt;Dereo&lt;/b&gt;, m'a tendu une embuscade pendant que je revenais de chez &lt;b&gt;Takano&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Dans le temple, j'ai trouvé une gravure murale avec deux emplacements. Chacun avait la forme et la taille adéquats pour accueillir le Cornet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Selon &lt;b&gt;Takano&lt;/b&gt;, une conque similaire fut perdue lorsque la &lt;b&gt;Vieille ville&lt;/b&gt; a coulé. Plusieurs ondrites périrent à ses côtés, condamnés à ne plus remonter à la surface tant que la conque ne ferait pas de même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Dans le temple, j'ai trouvé une gravure murale avec deux emplacements. Chacun avait la forme et la taille adéquats pour accueillir le Cornet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Pour être plus précis, l'ascenseur est situé à côté de la &lt;b&gt;boutique d'Ernezzo&lt;/b&gt;, dans l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText>Pour être plus précise, l'ascenseur est situé à côté de la &lt;b&gt;boutique d'Ernezzo&lt;/b&gt;, dans l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>&lt;b&gt;Takano&lt;/b&gt; n'est pas particulièrement attaché au &lt;b&gt;Cornet des vagues&lt;/b&gt;, et il a besoin d'argent. Il serait peut-être disposé à le vendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Gwenfin&lt;/b&gt;. C'est à moi de comprendre comment utiliser le Cornet et ce que veut &lt;b&gt;Dereo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Dereo était content quand je lui ai parlé de la mosaïque d'Ukaizo. Il m'a averti de garder ma trouvaille secrète.</DefaultText>
+      <FemaleText>Dereo était content quand je lui ai parlé de la mosaïque d'Ukaizo. Il m'a avertie de garder ma trouvaille secrète.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; cherche une mosaïque dans la &lt;b&gt;Vieille ville&lt;/b&gt;. Le Cornet m'y mènera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Une personne influente s'intéresse à moi. Elle m'a donné rendez-vous dans les &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

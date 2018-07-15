@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] siffle depuis le haut du gréement et pointe frénétiquement à bâbord. "Regardez, capitaine ! Regardez !"
+
+L'équipage se rassemble pour regarder au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vais monter à bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gardez le cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 2] vous salue. "Bien, capitaine. C'est probablement mieux comme ça. Qui sait ce qui nous attend là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>L'équipage prépare le canot, et vous ramez à travers la houle océane vers la jonque échouée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Faites tirer les canons. Pour faire fuir ces créatures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les tirs décrivent une courbe au-dessus du pont de l'épave, frôlent sa coque, et tombent dans des gerbes d'eau tout autour de la carcasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Le [Player Ship] vibre sous la puissance de ses propres canons. 
+
+Malheureusement, quelques tirs pénètrent la coque, juste sous la ligne de flottaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous atteignez le bateau sans encombre et commencez à escalader son flanc...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'équipage prépare le canot, et vous ramez à travers la houle océane vers la jonque échouée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Alors que vous approchez, les lagufaeths sifflent et gargouillent dans votre direction depuis le pont. Certains sortent des sarbacanes et remplissent rapidement l'air d'une pluie de fléchettes aux empennages bariolés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Derrière vous, [SkillCheck 0] pousse un cri. Vous vous retournez, pour voir votre camarade retirer d'entre ses côtes une aiguille emplumée de la taille d'un poignard. Vous attrapez la fléchette et la jetez à l'eau tandis que [SkillCheck 0] s'occupe de panser la plaie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Un des projectiles vous touche, perçant votre équipement comme votre peau, sans discrimination. Vous arrachez de votre peau la fléchette longue comme une dague et la jetez par-dessus bord. Vous pressez une main contre la blessure, et le sang coule entre vos doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les fléchettes se fichent dans le canot, mais aucune ne vous touche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Amenez-nous plus près. Je veux mieux voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous observez le bateau, une épave ravagée portant les couleurs délavées de la Compagnie du Feu éteint. Les voiles réduites en lambeaux pendouillent, et des fentes marbrent ses planches incrustées de bernacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] vous salue. "Bien, capitaine."
+
+Le gréement se tend et les voiles crissent alors que le [Player Ship] approche de l'embarcation inconnue.
+
+Le bateau est proche, une épave ravagée portant les couleurs délavées de la Compagnie du Feu éteint. Les voiles réduites en lambeaux pendouillent, et des fentes marbrent ses planches incrustées de bernacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Une créature agile et dégingandée escalade le flanc du bateau, se hissant de ses quatre bras par-dessus le bastingage pour atterrir sur le pont. Vous réalisez que le mouvement que vous avez perçu n'était autre qu'un groupe de lagufaeths ayant envahi l'épave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 1] plisse les yeux en plaçant sa main en visière. "Un navire échoué, capitaine. Il y a du mouvement. Peut-être des survivants."
+
+Vous jetez un œil. De sombres formes se déplacent par-dessus la coque érodée.
+
+"Une bonne grosse épave comme ça..." murmure [Specified 2] "pourrait être équipée de jolis canons. Et qui sait quoi d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Préparez les canons. Expédiez-le au fond de l'océan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Les terrifier avec une capacité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Avec quoi ? Nous n'avons aucun boulet de canon."
+
+[Specified 2] tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Avec un regard mauvais à l'adresse des lagufaeths, vous faites jaillir de l'essence en une puissante explosion d'horreur pure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 5] hoche la tête vers vous, puis se concentre sur le bateau lointain. Après quelques instants de concentration, votre camarade lance un torrent de peur concentrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Dans un chœur grinçant de sifflements et de cris perçants, les créatures marines fuient le pont en plongeant par-dessus le bastingage pour disparaître dans les profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je vais monter à bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le [Player Ship] tremble alors que les canons crachent le feu, transperçant la carcasse de ses boulets de plomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le [Player Ship] tire une bordée de boulets de plomb qui s'écrasent inoffensivement dans l'eau.
+
+La brise légère porte les sifflements et les cris perçants des lagufaeths sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Les lagufaeths bondissent du pont et disparaissent dans l'eau.
+
+Vous regardez le bateau chavirer et être englouti par les vagues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 2] sourit largement. "Avec plaisir, capitaine." 
+
+Le canonnier disparaît dans la cale au son d'une série d'ordres aboyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 2] passe au garde-à-vous. "Bien, capitaine. Ça m'a l'air d'être du gâchis de plomb, mais c'est le vôtre, alors faites-en ce que vous voulez."
+
+Le canonnier disparaît dans la cale au son d'une série d'ordres aboyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Le canot heurte le bord de l'épave, et vous escaladez le flanc du bateau infesté de lagufaeths...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

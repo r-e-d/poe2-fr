@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_valera_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une cible plus alléchante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver les marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Faire partir les marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner auprès de Martino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Martino veut faire expulser quelques marins rauatais des alentours de la taverne de la Jetée de la reine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Martino veut expulser un groupe de marins de la Compagnie royale du Feu éteint de la Jument sauvage, à la Jetée de la reine. Il semblait être favorable à une solution définitive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je crois avoir trouvé le groupe dont Martino parlait, en train de faire la bringue sur le balcon de la &lt;b&gt;Jument sauvage&lt;/b&gt;. Il ne me reste qu'à les faire partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je me suis occupé des soldats. Martino m'attend à la résidence Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Martino a spécifié que les marins chantaient devant la Jument sauvage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Zili Valera a proposé de jouer pour les marins rauatais si cela les tient éloignés de la taverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Martino était satisfait de mon travail, bien qu'il semble avoir lancé une autre machination dans le même temps. Il a l'intention de s'en prendre ensuite aux Bardatto. Je l'ai enjoint de ne pas le faire, mais je crains que la fenêtre de temps pour réussir à rassembler ces deux familles se referme bientôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Martino était satisfait de mon travail, bien qu'il semble avoir lancé une autre machination dans le même temps. Il a l'intention de s'en prendre ensuite aux Bardatto, et a promis de faire appel à moi lorsqu'il sera prêt à frapper. Cette querelle dégénère à vue d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Cette querelle étant résolue, les machinations de Martino sont inutiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

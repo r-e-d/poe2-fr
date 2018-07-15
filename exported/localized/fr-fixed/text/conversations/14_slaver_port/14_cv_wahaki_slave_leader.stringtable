@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_cv_wahaki_slave_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hé vous, étranger ! Aidez-nous ! Cet endroit n'est pas pour nous !"
+
+Une femme couverte de boue et tachetée de peinture de guerre fait un geste de la main derrière les barreaux crasseux. Bien que sans arme, en cage et portant des haillons impropres à un mendiant, elle se tient debout de façon agressive, tout en muscles. Il paraît évident qu'il s'agit d'une guerrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous ne seriez pas native du Feu éteint, des fois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que pouvez-vous me dire sur ces cachots ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[S'éloigner des barreaux]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je suis une Wahaki. Le Feu éteint est ma patrie, et un jour je décimerai tous les esclavagistes pour l'avoir souillée. Compris ?" Elle tire violemment sur les barreaux, et bien que le métal refuse de se plier, il émet un long grincement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous n'êtes vraiment pas de mèche avec Kua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Connaissez-vous un Wahaki nommé Apāro ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Oui ! Vous connaissez Apāro ? Est-ce que mon frère va bien ? Que lui est-il..." Elle a le souffle coupé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Votre chef m'envoie mettre un terme aux actions des esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous êtes parvenu jusqu'ici sans vous faire embrocher par un ogre, enfin pas encore. Peut-être pourrez-vous nous libérer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Les autres et moi-même gardons un œil sur les patrouilles. Je connais leurs horaires ainsi que leurs faiblesses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous allez avoir besoin d'armes si vous comptez sortir d'ici vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Si vous mourez ici, ce sera en vain. Vous devez retrouver votre tribu pour les protéger contre les esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mes chasseurs et moi-même avons quand même pu abattre une douzaine d'hommes. Notre vengeance n'épargnera personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oubliez le combat et fichez le camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous n'êtes vraiment pas de mèche avec Kua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Nous ne connaissons que le chemin par lequel nous sommes arrivés. S'échapper de la même manière sera difficile. Les gardes ont des cornes pour déclencher l'alarme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Elle vous observe des pieds à la tête, la tête posée contre les barreaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Cette porte est toujours entre mes guerriers et la liberté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Des armes ? Les esclavagistes en ont à foison, prêtes à être utilisées. Nous tuerons rapidement les gardes les plus proches, et utiliserons leurs armes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je m'occuperai personnellement du surveillant, je compte l'éventrer avec sa propre ancre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous demandez à une guerrière de fuir le combat ? De faire preuve de lâcheté ?" Elle se frappe la poitrine du poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Pour le bien de ma tribu, j'espère que oui. Mais sachez ceci, moi et les miens..." 
+
+Elle vous adresse un sourire menaçant, ses mains resserrent leur étreinte autour des barreaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Approchez. Voilà, c'est ça, un peu plus près mon oisillon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'était donc vrai. L'Éperon tordu fait dans le commerce illégal d'esclaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Effectivement, bien que la légalité importe peu. Liberté et survie sont des droits innés pour tous les kiths. Je ferai en sorte que ces esclavagistes soient massacrés pour leurs actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Faisons-les souffrir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je ne suis pas encore prêt à vous faire sortir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tout son corps se met soudainement en alerte, ses muscles sont tendus comme un arc alors qu'elle indique à ses compagnons d'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Attendez. Nous ne pouvons pas encore attaquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"On frappe fort, et maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fuyez d'ici et vite, sinon vous allez avoir affaire à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je n'ai aucune envie que vous et moi devenions ennemis." Elle secoue la tête avec frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Une grotte sous-marine se trouve au sous-sol. Le tunnel le plus éclairé vous mènera en haute mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je trouverai un moyen de vous faire sortir en douce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Seuls les imbéciles ne savent pas discerner quand se battre et quand se replier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je tuerai les esclavagistes pour couvrir votre fuite. Je peux vous assurer que votre tribu sera en sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Si nous ne les massacrons pas jusqu'au dernier, ma tribu ne le sera jamais. Votre offre est charitable, mais c'est une tâche que je ne peux confier à personne d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Si nous ne nous battons pas, alors nous devons nous replier. Mais nous ne pourrons pas emprunter le chemin par lequel nous sommes arrivés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Alors, c'est par là que nous passerons." Elle acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Défaire les Wahakis est très rare. Nos ravisseurs nous ont minutieusement tendu une embuscade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Nous attendrons vos instructions. Mais si l'occasion se présente alors que vous n'êtes pas encore revenu, nous attaquerons les esclavagistes. Même sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"À genoux, sales chiens !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Elle lève son poing pour donner le signal au reste des Wahakis. Puis elle porte deux doigts à la tête, et les guerriers se volatilisent en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nous attendrons votre signal. Aussi longtemps que possible." Elle croise les bras sur sa poitrine en soupirant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Prêt à scalper quelques esclavagistes ? La vengeance est un plat qui se mange froid." Elle fait craquer une de ses vertèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Cuè ?!" Ses plumes s'ébouriffent alors qu'elle foudroie la prisonnière du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je ne m'adressais pas à vous, élue des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hylea toute-puissante ! Bon sang, attendez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Faites ne serait-ce qu'une autre tentative, et je vous coupe la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Qui êtes-vous ? Possiblement un acheteur, mais ici-bas ? Je ne vous ai jamais vu avant, j'imagine donc que vous ne travaillez pas pour les esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[S'approcher des barreaux]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Alors que vous approchez de la cellule, elle vous plonge dessus, heurtant ses épaules contre les barreaux en vous saisissant à la gorge d'une main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Pour sûr, je ne le ferai pas. Remarquez que je n'ai pas dit : « vous ne le ferez pas »." Elle lève les mains devant elle et fait un demi pas en arrière. Mais ses yeux restent collés aux vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je suis tout ouïe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Arracher ses doigts de votre cou]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous n'êtes pas l'un des hommes de Kua." Sa respiration irrégulière vous bourdonne aux oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vous saisissez calmement sa main dans la vôtre, insérant votre pouce entre votre peau et sa prise. Vous tordez ses doigts jusqu'au point de les briser, et elle fait un brusque mouvement en arrière tout en pestant.
+
+Pendant un moment, douleur et crainte se lisent sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Ne rien faire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Elle vous agrippe si fort que ses doigts en tremblent. Sa paume glisse vers votre nuque, elle relâche alors doucement sa prise, faisant un pas en arrière avant de prendre la parole.
+
+Ses yeux cherchent désespérément les vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je suis tout ouïe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Soyez prudent. Mais hâtez-vous. Si l'on nous découvre, nous perdrons plus que nos simples vies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Partir] "Je vous souhaite bonne chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je préfère mourir que de me réveiller à nouveau enchaînée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Elle tente violemment de vous attraper, mais ses doigts ne font que remuer l'air devant elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Qu'en dites-vous ? Vous êtes prêts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Moi et les miens nous dirigerons vers la cour, étripant tous les esclavagistes au passage. La confusion devrait vous permettre de parvenir jusqu'au maître."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Qui êtes-vous ? Possiblement un acheteur, mais ici-bas ? Je ne vous ai jamais vu avant, j'imagine donc que vous ne travaillez pas pour les esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Louées soient les calmes marées d'Ondra." Elle relâche ses épaules de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Pardonnez-moi, étranger. Mais vous devez nous aider. Enfin, si vous pouviez..."
+
+Ses muscles saillants gonflent sous la pression de ses mains sur les barreaux. Elle incline la tête et vous observe dans un mélange de méfiance et d'espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Il va bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Loué soit Amira. C'est lui qui vous envoie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Que lui est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Son regard s'assombrit face à votre diversion, mais elle ne demande pas plus de nouvelle de son frère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous pourrons nous débrouiller seuls si vous parvenez à nous faire sortir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"L'occasion se présentera. Et nous arracherons le cœur de ces pourritures, avec ou sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je ne peux pas faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"L'océan de Mère nature nous mènera chez nous en toute sécurité. Qu'Ondra veille constamment sur vous aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Reculez. Je vais ouvrir la cellule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vous êtes un véritable ami de la tribu. Je n'oublierai jamais ce que vous avez fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Que pouvez-vous me dire sur cette prison ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je peux vous dire qu'elle ne nous détiendra pas éternellement. Une fois libres, les esclavagistes le paieront cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ouvrez la cellule, et admirez les guerriers wahakis en action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"La forteresse ne présente plus aucun danger. Vous êtes libres de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Alors, nous suivrons les traînées de sang que vous avez laissées derrière vous." Elle frappe son poing dans l'autre main, la soif de combat durcissant ses traits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Déverrouillez la porte, et nous nous déplacerons telles des ombres dans les ténèbres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"J'espère que vous nous avez laissé quelques esclavagistes pour nous défouler. Guerriers, l'heure de la vengeance a sonné !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Guerriers, préparez-vous à faire couler le sang !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Vous savez qui possède la clé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Il déambule sa grosse carcasse près des escaliers qui mènent au niveau supérieur de la forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je cherche le surveillant pour lui soutirer les clés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Qu'en est-il de votre tribu ? Auront-ils la force de survivre, eux aussi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ils... Ce sont de sages paroles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Le gros débile. Le surveillant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Vous savez qui possède la clé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Grondant et montrant les dents, la guerrière se lance en avant. Son épaule frappe bruyamment les barreaux, certainement assez fort pour lui laisser quelques contusions, tandis que sa main se tend vers votre gorge.
+
+Ses ongles vous éraflent la peau, mais elle manque d'allonge pour vous attraper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Ne rien faire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Elle plisse les yeux avec intérêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"L'occasion se présentera. Et nous arracherons le cœur de ces pourritures, avec ou sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Elle vous adresse un sourire menaçant, tandis que ses mains resserrent leur étreinte autour des barreaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_eoten</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>114</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous rendez compte que ce que vous pensiez au départ être plusieurs gros rochers bosselés sont en fait des eotens, des monstruosités bicéphales. Alors que vous les observez, l'un d'eux soulève distraitement un rocher et le lance dans la mer. Les eotens s'esclaffent dans un rire guttural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Observer les eotens]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Aveugler un eotan avec une capacité]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Se faufiler discrètement jusqu'aux eotens]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Alors que vous chargez, armes au clair, l'eotan dans le sable trébuche et tombe à genoux. Il rugit de rage, excitant ses camarades qui viennent contrer votre attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'eotan dans le sable grogne de surprise. Il regarde à droite et à gauche puis tend le cou pour tenter d'observer le ciel. Il passe la main devant son visage avec un grognement de confusion. 
+
+L'eotan au balai rit de son compagnon aveuglé, puis ses yeux se posent sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous franchissez le sable en silence, en conservant la masse des piliers entre les eotens et vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Alors que vous vous dirigez vers l'eotan, il braque l'une de ses têtes dans votre direction, ayant peut-être détecté votre déplacement du coin de l'œil.
+
+Avec une vitesse surprenante, la créature attrape une énorme poignée de sable au niveau de son entrejambe et la jette vers vous. Le projectile a beau se désintégrer en l'air, le sable vous grêle malgré tout le visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La tête du troisième eotan sort de sa léthargie et lance un regard noir à la tête qui somnole avant de la frapper à l'aide du balai. Renâclant, la seconde tête cille, s'éveille puis grommelle. La main libre de l'eotan gifle la première tête. 
+
+Les deux têtes grommellent chacune à l'attention de l'autre, mais, à cette distance, vous ne parvenez pas à percevoir exactement ce qu'elles se disent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>L'eotan dans le sable se moque de l'eotan au balai, en le désignant de son gros doigt. Ce dernier se remet sur pied et rejoint péniblement l'eotan assis dans le sable, qui rit de plus belle.
+
+L'eotan au balai grommelle en direction de l'eotan dans le sable puis se met à balayer le sable de ses jambes, ce qui provoque un glapissement de rage de ce dernier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Un deuxième se tient droit, assis face au soleil, et se recouvre les jambes de sable. Il tapote le sable et le rassemble à l'aide de sa grosse paume. Bien qu'il soit absorbé par ses efforts, vous supposez que ses quatre yeux lui confèrent une excellente vision périphérique.
+
+Une troisième bête se gratte le dos avec un balai, en bâillant d'une gueule caverneuse pendant que l'autre ronfle tranquillement.
+
+Vous n'apercevez aucun autre eotan : il pourrait toutefois y en avoir d'autres tapis dans les rochers qui saillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Le chemin s'aventure dans les collines et se rétrécit jusqu'à atteindre la largeur d'une charrette. Les falaises donnent sur un à-pic vertigineux dans la mer, dont l'écume blanche indique l'endroit où elle se jette contre la roche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Les sables vierges s'étendent jusqu'à la fine ligne dessinée par la mer à l'horizon, qui n'est brisée par endroits que par des rochers irréguliers jaillissant du sol. Vous remarquez du mouvement au milieu d'un amas de rochers disparates devant vous.
+
+Un groupe d'eotens se prélasse parmi les piliers en pierre. L'une des deux bêtes à deux têtes somnole, les yeux fermés et les mentons posés sur les poils en bataille de sa poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Parler au sauvage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Chercher un autre itinéraire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Se faufiler discrètement jusqu'aux eotens]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Elle est dure à distinguer, mais il semble qu'une corniche qui court le long des falaises permette de contourner les eotens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] désigne une corniche étroite qui sinue le long de la falaise, contournant les eotens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Il ne semble y avoir aucun moyen de poursuivre cette route sans vous heurter aux eotens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Les eotens grognent alors que vous approchez. Appuyés contre la paroi rocheuse, ils se redressent. 
+
+"Enfin de la nourriture !" beugle joyeusement l'un d'eux. Ils portent de lourds troncs d'arbre sur leurs épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous pourriez tenter la traversée, mais toute chute dans les eaux en contrebas s'avérerait certainement fatale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Tenter la traversée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous vous plaquez contre la falaise pour éviter que les eotens vous repèrent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1] vous fait signe de vous plaquer contre la falaise, et vous vous aplatissez contre la paroi rocheuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous longez doucement la falaise, chaque pas plus prudent que le précédent quand, au-dessus de vous, un grognement rauque attire votre attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 1] vous mène le long de la falaise, furtivement, d'un pas léger, quand, au-dessus de vous, un grognement rauque attire votre attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Les eotens vous lancent un regard mauvais, l'un d'eux pointant vers vous un doigt gros comme une saucisse. L'autre beugle, si fort que vous craignez que le bruit seul vous fasse tomber de l'affleurement.
+
+Les pierres tremblent sous leurs pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous avancez lentement vers les eotens, sans savoir si l'étroitesse du chemin vous permettra une approche discrète...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je peux vous donner de la nourriture si vous me laissez passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Laissez-nous tranquilles, misérables créatures, sans quoi je vous précipite dans la mer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vous savez que vos amis vous ont caché de la nourriture, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Chaque eotan se gratte une de ses têtes. "Peut-être mieux laisser passer les demi-portions ?"
+
+"Nourriture pas valoir l'effort. Pas valoir morsure des épées tranchantes et flèches rapides." L'autre acquiesce.
+
+Ils se détournent et grimpent jusqu'à une corniche plus élevée, vous permettant de passer en toute sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Les eotens gloussent devant votre démonstration de force. "Les paroles des demi-portions sont dures, mais leur peau et leurs os sont tendres !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Les eotens échangent un long regard. "Toutes nos oreilles écoutent", dit le premier. "Demi-portion propose quoi ?"
+
+"Ça a intérêt à être bon", grommelle le deuxième.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Un eotan regarde l'un des autres en se grattant la tête. "Tu en dis quoi ?"
+
+L'autre se gratte pensivement le menton. "Je dis qu'on les mange maintenant et on garde leur nourriture pour plus tard."
+
+Le premier glousse, un bruit sourd et ronflant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Quoi ?!" rugissent les deux eotens en se regardant l'un l'autre. "Tu as caché de la nourriture ?" demandent-ils. "Même pas vrai !" s'exclament-ils à l'unisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ça m'étonnerait", dit l'une des créatures en se grattant le ventre. "Pas de nourriture depuis des semaines."
+
+L'autre secoue lentement la tête, presque avec tristesse. "Mais on a de la nourriture ici, maintenant. Des morceaux tendres et juteux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>La pierre tremble sous leurs pas tandis qu'ils s'avancent...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je peux vous donner de la nourriture si vous me laissez passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"On ne peut pas faire confiance à un eotan quand il s'agit de nourriture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Mon ami en est témoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est vrai !" hurle l'un des eotens. "On ne peut &lt;i&gt;pas&lt;/i&gt; faire confiance à un eotan !"
+
+"Tu &lt;i&gt;es&lt;/i&gt; un eotan !" rétorque l'autre sur le même ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Un jambon entier !" crie [Specified 3] aux créatures, en hochant vigoureusement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Un jambon entier !" crie [Specified 3] aux créatures, en hochant vigoureusement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>L'un des eotens frappe furieusement le deuxième. Le coup ricoche contre son épaule avant de heurter la paroi rocheuse, la faisant vibrer.
+
+L'autre empoigne son assaillant et une mêlée s'ensuit. Les pierres pleuvent tout autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Le premier eotan perd l'équilibre et, pendant un instant fatidique, semble suspendu au bord de l'abîme, faisant des moulinets avec les bras.
+
+Il saisit en tombant le bras de son adversaire et ils plongent tous deux dans la mer en contrebas.
+
+Un calme providentiel règne sur le chemin...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Proposer des noix caramélisées] "Elles sont à la fois délicieuses et bonnes pour la santé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Proposer des biscuits de mer] "J'ai du... pain... goûteux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Proposer le banquet du capitaine] "Je pourrais vous offrir un banquet entier de délicieux fruits de mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Que diriez-vous de ce marcassin ? Il est si frais qu'il donne encore des coups de pattes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les eotens échangent un long regard. "Toutes nos oreilles écoutent", dit le premier. "Demi-portion propose quoi ?"
+
+"Ça a intérêt à être bon", grommelle le deuxième.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous arrivez à la moitié de la corniche. Vous discernez un affleurement par lequel vous pourriez regagner le chemin. Mais la distance les séparant semble périlleuse, davantage encore que le chemin que vous avez déjà parcouru.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Proposer de la viande de requin affinée] "Vous aimez le requin ? J'ai sur moi de la viande de requin affinée à point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Proposer des légumes] "Vous avez l'air de ne pas manger assez de légumes. Ils sont tout frais de Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Non !" L'eotan secoue la tête. "Je ne mangerai pas cette chose. Faites mieux que ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Non !" aboie l'un des eotens. "La seule réflexion, c'est notre réflexion. Et notre réflexion, c'est ce qu'on pense depuis le début. On vous mange maintenant !"
+
+Le deuxième glousse, se grattant le ventre d'une main tandis qu'il brandit son énorme massue de l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Cochonnet ?" L'eotan saisit le marcassin, qui pousse des cris aigus en battant l'air de ses sabots. "Cochonnet !" Il montre son trophée à l'autre eotan. Celui-ci cherche à l'attraper, mais le premier lui claque la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Capitaine ! Bas les pattes !" 
+
+Atterré, Tekēhu recule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>L'eotan renifle la pièce de viande. "Poisson puant." Il inspire profondément, puis hoche la tête. "Poisson puant est comme les eotens de la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Les eotens attrapent des poignées entières de fruits de mer et les enfournent dans leurs nombreuses gueules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Du pain ?" Les quatre narines de l'eotan s'élargissent tandis qu'il le hume. "Non... &lt;i&gt;biscuits de mer&lt;/i&gt;. Vous essayez de nous faire manger des biscuits de mer ?!" La question fait vibrer les parois de la falaise.
+
+Le deuxième eotan se frappe la poitrine. "trempons les biscuits de mer dans le sang de la demi-portion !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Marché conclu. Passez, demi-portions, avant qu'on ait encore faim..."
+
+Ils escaladent la falaise, libérant le chemin qui s'ouvre devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Votre estomac se retourne alors que les pierres bougent sous vos pieds. Pendant un instant fugace, vous êtes en apesanteur, avant de plonger en direction de la mer. Avec l'instinct du désespoir, vous tendez la main et vos doigts agrippent le bord de la corniche.
+
+En contrebas, l'océan bouillonne...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vous laissez échapper un hoquet de surprise quand la roche se désagrège sous les pieds de [Specified 0] et le précipite de la corniche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Faire demi-tour]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Vous retournez au chemin, en nage et tremblant sous l'effort, mais content d'être à nouveau sur terrain stable.
+
+Au-dessus de vous, les eotens rôdent toujours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vous vous glissez le long de la corniche, pas à pas, puis pouce par pouce. Le temps semble disparaître, s'étirant en une éternité suspendue au-dessus de la mer enragée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vous vous glissez le long de la corniche, pas à pas, puis pouce par pouce. Le temps semble disparaître, s'étirant en une éternité suspendue au-dessus de la mer enragée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Finalement, vous arrivez à l'autre extrémité de la corniche. Vous vous hissez jusqu'au chemin, le visage en sueur, les muscles tétanisés.
+
+Les eotens se trouvent toujours sur leur perchoir, sans vous prêter attention, et le chemin sinueux qui descend la falaise est libre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Vous hisser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Au secours !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous prenez quelques inspirations, puis luttez contre la force de gravité, vos pieds cherchant à tâtons des appuis sur la roche, jusqu'à vous hisser lentement sur la corniche. Une fois de nouveau en sécurité, vous prenez quelques minutes pour vous remettre de vos émotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous prenez quelques inspirations, puis luttez contre la force de gravité, vos pieds cherchant à tâtons des appuis sur la roche, jusqu'à vous hisser lentement sur la corniche. Une fois de nouveau en sécurité, vous prenez quelques minutes pour vous remettre de vos émotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>D'un geste puissant, [Specified 3] vous hisse en grognant jusqu'à la corniche. Vous vous cramponnez à la paroi tandis que la sueur ruisselle le long de votre visage et vous pique les yeux.
+
+Vous n'osez pas regarder en bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>D'un geste puissant, [Specified 3] vous hisse en grognant jusqu'à la corniche. Vous vous cramponnez à la paroi tandis que la sueur ruisselle le long de votre visage et vous pique les yeux.
+
+Vous n'osez pas regarder en bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Vous avez l'épaule douloureuse à cause de l'effort fourni.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Vous vous glissez le long de la corniche, pas à pas, puis pouce par pouce. Le temps semble disparaître, s'étirant en une éternité suspendue au-dessus de la mer enragée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>En grimaçant, [Specified 3] se masse l'épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>En grimaçant, [Specified 3] se masse l'épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Tendant désespérément la main, [Specified 0] parvient à attraper le bord de la corniche et à s'y cramponner, pendant par le bras au-dessus de l'océan furieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Avec un grand effort, [Specified 4] aide [Specified 0] à remonter sur la corniche. Tous deux se cramponnent à la paroi rocheuse, le visage trempé de sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Aidez [Specified 0] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Hisser [Specified 0]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Renforcer [Specified 0] par la magie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Envoyer une corde à [Specified 0]] "Attrapez ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Specified 4] attrape d'une main le poignet de [Specified 0] et ses vêtements de l'autre. Le souffle coupé, [Specified 4] s'efforce de hisser [Specified 0] jusqu'à la corniche. 
+
+La prise de [Specified 4] faiblit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Tous les muscles tendus, vous hissez [Specified 0] jusqu'à la corniche. Vous vous y cramponnez tous les deux, la sueur gouttant de votre menton, et avalez de profondes bouffées d'air marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>D'une main, vous saisissez le poignet de [Specified 0] et ses vêtements de l'autre, puis tentez de hisser votre partenaire jusqu'à la corniche malgré les protestations de vos muscles. Vous avez les doigts qui commencent à piquer, puis à brûler.
+
+Finalement, vous perdez prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Specified 0] lâche le bord de la corniche pour attraper la corde d'une main. Vous êtes sur le point de l'enrouler autour de votre taille quand [Specified 0] perd prise. Avec un cri de surprise, votre partenaire tombe dans le vide.
+
+Vos doigts se resserrent autour de la corde, mais celle-ci glisse et vous brûle la main. Vous sentez le sang couler entre vos doigts...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Specified 0] lâche le bord de la corniche pour attraper la corde d'une main. Vous êtes sur le point de l'enrouler autour de votre taille quand [Specified 0] perd prise. Avec un cri de surprise, votre partenaire tombe dans le vide.
+
+Vos doigts se resserrent autour de la corde, mais celle-ci glisse et vous brûle la main. Vous sentez le sang couler entre vos doigts...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous psalmodiez, canalisant l'essence vers [Specified 0]. Une faible lueur enveloppe votre partenaire qui se balance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 5] psalmodie, une main cramponnée à la paroi, l'autre dirigée paume ouverte en direction de [Specified 0]. Une faible lueur l'enveloppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Avec un grand effort, [Specified 4] aide [Specified 0] à remonter sur la corniche. Tous deux se cramponnent à la paroi rocheuse, le visage trempé de sueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Tous les muscles tendus, vous hissez [Specified 0] jusqu'à la corniche. Vous vous y cramponnez tous les deux, la sueur gouttant de votre menton, et avalez de profondes bouffées d'air marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>... pourtant, malgré la douleur, votre prise se resserre et la corde finit par s'arrêter. Vous jetez un œil en contrebas et apercevez [Specified 0] qui s'accroche à l'autre extrémité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>... le bout de la corde vous échappe des mains. Le temps semble presque s'arrêter alors que le bout de la corde ondule lentement dans l'air, devant vous. Et puis disparaît.
+
+[Specified 0] disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0] disparaît dans l'abîme en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Alors que [Specified 0] vous guide vers les eotens, l'une des créatures, ayant peut-être détecté du mouvement du coin de l'œil, tourne l'une de ses têtes dans votre direction.
+
+Avec une vitesse surprenante, la créature attrape une énorme poignée de sable au niveau de son entrejambe et la jette vers [Specified 0]. Le projectile a beau se désintégrer en l'air, le sable frappe malgré tout votre partenaire en plein visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Les grognements des deux eotens s'amplifient, réveillant un troisième eotan. Après avoir chassé le sommeil de ses yeux en quelques clignements, il fixe ses quatre petites orbes scintillantes directement sur vous. Avec un hurlement furibond, il se lève.
+
+Les autres eotens portent leur attention sur vous. "De la nourriture !" rugissent-ils à l'unisson.
+
+Les créatures avancent vers vous d'un pas lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Specified 0] vous mène silencieusement sur le sable, en conservant la masse des piliers entre votre groupe et les eotens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"De la nourriture !" rugit l'eotan, attirant l'attention de ses compagnons. 
+
+Les créatures avancent vers vous d'un pas lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Continuer d'observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"C'est vrai !" hurle l'un des eotens. "On ne peut &lt;i&gt;pas&lt;/i&gt; faire confiance à un eotan !"
+
+"Tu &lt;i&gt;es&lt;/i&gt; un eotan !" rétorque l'autre sur le même ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Vous prenez quelques inspirations, puis luttez contre la force de gravité, vos pieds cherchant à tâtons des appuis sur la roche, jusqu'à vous hisser lentement sur la corniche. Une fois de nouveau en sécurité, vous prenez quelques minutes pour vous remettre de vos émotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Vous prenez quelques inspirations, puis luttez contre la force de gravité, vos pieds cherchant à tâtons des appuis sur la roche, jusqu'à vous hisser lentement sur la corniche. Une fois de nouveau en sécurité, vous prenez quelques minutes pour vous remettre de vos émotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Tous les muscles tendus, vous hissez [Specified 0] jusqu'à la corniche. Vous vous y cramponnez tous les deux, la sueur gouttant de votre menton, et avalez de profondes bouffées d'air marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Tous les muscles tendus, vous hissez [Specified 0] jusqu'à la corniche. Vous vous y cramponnez tous les deux, la sueur gouttant de votre menton, et avalez de profondes bouffées d'air marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>D'une main, vous saisissez le poignet de [Specified 0] et ses vêtements de l'autre, puis tentez de hisser votre partenaire jusqu'à la corniche malgré les protestations de vos muscles. Vous avez les doigts qui commencent à piquer, puis à brûler.
+
+Finalement, vous perdez prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_tsk_delvers_row</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Allée du mineur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Découvrir le chemin qui mène à l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pénétrer dans l'&lt;b&gt;Allée du mineur&lt;/b&gt; en passant par les &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Cachée au plus profond des entrailles de la Raveline s'étend l'&lt;b&gt;Allée du mineur&lt;/b&gt;. À l'abri des regards indiscrets, les criminels et les acteurs du marché noir s'y échangent leurs biens et services illégaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les rumeurs font état d'un marché illégal dans la Raveline appelé l'&lt;b&gt;Allée du mineur&lt;/b&gt;. En posant des questions à droite et à gauche, quelqu'un finira bien par m'expliquer comment me rendre à ce marché clandestin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai appris qu'on peut accéder à l'&lt;b&gt;Allée du mineur&lt;/b&gt; via une ruelle cachée. La ruelle est dissimulée derrière le rideau d'un &lt;b&gt;étal de marchand&lt;/b&gt; dans les &lt;b&gt;Gorges&lt;/b&gt;, un réseau de rues souterraines relié à la frontière ouest de la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Pitli m'a suggéré d'aller poser des questions à la &lt;b&gt;taverne&lt;/b&gt; de la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>La capitaine Sedūzo m'a indiqué que le &lt;b&gt;tavernier&lt;/b&gt; aurait peut-être la réponse à ma question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Biha a expliqué que l'&lt;b&gt;Allée du mineur&lt;/b&gt; se trouve quelque part dans les &lt;b&gt;Gorges&lt;/b&gt;. Elle m'a aussi recommandé d'aller poser la question à &lt;b&gt;Enoi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La hutte d'&lt;b&gt;Enoi&lt;/b&gt; est située au &lt;b&gt;sud-ouest&lt;/b&gt; de celle de Biha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Enoi m'a dit que quelqu'un à la &lt;b&gt;taverne&lt;/b&gt; pourrait savoir comment se rendre à l'&lt;b&gt;Allée du mineur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Fyrna m'a dit que je trouverais l'&lt;b&gt;Allée du mineur&lt;/b&gt; dans les &lt;b&gt;Gorges&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Après l'avoir amadouée un peu, Fyrna m'a donné l'itinéraire à suivre pour me rendre dans l'&lt;b&gt;Allée du mineur&lt;/b&gt; : pénétrer dans les &lt;b&gt;Gorges&lt;/b&gt;, tourner à droite puis continuer jusqu'à tomber sur un &lt;b&gt;étal de marchand&lt;/b&gt;. L'entrée se trouve derrière un rideau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai trouvé l'Allée du mineur.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

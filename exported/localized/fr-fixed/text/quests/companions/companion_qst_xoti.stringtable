@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_xoti</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La lanterne de Gaun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aider Xoti à guider les âmes perdues dans le Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler avec Xoti au sujet de ses cauchemars prémonitoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Effectuer une purification spirituelle au temple de Gaun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parler avec Xoti au sujet de l'aggravation de ses cauchemars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Amener Xoti à un pilier d'adra lumineux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Amener Xoti auprès des animanciens de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Voyager avec Xoti après la purification.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;b&gt; poursuit &lt;b&gt;Éothas&lt;b&gt; à travers tout le Feu éteint, tout en s'efforçant de remplir son devoir envers &lt;b&gt;Gaun&lt;b&gt;. Enfant des Étoiles de l'aube apparemment rebelle, elle m'a demandé de l'aider à guider les âmes des morts. Mais sa tâche risque d'avoir un prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>En tant que prêtresse de Gaun, il est du devoir de Xoti envers son dieu de récolter les âmes des défunts en les guidant vers la lumière de sa lanterne.
+
+J'ai décidé d'aider Xoti à accomplir sa tâche pendant que nous poursuivons Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Quand j'ai rencontré &lt;b&gt;Xoti&lt;b&gt;, elle m'a parlé de ses rêves prophétiques. À chaque âme récoltée, j'ai remarqué que Xoti devient de plus en plus imprévisible.
+
+Et ses rêves ne font qu'empirer. Son manque de lucidité pourrait devenir préoccupant. Je devrais aller la voir, histoire de savoir comment elle se sent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;b&gt; peine à supporter le fardeau des nombreuses âmes récoltées pour son dieu. Une purification spirituelle devant la statue sculptée au &lt;b&gt;temple de Gaun&lt;b&gt; pourrait éclaircir son humeur de plus en plus sombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Les cauchemars apocalyptiques de Xoti et ses visions quand elle est éveillée ont augmenté en fréquence comme en intensité. Je devrais lui parler pour évaluer où elle en est la prochaine fois que nous nous reposerons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Si je venais à localiser un pilier d'adra lumineux, Xoti pourrait libérer les âmes qu'elle a rassemblées dans sa lanterne afin de leur permettre de renaître sous l'égide des dieux, en Hel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai convaincu Xoti de collaborer avec les animanciens installés au sommet de la Flèche des Prophètes Spirituels à Neketaka afin d'aider leurs recherches visant à créer un processus de renaissance artificiel. Ce sera notre meilleur espoir de survie si Éothas brise la Roue.
+
+Je vais présenter Xoti à Flaune Elette, qui dirige les recherches à la Flèche des Prophètes spirituels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;b&gt; se demande si la purification peut la soulager de ses cauchemars à terme. Elle semblait se sentir un peu mieux après le rituel. Entre-temps, elle aimerait poursuivre sa mission en rassemblant d'autres âmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>La mission divine de &lt;b&gt;Xoti&lt;b&gt;, ainsi que les nombreuses âmes contenues dans sa lanterne, pèsent lourdement sur son esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai encouragé Xoti à chercher la lumière de la lanterne de Gaun... de la renaissance après la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai encouragé Xoti à épouser les ténèbres de la faucille de Gaun... de la mort avant la renaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Xoti m'a avoué qu'elle n'était jamais supposée se contenter de récolter les âmes de morts. Son devoir consiste à acheminer les âmes perdues vers la renaissance, mais pour l'instant, elle n'a rempli qu'une partie de sa mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai encouragé Xoti à chercher la lumière de la lanterne de Gaun... du printemps après l'automne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai encouragé Xoti à épouser les ténèbres de la faucille de Gaun... de l'automne avant le printemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai vu un pilier d'adra lumineux dans le temple de la paroi de la falaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai vu un pilier d'adra lumineux, enfoui sous l'arène de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai vu un pilier d'adra lumineux au sommet du temple hyléan de Neketaka, là où se trouvent les animanciens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai vu un pilier d'adra lumineux dans le phare, à Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai vu un pilier d'adra lumineux dans les Sépulcres suspendus, sous le temple de Berath à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Xoti a récolté une âme près du site de fouilles, près de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme sur &lt;b&gt;Motare o Kōzi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté un groupe d'âmes sur une &lt;b&gt;île inexplorée&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme sur la &lt;b&gt;Gueule cendrée&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme au &lt;b&gt;marché noir de la Raveline&lt;/b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme sous le &lt;b&gt;manoir d'Arkemyr&lt;/b&gt; à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme à la &lt;b&gt;halte de Vilario&lt;/b&gt; près de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme sur la &lt;b&gt;rue Gorecci&lt;/b&gt; près de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>J'ai incité &lt;b&gt;Xoti&lt;/b&gt; à garder les âmes qu'elle a récoltées. Elles peuvent la rendre instable, mais elles éveillent un pouvoir terrifiant en elle. Malgré cela, elle souhaite en savoir plus sur les moyens de libérer les âmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Après avoir rompu l'attache d'Éothas au pilier d'adra, et ainsi restauré sa lumière, &lt;b&gt;Xoti&lt;/b&gt; a pu récolter plusieurs âmes perdues au &lt;b&gt;site d'extraction engwithan&lt;/b&gt; près de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté un groupe d'âmes au &lt;b&gt;campement sur l'île de Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>J'ai restauré le &lt;b&gt;pilier d'adra lumineux&lt;/b&gt; sur &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; n'a pu récolter aucune âme des corps calcinés au &lt;b&gt;site d'extraction engwithan&lt;/b&gt; près de Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>J'ai encouragé &lt;b&gt;Xoti&lt;/b&gt; à chercher la &lt;b&gt;lumière&lt;/b&gt; de la lanterne de Gaun... du printemps après l'automne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>J'ai encouragé &lt;b&gt;Xoti&lt;/b&gt; à épouser les &lt;b&gt;ténèbres&lt;/b&gt; de la faucille de Gaun... de l'automne avant le printemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>J'ai encouragé &lt;b&gt;Xoti&lt;/b&gt; à épouser les &lt;b&gt;ténèbres&lt;/b&gt; de la faucille de Gaun... de l'automne avant le printemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>&lt;b&gt;Xoti&lt;/b&gt; a récolté une âme à la &lt;b&gt;Vieille ville&lt;/b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Xoti a mené les âmes qu'elle avait récoltées dans un pilier d'adra lumineux, confiant leur renaissance aux dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Xoti a confié les âmes qu'elle avait récoltées aux animanciens afin d'aider au développement d'un processus de renaissance artificiel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Xoti a choisi d'absorber la récolte d'âmes de la lanterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

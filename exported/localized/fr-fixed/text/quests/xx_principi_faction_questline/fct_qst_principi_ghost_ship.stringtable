@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_ghost_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Danse avec la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Réciter le &lt;b&gt;serment des Darcozzi&lt;b&gt; avec l'&lt;b&gt;Engoliero do Espirs&lt;b&gt; en mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Affronter Lucia Rivan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner à Dunnage avec le Bourreau des mers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Naviguer avec les Príncipis jusqu'au Mortier d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Reprendre l'&lt;b&gt;Engoliero do Espirs&lt;b&gt; à &lt;b&gt;Yseyr le berathian&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Parler au chef des Príncipis au Flambeau, à Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le &lt;b&gt;capitaine Furrante&lt;b&gt; est convaincu que le seul moyen d'atteindre &lt;b&gt;Ukaizo&lt;b&gt; consiste d'abord à prendre le commandement du &lt;b&gt;Bourreau des mers de Rivan&lt;b&gt;. Avec l'Engoliero do Espirs en ma possession, je dois voguer en mer et attirer le paladin Darcozzi mort-vivant jusqu'à moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lucia Rivan est devenu garde de la mort en raison de sa loyauté éternelle à un serment prêté pour protéger l'Engoliero do Espirs. Aeldys a découvert que réciter le &lt;b&gt;serment d'agonie des Darcozzi&lt;b&gt; en brandissant l'épée active une aura faisant office de balise pour Rivan.
+
+ Je dois emporter l'arme en &lt;b&gt;mer&lt;b&gt; et réciter la formule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai récité le serment et l'épée a émis une énergie semblable à une flamme ardente. Son pouvoir a attiré le Bourreau des mers, et Rivan, jusqu'à moi. Le temps de l'affronter est enfin venu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai réussi à prendre le Bourreau des mers à Rivan. Il ne reste plus qu'à rencontrer le chef des Príncipis à Dunnage et à préparer la flotte pour notre voyage jusqu'à Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>La flotte príncipi attend mon signal pour lever les voiles. 
+
+Quand je serai prêt, les Príncipis prendront le large à mes côtés pour traverser les tempêtes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Le seul moyen d'attirer Rivan à découvert consiste à réciter le &lt;b&gt;serment des Darcozzi&lt;b&gt; en tenant son ancienne épée en main : l'&lt;b&gt;Engoliero do Espirs&lt;b&gt;. L'épée est actuellement gardée par &lt;b&gt;Yseyr le berathian&lt;b&gt; dans les &lt;b&gt;Sépulcres suspendus&lt;b&gt;, sous l'Escalier sacré, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Si je veux trouver un moyen d'atteindre Ukaizo via mon alliance avec les Príncipis, je suis tenu de rencontrer leur chef à Dunnage. L'heure est venue d'affronter le Bourreau des mers de Rivan : le Fonferrus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à franchir le Mortier d'Ondra avec l'aide de la flotte des Príncipis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Aeldys m'a demandé de venir la voir à Dunnage, où elle compte organiser la traque du navire spectral de Lucia Rivan : le Bourreau des mers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;b&gt; est convaincue que le seul moyen d'atteindre &lt;b&gt;Ukaizo&lt;b&gt; consiste d'abord à prendre le commandement du Bourreau des mers de &lt;b&gt;Lucia Rivan&lt;b&gt;. Avec l'Engoliero do Espirs en ma possession, je dois voguer en mer et attirer le paladin Darcozzi mort-vivant jusqu'à moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

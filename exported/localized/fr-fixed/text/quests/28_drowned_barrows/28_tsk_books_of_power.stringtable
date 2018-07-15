@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_tsk_books_of_power</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Grimoires perdus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Apporter le &lt;b&gt;grimoire de Bipara&lt;b&gt; à &lt;b&gt;Nemnok&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Apporter le &lt;b&gt;grimoire de Menzzago&lt;b&gt; à &lt;b&gt;Nemnok&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Apporter le grimoire &lt;b&gt;du bagarreur&lt;b&gt; à &lt;b&gt;Nemnok&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Récupérer le grimoire de la sorcière des marais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Récupérer le grimoire du seigneur fampyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Récupérer le grimoire de la liche antique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nemnok&lt;b&gt; m'a demandé de récupérer trois grimoires de pouvoir qui se trouvent au-delà des &lt;b&gt;Tumulus engloutis&lt;b&gt;.
+
+Les instructions expliquent quels livres Nemnok désire : un grimoire appartenant à une &lt;b&gt;sorcière des marais&lt;b&gt;, un autre se trouvant entre les mains d'un &lt;b&gt;seigneur fampyr&lt;b&gt;, et un dernier en la possession d'une &lt;b&gt;liche antique&lt;b&gt;.
+
+C'est à moi de les retrouver dans le Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je me suis emparé du &lt;b&gt;grimoire de Bipara&lt;b&gt;. &lt;b&gt;Nemnok&lt;b&gt; souhaite que je le rapporte au niveau le plus bas des &lt;b&gt;Tumulus engloutis&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Maintenant que j'ai le &lt;b&gt;grimoire de Menzzago&lt;b&gt; en ma possession, &lt;b&gt;Nemnok&lt;b&gt; souhaite que je le rapporte au niveau le plus bas des &lt;b&gt;Tumulus engloutis&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je me suis emparé du &lt;b&gt;grimoire du bagarreur&lt;b&gt;. &lt;b&gt;Nemnok&lt;b&gt; veut que je le rapporte au niveau le plus bas des &lt;b&gt;Tumulus engloutis&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>On raconte que ce grimoire se trouve entre les griffes d'une vieille femme habitant une &lt;b&gt;hutte dans un marais lointain&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ce grimoire appartient à un mort-vivant jeteur de sorts qui réside dans un &lt;b&gt;« cimetière de navires échoués »&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ce grimoire se trouve quelque part dans le &lt;b&gt;Feu éteint&lt;b&gt;, dans la &lt;b&gt;bibliothèque secrète&lt;b&gt; d'une liche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai rapporté le &lt;b&gt;grimoire de Bipara&lt;b&gt;. &lt;b&gt;Nemnok&lt;b&gt; m'a laissé choisir une récompense dans le trésor au pied de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai rapporté le &lt;b&gt;grimoire de Menzzago&lt;b&gt;. &lt;b&gt;Nemnok&lt;b&gt; m'a laissé choisir une récompense dans le trésor au pied de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai rapporté le &lt;b&gt;grimoire du bagarreur&lt;b&gt;. &lt;b&gt;Nemnok&lt;b&gt; m'a laissé choisir une récompense dans le trésor au pied de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Nemnok.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai récupéré les trois grimoires pour Nemnok. Il est très satisfait de mes services.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

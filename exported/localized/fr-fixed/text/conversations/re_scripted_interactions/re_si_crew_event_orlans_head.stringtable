@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_orlans_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous êtes en train d'examiner la cargaison dans la cale, quand des murmures et des rires étouffés vous attirent plus profondément dans les ténèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Par les seins de Magran !" [Specified 0] recule d'un pas, les mains tendues, paumes en avant. "Désolé, capitaine ! Je ne pensais pas croiser quelqu'un d'autre ici ! Surtout vous, capitaine !"
+
+Avec un rare manque de discrétion, [Specified 1] range une deuxième dague dans sa poche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Vous contournez prudemment un tas de caisses et trouvez [Specified 0] ainsi que [Specified 1] en train de faire une partie de tête d'orlan.
+
+[Specified 0] vous salue. "Ohé, capitaine. Nous parions quelques pièces de cuivre à la tête d'orlan, si vous êtes tenté de vous joindre à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"La tête d'orlan ? De quoi diable s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Bien sûr, je peux faire une partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Cessez vos bêtises et allez vous rendre utiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Peut-être une prochaine fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Eh bien, vous voyez, capitaine, il faut graver un orlan dans le mât, comme ça." [Specified 1] sourit en désignant une figure grossière, aux oreilles ridiculement grandes, affublée d'un nez de lapin. "Ensuite, on y lance des dagues. Chaque partie de l'orlan vaut un nombre spécifique de points, certaines étant plus dures que d'autres à atteindre. Le nez, par exemple, rapporte un paquet de points !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Fantastique !" [Specified 1] recule d'un pas. "Étant plutôt attaché à mon argent, je vais passer mon tour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Que se passe-t-il ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Bref. Essayez de ne pas planter vos dagues dans la marchandise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Tandis que vous ressortez de la cale, le bruit des dagues plongeant dans le bois reprend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0] déglutit. "Tête d'orlan, capitaine." 
+
+[Specified 1] glousse les paumes ouvertes. "Ce n'est qu'un nom. Vous pouvez vous joindre à nous si vous voulez tenter un ou deux lancers !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 0] glousse, sort une dague, la brandit au niveau de sa joue, prend un temps infini pour viser, puis la lance vers la figure d'orlan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] devient livide alors que [Specified 0] se met au garde-à-vous. "Oui, oui, capitaine !" bégaient-ils, pas tout à fait à l'unisson.
+
+"Nos excuses, capitaine." [Specified 0] s'incline. "Ce n'était que des paroles en l'air. Nous... euh... nous nous en occupons immédiatement."
+
+Le duo s'en va à toute vitesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>La dague s'enfonce dans [OrlansHeadGame_OpponentLastResult] de l'orlan, et [Specified 1] ricane. "Ah, ça fait [OrlansHeadGame_OpponentLastScore] points pour [Specified 0], capitaine. Vous croyez que vous pouvez faire mieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Viser les oreilles de « l'orlan »]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Essayer de toucher le nez de « l'orlan »]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vous lancez la dague et elle se fiche avec un bruit sourd dans [OrlansHeadGame_PlayerLastResult].
+
+"Touché, capitaine ! Vous gagnez [OrlansHeadGame_PlayerLastScore] points !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Peut-être qu'on devrait viser les mousses, plutôt..."
+
+Serafen croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"J'espère que ce n'était pas pour moi, cap. Il y a vraiment de pires façons pour un marin de passer le temps que de s'exercer au tir..."
+
+Serafen les regarde partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0] penche la tête.
+
+"Mais y'a pas de mousse sur la cible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 1] se frotte les paumes. "Alors, le résultat final : [Specified 0] a [OrlansHeadGame_OpponentTotalScore] points, et le capitaine, [OrlansHeadGame_PlayerTotalScore]. On dirait bien que le capitaine a gagné !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Specified 1] assène une claque sur l'épaule de [Specified 0]. "Bien joué ! Le capitaine a gagné [OrlansHeadGame_PlayerTotalScore] points, mais [Specified 0] a totalisé [OrlansHeadGame_OpponentTotalScore] points !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Specified 1] sourit en applaudissant."Égalité à [OrlansHeadGame_PlayerTotalScore] points. Celui qui gagne la prochaine manche remporte la partie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Specified 0] va chercher la dague et essuie la lame sur son pantalon avant de vous tendre la poignée. "À votre tour, capitaine. Voyons comment vous vous en tirez face à ce terrible orlan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] ricane en secouant la tête, et tend sa bourse. "Belle partie, capitaine. Je vous aurai la prochaine fois, croyez-moi ! Pour l'instant, on ferait mieux de retourner au travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bien sûr, je peux faire une partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Bien sûr, je peux faire une partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Bien sûr, je peux faire une partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Imbéciles, vous voulez tuer quelqu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Partir sans rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Oui, capitaine !" [Specified 0] vous salue. "Je n'y penserais même pas."</DefaultText>
+      <FemaleText>"Bien sûr, m’dame." [Specified 1] vous tire son chapeau. "Je n’y penserais même pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Specified 0] se gratte l'arrière de la tête. "Ah, on faisait seulement une partie de Têt– "
+
+[Specified 1] l'interrompt d'un coup de coude dans les côtes.
+
+"Ouf !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Une partie de &lt;i&gt;quoi&lt;/i&gt; ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ouais, cette vieille tradition maritime : l'imbécillité sectaire."
+
+Serafen se gratte l'arête du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>La dague s'enfonce dans le mât, mais rate complètement l'orlan. [Specified 0] se cache le visage dans sa main tandis que [Specified 1] pousse un éclat de rire rauque. "Oula, capitaine, celui-là ne sera vraiment pas difficile à battre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sans vouloir vous offenser, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Essayer de tricher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Le duo ne semble pas remarquer votre feinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Oh, quand même, capitaine !" râle [Specified 1]. "C'était une partie amicale ! Pas besoin de tricher, surtout que vous avez la bourse la plus lourde de tout l'équipage !"
+
+Le marin pousse un soupir et vous lance les pièces que vous avez gagnées.
+
+"Bon, voilà, si vous y tenez tant. [Specified 0] et moi, on retourne au travail, alors." 
+
+Le duo s'en va, l'air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Specified 1] grimace. "Oh, capitaine, vous savez que vous devez viser l'orlan, non ? Bon, au moins, vous avez touché le mât, c'est déjà ça..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Specified 0] sourit et prend la bourse. "Vous aurez plus de chance la prochaine fois, capitaine! Il est temps de retourner au travail, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Vous avancez d'un pas et vous penchez pour être un poil plus près de la cible que ce qu'autorisent les règles du jeu, puis vous lancez votre dague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Quand je disais « mousses », je parlais des matelots comme &lt;i&gt;toi&lt;/i&gt;, espèce de cul-de-barnache toqué de l'abysse !"
+
+Serafen pousse un soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"... oh. Non, nous sommes bien trop gros pour faire de bonnes cibles, Serafen."
+
+Le marin hausse les épaules, puis regarde son comparse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ils pourraient faire preuve d'un peu de bon sens pour choisir les cibles, par contre."
+
+Il esquisse un sourire narquois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Vous avancez d'un pas et vous penchez pour être un poil plus près de la cible que ce qu'autorisent les règles du jeu, puis vous lancez votre dague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Vous avancez d'un pas et vous penchez pour être un poil plus près de la cible que ce qu'autorisent les règles du jeu, puis vous lancez votre dague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Vous avancez d'un pas et vous penchez pour être un poil plus près de la cible que ce qu'autorisent les règles du jeu, puis vous lancez votre dague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous jetez un œil de derrière une caisse juste au moment où une dague file dans les airs, vous frôlant avant de se planter dans le conteneur situé derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

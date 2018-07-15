@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\19_wizard_dungeon\19_cv_telescope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce télescope en cuivre a été nettoyé tout récemment. Les deux lentilles sont éclatantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Chercher la constellation de la Chasseuse]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Chercher la constellation de la Panthère]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Chercher la constellation du Martin-pêcheur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'éclat de la lumière du jour vous empêche d'apercevoir la moindre étoile. Vous allez devoir attendre la nuit tombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous repérez facilement la Chasseuse, sa bandoulière d'armes se détachant dans le ciel sous forme de ceinture d'étoiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous repérez la Panthère près d'un croissant d'étoiles censé représenter un arc tombé au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous notez la position du Martin-pêcheur juste au-dessus d'une paire d'étoiles particulièrement brillantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Regarder dans le télescope]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Un océan d'étoiles s'étend devant vous. Le ciel nocturne ne vous est pas étranger, mais vous avez rarement l'occasion de voir s'offrir à vous ainsi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Chercher la constellation du Léviathan]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le Léviathan se trouve au-dessus d'un amas d'étoiles ayant la forme d'un canoë brisé en morceaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous êtes soudain pris de vertige. Les étoiles se floutent et changent de position. Lorsque tout redevient clair, chaque corps céleste se dissocie un par un, leurs éclats s'entremêlant. 
+
+Les étoiles convergent pour former une série de clins d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Salutations, l'ami.&lt;/ispeech&gt;
+
+Les mots se forment dans les cieux, écrits en lettres stellaires. Sous les clins d'œil, le croissant de lune pivote lentement et se mue en sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Profitez de la vue, mais essayez de ne pas trop penser à ce qui se trouve « là-haut ». Certains secrets valent la peine d'être préservés.&lt;/ispeech&gt;
+
+Le plus grand des yeux fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous clignez des yeux, et le ciel reprend sa configuration initiale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wael ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous semblez avoir besoin d'un bon bol d'air frais." Aloth cligne des yeux, inquiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ça va comme vous voulez ? Vous parlez aux morts là-dedans ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Bienvenue dans le ciel nocturne, l'Obscurci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous annotez les coordonnées de la constellation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Plusieurs constellations lumineuses remplissent le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

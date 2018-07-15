@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc00_meet_vtc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Pour les Républiques !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rencontrer le directeur aux bureaux de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Au palais, j'ai rencontré Nirro, un représentant de la Compagnie commerciale vailienne. Il semble que les Vailiens aient une forte présence dans la région. Il pourrait s'avérer judicieux de prendre contact à leur siège.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La Compagnie commerciale vailienne possède une base d'opérations dans le district de la Jetée de la reine, à Neketaka. Si je veux parler à un responsable, je dois commencer par là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai fait la rencontre de Lueva Alvari, commandant en second de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai fait la rencontre d'Ignato Castol, directeur de la Compagnie commerciale vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué un officier de haut rang à la Compagnie commerciale vailienne. Je doute qu'ils veuillent travailler avec moi, désormais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Je me suis mis à dos la Compagnie commerciale vailienne. Je doute qu'ils veuillent travailler avec moi, désormais.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

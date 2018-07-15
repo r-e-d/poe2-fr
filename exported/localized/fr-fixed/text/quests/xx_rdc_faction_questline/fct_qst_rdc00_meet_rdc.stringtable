@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc00_meet_rdc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Empire de cuivre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler avec la hazanui à la Citadelle de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Au palais, j'ai rencontré la hazanui Karū de la Compagnie royale du Feu éteint. Il pourrait s'avérer utile de lui parler à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La hazanui Karū dirige les forces du Rauatai dans la région. Par l'intermédiaire de la Compagnie royale du Feu éteint, le Rauatai détient des territoires dans l'archipel. Cela fait de la hazanui, et de son peuple, une puissance non-négligeable.
+
+Il pourrait être intéressant de la rencontrer pour pouvoir discuter d'intérêts communs éventuels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le bureau de la hazanui Karū se trouve au fond du poste de commande impérial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rencontré la hazanui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>La Compagnie royale du Feu éteint ne veut plus rien avoir à faire avec moi, donc je ne leur rendrai pas compte de quoi que ce soit de sitôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

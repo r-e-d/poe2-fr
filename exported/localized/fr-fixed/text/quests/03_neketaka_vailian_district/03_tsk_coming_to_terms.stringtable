@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_coming_to_terms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Accord en vue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler à Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Convaincre la Compagnie commerciale vailienne d'annuler le contrat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retourner voir Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retourner voir Tawenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retourner voir Tawenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tawenu souhaite renégocier le contrat de la tribu des Duapes avec la Compagnie commerciale vailienne. L'accord stipule que leurs terres passent légalement sous contrôle vailien à la mort de leur chef malade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tawenu n'a pas eu beaucoup de chance, confronté à la bureaucratie de la Compagnie commerciale vailienne. 
+
+Depuis qu'il a été expulsé du bureau, il m'a demandé d'intervenir en sa faveur. Je peux commencer par parler à Luca, qui se trouve dans les bureaux de la compagnie marchande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tawenu est mort. J'espère que ça résout le problème de Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Luca insiste sur le fait que le contrat avec la tribu des Duapes est parfaitement en règle. Je vais devoir trouver un moyen de le faire changer d'avis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai convaincu Tawenu de partir. Luca devrait être soulagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai réussi à obtenir que les Duapes conservent les droits sur leurs terres. Tawenu devrait être ravi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Luca a été tué. Voilà qui met fin à tout espoir de trouver une solution juridique à cette affaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Luca veut que je convainque Tawenu que le mieux est l'ennemi du bien. Désormais, il est question de savoir qui des deux a raison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>On dirait que Luca a un fort penchant pour la boisson. Je me demande si je peux en tirer profit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai obtenu la clé de Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai remplacé le contrat original. Voyons si ça débloquera les négociations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai apporté des modifications au contrat original. J'espère que ses nouveaux termes sont convaincants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Apparemment, Tawenu a montré un faux contrat à Luca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Luca conserve le contrat original des Duapes dans la salle des archives du siège de la Compagnie commerciale vailienne. Le bâtiment est farouchement gardé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Luca fréquente la taverne locale après le travail. Je pourrais l'y retrouver et lui délier la langue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Luca a confisqué le faux contrat de Tawenu et l'a mis en sécurité dans son coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu jouant un rôle essentiel dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai pu tomber d'accord avec le commis. Tawenu était fou de joie d'apprendre que les terres de sa tribu sont sauves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tenté de faire disparaître le problème du villageois de la manière la plus efficace possible. Ça ne lui a pas plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Je me suis débarrassé du villageois à la demande du commis et j'ai reçu une compensation financière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai réussi à tirer la tribu de Tawenu du pétrin. Il était fou de joie d'apprendre que les terres de sa tribu sont sauves.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rekke_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ta, yuki...Ke tagi. Lash tasam." Bien qu'il ne comprenne pas vos paroles, il en saisit assez bien le sens. Rekke vous adresse un petit sourire et un bref hochement de tête en guise de salut, ou peut-être en guise de remerciement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous trouvez un jeune homme qui vous attend sur le pont. Il porte des vêtements épais d'un type que vous n'avez jamais vu. Les couleurs de sa tunique sont vives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lap kun imak'ihe ?" Il tousse le dernier mot, puis se plie en deux et vomit une incroyable quantité d'eau de mer sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"En temps normal, je ne suis pas contre les amabilités vides de sens, mais ce n'est peut-être pas le moment." Aloth observe l'homme, perplexe et préoccupé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'espère qu'il a régurgité ce qui le faisait parler de la sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pas mieux, l'ami." Maia grimace et s'écarte de la flaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Cuè ? Que dit-il ? C'est de l'ixamitl ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lappe sous le maquis ?" Peut-être plus tard, mon garçon, quand tu ressembleras moins à un poisson mort."
+
+Serafen laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'étais censée comprendre quoi que ce soit ? De ses paroles ou de ses vomissements ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Parlez-vous l'aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Eld Aedyran] &lt;link="neutralvalue://Eld Aedyran: Parlez-vous l'eld aedyran ?"&gt;"Scaketh fe Eld Aedyran ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Vailian] &lt;link="neutralvalue://Vailian: Parlez-vous le vailien, messire ?"&gt;"Perla Vailian, fentre ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Ixamitl] &lt;link="neutralvalue://Ixamitl: Parlez-vous l'ixamitl ?"&gt;"¿ Ixamitl ye llank'ayku ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ke tetahibi ?" Il soupire profondément et secoue la tête.
+
+Ses cheveux longs sont emmêlés suite à ses mésaventures en mer. Il les essore autant qu'il peut, puis les attache en un nœud bâclé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ke lagahak tetahakus ?" Il lève les bras de frustration et d'impuissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ku ?" Il se masse le front, les sourcils froncés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Kun imatak'ihe ?" Il penche la tête de côté et plisse les yeux, comme si vos paroles lui étaient presque familières, mais qu'il n'arrivait pas tout à fait à en saisir le sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Engwithan] &lt;link="neutralvalue://Engwithan: Parlez-vous engwithan ?"&gt;"E dhnéi tói Engwith ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Ordhjóma] &lt;link="neutralvalue://Ordhjóma: Parlez-vous ordhjóma ?"&gt;"Telé dha Ordhjóma ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Huana] &lt;link="neutralvalue://Huana: Parlez-vous huana ?"&gt;"Kautō e kui ne Huana ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Rauataian] &lt;link="neutralvalue://Rauataian: Parlez-vous rauatai ?"&gt;"A kana Rauataian ō ikoru ne ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Lembur] &lt;link="neutralvalue://Lembur: Parlez-vous lembur ?"&gt;"Vii dornesti za Lembur ?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Shiyiz ikihakus ?" Il presse ses paumes contre ses yeux et prend une longue inspiration tremblotante. Ses épaules s'affaissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Usuyi ikihakus !" Il serre les dents et inspire profondément. L'éclair de colère disparaît rapidement, remplacé par une moue de frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Lash ku hakusa ?" Il crie presque ses mots, le ton rauque de sa voix trahissant une frustration évidente.
+
+Il serre ses pouces et ses index les uns contre les autres et inspire profondément. Lorsqu'il vous contemple à nouveau, sa soudaine colère est passée, remplacée par une grimace résignée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Shiyiz ikika ?" Il secoue violemment la tête une fois et grimace. De ses cheveux emmêlés, de petits sillons d'eau s'écoulent le long de son visage. Il les essuie d'un geste irrité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ah, ke tetahun muhan kugatug ?" Il grimace et secoue la tête. Il serre ses pouces et ses index les uns contre les autres et inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ça va ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Qu'est-il arrivé à votre navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Lap pile kiku ? Lakaris ? Ke zilas tahun ?" Il fronce les sourcils. Ses mots ne vous sont pas familiers, leur sonorité est basse et dure, mais la perplexité adoucit son ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Comment vous appelez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Um, ke tetahun- ke tetaheb-" ses mots sont hésitants, et son regard passe de votre visage au pont. Il se mordille une phalange, perdu dans ses pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Hocher la tête] "Bienvenue à bord, Rekke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Vous pointer du doigt et prononcer lentement votre nom]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ah ! Ke ked segu kiza Rekke. Reh-kah. Ta ?" Ses yeux s'illuminent de la première expression de joie que vous ayez pu distinguer chez lui. Tandis qu'il prononce son nom, il se tapote le centre du front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Si vous mettez en danger mon équipage, Rekke, je vous jette par dessus le bord. Que ça soit clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Muki kasube. Ke tahibi, ke tagi." Rekke vous contemple avec sérieux, comme s'il vous étudiait vraiment pour la première fois.
+
+Puis un sourire se forme sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je suppose que vous pouvez rester avec moi... pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Il se tient debout, mais avec difficulté. Trempé, brûlé par le soleil et meurtri, il tient à peine sur ses jambes. Il titube légèrement en avant, mais se rattrape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Il vous regarde d'un œil trouble, méfiant et épuisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Il se détourne et pose son regard sur la mer houleuse. Vous n'êtes pas certain de ses pensées, mais la veine gonflée sur son cou et ses poings crispés à ses côtés indiquent qu'il ne va pas tarder à prendre une décision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Il soupire. "Ke lak tekatu tetatig hun, t'ekiwa ke kek tetayiteh tetaki mas shan. Ke lash tat'atay lu ?"
+
+Sachant quand vous ne pouvez pas le comprendre, il grimace immédiatement après avoir prononcé ces paroles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Compris. Vous vous appelez Rekke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Quoi ? Je n'ai pas compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ta, ta !" Il serre quelque peu le poing, heureux d'être enfin parvenu à communiquer avec vous. Le soulagement colore légèrement ses joues pâles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"REH-KAH." Il tapote de nouveau son front, puis répète votre nom. Un éclair de grande intelligence mêlée à de la frustration traverse ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Rekke inspire profondément, luttant pour gérer sa contrariété. Dès qu'il y parvient, il vous adresse un grand sourire chaleureux qui étire sa longue cicatrice et dévoile de charmantes dents tordues.
+
+Il lui faudra un certain temps pour se faire comprendre, et il semble l'avoir accepté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ke lash tat'atay lu ?" Il répète sa dernière phrase en désignant la longueur de votre bateau, puis vous, puis votre équipage, et enfin lui.
+
+Il semble vouloir voyager avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

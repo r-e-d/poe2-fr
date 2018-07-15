@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ship_departure_crew</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bien, vous voilà. Clario a tenu promesse. Nous nous préparons à dégager votre navire."
+
+Ikawha indique votre navire, où des travailleurs huanas et vailiens s'affairent de la poupe à la proue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je maintiens que vous avez de la chance. Le navire était presque irrécupérable. Mais il restera à flot. 
+
+"Combien de temps, je suis incapable de le dire. Vous feriez bien de trouver un port allié sans trop tarder, à mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Venez. Il est temps de remettre votre Défi à la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Allez, bande de fainéants ! Et vous, là ! Gardez l'œil sur les poutres de soutien !"
+
+La femme secoue le poing une dernière fois, l'air renfrognée, avant de se tourner vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Allez-y, montez à bord. Il y a une barque qui vous attend là-bas."
+
+"Nous enverrons le Défi à votre rencontre dès que nous le pourrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tout ceci aurait été bien plus facile avec les sorts de cette prêtresse huana, mais... Il faudra qu'on fasse sans, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ah, vous voilà. On est en train d'appareiller, comme vous le voyez. Lentement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Savez-vous où se trouve Neketaka ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Et s'il y a une autre tempête ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous êtes bien utile, vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Alors, vous aussi, vous vous rendez à la grande ville des Kahangas ? Vous devrez voguer vers le nord pendant un moment, puis bifurquer un peu vers l'est."
+
+"Faites attention à vous à Neketaka, étranger. Elle refermera ses mâchoires sur vous sans que vous ne vous en aperceviez."</DefaultText>
+      <FemaleText>"Alors, vous aussi, vous vous rendez à la grande ville des Kahangas ? Vous devrez voguer vers le nord pendant un moment, puis bifurquer un peu vers l'est."
+
+"Faites attention à vous à Neketaka, étrangère. Elle refermera ses mâchoires sur vous sans que vous ne vous en aperceviez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous coulerez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Mes sortilèges ne font pas apparaître de navires."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

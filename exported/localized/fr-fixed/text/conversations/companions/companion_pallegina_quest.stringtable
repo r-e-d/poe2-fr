@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_pallegina_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Auriez-vous un moment à m'accorder ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Si c'est rapide. De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous... êtes sûr ? Ça ne prendra pas longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Elle vous adresse un petit sourire sarcastique avant de commencer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je n'ai pas été assez clair ? Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Buffan vi !" Elle recule, choquée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous êtes un vrai bazzo, vous savez ?" Elle vous adresse un geste de dédain et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nous avons connu quelques désaccords, récemment, mais j'aimerais vous demander un service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je connais quelqu'un qui travaille dans cette tour : un animancien qui s'appelle Giacolo. J'aimerais aller le voir, si possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je n'ai aucune raison de refuser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tant que c'est rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je suis à la poursuite d'un &lt;i&gt;dieu&lt;/i&gt;. Je ne suis pas là pour m'occuper de vos activités sociales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Agracima. Ça ne devrait pas être long. Je ne l'ai pas vu depuis de nombreuses années et je voudrais le remercier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ce sera vite fait. Je ne l'ai pas vu depuis de nombreuses années et je voudrais le remercier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous vous sentez bien, Pallegina ? Vous êtes sûre que vous ne voulez pas dire « lui hurler dessus » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Est-ce une lueur sentimentale que je vois poindre chez notre paladin de fer ? Je me demande ce qu'il a bien pu faire pour mériter un tel honneur." Il regarde Pallegina, agréablement surpris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ainsi donc, vous avez des amis. Dont je ne peux pas faire partie, vu que je ne suis pas une de ces animanciennes impies... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Quand j'étais une petite fille, il m'a rendu visite à l'académie. Il étudiait... les divins, pour savoir ce qui, dans nos âmes, nous différenciait des autres kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Il a trouvé quelque chose en moi, quelque chose qui résonnait comme un carillon quand il tenait un instrument à proximité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Il a dit que c'était pareil chez tous les divins. Différents carillons résonnaient selon les types."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Vous tapoter la poitrine] "Ça me rappelle quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"C'est le fin mot de l'histoire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah, il devait poursuivre les travaux de Tödh Beylecg. Continuez, je vous prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Pallegina redresse la tête, vous regarde et acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"En effet. Il m'a dit qu'il s'inspirait largement des travaux de Tödh. Vous m'impressionnez, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Oh, di verus ? Vous avez aussi subi ce genre de test ?"
+
+Elle vous scrute attentivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mais... vous n'êtes pas un divin."
+
+Elle plisse les yeux et pince les lèvres tandis qu'elle cherche à comprendre ce que vous voulez dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'est quelque chose que m'a donné Berath quand j'étais dans l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Lui faire signe de continuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Quoi qu'il en soit, il m'a dit que c'était ce qui provoquait ma transformation corporelle. Je l'ai supplié de m'en débarrasser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Tout d'abord, il a refusé, en prétextant que c'était impossible. Quand je lui ai dit que je me tuerais s'il ne le faisait pas, il a accepté d'essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Personne ne devrait être poussé à de tels extrêmes. En particulier une petite fille." Pour une fois, Xoti à l'air contrite. Elle fronce les sourcils en se frottant la nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous l'auriez vraiment fait ? Ou c'était juste une manière de parler ? Certains Vailiens utilisent souvent ce genre de formule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"La différence est difficile à supporter. Surtout quand cette différence est malaisée à cacher." Il fronce les sourcils et son regard se teinte de sympathie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Par les plumes d'Amira. Dans les tribus, on vous aurait chérie et on vous aurait appris à aimer cette différence, non à la rejeter comme une malédiction..." 
+
+Tekēhu porte une main à sa tempe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Par les dieux, ma petite... Avec ou sans plumes, vous êtes magnifique."
+
+Il fait mine de tendre la main vers elle, mais se ravise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je ne m'attends pas à ce que vous compreniez, mais j'avais douze ans. Mon corps changeait plutôt deux fois qu'une. Être la seule fille... la seule &lt;i&gt;divine&lt;/i&gt; de l'académie était un poids trop lourd à porter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous n'avez pas besoin de vous justifier, Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Quelles que soient les circonstances, le suicide est une mauvaise solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Comme je l'ai dit, je ne m'attends pas à ce que &lt;i&gt;vous&lt;/i&gt; compreniez."
+
+Elle serre la mâchoire tandis qu'elle vous lance un regard mauvais à travers ses paupières plissées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Agracima." Elle vous adresse un sourire chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Giacolo n'a pas réussi à supprimer le carillon, mais il a pu trancher le lien. Je me suis évanouie pendant l'opération. Je n'ai pas émergé avant deux semaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"La confrérie l'a renvoyé de l'académie pour avoir « gâché » leur divine apprivoisée. Ils ont cru que j'allais mourir. Mais je m'en suis sortie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Le temps passant, j'ai perdu la plupart de mes plumes. La forme de mon nez a changé. Ce n'était pas suffisant pour faire de moi une Calbandra pur sang, mais assez pour m'ôter l'envie de mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Quand je me regardais dans le miroir, je ne voyais plus une divine, une espèce de &lt;i&gt;créature&lt;/i&gt; dont on faisait étalage. C'était moi. Enfin, moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Non, il m'a dit que c'était le carillon qui provoquait ma transformation corporelle. Je l'ai supplié de m'en débarrasser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je suis heureux que quelqu'un ait pu vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mais vous étiez « vous-même » avant..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Donc, en tranchant le lien avec le carillon pendant la puberté, il a permis à votre âme essentiellement kith de sublimer votre nature divine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Déconcertée par votre absence de réponse, elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"C'est important pour moi. Sans l'aide de Giacolo, je serais probablement morte à l'heure qu'il est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Si nous pouvions aller lui parler dans la tour, je vous en serais reconnaissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Non !" En criant, sa voix se fait plus grave, tandis que ses yeux dorés s'écarquillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ce n'est pas à &lt;i&gt;vous&lt;/i&gt; de décider qui je suis. Ce n'est pas à Hylea de décider qui je suis. Ce n'est pas non plus à la confrérie de décider qui je suis."
+
+Elle s'avance vers vous et pointe un doigt sur son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"&lt;i&gt;Moi seule&lt;/i&gt; décide qui je suis. Giacolo respectait mon opinion. Il me respectait. Sans son aide, je serais probablement morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Elle serre la mâchoire et expire rageusement par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Techniquement, oui. Le fait est que ça m'a changée. Ça m'a sauvée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Elle vous adresse un sourire chaleureux et inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Giacolo m'a sauvée. Sans son aide, je serais probablement morte à l'heure qu'il est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Merci de votre compréhension. Si nous pouvions aller lui parler un instant dans la tour, je vous en serais reconnaissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh non. Ça n'augure rien de bon."
+
+Les yeux écarquillés, Pallegina inspecte la pièce ravagée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Même dans un lieu si abominable, quelqu'un doit avoir vu ou entendu quelque chose. Nous devrions demander au propriétaire s'il sait ce qui s'est passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Pourquoi quelqu'un s'en prendrait-il au travail de Giacolo ? Je croyais que les animanciens étaient en sécurité au Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Bien sûr. Nous retrouverons Giacolo. Ne vous inquiétez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"D'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Soupirer odieusement] "J'étais sûr que ça n'allait pas prendre « quelques minutes »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"J'espère. Agracima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je vous suis, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Oh, buffan vi ! Comme si vos affaires à vous se résolvaient en un tour de main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Voici donc le Marché noir. Il est plus petit que ce que je pensais. Nous devrions demander aux gens s'ils ont vu passer ces divins avec Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous le retrouverons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"J'ai d'autres choses à faire ici. Peut-être que nous aurons le temps de nous en occuper plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Madiccho ! Giacolo enlevé par des pirates divins ?! Mais pourquoi ? Il a toujours fait de son mieux pour aider mes semblables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Gardien, je sais que je vous en demande déjà beaucoup, mais, si vous pouviez trouver le temps d'aller à Dunnage, chercher ce « capitaine Tatzatl », ça me toucherait énormément."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Il n'avait pas l'air de courir un danger imminent, mais j'ai peur de ce qu'ils vont lui faire subir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Êtes-vous sûre que Giacolo n'avait pas d'ennemis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Apparemment, les animanciens ne sont en sécurité nulle part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Eh bien, nous verrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Pas dans les Républiques, et je ne vois vraiment pas pourquoi un divin, entre tous les kiths, aurait des raisons de l'enlever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ils le sont dans les Républiques. Même alors que Giacolo était en défaveur, jamais il n'a couru le moindre danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Agracima, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Il se passe quelque chose d'étrange, ici. C'est peut-être en rapport avec ses recherches. Je suis sûre que saurons le fin mot de l'histoire quand nous trouverons le capitaine Tatzatl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Sourire d'un air séduisant] "Vous êtes magnifique telle que vous êtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ne vous faites pas d'idées absurdes. Vous allez simplement vous ridiculiser."
+
+Elle vous congédie d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Pallegina redresse la tête et vous observe avec un mélange de contrariété et d'embarras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je ne vous ai pas demandé votre avis."
+
+Après un moment, son expression revêche s'adoucit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Quoi qu'il en soit, vous comprenez maintenant pourquoi Giacolo représente beaucoup pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Agracima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Elle expire violemment par le nez tout en clignant les membranes nictitantes de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je suis désolée, mais je ne veux pas que vous vous fassiez des idées. Je vous respecte, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Après un moment, son expression revêche s'adoucit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Au Dyrwood, nous étions campagnas. Pour le meilleur et pour le pire, cette relation a porté ses fruits. J'aimerais que notre nouvelle association porte aussi ses fruits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Per complanca, respectez-moi ainsi que ma vocation."
+
+Fermant brièvement ses yeux dorés, elle vous adresse un hochement de tête poli.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Elle vous scrute, tentant de comprendre ce que vous voulez dire. Après une pause, elle hoche la tête et reprend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Beaucoup d'animanciens sont religieux. Ils sont simplement dépourvus de votre zèle détestable qui vous pousse à prêcher auprès de tous ceux que vous croisez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Balançant doucement sa lanterne, Xoti attire l'âme dans ses profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

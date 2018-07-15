@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Huana : "Ne vous inquiétez pas, ma sœur. Vous devriez pouvoir me laisser passer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vailien : "Je jure de protéger le palais Darcozzi ainsi que ses seigneurs et maîtres légitimes, les descendants d'Orelia Darcozzi. Ma vie et mon amour leur appartiennent, ou que les flammes de Magran me dévorent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Berath&lt;/b&gt; (rendre les âmes à la Roue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;b&gt;Galawain&lt;/b&gt; (renforcer les âmes du Dyrwood)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;b&gt;Hylea&lt;/b&gt; (rendre les âmes aux Sans-âme)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; (désintégrer les âmes)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;b&gt;Skaen&lt;/b&gt; (offrir les âmes à Woedica)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vailien : « Satané imbécile ! Allez vous faire voir ! Tout est votre faute, en plus ! Qu'un kraken vous emporte ! Sac à vomi ! »</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

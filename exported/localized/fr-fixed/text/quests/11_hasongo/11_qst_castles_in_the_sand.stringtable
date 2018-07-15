@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_hasongo\11_qst_castles_in_the_sand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une lointaine lumière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mettre le cap sur Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Atteindre le phare d'adra dans le coin ouest du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Se connecter à l'adra lumineux du phare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Trouver l'adra lumineux sur Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai appris qu'Éothas a été aperçu dans les parages d'Hasongo, une île possédant un avant-poste rauatai et un phare d'adra. Hasongo est située à l'ouest de Neketaka.
+
+Je pourrais me connecter à lui à travers le fanal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Éothas a été aperçu pour la dernière fois près d'Hasongo, une île au nord-ouest de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La Compagnie royale du Feu éteint a construit un phare autour de l'adra lumineux. C'est peut-être ce vers quoi Éothas se dirigeait lorsque je me suis connecté à lui à Port Maje.
+
+Si j'arrive à atteindre le phare, je pourrai sans doute reparler à Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La veine d'adra du phare s'est assombrie, un signe clair qu'Éothas l'a siphonnée. Je devrais parvenir à atteindre Éothas en entrant en contact avec l'adra.
+
+Cela dit, un nāga du nom de Sugaan me barre la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai atteint une île appelée Hasongo, et il est évident qu'Éothas est également passé par là.
+
+Si j'arrive à trouver une source d'adra lumineux, je me connecterai de nouveau à lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sugaan m'a laissé partir, non sans m'avertir de ne pas revenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Sugaan croit que les dieux punissent les kiths pour avoir touché à leur adra. Cela explique pourquoi il ne me laisse pas l'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai tué Sugaan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Sugaan m'a permis de m'approcher de l'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé l'âme d'une nāga qui a vu Éothas siphonner l'adra. Cela convaincra sans doute Sugaan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Zuhira a mentionné le fait qu'une bombarde intacte pourrait se trouver le long d'un des murs extérieurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'aurai besoin de munitions avant de pouvoir utiliser cette bombarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Zuhira m'a dit qu'une personne du nom d'Aimuro fabriquait des boulets explosifs pour la bombarde. Son atelier se trouve près de la porte nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai trouvé un boulet explosif pour la bombarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>La bombarde est coincée par la rouille. Je vais devoir trouver de quoi la lubrifier si je veux pouvoir viser avec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>J'ai déniché de la graisse de cuisson qui pourrait décoincer les engrenages rouillés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>J'ai tourné la bombarde pour viser le groupe de nāgas au milieu du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>J'ai trouvé une bombarde sur les remparts de la forteresse. Je pourrais la retourner contre les nāgas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>J'ai aperçu des nāgas rôdant au centre de la forteresse. Il doit y avoir un moyen de les contourner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>J'ai réglé le compte du gros groupe de nāgas au centre du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Aimuro a parlé de deux autres itinéraires pour se rendre au phare. Le premier part des remparts du fort, tandis que le second passe au-dessus de l'atelier et à travers le bureau du maître de la flotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Sugaan m'a laissé partir, non sans m'avertir de ne pas revenir. Pas tant que je ne pourrai pas convaincre l'un des siens morts de corroborer mon histoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Avant de mettre le cap pour Hasongo, je dois trouver quelqu'un qui réparera mon navire. Je devrais aller voir du côté des quais de la Jetée de la reine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Le phare d'adra est dans le coin ouest du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Un des soldats m'a prévenu que je pourrais me faire prendre en embuscade par les nāgas si jamais je m'approchais trop près de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>J'ai trouvé un manuel qui me sera utile afin de viser à la bombarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai établi le contact avec Éothas au phare d'Hasongo. Il ne m'a pas dit ce qu'il faisait : il m'a simplement demandé d'aller le chercher aux Dents de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai atteint Hasongo, qui abrite maintenant un fort en ruine. Il semble qu'Éothas l'ait traversé. 
+
+Si je trouve de l'adra lumineux ici, je pourrai me connecter à nouveau à Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

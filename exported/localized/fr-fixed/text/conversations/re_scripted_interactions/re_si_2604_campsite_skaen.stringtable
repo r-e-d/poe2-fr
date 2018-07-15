@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2604_campsite_skaen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La jungle fétide et étouffante s'étend autour et au-dessus de vous, sa chaleur retenue par l'épaisse canopée. La sueur pend à vos narines et coule de votre menton. Le monde entier semble s'être figé, sauf vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes le murmure dans la tempête..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Cela fait des heures que vos compagnons ont cessé de se plaindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous vous arrêtez à proximité d'un grand cours d'eau somnolent pour remplir vos gourdes. C'est alors que vous percevez du mouvement, quelque part devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sauf Serafen, qui formule une nouvelle objection ingénieuse toutes les dix minutes environ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il lève ses paumes à votre attention. "Nous ne vous voulons aucun mal. À vrai dire, nous vous attendions ici parce que nous avons une..." il jette un coup d'œil en direction de vos compagnons de voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Il incline légèrement la tête. "Nous avons une proposition à vous faire, si vous voulez bien nous rejoindre un instant et nous écouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Vous rapprocher] "Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qui êtes-vous ? Comment connaissez-vous mon nom ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Non, merci. Je suis très bien là où je suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attaquer] "Et j'ai une contre-proposition : mourez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Il tend sa main comme pour prendre la vôtre, mais il est bien trop loin. "Vous êtes apparu. Comme il l'a été prédit."
+
+Les deux autres inclinent la tête et murmurent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'homme sort une petite poupée de sa robe. Une effigie aux yeux de sombrepierre.
+ 
+"&lt;link="glossary://GlossaryEntry_Skaen"&gt;L'Esclave silencieux&lt;/link&gt; vous prie de prendre ceci. Un présent, pour votre loyauté. Et pour votre rancœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Skaen n'est pas connu pour sa générosité. Quelle est la nature de ce soi-disant présent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je vous remercie. Saluez votre maître de ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ça ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attaquer] "Skaen ne préférerait-il pas que je vous tue et que je m'en empare sur vos dépouilles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>L'homme laisse échapper un petit rire. "Non, c'est vrai." Il lève la petite poupée de paille. "C'est une effigie de l'Effigie. Brûlez-la, et vous invoquerez l'aide utile de Skaen en personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>L'homme pose la petite figurine au sol, non loin de vos pieds.
+
+"Brûlez-la, et vous aurez toute son attention. Pendant un moment." Il sourit. "Pour n'importe qui d'autre, il aurait... eu des exigences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Mais l'Esclave silencieux voit en vous un grand potentiel." Il sourit. "Je suis sûr que vous comprenez pourquoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>La kith de droite, une femme du Peuple des océans aux cheveux en bataille, penche la tête. "En êtes-vous certain ?"
+
+"Il n'y aura pas de seconde chance", déclare l'homme, "et il pourrait en aller de votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Le trio rit doucement. "Il en est donc comme il fut prédit. Vous raserez tout..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>L'homme baisse la voix. "Il existe un endroit, caché dans ces contrées sauvages... un lieu ancien surveillé par &lt;link="glossary://GlossaryEntry_Skaen"&gt;l'Esclave silencieux&lt;/link&gt;. Pour la personne qui est prête à faire un sacrifice..."
+
+"Un &lt;i&gt;véritable&lt;/i&gt; sacrifice", ajoute la femme à ses côtés, en indiquant vos compagnons d'un signe de la tête.
+
+"... telle dévotion recevra en retour une récompense de sa part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Absolument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il s'incline. "Qu'il en soit ainsi, [Player Name], Gardien de Caed Nua."
+
+"Prenez garde à vous", ajoute la femme. "Il vous reste tant de choses à accomplir."
+
+Ils franchissent la rivière et disparaissent dans la jungle au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"L'Esclave silencieux vous observe et espère vous voir atteindre votre plein potentiel. Vous avez encore du chemin à parcourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le kith de gauche, un elfe mince et chauve, relève la tête. Ses yeux ont été brûlés, et sa voix est comme le vent qui souffle dans des roseaux séchés. 
+
+"Comparé à ce que vous réservent les dieux... ceci n'est qu'une infime distraction." Il indique la jungle environnante d'un geste dédaigneux. "Cette effigie vous assurera de survivre afin... d'être témoin du dernier acte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nous sommes les amis d'un ami", explique l'homme. "Un ami potentiel, peut-être. Un ami doté de potentiel, certainement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>La kith de droite, une femme du Peuple des océans aux cheveux en bataille, penche la tête. "En êtes-vous certain ?"
+
+"Il n'y aura pas de seconde chance", déclare l'homme, "et il pourrait en aller de votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Absolument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Un sourire narquois se dessine sur les lèvres de la femme. "Qu'il en soit ainsi. Alors nous ne nous reverrons pas. Inutile de nous chercher."
+
+L'homme qui se tient au milieu incline légèrement la tête, et le trio s'éloigne.
+
+Ils disparaissent dans la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Menez-moi là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ça, jamais !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>L'homme secoue la tête. "Nous ne le pouvons pas. Vous ne pouvez emprunter cette voie que muni du don de votre choix. Choisissez donc, et choisissez bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>L'homme incline la tête et indique de la main les profondeurs de la jungle. "Franchissez ces eaux. Suivez les sentiers que vous trouverez. Vous reconnaîtrez le lieu lorsque vous le verrez." Il sourit. "Adieu, [Player Name]. Nous serons partis avant votre retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Suivre leurs indications]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"En fait, vous feriez mieux de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La kith de droite, une femme du Peuple des océans aux cheveux en bataille, penche la tête. "En êtes-vous certain ?"
+
+"Il n'y aura pas de seconde chance", déclare l'homme, "et il pourrait en aller de votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Les instructions sont vagues, mais vous partez malgré tout. Vous franchissez l'eau et suivez le premier sentier animal que vous repérez, qui vous mène à travers un paysage de plus en plus marécageux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Les instructions sont vagues, mais vous partez malgré tout. Vous franchissez l'eau et suivez le premier sentier animal que vous repérez, qui vous mène à travers un paysage de plus en plus marécageux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] jette un regard nerveux au trio par-dessus son épaule, avant de suivre leurs vagues indications et de vous mener à travers un paysage de plus en plus marécageux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0] jette un regard nerveux au trio par-dessus son épaule, avant de suivre leurs vagues indications et de vous mener à travers un paysage de plus en plus marécageux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Partez. Maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Il ne vous faut pas bien longtemps pour trouver le lieu en question. L'homme avait raison : vous savez que vous avez atteint votre destination dès que vous apercevez l'endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Après des heures d'errance, vous finissez par émerger au sein d'une clairière, trempé de sueur et exténué. Vous levez les yeux et votre regard se pose sur ce qui doit être le lieu que vous cherchez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Il ne s'agit pas d'un sanctuaire huana, mais d'un temple dissimulé au cœur d'une contrée sauvage, bâti à partir de lourdes pierres adossées à la paroi nue de la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous hésitez... vous pourriez ne jamais retrouver ce lieu...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous trouvez au cœur du temple un simple autel de pierre, sillonné d'antiques dentelures et taché de sang qui a séché il y a bien longtemps de cela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Sacrifier [Specified 1]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous plongez votre arme dans le torse de [Specified 1], dont vous guidez ensuite la chute en direction de l'autel.
+
+Les yeux écarquillés, [Specified 1] tente de s'agripper à vous. Ses doigts ensanglantés glissent le long de votre torse. Il laisse échapper un dernier râle, puis il cesse de bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Poussé par un étrange instinct, vous tranchez encore et toujours, brisant les os et déchirant les tissus.
+
+Vous plongez les mains dans la plaie béante et toujours palpitante, jusqu'à ce que vos doigts se referment sur un objet ferme et rugueux. 
+
+Vous retirez du corps une poupée, formée de brindilles liées les unes aux autres, dotée d'une paire de sombrepierres en guise d'yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Peu satisfait de cette réponse, votre groupe quitte néanmoins la jungle à votre suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bien que clairement bouleversés par la perte de [Specified 1], vos compagnons vous emboîtent le pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Peu satisfait de cette réponse, votre groupe quitte néanmoins la jungle à votre suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Malgré le fait qu'ils aient l'air de vouloir vous en poser quelques-unes après cet aveu, le groupe vous suit lorsque vous vous mettez en route pour quitter la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Choisir un compagnon pour vous accompagner]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Attaquer] "Alors je vous choisis tous les trois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je ne le ferai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>La kith de droite, une femme du Peuple des océans aux cheveux en bataille, penche la tête. "En êtes-vous certain ?"
+
+"Il n'y aura pas de seconde chance", déclare l'homme, "et il pourrait en aller de votre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Absolument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Vous jetez un regard par-dessus votre épaule et demandez à [Specified 1] de vous suivre. Vous dites aux autres d'attendre votre retour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les orbites calcinées de l'elfe chauve se tournent vers [Specified 1]. "Non, choisissez encore. Choisissez mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Vous jetez un regard par-dessus votre épaule et demandez à [Specified 1] de vous suivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Détruire l'autel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous donnez un grand coup de pied dans l'autel, puis attrapez une branche solide pour en déloger les pierres. Comprenant peut-être que vous venez de l'épargner, [Specified 1] vient vous aider à démanteler l'antique lieu de sacrifice.
+
+Tandis que vous quittez la clairière, vous croyez entendre un rire retentir dans la jungle, derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous retournez auprès du reste de votre groupe, qui vous demande immédiatement ce qui est arrivé à [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Vous rangez soigneusement l'effigie dans votre sac et quittez le temple pour retourner à vos aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Qui ? Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Désolé... il ne s'en est pas sorti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Mieux vaut pour vous l'ignorer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"J'ai tué [Specified 1] et j'ai sorti une poupée de son cadavre. Des questions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Un trio de kiths émerge de la végétation et entre dans l'eau, leurs robes crasseuses et en lambeaux gondolant dans l'eau autour d'eux. Ils font hâte à peu près au milieu du cours d'eau.
+
+Celui qui se tient au milieu, un homme du Peuple de la savane à l'expression béate, vous adresse un sourire.
+
+"[Player Name]. "Gardien de Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Si vous avez quelque chose à me dire, vous pouvez le dire devant mes amis !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>L'elfe chauve qui se tient sur la gauche secoue la tête. "Pas cela", déclare-t-il d'une voix rauque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Le bel homme du milieu incline la tête et sourit. "Adieu, [Player Name]."
+
+Le trio s'éloigne et disparaît dans la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Quant à votre présence ici", ajoute le kith de gauche, un elfe chauve, "elle fut prédite." Il vous scrute de ses orbites calcinées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>L'elfe chauve laisse échapper un grognement de dérision. "Admirable, mais absurde. Choisissez à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Vous plongez votre arme dans le torse de [Specified 1], dont vous guidez ensuite la chute en direction de l'autel.
+
+Les yeux écarquillés, [Specified 1] tente de s'agripper à vous. Ses doigts ensanglantés glissent le long de votre torse. Elle laisse échapper un dernier râle, puis elle cesse de bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Bien que clairement bouleversés par la perte de [Specified 1], vos compagnons vous emboîtent le pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vous ressentez le poids des regards noirs comme une chappe de plomb dans votre dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

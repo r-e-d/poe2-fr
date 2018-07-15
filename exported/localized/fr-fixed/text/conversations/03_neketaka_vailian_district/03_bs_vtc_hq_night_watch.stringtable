@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_bs_vtc_hq_night_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous n'avez rien à faire ici en dehors des heures d'ouverture. Circulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Et s'il s'agissait d'un cas d'urgence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Mentir] "J'ai oublié des documents importants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Le gouverneur Alvari m'a donné la permission d'entrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Attaquer] "Beau siège que vous avez là. Il serait dommage que votre sang en tache les murs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>La garde s'insère deux doigts dans la bouche et émet un sifflement perçant. Elle tire son arme et s'avance vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tout semble être en ordre. Donnez-moi un instant et je vous ouvre la porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"S'ils sont si importants, rassurez-vous à l'idée que je monte la garde et que je ne permettrai pas que la moindre feuille de parchemin franchisse le pas de la porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si c'est en rapport avec des papiers ou des sceaux, comme la plupart des choses qui se trouvent ici, je suis certaine que cela peut attendre demain matin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Entrez, messire."</DefaultText>
+      <FemaleText>"Entrez, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bonsoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Si vous avez affaire avec la Compagnie commerciale vailienne, il vous faudra attendre demain matin. Nous sommes fermés." La garde incline la tête en guise d'avertissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Le siège est toujours fermé, messire."</DefaultText>
+      <FemaleText>"Le siège est toujours fermé, madame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Peut-être pourrions-nous parvenir à un arrangement mutuellement profitable ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Si vous souhaitez faire un don, je l'accepterai volontiers, mais les portes resteront fermées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Voici une pièce pour votre dérangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je n'ai pas d'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Revenons à mes questions précédentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Si cela implique un plaidoyer passionné dans le but de me convaincre de vous laisser entrer, vous perdez votre temps, mais faites donc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Cela n'aurait fait aucune différence, de toute manière. Et ne comptez pas sur moi pour l'aumône."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Merci beaucoup, aimico." Elle glisse votre pièce dans sa poche.</DefaultText>
+      <FemaleText>"Merci beaucoup, aimica." Elle glisse votre pièce dans sa poche.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

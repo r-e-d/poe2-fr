@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_rathun_warlord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>226</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un guerrier rathun domine ses compagnons, pourtant des géants eux-mêmes. D'un geste rude de la main, il désigne la femme soldat à ses côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kith." Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Rekir, apporte le charbon ! Nous devons nous purifier avant d'aller affronter le profanateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ma masse d'armes frappe pour Magran !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qu'est-ce que ça signifie ? Des intrus se sont infiltrés au cœur de &lt;i&gt;ma&lt;/i&gt; forteresse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous êtes téméraire de nous attaquer au siège de notre pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Des kiths ?! Comment êtes-vous arrivés ici ? Non, ça n'a aucune importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'espère que vous êtes prêts à mourir ici. Car je vais bientôt vous forcer à vous prosterner sur l'autel de Magran et vous brûler à sa gloire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'ai aucun grief contre vous, bathor. Je veux seulement parler à Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vos guerriers m'ont laissé passer pour que je puisse parler à Éothas. Ou du moins, les deux premiers m'ont laissé passer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Mentir] "Vos guerriers m'ont laissé passer pour que je puisse vous parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nous n'avons pas le temps. Je dois rapidement rejoindre Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Éothas mérite la mort, non des paroles. Le dieu profanateur apporte la guerre dans la Gueule cendrée pour se venger de Magran et de ses Rathuns."
+
+Le seigneur de guerre vous toise d'un regard virulent, alors que de la sueur ardente dégouline de son cou. Autour de lui, ses guerriers se frappent la poitrine de leurs armes, ou en frappent le sol, réclamant du sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Le seigneur de guerre vous étudie quelques secondes qui paraissent s'éterniser. Le silence oppressant qui s'ensuit est lourd du poids de sa violence tacite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ne me racontez pas de mensonges glacés. Je ne peux pas croire qu'ils vous aient laissé passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'ai du mal à croire qu'ils vous aient autorisé à passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Et pour faire cela sans autorisation, vous devrez triompher des Rathuns." Il signale à ses guerriers de vous encercler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je vous l'accorde... pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Mais vous êtes une créature de notre déesse. Et si vous la servez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Mentir] "Ils savent que vous avez besoin de mon aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ce qui importe réellement, c'est ce qu'ils ont vu en moi, ce qui vous aidera à lutter contre Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nous n'avons aucune raison de nous battre alors que nous pouvons nous entraider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Votre fierté pèse-t-elle plus lourd que la vie de vos guerriers ? Pouvez-vous vous permettre d'en perdre davantage encore ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Attaquer] "Si vous ne me laissez pas passer, je vais devoir vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"En temps normal, aucun Rathun n'accepterait l'aide d'un simple kith. Mais vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"En temps normal, aucun Rathun n'accepterait l'aide d'un simple kith. Mais vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il frotte le devant de son casque tout en réfléchissant à vos paroles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous pensez pouvoir tuer ne serait-ce qu'un de mes guerriers ? Peut-être avez-vous raison. Même une seule vie de perdue est un risque que je ne peux pas prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le seigneur de guerre aboie un ordre, auquel ses guerriers répondent par un cri de guerre tonitruant. Ils brandissent bien haut leurs armes avant d'avancer d'un pas lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Quelle est votre relation avec Éothas si elle n'est pas destinée à vous allier à lui contre Magran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Cette ordure me persécute, et je vais le lui faire payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je me fiche de savoir si Éothas vous massacre jusqu'au dernier. Tout ce qui compte, c'est que je découvre le but de sa présence au Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mes raisons ne concernent que moi et personne d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Éothas a volé une partie de mon âme. Je veux la récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Votre sang bout de colère. Tant mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nous sommes du même avis vous concernant. Mais si quelqu'un doit être massacré et réduit en cendres, ce sera vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Le mensonge et les ténèbres sont les ennemis du feu... ainsi que de la vérité éclairée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dans ce cas, vous aussi avez maille à partir avec Éothas, tout comme nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Il fait signe à ses guerriers. Ils vous encerclent d'un pas lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Attention, Magran vous observe de son sanctuaire. Vos échecs l'ont déjà contrariée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Rengainez vos armes ou je devrais affronter Éothas seul... après vous avoir tous massacrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je suis ici pour traiter avec un dieu, et personne ne m'en empêchera !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous insinuez que la déesse vous parle ? Vous entendez le rugissement de sa voix ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quelle détermination, quelle confiance en votre victoire. Peut-être vous ai-je sous-estimé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Quelle détermination, quelle confiance en votre victoire. Peut-être êtes-vous l'envoyé des dieux, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Nos préparons un assaut contre Éothas, au pied de la Gueule."
+
+Le seigneur de guerre désigne d'un geste le sanctuaire de Magran derrière lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Le sanctuaire nous mènera au pilier d'adra sacré, où le dieu incarné est en train de se gaver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Nous gardons les profondeurs sacrées de la Gueule. Nul ne peut entrer sans autorisation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nous gardons les profondeurs sacrées de la Gueule. Nul ne peut entrer sans autorisation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je suis prêt à affronter Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"J'ai le torque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Où a bien pu aller la brenthís dans un moment aussi difficile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"J'ai trouvé votre brenthís. Elle est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'ai communié avec Magran. Elle a l'intention de faire entrer la Gueule en éruption pour détruire Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Si vous lancez un assaut contre Éothas, vous serez massacrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous êtes certain que c'est la destinée que vous souhaitez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"En fait, j'aimerais procéder à d'ultimes préparatifs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Prenez place sur le sanctuaire, et nous vous ferons descendre. Puisse Magran vous assurer la victoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Très bien. Dites-moi quand vous êtes prêt à y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Revenir victorieux de la Tanière de la Vénérable... Je vous ai mal jugé. Vous êtes un kith d'exception."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"J'ai entendu. Des cris de triomphe vous ont précédé. Il semblerait que vous soyez sans égal parmi ceux de votre race... et de la mienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"La brenthís ne vous accompagne pas, alors je me dois de supposer qu'elle est retournée à la flamme éternelle." L'intensité des motifs de sa peau faiblit brièvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Qu'est-il advenu de la Vénérable, Jadaferlas ? Sans elle, nous n'avons quasiment aucune chance de triompher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"La dragonne est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"La dragonne vous a abandonnés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Mentir] "Elle se joindra à l'attaque contre Éothas, une fois que vous aurez mené la charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Pousser un grognement évasif]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Impossible ! Une flamme aussi lumineuse que celle de la Vénérable ne peut pas être éteinte si facilement." Il secoue la tête d'un air sinistre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Il se tait, tandis que les motifs de sa peau flamboient ardemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vraiment ? Si la Vénérable accepte de nous aider, alors pourquoi la brenthís a-t-elle péri ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je craignais le pire quand la brenthís n'est pas revenue avec la bête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Mentir] "La prêtresse a essayé de contrôler la dragonne, ce qui n'a fait qu'attiser la fureur de la bête. J'ai simplement demandé à la dragonne de nous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Mentir] "Le saccage d'Éothas a provoqué un glissement de terrain. Il a écrasé votre prêtresse et les guerriers qui l'escortaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je ne voulais pas être porteur de mauvaises nouvelles... mais la dragonne a refusé de combattre Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je vous ai dit qu'elle allait se joindre à vous ? En fait, je voulais dire que... Hum, eh bien..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nous avions effectivement conclu un accord avec la Vénérable. J'espère bien qu'elle le respectera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Espèce de... espèce de petit menteur ! J'aurais dû m'en douter !" Furieux, il brandit sa masse d'armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Nous n'avons pas le choix... même si tout est contre nous. Nous attaquerons sans leur appui." Il secoue la tête d'un air grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Bon. Descendez sur les feux du sanctuaire et affrontez votre destin, kith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Magran a l'intention de faire entrer la Gueule en éruption pour détruire Éothas. Vous allez mourir si vous restez ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je conserve le torque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Si c'est la volonté incandescente de la déesse, les Rathuns la respecteront."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Parmi nous, moi seul suis capable de l'entendre. Alors, comment pouvez-vous savoir que Magran veut que vous restiez combattre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vos âmes ne sont pas liées à la volonté de Magan. Vous êtes libres de choisir votre propre destin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Si c'est ce que vous pensez, je ne tenterai pas de vous influencer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Pourrait-elle vouloir que nous fuyions tels des lâches ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Que sont nos âmes sinon les étincelles jaillissant du silex de Magran ? Nous n'avons pas à choisir de servir ou non la déesse, seulement comment la servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nous sommes les créatures de Magran, formées à partir de ses flammes. Nous n'existons que pour célébrer sa grandeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Magran vous a créés pour une bonne raison. Vous devez survivre pour la servir convenablement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Qui servira Magran si vous mourez ici ? Ses nombreux autres sanctuaires n'ont-ils pas eux aussi besoin de protection ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Comme vous le dites, Magran a choisi de sacrifier ce site. Loin de nous l'idée de rejeter son offrande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nous allons évacuer la Gueule et garder les autres volcans des Dents. Je crois qu'elle approuvera la destinée que nous nous sommes choisie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Gardez le torque. Utilisez-le pour faire descendre le sanctuaire si vous êtes toujours déterminé à vous confronter à Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Puisse la chaleur de votre âme vous mener à la victoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Tout ce qui est sacré pour Magran doit être protégé par les Rathuns. Nous ne pouvons pas négliger notre devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Peut-être ne suis-je pas un Rathun, mais je suis béni de Magran. Je protégerai le torque au nom de la déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je vénère Magran, tout comme vous. Vous pouvez me confier le torque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Kith béni de Magran, je reconnais votre prérogative." Il hoche la tête d'un air grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je reconnais votre dévotion envers Magran et les exploits que vous avez accomplis en son nom." Il hoche la tête d'un air grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vous avez prouvé votre valeur en tant que fidèle de Magran. Emmenez le Torque d'Bithákten loin du dieu profanateur. Protégez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Enflammez le sanctuaire ! Préparez-vous, Rathuns ! Nous allons affronter notre destin et détruire le dieu profanateur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Maintenant, préparons-nous pour la fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Notre première ligne de défense contre le dieu profanateur a été dévastée." Ses motifs corporels flamboient au rythme de sa colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"La brenthís est donc allée convoquer notre ancienne alliée à la bataille. Elle est dans les profondeurs de la Tanière de la Vénérable, à l'ouest de la forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Lorsqu'elle reviendra avec la dragonne, nous enflammerons le sanctuaire et frapperons le profanateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je ne partage pas la capacité de la brenthís à communier avec Magran. Mais je suis bien forcé de croire que la déesse voudrait que nous nous battions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"C'est bien ce que je craignais... et ce que j'ai ressenti. Ses flammes ont été éteintes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Pourquoi devrais-je croire les paroles d'un étranger ? Peut-être cherchez-vous à semer la discorde ou à différer notre attaque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Non, à moins que la brenthís revienne annuler ses ordres, l'attaque aura lieu comme prévu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Mourir pour Magran est le plus grand des honneurs. Nous ne vivons que pour protéger la déesse. Et servir sa volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Et Magran a déjà anéanti Éothas autrefois, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Toi, segroth. Protège ce kith." Le bathor pointe sa masse d'armes vers l'une de ses invocatrices de feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"La Tanière de la Vénérable est un endroit funeste : c'est l'antre d'une grande dragonne. Vous devriez ainsi être à l'abri... du feu et des vapeurs qui emplissent les cavernes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Mais vous être un prêtre de notre déesse. Et si vous la servez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"J'ai du mal à croire qu'ils vous aient autorisé à passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Nous devons livrer notre dernier combat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vous êtes sûr que je ne peux pas vous faire changer d'avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Il grogne une affirmation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Certain." Il croise les bras sur sa poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Mais croyez-vous que Magran va faire entrer ce volcan en éruption ? Si vous restez combattre Éothas, Magran elle-même vous tuera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Nous n'avons pas de temps à perdre. Je vais rassembler mes guerriers et nous allons abaisser le sanctuaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"C'est perturbant... et malheureux. Elle aurait constitué une alliée de poids contre Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Eh bien, qu'est-ce que vous attendez ? Ouvrez le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Attaquer] "C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Il secoue la tête. Ses yeux brûlent d'une lueur farouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Laissez-moi passer. Je parlerai à Éothas et je le convaincrai de quitter ce lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Même si je vous croyais, je ne pourrais pas accéder à votre demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Mentir] "Laissez-moi passer. Éothas m'écoutera et s'en ira, faites-moi confiance. On se connaît depuis suuuper longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Notre grande prêtresse, la brenthís, est la détentrice légitime du torque, mais elle ne l'a pas encore rapporté à la forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Le sanctuaire est donc assoupi... verrouillé sans le Torque d'Bithákten." Il redresse fièrement les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je vais m'aventurer dans la Tanière de la Vénérable et récupérer le Torque d'Bithákten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Si vous aviez le torque, vous me laisseriez rejoindre Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Revenez avec notre brenthís et le torque, et nous vous permettrons de nous accompagner dans notre glorieuse bataille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Le seigneur de guerre croise les bras sur sa poitrine, les motifs ardents flamboyant tandis qu'il gonfle ses biceps. Finalement, il grogne et vous adresse un hochement de tête bourru.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Je ne suis pas là pour vous combattre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Vos paroles n'ont aucun poids, kith. Les Rathuns décident seuls de leurs batailles." Ses paroles retentissent d'un air résolu derrière son casque, mais il ne frappe pas. Il lève la main pour signaler à ses guerriers d'attendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Je suis venu lui demander qu'elles étaient ses intentions concernant le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Si vous n'avez pas l'intention de défendre le dieu profanateur, nous n'avons rien contre vous, kith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Berath m'a demandé d'intervenir auprès d'Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Il est rare que de simples kiths soient les messagers d'une puissante divinité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"La brenthís tarde trop. Mais elle seule peut enflammer le sanctuaire. Allez-y, et veillez à ce qu'elle revienne vite avec la Vénérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Lorsque le seigneur de guerre vous aperçoit, ses épaules se raidissent et il saisit la masse d'armes sanglée dans son dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Vous avez tout compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Vous vous attendiez à devoir répondre à une énigme, puis à parcourir un labyrinthe pour y accéder ? Hmph."
+
+Le seigneur de guerre vous lance un regard noir, aussi brûlant qu'une braise plaquée contre votre peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je... j'imagine que vous n'avez pas ce torque sous la main ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"J'ai parfois l'impression que l'archipel tout entier a une dent contre les serrures traditionnelles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"C'est bien beau de condamner les écoutilles, du moins jusqu'à ce que le navire battu par les eaux se mette à couler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Donc, si j'ai bien compris... il faut un torque sacré pour déverrouiller le sanctuaire, qui ensuite nous fera descendre dans les profondeurs de la Gueule ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Les cicatrices du seigneur de guerre rathun flamboient tandis qu'il prend un air songeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ne considérez pas ça comme une fuite. Dites-vous plutôt que vous chargez vers une direction plus sûre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Si vous périssez ici, vous ne respecterez pas vos engagements envers votre déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Tous les enfants des dieux ont un but. Mon ami ardent, vous seul pouvez décider comment l'atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ohé, espèce de grosse lanterne de fond de cale ! Ça va être difficile de servir votre mégère de feu si vous êtes réduits en miettes !"
+
+Les mains sur les hanches, Serafen lève un regard noir vers le gigantesque Rathun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Et si Magran préfère que vous mouriez pour rien au lieu de survivre, c'est qu'elle ne vaut pas la peine qu'on la serve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Par où commencer... Hum, capitaine ?" Maia vous donne un coup de coude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Pourquoi vous me regardez ? Regardez plutôt le capitaine !" Les joues rouges, Tekēhu détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Que... qu'est-ce qui vous faire dire qu'il lui est arrivé quelque chose ?!" Le visage rouge tomate, Xoti s'étrangle et se tape la poitrine pour reprendre son souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Les membranes nictitantes de Pallegina se ferment puis se rouvrent tandis qu'elle tourne calmement la tête vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"À vous l'honneur, cap..."
+
+Serafen recule et se place bien à distance du seigneur de guerre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Bah, qui a besoin d'un vieux lézard de toute façon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Comment avez-vous pu songer un instant que cette dragonne vous laisserait la chevaucher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Répondez-moi, kith. Sans ruse ni mensonge." Il vous lance un regard mauvais, impatient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Je vous laisse le feu, moi je prends les vapeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Tous les dragons sont-ils si terribles ? Ne pouvons-nous pas tenter d'en charmer au moins un ?" 
+
+Tekēhu vous lance un regard plein d'espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Vous pensez que c'est une gentille dragonne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Que sont quelques petites flammes et vapeurs mortelles pour des héros comme nous ? ... Euh, attendez. Vous avez dit dragonne ?"
+
+Il se fourre un doigt dans l'oreille et le tortille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Hé, c'est génial. Maintenant, on n'a plus qu'à s'occuper de cette dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"C'est la dragonne qui m'inquiète."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"J'ai déjà battu des êtres tels que vous. Comment pouvez-vous imaginer m'arrêter, maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Étant donné les circonstances, j'accepte d'écouter vos justifications. Mais ma patience se consume rapidement, kith."
+
+Derrière son lourd masque, ses yeux brillent d'une lueur furieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Si ce doit être notre... ultime combat... nous devons nous préparer, soit pour la victoire, soit pour le sacrifice, afin que Magran nous pardonne nos échecs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Vous avez gagné le droit d'enflammer le sanctuaire avec le torque de la flamme éternelle. Mais nous ne pouvons pas encore nous joindre à vous pour affronter le profanateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Faites bien attention, car nous allons bientôt tuer un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"J'approuve cette initiative. Tant que la brenthís ne sera pas revenue avec la Vénérable, mes guerriers ne connaîtront pas la tranquillité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"La caverne s'est complètement effondrée. Tout le monde est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[Mentir] "Son âme a été absorbée comme celles des Rathuns dont Éothas s'est délecté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Je l'ai tuée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"J'ai été idiot de vous croire ! Avez-vous la moindre idée du sort auquel vous nous condamnez ?! EXPLIQUEZ-VOUS, sans quoi vous périrez sous les coups de ma masse d'armes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"La bête a tué la brenthís ainsi que vos guerriers. Je les ai vengés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Elle n'avait aucune intention de vous aider. Sa loyauté était feinte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Furieux, le seigneur de guerre se rue sur vous en brandissant sa masse d'armes. Ses guerriers se redressent et crient, puis ils se lancent au combat à sa suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"J'en serais honorée, bathor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Pourquoi auraient-ils permis à un kith de pénétrer dans les profondeurs de la Gueule ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Béni soyez-vous d'entendre la voix de Magran dans les flammes. Néanmoins, l'interprétation que vous faites de sa volonté ne change rien au devoir auquel sont soumis ses guerriers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Il est grand temps que nous mettions un terme à tout cela. Je suis prêt."
+
+Edér vous adresse un hochement de tête résolu. Il vérifie son équipement et resserre diverses sangles. Quand il a fini, il marmonne quelque chose dans sa barbe, pour se rassurer ou prier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"C'est la raison même de ma naissance. Allons rejoindre notre créateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Seul un imbécile ou un fou &lt;i&gt;souhaiterait&lt;/i&gt; quelque chose comme ça. C'est simplement notre devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Alors ?" Les muscles de son cou se contractent d'impatience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Il se tait, tandis que les motifs de sa peau flamboient ardemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Nous sommes donc condamnés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"La Vénérable les a attaqués ?!" Des flammes s'élèvent des lignes bouillonnantes sur la peau du seigneur de guerre tandis qu'il inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"La dragonne pouvait effectivement se montrer féroce et implacable, mais je pensais que la puissance de la brenthís parviendrait à imposer le respect à cette bête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Vous ?! Vous tuez mes frères, des champions de Magran, et vous avez l'audace de venir mettre ma colère à l'épreuve ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"La flamme de Magran brûle en vous, et pourtant je ne crois pas que vous soyez capable d'arrêter ce maudit profanateur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Déesse des flammes victorieuses, j'implore votre bénédiction !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Allumez en ce kith le feu éternel de votre esprit triomphant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Rekir, va dans la Tanière de la Vénérable et exécute mes ordres. Laisse ce kith te porter assistance, en supposant qu'il en trouve la force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"La bravoure brûle dans vos veines. Vous avez tout mon respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Kith, si vous revenez au sanctuaire avec le torque, et avec notre prêtresse, vous aurez prouvé votre valeur en servant la cause de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Le kith dit la vérité, bathor. Le cœur de la Vénérable était fourbe. Elle n'avait aucune intention de nous soutenir au combat. Pis, elle a retourné ses crocs et ses griffes contre notre prêtresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Le kith a détruit la dragonne et récupéré le torque. Je peux témoigner de la force de cette âme ardente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Le kith dit la vérité, bathor. Le cœur de la Vénérable était fourbe. Elle n'avait aucune intention de nous soutenir au combat. Pis, elle a retourné ses crocs et ses griffes contre notre prêtresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ne proférez pas vos sales mensonges devant le bathor, kith ! Dans le chaos qu'a déchaîné le profanateur, la Vénérable s'est retournée contre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Le kith dit la vérité, bathor. Le cœur de la Vénérable était fourbe. Elle n'avait aucune intention de nous soutenir au combat. Pis, elle a retourné ses crocs et ses griffes contre notre prêtresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Reviens victorieuse, rekir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"À vos ordres, bathor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Kith." Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Si vous lancez un assaut contre Éothas, vous serez massacrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Mourir pour Magran est le plus grand des honneurs. Nous ne vivons que pour protéger la déesse. Et servir sa volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Par Magran, qu'est-ce que ça signifie ?! Soyez sur le qui-vive, mes guerriers !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Et n'oublie pas..." Le regard du géant se tourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Ce sera fait. Vous avez ma parole, bathor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"J'ai tué votre dragonne, et maintenant je vais affronter Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"J'espère pour vous que vous dites la vérité. La Vénérable aurait constitué une alliée de poids contre Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Encore une fois, impossible. Non... impressionnant." Décontenancé, le seigneur de guerre grogne. Mais tandis qu'il vous jauge du regard, un respect inédit illumine les braises de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Quelle chance qu'on en ait un sous la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Le seigneur de guerre penche la tête, comme s'il tentait de comprendre la véritable signification de la réaction de votre camarade. Devenant soupçonneux, il resserre la prise autour de sa masse d'armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Mais si nous servons de sacrifice, car sans l'aide de notre brenthís ou de la Vénérable, la victoire semble peu probable, nous devons préparer notre âme à être reçue par Magran.
+
+"Les préparatifs rituels vont nous prendre un peu de temps. Mais j'imagine que vous êtes pressé d'affronter le dieu souillé et que vous ne voudrez pas patienter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Vous avez gagné le droit d'enflammer le sanctuaire avec le torque de la flamme éternelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Lorsque le seigneur de guerre vous aperçoit, ses épaules se raidissent et il saisit la masse d'armes sanglée dans son dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Vous êtes téméraire de nous attaquer au siège de notre pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Des kiths ?! Comment êtes-vous arrivés ici ? Non, ça n'a aucune importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

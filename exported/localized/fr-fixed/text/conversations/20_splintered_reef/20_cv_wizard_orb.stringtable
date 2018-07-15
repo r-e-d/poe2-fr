@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_wizard_orb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une sphère flotte devant vous, s'agitant sous l'effet de son propre pouvoir magique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sa surface couleur rubis est lisse et régulière comme le verre, illuminée de l'intérieur par une puissante aura arcane.
+
+Vous ressentez l'énergie qui se presse contre les contours de son réceptacle. Briser l'orbe la libérerait, bien que vous ignoriez tout des possibles conséquences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Détruire l'orbe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous frappez le verre. Des fissures apparaissent à sa surface, se propageant en une craquelure dissonante. 
+
+L'orbe se brise d'un seul coup, et son énergie en jaillit telle une chaude et radiante lumière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>La lumière des pulsations de l'orbe s'affaiblit, son pouvoir s'amenuise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Touchez à cela, aimoro, et je vous fendrai le crâne aussi facilement qu'une courge pourrie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Essayer d'atteindre l'orbe]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous tendez vaillamment le bras vers la sphère brillante. Mais avant que vos doigts ne puissent la toucher, Menzzago agite son sceptre en direction de votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous avez été prévenu. La seule chose qui vous attend désormais est un aller simple vers Hel. Corès, tête de courge. 
+
+"Transmettez mes salutations aux dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

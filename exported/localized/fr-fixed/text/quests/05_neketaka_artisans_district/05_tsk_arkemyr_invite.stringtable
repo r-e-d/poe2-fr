@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_arkemyr_invite</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une invitation cordiale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler à &lt;b&gt;Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; m'a invité à aller m'entretenir avec lui à son &lt;b&gt;manoir&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; souhaite me rencontrer en personne. Son &lt;b&gt;manoir&lt;/b&gt; se trouve au &lt;b&gt;promontoire de Periki&lt;/b&gt;, et je pourrai m'entretenir avec lui dans son &lt;b&gt;étude&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rencontré &lt;b&gt;Arkemyr&lt;/b&gt; dans son &lt;b&gt;manoir&lt;/b&gt;, comme il me l'avait demandé.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

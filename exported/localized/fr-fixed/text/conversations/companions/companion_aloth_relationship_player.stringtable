@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_relationship_player</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>333</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les doigts d'Aloth tripotent l'ourlet de sa tenue, et ses lèvres sont serrées en un pli étroit.
+
+Il vous adresse un regard familièrement incertain, comme s'il cherchait ses mots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pour une raison qui m'échappe, [Player Name], les dieux ont décidé de vous confier le destin du monde." Les yeux d'Aloth sont fixés sur vous, et son visage témoigne d'une sévère détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je dois bien l'avouer, nos aventures ensemble changent un peu de la routine." Aloth s'approche de vous, l'air plus à l'aise que vous ne l'avez vu depuis quelque temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Aloth vous regarde avec un sourire qui laisse entendre que vous partagez un merveilleux secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous avez l'air troublé. Vous voulez en parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Si vous continuez, votre visage va rester comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Il se détend quelque peu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'espère que vous savez l'immense respect que j'ai pour tout ce que vous avez accompli." 
+
+Il arrondit les lèvres avant l'inévitable « mais »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mais, ces derniers temps, je crains que vous nous meniez sur un chemin inquiétant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mais, ces derniers temps, vous ne semblez pas réaliser la gravité de la situation à laquelle vous faites face.
+
+"Ça me perturbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"S'il vous plaît, je dois être franc avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'en ai pris le contrôle dans l'espoir de changer tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Et c'est pour ça que j'ai décidé d'y mettre fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Mais, récemment, j'ai vu que vous aviez beaucoup trop confiance dans les vieilles méthodes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Poursuivre Éothas et traiter avec les dirigeants du Feu éteint fait peser sur vous d'énormes responsabilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ou de vous en ficher." Son expression s'assombrit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Qu'est-ce que vous voulez de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ne me faites pas la leçon. Jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"J'apprécie votre honnêteté, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nous savons tous les deux que les choix qui s'offrent à nous ne sont pas toujours clairs ou simples. 
+
+"Je vous demande seulement d'y prêter l'attention qu'ils méritent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Les chefs des nations et des factions vous écoutent. Les dieux eux-mêmes comptent sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je dois l'avouer, après avoir reçu tant de conseils de votre part, ça me fait bizarre que les rôles soient inversés." Il incline la tête, l'air réfléchi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je dois faire ce qui me semble juste. J'espère que vous pouvez respecter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je ne vous dois aucune explication."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Comme je l'ai dit, vous vous méprenez. Je prends ça au sérieux, même si je ne l'exprime pas de la façon que vous attendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je ferai de mon mieux, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pas plus qu'aucun d'entre nous ne puisse faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous vous trompez." Les kiths ont besoin des structures rassurantes de la tradition, aujourd'hui plus que jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ce sont des pièges, [Player Name]. Rien de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il soupire. "En tout cas, j'apprécie que vous preniez le problème à cœur.
+
+"Merci de m'avoir prêté l'oreille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Peut-être que, depuis le temps, je devrais savoir qu'il ne faut pas se fier aux apparences avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il hoche la tête. "Bien, merci de m'avoir écouté. Ça me soulage d'un grand poids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"À moi, peut-être pas, mais à tous les autres ? Ceux dont vous statuez du destin ?" Ses lèvres s'affaissent de dégoût.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il se fige, le choc lisible sur son visage.
+
+Après un instant, il est remplacé par un froid cynisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Contentez-vous d'y penser, [Player Name]." Il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Où est-ce que vous voulez en venir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je n'ai pas choisi ce rôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je le sais bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous croyez que j'ai choisi mon Éveil ? Ou mes responsabilités envers la Clef plombée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Écouter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Personne ne vous a imposé de succéder à Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Personne ne vous a poussé à traquer la Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous ne comprenez pas ce que je veux dire ! J'étais là, [Player Name]. C'est ce qui m'en a rendu responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Comme vous l'êtes d'Éothas, du Feu éteint et du reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous continuez de vous fonder sur des suppositions provinciales. De vulgaires superstitions." Il agite les mains avec animation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous continuez de faire comme si n'aviez de comptes à rendre à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ça peut sembler trivial, mais voyez où la confiance aveugle dans la tradition nous a menés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Regardez la Raveline. Un bidonville abominable, tout ça parce que la tradition huana sépare les castes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je vous ai parlé des carnages dans Vailia l'Ancienne, n'est-ce pas ? Des générations de souffrance, et tout ça pour des raisons que personne n'a même comprises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vous avez vu les Wahakis. Ils sont devenus une petite tribu isolée et paranoïaque parce qu'aucun d'entre eux n'a même pensé à remettre leur haine des étrangers en question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ou est-ce que vous pensez que Bearn et les autres auraient suivi Gaderian Bosc sans leur foi inébranlable dans la tradition éothasiane ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Et, dans le Dyrwood, vous avez vous-même avoué que la quête de l'aîné de Sagani représentait cinq ans de gâchis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous pouvez sûrement vous rendre compte du danger que cela représente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vous vous trompez." Le traditionalisme peut aussi avoir ses avantages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je prends les meilleures décisions possibles. Vous devriez savoir combien c'est difficile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Marrant, je ne me souviens pas avoir vu les dieux vous envoyer trouver Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Éclairez ma lanterne." Il croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je suppose que oui." Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je vous demande pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je vous apprécie, Aloth. Mais j'ai besoin que vous me fassiez confiance et que vous suiviez ma voie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Que vous soyez d'accord avec mes décisions ou non, vous devez les respecter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Le sujet est clos entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Alors, il l'est." Il se détourne, furieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il garde le silence quelques secondes. Après un moment, il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"J'imagine que vous avez raison." Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je ne peux pas prendre vos décisions à votre place. Mais j'espère que vous tiendrez compte de mon avertissement." Sur ce, il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Les Príncipis ont survécu en tant que nation flottante grâce à la culture qu'ils partagent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous vous montrez aussi dogmatique que vous m'avez accusé de l'être. Rejeter les traditions par principe ne vaut pas mieux que de s'y fier pour la même raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Les traditions de Sagani l'ont formée et amenée à nous. Elle y trouvait du sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"La Raveline est dans un état déplorable du fait que les étrangers y aient traîné tant de Huanas. Dans les villages, le système des castes rapproche les gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je ne voulais pas sous-entendre... euh, peu importe." Il blêmit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les traditions des Étoiles de l'aube ont maintenu leur cohésion ici. La secte de Bosc fait exception."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Écoutez, il y a des gens pour qui ça marche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Je n'y avais pas pensé sous cet angle." Il a une expression aigrie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je suppose que c'est ainsi." Il fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Peut-être que ce n'est pas aussi simple que je le croyais.
+
+Mais j'espère tout de même que vous tiendrez compte de mon avertissement." Il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Oui, ce qui les rend ignorants et suffisants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Mais, que vous le vouliez ou non, la responsabilité des vies placées entre vos mains vous incombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous ne pouvez pas vous en défaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vous avez raison. Je tâcherai de faire plus attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Croyez-vous pouvoir me dire de porter le poids du monde sur mes épaules alors que vous croulez sous le poids de vos propres fardeaux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ou bien quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je mérite sans doute plus de considération que ça." Il se renfrogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je ne peux pas tout faire. Pour l'instant, la priorité c'est Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"On jurerait entendre parler Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je vous demande pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"C'est sûrement différent. Thaos était un cinglé." Mais le doute s'est insinué dans ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Lui aussi pensait que les dieux l'avaient mis en position de décider du destin des kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Même Thaos pensait bien faire. C'est pourquoi j'hésite à endosser de telles responsabilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Il vous regarde pendant quelques secondes en silence, se demandant s'il doit vous croire ou non.
+
+Enfin, il pousse un soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Vraiment ?" Ses narines se dilatent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Qu'est-ce qui vous fait dire ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Merci, Aloth. J'apprécie également votre compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Attention, vous allez me faire rougir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nous faisons une bonne équipe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Il entrelace ses doigts en réfléchissant à votre question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Quand j'ai fait votre connaissance dans le Dyrwood, vous luttiez pour votre santé mentale. À présent, vous combattez pour votre âme."
+
+Il marque une pause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je n'imagine même pas le poids de ce fardeau. Et pourtant, vous l'avez pris à votre charge... et plus encore, remarquablement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ce n'est pas comme si j'avais vraiment le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Les choses ont viré au cauchemar, mais je ne me laisserai pas abattre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Mais vous l'avez." Son visage s'éclaire d'une émotion soudaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"C'est exactement ce que je veux dire." Son visage s'éclaire d'une émotion soudaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Il rit. "Vous voyez ce que je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"En effet, oui."
+
+"Mais c'est plus que ça." Il entrelace ses doigts, pesant ses mots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vous avez l'air de ne pas trop mal vous en tirer non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Content de donner cette impression.
+
+"Mais je suis loin d'être dans une situation comparable à la vôtre." Il vous adresse un sourire presque apitoyé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Alors, vous n'avez rien remarqué !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Il glousse. "Et Berath non plus, j'imagine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ça vous place dans une position incroyablement influente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"J'estime que vous êtes d'une gentillesse rare." Il vous adresse un sourire chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"J'estime que vous avez des principes forts." Il vous adresse un sourire chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Vous avez souvent l'air... indifférent à ce qui arrive autour de vous." Il plisse les yeux pensivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"J'ai toujours trouvé que vous étiez quelqu'un de réfléchi et de mesuré." Il vous adresse un signe de tête respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"J'ai trouvé que vous aviez un comportement parfois... énergique. Voire même impétueux." Il vous adresse un petit sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Il est même parfois difficile d'évaluer ce qui compte vraiment pour vous." Il plisse les yeux pensivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Je me réjouis que vous ne preniez pas vos responsabilités à la légère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Je me dois de faire ce qui sera le mieux pour le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Je me contente de pondérer les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Je me contente d'improviser au fur et à mesure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Les circonstances me donnent l'occasion d'aider les autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Au final, ce que nous faisons importe peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Est-ce là ce que vous pensez ?" J'aime simplement vous laisser dans l'incertitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Peut-être bien. Mais vous devez savoir combien de vies sont en jeu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Comme nous tous. Mais si peu d'entre nous se trouvent en position de faire autant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Si seulement les gens pensaient davantage comme vous." Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"À Ombre ensoleillée, vous avez décidé du destin de milliers d'âmes. J'espère bien que vous avez pesé le pour et le contre."
+
+Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Il part d'un rire forcé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous pourriez penser autrement si c'était votre âme qui se trouvait dans la balance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vraiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je ne voulais pas donner une impression d'indifférence. C'est juste que..." Son visage se fronce, comme s'il essayait d'en arracher les mots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Tant mieux, mais je n'ai pas envie d'en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Au moins il y en a un, ça rassure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Je préfèrerais ne pas en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Moi aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je suis rarement certain de quoi que ce soit, et encore moins quand il s'agit des grandes affaires entre dieux et kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"J'admire cette faculté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Écouter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Mes instincts me poussent dans la bonne direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"J'essaie juste de faire au mieux pour un maximum de gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Il s'agit de bien réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Tout ce qui compte, c'est la sincérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"J'affronte chaque problème avec autant de volonté que je peux rassembler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Rien ne dure. C'est facile de prendre des décisions quand on garde ça à l'esprit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"C'est exactement ce que je veux dire." Il claque des mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Je ne sais pas si je pourrais prendre les décisions que vous prenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Je ne suis pas si confiant que vous semblez le penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Je crois que ce que je veux dire, c'est que si on doit être coincés entre les dieux et la Roue, je me réjouis de vous avoir de notre côté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Allons bon, à vous entendre, ça a l'air facile." Il lève les yeux au ciel. Il ne vous croit pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Et je me réjouis de vous avoir du mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"La prochaine fois que Berath me fera mander, je vous laisserai chanter mes louanges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Il rit. "Avec plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ça me touche beaucoup." Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Bon, j'espère que vous m'excuserez, mais je dois absolument étudier mon grimoire." Il se racle la gorge, l'air soudainement emprunté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Si vous le dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Les dieux vous ont fait traquer Éothas. Et chaque puissance notable du Feu éteint a ses propres plans vous concernant."
+
+Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Mais je me réjouis que vous ne preniez pas vos responsabilités à la légère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"En tout cas je me réjouis que vous ne preniez pas vos responsabilités à la légère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"J'espère que vous vous en souviendrez dans les jours à venir." Il acquiesce pensivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Si seulement les gens faisaient pareil." Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je vous en prie... souvenez-vous en dans les jours à venir." Il acquiesce pensivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Après tout ce que nous avons vu, comment pouvez-vous dire ça ?" Il vous jette un regard acéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Pour la première fois depuis longtemps, j'ai entière confiance dans la voie que j'emprunte. Dans ce que je fais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Avec vous, je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Nous sommes assez différents, vous et moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Nous avons tellement de choses en commun, vous et moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Vous avez de l'audace. De l'impétuosité. Plutôt comme Iselmyr, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Nous avons tendance à garder nos problèmes pour nous. Pour de bonnes raisons, je n'en doute pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Vous ne transigez pas. Vous n'êtes pas timide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Nous pesons tous les deux nos mots. Pour de bonnes raisons, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Nous réfléchissons tous deux avant d'agir. Une habitude intelligente, mais horriblement rare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Peut-être est-ce pour ça que vous savez trancher quand que je reste indécis. Vous savez ce qui doit être fait, et vous n'hésitez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Et pourtant, vous savez trancher quand je demeure incertain. D'une manière ou d'une autre, vous savez ce qui doit être fait, et vous n'hésitez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Mais vous avez toujours l'air si assuré. D'une manière ou d'une autre, vous savez ce qui doit être fait, et vous n'hésitez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Mon bref mandat auprès de la Clef plombée m'a enseigné que votre position n'avait rien d'enviable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Ma brève traque de la Clef plombée m'a enseigné que votre position n'avait rien d'enviable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Où voulez-vous en venir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Croyez-moi, je préfèrerais ne pas devoir porter ce fardeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ce défi est le bienvenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Vous êtes trop modeste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Et pourtant, vous l'avez supporté sans faillir. C'est le propre du devoir, n'est-ce pas ? Faire ce qui doit être fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Je suis content que vous le pensiez. Si peu de gens en seraient capables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Quels que soient mes défauts, le manque de lucidité envers moi-même n'en fait pas partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>La commissure de ses lèvres se contracte en une joie mal dissimulée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Si ça marche pour vous, c'est le principal." La confusion lui fait froncer les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Thaos comptait sur la confiance aveugle des gens pour l'ordre. Leur enchaînement à la tradition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Quoi que ce soit, je ne veux pas l'entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Parlez sans détour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Parlez sans détour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>C'est comme ça qu'il a fait de la Clef plombée une organisation capable d'influencer le cours des choses en Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Vous avez pour charge de saisir ces opportunités afin de libérer les kiths de leurs habitudes néfastes et coutumes obsolètes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Je souhaiterais juste que vous preniez votre rôle plus au sérieux. Vous avez si souvent l'air d'oublier les vies qui dépendent de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Vous vous méprenez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"J'espère bien." Il se frotte le front, l'air épuisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Au moins, je sais où on en est." Il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Peut-être. Mais je ne peux pas régler tous les problèmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Bien sûr que non. Je ne vous demande que de faire votre possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Peut-être bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Je ne pourrais pas mieux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ça me soulage de l'entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Je sais que j'ai exprimé des doutes tout à l'heure.
+
+"Je les retire tous, [Player Name]." Il vous regarde, l'air contrit mais plein d'espoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Je vous ai dit plus tôt avoir confiance en votre capacité à choisir la bonne voie. Votre façon d'assumer vos fardeaux."
+
+Il arrondit les lèvres avant l'inévitable « mais »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Je vous écoute, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Je vous écoute, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"En tant que prêtre, c'est peut-être difficile pour vous. Vous avez la tradition et la liturgie dans le sang, je suppose.
+
+"Mais ces choses peuvent servir de béquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Je comprends que les moines soient attachés à leurs coutumes.
+
+"Mais elles peuvent servir de béquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Vous avez quitté votre foyer par rébellion envers l'ordre en place. 
+
+"Alors, cela me surprend de vous voir vous y accrocher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Je sais que vous ne faites pas les choses au hasard. Que vous êtes logique.
+
+"Alors, ça me surprend de vous voir vous accrocher aux vieilles coutumes, par réflexe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"L'Histoire était votre métier. Je ne doute pas que vous ayez vu les risques à se complaire dans le passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Quand vous travailliez dans les sciences, vous avez sûrement appris la supériorité de la logique sur l'intuition.
+
+"Alors, ça me surprend de vous voir vous raccrocher à la nostalgie et aux usages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Vous n'avez probablement pas l'habitude d'exercer l'autorité. Après tout, vous avez bel et bien quitté votre pays natal par rébellion envers les pouvoirs en place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Je vous suspecte d'avoir une relation... pénible avec l'autorité." Il grimace, se frottant les phalanges. Il tente de faire attention où il met les pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Neketaka subit peut-être des divisions, mais sa population vous prend pour exemple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Je sais que vous avez un lourd passé. Vous avez appris à prendre soin de vous, et l'habitude d'aller où le vent vous porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Ceci dit, la traque d'Éothas et les négociations avec les dirigeants du Feu éteint vous ont placé en charge d'énormes responsabilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Je sais que vous vous souciez profondément de nombreuses choses. Et vous ne vous gênez certainement pas pour l'exprimer." Un sourire las apparaît avant de s'évanouir aussi vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Vous faites si souvent attention à vos paroles. Je m'explique d'autant moins que vous puissiez faire preuve de tant d'insouciance à d'autres égards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Vous avez bon cœur. Vous l'avez suivi plus d'une fois, comme j'ai pu le constater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Vous avez grandi avec un bon statut social et des privilèges. Peut-être n'avez-vous jamais endossé la responsabilité qui va avec le pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"J'admire votre sincérité et votre franc-parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Peut-être que Neketaka ne vous admire pas au plus haut point, mais que les gens vous aiment ou non, vous avez quand même un devoir envers eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"J'espère que vous pourrez garder ça en tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Vous savez, je crois que vous appréciez avoir un adversaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Je vous demande pardon ?" Un éclair d'indignation illumine son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"C'est comme ça que vous vous êtes toujours défini... en vous confrontant à quelqu'un d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Fi donc, Gardien, vous comprenez son dilemme, maintenant !" La malice éclaire les yeux d'Aloth alors qu'Iselmyr fait une brève apparition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Il lève les yeux au ciel et s'esclaffe d'un rire énervé.
+
+Il est un peu trop bruyant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Vous pensez avoir tout compris, hein ? 
+
+"Eh bien peut-être que vous ne me connaissez pas aussi bien que vous le pensez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Peut-être que j'aimerais bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Quoi ?" 
+
+C'est comme si vous l'aviez arrosé d'eau glacée. 
+
+Il vous regarde fixement, la bouche entrouverte, les yeux clignant sous la confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[L'embrasser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Je vous respecte. Mais rien ne nous oblige à accepter de travailler ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Allez, pourquoi avez-vous suivi la Clef plombée de Thaos pendant si longtemps ? Ou Iselmyr ? Ou moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>[Attendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Iselmyr ricane "Dites-lui, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Il commence par se figer. Il lève les bras, comme pour vous repousser. 
+
+Mais au lieu de ça, il tire sur l'avant de votre tenue pour vous rapprocher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Vous le sentez en conflit avec lui-même (ou peut-être avec Iselmyr) alors qu'il se penche vers vous, ses raides épaules posées contre vous.
+
+Et pourtant, même s'il appuie sa bouche contre la vôtre, même s'il vous attire à lui, ses bras levés semblent former une barrière entre vous.
+
+Il est difficile de savoir si c'est la passion ou la colère qui l'anime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Il s'éloigne enfin, vous regardant avec circonspection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Je suis solitaire la plupart du temps, et c'est un moment plus qu'inhabituel pour tisser des liens intimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Nous nous complétons mutuellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"C'est juste pour s'amuser. Vous devez apprendre à vous détendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Voulez-vous &lt;i&gt;bien&lt;/i&gt; parler simplement, comme une personne normale pour une fois ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Vous avez raison. Il se passe trop de choses en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Peut-être, mais en quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Vous allez peut-être trouver ça difficile à croire, mais vous n'êtes pas la première personne à me dire ça." Il vous adresse un sourire plein d'autodérision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"C'est déjà assez difficile de partager ses pensées avec quelqu'un d'autre." Il lève les yeux en arquant rapidement les sourcils, comme si Iselmyr vous écoutait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"J'ai passé le plus clair de ma vie à cacher à tout le monde des facettes de moi-même... mon nom, mon identité, mon Éveil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Je ne sais pas si je peux en supporter davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Je comprends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Vous ne serez jamais personne si vous laissez Iselmyr vous freiner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Peut-être un jour, quand cette affaire avec Éothas sera réglée." Il hausse les épaules. Incertitude et regret plissent les coins de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Il glousse. "Si elle avait son mot à dire à ce propos, je ne manquerais pas de... compagnie intime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Je ne sais pas si je connais une autre façon de faire, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Ne pouvez-vous pas essayer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Rien ne vous y force. Nous pouvons aller à votre rythme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Il soupire, regardant entre ses pieds.
+
+Il semble épuisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Je suis désolé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"&lt;i&gt;Très bien&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Il se passe juste trop de choses, en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Il se détourne, secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Il hoche la tête avant de se détourner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Mes excuses." Il vous adresse un sourire plein d'autodérision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"C'est ce que j'essayais de dire. J'ai besoin de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"... Comme vous voudrez." Il se détourne, les sourcils froncés par la confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Oubliez ce que j'ai dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Prouvez-moi le contraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Je n'en ai pas besoin, [Player Name]. Je n'ai rien à vous prouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Laissons tomber, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Excellente idée." Il part précipitamment, l'air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"J'imagine que vous avez raison." Il soupire. Il semble épuisé.
+
+Et confus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Si vous voulez bien m'excuser, je pense que j'ai besoin d'un moment, seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Et c'est &lt;i&gt;vous&lt;/i&gt;, parmi tous les interlocuteurs possibles, qui allez &lt;i&gt;me&lt;/i&gt; parler d'un excès de combativité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Et c'est &lt;i&gt;vous&lt;/i&gt;, parmi tous les interlocuteurs possibles, qui allez &lt;i&gt;me&lt;/i&gt; parler de dogmatisme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Oui, je dirais que notre poursuite d'Éothas nous a laissé de quoi nous occuper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"En tout cas, merci quand même pour cet... intermède." Il sourit et se détourne rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Les dieux vous ont fait traquer Éothas. La population de Neketaka vous admire. Et chaque puissance notable du Feu éteint a ses propres plans vous concernant."
+
+Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Je tiens beaucoup à vous, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Vraiment. Vous êtes un bon ami."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>[L'embrasser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Vous le sentez en conflit avec lui-même alors qu'il se penche vers vous, ses raides épaules posées contre vous.
+
+Et pourtant, même s'il appuie sa bouche contre la vôtre, même s'il vous attire à lui, ses bras levés semblent former une barrière entre vous.
+
+Il est difficile de savoir si c'est la passion ou la colère qui l'anime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Au début, il est figé de surprise. 
+
+Mais il vous rend votre baiser. D'abord lentement, mais avec insistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Ses épaules sont raides et son dos tendu, bien qu'il se penche vers vous. Une main se pose dans le creux entre vos omoplates, et l'autre caresse délicatement l'arrière de votre tête. 
+
+Il vous embrasse comme s'il avait peur de trop vous serrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Alors qu'il s'éloigne, ses yeux sont emplis de questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Eh bien, c'était... inattendu.
+
+"Mais pas déplaisant." Un sourire titille les commissures de ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Bon, j'espère que vous m'excuserez, mais je dois absolument étudier mon grimoire." Il se racle la gorge, l'air soudainement emprunté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Ses oreilles rougissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Est-ce que c'était trop ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Alors, pourquoi pas un petit rappel ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Non ! "Pas du tout." Il s'excuse avec un peu trop d'empressement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Il rit, mais il y a un brin de tension dans sa voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"J'ai toujours été de nature solitaire. 
+
+"Ceci dit, ç'a tout de même été un soulagement de pouvoir baisser ma garde avec vous."
+
+Ses lèvres se plissent en un froncement pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Mais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Je veux que vous vous ouvriez à moi, Aloth. Ne cachez rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Ça me ferait très plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Il grimace. "C'est bien le problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Et vous avez commencé à compter pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Alors, j'espère que vous comprendrez mon point de vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"J'ai passé le plus clair de ma vie à cacher à tout le monde des facettes de moi-même... mon nom, mon identité, mon Éveil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Je ne sais pas si je connais une autre façon de faire, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"N'emprisonnez pas vos sentiments, Aloth. Laissez-moi une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Rien ne vous y force. Je veux simplement être avec vous comme vous êtes, quoi que cela implique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Je ne parle pas d'espace physique, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Je ne sais pas exactement où nos pérégrinations vont nous mener. Ni ce qui va arriver quand nous trouverons Éothas." Il baisse les yeux vers ses mains jointes, comme si la réponse à ses questions s'y trouvait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Après avoir vécu avec Iselmyr pendant si longtemps, j'ai fini par apprécier l'intimité. L'espace pour penser et réfléchir dans la solitude." Il vous regarde, évaluant votre réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Il joint les mains, en proie à la réflexion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Je ne désire nullement vous en priver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Rien ne vous force à vous isoler de moi, désormais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Je devrais probablement vous rappeler que nous vivons sur un bateau..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Je ne veux pas m'engager auprès de vous sans pouvoir tenir mes promesses. Et je ne veux certainement pas vous tromper au sujet de mes intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Et je devrai retourner à mes obligations concernant la Clef plombée si nous survivons à cette épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Alors, peut-être n'est-ce pas le bon moment pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Ne nous obligeons mutuellement à rien. Profitons simplement de notre temps ensemble... aussi court qu'il puisse être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Il sourit. "Oui, ça me tente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Il acquiesce doucement. "Peut-être pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"En tout cas, je ne regrette pas un seul instant que nous avons passé ensemble, [Player Name]. 
+
+"Je me réjouis que nous en ayons parlé." Son sourire ne vacille que brièvement avant qu'il se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"À propos d'Iselmyr, qu'est-ce qu'elle devient, dans tout ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Voyez-la comme une voisine indiscrète... pas toujours présente, mais rarement loin.
+
+"En tout cas, elle est le cadet de mes soucis." Il inspire, pour se préparer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Il se recule un peu, tripotant le tissu de sa ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Vous n'êtes pas la cause de mes réticences, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Je suis désolé, [Player Name]. Je ne peux pas faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

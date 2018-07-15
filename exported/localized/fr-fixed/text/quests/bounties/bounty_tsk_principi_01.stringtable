@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_principi_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Chornu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer Chornu et vous emparer du triomphe de son navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Udita&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Udita&lt;b&gt; m'a engagé pour traquer &lt;b&gt;Chornu&lt;b&gt;, un capitaine rauatai commandant le prao le &lt;b&gt;Rassemblement anticipé&lt;/b&gt;. Il y a une prime à toucher en échange d'une preuve de la mort du capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Chornu&lt;b&gt; et le prao le &lt;b&gt;Rassemblement anticipé&lt;/b&gt; fréquentent les eaux au &lt;b&gt;nord de Neketaka&lt;b&gt; et au &lt;b&gt;sud de Sayuka&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je peux désormais récupérer la prime mise sur la tête de Chornu. Je peux retrouver &lt;b&gt;Udita&lt;b&gt; au &lt;b&gt;Refuge du porteur&lt;b&gt; de Dunnage pour récupérer ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis occupé de Chornu et j'ai collecté la prime mise sur sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

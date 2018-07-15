@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_supply_wagon_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous apercevez au loin un simple chariot. L'angle auquel il repose sur la route, un côté plus élevé que l'autre, laisse à penser qu'il est endommagée. Même depuis votre point de vue, vous apercevez des kiths qui s'affairent autour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Inspecter le chariot] "Laissez-moi jeter un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Les menacer] "Donnez-moi tous vos biens de valeur ou vous rejoindrez Éothas plus tôt que vous ne l'imaginiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Les Étoiles de l'aube échangent des regards, et l'homme déglutit. Il vous tend une bourse.
+
+Une jeune mère se place devant son enfant avec une attitude protectrice. "Nous ne sommes pas de riches voyageurs, mais le peu que nous avons est à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Un des pèlerins remarque votre présence. Elle effectue un pas de recul, attirant l'attention de ses compagnons, et un homme au gambison usagé s'avance. Son visage arbore le poids d'une lourde préoccupation.
+
+"Les rêves vous ont-ils menés ici, vous aussi ?"
+
+Les autres pèlerins vous contemplent avec un mélange d'espoir et d'appréhension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nous devrions les aider. Ce sont mes frères, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Approcher sans vous cacher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Partir] "Je n'ai pas le temps pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Une inspection rapide révèle que le chariot n'est pas endommagé, mais que la roue est prise au piège dans la boue.
+
+"Nous avons du bois", déclare le vieil homme en indiquant l'arrière du chariot. "Si nous arrivons à soulever le chariot, nous pourrons le glisser dessous."
+
+Vous voyez plusieurs planches de bois dans le chariot. Une petite cassette pour objets de valeur est posée sur le côté.
+
+L'un des cadets parmi les Étoiles de l'aube vous regarde, les yeux écarquillés. "Pensez-vous pouvoir le soulever ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Tenter de soulever le coin du chariot]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Tenter de voler la cassette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Vous prenez appui contre le coin du chariot, vous vous ramassez sur vous-même, puis vous arrachez la roue à la boue avec un grognement d'effort. Un jeune Étoile de l'aube vous fixe bouche bée pendant un instant, mais il réagit à temps pour glisser une planche épaisse sous la roue. Il faut ensuite une bonne heure pour poser une voie stable permettant au chariot de s'extraire de la boue en roulant. Les Étoiles de l'aube auxquels vous avez demandé de l'aide sont couverts de sueur, comme vous l'êtes vous-même, mais ils sont heureux et chantent des louanges à Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous prenez appui contre le coin du chariot, saisissez la partie inférieure de la roue, puis tirez vers le haut.
+
+La roue s'arrache difficilement de la boue et l'un des jeunes Étoiles de l'aube se précipite pour glisser une planche dessous. C'est alors que vos forces vous abandonnent. Le coin du chariot échappe à votre prise et la roue s'abat violemment sur la planche mal alignée, ainsi que sur la main du jeune homme, avec un craquement écœurant.
+
+Il crie de douleur, tandis que la roue glisse de la planche et s'enfonce encore plus profondément dans la boue. "Par les dieux !" Le vieil homme s'agenouille pour s'occuper du jeune homme, puis lève la tête vers vous.
+
+"Je croyais que vous étiez là pour nous aider, non pour aggraver notre situation !" Plusieurs des Étoiles de l'aube vous adressent des regards noirs et marmonnent entre eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Vous sautez sur le chariot et prenez le temps d'examiner les planches et de les bouger ça et là. Vous profitez de l'occasion pour glisser habilement la cassette dans votre sac à dos.
+
+Vous vous laissez retomber au sol, arborant un air pensif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous dévaliseriez des voyageurs implorant votre aide ?" Le pèlerin en armure secoue la tête et dégaine son épée. "Puisse le Rédempteur avoir pitié de votre âme !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Attaquer] "Dommage que ce ne soit pas suffisant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Vous apercevez un chariot au loin. Elle semble abandonnée, mais un coup d'œil au ciel montre que des vautours tournent autour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Et le cycle se poursuit. Même si le corps est dépouillé de son enveloppe ainsi, l'âme trouvera le chemin d'un nouveau commencement." 
+
+Xoti baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"J'espère que le fait que vous les ayez plantés n'attirera pas ce qui les a mis dans cet état, cap."
+
+Les oreilles de Serafen tressautent tandis qu'il scrute les abords de la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je suis heureux que quelqu'un veille sur eux, même si ce n'est pas nécessairement Éothas. J'apprécie ce que vous avez fait." Edér hoche la tête à votre attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Approcher sans vous cacher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Deux charognards sont perchés sur le côté de la charrette, et un autre sautille au sol, un lambeau de chair rouge vif pendant de son bec. 
+
+L'intérieur du véhicule est jonché des formes de cadavres épars, et le panneaux latéraux sont criblés de flèches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Fouiller le chariot]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Enterrer les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Brûler les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Vous vous attelez à votre tâche sinistre, et vous ne remarquez que trop tard le bruit de bottes tout autour de vous.
+
+Un groupe de brigands bien armés et en armure encercle le chariot. L'un d'entre eux s'avance en laissant échapper un petit rire.
+
+"Regardez ce qu'on a là, les gars. Un gros poisson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Quitter la route et éviter le chariot complètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>En vous rapprochant du chariot, vous distinguez un groupe de pèlerins readcerans vêtus d'habits frustes en lin et en coton. L'unique cheval de trait trépigne, tandis que deux des pèlerins ont une discussion animée en se tenant au-dessus de la roue avant droite, qui est irrémédiablement prise au piège dans la boue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>En vous rapprochant du chariot, vous distinguez un groupe de pèlerins readcerans vêtus d'habits frustes en lin et en coton. L'unique cheval de trait trépigne, tandis que deux des pèlerins ont une discussion animée en se tenant au-dessus de la roue avant droite, qui est irrémédiablement prise au piège dans la boue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Vous quittez discrètement la route, et tracez votre chemin à travers les broussailles, passant d'une cachette à l'autre en faisant profil bas. Vous évitez facilement l'attelage et retournez sur la route quelques heures plus tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Vous quittez discrètement la route et tracez votre chemin à travers les broussailles, mais vous entendez des cris. Lorsque vous vous tournez vers l'attelage, vous voyez les kiths vous faire signe et vous les entendez vous supplier de les aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Les yeux des pèlerins s'écarquillent lorsque vous dégainez vos armes. La jeune mère pousse un hurlement et court en direction de la forêt avec son enfant. Ses compagnons de voyage s'apprêtent à se défendre...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Prononcer une bénédiction] "Frères et sœurs, vous avez été témoins de la venue de notre seigneur. Prions ensemble en remerciement de cette opportunité qui nous permet de démontrer notre foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Les pèlerins répondent en inclinant la tête et en murmurant des prières, encouragés par votre démonstration de piété.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Vous feignez un intérêt pour les planches et vous glissez la cassette en direction de votre sac à dos. Votre gestuelle peu experte fait glisser la cassette du chariot et elle tombe au sol, générant le niveau de bruit exact qu'un voleur souhaiterait éviter. Les Étoiles de l'aube fixent la scène du regard un moment, abasourdis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Partir] "Je crains ne rien pouvoir faire pour votre chariot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Les pèlerins hochent la tête, déçus, mais ils vous remercient de leur avoir consacré votre temps et vous saluent en inclinant la tête tandis que vous vous éloignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Leur chef vous adresse un sourire et presse une petite bourse emplie de pièces dans votre paume. "Nous vous sommes reconnaissants de votre aide. Qui sait combien de temps nous serions restés coincés ici, sans votre aide." Ils se mettent à apprêter leurs chariots tandis que vous prenez congé d'eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Une jeune Étoile de l'aube s'approche de vous en hâte. "Merci pour votre aide et pour votre bénédiction." Elle vous tend un panier de baies noires qu'elle avait récoltées pendant que les autres travaillaient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[Quitter la route et éviter le chariot complètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Vous quittez discrètement la route, ramassé sur vous-même, effectuant chaque pas avec grande précaution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Tandis que le chariot passe à la périphérie de votre vision, vous apercevez un groupe de brigands armés et en armure, accroupis devant vous, en train de guetter l'attelage.
+
+Ils n'ont pas remarqué votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Vous passez un bosquet et vous vous retrouvez nez-à-nez avec un groupe de brigands armés et en armure. Ils sursautent, dégainant leurs armes à la hâte.
+
+L'un d'entre pointe sa lame vers vous et s'écrie : "Merde, les gars ! Tranchez-les en rondelles !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Les appeler] "Ohé ! C'est moi que vous cherchez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Les laisser à leurs affaires et poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Les brigands se lèvent d'un bond et se tournent vers vous en dégainant leurs armes.
+
+L'un d'eux cligne des yeux, bouche bée. "Sérieusement ? Vous aviez l'avantage de la surprise et vous nous avez appelés ? À quel jeu jouez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Examiner les cadavres]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Les cadavres des aumauas portent de nombreuses lacérations causées par des lames, ainsi que de nombreux impacts de flèches, et tout autour du chariot le sol est gorgé de sang. Vous trouvez trois adultes et deux jeunes individus. 
+
+Une famille, peut-être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Ça me dit rien qui vaille, cap."
+
+Serafen a la main posée sur son arme tandis qu'il contemple la scène du massacre, les sourcils froncés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>L'homme se redresse légèrement, un sourire narquois aux lèvres. Sa lèvre se gonfle tandis qu'il passe la langue sur ses dents du dessus.
+
+"Huit mille pands, alors. Dans la monnaie qui vous conviendra." Il vous toise de la tête aux pieds.
+
+"Vous semblez pouvoir vous le permettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Les lèvres de l'homme de tête sont agitées d'un spasme, mais il ne se retourne pas pour regarder les autres brigands. Au lieu de cela, il resserre sa prise sur sa lame.
+
+"Alors il vaut mieux que je m'assure que vous êtes bien mort, pas vrai ? Tuez-les tous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Le brigand observe deux de ses sbires vous soulager d'un coffre chargé de pièces.
+
+"Une joie de faire affaire avec vous. Allons-nous-en, les gars. Celui-ci s'est acheté un jour de plus."
+
+Les brigands s'éloignent, sans vous quitter du regard et en vous couvrant de leurs armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Vous entendez ça ? Personne ici n'a quoi que ce soit à gagner d'un affrontement !" Les brigands éclatent de rire en entendant leur chef. Le regard de ce dernier se plonge dans le vôtre. "Personne, sauf ceux qui seront toujours debout. Tuez-les tous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Que diriez-vous que je vous paie le passage, et que nous restions tous en vie ? Nul besoin que ce chemin fasse encore office de tombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Vous allez détrousser [Player Name], allié des Príncipis ? Vous savez certainement comment cela se terminera pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Tournez les talons et allez-vous-en, ou je déchirerai vos âmes en lambeaux après avoir dépecé votre chair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Personne n'a quoi que ce soit à gagner d'un affrontement entre nous. Contentons-nous de partir chacun de notre côté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Attaquer] "Vous avez assassiné ces gens ! Vous ne méritez pas ma pitié !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Vos parties sensibles, on va en faire de la pâtée pour appât."
+
+Serafen lance un regard mauvais aux brigands, l'arme au clair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ces ordures s'en prendront à d'autres voyageurs lorsque nous serons partis. Ils ne méritent pas de dignes sépultures, et encore moins la &lt;i&gt;pitié&lt;/i&gt;."
+
+Pallegina serre les dents, et vous apercevez déjà des flammèches apparaître au bout de ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Vous voulez leur donner de l'argent ? C'est à eux de payer pour ce qu'ils ont fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Cinq mille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Attaquer] "Maia ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[Attaquer] "Désolé, votre vie ne vaut pas tant que ça pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>L'homme incline légèrement la tête de côté en entendant ces syllabes, puis elle éclate dans une gerbe de brume sanguinolente. La déflagration assourdissante de l'arme de Maia se fait entendre un instant plus tard. 
+
+Si la mort de leur chef affecte les brigands, ils ne le montrent pas. Ils foncent en avant, tels une déferlante d'acier étincelant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>L'homme laisse échapper un petit rire.
+
+"Vous entendez ça, les gars ? On dirait qu'on va ramasser au moins cinq mille pands. Tuez-les tous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[Approcher sans vous cacher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Specified 2] saute dans le chariot pour inspecter les planches, et en redescend quelques minutes plus tard, vous adressant un hochement de tête discret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Specified 2] saute dans le chariot pour inspecter les planches, tirant profit de cette opportunité pour glisser la cassette dans son sac à dos. Malheureusement, [Specified 2] n'est pas à la hauteur. La cassette glisse du bord du chariot et tombe au sol, générant le niveau de bruit exact qu'un voleur souhaiterait éviter. Les Étoiles de l'aube fixent la scène du regard un moment, abasourdis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"La roue est aussi coincée qu'elle peut l'être. Aucun d'entre nous n'a la force nécessaire pour soulever ce coin du chariot, afin de pouvoir glisser une planche dessous. Si nous nous y mettons à plusieurs, nous ne faisons que nous gêner."
+
+Les autres pèlerins opinent du chef et étirent leurs membres, comme s'ils le rappelaient soudain de leurs corps endoloris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Vous prenez appui contre le coin du chariot, vous vous ramassez sur vous-même, puis vous arrachez la roue à la boue avec un grognement d'effort. Un jeune Étoile de l'aube vous fixe bouche bée pendant un instant, mais il réagit à temps pour glisser une planche épaisse sous la roue. Il faut ensuite une bonne heure pour poser une voie stable permettant au chariot de s'extraire de la boue en roulant. Les Étoiles de l'aube auxquels vous avez demandé de l'aide sont couverts de sueur, comme vous l'êtes vous-même, mais ils sont heureux et chantent des louanges à Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Des rêves ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[Mentir] "Bien sûr. Pour quelle autre raison ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Je poursuis Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Nous sommes des fermiers venus du Readceras pour travailler ici, dans les champs de la colonie. Nous avons tous foi en la lumière d'Éothas."
+
+Les autres pèlerins acquiescent avec ferveur. Une mère au bébé tout sourire lève la main de son enfant pour saluer.
+
+"Nous avons eu des rêves. Trois étoiles filent dans le ciel, perçant les sombres nuages d'une tempête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Nous nous sommes dit que c'était un signe d'Éothas... qu'il nous appelait. Alors nous sommes venus ici, parce que nous avons vu ce lieu dans nos rêves."
+
+Les pèlerins regardent autour d'eux, associant mentalement leurs souvenirs avec la réalité.
+
+"Nous avons vu passer le géant au front trois fois étoilé, mais..." Il soupire et désigne le chariot coincé dans la boue. "Nous n'avons malheureusement pas pu le suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Le plus âgé des pèlerins ouvre la bouche de stupéfaction. Vous en entendez un autre laisser échapper une exclamation de surprise. Ils s'échangent des regards pleins d'excitation.
+
+"Loué soit-il !" crie le vieil homme. "Nous ne sommes pas seuls ! Nous avons aussi eu les rêves ! Nous avons vu les trois étoiles filer dans le ciel, perçant les sombres nuages d'une tempête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[Prendre leurs marchandises et partir] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Les yeux baissés, les pèlerins vous donnent leurs biens et, découragés, se réunissent en cercle à côté du chariot en vous regardant partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>L'une des pèlerins remarque votre présence. Elle recule d'un pas, attirant l'attention de ses compagnons, et un homme au gambison usagé s'avance. Son visage arbore le poids d'une lourde préoccupation.
+
+"Les rêves vous ont-ils mené ici, vous aussi ? Une Moissonneuse vous accompagne", commente-t-il en désignant Xoti. "C'est sûrement à cause des rêves."
+
+Les autres pèlerins vous contemplent avec un mélange d'espoir et d'appréhension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Le vieil homme vous interpelle alors que vous vous éloignez.
+
+"Prenez soin de vous et de votre âme, voyageur. Que vous veniez pour Éothas ou non, nous savons au plus profond de nous-même que lui est venu pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Specified 3] prend appui contre le coin du chariot, se recroqueville, puis arrache la roue de la boue avec un grognement. Un jeune Étoile de l'aube reste bouche bée pendant un instant, mais il réagit à temps pour glisser une planche épaisse sous la roue. Il faut ensuite près d'une heure pour établir une voie stable permettant au chariot de s'extraire de la boue. Les Étoiles de l'aube auxquels vous avez demandé de l'aide sont couverts de sueur, mais ils sont heureux et chantent les louanges d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>[Specified 3] prend appui contre le coin du chariot et le soulève avec un grognement d'effort. La roue s'arrache difficilement de la boue et l'un des jeunes Étoiles de l'aube se précipite pour glisser une planche dessous. C'est alors que les forces de [Specified 3] l'abandonnent. Le coin du chariot échappe à sa prise et la roue s'abat violemment sur la planche mal alignée, ainsi que sur la main du jeune homme, avec un craquement écœurant. Il crie de douleur, tandis que la roue glisse de la planche et s'enfonce encore plus profondément dans la boue. "Par les dieux !" Le vieil homme s'agenouille pour s'occuper du jeune homme, puis lève la tête vers vous. "Je croyais que vous étiez là pour nous aider, non pour aggraver notre situation !" Plusieurs des Étoiles de l'aube vous adressent des regards noirs et marmonnent entre eux.</DefaultText>
+      <FemaleText>[Specified 3] prend appui contre le coin du chariot et le soulève avec un grognement d'effort. La roue s'arrache difficilement de la boue et l'un des jeunes Étoiles de l'aube se précipite pour glisser une planche dessous.
+
+C'est alors que les forces de [Specified 3] l'abandonnent. Le coin du chariot échappe à sa prise et la roue s'abat violemment sur la planche mal alignée, ainsi que sur la main du jeune homme, avec un craquement écœurant. Il crie de douleur, tandis que la roue glisse de la planche et s'enfonce encore plus profondément dans la boue.
+
+"Par les dieux !" Le vieil homme s'agenouille pour s'occuper du jeune homme, puis lève la tête vers vous. "Je croyais que vous étiez là pour nous aider, non pour aggraver notre situation !"
+
+Plusieurs des Étoiles de l'aube vous adressent des regards noirs et marmonnent entre eux.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

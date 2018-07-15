@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>141</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Qu'en dites-vous, capitaine ?" Tekēhu croise les bras et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Parlez-moi du modelage d'eau, Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Qu'espérez-vous gagner en trouvant le pacte de Ngati à Ukaizo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"C'est une bonne question. À vrai dire, je suis partagé." Tekēhu hoche la tête et réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Votre « mère » a parlé de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ngati vous a parlé... à vous ?" 
+
+Sceptique, Tekēhu se caresse le menton d'un air songeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Vous avez des questions ? Ekera, j'ai des réponses." Tekēhu écarte les mains, paumes ouvertes, vous invitant à parler librement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ah... l'art de nos ancêtres ! C'est notre mère Ngati qui nous a accordé, à nous son peuple élu, le don de modeler l'eau selon notre volonté." 
+
+Tekēhu se redresse fièrement et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Des questions, capitaine ?" Tekēhu hausse les sourcils et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ekera ! Que me vaut le plaisir ?" Tekēhu ouvre les bras et laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Que Ngati soit avec vous, capitaine." Tekēhu incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vous voulez vous user les dents à jacasser ? Ekera, faites-vous plaisir !" Tekēhu vous fait signe d'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Quoi de neuf, mon ami ?" Un large sourire fend le visage de Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Que Ngati m'accorde la patience. Je vous écoute." Tekēhu hoche la tête avec raideur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ça ne peut pas attendre, capitaine ?" Tekēhu soupire par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Qu'y a-t-il ?" Tekēhu vous adresse un froncement de sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ekera ?" Tekēhu hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ha ! Laisser son fils dans le doute, c'est tout à fait le genre de ma filoute de mère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Elle semble avoir votre bien-être à cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je suppose qu'elle n'a pas l'intention de se calmer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"N'est-ce pas le cas de toutes les mères ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Vous devez être très spécial pour que Ngati communique avec vous en paroles. 
+
+"Pour envoyer des présages à son peuple, elle se contente d'arranger de manière cryptique des pierres de gué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ekera, transmettez-lui mes amitiés les plus sincères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Les mères ont le droit de protéger leur progéniture sacrée, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vous avez quelque chose à me dire, Tekēhu ? De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Mes pensées nagent en eaux profondes, capitaine." Tekēhu se mordille le pouce et détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Nous nous sommes bien amusés, mais je n'ai pas l'impression que mes... sentiments soient réciproques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Les problèmes du Feu éteint n'ont... jamais été simples. Mais il leur a maintenant poussé bien trop de tentacules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Trouverons-nous encore du temps pour nous : le capitaine et son beau poisson ?"
+
+Tekēhu grimace. Le fait d'exprimer cette idée à voix haute semble réellement le peiner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"J'ai de l'affection pour vous, Tekēhu. Nous trouverons le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"J'ai besoin de vous comme un poisson a besoin d'eau. Nous en avons tous les deux besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Peut-être pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Si cela vous convient, je resterai votre loyal membre d'équipage. Ekera ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Je crois que ça vaudrait mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Tekēhu, tout espoir n'est pas perdu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Quoi qu'il en soit... Merci d'avoir essayé."
+
+Tekēhu hausse les épaules, le front plissé, tandis qu'il s'efforce de garder le sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"M'est avis que si."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Dans ce cas... oubliez mes inquiétudes ! Ngati n'aimerait pas que nous nous complaisions dans les tourments."
+
+Tekēhu soupire et ses épaules semblent se détendre quelque peu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ekera. Dans... dans une autre vie, peut-être, si Ngati nous sourit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"C'est ce que j'espérais vous entendre dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Pourquoi les tribus auraient-elles accordé à l'élu de Ngati toutes ces louanges et ces enseignements si je ne leur donne rien en retour ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Mes talents m'appartiennent, et Ngati elle-même ne peut me dire comment je dois les utiliser.
+
+"M'est avis que les tribus se porteraient mieux avec davantage d'artistes et moins de sauveurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Mais voir mes espoirs en tant qu'artiste muselés par de si lourdes responsabilités... c'est étouffant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"En découvrant le pacte, je parviendrai peut-être à rapprocher les Huanas des dieux et de leurs coutumes ancestrales.
+
+"Je dois décider si c'est pour le mieux." 
+
+Tekēhu soupire et se masse les tempes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Mais mon peuple lutte contre les étrangers... et Ngati ne m'a pas envoyé au Feu éteint sans bonne raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Peut-être se sert-elle de vous pour m'atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"C'est triste à dire, mais tout est possible avec les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Depuis que la dévastation a poussé notre peuple à la mer, beaucoup de secrets de notre art ont été perdus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"De pures inventions, m'est avis... dont le seul but est de siphonner la puissance de ses barrières retenant le dragon. 
+
+"Néanmoins, elles renferment des bribes de vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Periki, la fondatrice de la guilde, a organisé les traditions de Ngati en une série de postures et de méditations que nous appelons les Quatre formes du modelage d'eau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Que sont ces formes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Revenons à mes questions précédentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ekera, je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Nous avons beau essayer d'incarner l'élément de Ngati, nos corps ne sont pas faits d'eau.
+
+"Ekera, voici la Forme de la peine. Un test destiné aux novices." 
+
+Tekēhu ferme les yeux et écarte les mains en expirant brusquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"L'eau contenue dans le corps est une force capable de triompher de tout. Même la montagne finit par s'incliner devant le ruisseau.
+
+"La Forme de l'espoir." 
+
+Tekēhu croise une jambe devant l'autre et se balance sur place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"L'eau commande à son réceptacle, et le réceptacle peut être modelé aussi sûrement que la montagne.
+
+"La Forme de la métamorphose, ekera ?" 
+
+Tekēhu ouvre les yeux, qui ont maintenant l'apparence d'onyx polis. Son sourire est carnassier. Il cligne des yeux et l'effet se dissipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"L'art est délicat à saisir, difficile à maîtriser et impossible à parfaire. 
+
+"À moins d'être l'élu de Ngati, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Vous avez dit qu'il y avait quatre formes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Parlez-moi encore des formes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ah... ce n'est que par habitude que j'omets la dernière forme.
+
+"Nous n'en parlons pas au sein de la guilde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"La Forme de la transcendance."
+
+Tekēhu ferme les yeux et se concentre. Les mains tendues, paumes vers le haut, il se mord la lèvre inférieure. 
+
+Finalement, il secoue la tête et se détend à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ce n'est qu'une histoire, m'est avis. Même Periki la rusée n'a pas pu transcrire cette antique forme dans ses parchemins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"On raconte que nos ancêtres étaient capables de modeler les océans du Feu éteint eux-mêmes.
+
+"C'était ça, le véritable don de Ngati. Mais nous ne nous le sommes toujours pas réapproprié des ruines de notre passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Si nous le retrouvions à Ukaizo, m'est avis qu'Eora verrait enfin la véritable puissance des Huanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Où viviez-vous avant Neketaka ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"J'appartiens à la tribu des Kahangas, mais mon peuple s'est établi à Etūa, une île trop modeste pour mériter de figurer sur les cartes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ma mère mortelle tanne des peaux de sanglier. Mon père est marchand de perles et d'opales, qu'Etūa a la bienveillance de nous offrir en abondance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Quand je suis né, mon père m'a surnommé son petit garçon de topaze bleue." 
+
+Tekēhu se gratte l'arrière du crâne et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Est-ce que d'autres divins illustres sont originaires d'Etūa ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Votre naissance a dû faire grand bruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Que faisiez-vous sur cette île ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Sans aucun doute ! Mais je suis la plus précieuse gemme de son histoire récente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Les divins sont vénérés car ils sont annonciateurs de changement au niveau local, mais seul l'élu de Ngati est censé apporter un présage destiné à tous les Huanas à la fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Ekera. Des vents puissants ont attisé la vigueur des mers. Deux huttes se sont effondrées avant que notre parle-tempête ne réussisse à calmer les éléments."
+
+Il rayonne de fierté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"On raconte que les cieux ne se sont dégagés que lorsque je suis tombé dans le couffin de la sage-femme. La paix avait repris ses droits sur l'île.
+
+"C'est du moins ce que prédirent les Matarus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Je ne pouvais jamais rester loin de l'eau, alors mon père m'a appris à pêcher les perles et les azatas.
+
+"À chaque plongée, Ngati m'emplissait les mains de richesses !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Lorsque j'ai atteint l'âge d'homme, les Matarus ont contacté la reine des Kahangas pour me trouver une activité digne de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Mettant en balance mon arrivée et les forces qui envahissaient son territoire, la reine n'a pas longtemps hésité à inviter l'élu de Ngati à rejoindre la guilde des modeleurs d'eau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Quand les temps sont durs, l'appui d'une déesse vaut bien davantage que l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ngati, qu'est-ce que j'ai fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"J'ai réfléchi. Prenons notre temps, et redevenons de simples camarades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Capitaine, je... bien sûr. Comme vous voulez." Un pli se forme sur le front d'habitude lisse de Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Nous faisions un couple charmant, pas vrai ?" Gloussant dans sa barbe, il se détourne et s'essuie le coin des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Vous voyez mon adorable poisson, capitaine ? Je vous laisse deviner lequel d'entre eux est le vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Alors... nous y voilà. Qu'est-ce qui vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Capitaine... notre partenariat devient de plus en plus compliqué." Tekēhu tripote la marque blanche sur son front en évitant de croiser votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ce n'est pas pour voir Ukaizo arrachée aux mains des Huanas que j'ai rejoint votre équipage. Et pourtant, nous en sommes là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ukaizo appartient aux Huanas, mais nous ne levons pas même le petit doigt pour transporter les tribus sur les rivages dont elles sont natives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"M'est avis que même Ngati la malicieuse attendait plus de son fils préféré." Tekēhu se tourne vers vous, le regard douloureux et indécis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Les Vailiens ne font qu'emprunter Ukaizo. Je suis sûr que vous la récupèrerez un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Les Rauatais sont originaires de ces eaux. Leurs revendications sont légitimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Si les Huanas ne peuvent reprendre Ukaizo aux pirates, peut-être qu'ils ne sont pas prêts à revenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Je ne mets pas les voiles vers Ukaizo pour les Huanas. Je m'y rends pour mon âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Je ne cherche pas à vous faire changer d'avis, capitaine. SI les Huanas n'ont toujours pas gagné votre confiance, alors il n'y a aucun moyen de faire machine arrière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Les Kahangas m'attendent. Par la lampe de Ngati, je... j'espère que vous trouverez ce que vous cherchez à Ukaizo."
+
+Tekēhu pousse un soupir et commence à ramasser ses affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Depuis quand vous souciez-vous de ce que veulent les autres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Depuis... Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Les Huanas peuvent s'en sortir. Ils ont connu pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ekera. J'admets que c'est vrai, mais je ne veux pas être celui qui leur fera perdre espoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Mes actions n'engagent que moi. Ce voyage est le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Ça ne peut pas finir comme ça. Restez avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Au revoir, Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ce ne sera plus pareil de naviguer sans vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Faites attention dans le Mortier d'Ondra. Ma mère n'est pas connue pour sa retenue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Si je vous croise à Ukaizo... ekera, mais puissions-nous ne pas en arriver là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"M'est avis que c'était bien le temps que ça aura duré." En s'essuyant le coin des yeux, Tekēhu se retourne pour partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"M'est avis que ce n'est pas facile de tourner le dos à une personne qu'on aime." Avec prudence, Tekēhu tourne les yeux pour croiser votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Capitaine, vous me connaissez. Il n'est pas facile de faire changer un artiste d'avis." Tekēhu glousse et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Je... Je vous fais confiance, capitaine. Les desseins de mère Ngati dépassent l'imagination des mortels. Mais je pourrai peut-être aider mon peuple." 
+
+Les commissures des lèvres de Tekēhu se contractent. Il acquiesce, décidé à rester.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Mais il faut que je me fasse une raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Au moins, à présent, je pourrai aérer vos quartiers. Le [Player Ship] empeste le poisson pourri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ce n'est pas très gentil... mais au moment des adieux, il vaut mieux pardonner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Ekera, mais vos beaux discours me manqueront." En poussant un soupir, Tekēhu vous lance un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Tekēhu, avez-vous quelque chose à dire à Pallegina ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>En s'éclaircissant la gorge, Tekēhu lance un regard gêné en direction de Pallegina. Ou bien elle n'y fait pas attention, ou bien elle s'efforce de faire comme si c'était le cas. Tekēhu pousse un soupir et baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Vous aviez une histoire à me raconter, tout à l'heure ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[Regarder Maia et Tekēhu] "Il me semble que vous avez quelque chose à dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Capitaine, regardez où nous sommes. Il n'y a pas de temps à perdre, m'est avis !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Je voulais demander pourquoi le prince Aruihi s'intéresse tant au marché noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"En servant dans votre équipage, je me rendrais complice de la mort des Kahangas. Comment pourrais-je faire une chose pareille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Le règne d'Onekaza est fini, que ce soit moi qui tienne le couteau ou pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Capitaine... il n'y a rien qui vous attend au palais, m'est avis. Ne plongez pas les Huanas dans une nouvelle ère de tristesse."
+
+Tekēhu semble vouloir continuer, mais il se contente de secouer la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Si vous êtes l'ennemi des Kahangas, alors la famille royale doit se préparer à relever l'épreuve la plus fatidique de ma mère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Tekēhu croise les bras et détourne le regard, soupirant par le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Quand les Vailiens auront pris ce qu'ils veulent à Ukaizo... ils partiront, ekera ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"C'est le plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Je ne promets rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"C'est ce que je craignais, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"J'aimerais vous croire, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Et je le ferai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Hélas, je ne peux pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Cependant, les Huanas pourraient avoir droit à une nouvelle chance à Ukaizo. M'est avis que nous saurons nous montrer dignes de la dernière épreuve de mère Ngati." Tekēhu touche son front en priant et expire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Si les Príncipis ne veulent rien d'autre que les richesses d'Ukaizo, laisseront-ils son adra et son patrimoine tranquilles ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"M'est avis que la façon que vous avez de tracer votre propre chemin est admirable. Même l'élu de Ngati doit respecter ça. Je resterai à vos côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Les membres de la famille royale des Kahangas ont l'air de vous apprécier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Plus tôt, vous disiez quelque chose au sujet d'un amiral rauatai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

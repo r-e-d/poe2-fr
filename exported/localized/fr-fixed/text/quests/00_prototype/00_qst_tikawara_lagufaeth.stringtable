@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_qst_tikawara_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Furie de la couveuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Traquez la couveuse lagufaeth dans le &lt;b&gt;Ravin de Hōhina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez voir &lt;b&gt;Himuihi&lt;/b&gt; au comptoir de &lt;b&gt;Tikawara.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sauvez les petits emprisonnés dans le village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Tuez la couveuse lagufaeth dans le &lt;b&gt;Ravin de Hōhina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sauvez les petits emprisonnés dans le village de &lt;b&gt;Tikawara.&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; a peur que les lagufaeths de &lt;b&gt;Tikawara&lt;/b&gt; posent un grave danger pour le village. Elle veut que la couveuse soit tuée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; veut éliminer les lagufaeths de &lt;b&gt;Tikawara.&lt;/b&gt; Elle m'a raconté que la couveuse vit dans un ravin sur l'île. La tuer devrait pousser les autres créatures à se disperser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai tué la couveuse. &lt;b&gt;Himuihi&lt;/b&gt; sera heureuse d'apprendre la nouvelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>La tribu a capturé plusieurs petits lagufaeths. La couveuse désire qu'ils soient relâchés du village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; pense que les lagufaeths laisseront le village tranquille si je tue la couveuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>La couveuse lagufaeth veut désespérément secourir ses petits. Les relâcher pourrait entériner une trêve entre la tribu et ces créatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé la couveuse dans le ravin. Étrangement, elle ne m'a pas attaqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai libéré les petits retenus captifs dans le village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>La couveuse pourrait peut-être décider de laisser le village en paix, dorénavant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>On m'a dit que &lt;b&gt;Himuihi&lt;/b&gt; gérait le problème des lagufaeths. On peut facilement la trouver au comptoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; m'a donné la permission de relâcher les petits lagufaeths retenus prisonniers au village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>J'ai trouvé une cage contenant plusieurs petits lagufaeths sur la plage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; a refusé de relâcher les petits. Je peux toujours résoudre le problème des petits moi-même...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué la couveuse lagufaeth et fait disparaître la menace qui planait sur le village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai relâché les lagufaeths prisonniers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai négocié une trêve entre la tribu et les lagufaeths de &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué la couveuse lagufaeth et Himuihi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Les Huanas ont capturé des petits lagufaeths et la couveuse veut les récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

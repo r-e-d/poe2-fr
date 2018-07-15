@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_romance_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Quel dommage qu'on ne puisse faire des pauses pour profiter d'endroits comme celui-là. Mais ça me rappelle ce qui est en jeu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je ne cracherais pas sur un plus long séjour ici, ensemble. Une fois que tout sera fini."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ça me rappelle un coin particulièrement agréable du Cythwood. Peut-être pourrai-je vous le montrer un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tellement de gens. Je préfère nettement les soirées calmes entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quand je vous ai dit préférer le calme et l'isolement, ce n'est &lt;i&gt;pas&lt;/i&gt; ce que j'avais en tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Est-ce que vous pensez que Berath aurait des objections si nous... passions juste un moment ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

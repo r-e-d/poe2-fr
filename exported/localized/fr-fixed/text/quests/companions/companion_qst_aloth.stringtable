@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Masques peints</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Attendre davantage d'explications de la part d'Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Guetter un signe des « Masques peints ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Naviguer jusqu'à Ori o Koīki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parcourir Ori o Koīki à la recherche de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Annoncer à Aloth ce que vous avez vu dans l'âme de Ruāsare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Naviguer jusqu'à Ori o Koīki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aloth a passé les cinq dernières années à tenter de faire de la Clé plombée une force œuvrant pour le bien, mais la tâche s'est avérée compliquée.
+
+Il veut que je l'aide à trouver un groupe de la Clé plombée, dans le Feu éteint, qui pourrait lui fournir des informations dont il a grandement besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aloth a mentionné qu'il traquait la Clé plombée. Il m'a promis de m'en dire davantage lorsqu'il aura pu relire ses notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Aloth m'a parlé d'une ancienne cabale de la Clé plombée dans la zone dénommée les « Masques peints ».
+
+Il a dit que personne dans la région ne semblait connaître ce nom. Notre meilleure chance serait donc de guetter des signes de l'existence de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé des preuves que les Wahakis ont attaqué le navire marchand. Aloth pense toujours que le symbole peint sur les voiles prouve qu'il est relié à la Clé plombée.
+
+On en apprendra davantage sur Ori o Koīki, espérons-le.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai atteint Ori o Koīki, qui recèle des signes étranges de la présence de la Clé plombée, entre les peintures du visage des Wahaki, semblables à des masques, et les illustrations. 
+
+Je dois pouvoir en apprendre davantage en flânant dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Je suis tombé sur un souvenir d'une vie antérieure de Ruāsare en tant que chef des Wahakis au temps jadis. Il semble que Thaos soit venu effrayer son peuple pour qu'il quitte les ruines engwithanes. 
+
+Au lieu de cela, elle a exécuté Thaos. Leur interaction a cependant renforcé la défiance des Wahakis envers les étrangers. Ainsi, la tribu a œuvré sans le vouloir dans l'intérêt de la Clé plombée pendant près de deux millénaires.
+
+Aloth devrait être mis au courant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>La description d'Aloth des « Masques peints » m'a fait penser aux Wahakis, une tribu huana.
+
+On pourrait en apprendre plus sur Ori o Koīki, leur île d'origine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Nous avons croisé un navire à la dérive. Son équipage était mort, mais Aloth pensait qu'il pouvait avoir un rapport avec la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai pris la décision de ne pas fouiller le bateau. Aloth était déçu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai lu l'âme d'un des membres d'équipage décédés. Ce n'étaient que de simples marchands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Nous n'avons pas pu déterminer qui a tué l'équipage, mais le ou les responsables sont probablement encore dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Nous avons rencontré un groupe de &lt;b&gt;Wahakis&lt;/b&gt; sur &lt;b&gt;Motare o Kōzi&lt;/b&gt;. Leurs visages étaient peints, mais nous n'avons rien appris de plus d'eux. Nous allons devoir chercher des réponses nous-mêmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Aloth a ressenti une profonde humilité en entendant le récit de l'erreur commise par Thaos. Il s'est demandé si ses efforts concernant la Clé plombée avaient été malavisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Aloth a été encouragé par le récit de la victoire improbable de Thaos. Il a semblé tirer un certain réconfort du fait de savoir que ses efforts, même imparfaits, concernant la Clé plombée pourraient faire avancer les choses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Aloth a passé les cinq dernières années à tenter de démanteler la Clé plombée, mais la tâche s'est avérée plus compliquée que prévu.
+
+Il veut que je l'aide à trouver un groupe de la Clé plombée dans le Feu éteint, qui pourrait lui fournir des informations dont il a grandement besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

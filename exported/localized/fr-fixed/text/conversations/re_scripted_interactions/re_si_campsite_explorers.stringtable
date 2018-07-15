@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_campsite_explorers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>235</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ici, un sinistre silence règne sur la terre craquelée et stérile. Les buttes escarpées plongent abruptement dans les eaux calmes et transparentes. Il n'y a aucun oiseau dans le ciel, et vous n'avez pas vu le moindre sanglier, rat ou lézard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Rejoindre leur camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Manger et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Essayer de les voler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Alors que vous avancez, deux des tentes les plus proches de vous s'ouvrent sur une elfe gracieuse vêtue d'une parure aedyrane, une aumaua corpulente à la peau bleu céruléen, et un homme de la savane qui pointe son arbalète sur votre cœur. "Pas un pas de plus, étranger," vous lance-t-il.
+
+L'elfe vous adresse un sourire chaleureux, en contradiction avec l'attitude de l'homme.
+
+La silhouette en robe ne fait aucun mouvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Est-ce que vous savez quelque chose à propos de cette chaîne insulaire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Tandis que l'aumaua secoue la tête, répondant "Très peu," l'Aedyrane sourit en vous lançant : "Une chose ou deux."
+
+"Pourquoi ?" demande l'homme au teint basané.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Manger et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous acceptez un bol de ragoût. Il est fade, ses ingrédients n'ont pas de consistance... et vous passez le reste de la soirée en compagnie de ces quatre étranges personnages, finissant par vous retirer pour dormir dans une des tentes qu'ils vous proposent.
+
+Vous rêvez de vers intestinaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Essayer de les voler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Tandis que vous bavardez avec les aventuriers, Zandran se balade dans le camp, montant la garde, vérifiant le ragoût et ainsi de suite. 
+
+Quand elle se glisse entre vous et le feu, vous lui dérobez d'un geste rapide la dague pendue à sa ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous montez de toutes pièces une histoire portant sur les nombreux maux et maladies qui rongent les enfants orphelins d'un village, sur l'autre versant des montagnes au sud. À la fin de votre récit, la naine et la Vailienne pleurent à chaudes larmes.
+
+Vous leur dites que c'est là que vous vous rendez. Et que, s'ils vous faisaient don de quelque chose pour les enfants, vous vous feriez une joie de le leur apporter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>La femme rit légèrement. "Ah, c'est tout. Peut-être devriez-vous lui demander vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attaquer] "Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Le feu de camp se reflète dans les grands yeux de l'elfe. Les deux hommes viennent s'interposer entre elle et vous. Celui à l'arbalète sourit.
+
+"Quel dommage," grince une voix métallique venant de la silhouette encapuchonnée. "Tuez-les tous, et prenez tout ce que vous trouverez." 
+
+La robe tombe à terre, vide, et s'évanouit dans les ténèbres...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Un petit groupe approche, constitué d'une bande disparate de kiths portant des armes et armures de qualité.
+
+La meneuse, une naine au teint bronzé, lève la main pour vous saluer. "Vous arrivez du col de montagne ?" demande-t-elle. "Je suppose que ce n'est pas pour autant que vous vous êtes occupé de ces saletés d'eotens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ils se trouvent aux environs de la côte nord-est. L'endroit n'est pas vraiment sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous pénétrez dans le camp et venez vous asseoir auprès du feu. Même s'ils semblaient s'apprêter à l'éteindre avant votre arrivé, l'aumaua jette une nouvelle bûche dans le feu. 
+
+D'un geste de la main, la naine vous indique la marmite au-dessus des flammes. "Il nous reste un peu de ragoût. C'est pas grand-chose, juste du poisson et des légumes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Manger et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous dînez avec les explorateurs, en échangeant des histoires autour du feu mourant. Vous finissez par aller vous coucher, et ils vous proposent d'occuper la tente de l'un de leurs défunts équipiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Essayer de les voler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Personne ne semble l'avoir remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>L'air de rien, vous balayez le camp du regard, en évaluant vos options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vous pénétrez dans le camp et prenez place près du feu. En dépit de l'hospitalité de la chef, le reste du camp vous réserve un accueil assez froid dans l'ensemble. 
+
+L'orlane du groupe s'avance vers vous. "La chaleur et l'accueil sont gratuits. Mais pour dormir et manger, il faudra payer, étant donné la nature strictement mercantile de nos rapports." D'un geste, elle vous indique la marmite au-dessus du feu et les tentes plus loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Attaquer] "Je vais plutôt prendre vos affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>En un grognement, le sourire chaleureux de la naine se mue en rictus inquiétant. "Voici donc votre vrai visage  ? Vous n'êtes qu'un vulgaire brigand itinérant ?"
+
+Elle adresse un signe aux autres, qui vous encerclent. L'aumaua sourit de toutes ses dents en soulevant sa hache. "Je vais me faire une joie de vous faire mordre la poussière, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Partir] "Nous devrions y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Qu'en pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Vous approcher du camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[S'infiltrer dans le camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Qui est votre ami encapuchonné ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Il y a quelque chose qui cloche ici," lance Aloth. "Il y a une étrange présence magique, mais je n'arrive pas à l'identifier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Très bien, d'abord on rentre dans leurs bonnes grâces avec des carottes. Ensuite, on brosse leurs crinières... on dirait qu'elles ont des nœuds. Et si là on n'est toujours pas amis, on leur redonne d'autres carottes." Edér ne quitte pas les chevaux des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Le ragoût sent bon. Presque trop bon. Je pense que c'est un piège." 
+
+Plissant les yeux, Maia se touche le menton avec le pouce et hoche lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ça n'a pas l'air d'être un piège, cap'. Ça n'en a pas le goût non plus. Pas un soupçon d'hostilité de la part de ce vieux loup de mer. Ni quoi que ce soit d'autre." Les sourcils froncés, Serafen se gratte l'arrière de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Le spectacle d'une personne en train de cuisiner n'est pas le moment le plus marquant de notre épopée, mais je dirais que c'est distrayant." 
+
+Tekēhu a les mains posées sur son estomac gargouillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 0] hausse les épaules. "Si c'est un piège, ça n'en a vraiment pas l'air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous vous demandez ce que vous pensez, mais vous êtes le seul à pouvoir y répondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>En comparaison, le camp devant vous grouille d'activité. Des chevaux sont attachés à des piquets, une silhouette en robe, avec une capuche rabattue sur sa tête, est assise sur une caisse. Le fumet d'un copieux ragoût s'échappe d'une marmite suspendue au-dessus du petit feu de camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Le trio vous guide entre les tentes... qui semblent bien trop nombreuses compte tenu du faible nombre de kiths que vous croisez. L'elfe vous propose poliment de vous asseoir près du feu. La silhouette en robe ne semble pas remarquer votre arrivée, la capuche dissimulant son visage dans des ténèbres impénétrables.
+
+"On a de la soupe," lance l'aumaua. "Enfin, du ragoût. Et vous pouvez vous servir de nos tentes, si vous souhaitez vous reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vous avancez furtivement vers le feu de camp, en tâchant de rester derrière la silhouette en robe. Vous passez devant la première tente, sûr et certain d'être silencieux quand, sur votre gauche, un homme de la savane pointe son arbalète vers votre tête.
+
+"Pas un pas de plus," grogne-t-il, d'un ton presque plus menaçant que le carreau qui pourrait à tout moment percer un nouveau trou dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Specified 1] hoche la tête et, s'accroupissant, ouvre la voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Vous progressez vers le feu de camp, vos pieds faisant doucement craquer la terre aride. Vous êtes en train de vous demander si vous ne faites pas erreur quand, sur votre gauche, un homme de la savane pointe son arbalète vers votre tête.
+
+"Même un mort vous aurait entendu arriver," grogne-t-il, d'une voix presque plus menaçante que le carreau qui pourrait à tout moment percer un nouveau trou dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mon ami ici présent aime vos chevaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Nous ne sommes pas là pour causer d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je vais là où je le souhaite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Partir] "Bien, nous nous en-allons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Edér hoche la tête. "Eh bien, nous ne nous sommes pas vraiment présentés, donc je ne suis sûr de rien. Mais j'ai un bon pressentiment à leur sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>La femme aedyrane s'incline légèrement, et quelques boucles de sa chevelure brune tombent sur son visage. "Dans ce cas, qui sommes-nous pour vous interdire notre compagnie ? Rejoignez-nous auprès du feu, je vous prie." Elle indique le camp d'un geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Sourire toujours aux lèvres, l'Aedyrane penche légèrement la tête sur la droite. "Qui sommes-nous tous vraiment ?" Sa phrase carillonne avec musicalité, les mots s'entremêlant dans une quasi-harmonie. "Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>La femme aedyrane s'incline légèrement, et quelques boucles de sa chevelure brune tombent sur son visage. "Dans ce cas, qui sommes-nous pour vous interdire notre compagnie ? Rejoignez-nous auprès du feu, je vous prie." Elle indique le camp d'un geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>L'aumaua s'esclaffe. "C'est drôle. J'ai pourtant l'impression que vous ne voulez que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>L'aumaua et l'homme de la savane échangent un regard. La première hoche la tête, et le second abaisse son arme.
+
+"Si vous souhaitiez vous joindre à nous, vous n'aviez qu'à demander," vous lance l'elfe. On est &lt;i&gt;très&lt;/i&gt; accueillants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>L'aumaua et l'homme de la savane échangent un regard. La première hoche la tête, et le second abaisse son arme.
+
+"Si vous souhaitiez vous joindre à nous, vous n'aviez qu'à demander," vous lance l'elfe. On est &lt;i&gt;très&lt;/i&gt; accueillants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Ils vous regardent partir. Quand vous vous retournez, vous ne voyez ni tentes, ni panache de fumée, ni silhouette en robe... Il n'y a plus la moindre trace du camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>L'aumaua secoue la tête. "Vraiment ? Ne vous trouvez-vous pas limité ? De nombreuses portes ne vous restent-elles pas closes ? Vos pieds ne parcourent-ils pas encore cette terre desséchée ? De nombreux chemins ne se dérobent-ils pas à votre regard ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Nous ne sommes pas là pour causer d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>L'homme de la savane grogne en réajustant son arbalète. "Vous auriez peut-être dû commencer par ça."
+
+L'Aedyrane glousse doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Attaquer] "Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Alors que vous chargez, ce que vous aviez pris pour une silhouette en robe se transforme légèrement, s'aplatissant... C'était peut-être un fantôme, ou une illusion. Dans tous les cas, elle a disparu.
+
+Mais vous n'avez pas le temps de vous relâcher, car d'autres formes approchent... des silhouettes que vous n'aviez pas remarquées jusqu'à présent...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Je suis [Player Name], capitaine du [Player Ship], ancien Gardien de Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Explorateur, aventurier, redresseur de torts, et sauveur des petites gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Humble serviteur des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je garde mon nom pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>L'aumaua insulaire se fend d'une expression à mi-chemin entre la grimace et le sourire. "Et bien d'autres choses encore, il va sans dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>L'homme à l'arbalète crache sur le sol aride. "Ça marche dans les deux sens. Vous voulez être un étranger, restez donc un étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je vois beaucoup de choses et parle peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Dans un mouvement des plus subtils,la silhouette encapuchonnée baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous avancez furtivement vers le feu de camp, en tâchant de rester derrière la silhouette en robe. Vous passez devant la première tente, sûr et certain d'être silencieux quand, sur votre gauche, un homme de la savane pointe son arbalète vers votre tête.
+
+"Pas un pas de plus," grogne-t-il, d'un ton presque plus menaçant que le carreau qui pourrait à tout moment percer un nouveau trou dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Une elfe gracieuse vêtue d'une parure aedyrane émerge d'une autre tente. "Salutations, étranger." Elle vous adresse un sourire chaleureux.
+
+Alors qu'une aumaua insulaire large d'épaules rejoint l'homme à l'arbalète, vous remarquez que la silhouette en robe n'a pas bougé d'un pouce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Il y a beaucoup de tentes. Où est le reste de votre équipe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>L'homme de la savane esquisse un sourire en coin. "Par là."
+
+"Ils gardent les yeux ouverts," explique l'elfe.
+
+L'aumaua acquiesce. "Au cas où il y aurait du danger. Entre autres choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"La géographie de cet endroit... c'est comme si une sorte de grande puissance avait corrompu ou malmené la terre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Cet endroit... il semble presque sacré..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Sur une île comme ça, je me serais attendu à voir des oiseaux, des lézards, ou des insectes. Mais elle est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je suis curieux de nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Vous approcher et regarder sous la capuche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Hé ! Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Non merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Vous vous approchez de la silhouette, qui reste immobile. Curieusement, chaque pas vous rapproche autant qu'il vous éloigne. La traversée semble vous prendre plusieurs minutes, le feu de camp disparaît de votre vision périphérique... mais impossible de vous arrêter.
+
+En vous penchant, vous jetez un œil sous la capuche. Et vous regardez le visage qui se cache à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Le visage de [Specified 2] du [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>La silhouette ne réagit pas, et la lumière du feu et l'ombre dansent sur les plis de sa robe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>L'aumaua hausse les épaules tandis que la femme glousse.
+
+L'homme regarde au loin d'un air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Un visage glabre, au teint crayeux, au nez et aux lèvres fins, et dépourvu d'orbites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"[Specified 2] ? Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Hocher la tête et retourner vous asseoir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wael ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 2] lève un sourcil. "Pourquoi ne serais-je pas ici, capitaine ?"
+
+La voix du marin est étrangement plate et calme, comme si elle vous parvenait depuis le fond d'un puits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Le visage vous sourit, les lèvres se retroussant aux commissures. "Bien sûr que non."
+
+La silhouette se redresse. "Personne n'est ce qu'il semble être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Vous tremblez... ou plutôt, le sol tremble... ou peut-être est-ce l'air. La terre s'agite à vos pieds, et votre sang ne fait qu'un tour quand le sol s'ouvre en dessous.
+
+Vous plongez dans les ténèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Vous retournez vous asseoir sur votre caisse. La silhouette encapuchonnée ne vous accorde pas plus d'attention qu'avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Pourquoi ne pouvez-vous pas simplement répondre à ma question ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>L'Aedyrane hoche la tête. "C'est peut-être le cas. Un terrible cataclysme s'est abattu sur ce royaume, autrefois."
+
+L'aumaua secoue la tête. "Mais on ne peut pas vous dire grand-chose de plus sur le sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ils vous regardent tous trois, l'elfe souriante, l'aumaua intriguée et l'humain, la mine renfrognée.
+
+Ils ne répondent pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>L'homme au teint basané acquiesce. "C'est quand même bizarre, hein ?"
+
+L'aumaua sourit, et la lumière du feu se reflète sur ses dents acérées. "On se demanderait presque ce qu'il y a dans le ragoût."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>L'homme de la savane renifle.
+
+L'aumaua acquiesce. "Et c'est bien normal. Mais il vous faudra trouver les réponses que vous cherchez tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Ils vous regardent tous trois, l'elfe souriante, l'aumaua intriguée et l'humain, la mine renfrognée.
+
+Ils ne répondent pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Partir] "Je... dois y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>À votre réveil, la zone est déserte. Il n'y a plus de tentes. Il n'y a plus de chevaux. Il n'y a même plus de traces du feu de camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>La femme aedyrane s'incline légèrement, et quelques boucles de sa chevelure brune tombent sur son visage. "Dans ce cas, qui sommes-nous pour vous interdire notre compagnie ? Rejoignez-nous auprès du feu, je vous prie." Elle indique le camp d'un geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Avec ces quatre-là dans les environs, il faudrait trouver une distraction pour détourner leur attention...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Chuchoter] "Hé, vous pourriez continuer de les faire parler un petit moment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Conjurer un leurre magique pour faire office de distraction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Laisser tomber votre plan]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Vous décidez finalement de ne pas les voler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Specified 3] hoche la tête et se tourne vers le trio, se lançant dans le récit d'une de vos aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Specified 3] hoche la tête et se tourne vers le trio, se lançant dans le récit d'une de vos aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Vous vous excusez et partez, prétendant devoir répondre à l'appel de la nature. Une fois loin du camp, il vous suffit de quelques mouvements de doigts et incantations pour invoquer la parfaite distraction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>En s'excusant poliment, [Specified 3] s'éloigne du feu. Quelques instants plus tard, vous entendez l'arrivée d'une bête invoquée de l'autre côté du camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Vous décidez de vous occuper de la distraction, mais cela implique que quelqu'un d'autre se charge du vol...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Chuchoter] "Essayez de voir s'ils ont quoi que ce soit de valeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Fouiller le camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Fouiller le camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>À votre grande surprise, vous ne trouvez que peu de choses au cours de votre fouille sommaire du camp : des tentes, des sacs de couchage et des oreillers. Vous ne dénichez qu'un seul sac... À l'intérieur, plusieurs yeux vous regardent. 
+
+Ils ont l'air encore frais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>À votre grande surprise, vous ne trouvez que peu de choses au cours de votre fouille sommaire du camp : des tentes, des sacs de couchage et des oreillers. Vous ne dénichez qu'un seul sac... À l'intérieur, plusieurs yeux vous regardent. 
+
+Ils ont l'air encore frais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>À votre grande surprise, vous ne trouvez que peu de choses au cours de votre fouille sommaire du camp : des tentes, des sacs de couchage et des oreillers. Vous ne dénichez qu'un seul sac... À l'intérieur, plusieurs yeux vous regardent. 
+
+Ils ont l'air encore frais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Specified 4] acquiesce et s'éloigne, vous laissant en charge de distraire le trio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>L'homme de la savane vous jette un regard noir. "Ne bougez pas."
+
+Le trio se précipite là d'où vient le bruit, vous laissant seul dans le camp avec la silhouette en robe, immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Les prendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Les laisser là]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Les prendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Les laisser là]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Vous retournez auprès du feu. On dirait que le trio n'a rien remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Le trio vous regarde revenir près du feu. L'humain vous regarde encore plus sévèrement, mais l'elfe ne s'est pas départie de son sourire en coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"En ce moment, je m'efforce de comprendre le Théorème de la perception erronée de Llengrath..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Vous connaissez celle du Dyrwoodan, du Vailien et de l'orlan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je dirais que, culturellement, les Huanas ont plus de choses en commun avec Eir Glanfath qu'avec le Rauatai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Voyez-vous, l'Au-delà est une série de tubes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Avant de savourer ce ragoût, inclinons nos têtes et remercions les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Le trio vous écoute avec attention, apparemment captivé par vos paroles, jusqu'au retour de [Specified 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Le trio ne vous prête que peu d'attention, n'ayant de cesse de surveiller les alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Le trio vous écoute avec attention, apparemment captivé par vos paroles, jusqu'au retour de [Specified 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Le trio vous écoute avec attention, apparemment captivé par vos paroles, jusqu'au retour de [Specified 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Le trio vous écoute avec attention, apparemment captivé par vos paroles, jusqu'au retour de [Specified 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Le trio vous écoute avec attention, apparemment captivé par vos paroles, jusqu'au retour de [Specified 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Quand [Specified 4] revient s'asseoir à vos côtés, son visage est pâle, et il semble horrifié.
+
+On dirait que le trio n'a rien remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Quand [Specified 4] revient s'asseoir à vos côtés, son visage est pâle, et il semble horrifié.
+
+Le trio vous dévisage tous les deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Quand [Specified 4] revient s'asseoir à vos côtés, son visage est pâle, et il semble horrifié.
+
+On dirait que le trio n'a rien remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>En descendant par les sentiers de montagne, vous tombez sur un petit camp installé dans le sable. 
+
+Il y a des tentes, des chevaux épuisés se reposant les pattes, et on entend crépiter des feux de camp. Il y a trop d'activité pour que ce soit une embuscade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Je me suis occupé d'eux. De façon définitive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Non. J'ai passé un marché avec eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"J'ai trouvé un autre chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ouais. Je les ai tués de chez tués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Dans le cas où je les aurais tués... Combien vaudrait leur mort pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Elle cligne des yeux et s'essuie le front avec un chiffon. "J'admets que c'est une bonne question. Je suis Zandran, et nous sommes la Compagnie des aventuriers d'Adragan. Nous venons des Terres vivantes."
+
+"C'est la Compagnie des aventuriers &lt;i&gt;d'Adra Bán&lt;/i&gt;," la corrige un grand humain vêtu d'une robuste armure et dont la peau ressemble à de l'obsidienne ébréchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>La femme applaudit. "Impressionnant ! C'est la meilleure nouvelle que j'aie entendue depuis des semaines."
+
+L'aumaua se tenant derrière la naine pousse un soupir. "Et moi qui croyais qu'on aurait une occasion de mettre notre courage à l'épreuve au cours de cette expédition."
+
+L'elfe pâle en robe lui lance un regard. "La mort finit toujours par nous trouver, Wochka. Inutile de se précipiter dans ses bras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>La petite orlane du groupe cligne des yeux. "Un marché ?" demande-t-elle. "Quel marché ? Vous leur avez laissé l'un des vôtres à se mettre sous la dent pour que les autres puissent passer ?"
+
+"Ne soyez pas ridicule, Midge." La naine secoue la tête. "Ils ont dû leur jeter un peu de viande et passer avant que les bêtes aient fini de la dévorer." Elle vous adresse un clin d'œil.
+
+L'aumaua sourit en brandissant une lourde hache. "Ces enfoirés sont à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Ses yeux s'écarquillent. "Vraiment ?" Elle se tourne vers l'aumaua insulaire à côté d'elle. "Pourquoi &lt;i&gt;vous&lt;/i&gt; ne nous avez pas trouvé un autre chemin, Wochka ?"
+
+Avec un sourire découvrant ses dents acérées, Wochka hausse les épaules. "Je tenais à massacrer ces saletés. Et puis, Zandran, n'êtes-vous pas notre éclaireuse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Les aventuriers échangent un regard, et la naine se gratte la tête. 
+
+"Pour être honnête, je n'y avais pas réfléchi. D'habitude, c'est &lt;i&gt;nous&lt;/i&gt; que les gens paient pour tuer des choses. Mais ces fichus eotens nous empêchent de progresser dans les terres depuis des semaines. Ces vauriens ont failli écraser Midge avec un rocher."
+
+Une petite orlane du foyer hoche vigoureusement la tête. "À un cheveu près ! J'ai failli perdre une oreille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>La naine pouffe. "Pour la dernière fois, Franco, non ce n'est pas ça ! Si tu veux être les Adra Báns, va le faire dans ton coin."
+
+Un elfe pâle, vêtu d'une large robe et à la barbe couverte de gouttes de sueur, pousse un soupir en se massant le front. "Au sujet de ces eotens..." commence-t-il.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>La naine vous dévisage. "Vous êtes du genre direct. Je dirais... 2 000 pièces de cuivre. En devises diverses, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>La naine se renfrogne. "Il me semble que 1 000 pièces de cuivres devraient suffire. Compte tenu du fait que nous vous croyons sur parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je connais ce regard. Wochka ?" Maia plisse les yeux en observant un des membres de l'équipe. 
+
+Une aumaua, dont le crâne bleu ciel est rasé de près à l'exception d'une crête de nattes brunes au milieu, hoche la tête à l'attention de Maia. "Rua. Ça fait longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Vous vous connaissez ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[Les ignorer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Le ranga nui nous avait mises ensemble au champ de tir, afin de voir si on s'entendrait." 
+
+Maia croise les bras et se passe la langue à l'intérieur de la joue. "Ça n'a pas été le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"La route est bordée de corniches dangereuses. Faites attention si vous l'empruntez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"C'est facile à suivre et totalement sans danger. Vous n'avez qu'à aller tout droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Je me ferais un plaisir de marquer le chemin sur votre carte... moyennant quelques pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>L'aventurier vailien ricane en tapotant son plastron. "Pour nous, le danger est comme une vieille fiancée. On essaye de l'éviter, mais nous finissons toujours dans son lit."
+
+"J'aimerais qu'il se trompe, mais il n'a pas tort." La naine vous tend une petite bourse. "Pour vous remercier de l'information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Elle lance un sourire narquois à Wochka. "On dirait qu'on a de quoi faire demain."
+
+L'aumaua hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>La naine réfléchit brièvement à votre offre avant de vous tendre une bourse de pièces ainsi qu'un croquis de la carte des environs. "Personne ne comprend mieux la valeur d'un chemin balisé qu'un enfant des Terres vivantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>La naine vous indique les tentes d'un geste. "Étant donné que c'est grâce à vous que notre expédition peut reprendre, c'est la moindre des choses que de vous laisser venir prendre vos aises auprès de notre feu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>La naine se caresse le menton. "Eh bien, vous n'êtes pas encore un ami, mais vous n'êtes certainement plus un ennemi. Vu que nous n'irons nulle part de sitôt, pourquoi ne pas venir prendre vos aises auprès du feu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>L'exploratrice secoue la tête avec un grognement. "On n'en a pas vu grand-chose. On est arrivé de ce côté, à quelques kilomètres." Elle indique la côte ouest d'un mouvement du pouce.
+
+"Ces maudits eotens nous ont empêchés d'aller plus loin," peste le Vailien, et les oreilles de l'orlane s'agitent tandis qu'elle hoche vigoureusement la tête.
+
+La naine sourit. "Nous cherchons des ruines qui sont censées se trouver dans les environs. Mais l'île est si désolée, il est difficile de concevoir que quiconque ait pu bâtir quoi que ce soit ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>La femme applaudit. "Impressionnant ! C'est la meilleure nouvelle que j'aie entendue depuis des semaines."
+
+L'aumaua se tenant derrière la naine pousse un soupir. "Et moi qui croyais qu'on aurait une occasion de mettre notre courage à l'épreuve au cours de cette expédition."
+
+L'elfe pâle en robe lui lance un regard. "La mort finit toujours par nous trouver, Wochka. Inutile de se précipiter dans ses bras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>La petite orlane du groupe vous lance une lourde bourse. "Voici les pièces que vous aviez demandées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>La petite orlane du groupe vous lance une lourde bourse. "Voici les pièces que vous aviez demandées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>La naine réfléchit brièvement à votre offre avant de vous tendre une bourse de pièces ainsi qu'un croquis de la carte des environs. "Personne ne comprend mieux la valeur d'un chemin balisé qu'un enfant des Terres vivantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"J'aimerais en savoir plus au sujet de votre compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Vous savez quelque chose sur cette île ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Manger et vous reposer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>La naine hoche la tête. "Compris. Faites attention à vous. Le Feu éteint regorge de dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>La naine tapote la cicatrice sur son menton basané. "Eh bien, nous nous sommes formés aux Terres vivantes. C'est de là qu'on vient, Midge et moi." Elle indique la petite orlane. "C'est notre sondeuse d'âme. Franco est de Vailia l'Ancienne, il a prêté serment aux Paladini Darcozzi."
+
+Le grand homme frappe son gantelet contre son plastron et s'incline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Midge esquisse un sourire. "En ce moment, on se fait entretenir par un noble aedyran qui paie nos services en tant que membres de la Société des explorateurs de l'archipel du Feu éteint." L'orlane glousse doucement. "Enfin, c'est ce qu'il croit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Vous devez avoir de bonnes histoires à raconter !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"À quoi ressemblent les Terres vivantes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Je suis surpris de voir que vous avez survécu si longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Le Vailien se redresse, comme si c'était son signal. "Ac, si vous saviez."
+
+"Et c'est parti." Maia secoue la tête en vous regardant. "Vous ne pouvez vous en prendre qu'à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Zandran prend une grande inspiration. "Absolument incroyable. On n'a jamais vu autant de vert. Des oiseaux de toutes les couleurs de l'arc-en-ciel. Des lézards qui ressemblent à des statues de pierres précieuses vivantes. Et la chasse ! Je ne savais pas que ça me manquerait autant après mon départ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Midge laisse échapper un petit rire. "Si vous saviez à quel point il nous rebat les oreilles avec ça."
+
+"On s'habitue." Lyslódhir balaie le désert du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"'Sûr qu'il y a du sable. Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Ça ne nous avance pas vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[Essayer de voler le poignard de la naine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Les escroquer pour qu'ils vous donnent des potions et du matériel médical]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Vous faufiler derrière les tentes et fouiller leurs affaires]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Vous vous penchez en arrière pour bâiller ostensiblement et repérez quelques sacs ouverts près d'une tente. Une chose brillante, sur laquelle se reflète la flamme du feu de camp, attire votre attention. 
+
+Vous vous éloignez du feu en vous excusant et faites le tour du camp. Vous trouvez de nombreux petits objets à fourrer discrètement dans vos poches avant de retourner auprès du groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[Rejoindre leur camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Partir] "Non merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>La naine hoche la tête. "Compris. Faites attention à vous. Le Feu éteint regorge de dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Elle sourit en écarquillant les yeux et frappe dans ses mains. "Impressionnant ! Voilà le défi qu'il fallait à la Compagnie des aventuriers d'Adragan !"
+
+L'orlane esquisse un sourire en coin et son nez se contracte. "J'espère que vous avez laissé un peu du trésor pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Le Vailien laisse échapper un rire tonitruant qui disparaît aussi vite qu'il est apparu. "Ac, c'est bien vrai. J'ai du sable jusque dans des endroits de mon corps dont j'ignorais l'existence. Je plains les femmes qui me rencontreront après mon passage ici. 
+
+L'orlane secoue la tête. "On plaint &lt;i&gt;tous&lt;/i&gt; les femmes qui ont le malheur de te rencontrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Le glamfellen en robe lève les yeux du ragoût. "Comme l'a dit Zandran, on ne sait pas grand-chose."
+
+"Ne dites pas ça comme ça !" Zandran se pince l'arête du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"C'est de la jalousie." Il vous adresse un clin d'œil. "Midge envie mes innombrables conquêtes."
+
+Midge croise les bras en lui tirant la langue. "Loin de là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Je suis moi aussi des Terres vivantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Zandran hausse les sourcils. "Vraiment ? Alors, vous savez à quoi ça ressemble ! L'incroyable variété de la faune et de la flore. Les vallées et les montagnes, les gouffres et les falaises, comme si un cartographe avait roulé en boule une carte avant de la jeter à la mer !" Bien que large, son sourire n'est pas vraiment enjoué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Pourquoi êtes-vous partie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Zandran détourne le regard et observe le feu de camp.
+
+"Son chien est mort," explique Lyslódhir d'un ton badin, comme s'il parlait de la pluie et du beau temps.
+
+La naine grimace. "Fang est un loup, pas un chien, et un bon loup, qui plus est. Il est encore avec moi." Elle pose un poing serré sur sa poitrine. "Et il le sera toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Midge hoche la tête pensivement. "Bien sûr,la moitié des plantes risquent d'essayer de vous dévorer, mais au moins ça fait &lt;i&gt;quelque chose&lt;/i&gt; à voir." Elle scrute le désert d'un air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Franco l'ignore. "Par quoi pourrions nous commencer ? Le récit de l'abomination tentaculaire de Thein ? La sordide histoire de la couturière de Selona ? La perfidie périlleuse du Polpovir ?!"
+
+"Il se prend pour un barde," commente Wochka. "Mais il a autant d'enthousiasme qu'il manque de talent."
+
+"Silence, vieux grognard." Il se tourne vers vous. "Je serais ravi de m'étendre sur le sujet au cours du dîner, si vous restez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Zandran se renfrogne en entendant la proposition. "Je comprends que vous êtes dans une situation difficile, mais je ne peux pas mettre mes recrues en danger en donnant nos provisions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Dans ce que vous pensez être un moment de distraction, vous essayez d'attraper le poignard de Zandran... mais elle vous saisit le poignet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Après avoir hoché discrètement la tête, [Specified 2] se faufile derrière Zandran.
+
+Vous ne voyez pas votre compatriote dérober quoi que ce soit à la naine, mais n'est-ce pas justement bon signe ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Après avoir hoché discrètement la tête, [Specified 2] se faufile derrière Zandran.
+
+Quelques instants plus tard, elle crie et traîne de force votre compatriote jusqu'au milieu du camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>[Specified 2] se lance dans une histoire au sujet des conditions de vie précaires à bord du [Player Ship], racontant comment vous avez donné tout le matériel médical à une colonie victime de pétrification, et comment l'équipage souffre à présent atrocement de la moindre petite maladie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>En s'essuyant le nez, Zandran récupère un sac à dos dans l'une des tentes. "S'ils vous plaît, prenez ceci. Ce n'est pas grand-chose, mais c'est déjà ça, hein ?"
+
+L'orlane rachitique secoue la tête et pousse un soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Vous venez à peine de commencer à fouiller votre première tente que l'orlane surgit derrière vous, arme au clair. 
+
+"Vous cherchez quelque chose ?" Elle hausse un sourcil. "Parce que le vol semble occuper vos pensées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[Specified 2] sourit et s'excuse poliment, prétextant devoir répondre à l'appel de la nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Une poignée de minutes plus tard, [Specified 2] revient près du feu, la maigre orlane suivant de près, armes au clair. 
+
+"Je l'ai trouvé en train de fouiller dans les provisions, Zandran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>En vous adressant un sourire complice, [Specified 2] retourne auprès du feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Fronçant les sourcils, Serafen se lève et s'éclaircit la voix. "Excusez-moi de vous importuner, vous qui nous avez été si hospitaliers, mais je dois vous informer que nous sommes en pleine mission de sauvetage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[Specified 2] hoche la tête et s'excuse poliment, prétextant devoir répondre à l'appel de la nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[Laisser tomber votre plan]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Vous décidez finalement de ne pas les voler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Serafen s'essuie les yeux.
+
+"Nous venons de Port Maje, qui est contaminée par la peste des enfants. Vous en avez entendu parler ? C'est une maladie qui transforme les entrailles des gosses en gelée... Il faut les entendre gémir quand ils les expulsent par le... " L'orlane détourne le regard. "Non, il vaut mieux taire ce genre de détails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Au nom de Wael, que se passe-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Le visage vous sourit, les lèvres se retroussant aux commissures.
+
+La silhouette se redresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>La naine vous dévisage. "Vous avez l'air d'être du genre à massacrer des monstres. Je dirais... 2 000 pièces de cuivre. En devises diverses, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Ils sont bien morts. Envoyez la monnaie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Je les ai tués, mais gardez vos pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Au réveil, vous remerciez le groupe et repartez. Ils vous souhaitent bon voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Et si on disait le double ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>La naine réfléchit, puis soupire. "D'accord. Va pour le double."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Midge pousse un grognement. "Je refuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Zandran désigne l'elfe pâle. "Je vous présente Lyslódhir, des Blanches étendues. C'est notre magicien. Et voici Wochka," elle fait un mouvement de tête en direction de l'aumaua insulaire, "elle a quitté le Rauatai quand elle s'est retrouvée à court de choses à débiter avec sa hache."
+
+"Les autres sont des mercenaires, parmi les meilleurs sur le marché. On a sillonné les Terres vivantes, ainsi que le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Je ne suis pas là pour causer des ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Je ne suis pas là pour causer des ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_cv_aeldys_spy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hé, vous, là ! Psst, beau gosse ! Jetez un coup d'œil par ici."
+
+Une marchande à la peau dorée par le soleil et aux cheveux couleur de paille grossièrement rassemblés en touffe, agite avec empressement ses deux mains dans votre champ de vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Palsambleu, je vous ai dit de regarder par ici ! Vous êtes sourd ou stupide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Salut, beau gosse. C'est des pièces que j'entends tinter dans votre poche ?"
+
+Une marchande à la peau dorée par le soleil et aux cheveux couleur de paille grossièrement rassemblés en touffe, agite avec empressement ses deux mains dans votre champ de vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si j'étais joueuse, je parierais qu'Aeldys vous a envoyé pour m'aider à équiper ce genre de voyageurs. Je me trompe ?" 
+
+La marchande s'approche, lançant des regards autour d'elle d'un air conspirateur avant de poursuivre à voix basse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pendant que j'étais en poste ici, j'ai remarqué des signes d'activités illégales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mais l'esclavagisme est légal au Feu éteint, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que pouvons-nous faire pour vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Il est illégal de réduire en esclavage les habitants du Feu éteint. C'est la vente d'esclaves venant d'ailleurs qui est autorisée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nous pouvons commencer par dénoncer le commerce illicite de l'Éperon tordu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si nous parvenions à libérer les indigènes emprisonnés, avant qu'ils soient transportés hors du Feu éteint, ce commerce illégal serait étalé au grand jour, ce qui l'affaiblirait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si vous êtes disposé à nous aider, sachez que mon capitaine veillera personnellement à vous dédommager."
+
+La marchande tire sur le col de sa tunique, suffisamment pour laisser entrevoir la lueur cuivrée de son suolenet, qui porte l'insigne du capitaine Aeldys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"De plus, nous réduirions à néant les combines de Furrante avec les esclavagistes, quelles qu'elles soient."
+
+Elle affiche un méchant petit sourire, plissant la cicatrice qui lui barre la joue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je ferai mon possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Laissez-moi y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Pourquoi Aeldys se soucie-t-elle de tout cela ? Que je sache, aucun des Príncipis lui ayant juré fidélité n'a été réduit en esclavage, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aeldys ne permettra pas à ces esclavagistes d'opérer sur son territoire." Seafol masse la peau plissée qui incurve ses tempes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Furrante m'a envoyé aider les esclavagistes, non saper leurs efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Que puis-je faire pour vous, messire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous trouverez les indigènes, les marchandises illégales, au plus profond de la forteresse, à l'abri des regards. 
+
+"Plusieurs voies y conduisent, mais la plupart sont bien gardées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne vois pas du tout en quoi ça me concerne. Seul ce que vous avez à vendre m'intéresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Le trafic de kiths est légal au Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Les lèvres serrées, Seafol gratte pensivement la partie la plus tendue de sa cicatrice, là où elle rejoint l'angle de sa bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'aimerais jeter un œil à vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Que pouvez-vous m'apprendre au sujet de cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous voulez dire en dehors du fait que l'Éperon tordu est la capitale du Feu éteint en termes de commerce d'esclaves ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Il y a une forte demande de main d'œuvre esclave au Feu éteint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oui, elle rapporte beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Faire votre possible pour l'ignorer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Jeter un œil dans sa direction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Lui adresser un geste obscène en poursuivant votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Vous tourner et lui adresser un regard noir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Oui, je comprends maintenant pourquoi Aeldys vous apprécie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous avez dit « Aeldys » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous devez faire de sacrés bénéfices avec le trafic de kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Seafol serre le poing. Elle vous jette un regard mauvais, et sa cicatrice blêmit nettement contre sa peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ce n'est pas moi qui fais les lois, mataf." Elle suit du doigt la cicatrice qui lui barre la joue droite, comme si elle cherchait quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous êtes une abolitionniste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Surveillez un peu votre langage, surtout quand vous vous adressez à une marchande qui tire un profit juteux de ce commerce à l'Éperon tordu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Baisser la voix] "Je voulais juste dire qu'il serait dans votre intérêt que nous fassions alliance dans le cadre de votre entreprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Élever la voix] "Il serait vraiment dommage que le commanditaire de cette opération découvre votre... !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Allons, votre marchandise vous a trahie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"C'est dommage, mais je ne vois pas du tout ce que vous voulez dire. Vous feriez mieux de laisser tomber et nous épargner des soucis à tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ne vous méprenez pas, beau gosse." Après un regard prudent alentour, Seafol se penche vers vous pour murmurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Si le maître ne laisse pas les acheteurs accéder aux cachots, c'est qu'il a une bonne raison.
+
+"Si une certaine personne décidait de s'y infiltrer en suivant une certaine caverne sous la forteresse, cette personne pourrait en découvrir la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bon, je sais que c'est Furrante qui vous envoie" Elle inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Quand la marchande vous hèle à nouveau avec un sifflement rauque, sa voix s'est approchée de plusieurs pas, sur votre droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Devant votre réaction, la marchande jette la tête en arrière et s'esclaffe à pleins poumons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Elle vous adresse un sourire entendu et se balance sur la pointe des pieds, attendant l'espace d'un battement de cœur avant de parler. 
+
+À cette distance, vous vous apercevez que son nez et ses joues sont constellés de taches de rousseur. Elle tourne la tête de côté, ce qui vous permet de distinguer nettement la cicatrice plissée qui décrit un arc entre sa tempe et la commissure de ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ah bon ? J'ai vraiment dit ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Jetez un œil. Vous ne trouverez nulle part ailleurs marché mieux approvisionné pour vos besoins en main d'œuvre qu'à l'Éperon tordu, ni de matériel de dérobade de meilleure qualité que celui que je propose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je savais bien que j'arriverais à attirer votre attention comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"S'il vous plaît, appelez-moi Seafol." Elle vous tend une main calleuse.
+
+À cette distance, vous vous apercevez que son nez et ses joues sont constellés de taches de rousseur. Elle tourne la tête de côté, ce qui vous permet de distinguer nettement la cicatrice plissée qui décrit un arc entre sa tempe et la commissure de ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Bon, tout d'abord, appelez-moi Seafol. C'est un plaisir de faire votre connaissance, messire."
+
+Elle vous tend une main calleuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"C'est quoi, du matériel de dérobade ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Kits de crochetage, appeaux, burins et pieds-de-biche, cartes, boussoles, biscuits de mer, lunettes, potions d'invisibilité."
+
+Elle énumère les articles sur ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vous savez, quoi, l'équipement de base de l'explorateur."
+
+Elle affiche un sourire doux, clignant de ses grands yeux innocents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Pour les voyageurs les plus courageux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Des acheteurs affluent de tous les horizons pour enchérir sur les... esclaves d'ici, si particuliers. Voilà pourquoi je vends mes équipements eux aussi si particuliers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Oh, d'accord. Comme il vous plaira, beau gosse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Qu'est-ce qu'ils ont de particulier, ces esclaves ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vous n'en trouverez nulle part ailleurs de semblables. Si vous jetez un œil à l'intérieur, je parie que vous comprendrez ce que je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je me contente de les contourner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Une qui que quoi ?" Elle bredouille, et sa cicatrice blanchit nettement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"La majorité des esclaves sont acheminés ici d'ailleurs. De contrées loin du Feu éteint. Mais ils sont vendus ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Après quoi ils ne repartiront plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Bon sang ! Vous savez que vous êtes insupportable ? Baissez d'un ton !"
+
+Elle agite la main en l'air pour vous signifier de parler moins fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Elle se redresse ensuite, la mâchoire serrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Vous êtes mon contact ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"C'est bien moi." Elle gratte la ligne inégale de sa cicatrice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Mais il y en a d'autres, des capitaines avec autant d'influence au sein des Príncipis, qui seraient prêts à vous appuyer si vous décidiez de contrecarrer les esclavagistes, au lieu de soutenir leurs opérations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Des esclaves qui ne devraient pas être esclaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Quelle sorte d'activités illégales ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Nous ne pouvons pas le tolérer." Elle se frotte la bouche avec la main. 
+
+Puis, plus que jamais déterminée, elle s'approche furtivement avant de poursuivre à voix basse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tous les esclaves que vous libérerez seront les bienvenus dans nos rangs." Elle lève le menton en signe d'assertion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Nous ne sommes pas forcément d'accord avec certains membres de la vieille garde des Príncipis. Nous sommes trop chahuteurs pour leurs goûts raffinés. Mais nous plaçons la liberté et la loyauté au-dessus de tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Furrante peut brûler et couler, je m'en contrefiche. Ses manigances n'aideront pas les Príncipis. Il agit uniquement dans son propre intérêt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vous aurez peut-être plus de chance en vous infiltrant par les cavernes marines qui parsèment la côte.
+
+"L'une d'elle mène à l'intérieur de la forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"D'accord, mais soyez très discret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Pour les voyageurs les plus courageux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"J'ai un canot de prêt pour les esclaves que vous ferez sortir. Nous irons à Mortelume."
+
+Elle vous adresse un clin d'œil, caressant l'idée d'une fuite hasardeuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Après ça ? Seule Ondra le sait. Je vous reverrais peut-être sur Dunnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ohé ! Par ici !"
+
+Une marchande, à la peau dorée par le soleil et aux cheveux couleur de paille grossièrement rassemblés en touffe, agite avec empressement ses deux mains dans votre champ de vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Un petit oiseau de mer m'a dit que Kua avait connu une fin sanglante. Ça n'aurait pas pu arriver à plus cruelle pourriture.
+
+"Je vous en suis donc infiniment reconnaissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Vous comprenez, ma capitaine m'a envoyée ici recruter des esclaves robustes. Après les avoir aidés à s'échapper, évidemment. Étant donné que vous avez aidé notre cause, même si c'est par inadvertance, je suis sûre qu'elle voudra vous féliciter. 
+
+"Rendez visite à Aeldys, à Mortelume, si vous cherchez une alliée valable."
+
+Elle cligne de l'œil, fronçant la disgracieuse cicatrice qui lui barre le visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Bien, je vous laisse. Vous avez causé juste assez de diversion pour que je puisse crocheter quelques portes de cellules." De la tempe à la bouche, sa cicatrice se tord autour de son sourire cruel tandis qu'elle vous salue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

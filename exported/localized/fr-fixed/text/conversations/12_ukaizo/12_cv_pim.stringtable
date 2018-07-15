@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_pim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous vous rappelez de moi, casità ?"
+
+Le capitaine s'avance vers vous, armes au clair et épaules en avant. Il agite nerveusement un bras, mais garde ses armes pointées vers le sol, pour l'instant. 
+
+Derrière lui, des pirates s'extraient furtivement des ombres. Leurs visages sont assoiffés de sang. Impatients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cela rafraîchira peut-être votre mémoire. Vous avez tué les deux capitaines les plus importants du Consuaglo mes Casitàs.
+
+"Ce faisant, vous avez déclaré la guerre aux Príncipis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je ne permettrai pas qu'Ukaizo tombe aux mains de pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Laissez tomber la cité perdue de l'or. Je me fiche d'Ukaizo, elle peut brûler en Hel.
+
+"Sang pour sang. Une vie pour deux. C'est pour ça que je suis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Attaquer] "Finissons-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous venez accomplir votre vengeance... maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verser plus de sang n'est pas nécessaire. Rien ne nous oblige à faire ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ac, mais si." Pim crache à vos pieds. Puis il lève enfin son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tout à fait, casità. Quelle vengeance plus délicieuse que de vous subtiliser la cité de l'or perdue juste au moment où vous pensez vous l'être appropriée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Corès et soyez maudit. Je vais vous écorcher pour faire de votre peau mon nouveau pavillon !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Madiccho ! Éclatez-les !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

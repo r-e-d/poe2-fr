@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2607_pirates_booty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>C'est ici que la profonde rivière qui descend des montagnes centrales de l'île rencontre la mer, formant un large delta. Les eaux d'un bleu azur s'étendent vers l'est, incroyablement calmes et silencieuses.
+
+Des mouettes planent au-dessus des hauts-fonds, plongeant de temps en temps à la recherche de nourriture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Regardez-moi ça", lâche Serafen, les yeux rivés sur l'eau. "Bleue comme un saphir, mais encore plus lisse." 
+
+Il adresse un sourire à Tekēhu. "Vous avez déjà vu ce rivage, mon garçon ? Vous avez vécu ici toute votre vie, non ? Vous avez vu beaucoup de ces îles avant de rejoindre le capitaine [Player Name] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai vu de nombreux endroits magnifiques. Et depuis que j'ai rejoint notre modeste équipage, j'ai aussi vu des lieux terribles.
+
+"Ce paysage est un agréable répit, m'est avis." 
+
+Tekēhu vous adresse un sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Serafen laisse échapper un petit rire. "Et moi qui pensais que l'Feu éteint, c'était juste des caves pleines de poussière et des trucs..."
+
+L'orlan s'interrompt, les sourcils froncés. "Hé, cap. Qu'est-ce que vous pensez de ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Un canot éculé repose sur la plage, et un galion est en mouillage à environ un mille de la côte. Des empreintes de pas récentes marquent le sable le long de la rivière, menant vers l'intérieur de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Suivre les empreintes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous suivez le chemin vers l'intérieur des terres. Contrairement à la mer, les eaux de la rivière descendent des collines en bouillonnant. De l'autre côté du cours d'eau se dressent les ruines effondrées d'une tour ancienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous apercevez près de la rive un groupe de kiths en tenues de flibustiers, accompagnés d'un ogre et d'un diablotin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Les approcher] "Ohé, là !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attaquer sans avertissement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Vous cacher dans les broussailles]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous laissez les pirates à leurs desseins et vous redescendez en direction de la mer en suivant le cours de la rivière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous retournez à la rivière Koro et vous la remontez jusqu'aux cascades qui l'alimentent. Vous ne trouvez personne sur les rives du lac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Chercher le coffre enfoui]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous fouillez les berges et trouvez un carré de sable et de pierres dérangés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous fouillez les berges, mais vous ne trouvez pas de traces de quoi que ce soit que les pirates auraient laissé derrière eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Après quelques recherches, [Specified 0] indique un carré de sable et de pierres fraîchement retournés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Après une bonne heure de recherches, [Specified 0] ne trouve pas de traces de quoi que ce soit que les pirates auraient laissé derrière eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous fouillez les berges et trouvez un carré de sable et de pierres dérangés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Après quelques recherches, [Specified 0] indique un carré de sable et de pierres fraîchement retournés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous déterrez un coffre protégé par une serrure complexe en cuivre. Un message, gravé grossièrement sur le couvercle, jure avec le bois poli :
+
+&lt;i&gt;Nous avons caché cette chose du reste du monde... en espérant qu'elle ne cause plus de mal. Ouvrez ce coffre à vos risques et périls.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>N'ayant pas de raison de rester là, vous redescendez le long de la rivière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Le contenu de ce coffre a été magiquement altéré", affirme Aloth, avant de marquer une pause.
+
+"Et je ne suis pas certain qu'il soit... de nature agréable." Il fronce le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le coffre contient une courte lame, enveloppée dans un chiffon taché de jaune et de vert.
+
+Votre découverte en main, vous redescendez la rivière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Crocheter la serrure et ouvrir le coffre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Forcer la serrure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Ouvrir le coffre à la grenade]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Enterrer le coffre et vous en aller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>La serrure ne se laisse pas faire, mais ce n'est rien d'insurmontable pour vous. Vous bataillez un peu, et le coffre finit par s'ouvrir avec un déclic audible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous faites de votre mieux avec vos crochets, mais le coffre tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous enfouissez à nouveau le coffre et vous redescendez le long de la rivière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous enfoncez un levier dans la petite fente entre le couvercle et la base du coffre. Vous appuyez de toutes vos forces sur votre outil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] cale un levier sous le couvercle du coffre. Grognant et pestant, votre compagnon force le plus possible sur l'outil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous placez soigneusement la grenade dans la terre de manière à ce que l'explosion soit dirigée sur le coffre.
+
+Puis vous vous mettez à couvert. L'explosion projette une pluie de terre et de bois, et le coffre est ouvert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous amorcez une grenade, vous la placez sous le coffre et vous reculez d'un pas.
+
+L'explosion vous projette dans le décor. Vous vous relevez en grimaçant et vous voyez une tache de sang se former sous vos côtes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Le coffre s'ouvre en un craquement retentissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le coffre résiste solidement aux tentatives de le forcer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] esquisse un sourire en coin et s'attaque à la serrure. Quelques minutes plus tard, le coffre s'ouvre avec un déclic audible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Après une lutte acharnée avec la serrure, [Specified 0] se lève et soupire. "J'y arriverai pas, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0] place la grenade à la base du coffre et la recouvre de terre.
+
+Vous vous mettez tous les deux à couvert. L'explosion projette une pluie de terre et de bois, et le coffre se disloque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0] est encore en train de placer la grenade sous le coffre quand elle explose. Votre compagnon est projeté au sol, accompagné d'une pluie de terre et de métal. Il saigne abondamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vous vous dissimulez derrière un rocher recouvert d'une mousse épaisse et rendu glissant par la brume. Le murmure continu des pirates se mêle au rugissement de la cascade.
+
+Ils ne semblent pas avoir remarqué votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous vous dissimulez derrière un rocher, mais votre pied heurte une petite pierre au passage et l'envoie rouler. Le caillou dévale la colline et les pirates lèvent les yeux vers vous.
+
+"QUELQU'UN SE CACHE DERRIÈRE LE ROCHER !" couine le diablotin, pointant frénétiquement du doigt dans votre direction. "JE L'AI VU EN PREMIER."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bien que vous parveniez à vous glisser adroitement derrière le rocher, [SkillCheck 0] déloge malencontreusement un caillou qui se met à dévaler la colline. Les pirates se taisent et regardent dans votre direction.
+
+"QUELQU'UN SE CACHE DERRIÈRE LE ROCHER !" couine le diablotin, pointant du doigt dans la direction de [SkillCheck 0]. "JE L'AI VU EN PREMIER."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Les pirates se tournent pour faire face à votre charge, dégainant leurs armes à la hâte...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les pirates se tournent vers vous, échangeant des regards confus lorsque vous apparaissez soudainement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Envoyons-les à Cirono, les gars !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Un des kiths, un jeune homme bien habillé, s'avance avec la main près de la garde de sa lame...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Vous approcher discrètement pour observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Vous éloigner discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous vous déplacez prudemment parmi les rochers jusqu'à ce que vous ayez une meilleure vue du groupe. Ils se tiennent autour d'un lourd coffre à trésor niché dans le sable et les pierres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Attendre et observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Le groupe semble clairement ne pas être pressé. Les heures passes tandis que vous restez tapi dans votre cachette, vos vêtements imprégnés de la brume fraîche de la cascade.
+
+Ils finissent enfin de creuser leur trou et ils y placent le coffre, avant de se mettre à remplir à nouveau la fosse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Continuer d'observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Quelques heures plus tard, leur tâche est accomplie. Le trésor est enterré et les pirates s'attardent un peu, essuyant la sueur de leurs fronts. 
+
+Un des pirates, peut-être leur chef, s'exclame : "On a besoin d'un coup à boire après tout ça. Sors le grog, Gros Burknur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Continuer d'observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Le tonneau et le répertoire de chansons de marins épuisés, ils rassemblent leurs outils. Ils redescendent le long de la rivière d'un pas mal assuré, passant à quelques pieds de vous sans jamais s'en rendre compte.
+
+Vous suivez leur progression à l'oreille jusqu'à ce que vous n'entendiez plus rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Déterrer le coffre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Vous trouvez facilement l'endroit où le coffre est enterré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Creuser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>La source de la rivière, un vaste lac circonscrit presque entièrement par des falaises rocheuses, s'étend devant vous. Il est alimenté par d'imposantes cascades qui dévalent les promontoires rocheux de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vous entendez suffisamment de leur conversation pour comprendre qu'ils se disputent au sujet pour savoir qui va devoir prendre le premier tour à la pelle. 
+
+Ils ont l'intention d'enterrer le coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>L'ogre se saisit d'un gros tonneau posé sur un rocher non loin et le pose sur le sable. Les pirates éclatent de rire et poussent des acclamations, tout en tirant leurs chopes de leurs ceintures.
+
+Ils se mettent à entamer le grog – et leur sobriété, par la même occasion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous redescendez le long de la rivière jusqu'à la côte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous enfoncez un levier dans la petite fente entre le couvercle et la base du coffre. Vous appuyez de toutes vos forces sur votre outil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0] cale un levier sous le couvercle du coffre. Grognant et pestant, votre compagnon force le plus possible sur l'outil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Le coffre brûle, le couvercle grand ouvert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"QUELQU'UN SE CACHE DERRIÈRE LE ROCHER !" couine le diablotin, pointant frénétiquement du doigt dans votre direction. "JE L'AI VU EN PREMIER."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Déverrouiller le coffre]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

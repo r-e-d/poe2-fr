@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_engrim_port_maje</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"C'est vous, [Player Name] ?"
+
+Eld Engrim semble être en bonne forme, mais sa veste cirée est trempée. Il vous dévisage d'un œil trouble et hilare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"On peut retourner sur le bateau, maintenant ?"
+
+Vela se balance sur ses talons en vous regardant tous les deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bonne nouvelle, capitaine. J'ai trouvé des provisions. Elles ont dû échouer sur le rivage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mm. Excellente façon de se dégourdir les jambes après avoir dormi si longtemps, je trouve."
+
+L'œil d'Engrim papillote à nouveau et la paupière s'affaisse tandis qu'il opine du chef, convenant de sa propre sagesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ça s'est bien passé, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mieux encore, j'ai repéré des esprits. De type banal, j'entends. Rien qui ne nécessite vos talents, Gardien."
+
+Ses yeux chatoient et pétillent de plaisir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Irrena va bien. J'ai jeté un coup d'œil à sa jambe. Quelques jours de repos et elle sera à nouveau sur le pont, Magran soit louée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sur la terre ferme, oui, mais le monde a le tournis. Il me faut à boire... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Avez-vous vu d'autres survivants ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Un au nord, près de la grotte. C'était peut-être ce pitre guindé de Beodul. J'ai appelé, mais la tempête couvrait ma voix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Cela vaut la peine d'inspecter le navire. Si Magran le veut, quelqu'un aura résisté au fracas sans se faire jeter à l'eau."
+
+Il essore de l'eau du bas de sa veste matelassée de manière théâtrale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Que devrions-nous faire maintenant, à votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ne pas rester plantés là, pour commencer. Ce serait une bonne idée d'explorer un peu l'endroit. Nous ne sommes peut-être pas les seuls à avoir survécu à l'épreuve de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Il ne reste plus que nous maintenant, capitaine. Vous devriez vous rendre en ville, vous occuper des provisions et des réparations. Je veillerai sur le navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aucun. On a subi une sacrée dérouillée, capitaine. Mais on est toujours vivants et prêts à en découdre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Savez-vous quoi que ce soit au sujet de cette île ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Elle est peuplée de kiths. Ça, au moins, je le sais. Ce qui veut dire que ça aurait pu être pire pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Cela dit, on est sûrement en plein territoire pirate. Ils ont quelques planques dans le coin. M'étonnerait pas que cette grotte au nord soit l'une d'entre elles.
+
+Il se peut qu'ils nous y attendent en ce moment même." Malgré son ton menaçant, ses yeux pétillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je vais faire bouillir de l'eau. On va jeter un œil à ta jambe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"T'aurais dû me voir avec ce tonneau, Engrim. Je lui ai montré qui commandait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"J'aurais dû me douter que tu t'en sortirais en un seul morceau, vieux grognon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Plutôt mourir que de te laisser siffler la dernière goutte de bière du navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mm. Les épreuves que Magran impose à certains d'entre nous sont moins ardues que d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Voilà, jeune femme. Ne laisse pas le feu s'éteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vois, Magran ! Ma flamme brûle toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Le moment est peut-être venu de titiller le sanglier, avant que la faim et la faiblesse ne se fassent ressentir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Les sangliers sont méchants !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'est vrai, jeune fille, mais ma faim aura raison de leur méchanceté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous êtes toujours ivre, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vela, ne laisse pas Engrim avoir une mauvaise influence sur toi en mon absence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous vous êtes réveillé pile au meilleur moment. On était en train de repousser des bâtards de boucaniers, et puis on s'est fait jeter dans les profondeurs glaciales des flots d'Ondra."
+
+L'œil d'Engrim pétille tandis qu'il vous adresse un sourire notable par sa remarquable absence de dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Sans réparations, le navire n'ira nulle part. Ce chemin qui mène vers l'intérieur des terres semble être notre meilleure chance. 
+
+Avant de partir, vous devriez donner quelques coups de pied aux corps qui gisent dans le coin. Pour voir si certains d'entre eux réagissent. Pour mettre les voiles, on va avoir besoin d'un équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ne devriez-vous pas être en train de donner un coup de main ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Mais c'est ce que je fais, capitaine. Je prie pour qu'on ait une autre occasion de nous mesurer à ces pirates. On ne les laissera pas filer, cette fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sec comme un poisson au soleil, Gardien."
+
+Son sourire est en partie couvert par sa barbe, mais ses yeux pétillent de malice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ce n'est pas très gentil de votre part. C'est vous qui avez décidé d'arracher ce marmot aux étendues sauvages d'Eir Glanfath. Reprochez plutôt à votre intendante de pierre d'avoir amené la petite poilue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oncle Engrim, tu m'as promis une bière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Plus tard, trésor. Oncle Engrim a soif, lui aussi."
+
+Il se tapote distraitement la poitrine, près du cœur, et un petit bruit sourd et métallique émane de dessous la veste du prêtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Par où devrais-je commencer, à votre avis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"J'ai entendu brailler près du Défi. Ça vaut la peine d'aller jeter un œil, au cas où quelqu'un s'est fait jeter du pont sur la plage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je vais voir si je trouve quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je vous retrouverai au feu de camp, capitaine. La flamme de Magran réchauffe mon âme, mais l'équivalent palpable fera du bien à mes vieux os."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous y trouverez Irrena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Beodul s'y trouve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Irrena et Beodul y sont déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Bien. Je vais faire du feu."
+
+Il hoche la tête avec enthousiasme, l'œil tiquant.
+
+"Un vrai &lt;i&gt;bon&lt;/i&gt; feu pour remercier Magran de toutes ses épreuves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bien, bien. Je serai à l'affût de tout signe de la présence d'autres personnes, Gardien, si vous faites de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Bien. Bien. On va écumer la plage, tous les trois."
+
+"Je parie que ce chemin là-bas mène à un endroit qui peut nous être utile. Là où il y a un chemin, il y a des gens. Là où il y a des gens, il y a des marchandises. Je pense que ça vaut le coup d'essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Établissez un campement. Vous êtes le seul survivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je vois. Dommage. Magran finit par tous nous mettre à l'épreuve. Puissent ces pauvres bougres décédés connaître meilleure fortune au prochain tour de la Roue."
+
+Avec doigté, il tire une flasque d'une poche râpée de sa veste et la lève en leur honneur, avant de boire une longue gorgée. Il ferme les yeux et incline la tête, offrant une prière silencieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ouais. Magran enseigne aux pauvres bougres comme nous qu'une petite dose de sensations fortes est bonne pour le cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Euh... sans vouloir manquer de respect aux vôtres, capitaine."
+
+Il laisse échapper un petit rire et vous adresse un hochement de tête respectueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Engrim opine du chef avec enthousiasme, le regard pétillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Les flammes finissent par tout révéler, mon frère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Le dernier Magranite avec lequel j'ai voyagé n'était pas vraiment à la hauteur du défi que la déesse lui avait lancé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Le dernier Magranite avec lequel j'ai voyagé a failli perdre la raison à cause des épreuves de sa déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'ai subi suffisamment d'épreuves pour aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Les dieux eux-mêmes ne peuvent me briser, Engrim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ouais. Pauvre Durance. Puisse ce fils de garce timbré connaître des jours meilleurs au prochain tour de la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ouais, mais &lt;i&gt;failli&lt;/i&gt; ce n'est pas totalement perdre la raison. Ah, ce vieux Durance. La déesse n'en façonnera pas d'autre comme lui de notre vécu, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"D'autres pourraient penser que vous blasphémez en disant cela. Mais quand Magran l'entend, capitaine, elle sait que la flamme brûle en vous, oh que oui !"
+
+Ses yeux sont ronds d'enthousiasme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Quoi ? Qu'est-ce qu'il y a ? Arrêtez de me fixer comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je suis désolé, Beodul. J'aurais dû essayer de vous sauver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Pourquoi ? Ma patte folle vous rend jaloux ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Chitupec se trouve là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Les autres attendent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Bien. Bien. On va écumer la plage, tous les quatre."
+
+"Je parie que ce chemin là-bas mène à un endroit qui peut nous être utile. Là où il y a un chemin, il y a des gens. Là où il y a des gens, il y a des marchandises. Je pense que ça vaut le coup d'essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"On se retrouve là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Il existe une grotte, au nord. Certains de nos compagnons ont pu aller s'y réfugier. Si vous trouvez que des cadavres refroidis, on pourra prier pour leurs âmes et les soulager de leurs possessions de mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Il y a aussi la grotte, au nord. Elle fournira un abri, même si aucun survivant y est allé."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

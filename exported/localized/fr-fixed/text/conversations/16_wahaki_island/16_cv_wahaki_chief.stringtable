@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_cv_wahaki_chief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>291</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Depuis son trône, la femme aux larges épaules pose son regard sur vous. La peinture blanche sur son visage ajoute une touche sinistre à son stoïcisme. Des brasiers fumants remplissent l'air d'une chaleur oppressante, mais qui ne l'affecte pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vais écouter ce que vous avez à dire, étranger." Ruāsare vous fait signe de parler franchement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous savez que l'achat d'esclaves étrangers est autorisé dans tout le Feu éteint ?" Un ombre tombe sur les yeux de Ruāsare alors qu'elle fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Attaquer] "Je suis ici pour vous passer le bonjour de l'Éperon tordu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Un intrus ! Apportez-moi sa tête !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je suis venu vous avertir que les esclavagistes prévoient de vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pardon ? Et comment savez-vous cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ils m'ont envoyé pour faire le sale boulot. Je compte les décevoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Mentir] "Je ne travaille pas pour eux. Je le tiens de quelqu'un d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Et vous avez fait tout ce chemin pour me faire part d'une rumeur ?" Elle croise les bras et vous regarde sans piper mot. Quand il n'y a plus rien à ajouter, elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Il me faudra une explication, ou je serai dans l'obligation de vous ouvrir le ventre, au cas où la vérité sortirait de vos entrailles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"M'est avis que les Wahakis ne demandent pas d'offrandes, mais vous n'êtes pas venu les mains vides. Vous voulez quelque chose ? Demandez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"La reine vous envoie nous rappeler que nous sommes des vassaux. Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les étrangers ne viennent pas à Ori o Koīki sans une idée derrière la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Si Onekaza est prête à s'opposer aux étrangers, nous aurons besoin de toute notre force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je vais chasser ces esclavagistes comme des pourceaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Burapo a filé dans la gueule de Tangaloa. Le pauvre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sans oublier Tangara. Deux morts depuis votre arrivée, étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tangara nous a quittés. Puisse son prochain voyage à travers les entrailles de Rikuhu se passer plus en douceur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Et puis Burapo. Ekera, les anguilles de la vie et de la mort nagent dans votre ombre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"L'Éperon tordu est une plaie pour l'archipel. Je prie pour que Ngati emporte cette île sous l'eau de ses deux griffes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Nous n'avons pas besoin de bouffons. Qu'est-ce qui vous amène à Ori o Koīki ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"La reine Onekaza II propose une alliance aux Wahakis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Nous vous gratifions de notre hospitalité pour la durée de cette audience. N'en abusez pas." L'homme à l'air zélé aux côtés de la ranga vous dévisage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Mais nous retournera-t-on cette hospitalité ?" Un mystique agité consulte les runes dans ses mains. 
+
+La ranga le réduit au silence d'un regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>S'avançant sur son trône, elle ouvre sa main, révélant un superbe koīki. Pensivement, elle en prend une grande bouchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"[Player Name], sa peinture faciale. Vous ne pensez quand même pas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ruāsare tourne la tête vers Aloth, qui s'interrompt aussitôt. Elle pose de nouveau son regard sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Elle pose le koīki sur l'accoudoir et ouvre la main pour vous inviter à parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je n'ai pas besoin d'étrangers pour savoir que les esclavagistes en ont après moi. Êtes-vous ici sur leurs ordres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ekera, ce n'est pas un comportement digne d'une reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Qu'est-ce que je peux faire pour prouver ses intentions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ne croyez-vous pas qu'elle attend juste le bon moment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Si elle ne vous a pas convaincu, laissez-moi essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je suis venu discuter de votre problème d'esclavagistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous bafouez notre hospitalité ? Saleté d'étranger !" Ruāsare grince des dents et s'avance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Je voulais discuter un peu plus de la proposition d'alliance de la reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Je suis prête à sacrifier des Wahakis pour la vraie reine huana, mais Onekaza doit agir en tant que telle." Ruāsare croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Attaquer] "Je déteste négocier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Bah ! Alors, elle n'aurait jamais dû laisser les étrangers mettre les pieds à Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vous croyez la reine rusée, mais elle est sur le point de perdre le pouvoir." D'un air dégoûté, Ruāsare balaie l'air de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>La joie éclaire ses yeux. Ruāsare se rapproche et vous serre dans ses bras avec force, faisant craquer votre dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Dites à Onekaza que les Wahakis se soumettent à son autorité. S'il lui faut un jour montrer aux étrangers l'étendue de son pouvoir, nous serons là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"La reine est plus féroce que vous ne le suspectez, tout comme moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"La reine souhaite redevenir une puissance impériale. Elle ne peut y parvenir sans votre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Elle échange un regard intrigué avec ses serviteurs, mais finit par secouer la tête en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"C'est ce qu'elle vous a dit ?" Les sourcils froncés, Ruāsare se caresse le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Il ne peut y avoir d'empire alors que des étrangers divisent notre terre natale. Onekaza a déjà échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Vous vous attendez à ce qu'elle se dresse seule contre les Rauatais et les Républiques de Vailia ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"La ranga fait office d'exemple pour le royaume et ne flanche jamais. Jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Féroce ? Ce n'est pas un mot à prendre à la légère dans la bouche d'un diplomate." Elle se gratte le menton, vous dévisageant avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous tombez dans le même piège que les étrangers : vous la croyez faible sur la foi des apparences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ruāsare ouvre la bouche pour vous contredire, mais elle s'interrompt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"La reine kahanga montre la panse pour que l'ennemi ne voie pas ses griffes..." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"C'est une stratégie louable. Les Vailiens et les Rauatais sont assez idiots pour y croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Avant d'accepter les termes d'Onekaza, il me faut m'occuper de mes propres nuisibles. Ils ne sont pas aussi grands que les compagnies marchandes, mais ils sont presque aussi dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Onekaza peut profiter de sa fausse impression de sécurité un peu plus longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Il est dangereux de faire un tel pari avec mon peuple. Nous sommes bien plus habitués que vous à ce genre de jeu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ekera, vous êtes aussi aveugle que vos compatriotes." Ses lèvres se retroussent en un sourire féroce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Nos entreprenants ennemis sont regroupés dans une petite forteresse sur la pointe de l'île de l'Éperon tordu, au nord-ouest de Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ce n'est pas mon combat. Laissez-moi y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ordures d'esclavagistes." Ruāsare plisse les yeux et se jette sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Reine. Je trouve que vous usez bien librement de ce mot étranger vide de sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Me montrerez-vous jusqu'où va votre férocité, étranger ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Si cela nous permet de nous entendre, volontiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Tout dépend de ce que vous avez en tête. Je vais peut-être devoir m'étirer avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Dites-moi ce que vous voulez et j'y réfléchirai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ruāsare prend d'abord un air décontenancé. Puis elle éclate de rire quand elle comprend ce que vous voulez dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je l'aime bien celui-là." Elle adresse un signe de tête à ses serviteurs, qui arborent tous deux un sourire féroce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Pour l'instant, j'ai des affaires plus pressantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Un rire étouffé brise le silence. Tekēhu, qui ne s'en était pas rendu compte, couvre sa bouche, l'air joyeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Tuer des têtes d'ancre, des bâfreurs d'asticots, des suceurs de coques de vendeurs d'esclaves, voilà un boulot dans nos cordes, madame."
+
+L'orlan affiche un grand sourire, passant la langue sur ses dents crochues, tandis que ses doigts caressent la poignée de son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Gardez votre langue dans votre bouche, être poilu." Elle s'écarte de Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Que dire ? Si ces parasites rendaient leur dernier souffle, j'en entendrais parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Ses yeux s'illuminent et un sourire sincère se dessine sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Vous parlez de l'Éperon tordu ? Je me suis déjà occupé d'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Se pourrait-il que ce soit vrai ?" Elle jette un coup d'œil à ses serviteurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Serait-ce possible ?" Elle vous regarde de haut en bas avec stupéfaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Le prêtre consulte ses ossements. Ses sourcils s'arquent et il fait un signe de tête à la reine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Tangara serre les poings. Burapo joint le bout de ses doigts et entame une prière enfiévrée.
+
+Ruāsare leur fait signe de se raviser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Vous ne tirez pas votre arme. C'est une bonne chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Ruāsare hausse les sourcils et vous contemple en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Vous êtes l'étranger qui a fait face à Kipeha, et pourtant vous ne pénétrez pas par l'entrée principale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Je ne suis pas assez naïve pour croire que c'est la mauvaise fortune qui suit votre sillage." Soutenant votre regard, elle saisit son arme avec lenteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Elle lâche un cri de ralliement et attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Est-ce que le nom de « Thaos » vous dit quelque chose ? Ou celui de la « Clé plombée » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Que signifient vos peintures faciales ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Je sais juste qu'ils grincent et cliquètent comme des noms étrangers." Elle fronce les sourcils.
+
+Pourtant quelque chose dans son âme fait des étincelles, comme du petit bois dans un feu. Il y a une présence ancienne avec ses souvenirs propres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Pas si vite, étranger." Ruāsare tend la paume de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Pourquoi devrais-je vous laisser circuler à Ori o Koīki si librement ? Nous ne baissons pas notre garde face aux espions étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Qu'est-ce que je peux faire pour gagner votre confiance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Ne me barrez pas la route. Je vais où je veux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[Attaquer] "Vous ne devriez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Les Wahakis vous offrent leur hospitalité. Respectez nos coutumes et ne causez pas d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Votre tribut vous a permis d'accéder à une audience. Mais vous n'avez pas acheté ma confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Votre éloquence vous a permis d'entrer. Ce n'est pas grâce à elle que vous repartirez d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Un geste pour la tribu. Un geste scellé par le sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Cette ruine engwithane est une cachette confortable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>[Attaquer] "Je viens débarrasser le Feu éteint de cette tribu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Nous ne nous cachons pas. Nous protégeons un mode de vie que les autres écraseraient sous leurs bottes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Les compagnies marchandes dépouilleraient la terre que les dieux nous ont donnée et détruiraient ce qu'ont bâti nos ancêtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Il y a beaucoup à protéger au Feu éteint. Bien trop pour une seule tribu."
+
+Elle pousse un soupir, roulant des épaules pour relâcher un peu de tension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Se montrer généreux envers un étranger, c'est l'essence-même de l'hospitalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Bien parlé. Entendez-vous comme il nous couvre de honte, mes amis ?" Elle jette un regard vers Tangara et Burapo avant de se retourner vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Elle échange un regard embarrassé avec ses conseillers et se retourne vers vous, le front plissé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Vous êtes tranquille dans cette cour, mais nous ne sommes pas ici pour bavarder. Vous allez faire part de vos intentions. Maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Patience. Des questions plus urgentes requièrent notre attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Je ne fais que passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Et vous pensez que je vais vous croire ?" Elle expire par le nez en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Quelqu'un doit leur apprendre ce qu'est la vengeance wahaki, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Et pourquoi avez-vous besoin d'une aide extérieure ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Les Wahakis montrent aux étrangers que nous connaissons leur visage sournois." Elle crache par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Nous arborons la grimace blanche comme un os de nos ennemis et elle nous apporte de la force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>[Sonder son âme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>L'essence flotte près de Ruāsare. En son sein, vous sentez une présence antique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>[Sonder son âme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Vous pénétrez son âme à la poursuite de cette bribe de souvenir. Vous sentez des centaines de naissances et de morts en elle, se formant et s'évanouissant comme des bulles dans l'eau bouillante. 
+
+Vous les traversez, concentrant vos sens débordés sur le souvenir d'un intriguant étranger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Quand vous finissez par le saisir, vous vous retrouvez de nouveau dans la salle du trône. Mais l'état de l'endroit, ainsi que le souvenir de votre hôte, laissent penser que cela remonte à de très nombreux siècles.
+
+Si ce n'est plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Vous êtes assis sur l'estrade. On amène un homme devant vous, engoncé dans une étroite robe noire. 
+
+Il vous rappelle un cadavre habillé pour ses funérailles.
+
+Il vous rappelle autre chose aussi, mais l'une de vos servantes s'avance et interrompt le fil de vos pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Elle vous annonce que c'est l'homme que vous vouliez voir, et que son peuple a persécuté le vôtre.
+
+Il se fait appeler « Thaos ix Arkannon ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Parlez, étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Il vous lance un sourire qui met vos nerfs à vif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Votre Excellence, je suis venu prévenir votre peuple. Votre présence en ces ruines est un affront aux dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Il vous faut partir, sous peine d'affronter la colère des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>En fait, l'homme est encore plus insensé que ce qu'on vous avait dit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Alors, les dieux doivent prendre leur temps. Voilà deux siècles que nous vivons ici et ils n'ont pas encore émis d'objection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Il s'incline. "La perception qu'ont les dieux du temps n'est pas à la portée des mortels. Mais même leur patience peut s'épuiser, surtout après cet avertissement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Vous sentez clairement votre propre patience s'épuiser.
+
+Pour qui se prend cet étranger, qui renvoie les vôtres de leurs demeures et de leurs foyers ?
+
+Et qui est-il pour pour parler à votre peuple de survivants de la colère des dieux ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Quelle sorte d'invité ingrat expulse ses hôtes ? Nos ancêtres ont bâti cet endroit il y a des siècles. Nous ne partirons pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>L'espace d'un instant, sa façade mielleuse se décompose et il cligne des yeux en vous regardant, vous et vos serviteurs.
+
+Vous avez l'impression que votre réponse l'a surpris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Votre peuple s'accroche jalousement à son histoire." Il parle en serrant les dents. Il déglutit, comme s'il venait d'avaler quelque chose de désagréable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Mais ces motifs, où les retrouve-t-on dans la vôtre ? Où sont les sculptures d'adra dans vos huttes en bois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Vous le saviez fou, mais maintenant vous le suspectez aussi d'être dangereux.
+
+Ses mots sont des mensonges, mais à l'instar des meilleurs mensonges, ils contiennent l'ombre de la vérité. 
+
+Tout le monde sait que des étrangers ont un jour vécu parmi les vôtres, en tant qu'invités. Mais vous n'avez pas eu de tels invités depuis deux cents ans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Cet endroit n'a pas été bâti par les Huanas, mais par un ancien peuple venu d'une terre lointaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Les peintures murales en ces lieux et les histoires de nos ancêtres racontent une autre histoire. Étranger, comment pourriez vous connaître notre histoire mieux que nos propres aïeuls ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Deux questions vous donnent des sueurs froides : comment saurait-il ?
+
+Et pourquoi vous en parle-t-il ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Il sourit. "J'ai vu vos fresques. Et je sais que vous reconnaîtrez ceci."
+
+Il présente un casque avec deux protubérances en forme de cornes et un masque attaché.
+
+Il a raison. Vous le reconnaissez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Vos gardes et vos serviteurs en ont le souffle coupé. L'homme, Thaos, élargit son sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"C'est mon peuple qui a fondé cet endroit. Et je me présente à vous pour vous transmettre leur avertissement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Au moins, cette partie-là est vraie.
+
+Vous vous tournez vers vos gardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Emparez-vous de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Alors que Thaos prend un air surpris, l'ancien souvenir de la ranga fait un saut dans le temps.
+
+Vous regardez de nouveau Thaos. Mais cette fois, lui et une vingtaine d'hommes et de femmes en robe sont attachés au milieu d'un tas de tourbe et de bois.
+
+Cette fois, il vous fixe d'un regard furieux et incrédule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Vous avez rassemblé votre peuple et lui avez annoncé que les étrangers sous leurs yeux sont ceux qui sont venus dans les îles il y a des siècles. 
+
+Et maintenant votre peuple est en colère, mais aussi effrayé, car chaque Wahaki se rappelle comment ces étrangers avaient abusé de l'hospitalité de leurs hôtes huanas. Leur iniquité avait été si immense que les dieux avaient détruit la grande ville d'Ukaizo ainsi que de nombreuses autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Regardez, je vais nous purger de leur souillure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Votre peuple pousse des acclamations. Thaos se débat et hurle, mais ses mots sont noyés dans la clameur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"N'oublions jamais que cet étranger est un escroc, et son peuple un fléau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Des centaines de Wahakis battent des pieds et frappent le sol du bout de leurs lances. 
+
+Et Thaos, le regard noir, continue de s'agiter en protestant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"À partir de ce jour, il nous faudra être vigilants. Éradiquons les étrangers comme eux et gardons nos terres vierges de leur cruauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>La tribu acclame, plus fort que jamais. Jeunes et vieux, Matarus et Roparus, sont tous réunis autour d'une cause commune.
+
+Quelque chose semble changer chez Thaos. Il cesse de se débattre et ses traits s'apaisent.
+
+Bien. Qu'il accepte son sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Un de vos serviteurs vous présente une torche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>[La jeter sur le bûcher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Vous lancez la torche. Les flammes prennent rapidement.
+
+Alors que le feu progresse, les étrangers hurlent. À l'exception de Thaos, qui vous observe avec un étrange sourire satisfait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Vous vous éloignez du souvenir et la terrible scène s'évanouit autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Vous pénétrez son âme, à la poursuite de cette présence. Vous sentez des centaines de naissances et de morts en elle, se formant et s'évanouissant comme des bulles dans l'eau bouillante. 
+
+Vous les traversez, concentrant vos sens débordés sur le souvenir d'un intriguant étranger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Vous vous retrouvez de nouveau en train d'observer le corps de Ruāsare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Pourquoi ce regard insistant ?" Ruāsare vous adresse un froncement de sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Tenez-vous correctement. Des étrangers, nous en avons assez vu comme ça." Elle pointe un long doigt en direction du cadavre d'Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Des os noirs. C'est Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"C'est... ? Madiccho, c'est bien lui. C'est Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Qu'avez-vous fait à Aloth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Vous connaissez cet elfe idiot ? Il est venu nous parler de clés et d'espions anciens. Des histoires pour nous effrayer et nous tromper." Elle vous regarde d'un œil suspicieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"J'ai persuadé Maître Kua de quitter le Feu éteint. Vous n'entendrez plus parler de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Quitter le Feu éteint ?" Ruāsare plisse le front et croise les bras, tapotant son biceps avec son poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Vous êtes venus à nous alors que nous avions besoin d'aide. Vous êtes désormais un ami de la tribu. Allez en paix." Ruāsare joint ses mains et vous adresse un signe de tête, gardant la pose le temps d'un moment solennel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Si vous vous rendiez à l'Éperon tordu, vous voilà bien loin de votre destination. Vous feriez mieux de vous laisser guider par le bruit des lamentations des esclaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"M'est avis que je connais une histoire, moi aussi. Une histoire faite de belles paroles, de fausses promesses et de trahisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Les navires de guerre rauatais cernent l'Éperon tordu et les vagues portent les cris des esclaves, semblables au chant de mouettes meurtries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"L'Éperon tordu intéresse la Compagnie royale du Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Vous avez laissé l'Éperon tordu sans meneur. Vous deviez bien vous attendre à ce que quelqu'un prenne la place qui s'était libérée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Ekera, alors c'est vrai. S'ils veulent arrivent à leurs fins, ils devront nous passer sur le corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Ne pouvons-nous pas en discuter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>[Attaquer] "Au moins, je ne décevrai pas Berath quand je vous enverrai à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Il n'y a que les lâches ou les imbéciles pour perdre leur langue." Elle fait une moue de dégoût.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>En tournant la tête, Ruāsare indique qu'elle n'a plus rien à dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Elle se mâche l'intérieur de la joue en restant silencieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Allez-vous en, étranger. Ne revenez pas si vous tenez à la vie." Elle vous chasse d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Je ne bafoue pas l'hospitalité des Wahakis, mais je vous recommande de vous en aller." Elle vous congédie d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"N'approchez pas, étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Je crois comprendre que les esclavagistes vous ont durement frappés. Je cherche aussi à me venger d'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"J'en ai entendu parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Pourquoi seulement des esclaves étrangers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Le trafic d'Huanas est un crime sur lequel même Onekaza ne peut fermer les yeux." Ruāsare grogne, dilatant ses narines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Ceux qui achètent ou vendent des kiths sont des monstres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Ces esclavagistes chassent dans les eaux aux environs d'Ori o Koīki. Comme des lâches, ils se tiennent à distance des profondeurs de la jungle... ha !" Ruāsare a beau s'esclaffer, son regard reste froid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Ils enlèvent les MIENS sur leurs bateaux de pêche et les vendent aux enchères comme des cochons. Et que fait Onekaza pour les arrêter ?" Ruāsare ouvre les bras et fait mine de chercher à gauche et à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Ouais, m'dame. Y'a pas d'suceur de fond de cale plus monstrueux qu'un suceur de fond de cale marchand d'esclaves."
+
+Il fait craquer la jointure de ses doigts, ses oreilles légèrement inclinées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Elle regarde Serafen d'un air perplexe, hésitant à acquiescer. Elle lui adresse finalement un bref hochement de tête et se tourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Ai-je besoin d'aide ? Non. Est-ce que j'en veux bien ? Oui." Ruāsare plisse les yeux et sa peinture de guerre prend une expression agressive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Mon peuple prend assez de risques comme ça. Pour gagner mes faveurs, il faut se sacrifier pour la tribu. Il faut tout risquer pour les Wahakis." 
+
+Elle hausse les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Ces créatures ont pris la sœur d'Apāro, mon aimé. Ekera, d'autres disparaîtront si nous n'arrachons pas son cœur à l'Éperon tordu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Tangara, rappelez les guerriers. J'accorde à notre invité la liberté de la jungle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Elle prend une grande bouchée du koīki et l'avale sans mâcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"À vos ordres, ranga." Tangara fait un discret signe de la main en direction de l'entrée et une silhouette dans l'ombre se presse hors de la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Si vous voulez aller et venir à Ori o Koīki, prouvez que vous êtes un ami des Wahakis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Elle s'essuie les mains et vous fait signe de continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"J'ai tué Maître Kua et j'ai aidé les vôtres à s'enfuir de l'Éperon tordu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"J'en suis venue à n'attendre que de troublantes nouvelles de la part des étrangers. Aujourd'hui ne fait pas exception, mais au moins vous m'apportez une histoire à raconter à mes petits-enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Il est rare que nous entendions de bonnes nouvelles en provenance de l'extérieur. La vôtre est un récit des plus... enthousiasmants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Hochant la tête, Ruāsare vous regarde de haut en bas, vous évaluant sans mot dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"L'Éperon tordu aurait dû savoir que nul Wahaki ne peut être emprisonné éternellement !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Pendant qu'Onekaza joue les diplomates, nous sommes les lances transperçant les entrailles de nos ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Les membres de la tribu que nous croyions perdus dans la gueule de l'Éperon tordu nous reviennent en nombre. Avez-vous quelque chose à me dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Lui et ses collègues savent désormais qu'il ne faut pas causer d'ennuis au Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"La violence cause plus de problèmes qu'elle n'en résout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"C'est votre parole contre mon instinct, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"Ce n'est pas l'expérience que j'en ai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>[Attaquer] "On se reverra dans votre prochaine vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"Hmm. L'ennemi de mon ennemi reste un étranger... mais un étranger plein de ressources." Elle fait claquer sa langue sur son palais en réfléchissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"J'ai tué Maître Kua et laissé les prisonniers se débrouiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Ils trouveront leur chemin. Je le sais." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Il me semble juste que ma main soit celle qui porte le coup fatal pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Très bien, brave étranger. Je suppose que vous savez comment retourner à l'Éperon tordu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Ces esclavagistes vous font confiance, ekera ? C'est une faille à exploiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Un meneur apprend à ne négliger aucune opportunité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Ne pouvons-nous pas en discuter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>[Attaquer] "Qu'il en soit ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"J'en ai assez de vos mensonges d'étranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Que dire ?" Ruāsare vous fait un signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Les étrangers mettent les îles sens dessus dessous et les lestent de leurs richesses. Onekaza les soutient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Hmm. Un courage aussi fou que le vôtre pourrait m'être utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Vous étiez proche de l'elfe ? Ekera. Ça risque de ne pas vous plaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"Vous parlez sans permission, étrangère !" Elle crache presque le mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>[Attaquer] "C'était mon ami. Vous ne vivrez pas assez longtemps pour le regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Nous nous sommes disputés. Il est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"Demandez. Ne parlez plus du mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Onekaza sera déçue d'apprendre que les Wahakis n'intercèderont pas en sa faveur." Ruāsare fait le geste d'épousseter son épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Elle croise les bras et attend que vous parliez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Je suis la ranga de cette tribu et je n'hésiterai pas à envoyer votre âme dans la gueule de Tangaloa si vous menacez les miens."
+
+Elle joint le bout de ses doigts, observant le moindre de vos mouvements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Embeta est devenu plus indulgent envers les étrangers. Ekera, je vais l'écouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"La perte d'Embeta m'a écœurée des étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"L'élu de Ngati est un signe bienvenu, m'est avis." Elle se tourne vers Tekēhu en marquant un temps d'arrêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"Ravi de faire votre connaissance, ranga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"L'esprit de la tribu s'est-il tant dégradé que sa ranga en a oublié l'hospitalité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Je parie que la gueule de Tangaloa est plus accueillante que ces ruines, au moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Elle cligne des yeux en vous regardant. Une fois, puis deux. Un sourire se dessine lentement sur son visage, faisant plisser sa peinture de guerre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"Mon ancêtre connaissait bien ce visage. Elle a décrit chacune de ses courbes haineuses dans nos histoires wahakies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>Ses yeux s'ouvrent en grand, comme si elle venait de recevoir une gifle. Sans dire un mot, Ruāsare joint le bout des doigts sur ses genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"Ekera, c'est le cas de le dire. Les étrangers envahissent l'archipel et nous sommes entourés d'ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Ekera, je vous remercie, chère ranga, bien que je n'apporte en ce jour aucun augure." Tekēhu incline la tête et touche le cercle sur son front avec deux doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Ne prononcez pas le nom de ceux qui ont causé la perte de la puissante Ukaizo. Leurs esprits ne sont pas les bienvenus." 
+
+Ruāsare plisse les yeux et vous étudie attentivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Qu'est-il arrivé à Aloth ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Il posait trop de questions." Elle vous regarde en plissant les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Tekēhu. M'est avis que nous avons assez d'ennuis sans que les miens se battent pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Ekera, c'est bien vrai. Je vais me tenir tranquille, cette fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Elle acquiesce et se retourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Les Wakahis semblent sur les nerfs pour une raison que j'ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Ekera. Pour une bonne raison." Ruāsare serre le koīki jusqu'à ce que son jus coule entre ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Vous l'avez assassiné !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Je ne comprends pas. Que vous a-t-il dit, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"J'ai protégé ma tribu. C'est mon droit. Libre à vous de le remettre en question." Elle hausse les sourcils et attend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"Des mensonges d'étranger. Les langues des étrangers sont tordues comme la queue d'un cochon, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Cuè ?! Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Ah, Aloth. Que t'imaginais-tu faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Je suis tombé sur un navire marchand dévasté non loin d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Ekera. Les étrangers savent qu'il ne faut pas approcher des terres des Wahakis." Elle referme son poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"Ce « gourdin de guerre » ressemble à une ancienne version de l'insigne de la Clé plombée." Aloth s'est penché vers vous et murmure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Auquel personne ne prête attention." Un sourire se dessine lentement sur ses lèvres avant de s'effacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Nous laissons le symbole du gourdin de guerre depuis des générations. C'est un avertissement. Un rappel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Nous allons bien nous entendre, m'est avis." Ruāsare sourit en découvrant toutes ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"Vos ennemis sont après une proie dangereuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"Ekera. Mon peuple n'est pas du genre à se laisser calmement exterminer." Ruāsare incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Le jeu n'en vaut pas la chandelle, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Voilà qui commence mal. Je ne peux hélas pas vous forcer à agir."
+
+Ruāsare fait claquer sa langue et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Même s'il ne s'engage pas à nous aider pour l'instant, une ranga garde toujours espoir."
+
+Elle penche la tête vers vous, laissant le silence parler pour elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"Quel accueil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"C'est une période difficile, il n'y a que les traîtres huanas couverts de pièces par les étrangers pour se réjouir."
+
+La pensée la fait grimacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Il est autorisé tant que personne ne touche aux tribus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"M'est avis que ce traité est plus fragile qu'un vieux parchemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Je ne suis pas un espion. Je suis le héraut de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"C'est la déesse de la mort qui vous amène dans ma salle ?"
+
+Elle incline la tête et pince les lèvres, intriguée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"Un... un augure des &lt;i&gt;plus&lt;/i&gt; prometteurs, ma ranga !"
+
+Dans son empressement, Burapo bégaie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"La générosité doit être réciproque, et les Wahakis ont besoin d'amis à leur service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Oui, mon vieil ami. Voyons ce que cet augure-là nous réserve." Elle lève les yeux au ciel et vous lance un regard excédé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"Alors, vous serviriez les Wahakis ? Pour la cause d'&lt;i&gt;Onekaza&lt;/i&gt; ?"
+
+Les yeux plissés, Ruāsare vous observe, hochant lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"Il vient toujours un moment où chaque ranga est mis à l'épreuve par Ngati. Alors je vais vous mettre à l'épreuve, ekera ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Maître Kua est mort. Cela met un terme à ses activités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"Dites à Onekaza que les Wahakis se soumettent à son autorité. S'il lui faut un jour montrer aux étrangers l'étendue de son pouvoir, nous serons là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"Patience. Des questions plus urgentes requièrent notre attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Nos entreprenants ennemis sont regroupés dans une petite forteresse sur la pointe de l'île de l'Éperon tordu, au nord-ouest de Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Onekaza sera déçue d'apprendre que les Wahakis n'intercèderont pas en sa faveur." Ruāsare fait le geste d'épousseter son épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

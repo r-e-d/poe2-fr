@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_huana_druid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Des bois très denses s'étendent à l'est de Port Maje, ralentissant votre progression. Des oiseaux voltigent au-dessus de vous et des insectes vrombissent sans relâche. Le chemin finit par se transformer en sentier animal, puis par disparaître complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous tombez sur un arbre dont l'écorce est creusée de marques étranges, qui forment un motif. Les stries semblent remonter de droite à gauche, quasiment à la verticale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examiner les marques]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Continuer d'avancer prudemment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La profondeur et la largeur des entailles font penser aux défenses d'un sanglier, et les touffes de poils bruns enchevêtrées dans le bois lacéré confirment votre supposition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] examine les entailles dans le bois, puis détache une touffe de poils sur le côté de l'arbre. 
+
+"Ce sont des sangliers qui ont fait ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous remarquez un sceau gravé à la surface du bois, si légèrement qu'il en est presque imperceptible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] tapote l'arbre. "Regardez ça."
+
+Un sceau a été gravé à la surface du bois, si légèrement qu'il en est presque imperceptible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous ne voyez pas du tout ce qu'il peut signifier. Il fait peut-être partie d'un rituel local.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0] fronce les sourcils. "Ça ? Ça a l'air naturel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous vous enfoncez prudemment dans la forêt, les vêtements humides à cause de la moiteur de l'air et de l'eau gouttant de la canopée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Un léger bruissement dans les broussailles attire votre attention vers le nord, dans les profondeurs de la forêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Appeler] "Ohé ? Il y a quelqu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Vous cacher dans les broussailles]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Tenter de vous enfuir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous vous tapissez silencieusement derrière un rondin et retenez votre respiration. Ce qui est à l'origine de ce bruit se rapproche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous vous tapissez dans les broussailles, mais trébuchez sur un rondin appuyé contre un arbre. Sans rien pouvoir y faire, vous le regarder tomber et entraîner à sa suite une liane enroulée autour d'une branche morte.
+
+Le feuillage mort s'écrase bruyamment par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Le son se rapproche, et un grand aumaua émerge de la végétation. Des cheveux roux en bataille encadrent son visage, tandis que le reste de son corps est enveloppé dans des peaux de sanglier. Plus étrange encore, il est accompagné de plusieurs sangliers, dont les poils du cou se hérissent quand ils vous reniflent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Par une trouée du feuillage, vous discernez un grand aumaua insulaire au milieu d'une petite harde de sangliers. Sa chevelure cuivrée et emmêlée dissimule ses traits, tandis que des peaux de sanglier lui enveloppent le corps. Malgré sa présence, les sangliers semblent parfaitement à l'aise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous partez à travers bois, retournant vers le sud et les prairies herbeuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous retournez dans l'épaisse forêt qui s'étend à l'est de Port Maje. Vous vous frayez un chemin à travers les broussailles, quand des reniflements et des bruissements s'élèvent autour de vous. Vous faites volte-face, cherchant la source de ce bruit...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Salutations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Tendre une embuscade et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Franchir la zone discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Vous avancez lentement et vous dégainez votre arme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>L'homme se redresse brusquement et se tourne vers vous, son bâton brandi comme s'il était prêt à frapper.
+
+"Ekera ! Qui êtes-vous ? Que faites-vous ici ?" La langue huana épaissit son accent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... quand votre regard tombe sur l'aumaua vêtu de peaux et sur ses sangliers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"M'est avis que vous allez nourrir les cochons..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Charmer les sangliers]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les sourcils froncés, le kith regarde approcher les sangliers. Ses yeux s'écarquillent lorsqu'il vous distingue au milieu de la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ekera, qui êtes-vous ? Et pourquoi vous en prenez-vous à ces sangliers ?"
+
+D'un geste de son bâton, il libère les sangliers du sortilège. Les bêtes reniflent furieusement et retournent auprès de l'aumaua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Identifier le symbole]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous savez ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Il semble exécuté dans le style de la culture huana locale mais, en dehors de cela, vous ne reconnaissez rien de plus que trois cercles enchevêtrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ça ne ressemble à rien de ce que vous connaissez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Examiner les marques]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] étudie la gravure et fronce les sourcils. "Ça a l'air huana. Trois cercles enchevêtrés. Je ne peux rien dire de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] secoue la tête. "Aucune idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] secoue la tête. "Aucune idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous vous tapissez silencieusement derrière un rondin et [SkillCheck 0] vous suit, mais s'appuie sur une branche qui se brise avec un craquement retentissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Vous vous faufilez dans la forêt, esquivant les sangliers et leur compagnon aumaua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vous murmurez discrètement, projetant votre âme vers les sangliers pour stimuler leur esprit.
+
+Les sangliers se dirigent vers vous en reniflant joyeusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Specified 2] murmure aux esprits, et l'air se charge de l'essence environnante. 
+
+Les sangliers se dirigent vers vous en reniflant joyeusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Des sangliers émergent des broussailles et vous encerclent. Un grand aumaua insulaire les accompagne, vêtu de peaux, sa chevelure cuivrée inextricablement emmêlée. Il pointe un bâton vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous êtes parti. Vous n'auriez jamais dû revenir..." Il parle avec un fort accent local.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Identifier le symbole]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

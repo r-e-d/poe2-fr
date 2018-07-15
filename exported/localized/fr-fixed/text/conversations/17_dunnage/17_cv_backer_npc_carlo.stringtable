@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_carlo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme svelte, vêtu d'habits de cuir bien taillés, vous observe du coin de l'œil. Lorsqu'il vous surprend à regarder vers lui, sa main glisse tranquillement vers la dague qu'il porte à la taille et s'y attarde un moment.
+
+Puis il sourit, les commissures de ses yeux noisette se plissant avec une chaleur sincère, et vous fait signe d'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eccosi, voyageur. Ça vous dirait d'entendre mon histoire ?" Il gratte pensivement sa mâchoire mal rasée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Parlez-moi de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pouvez-vous me transmettre ce que vous avez appris dans les Républiques de Vailia ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Corès !" Il lève affectueusement la main en signe d'adieu et retourne vaquer à ses occupations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ac, vous avez écouté mon histoire. Je peux sans doute faire cela pour vous pour, euh, trois mille pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Il vous montre une astuce permettant de décrocher une bourse de pièces d'une ceinture. Entre deux démonstrations, il vous donne également quelques conseils de négociation, même face aux marchands les plus têtus.
+
+Vous le remerciez et vous détournez. Alors que vous êtes sur le point de partir, il vous jette une bourse de pièces en riant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous apprenez trop vite !" Il laisse échapper un petit rire et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je suis né dans une famille de marchands, sur la Côte perlée. J'étais un garçon remuant et, une fois adulte, mes pérégrinations m'ont mené jusqu'aux Républiques de Vailia."
+
+Tandis que Carlo parle, son accent vailien, auparavant assez fort, s'estompe petit à petit, et sa voix adopte le nasillement caractéristique du Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ado ! Déjà de retour ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bon aimico ! Tout va bien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Que les vents vous soient favorables, voyageur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je crois que vous avez appris de moi tout ce que vous pouviez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pourquoi parlez-vous comme un Vailien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ah, j'aime me fondre dans la masse. C'est mieux pour observer ce qui se passe autour de soi, pas vrai ?" Il vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai appris le pouvoir de la géographie et des langues dès mon plus jeune âge, compétences qui se sont avérées payantes aux Républiques.
+
+"J'ai connu nombre d'années fructueuses en tant que marchand. Et puis j'ai commis une erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"À Girrara, j'ai rejoint une compagnie spécialisée dans le commerce de merveilleux tissages. Mais il s'agissait de biens mal acquis, produits sous la contrainte par Bonisetta, une tisserande que la compagnie avait kidnappée.
+
+"Je n'ai appris la vérité que trop tard. Quand notre crime a été découvert, on m'a banni des Républiques"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vous l'avez cherché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"C'est dommage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"En effet. Et aujourd'hui me voilà, poireautant au Feu éteint, où personne ne me connaît et avec peu de perspectives d'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"J'aimerais me racheter personnellement auprès de Bonisetta, mais cet espoir me semble... peu réaliste.
+
+"Bah. J'ai appris ma leçon. On ne me prendra plus pour un imbécile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"En effet, mais j'aurais dû mieux me renseigner sur mes employeurs. Et aujourd'hui me voilà, poireautant au Feu éteint, où personne ne me connaît et avec peu de perspectives d'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Il vous adresse un petit sourire et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous avez failli oublier quelque chose !"
+
+La bourse de pièces qu'il vous a jetée est la vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Non, je ne crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Bravo." Il sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"C'est vous qui voyez. Si vous avez besoin de moi, je ne bouge pas d'ici." Il vous adresse un hochement de tête amical et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Améliorer le Tour de passe-passe et la Diplomatie] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

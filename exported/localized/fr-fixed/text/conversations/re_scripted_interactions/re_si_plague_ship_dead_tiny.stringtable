@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_dead_tiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un coup à la porte de votre cabine interrompt votre lecture. 
+
+[Specified 1] se tient sur le seuil, avec l'air d'une personne qui vient de perdre un pari. "Capitaine, vous devriez venir sur le pont. Il y a un vaisseau à l'horizon, apparemment abandonné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Préparez les canons. Expédiez-le au fond de l'océan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je vais monter à bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Gardez le cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] prononce une incantation funèbre ondrite tandis que les canonniers chargent leurs armes. Alors que sa voix se fait plus forte, le [Player Ship] lance une salve qui frappe le vaisseau délabré juste à la ligne de flottaison.
+
+Tandis que le vaisseau s'enfonce dans les abysses, les marins retournent à leur poste dans un semblant de bonne humeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Votre entreprise prend un certain temps, mais vous parvenez à dégager la trappe et ouvrir la soute. Une odeur nauséabonde de viande pourrie, accompagnée d'un dense nuage de mouches, se répand subitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vos marins se dispersent et marmonnent nerveusement des prières en retournant à leur poste. Vous remarquez quelques matelots qui lancent des pièces par-dessus bord afin d'apaiser Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Le navire en question gîte sur les vagues, ses voiles tirées. Un drapeau vert flotte au mât - le symbole d'un vaisseau frappé par la maladie. 
+
+Vous ne voyez aucun mouvement sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] vous mène au gaillard, où un petit groupe de marins s'est assemblé. 
+
+Serrant fermement un symbole sacré d'une main, [Specified 0] désigne bâbord. "Mauvais présage, capitaine. Nous devrions les expédier à la dame d'Élégie ou nous aurons des problèmes, vous pouvez me croire."
+
+[Specified 2] ricane. "Nous ne savons même pas s'ils sont morts, encore moins ce que contient leur soute... et vous voulez les couler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pallegina regarde au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pas le moindre signal. S'il y a quelqu'un sur ce vaisseau, je doute qu'on puisse lui être du moindre secours." [Specified 3] fronce les sourcils.
+
+"Ce vaisseau est dangereux, capitaine, et pas seulement pour ceux qui croiseront sa route. Pas que je veuille dicter votre conduite, mais je suggère de le couler avant que quiconque ne se mette en tête de l'aborder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"À vos ordres, capitaine", dit [Specified 1] d'un air grave avant de s'empresser d'aller préparer la yole.
+
+Vous ramez jusqu'au navire et y arrimez la yole. Vous n'entendez pas d'autre son que le craquement du bois et le léger clapotis de la mer.
+
+Vous grimpez à bord du navire et la première chose que vous voyez sur le pont intermédiaire, ce sont deux cadavres portant une armure simple. Le peu de chair qui leur reste sur le corps a flétri autour de leurs os et le soleil a blanchi les parties exposées de leur crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Entrer dans la soute]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Retourner sur votre navire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'équipage arrime la yole à votre retour, mais tous restent loin de vous. Certains ont noué un chiffon sur leur visage.
+
+[Specified 0] murmure une prière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Un coup à la porte de votre cabine interrompt votre lecture. 
+
+[Specified 1] se tient sur le seuil, avec l'air d'une personne qui vient de perdre un pari. "Capitaine, vous devriez venir sur le pont. Il y a un vaisseau à l'horizon, apparemment abandonné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous tirez votre longue-vue et vous examinez le vaisseau abandonné. Vous ne voyez aucun mouvement sur le pont, mais remarquez un cadavre étalé sur le gaillard. Après quelques secondes, vous en repérez un deuxième plus loin vers la poupe. 
+
+Sous le signal annonçant l'épidémie, vous voyez un drapeau sur lequel figure une chandelle allumée placée au centre d'une porte ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous reconnaissez l'emblème des Aimables voyageurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Parler au chirurgien du navire] "Qu'en pensez-vous, [Specified 3] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous espérez que cela signifie que la maladie qui les a tués s'est éteinte d'elle-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il reste peu de choses sur le pont principal, à l'exception des voiles en lambeaux, mais vous remarquez que la trappe qui mène à la soute a été barricadée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>L'équipage du vaisseau abandonné a bien fait son travail. Vous faites de votre mieux, mais la trappe ne présente aucune ouverture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Plusieurs marins vous regardent, incrédules. 
+
+[Specified 2] secoue la tête, un petit sourire aux lèvres. "On ne peut pas dire que notre capitaine est un trouillard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Préparez les canons. Expédiez-le au fond de l'océan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Si je peux porter secours à quiconque là-dedans, je dois essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je veux une vue d'ensemble de la situation avant de prendre une décision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hé, il pourrait y avoir quelque chose d'intéressant, là-dedans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Cessez de bavarder et allez-y !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Allez, la peste n'a jamais fait de mal à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2] hausse les épaules et soupire, mais [Specified 1] acquiesce.
+
+"Sage décision, comme toujours, capitaine."
+
+L'équipage s'éloigne du navire en quarantaine et reprend sa route jusqu'à ce que celui-ci disparaisse à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ce sont les couleurs des Aimables voyageurs. Si c'est vraiment leur drapeau, ils préféreraient faire sombrer leur propre navire plutôt que de courir le risque de transmettre cette maladie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Elle baisse les yeux, vers le pont, une rare lueur de tristesse s'immisce dans ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafen secoue la tête en adressant à [Specified 2] un regard lourd de reproches. "[Specified 1] ne raconte pas de salades. Maladie ou pas, un navire de morts en pleine mer, ça peut que causer des ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Faire sauter la trappe et entrer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vous vous concentrez un moment puis projetez une vague de destruction qui fait voler la trappe en éclats. Un nuage de mouches s'échappe en vrombissant, assombrissant momentanément le pont.
+
+Vous descendez...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 5] psalmodie à voix basse un moment puis projette une vague de destruction qui fait voler la trappe en éclats. Un nuage de mouches s'échappe en vrombissant, assombrissant momentanément le pont.
+
+Vous descendez...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Plusieurs cadavres parsèment la soute. La plupart d'entre eux portent l'humble tenue des fermiers readcerans, mais l'un d'eux est vêtu d'une armure. Sa ceinture attire votre attention, et vous la lui retirez doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Avec quoi ? Nous n'avons aucun boulet de canon."
+
+[Specified 2] tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Monsieur."</DefaultText>
+      <FemaleText>"M'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Après un moment à fouiller, vous trouvez un baril de poix, quelques seaux remplis de clous et une bonne longueur de toile pour réparer vos voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Un destin cruel. La peste ne connaît pas la pitié."
+
+Les yeux dorés de Pallegina passent sur les cadavres des paladins, étudiant les vestiges de leurs expressions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"La maladie fait partie de la vie, autant pour les récoltes que pour les personnes. Je le sais. Mais ce n'est pas pour autant que je l'apprécie."
+
+Xoti fait balancer sa lanterne au-dessus des corps. Elle ne s'attarde pas sur sa récolte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'espère que cela signifie que la maladie qui les a tués s'est éteinte d'elle-même." Aloth garde une manche sur la bouche et le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Plusieurs cadavres parsèment la soute. La plupart d'entre eux portent l'humble tenue des fermiers readcerans, mais l'un d'eux est vêtu d'une armure... un autre paladin, apparemment.
+
+Après un moment à fouiller, vous trouvez un baril de poix, quelques seaux remplis de clous et une bonne longueur de toile pour réparer vos voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 5] prend son temps, mais parvient à dégager la trappe et ouvrir la soute. Une odeur nauséabonde de viande pourrie, accompagnée d'un dense nuage de mouches, se répand subitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

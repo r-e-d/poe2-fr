@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_cannibal_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Devant vous se trouvent les ruines d'un complexe antique. Lorsque vous approchez de l'entrée en pierre effondrée, vous remarquez de curieux dessins gribouillés sur la pierre au moyen d'une peinture marron écaillée.
+
+Vous vous penchez pour mieux voir, et découvrez que les dessins représentent des scènes violentes de décapitations, de mutilations, de pendaisons et de diverses autres horreurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Pénétrer dans les ruines]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La lumière de torches lointaines danse sur les murs des ruines. Des paroles inintelligibles vous parviennent, portées par une brise qui empeste la charogne et le goût métallique du sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous quittez les ruines et leurs troublants dessins et continuez à explorer l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous retournez aux ruines et vous précipitez à l'intérieur, en prenant garde cette fois-ci à éviter les horribles dessins griffonnés sur la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

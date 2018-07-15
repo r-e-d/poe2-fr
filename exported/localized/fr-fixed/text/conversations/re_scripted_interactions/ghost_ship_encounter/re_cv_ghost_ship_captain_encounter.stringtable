@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_cv_ghost_ship_captain_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un groupe de morts-vivants enragés submerge votre bateau. Mais il s'arrête soudain, s'écartant pour laisser passer son capitaine. Avec des enjambées sonores et assurées, Rivan approche. Elle s'arrête, ses yeux brûlants sondant votre for intérieur... et vous perçant de leurs flammes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;link="neutralvalue://Vailian: Donnez-moi la Dévoreuse d'âmes !&gt;"Derme o Engoliero me Espirs !"&lt;/link&gt;
+
+Elle tend une main squelettique vers l'épée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Mentir] "Ça ? Mais je l'ai trouvée dans un tas d'ordures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Non. J'ai tué Yseyr pour cette épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mes excuses. J'ai promis à Yseyr que je me servirais de cette épée pour vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"L'épée m'appartient désormais de droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Même si Yseyr l'avait perdue comme ça m'est arrivé... qui laisserait jamais pareil destin advenir à une arme si précieuse ? Non, je n'y crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Alors, je vous remercie. Maintenant, rendez-moi l'Engoliero me Espirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je ne cèderai pas cette épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Que diriez-vous d'échanger l'épée contre votre navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Lui donner l'épée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous &lt;i&gt;allez&lt;/i&gt; me la céder... une fois que j'aurai arraché votre âme de votre cadavre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"J'ai déjà débarrassé le Dyrwood de votre engeance. Je peux vous abattre, garde de la mort, et je le ferai si je le dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Alors, venez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ça doit être le Gardien de Caed Nua. Pourfendeur des morts-vivants. Assassine de Raedric." Quelques-uns des morts-vivants à bord du Bourreau des mers en frémissent d'horreur.</DefaultText>
+      <FemaleText>"Ça doit être le Gardien de Caed Nua. Pourfendeuse des morts-vivants. Assassine de Raedric." Quelques-uns des morts-vivants à bord du Bourreau des mers en frémissent d'horreur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Rivan se retourne contre eux et, d'un seul geste habile, coupe un fampyr en deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sans rien dire, Rivan se recule et les morts-vivants bondissent en avant, poussant des cris de bataille tout en escaladant votre bateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je ne suis pas là pour négocier une épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Un paladin Darcozzi nommé Furrante a besoin de votre navire pour les réfugiés de Vailia l'Ancienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je viens de la part du capitaine Aeldys. Elle compte mettre Ukaizo à sac et a besoin de votre Fonferrus pour y arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"&lt;i&gt;Si&lt;/i&gt; ce Furrante est un paladin Darcozzi, il devrait m'aider à accomplir mon devoir : rendre cette épée à la lignée royale, n'est-ce pas ? En quoi est-ce que mon navire intéresserait la Grande Vailia ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Le Fonferrus peut naviguer à travers les tempêtes qui protègent Ukaizo, où Furrante veut établir la Nouvelle Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"En quoi ce Furrante serait-il digne de l'héritage de Vailia ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"En ma qualité de paladin Darcozzi, je m'engage auprès de vous à m'assurer que Furrante tienne parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"La lignée royale de Vailia est éteinte. Mais l'épée peut toujours servir son but... à travers l'héritage des Príncipis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'ai besoin de votre navire pour empêcher Éothas de détruire la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Votre capitaine pirate peut bien crever la gueule ouverte, pour ce que j'en ai à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Un bateau peut être remplacé, mais pas cette épée. Je vous donnerai l'épée si vous échangez votre navire contre le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous n'avez pas d'autre choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Comptez-vous rester fidèle au serment prêté au berathian ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'ai donné ma parole. Je compte m'y tenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si vous pensez pouvoir garder ce dont je dois me charger, vous commettez une grave erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Votre rafiot est un débris à peine flottant. Mais pour l'épée, je veux bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je vous offre l'épée &lt;i&gt;et&lt;/i&gt; un très bon navire, à savoir le mien, en échange du vôtre. Pourquoi refuser pareille aubaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Votre bateau semble valoir le coup. Pour l'épée, j'accepte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Et en quoi cela me concerne-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Comment accomplirez-vous votre devoir si la lignée Darcozzi devient sans-âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je veux bien vous laisser le Fonferrus, mais vous devez me donner l'épée et votre navire en échange, pour que je puisse remplir ma mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous céder mon navire ? Même pas contre votre vie éternelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bonne question." Elle tapote pensivement un doigt osseux contre sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je respecte votre conviction. Mais je ne peux pas faire confiance à un homme que je n'ai jamais rencontré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Si les Príncipis sont vraiment les plus proches héritiers des Darcozzi, alors je dois leur donner l'épée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je poursuis un dieu rebelle, mais je ne peux pas le rattraper sans le Fonferrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eora finira figé dans la mort sans la Roue qui l'anime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"L'affaire est faite." Elle hoche la tête et se saisit de l'estoc. Après l'avoir triomphalement levé au-dessus de sa tête, elle fait signe à son équipage de commencer à transférer ses affaires et la cargaison vers votre bateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Alors, je dois prendre l'épée par la fureur et le sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Rivan lève triomphalement l'épée au-dessus de sa tête. Puis elle la pointe vers l'horizon, et son équipage se précipite pour préparer son embarcation... les voiles déchirées sont tendues et l'ancre rouillée relevée avant que le navire s'éloigne, nimbé de mystère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vos arguments sont convaincants. Mais je m'excuse néanmoins de ne pouvoir laisser vos problèmes personnels interférer avec mon propre devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je pense que si. Je peux toujours vous tuer et poursuivre ma quête l'épée à la main, voyez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"C'est vous qui le dites... mais quelles qualités de l'ordre incarnez-vous, paladin ? Je ne les vois pas en vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous n'êtes pas bête, paladin, n'est-ce pas ? Vous comprenez pourquoi je ne peux pas accorder ma confiance à quelqu'un que je n'ai jamais rencontré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"De quel droit revendiquez-vous cette épée ? J'ai volé l'Engolerio dans un tombeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Moi de même. La mienne est éternelle. "Qu'en est-il de la vôtre ?" La garde de la mort incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Et pourtant..." La garde de Modwyr brille comme du charbon incandescent et un filet de fumée s'échappe de son pommeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Rivan penche son crâne sur son cou décharné. Ses yeux flambent d'intérêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vraiment ? J'espère que vous l'avez arrachée des mains décharnées et sans vie du berathian. Quoi qu'il en soit, ça ne change rien au fait qu'elle est à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Alors, qui siège sur le trône du palais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Le palais a brûlé sans jamais avoir été reconstruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"La Grande Vailia est tombée il y a des centaines d'années. Les Príncipis descendent des réfugiés qui se sont enfuis lors de son effondrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Il le fera, si vous lui confiez l'épée et le navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Avez-vous autre chose à dire à ce propos ? Y a-t-il des lâches qui ne veulent plus faire partie de mon équipage ? Il n'y a qu'une manière de le faire... et vous savez laquelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>L'équipage se tient immobile et silencieux comme une tombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Lucia Rivan, je réquisitionne votre navire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vous voulez me prendre le Fonferrus &lt;i&gt;et&lt;/i&gt; l'Engoliero do Espirs ? Insolent tas de viande.
+
+"Il vous faudra intégrer mon équipage si vous voulez un jour poser un orteil sur ce navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Attaquer] "Le Bourreau des mers a maintenant un nouveau capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Non. Par contre, il va être doté d'un nouveau second."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Belfetto. Je vais vous prendre deux épées aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Quelques-uns des morts-vivants du Bourreau des mers ont un mouvement de recul horrifié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Les derniers morts-vivants ayant été éliminés, le Bourreau des mers est désormais vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>À la barre du Bourreau des Mers, vous faites signe à votre maître d'équipage de prendre le large. Le vent siffle dans les voiles en lambeaux. Le bois pourrissant gémit alors que le bateau prend de la vitesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Rivan vous salue d'un poing squelettique tandis que son vaisseau vous croise en sens inverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Matelots ! Derme o Engoliero ! Dégainez et embrochez les vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Après avoir échangé l'Engoliero pour le Bourreau des mers de Rivan, vous faites signe à votre équipage de se préparer à faire place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Rivan lève l'épée dans votre direction pour vous adresser un dernier adieu respectueux. Ensuite, la garde de la mort et ce qui reste de son équipage prennent congé de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

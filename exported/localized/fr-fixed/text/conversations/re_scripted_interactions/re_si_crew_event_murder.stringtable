@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_murder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une série de petits coups rapides résonnent à votre porte. C'est [Specified 3] qui se tient sur le seuil alors qu'une clameur croissante se fait entendre dans son dos.
+
+"Pardon, capitaine, mais on a besoin de vous pour régler un souci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Balancez le meurtrier par-dessus bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"C'est Ondra qui rendra la justice dans cette affaire. Faites passer [Specified 1] sous la quille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Allez me chercher le fouet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Détachez [Specified 1]. Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Les marins traversent le bateau en poussant des cris pour finir par jeter le meurtrier par-dessus bord. Au moment où ils soulèvent [Specified 1], son bâillon se desserre et elle hurle son innocence. L'instant d'après, elle a disparu de votre vue. Vous n'entendez qu'un plouf étouffé et quelques faibles cris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>La corde file par-dessus le bastingage dans un sifflement perçant avant de se tendre brusquement. Les marins se replient jusqu'à la poupe du navire et repêchent une silhouette ensanglantée et inconsciente.
+ 
+[Specified 1] est encore en vie et, selon les lois de la mer, sa punition est terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les marins huent cette décision. Vous tordez le fouet, faisant gicler du sang de ses lanières en cuir, et demandez à tout le monde de retourner travailler. 
+
+[Specified 1] pend immobile contre le mât du [Player Ship], qui poursuit son cap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ça suffit comme ça." [Specified 3] pose le bout de bois sur son épaule. "Ordres du capitaine. Arrêtez et reprenez vos postes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>La corde file librement jusqu'à ce qu'un nœud bloque la poulie et laisse [Specified 1] quelque part sous la coque en compagnie des bernacles. Une mousse de chair et de sang commence à bouillonner dans le sillage de la poupe. 
+
+Vous annoncez à l'équipage que le coupable a péri et coupez la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"A-t-on une preuve que c'est bien [Specified 1] qui a commis ce meurtre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Capitaine !" [Specified 0] désigne la personne accusée du pouce. "On a trouvé la ceinture de [Specified 1] autour du cou de [Specified 2] ! Je ne sais pas vous, mais moi je n'enlève ma ceinture qu'aux chiottes et pour baiser. C'est peut-être pas assez pour un tribunal à terre, mais on est en mer, ici, et on n'a même pas de porte pour nous séparer du meurtrier !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[Specified 1] s'est plaint tout le mois dernier que [Specified 2] lui devait beaucoup d'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 3] fronce les sourcils en regardant l'individu accusé. "[Specified 1] a une dent contre [Specified 2] depuis un moment, capitaine, à propos d'une passade avec quelqu'un rencontré lors de notre dernière escale. Et ce n'était un secret pour personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Quelqu'un a-t-il été témoin du crime ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Les marins échangent des regards. 
+
+"Personne ?" renchérit [Specified 3]. "Vous avez entendu le capitaine. Quelqu'un a-t-il été témoin du meurtre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Évidemment que personne n'a rien vu !" [Specified 0] se mouche le nez. "L'équipage était soit de quart soit endormi, comme toujours !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0] plante son index dans la poitrine de [Specified 1], qui porte un bâillon et des chaînes. 
+
+"On a toutes les preuves qu'il faut, capitaine, vous inquiétez pas. Un mot de vous, et on lui règle son compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Très bien, racontez-moi ce qu'il s'est passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous savez aussi bien que moi, capitaine, que les orlans ont soif de sang la moitié du temps !" [Specified 0] pousse [Specified 1] en avant par la peau du cou. "Il y a du sang sur ses petites dents jaunes ! Vous croyez qu'il est arrivé là tout seul ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je croyais que vous aviez dit que [Specified 2] avait péri par étranglement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Et je suis sûr que ça n'avait rien à voir avec le fait que vous vous soyez tous comportés de la sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ce sont de sales bêtes vicieuses, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 3] vous regarde. "Quels sont vos ordres, capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Pour clarifier les choses, vous avancez que [Specified 1] est coupable parce que tous les orlans sont des meurtriers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eh bien, il n'y a pas que ça, capitaine..." [Specified 0] détourne le regard. "C'est juste que tout le monde n'est pas capable de se soustraire au poids de ses origines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 4] ricane, puis cligne des yeux. "Par les dieux, dites, vous n'êtes pas sérieux, capitaine ?"
+
+[Specified 0] se renfrogne. "Oh, il est très sérieux. Détachez-moi cette gourde." Les autres membres d'équipage libèrent [Specified 1]. "Personne ne va réussir à dormir après ça, capitaine. Allez savoir qui sera le prochain à se faire étrangler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"[Specified 1] a étranglé [Specified 2] sous le pont. On était sur le point de balancer les effigies et leur fan par-dessus bord, mais... c'est votre bateau, on se pliera à votre volonté."
+
+Depuis le pont, [Specified 4] hurle : "J'aurais ajouté que vous serez plus avisé que ce vieux schnock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sur le pont, vous apercevez [Specified 1] avec un bâillon et des chaînes. [Specified 2] est au sol près du bastingage, et deux matelots en pleurs accroupis près du corps recouvrent d'un linceul son visage livide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Tout l'équipage se donne des claques dans le dos pour cette justice bien rendue, et le [Player Ship] poursuit sa route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Avec un air grave, [Specified 3] vous passe le fouet, une poignée en peau de cheval coiffée de plusieurs filaments de cuir garnis de dents de requin et d'hameçons. 
+
+[Specified 0] et [Specified 4] maintiennent [Specified 1]. Le cou tendu, l'individu condamné vous regarde désespérément : ses cris sont étouffés par le bâillon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>À chacun de vos coups, les dents du fouet mordent la chair et s'y plantent. Vous devez donner un petit coup sec vers l'arrière pour les décrocher. 
+
+Après trois coups, [Specified 1] s'évanouit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Poursuivre la punition]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"C'en est assez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Vous tournez la tête vers l'équipage, préparez à nouveau le fouet et reprenez la flagellation. Encore et encore, les crocs mordent le dos de [Specified 1] et arrachent des morceaux de chair, aspergeant le pont de sang. 
+
+Vous continuez jusqu'à ce que les côtes et les vertèbres apparaissent au milieu des viscères. Vous tournez les talons, laissant votre équipage livide s'occuper du cadavre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les marins s'échangent des sourires. 
+
+"Par Woedica !" s'exclame [Specified 4]. "Je vous avais dit que le capitaine saurait comment régler cette affaire !"
+
+"Sous la quille, dites-vous ?" [Specified 0] affiche un rictus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vous m'avez très bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"C'est la coutume, [Specified 0]. Laissons Ondra rendre son verdict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bien que [Specified 1] se débatte, elle est poussée jusqu'à la proue du navire, où une extrémité d'une corde est attachée à ses pieds et l'autre à une ancre. Elle crie à travers son bâillon au moment où [Specified 0] la pousse à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] rit avant de donner une claque dans le dos de [Specified 4]. "Allez chercher une corde et balancez-moi cette bouse par-dessus bord. On va bien voir ce que l'océan pense de ce crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vos désirs sont des ordres, capitaine." Fronçant les sourcils, [Specified 0] se tourne vers un autre matelot. "Voyons ce qu'Ondra en pense, alors."
+
+Les autres marins entament un chant : "Sous la quille ! Sous la quille ! Sous la quille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bien que [Specified 1] se débatte, elle est poussée jusqu'à la proue du navire, où une extrémité d'une corde est attachée à ses pieds et l'autre à une ancre. Elle crie à travers son bâillon au moment où [Specified 0] la pousse à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Évidemment que personne n'a rien vu !" [Specified 0] se mouche le nez. "L'équipage était soit de quart soit endormi, comme toujours !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] vous décoche un léger sourire alors qu'elle s'écarte en chancelant des matelots tout en se massant les poignets endoloris par ses liens.
+
+Le [Player Ship] poursuit sa course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] vous décoche un léger sourire alors qu'il s'écarte en chancelant des matelots tout en se massant les poignets endoloris par ses liens.
+
+Le [Player Ship] poursuit sa course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bien que [Specified 1] se débatte, il est poussé jusqu'à la proue du navire, où une extrémité d'une corde est attachée à ses pieds et l'autre à une ancre. Il crie à travers son bâillon au moment où [Specified 0] le pousse à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bien que [Specified 1] se débatte, il est poussé jusqu'à la proue du navire, où une extrémité d'une corde est attachée à ses pieds et l'autre à une ancre. Il crie à travers son bâillon au moment où [Specified 0] le pousse à la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Les marins traversent le bateau en poussant des cris pour finir par jeter le meurtrier par-dessus bord. Au moment où ils soulèvent [Specified 1], son bâillon se desserre et il hurle son innocence. L'instant d'après, il a disparu de votre vue. Vous n'entendez qu'un plouf étouffé et quelques faibles cris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Euh, oui. Je veux dire, tout le monde a des mains et des doigts, même cette créature, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Rechercher l'âme de [Specified 2]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous ouvrez vos sens pour tenter de localiser toute essence que [Specified 2] aurait pu laisser derrière. Vous ne trouvez rien. La victime a tourné la page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Bien sûr, mon gars. Tu ferais mieux de t'arrêter là."
+
+Serafen observe l'homme avec des yeux mi-clos couleur vert citron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"[Specified 1] a étranglé [Specified 2] sous le pont. On était sur le point de balancer les effigies et leur fan par-dessus bord, mais... c'est votre bateau, on se pliera à votre volonté."
+
+Depuis le pont, [Specified 4] hurle : "J'aurais ajouté que vous serez plus avisé que ce vieux schnock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"[Specified 1] a poignardé [Specified 2], qui n'a pas survécu." [Specified 3] soupire. "Je me suis dit que c'était à vous de vous occuper de ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 3] désigne les marins rassemblés. "[Specified 0] a trouvé [Specified 2] dans les hamacs en bas, avec la dague de [Specified 1] plantée dans ses côtes jusqu'à la garde."
+
+[Specified 0] hoche la tête, la sueur perlant sur son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Quelques gars ont eu une rixe, et [Specified 1] a frappé [Specified 2] avec l'un des marteaux. La pauvre victime s'est vidée de son sang." [Specified 3] fronce les sourcils. "La moitié de l'équipage veut balancer [Specified 1] à la baille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Vous frappez deux fois de plus pour réveiller [Specified 1] : la tête du marin oscille de façon erratique contre le mât. Du sang coule le long de son dos.
+
+L'équipage observe la scène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Poursuivre la punition]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Et voilà que [Specified 2] suffoque et, comme par hasard, on retrouve une lourde bourse sous l'oreiller de [Specified 1] !"
+
+[Specified 1] se débat avec ses chaînes sous les huées des autres marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Et voilà que [Specified 2] se fait poignarder et que cet argent a disparu !"
+
+[Specified 1] se débat avec ses chaînes sous les huées des autres marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Et voilà que, comme par hasard, [Specified 2] subit un coup mortel de [Specified 1] au milieu d'une bagarre. C'est de la foutaise !"
+
+[Specified 1] se débat avec ses chaînes sous les huées des autres marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Moi, je l'ai vu." [Specified 0] s'avance. "Enfin, je n'ai pas vu le geste, mais j'ai aperçu ce forban de [Specified 1] remonter de la cale en courant après que ça s'est passé." Regardant la silhouette inanimée de [Specified 2], le marin fronce les sourcils. "C'est comme ça que j'ai trouvé le corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Non, capitaine", dit [Specified 4]. "Mais j'ai vu [Specified 1] affûter cette dague cet après-midi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"C'est pas comme s'il y avait aucune tension à bord, capitaine", dit [Specified 0]. 
+
+"Ouais", grommelle [Specified 4]. "On se défoulait juste un peu. Ça aurait pas été pas méchant si [Specified 1] avait pas pris la tête de [Specified 2] pour un clou et s'était pas déchaîné dessus avec le marteau. Seul Skaen sait ce qui lui est passé par la tête."
+
+[Specified 0] acquiesce, confirmant le récit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"C'est une partie de cartes qui a dégénéré, cap'", explique [Specified 0]. "Ça se réglait aux poings, mais soudainement [Specified 2] se retrouve au sol, et c'est [Specified 1] qui tient le maillet."
+
+[Specified 3] fronce les sourcils. "Ça aurait pu être un accident, on dirait." 
+
+"C'était pas un accident", grommelle [Specified 4]. "[Specified 1] est l'auteur d'un assassinat."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

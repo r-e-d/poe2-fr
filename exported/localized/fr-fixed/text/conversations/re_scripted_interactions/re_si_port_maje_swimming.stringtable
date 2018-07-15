@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_port_maje_swimming</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>En voyageant vers le nord-ouest, vous découvrez un large canal qui vous sépare de l'étendue plate d'un îlot sablonneux.
+
+Un pont en bois traverse le cours d'eau, bien assez large pour permettre le passage d'une charrette tirée par un cheval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une foule se presse sur le pont, une ménagerie éclectique de Vailiens propres sur eux, d'aumauas vêtus de robes aux couleurs claires et chatoyantes, et même d'orlans ici et là.
+
+En bas de la colline, au bord de l'eau, quelques aumauas se sont regroupés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Aller sur le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le pont semble plutôt récent : bien qu'il se trouve sur la côte, il n'est que peu usé. Les lattes sont rudimentaires, la structure n'a été construite qu'à des fins strictement utilitaires. 
+
+La rumeur des conversations se fait plus bruyante tandis que vous vous approchez, jusqu'à couvrir entièrement le murmure de la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Vous approcher des aumauas près de l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Depuis le rivage, vous remarquez que le courant du canal est bien plus fort qu'il ne semblait l'être vu de loin. Peut-être que les récentes tempêtes l'ont stimulé. 
+
+Les Huanas réunis ici, vêtus simplement de fines robes, vous observent tandis que vous approchez. L'une d'entre eux s'avance, sa robe teinte de couleurs bien plus vives que les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Elle vous adresse un sourire chaleureux. "Que la bénédiction de Ngati soit sur vous, mon ami. Sauf erreur de ma part, vous êtes huana. Êtes-vous ici pour défier les courants d'Osa ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Elle hausse un sourcil. "Vous avez l'air d'un authentique insulaire, mais vous n'êtes pas un Huana." D'un signe de tête elle indique le pont. "Si vous êtes venu regarder, la vue est meilleure depuis le pont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Elle sourit, découvrant légèrement les dents triangulaires acérées entre ses lèvres. "Un aumaua qui n'est pas du Feu éteint. Vous êtes venu ici redécouvrir votre culture ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Elle penche la tête de côté. "Vous avez l'air débraillé, étranger. Comme si la mer venait de vous rejeter sur notre rivage. Qu'êtes-vous venu faire ici ? Regarder ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Un orlan, dont la fourrure d'un brun profond est d'un ton quasi identique à celui des planches sous vos pieds, s'approche de vous et ôte son chapeau à large bords, avant de s'incliner. "Salutations, étranger. Venu voir la course ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'orlan agite son chapeau à votre attention quand vous retournez sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Qu'est-ce qu'il se passe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'aimerais me joindre à la course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Qui part favori ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Étudier les concurrents]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Repartir vers le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Elle incline légèrement la tête. "Alors ekera, cousin, faites donc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Plusieurs des Huanas réunis laissent échapper de petits rires. La femme se contente de sourire,la tête légèrement inclinée. 
+
+"Ce sont toujours des aumauas qui défient Osa, pour prouver leur force et leur endurance dans l'eau. Je crains que cela ne soit trop demander d'un autre kith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je croyais les Huanas étaient un peuple traditionnellement accueillant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Alors vous avez peur de perdre face à un autre kith ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vous n'avez pas tort. Le Feu éteint a déjà essayé de me noyer une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>D'un large mouvement de la main, elle désigne tour à tour les nageurs, puis l'eau, et enfin l'îlot de l'autre côté. "Ils défient le canal d'Osa. La pluie est tombée, et les eaux sont vives. Il leur faut nager encore plus vite. Tous ceux qui finissent la course sont honorés. Pour celui qui remporte la course, l'honneur est plus grand encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je suis prêt à concourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"J'étais juste curieux. Je crois que je vais passer mon tour en ce qui concerne la nage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Elle incline la tête. "Et quelle sorte d'hôtes serions nous si nous précipitions nos invités ignorants dans la gueule de Ngati  ?"
+
+Quand elle repose son regard sur vous, elle arbore un petit sourire. "Mais vous n'êtes pas ignorant, m'est avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Un des nageurs émet un grognement de dérision. "Nous ne craignons rien, ekera ! Laissons donc l'étranger [Player Race] nager."
+
+La femme se retourne vers vous. "Si vous souhaitez nager, alors nagez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Les nageurs s'esclaffent. "Peur ? Nous ? Vous nous faites bien rire, ekera. Vous êtes très drôle."
+
+La femme se retourne vers vous. "C'est pour votre propre sécurité. Ngati se montre sans pitié à Osa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Elle acquiesce et vous fait signe de vous diriger vers le canal. "Alors rejoignez les autres au bord de l'eau. Laissez vos vêtements sur les rochers, ils vous réchaufferont plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Les mains jointes, elle incline la tête. "Alors rendez-vous sur le pont, si vous souhaitez regarder. La course commence bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous vous élancez de la pierre et atterrissez dans l'eau froide et salée avec les autres nageurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Des acclamations s'élèvent du pont tandis que vous vous éloignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous retournez voir le groupe près de l'eau. Les aumauas sont torses nus et étalent une épaisse pâte blanche sur leur poitrine, leur visage et leurs bras.
+
+La maîtresse de cérémonie vous adresse un signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ces gens sont venus regarder une course ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Regardons la course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Puis-je participer à la course ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Les gens parient sur cette course ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>L'orlan vous adresse un grand sourire. "Vous n'êtes pas du coin, pas vrai ?" Son accent readceran laisse penser qu'il ne l'est pas non plus. 
+
+"C'est une tradition locale. Une course de natation pour remonter le canal d'Osa après une grande tempête, au moment où le courant est le plus fort. Le gagnant remporte..." Il se gratte l'arrière du crâne. "... une sorte de babiole ou un truc dans le genre. Et le droit de se vanter, aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous rejoignez l'orlan à la rambarde et observez les aumauas se dévêtir sur le rivage. Ils s'accroupissent sur des pierres au bord de l'eau tandis que la maîtresse de cérémonie lève la main au-dessus de sa tête.
+
+Au moment où elle l'abaisse, ils plongent dans l'eau comme des boulets de canon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Il se gratte le sommet du crâne. "J'en sais trop rien. Quoi qu'il en soit, je n'ai pas vraiment mon mot à dire. Il faut que vous alliez parler à ceux qui sont au bord de la rivière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Un large sourire éclaire son visage. "Je me disais bien que vous voudriez prendre part à l'action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"La mise est de dix coquilles. Ce qui fait à peu près cinquante pands, dont je serai ravi d'accepter l'équivalent en pièces de cuivre ou d'argent, évidemment." Il vous adresse un clin d'œil.
+
+"La cote est de trois contre un sur cette grande fille chauve. Le blond au physique sec est à cinq contre un. Si vous pariez sur le gamin maigrichon et que vous gagnez, vous remportez dix fois votre mise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Alors je reviendrai bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Elle hoche la tête. "Faites vite, m'est avis. La course commence bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Elle glousse, une main posée sur l'estomac. "Le favori de Ngati, aussi sûr que la marée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Mais le coup d'œil qu'elle lance à l'aumaua blond et mince ne vous échappe pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>La plus grande de tous, une femme chauve, n'est que muscles. En combat elle serait dangereuse, mais dans l'eau, sa masse pourrait la ralentir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Ce sont des aumauas. Ils sont sûrement tous de bons nageurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Renforcer le jeune dégingandé avec un sort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Personne ne remarque la subtile lueur du sort quand il atteint le nageur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je suis prêt à concourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je fais le pari le plus malin... je mise sur moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Cette femme fait deux fois la taille d'un elfe et est toute en muscle. Je mise sur elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Le blond élancé semble avoir l'habitude des rivières. Je parie sur lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"J'aime prendre des risques. Je vous fiche mon billet que c'est le petit gars qui va gagner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Il reste imperturbable. "Eh bien laissez moi évaluer votre cote pour vous." 
+
+Il se tapote le menton tandis qu'il vous jauge du regard, des pieds à la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il hoche la tête et empoche votre argent. "Tout comme la moitié des gens sur ce pont. Ça semble être le pari avisé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Il ricane en prenant votre bourse. "Peut-être que vous avez l'œil. Ou peut-être que vous aimez vivre dangereusement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il accepte votre bourse avec un grand sourire. "C'est votre argent. Bonne chance, l'ami !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous ne manquez pas de muscle, ça c'est sûr. Je vous donne à trois contre un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je dirais que vous devez savoir vous débrouiller dans l'eau. Je vous fixe à... cinq contre un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il laisse échapper un petit rire. "Disons dix contre un... et pas de remboursement en cas de noyade !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Le prix et l'argent sont à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Peut-être que je devrais parier sur quelqu'un d'autre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Il hoche la tête et rit doucement. "Évitez juste de faire basculer la course en faveur de votre pari."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Il accepte l'argent. "Je l'espère ! Pour votre bourse &lt;i&gt;et&lt;/i&gt; la mienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Les nageurs luttent contre le courant, les eaux vives éclaboussant les muscles tendus de leurs dos.
+
+Autour de vous, la foule crie et applaudit, encourageant ses concurrents préférés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Vous remarquez qu'un des Huanas peine à rester dans la course. 
+
+En fait, il peine à garder la tête hors de l'eau. Les courtes inspirations désespérées qu'il prend retentissent sur le canal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>La grande femme chauve prend la tête et atteint la ligne d'arrivée la première. La foule pousse des exclamations quand elle s'avance sur la rive éloignée, brandissant victorieusement les poings en l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>L'homme élancé distance les autres et atteint la ligne d'arrivée le premier. La foule l'acclame quand il émerge de l'eau, et il s'incline devant eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Les cris, huées comme encouragements, gagnent en intensité tandis que la course touche à sa fin. À la surprise générale, c'est le grand jeune homme efflanqué qui émerge le premier de l'eau.
+
+Personne ne semble plus surpris que lui-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Plonger et l'aider à regagner la rive]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Lui lancer une corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Confier son âme à Berath]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Continuer d'observer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vous courez le long du rivage, sortant une corde et un grappin sans vous arrêter. Vous vous arrêtez soudainement, faites tournoyer le grappin au-dessus de votre tête et l'envoyez dans l'eau près du nageur.
+
+Il s'y accroche, et vous le tirez jusqu'au rivage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Après réflexion, ma bourse est bien assez légère comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Il s'esclaffe. "Sages sont les kiths qui savent quand il faut dire non. Repassez me voir si vous changez d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"J'aimerais parier maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous passez un bras autour du nageur en difficulté, et il a la présence d'esprit de ne pas se débattre quand vous le ramenez en nageant vers la terre. 
+
+Vous vous hissez sur le rivage rocheux et vous l'aidez à monter à votre suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Les eaux du canal d'Osa se pressent contre vous, vous ralentissant, puis vous faisant reculer. Bientôt, vous vous retrouvez également à lutter pour garder la tête hors de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Vous sentez au cœur de votre poitrine la tranquillité parfaite de la volonté implacable de Berath, lourde et pourtant agréable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>La femme chauve et musclée se sépare du groupe pour retourner aider le nageur en détresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Les spectateurs poussent un cri de surprise quand vous vous jetez dans l'eau froide et saumâtre depuis le pont. Vous battez des pieds, luttant contre le courant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Quelqu'un vous entoure de son bras. L'aumaua musclée bat des pieds pour regagner la terre, le jeune dégingandé dans un bras et vous dans l'autre.
+
+Au rivage, vous vous hissez sur la terre ferme, secoué de hauts-le-cœur et toussant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Le jeune nageur serre votre bras. "Mille mercis, ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>La foule sur le pont se disperse, et le brouhaha s'estompe.
+
+Votre voyage continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>L'orlan brun vous repère au milieu des kiths en liesse. "Sacré spectacle, pas vrai ?" Il vous tend une grosse bourse de coquilles d'azata nui. "Votre part. Ne dépensez pas tout d'un coup. Ou bien si ! C'est votre argent, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>L'orlan brun agite son doigt à votre intention tandis que vous approchez. "Je pense que vous saviez quelque chose que nous ignorions." Il vous adresse un clin d'œil. "Je m'en fiche. Je suis payé de toute façon !" 
+
+Il vous tend une grosse bourse de coquilles d'azata nui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Vous avez beau vous démener, vous n'arrivez pas à suivre le rythme des Huanas. Ils semblent faits pour évoluer dans ces eaux, ils semblent être nés pour ça. 
+
+L'écart entre vous se creuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous battez des jambes contre le puissant courant, vos mains s'abattant l'une après l'autre, fendant l'eau comme des lames qui vous tirent à travers les eaux.
+
+Vous distancez les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Vous avez beau vous démener, le courant vous repousse avec la force d'un ours. Vous arrivez à suivre le rythme des Huanas, mais l'effort est tel que vos muscles se mettent bientôt à vous brûler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Vous remarquez qu'un des Huanas peine à rester dans la course. 
+
+En fait, il peine à garder la tête hors de l'eau. Les courtes inspirations désespérées qu'il prend retentissent sur le canal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[L'aider à atteindre le rivage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Continuer à nager pour atteindre la ligne d'arrivée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Confier son âme à Berath]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Vous sentez au cœur de votre poitrine la tranquillité parfaite de la volonté implacable de Berath, lourde et pourtant agréable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Vous continuez à nager, et remarquez que la femme chauve et musclée se sépare du groupe pour retourner aider le nageur en difficulté.
+
+La ligne d'arrivée se rapproche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Dans une ultime accélération mettant vos muscles à rude épreuve, vous dépassez les autres et atteignez la ligne d'arrivée avec quelques brassées d'avance sur votre concurrent le plus proche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Vous forcez jusqu'à ce que vos muscles hurlent d'indignation, mais l'aumaua blond garde une légère avance, et finit par remporter la victoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Aller à l'eau et vous déshabiller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je dois me déshabiller pour nager ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je crois que je vais garder mes vêtements. Question de... vitesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Retourner au pont] "Je... je reviens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Vous donnez tout ce que vous avez, mais c'est loin d'être suffisant. Vous traversez la ligne après quatre autres nageurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Haletant et le corps endolori, vous vous hissez sur le rivage et retournez en direction du pont pour récupérer vos affaires.
+
+Les gens sur le pont au-dessus de vous poussent des acclamations et applaudissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Haletant et le corps endolori, vous vous hissez sur le rivage et retournez en direction du pont pour récupérer vos affaires.
+
+Les gens sur le pont au-dessus de vous poussent des acclamations et applaudissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>L'orlan applaudit lui aussi en s'approchant. "Eh bien, par les dieux, vous leur avez montré qui vous étiez, pas vrai ?" 
+
+Il vous tend une grosse bourse de coquilles d'azata nui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>L'orlan rit gaiement en approchant. "Par les dieux, vous êtes cinq fois le nageur qu'on vous croirait !"
+
+Il vous tend une grosse bourse de coquilles d'azata nui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>La maîtresse de cérémonie vous adresse un sourire chaleureux. "Vous avez la faveur de Ngati. Elle attendra beaucoup de vous en retour."
+
+Elle dépose un petit objet dans vos mains. "Voici pour vous, en l'honneur de votre victoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Traverser le pont] "Je me fiche de vos jeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 0] jauge les aumauas, et son regard s'attarde sur une femme chauve à la musculature développée, un homme blond élancé, et un jeune homme dégingandé à peine sorti de l'adolescence.
+
+"Je pense que le blond a un avantage : il est fort et compact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[Specified 0] fronce les sourcils. "Difficile de dire lequel est le meilleur tant qu'on ne les a pas vus à l'action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>L'un d'eux, un homme à la chevelure blonde et bouclée, a un corps mince mais puissant, à la carrure compacte. Tandis qu'il s'étire, il observe l'eau comme s'il s'agissait d'une vieille amie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Vous vous dites que le troisième, un jeune homme dégingandé, ne semble rien avoir à faire ici. Une brise légère risquerait de l'emporter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Vous ôtez vos vêtements encroûtés de sel marin et vous posez vos affaires sur les rochers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Elle hausse les épaules, l'esquisse d'un sourire au coin de ses lèvres. "Nous n' &lt;i&gt;exigeons&lt;/i&gt; rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vous ôtez vos équipements lourds mais vous restez habillé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Eh bien, Gardien. Vous êtes vraiment... enfin, je... eh bien, c'est-à-dire, euh... Bonne chance !" Le visage empourpré, Xoti se racle la gorge derrière son poing. Mais elle ne détourne pas le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Je vais garder un œil sur vos affaires." Aloth hoche la tête et pose la main sur vos vêtements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je vous comprends. Si vous laissez traîner certaines choses dans l'eau, les poissons pourraient les confondre avec autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Elle incline la tête. "Alors puissiez-vous éviter la faim de Ngati."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Les nageurs se débarrassent de leurs robes et prennent place sur les affleurements rocheux dominant le canal. La peau aux muscles tendus de chacun des aumauas brille légèrement, comme si on l'avait saupoudrée de copeaux d'argent.
+
+La femme se tient sur le côté. "Quand j'abaisserai la main, vous partirez. Le premier à atteindre le coude du canal remporte le prix."
+
+Elle lève la main au-dessus de sa tête...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Vous passez un bras autour du nageur en difficulté, et il a la présence d'esprit de ne pas se débattre quand vous le ramenez en nageant vers la terre. 
+
+Vous vous hissez sur le rivage rocheux et vous l'aidez à monter à votre suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Il sourit, frottant ses doigts les uns contre les autres pour faire comprendre qu'il parle d'argent. "Mais pour nous autres, les étrangers qui ne nagent pas, c'est dans les paris qu'on trouve un peu d'action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Je reviendrai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je vais garder un œil sur ça.
+
+"Je parle de vos vêtements, bien sûr." Gêné, Aloth tousse et pose la main sur les affaires que vous avez ôtées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Un léger sourire se forme aux coins des lèvres d'Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

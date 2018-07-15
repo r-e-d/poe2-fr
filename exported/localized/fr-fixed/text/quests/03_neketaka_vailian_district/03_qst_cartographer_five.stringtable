@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_five</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cartographie de l'Archipel : Détroit de Razai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorer les îles proches du détroit de Razai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir Sanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, le pétulant cartographe rencontré à la Jetée de la reine, veut compiler un guide complet des îles du Feu éteint, mais il n'y arrivera jamais tout seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La carte de Sanza est bientôt terminée. Il a une dernière tâche pour moi : étudier les îles à l'ouest du détroit de Razai. Je dois partir vers le nord-ouest en venant de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai terminé mon étude de la région. &lt;b&gt;Sanza&lt;/b&gt; pourra ainsi finaliser son projet. Je devrais aller le trouver à son échoppe à la &lt;b&gt;Jetée de la reine&lt;/b&gt;, à Neketaka, afin de l'en informer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Loin au nord-ouest, j'ai découvert une île et un culte étrange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Les marais de l'île cachaient une hutte où vivaient plusieurs sorcières des marécages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dans une des îles des Dents de Magran, j'ai pu trouver la tanière de nāgas des flammes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un individu essentiel à l'accomplissement de cette quête a été tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai cartographié les îles proches du détroit de Razai, et j'ai ainsi finalisé la carte maritime des territoires kahangas de Sanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_food_supply</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La nourriture, matière à réflexion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Établir une source de nourriture pour la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Informer &lt;b&gt;Enoi&lt;/b&gt; de l'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La &lt;b&gt;Raveline&lt;/b&gt; de Neketaka abrite les &lt;b&gt;Roparus&lt;/b&gt;, la caste la moins élevée de la société huana. Selon la tradition huana, la nourriture est distribuée de la caste la plus élevée à la moins élevée, en quantité variable selon le bon vouloir de la reine.
+
+Cette distribution inégale des ressources, combinée à un afflux de réfugiés en provenance d'autres îles du Feu éteint, fait que les Roparus meurent de faim.
+
+&lt;b&gt;Enoi&lt;/b&gt;, un des anciens de la Raveline, m'a demandé de l'aider à pallier ce manque de nourriture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Enoi m'a demandé de l'aider à rétablir une source d'alimentation pour les Roparus. Je pourrais peut-être demander un coup de main au &lt;b&gt;prince Aruihi&lt;/b&gt;, au &lt;b&gt;palais des Kahangas&lt;/b&gt;, ou aux &lt;b&gt;Étoiles de l'aube&lt;/b&gt; à l'&lt;b&gt;Escalier sacré&lt;/b&gt;. Sinon, je pourrais trouver un moyen de parler à &lt;b&gt;Morena la Folle&lt;/b&gt;, le contact d'Ulög chez les Príncipis, au &lt;b&gt;Caveau&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai négocié un accord qui garantira de la nourriture aux &lt;b&gt;Roparus&lt;/b&gt; de la &lt;b&gt;Raveline&lt;/b&gt; pour un certain temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Les Enfants des Étoiles de l'aube sont connus pour leurs œuvres caritatives à travers toute la ville. Une missionnaire du nom de &lt;b&gt;Pitli&lt;/b&gt; réside dans le coin sud-ouest de la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Pitli a expliqué que sa grande-prêtresse, &lt;b&gt;Saewyn&lt;/b&gt;, du &lt;b&gt;temple de Gaun&lt;/b&gt; à l'Escalier sacré, a le pouvoir de rationner une partie de la nourriture fournie aux Étoiles de l'aube. Pitli est toutefois trop occupée par son propre travail et n'a pas encore eu le temps de parler à Saewyn de la pénurie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Saewyn&lt;/b&gt;, du temple de Gaun, fournira la nourriture si elle dispose d'un moyen pour distribuer les rations dans la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La &lt;b&gt;capitaine Morena la Folle&lt;/b&gt; refuse de faire passer davantage de nourriture en contrebande pour les &lt;b&gt;Roparus&lt;/b&gt;. Je pourrais la faire changer d'avis en trouvant un moyen de la récompenser pour cet effort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Bien qu'il ne soit pas satisfait de la manière dont les Matarus ont traité le problème de la &lt;b&gt;Raveline&lt;/b&gt;, le prince Aruihi n'écoutera pas un étranger en qui il n'a pas confiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Du remue-ménage s'est produit devant chez &lt;b&gt;Enoi&lt;/b&gt; au sujet d'un cadavre retrouvé près du tas de nourriture en partage, au nord-ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai trouvé une note adressée à &lt;b&gt;Morena la Folle&lt;/b&gt; prétendant qu'&lt;b&gt;Akumu&lt;/b&gt;, à cause de l'augmentation des patrouilles, devait débarquer la cargaison de contrebande à un affleurement rocheux situé non loin du lieu où se trouvait la nourriture en partage. Je ferais bien d'enquêter sur le tas de nourriture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Saewyn&lt;/b&gt; n'a pas confiance en moi. Elle a suggéré qu'elle serait davantage tentée de proposer son assistance si je prouvais ma bonne volonté envers les &lt;b&gt;Étoiles de l'aube&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai convaincu la &lt;b&gt;grande-prêtresse Saewyn&lt;/b&gt; du &lt;b&gt;temple de Gaun&lt;/b&gt; de s'associer aux &lt;b&gt;Príncipis&lt;/b&gt; du &lt;b&gt;Caveau&lt;/b&gt; pour introduire de la nourriture en contrebande dans la &lt;b&gt;Raveline&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>D'après Enoi, les &lt;b&gt;Enfants des Étoiles de l'aube&lt;/b&gt; ont déjà tenté d'alimenter la Raveline auparavant, mais sans succès. Ils voudront peut-être réessayer. Ils se rassemblent au &lt;b&gt;temple de Gaun&lt;/b&gt;, à l'Escalier sacré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>À l'Allée du mineur, je suis tombé sur des bandits qui gardaient un ascenseur. C'était peut-être le chemin qu'&lt;b&gt;Ulög&lt;/b&gt; empruntait pour faire entrer la nourriture destinée aux &lt;b&gt;Roparus&lt;/b&gt; dans la Raveline.</DefaultText>
+      <FemaleText>À l'Allée du mineur, je suis tombée sur des bandits qui gardaient un ascenseur. C'était peut-être le chemin qu'&lt;b&gt;Ulög&lt;/b&gt; empruntait pour faire entrer la nourriture destinée aux &lt;b&gt;Roparus&lt;/b&gt; dans la Raveline.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Les bandits m'ont expliqué que seul &lt;b&gt;Dereo&lt;/b&gt; peut accorder la permission d'utiliser l'ascenseur de l'&lt;b&gt;Allée du mineur&lt;/b&gt;. Je trouverai Dereo en tournant à droite puis à gauche une fois sorti de l'Allée du mineur.</DefaultText>
+      <FemaleText>Les bandits m'ont expliqué que seul &lt;b&gt;Dereo&lt;/b&gt; peut accorder la permission d'utiliser l'ascenseur de l'&lt;b&gt;Allée du mineur&lt;/b&gt;. Je trouverai Dereo en tournant à droite puis à gauche une fois sortie de l'Allée du mineur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>J'ai proposé de plaider la cause des Roparus auprès du &lt;b&gt;prince Aruihi&lt;/b&gt;, au &lt;b&gt;palais des Kahangas&lt;/b&gt;, mais &lt;b&gt;Enoi&lt;/b&gt; doute que cela change quoi que ce soit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Maintenant que la Compagnie royale du Feu éteint a attaqué le &lt;b&gt;palais des Kahangas&lt;/b&gt;, je ne peux plus demander de l'aide au &lt;b&gt;prince Aruihi&lt;/b&gt;. Je pourrais éventuellement convaincre &lt;b&gt;Morena la Folle&lt;/b&gt;, dans le &lt;b&gt;Caveau&lt;/b&gt;, de prêter main-forte aux &lt;b&gt;Roparus&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis mis à dos tous ceux capables d'aider les Roparus à résoudre leur pénurie de nourriture.</DefaultText>
+      <FemaleText>Je me suis mise à dos tous ceux capables d'aider les Roparus à résoudre leur pénurie de nourriture.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu les Príncipis du Caveau de reprendre la contrebande de nourriture pour les Roparus de la Raveline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu la reine Onekaza au palais des Kahangas de redoubler d'efforts pour alimenter les Roparus affamés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai négocié un accord avec la grande-prêtresse Saewyn des Étoiles de l'aube qui stipule qu'elle doit fournir davantage de nourriture à Neketaka, et la reine Onekaza a accepté depuis son palais des Kahangas que la majeure partie ira aux Roparus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai négocié un accord avec Morena la Folle, la capitaine príncipi du Caveau, pour qu'elle alimente la Raveline en nourriture de contrebande tant que les Enfants des Étoiles de l'aube du temple de Gaun la lui fourniront.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

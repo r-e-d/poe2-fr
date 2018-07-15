@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_backer_npc_granis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous rencontrez un grand homme à la chevelure châtain portant une armure de plates complète. Vous ne l'auriez pas remarqué en temps normal, mais sa cotte de mailles est anormalement colorée, d'un vert profond, et ornée d'un arbre doré.
+
+La main posée sur le pommeau de son épée, il balaie la foule de ses yeux perçants, détendu mais aux aguets. Ses yeux se plissent dès qu'il remarque votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que puis-je faire pour vous ?" Il vous regarde avec méfiance, comme s'il essayait d'évaluer si vous pouvez représenter un danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Salutations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bonjour et enchanté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bien le bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Parlez-moi de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Il est d'abord hésitant, pas très sûr de vos intentions. Il vous examine, les yeux plissés, avant de hocher la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pouvez-vous m'enseigner le savoir des Porteurs de bouclier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je vous ai enseigné tout ce que je pouvais. Si vous en voulez plus, je vous encourage à rejoindre mon ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eh bien... il vous faut devenir vous-même Porteur de bouclier pour vraiment apprendre, mais je suppose que je peux vous montrer un ou deux trucs. Sachez toutefois que ce privilège vous coûtera trois mille pièces de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Il jette deux gros sacs de sable sur vos épaules et vous impose une série d'exercices destinés à améliorer votre force et votre agilité quand vous portez une armure de plates complète.
+
+Persuadé que vous en avez appris assez pour poursuivre votre formation seul, il vous gratifie d'une tape sur l'épaule et vous souhaite bonne continuation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Au revoir." Il hoche poliment la tête et retourne à ses affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous portez une armure intéressante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Attendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je suppose que oui. Vous connaissez les Écuyers de Sainte Elcga ? Nous sommes un ordre de paladins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"En effet. J'en fais moi-même partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mon frère ! Je suis bien content de croiser un visage amical sur cet archipel brûlé par le soleil. Je suppose qu'un labeur honnête vous a mené jusqu'ici ?
+
+"Eh bien, je n'ai pas besoin d'avoir les détails. Après tout, c'est vous qui vous renseignez sur &lt;i&gt;moi&lt;/i&gt;."
+
+Il se racle bruyamment la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Hocher la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Secouer la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Au début, l'ordre servait de garde à Elcga, une noble émissaire de Kulkin qui négociait la paix avec le royaume d'Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Alors, la réputation de notre ordre traverse de nombreuses frontières. Bien."
+
+Il se racle bruyamment la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je suis le fils d'une famille de nobles déchue. Quand j'étais petit, mon père et mes frères ont été exécutés pour trahison... à juste titre, je dois l'avouer. Ma mère, ma sœur et moi-même nous sommes retrouvés à la rue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Il ne nous restait qu'un coffre rempli de reliques familiales. L'une d'elles était cette armure. Elle appartenait à l'aîné de notre fratrie.
+
+"Je cherche à présent à respecter sa promesse et à réparer l'honneur de ma famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"C'est tout ce qu'il y a à dire, vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je vous ai enseigné tout ce que je pouvais. Pour le reste, ce sera à vous de le découvrir pendant votre voyage avec l'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Les fondateurs de l'ordre n'avaient pas le droit de porter leurs armes lors de la rencontre, et elle s'est fait attaquer. Ils ne purent compter que sur leurs boucliers, mais cela leur a suffi pour repousser les agresseurs et la mettre en sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Elle est morte plus tard de ses blessures, et les Écuyers de Sainte Elcga se sont formés, en sa mémoire."
+
+Il se racle bruyamment la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Alors, cela signifie que notre ordre prospère dans sa patrie. Bien."
+
+Il se racle bruyamment la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Non, je ne crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Il hausse les épaules. "Comme vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Merci bien." Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Améliorer l'Athlétisme et la Survie] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il joint les mains et acquiesce, rayonnant de fierté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Réflexion faite, je reviendrai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

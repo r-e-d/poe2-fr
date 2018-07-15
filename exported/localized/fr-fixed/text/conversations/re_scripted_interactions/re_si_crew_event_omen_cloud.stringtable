@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_omen_cloud</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une brise étonnamment froide souffle sur le pont du navire et ne se calme toujours pas après plusieurs heures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Lancer avec cérémonie 1 000 pc par-dessus le bastingage] "Je crois qu'on peut offrir un petit quelque chose à la dame d'Élégie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On ne peut pas se permettre de perdre de l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] déglutit.
+
+"Mais, capitaine, c'est défier Ondra..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Remettez-vous au travail, [Specified 0]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Jeter [Specified 0] par-dessus bord] "Ça vous va, comme offrande, ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous montez sur le pont avec un coffre rempli de pièces, puis rassemblez l'équipage tandis que vous prenez place au bord du bateau.
+
+Vous jetez l'argent par-dessus le bastingage en accompagnant votre geste d'une courte exhortation à Ondra.
+
+Les membres d'équipage hochent la tête et entonnent un bref chant de marin à la gloire d'Ondra et de sa miséricorde. Alors qu'ils se remettent au travail, [Specified 0] vous glisse un mot de remerciement pour avoir rendu hommage à la déesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les épaules voûtées, [Specified 0] retourne à son poste. Le lendemain, vous remarquez parfois certains membres de votre équipage qui vous regardent de biais en murmurant quelque chose. D'autres secouent la tête et soupirent.
+
+Le jour d'après, le vent a disparu et le moral de l'équipage s'améliore, ce qui ne l'empêche pas de conserver le sentiment tenace que vous avez offensé un dieu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous jaillissez vers [Specified 0] et l'attrapez avant qu'elle ne puisse réagir. Elle bégaye de surprise, puis proteste en hurlant pendant que vous la traînez sur le pont.  L'équipage, étonné, vous observe tirer [Specified 0] jusqu'au bastingage et la pousser par-dessus bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Montant sur le pont, vous exécutez avec l'équipage un rite ondrite de plusieurs heures, implorant Ondra de prendre votre vaisseau et tous ses occupants en pitié.
+
+Vous l'appelez par tous ses noms : Ngati, la dame d'Élégie, la Fille salée, l'Amante des égarés, et acceptez son règne et son pouvoir sur l'océan, sur tout ce qui y flotte et sur tout ce qui repose dans ses profondeurs.
+
+Selon vos instructions, chaque membre d'équipage se tient au bord du navire et murmure un regret qui plonge dans les eaux sombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Prendre le temps d'organiser une cérémonie avec tout l'équipage pour invoquer la protection d'Ondra] "Elle mérite le respect, et nous le lui donnerons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Choisir l'approche scientifique] "Ce vent est un phénomène naturel, il n'y a pas lieu de s'inquiéter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bien que l'équipage se disperse en traînant une humeur mélancolique, [Specified 0] convainc tout le monde que vous avez rendu un grand hommage à la déesse et évité au navire de subir son courroux.
+
+Le rituel vous fait perdre plusieurs heures, mais dès le lendemain, les vents sont retombés et l'équipage est soulagé par ce bon présage. De nombreux hommes adressent des remerciements à Ondra (et à vous) pour avoir sauvé le vaisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous expliquez longuement comment les vents océaniques tournent avec le temps et, à certains endroits, paraissent anormalement froids ou chauds sur des périodes prolongées.
+
+[Specified 0] proteste mais ne dispose pas d'argument scientifique à opposer à votre raisonnement. En fin de compte, le marin reconnaît que, puisque vous êtes capitaine, vous devez avoir raison, mais les regards emplis d'inquiétude sont révélateurs : la peur subsiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Le lendemain, le vent froid a disparu. L'équipage semble satisfait, mais la crainte qu'Ondra a été froissée par votre foi inébranlable en la science demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous surprenez [Specified 1] en train de faire remarquer au reste de l'équipage qu'à la vue de tout l'argent que vous venez de jeter à la mer, vous pourriez augmenter un peu la paie des matelots.
+
+"Je crois qu'on mérite notre part, pas vous, capitaine ?"
+
+Les hommes échangent des regards et des hochements de tête convaincus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est évident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Très bien. Partagez-vous ceci, bande de vautours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je crois surtout que vous méritez de passer sous la quille pour votre impertinence. Peut-être ferez-vous ainsi un bon exemple pour les autres..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"En tant que capitaine, j'économise pour des cas d'urgence comme celui-ci. Êtes-vous en train de dire que vous êtes l'égal d'Ondra ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>L'équipage regarde [Specified 1], les lèvres pincées et les sourcils froncés. 
+
+"Eh bien, j'irais pas &lt;i&gt;jusque-là&lt;/i&gt;, mais vous devez bien admettre que..."
+
+[Specified 1] commence à développer ses arguments, mais ses compagnons ont déjà des doutes. Ils secouent la tête, marmonnent dans leur barbe et se frottent la nuque.
+
+Il ne leur faut pas longtemps avant de décider que l'argent ne vaut pas le coup de risquer un blasphème. Ils reprennent leurs postes sans un mot, appréciant que le vent soit redevenu normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Fermez-la, [Specified 1]. Vous autres, retournez à vos postes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Levant les mains et riant nerveusement, [Specified 1] fait un pas en arrière.
+
+"Ah... C'était juste une blague. Je veux dire, tout le monde aimerait bien être payé un p..."
+
+Les autres membres d'équipage s'écartent de vous deux, vous laissant seuls sur le pont.
+
+"Laissez tomber. Désolé, capitaine. Je n'en parlerai plus."
+
+Le marin prend vite la poudre d'escampette pour rejoindre le reste de l'équipage qui retourne à ses occupations, sous le choc mais craignant leur capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 1] cille sous l'effet de la surprise, mais un sourire apparaît bien vite sur son visage quand elle se rend compte que vous pensez ce que vous dites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Tout d'abord, [Specified 1] a l'air insultée, mais elle fait demi-tour pour constater que les membres d'équipage haussent les épaules ou opinent du chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>La réplique cinglante fait à tout l'équipage l'effet d'une claque sur le visage. Un silence abasourdi et furieux les retient pendant un instant.
+
+Nul n'a envie de discuter du problème, pas même [Specified 1]. Bien qu'ils soient heureux que le vent froid a cessé, chacun reprend son poste irrité par les paroles encore plus froides de son capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Lancer un regard noir à l'équipage] "Quelqu'un &lt;i&gt;d'autre&lt;/i&gt; désire contester la manière dont je dirige mon navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Rire comme un dément] "Eh bien, qu'est-ce que vous attendez ? Chantez les louanges d'Ondra !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Regarder [Specified 0] se noyer en silence]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Lorsque votre regard se pose sur chacun de vos hommes l'un après l'autre, ils regardent ailleurs, secouent la tête ou tressaillent. Aucun ne parle. La seule voix audible est celle de [Specified 0], en train d'avaler de l'eau de mer, et qui finit par disparaître sous les flots.
+
+Les yeux écarquillés et abasourdis, les autres membres de l'équipage retournent à leur poste. Le lendemain, c'est à peine s'ils se rendent compte que le vent est tombé. Tout ce qu'ils ont en tête, c'est l'image de [Specified 0] en train de se débattre, votre regard noir et leurs propres silence et impuissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Au début, l'équipage est sidéré et se tient coi. Un matelot hésitant après l'autre, un chant funèbre ondrite est entonné. Leurs voix se brisent et s'interrompent pour avaler l'air gorgé d'épouvante qui stagne sur le pont. Des regards vont et viennent entre votre expression démente et la pauvre âme condamnée qui se débat dans l'eau.
+
+Très vite, les cris de [Specified 0] deviennent inaudibles. Dans l'océan, une main cherche désespérément à s'agripper à quelque chose. Ne trouvant rien, elle disparaît sous les vagues.
+
+Le lendemain, l'équipage remarque à peine que le vent s'est calmé. Leurs pensées sont occupées par la pauvre âme qui a perdu la vie suite au coup de folie de leur capitaine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Personne sur le pont n'ose ouvrir la bouche pendant que [Specified 0] se débat, recrache de l'eau puis disparaît inexorablement sous la surface de la mer.
+
+Le lendemain, le vent s'est calmé et l'équipage est à pied d'œuvre. Cependant, certains tremblent à votre vue en se souvenant de votre impassibilité face à un camarade dont l'océan sera le tombeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je suis désolé. Je ne peux tout simplement pas me le permettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>L'équipage grommelle et s'échange des regards, mais personne ne semble vouloir renchérir.
+
+Le lendemain, les vents sont tombés, ce qui n'empêche pas vos hommes d'être ennuyé à l'idée de ne pas recevoir de prime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Le lendemain, les vents sont tombés et l'équipage est content que la dame d'Élégie semble avoir été apaisée par votre offrande au fond des océans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le lendemain, les vents ont disparu et tout le monde semble pressé d'oublier la « requête » d'une prime exprimée par [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] frappe à la porte de votre cabine avec un air penaud. Lorsqu'elle entre, sa peau est pâle et la sueur perle sur son front.
+
+"Pardonnez-moi, capitaine, mais c'est un vent mauvais envoyé par Ondra. Nous avons navigué trop longtemps sans lui offrir de tribut. Elle nous punira sans faute si nous ne lui accordons pas son dû."
+
+Elle incline la tête vers l'écoutille, vous appelant ainsi à la suivre sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] frappe à la porte de votre cabine avec un air penaud. Lorsqu'il entre, sa peau est pâle et la sueur perle sur son front.
+
+"Pardonnez-moi, capitaine, mais c'est un vent mauvais envoyé par Ondra. Nous avons navigué trop longtemps sans lui offrir de tribut. Elle nous punira sans faute si nous ne lui accordons pas son dû."
+
+Il incline la tête vers l'écoutille, vous appelant ainsi à le suivre sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1] cille sous l'effet de la surprise, mais un sourire apparaît bien vite sur son visage quand il se rend compte que vous pensez ce que vous dites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Une clameur s'élève parmi l'équipage au moment où les pièces d'un coffre lui sont distribuées.
+
+Durant les jours qui suivent, le moral est au plus haut et chacun de vos hommes met un point d'honneur à vous saluer sur votre passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tout d'abord, [Specified 1] a l'air insulté, mais il fait demi-tour pour constater que les membres d'équipage réunis haussent les épaules ou opinent du chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Bon, c'est toujours mieux que rien. Merci, capitaine."
+
+L'équipage divise précautionneusement le sac de pièces et tous paraissent apprécier modérément le geste en regagnant leur poste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous jaillissez vers [Specified 0] et l'attrapez avant qu'il ne puisse réagir. Il bégaye de surprise, puis proteste en hurlant pendant que vous le traînez sur le pont.  L'équipage, étonné, vous observe tirer [Specified 0] jusqu'au bastingage et le pousser par-dessus bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] se débat en pataugeant et en recrachant de l'eau. L'équipage vous observe, la mâchoire pendante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Bon sang d'bonsoir, capitaine Gardien, c'est à croire que vous voulez déclencher une mutinerie..." Serafen marmonne dans sa barbe, les yeux errant sur la foule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Pallegina vous apostrophe : "Avez-vous perdu la raison ?! Que cherchez-vous à accomplir, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Le plan, c'est bien de lui jeter une corde... n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"C'est peut-être votre bateau, mais si vous continuez de le commander ainsi, l'équipage ne tardera pas à vous faire subir le même sort." Edér secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

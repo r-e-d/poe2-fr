@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_siren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Onadere la sirène</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuer &lt;b&gt;Onadere&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Okauro&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une sirène attire les navires dans les récifs. Les survivants racontent que c'est &lt;b&gt;Onadere&lt;b&gt; qui hante les &lt;b&gt;îles ouest&lt;b&gt; de la grande chaîne insulaire &lt;b&gt;Kua o Rikuhu&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Onadere&lt;b&gt; hante les &lt;b&gt;îles ouest&lt;b&gt; de la grande chaîne insulaire &lt;b&gt;Kua o Rikuhu&lt;b&gt;. La tuer permettrait de rendre le passage plus sûr pour les navires et de collecter une grosse prime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>À présent qu'Onadere n'est plus, je peux apporter une preuve de sa mort à &lt;b&gt;Okauro&lt;b&gt;, dans le district de l'&lt;b&gt;Escalier sacré&lt;b&gt;, à Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Onadere et j'ai collecté la prime auprès d'Okauro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

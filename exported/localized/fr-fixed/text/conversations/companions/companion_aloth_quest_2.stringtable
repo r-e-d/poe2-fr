@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Des choses grandes et terribles sont à l'œuvre, [Player Name]. Et une fois de plus, vous êtes en plein dedans."
+
+Aloth tord le bord de sa ceinture entre ses doigts, avec un rictus de concentration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'ai promis de vous dire ce que je faisais avec les animanciens à Port Maje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Comme vous l'avez peut-être deviné, je les observais. Pour rassembler des informations sur les diverses opérations d'animancie dans la région."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'aimerais avoir votre clarté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Il soupire par le nez, les lèvres serrées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je pensais que vous cherchiez un groupe de la Clef plombée particulier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"L'animancie est un sujet qui intéresse particulièrement la Clef Plombée. J'espérais trouver leur trace en enquêtant dessus." Une étincelle de plaisir brille dans son œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oui, et quel meilleur moyen de les débusquer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Et ensuite ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"C'est malin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Plutôt vague, comme plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Après cet incident dans Vailia l'Ancienne, j'ai davantage réfléchi à la Clef plombée et à sa composition particulière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Surtout des fous portant des robes, si je me souviens bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Elle a existé pendant plus de deux mille ans. On peut dire ce qu'on veut sur ses fins et ses moyens, mais c'est une durée impressionnante."
+
+Il joint ses mains derrière le dos et commence à faire les cent pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Oh, très drôle." Il vous regarde de biais, mais les commissures de ses lèvres se relèvent malgré tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est alors que j'ai réalisé combien je n'avais envisagé les choses qu'à court terme. Je pensais pourvoir changer la Clef plombée sans comprendre son mode de fonctionnement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"C'est alors que j'ai réalisé combien je n'avais envisagé les choses qu'à court terme. Je pensais pouvoir éliminer la Clef plombée sans comprendre son mode de fonctionnement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Iselmyr ricane avec amusement alors que s'évanouit l'expression pensive d'Aloth.
+
+Après un moment, elle s'efface de nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Si vous deux en avez fini..." Il vous regarde de biais, mais les commissures de ses lèvres se relèvent malgré tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'ai trouvé des références à une ancienne cabale de la Clef plombée dans le Feu éteint. Peut-être une des plus vieilles, à en croire les récits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Et il semble que son fonctionnement ait été indépendant, sans intervention directe de Thaos... pendant près de deux millénaires." Il vous regarde avec attention, attendant que vous assimiliez ses propos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous pensez qu'en les observant, vous pouvez apprendre comment fonctionne la Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Et comment la réformer. Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Et comment la détruire. Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Très bien. Comment les trouver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Bon, ils sont vieux. "En quoi est-ce vraiment important ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"La plupart des sources les appelle les « Masques peints ». Mais je n'ai rencontré personne ici qui connaisse ce nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Voilà le problème." Il s'arrête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ne sais pas où ils se situent au juste dans le Feu éteint. Mais j'espérais que nous pourrions les chercher ensemble." Il joint les mains, l'air à la fois plein d'espoir et un peu penaud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"J'aiderai du mieux que je peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ne vous en faites pas, Aloth. Je vous promets que nous les trouverons, d'une manière ou d'une autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je vous crois." Il sourit, mais l'inquiétude plisse les coins de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je ne veux pas promettre l'impossible. On n'a pas beaucoup d'éléments, mais on essaiera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"C'est tout ce que je demande, [Player Name]." Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je comprends. J'espère juste que si nous les rencontrons, vous me laisserez enquêter dessus." Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Trouver une ancienne secte de la Clef plombée dans un archipel grouillant de monstres. Simple comme bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Il glousse. "Pour le Gardien qui a survécu à la colère des dieux, j'y compte bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"C'est là que ça se complique." Il serre les lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Juste un premier pas." Mais ses oreilles rougissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vous ne voyez pas ?" Si je comprenais comment ils ont pu perdurer, je pourrais apprendre comment réformer la Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous ne voyez pas ?" Si je comprenais comment ils ont pu perdurer, je pourrais apprendre comment détruire la Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Alors que vous approchez d'un poteau sur lequel est peint un curieux symbole, Aloth pose une main sur votre bras pour vous arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Est-ce que ça ne pourrait pas attendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ne vous inquiétez pas, je sais déjà que vous travaillez pour le Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ne me dites pas que vous travaillez pour une autre société secrète..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je n'ai pas assez de temps pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ça concerne la raison pour laquelle je suis dans le Feu éteint. Les gens que j'ai recherchés." Son regard entendu passe de vous à la tour engwithane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'ai bien peur que non." Son regard entendu passe de vous à la tour engwithane et au poteau peint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je sais maintenant qu'il vaut mieux ne pas cacher des secrets à qui peut lire les âmes." Il a un sourire forcé.</DefaultText>
+      <FemaleText>"Je sais maintenant qu'il vaut mieux ne pas cacher des secrets à qui peut lire les âmes." Il a un sourire forcé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je n'insisterais pas si ce n'était pas important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Oh, très drôle." Il a un sourire forcé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"J'ai commis quelques erreurs, ces dernières années. En conséquence, j'ai davantage réfléchi à la composition de la Clef plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Les Wahakis d'Ori o Koīki peignent leurs visages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"En fait, je sais peut-être qui ils sont. Il y a bien longtemps, Thaos a rencontré un grand chef wahaki."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je ne comprends pas. Qu'avez-vous trouvé ?" L'excitation pointe dans son expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vraiment ? Peut-être trouverons-nous quelque chose là-bas." L'espoir illumine ses yeux bleus alors qu'il vous regarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Puis, son regard se tourne à nouveau vers la tour engwithane. Et les canoës à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je vous en prie, regardons aux alentours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Qu'avons-nous déclenché, au juste, Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Les Rauatais que nous avons croisés vont sans doute répandre la nouvelle de ce que vous avez fait à Hasongo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Mais d'autres voudront savoir ce que vous avez vu, [Player Name]. 
+
+"Ils souhaiteront que vous leur apportiez des réponses." Il vous contemple d'un air incertain, le front plissé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Je dois faire part de ce que j'ai vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je leur dirai ce qu'ils ont besoin d'entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je m'inquiète de ce à quoi cela mènera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ce que je dis ne fait aucune différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ne vous inquiétez-vous pas de ce qui arrivera ensuite ? Quel genre de conséquences vous pourriez déclencher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"De quoi parlez-vous au juste, Aloth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Si j'y réfléchissais tant que ça, je ne ferais jamais rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ce que d'autres font de mes mots est leur problème, pas le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Bien entendu. C'est pourquoi je pèse mes paroles avec soin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je doute que ma réponse entraîne quoi que ce soit d'irrévocable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ce n'est pas un problème anodin." Il se pince l'arête du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"À vous entendre, ça paraît si simple." Il écarte les mains en signe d'exaspération.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Et moi donc." Les plis de son front se creusent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous avez entendu Éothas en personne révéler son projet de mettre fin au cycle des réincarnations." Il parle entre ses dents serrées, regardant aux alentours comme s'il avait peur que quelqu'un vous entende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Et maintenant, le reste du Feu éteint voudra savoir ce qui est arrivé aux Dents de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je n'en ai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je sais. Ça m'inquiète."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je peux comprendre." Il vous adresse un demi sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Eh bien. Au moins je ne suis pas seul dans cette galère." Il sourit à contrecœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ça me rappelle la question qui m'a amené dans le Feu éteint.
+
+"Celle que j'ai évitée." Il se frotte la nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Alors, vous espionniez vos amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Il grimace. "Pas par méchanceté. Il n'y avait tout simplement pas de meilleure façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Écouter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Comment fonctionne la Clef plombée ? Comment l'apprendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"En étudiant ses origines, bien sûr." Il s'interrompt assez longtemps pour vous montrer triomphalement ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Fi donc, ça n'a même pas dérangé l'petit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Nous avons des problèmes plus urgents. Je ne peux pas faire de détour pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"On va y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"S'il y a le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"C'est tout ce que je demande, [Player Name]." Il incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Merci, [Player Name]." Il sourit chaleureusement, mais son expression trahit un brin d'impatience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Je ne sais pas comment vous pouvez avoir une telle certitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je ne comprends toujours pas comment vous pouvez vraiment savoir ce qu'ils vont dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"C'est un instant prudent pour vous expliquer quelque chose." Il se lèche les lèvres, pondérant ses prochaines paroles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Quiconque vit ici le fait évidemment depuis très longtemps."
+
+Il regarde le poteau arborant un symbole peint de manière étrange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"En tout cas, il se fait tard. Je suppose que c'en est assez de ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"En tout cas, il fait encore jour. Je suppose que c'en est assez de ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ce sont des terres wahaki, m'est avis. Ce symbole est un avertissement pour les étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"J'espère que vous avez le temps. Parce que j'ai beaucoup à dire sur leurs fins et leurs moyens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Et ça ressemble fortement à l'insigne de la Clef plombée. Mais... quelque peu tordu." Il penche la tête, comme pour l'observer d'un autre angle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Aucun doute. Mais imaginez ce qu'on pourrait apprendre d'eux." 
+
+Il se retourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Détendez-vous, Edér. Je ne les défends pas."
+
+Il se retourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

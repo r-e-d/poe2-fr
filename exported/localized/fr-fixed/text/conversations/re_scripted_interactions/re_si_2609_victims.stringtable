@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2609_victims</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Plus vous progressez vers l'est, plus la jungle s'épaissit. L'ombre projetée par la canopée atténue à peine la chaleur étouffante. L'humidité et les nuées d'insectes alourdissent l'atmosphère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Poursuivre votre chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La corde grince tandis que vous enroulez vos membres autour et que vous vous mettez à traverser...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous progressez lentement mais sûrement, vous tirant d'une main après l'autre, jusqu'à vous retrouver suspendu au beau milieu du ravin. 
+
+Vos muscles picotent et vos mains vous brûlent, et il vous faut encore parcourir une distance plus longue que celle que vous avez déjà traversée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous approchez de l'autre côté du gouffre lorsque vos pieds glissent de la corde et pendent dans le vide. Votre estomac fait un soubresaut tandis que vos doigts tentent, sans succès, d'attraper la corde...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[SkillCheck 0] perd prise sur la corde et laisse échapper un cri...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[SkillCheck 1] vous attrape par le bras, le tirant brutalement, et vous êtes suspendu au-dessus de l'abîme, vos jambes se balançant dans le vide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous attrapez son bras d'un mouvement instinctif, le tirant brutalement. Il se balance au-dessus du vide, menaçant de vous faire chuter tous les deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Depuis le sommet de la falaise, vous pouvez contempler la partie occidentale de l'île. Le Feu éteint scintille de bleu à l'horizon, les îles de &lt;xg&gt;Kua o Rikuhu&lt;/xg&gt; tout juste visibles au sud. 
+
+Vous arrivez même à distinguer le [Player Ship] ancré au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Devant vous s'ouvre un gouffre béant. Il s'étend des montagnes au nord à la mer au sud, et vous n'en voyez pas le fond.
+
+Curieusement, une corde traverse l'abîme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Examiner la corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Explorer la zone environnante]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Traverser au moyen de la corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Il s'agit d'une corde à triple tresse, semblable à celles vendues par de nombreux marchands d'Eora. Détail surprenant : elle semble propre, neuve, et suffisamment solide pour supporter le poids du kith le plus lourd.
+
+Elle est probablement de fabrication des Contrées, ou peut-être dyrwoodane ou vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Elle semble assez solide pour vous permettre de traverser. Enfin, vous pensez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je ne sais pas trop quoi vous dire..." hésite [Specified 5] "On dirait une corde normale. Il devrait être possible de traverser sans risque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous redescendez les collines et retournez au niveau de la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous retournez sur les falaises surplombant la fissure de Whēnura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Rien ne semble vraiment suspect... en tout cas, il n'y a aucun signe d'un piège. Vous remarquez une foule d'empreintes de pas fraîches autour des rochers auxquels est attachée la corde. Des empreintes de kith et d'ogre. Plusieurs paires différentes, apparemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous ne trouvez rien de suspect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ne trouvant rien de suspect, [Specified 5] hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafen plisse le nez. "La corde a l'air assez sûre, cap... enfin, pour un truc suspendu au-dessus d'un gouffre sans fond, bien sûr. Mais il y a quelque chose qui cloche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Au-delà du canyon, la jungle s'ouvre sur un vaste pré parsemé d'arbres immenses chargés de fruits. La jungle s'étend jusqu'aux montagnes au nord, mais vous apercevez le Feu éteint au sud-ouest, par delà une pente abrupte qui mène au rivage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Un mince filet de fumée s'élève de la jungle au nord-est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous poursuivez votre traversée du gouffre, votre sueur tombant goutte à goutte dans l'abîme.
+
+Vous parvenez cependant à atteindre l'autre côté sans encombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous progressez le long de la corde, mais une fois à mi-chemin, vous êtes en nage et votre respiration est devenue laborieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Une fois que vous êtes tous deux de l'autre côté de la corde, vous remarquez que [SkillCheck 0] est en nage et à bout de souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Mais ce qui attire votre regard est la scène qui se trouve devant vous. Un des arbres, noirci et déformé par un feu, sert de potence à de nombreux cadavres pendus par le cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du mouvement non loin et des voix attirent votre attention. Vous voyez quatre membres de votre équipage debout devant l'arbre.
+
+"Nous devrions les enterrer. C'est ce qu'ils souhaiteraient... et ce qu'exigent les dieux !" gronde [Specified 3].
+
+"Bien sûr", répond [Specified 0]. "Dès que nous aurons vidé leurs poches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous vous approchez de l'arbre et de ses vautours perchés sur les plus hautes branches, tels des monarques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Détecter la présence d'esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ça vous dit d'utiliser votre lanterne, Xoti ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Brûler les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Enterrer les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Quitter l'arbre et poursuivre votre expédition]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Parmi les restes noircis des défunts, vous découvrez une paire de sandales dotées d'une aura de pouvoir palpable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Les kiths étrangers vous bousculent des coudes et des épaules, vous aiguillent de leurs lames et de leurs lances. Leurs armures, trop lourdes pour être originaires du Feu éteint, brillent à la lueur du feu, comme si leurs porteurs étaient vertueux. 
+
+Vous crachez. 
+
+Non. Ces pilleurs impies n'ont pas la moindre vertu. Ils ont tué le jeune druide. Ils ont brisé les bâtons des anciens et volé les herbes du médecin. Et à présent, ils brûlent l'arbre d'Amira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Affichera-t-il à nouveau un jour toutes les couleurs connues des dieux et des kiths contre le dôme azur parfait du ciel ? Vous le priez de toutes vos forces. Vous priez Amira. Ngati. Rikuhu, Kohopa et Tangaloa, ainsi que les Visages de Toamowhai.
+
+Vous vous demandez ce que ces étrangers pourraient vous prendre d'autre, tandis qu'ils coupent des longueurs de corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>L'Étoile de l'aube hoche la tête d'un air solennel et lève sa lanterne. Elle la fait balancer d'un coup sec. Puis la lumière émanant de l'intérieur s'intensifie comme celle d'un astre qui meurt tandis qu'elle récolte les âmes perdues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vous traversez la clairière et vous retournez dans la jungle, laissant l'arbre sinistre derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vous suggérez qu'un ogre ne pendrait pas quelques cadavres ?", demande [Specified 0]. "Parce que je crois bien que ce sont des empreintes d'ogre..."
+
+Les yeux écarquillés, [Specified 3] vous salue. "Capitaine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous avez trouvé quelque chose d'intéressant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ce ne sont pas des étals de marché, ce sont des cadavres. Descendez-les de là et enterrez-les comme il se doit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Allez-y. N'oubliez pas que votre capitaine mérite sa part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Vous récupérez les restes, que vous enveloppez dans du tissu, puis ramassez des branchages et du petit bois pour préparer un modeste bûcher. Pendant que les corps brûlent, vous faites de votre mieux pour ne pas trop respirer la fumée projetée par la chair calcinée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>La terre sombre est molle. Il ne vous faut que quelques heures pour creuser un trou assez profond pour enterrer les restes. Vous les faites descendre dans les entrailles de la terre et recouvrez la tombe de fortune pour confier les âmes à la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bien que les vêtements de ces aumauas ressemblent à ceux des Huanas, ils préfèrent les peaux et le cuir aux tissus et aux coquillages. Certains sont couverts des blessures infligées par des dagues ou des épées, indiquant qu'ils ont été attaqués avant d'être pendus. Quelques-uns ont la gorge tranchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Quoi que vous cherchiez, vous ne le trouvez pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les sourcils froncés, [Specified 5] vous fait signe de vous approcher et vous indique quelques détails étranges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Après plusieurs minutes passées à ratisser les environs, [Specified 5] fronce les sourcils et soupire. "Rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0] tousse. "Nous cherchions des provisions pour le [Player Ship], capitaine, comme nous le faisons toujours quand vous descendez à terre." Le matelot indique l'arbre. "Ça semblait valoir le coup d'œil, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Comment vous êtes arrivés ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>La question semble laisser [Specified 1] perplexe. "Nous sommes des marins, capitaine. Pour ce qui est de grimper, on se débrouille pas trop mal."
+
+"En plus", intervient [Specified 0], "on a trouvé une corde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous ne pensez pas que vous devriez retourner au bateau ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Les bras croisés, [Specified 0] fronce les sourcils en regardant le sol. "Non, pas encore. On n'a pas encore eu le temps de faire ce pour quoi on est venus."
+
+"C'est pas tout à fait vrai", intervient [Specified 2]. "Vous inspectez les blessures et les cordes utilisées pour pendre les corps. Tout suggère l'œuvre de pillards venus des Contrées orientales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0] laisse échapper un soupir. "Il faut toujours que tu te la racontes devant capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 3] sourit et vous salue. "Bien, capitaine. Nous nous en occupons immédiatement."
+
+Ils tirent leurs couteaux et se dirigent vers l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 1] vous salue. "Très bien, capitaine."
+
+[Specified 0] a un sourire satisfait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] grimace, mais [Specified 2] vous salue. "Bien, capitaine. Tout de suite."
+
+Après avoir jeté quelques coups d'œil en arrière, les quatre se dirigent vers la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 5] secoue la tête et déclare : "Désolé, aucune idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous tombez dans l'abîme en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous attrapez son bras d'un mouvement instinctif, le tirant brutalement. Elle se balance au-dessus du vide, menaçant de vous faire chuter tous les deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>C'est comme si tout le côté est de l'île avait été tiré du sol. Ou que la moitié ouest avait partiellement sombré dans la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je suppose que vous ne savez pas ce qu'est cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Si, bien sûr. Un bon endroit pour tester une corde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Le gouffre béant ? Pourquoi ne pas lui donner un nom et voir si ça devient populaire ? 
+
+Maia hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ça pourrait être la fissure de Whēnura, cap. J'en ai entendu parler une ou deux fois. Il paraît qu'elle est plus profonde que la mer, même si ça ne rime pas à grand-chose, vu que c'est sur terre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Nous sommes devant la fissure de Whēnura, m'est avis. Un lieu sacré. Propice à la méditation et... aux longues randonnées." 
+
+Tekēhu jette un coup d'œil par-dessus le rebord. Il effectue immédiatement un pas de recul et frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ils n'ont pas de poches", déclare [Specified 1]. "À proprement parler."
+
+[Specified 2] contemple l'arbre, les sourcils froncés. "Personne d'autre ne s'inquiète de savoir qui a fait ça ? Ce n'étaient clairement pas des bêtes ou des kiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"La corde au-dessus du gouffre n'était pas la vôtre, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Non, capitaine", répond [Specified 2] en secouant la tête. "Je doute que l'un d'entre nous possède même une corde qui ne sorte pas du magasin du [Player Ship]."
+
+"Moi j'en ai une, de corde", grommèle [Specified 0]. "Elle fait huit pieds de long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Peu d'entre eux portent des marques de brûlures. L'arbre a visiblement été brûlé avant que les pendus ne soient tués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Bien que les vêtements de ces aumauas ressemblent à ceux des Huanas, ils préfèrent les peaux et le cuir aux tissus et aux coquillages. Certains sont couverts des blessures infligées par des dagues ou des épées, indiquant qu'ils ont été attaqués avant d'être pendus. Quelques-uns ont la gorge tranchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous apercevez les esprits à la périphérie de votre vision presque sans chercher leur présence. Quand vous vous ouvrez à eux, ils déferlent sur vous, tels un torrent de souffrance embrasée et de terreur glaciale...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>La vision cesse brusquement, passant sur votre esprit comme de l'eau passant sur le pont du navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Profiter de la vue]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Le chemin grimpe en pente raide, et l'ascension pèse douloureusement sur vos jambes. Petit à petit, la jungle s'éclaircit, et vous vous retrouvez au sommet d'une longue crête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Une vaste vide sépare les deux côtés. La traversée serait éprouvante, et toute chute fatale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Faire demi-tour]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Vous repartez vers le bord du gouffre le plus proche de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Avec un grognement d'effort, [SkillCheck 1] vous soulève jusqu'à la corde. 
+
+Vous vous y accrochez en tremblant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[SkillCheck 1] vous tire de toutes ses forces, mais vos doigts glissent et vous lâchez prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Le remonter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Le laisser tomber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[La remonter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[La laisser tomber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Serrant les dents et tirant de toutes vos forces, vous remontez [SkillCheck 0] jusqu'à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Vos jambes fermement enroulées autour de la corde, vous tenez [SkillCheck 0] avec vos deux bras, luttant contre le poids de votre compagnon... en vain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[SkillCheck 0] tombe dans l'abîme en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Vous progressez prudemment jusqu'à l'autre côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Il s'y accroche désespérément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Elle s'y accroche désespérément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Vos jambes lâchent et vous n'êtes plus accroché à la corde.
+
+Vous tombez tous les deux dans les abysses en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Quelques minutes plus tard, [Specified 2] s'approche de vous. "Pardon, capitaine. J'ai pensé que vous voudriez voir ceci. Ça a l'air... spécial."
+
+Le marin vous présente une paire de chaussures huanas, un peu noircies, mais encore utilisables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hé, je ne rêve pas, hein ? Écoutez, si je voulais voir ce genre de chose, je serais resté chez moi."
+
+Les lèvres serrées, Edér tourne son regard vers le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"J'espérais ne jamais revoir ça," lance Aloth en regardant l'arbre avec tristesse.
+
+"J'ai été naïf de croire qu'une telle cruauté n'existait qu'au Dyrwood." Il frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Vous voyez ça ? Hein, Gardien ? Je ne suis pas prisonnière d'un autre cauchemar... N'est-ce pas ?"
+
+Le regard de Xoti passe d'un cadavre à l'autre et elle grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Beaucoup d'âmes. Prêtes à être moissonnées."
+
+Une sombre avidité illumine le visage de Xoti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Rekke vous regarde d'un air ébahi. Après un long moment de silence, il écarquille les yeux et secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

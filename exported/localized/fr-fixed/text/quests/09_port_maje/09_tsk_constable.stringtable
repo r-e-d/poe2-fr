@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_constable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rétablissement de l'ordre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous rendre rue Gorecci.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler à Ilari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Savia&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retourner voir Savia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai proposé à &lt;b&gt;Savia&lt;b&gt; de l'aider en essayant de convaincre &lt;b&gt;Ilari&lt;b&gt;, un chef de gang, d'aider à maintenir l'ordre &lt;b&gt;rue Gorecci&lt;b&gt;, à Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vous rendre &lt;b&gt;rue Gorecci&lt;b&gt;, dans la &lt;b&gt;partie ouest de Port Maje&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai atteint la rue Gorecci. Maintenant, je n'ai plus qu'à trouver &lt;b&gt;Ilari&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai convaincu &lt;b&gt;Ilari&lt;b&gt; de s'occuper de la &lt;b&gt;rue Gorecci&lt;b&gt; et d'empêcher d'autres pillages.
+
+Il faut en informer la &lt;b&gt;commandante Savia&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Ilari&lt;b&gt;. Ce n'est pas ce que la &lt;b&gt;commandante Savia&lt;b&gt; m'avait demandé de faire, mais il faut quand même que je l'en informe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai été attaqué par plusieurs pillards, mais aucun d'entre eux ne correspondait à la description d'&lt;b&gt;Ilari&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai attaqué &lt;b&gt;Ilari&lt;b&gt;, empêchant toute résolution pacifique du problème de la &lt;b&gt;rue Gorecci&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai arrangé la situation rue Gorecci pour Savia. Ses gardes n'auront pas à s'occuper de ça au moins.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

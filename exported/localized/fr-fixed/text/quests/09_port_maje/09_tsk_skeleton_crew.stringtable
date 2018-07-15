@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_skeleton_crew</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Équipage restreint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Recruter cinq membres d'équipage pour votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le Défi est prêt à reprendre la mer, mais, après la tempête, la plupart de son équipage est soit mort, soit porté disparu. Il va falloir que j'engage plus de marins si je veux pouvoir affronter les dangers du grand large.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Pour l'heure, cinq membres d'équipage devraient tout juste suffire à manœuvrer le Défi. 
+
+Je peux trouver des marins à la recherche d'un emploi en parlant aux taverniers de n'importe quel port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Port Maje&lt;b&gt; se trouve &lt;b&gt;tout au nord de la plage&lt;b&gt; et constitue l'endroit idéal pour se réapprovisionner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Une recrue, plus que quatre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Il faudrait que je recrute encore trois marins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trois marins, il m'en faut encore deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Il me faut encore un dernier marin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai recruté assez de marins pour pouvoir manœuvrer mon navire sans trop de problèmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

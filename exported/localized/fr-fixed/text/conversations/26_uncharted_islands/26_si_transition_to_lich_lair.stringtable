@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_lich_lair</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>En traversant l'île, vous arrivez dans une zone qu'aucun kith ne semble avoir foulé.
+
+Une végétation luxuriante pousse en abondance aux alentours des entrées de plusieurs grottes, et par-dessus le bris des vagues sur la plage derrière vous, vous entendez des animaux et des insectes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>En vous rapprochant, vous remarquez cependant que l'entrée d'une des grottes est de forme bien trop régulière pour être une simple création de la nature.
+
+En l'examinant, vous découvrez l'embrasure d'une porte taillée dans l'entrée de la grotte, bien qu'il n'y ait plus de porte depuis longtemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Cette partie paisible de l'île n'a pas changé depuis la dernière fois que vous vous y êtes aventuré. Vous retournez à la ruine engloutie, par le même chemin envahi par la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\20_splinteredreef\20_qst_splintered_reef_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un paradis artificiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parler à Tête-de-cuivre chez lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Inspecter la crypte du Récif escarpé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Monter les escaliers dans la crypte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>S'occuper de Menzzago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Parler à Tête-de-cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Explorer le Récif escarpé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Inspecter la crypte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Inspecter la crypte du Récif escarpé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>En explorant le Récif escarpé, je suis tombé sur une taverne peuplée de réceptacles vaquant à leurs occupations, comme si de rien n'était. À l'intérieur, j'ai rencontré une dargoule du nom de Tête-de-cuivre. Il prétend que quelque chose ne tourne pas rond, ici. Compte tenu du fait qu'aucun de ceux présents ici ne semble remarquer qu'ils sont des cadavres pourrissant se repaissant de la chair des vivants, je veux bien le croire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tête-de-cuivre m'a demandé de le retrouver chez lui, à la périphérie ouest de la ville. Il a l'air d'en savoir plus sur ce qui se passe au Récif escarpé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tête-de-cuivre m'a révélé qu'il pense que tout le monde en ville est victime d'une illusion leur faisant croire qu'ils sont des kiths encore en vie. Curieusement, le casque qu'il a récupéré dans une des épaves bloque la magie, dont la source semble émaner du sommet de la crypte au centre de la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Au cours de mon enquête, j'ai découvert un sentier menant au cap rocheux qui surplombe l'île. Le cap rocheux n'est pas très engageant, mais je pense que c'est là-bas que je trouverai des réponses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai atteint le sommet de la forteresse. Si je veux avoir quelque influence sur l'avenir du Récif escarpé, je dois m'occuper de celui qui y gouverne actuellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai mis un terme à l'emprise qu'exerçait Menzzago sur les âmes misérables du Récif escarpé. Je devrais retourner voir Tête-de-cuivre pour le mettre au courant des dernières avancées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Tête-de-cuivre est mort, ce qui veut dire que je devrai enquêter sur l'île et sur ses grotesques habitants tout seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Quelle que soit la force à l'œuvre sur cette île, cette crypte semble en être à l'origine. Peut-être que j'y trouverai quelques indices... si je ne rejoins pas entre-temps les rangs des kiths pourrissants qui pullulent alentour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>La crypte est bien défendue. Quoi qu'il se trame sur cette île, la crypte semble être au cœur des événements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tête-de-cuivre est d'accord pour faire diversion à l'extérieur de la crypte, le temps que je me faufile à l'intérieur sans alerter la horde de morts-vivants qui la garde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai découvert une porte qui n'avait pas de verrou ou de poignée apparents, mais deux réservoirs de part et d'autre avec du sang séché à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai rencontré une fampyr qui était en train de créer des sortes de réceptacles. Après l'avoir tuée, j'ai pu récupérer un peu de son sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai rencontré un fampyr qui était en train d'attacher des sceaux magiques à des morts-vivants. Après l'avoir tué, j'ai pu récupérer un peu de son sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>On dirait que les brasiers à côté de la porte s'allument lorsqu'on place du sang de fampyr dans le réservoir en dessous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai décidé de détruire l'Orbe dont Menzzago se servait pour contrôler les morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Menzzago se servait d'un orbe magique pour asseoir son emprise sur la population du Récif escarpé. Maintenant qu'il n'est plus là, c'est à moi de décider de ce que je vais en faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai décidé qu'il valait mieux que les habitants du Récif escarpé restent dans leur état de transe. Il se peut que le sort décline au fil du temps, mais, jusque là, ils demeureront heureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu Menzzago qu'il valait mieux m'avoir comme ami que comme ennemi. Il a accepté de mettre sa flotte à mon service, si jamais j'en ai besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai détruit l'orbe au sommet de la crypte du Récif escarpé, libérant ainsi les habitants de leur illusion collective. Sans la magie de l'orbe, Menzzago ne pourra pas lever d'armée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Je me suis chargé d'abattre les réceptacles du Récif escarpé. L'orbe psychotrope pourrait toujours m'être utile, néanmoins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai vaincu Menzzago, chef du Récif escarpé, et mis fin aux projets qu'il avait en tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Je suis tombé sur une crypte située dans un affleurement abrupt au centre du Récif escarpé, et où grouillent de nombreux cadavres. On dirait que de nombreux réceptacles fourmillent dans la zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

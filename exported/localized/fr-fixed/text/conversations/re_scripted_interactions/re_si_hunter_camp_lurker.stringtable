@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_hunter_camp_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous frayez un chemin à travers les jungles denses et vallonnées de l'ouest de Neketaka quand vous tombez sur un petit campement. Au premier abord, vous le pensez abandonné, vu que les deux tentes qui le composent sont effondrées. C'est alors que vous remarquez les corps.
+
+Deux cadavres, déchiquetés et à moitié dévorés, sont étalés sur la terre sombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Suivre les traces]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Depuis l'orée, vous voyez plusieurs sombres guetteurs accompagnés de quelques spores humides bulbeuses. Les primordiaux restent quasi-immobiles, apparemment pas plus dangereux que les arbres qui les entourent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Dégainer vos armes et attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Approcher discrètement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 3] vous guide silencieusement à travers les broussailles, avant de s'étaler de tout son long, la cheville prise dans une racine. [Specified 3] grimace de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous vous glissez dans la clairière, trop concentré pour remarquer cette malheureuse racine dans laquelle votre pied se coince. Vous tombez et, dans votre chute, vous vous tordez la cheville, ce qui vous arrache un grognement de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Les sombres guetteurs se tournent pour accueillir votre charge alors que de petits sporelins jaillissent des broussailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous reconnaissez les grandes empreintes inégales et arrondies d'un &lt;link="stringtooltip://cyclopedia/49"&gt;sombre guetteur&lt;/link&gt;, un énorme conglomérat de plantes carnivores.
+
+Vous remarquez également un large sillon au beau milieu des empreintes. Il semblerait que les sombres guetteurs aient traîné quelque chose de lourd en partant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous vous faufilez dans les broussailles...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Chercher des choses à récupérer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Quelques peaux, des bois d'animaux et d'autres trophées dans le genre traînent dans le camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Conjurer un leurre magique pour faire office de distraction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Examiner les empreintes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Chaque empreinte a la taille d'une grosse tarte, et à peu près la même forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ça vous dit d'utiliser votre lanterne, Xoti ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Détecter la présence d'esprits]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Fouiller la zone]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Comment cela a-t-il pu arriver ? C'est... ce sont des Enfants des Étoiles de l'aube, venus de Neketaka. J'ai... j'ai prié avec eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 4] indique de grandes empreintes arrondies. "Vous voyez comme elles sont inégales ? Des racines de &lt;link="stringtooltip://cyclopedia/49"&gt;sombre guetteur&lt;/link&gt;."
+
+Vous remarquez également un large sillon au beau milieu des empreintes. [Specified 4] estime que les sombres guetteurs traînaient quelque chose de lourd en partant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Le campement a été violemment détruit. Les tentes sont écrasées, comme si un gigantesque pied avait marché dessus. Une bouilloire renversée est quasiment aplatie. Même le feu a été piétiné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>À part les corps, le campement ne présente rien de particulier. 
+
+Sauf, peut-être, le chemin fait d'arbres couchés et de branches cassées au sud, et les grandes empreintes qui le suivent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous concentrez vos capacités de Gardien et vous ouvrez à la présence d'essence rémanente. Une vision s'agrippe à vous et vous entraîne, tel le courant bouillonnant d'une rivière en crue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Reposez, mes frères. Je vous protègerai pendant votre voyage, je vous le promets."
+
+La tête baissée, Xoti fait balancer sa lanterne le temps de la récolte, le temps que les âmes des missionnaires acceptent de suivre la lumière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Enterrer les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Brûler les corps]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous grattant la joue, vous envisagez les choix qui s'offrent à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Arrêter d'inspecter le camp]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Une fois le camp inspecté, vous revenez vers le chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous récupérez les restes, que vous enveloppez dans du tissu, puis ramassez des branchages et du petit bois pour préparer un modeste bûcher. Pendant que les corps brûlent, vous faites de votre mieux pour ne pas trop respirer la fumée projetée par la chair calcinée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La terre sombre est molle. Il ne vous faut que quelques heures pour creuser un trou assez profond pour enterrer les restes. Vous les faites descendre dans les entrailles de la terre et recouvrez la tombe de fortune pour confier les âmes à la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Et le cycle se poursuit. Même si le corps est dépouillé de son enveloppe ainsi, l'âme trouvera le chemin d'un nouveau commencement." 
+
+Xoti baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je suis heureux que quelqu'un veille sur eux, même si ce n'est pas nécessairement Éothas. J'apprécie ce que vous avez fait." Edér hoche la tête à votre attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Et le cycle se poursuit. Même si le corps est dépouillé de son enveloppe ainsi, l'âme trouvera le chemin d'un nouveau commencement." 
+
+Xoti baisse la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"J'espère que le fait que vous les ayez plantés n'attirera pas ce qui les a mis dans cet état, cap."
+
+Les oreilles de Serafen tressautent tandis qu'il scrute les abords de la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les arbres au sud sont couchés, comme si la chose à l'origine de ce carnage était venue puis repartie dans cette direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Les corps, ou, plus exactement, ce qu'il en reste, portent les lambeaux de ce qui était jadis des robes et des symboles sacrés des Étoiles de l'aube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Quelques flèches sont plantées dans les arbres au sud du campement. Autour de l'impact, l'écorce est recouverte d'une fine pellicule de givre... que la chaleur tropicale ne manque pas de faire fondre lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vous trouvez les créatures, presque deux fois plus grandes qu'un humain, au milieu des ruines de votre campement. Elles dévorent les corps de vos hommes. Des lianes et de la mousse pendent de leurs formes grotesques et couvertes d'écorce. 
+
+&lt;link="stringtooltip://cyclopedia/49"&gt;Des sombres guetteurs&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Des vagues de colère et de peur vous envahissent... de la colère, de la peur, mais également une forme de foi en Éothas et en son retour. Une prière aux lèvres, vous sortez votre arc enchanté et décochez des flèches aussi froides que la grêle.
+
+Vous entendez le son d'une course sur votre droite et vous tournez pour faire face...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>La vision s'arrête brutalement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Les créatures ne semblent pas avoir pris la peine de masquer leurs traces et vous pouvez facilement les suivre dans les profondeurs de la jungle. Le chemin mène à une clairière, et vous manquez d'entrer sans reconnaître le danger...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>En plus des sombres guetteurs et des spores humides, votre lunette révèle la présence de sporelins tapis dans les broussailles. 
+
+De plus, vous remarquez le corps d'une jeune elfe à la jambe droite horriblement et anormalement tordue. Dans sa main droite, le corps tient fermement un arc au bois ouvragé qui semble briller, comme recouvert d'une fine pellicule de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous chantez doucement pour tisser l'essence des environs et former un appel de clairon centré vers l'autre côté de la clairière. Quelques instants plus tard, le craquement caractéristique d'une entité invoquée traversant une épaisse végétation se fait entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 3] vous mène sans bruit dans les broussailles...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 4] chante doucement pour effectuer le rituel complexe permettant d'invoquer quelque chose de l'autre côté de la clairière. L'entité atterrit lourdement dans l'épaisse végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Les sombres guetteurs se tournent lentement et se dirigent d'un pas pesant vers le son. Les spores restent, par contre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Les sombres guetteurs se tournent vers vous... et vous entendez la végétation s'agiter derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Vous retournez à la clairière, dans la jungle à proximité de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Une petit coffre enterré dans une tente écroulée contient de la nourriture fraîche.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

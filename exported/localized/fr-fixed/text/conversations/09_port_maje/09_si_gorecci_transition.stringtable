@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_gorecci_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous évoluez dans les petites rues de Porte Maje, vous constatez les dégâts visibles de la tempête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Plusieurs maisons présentent des fenêtres défoncées et des auvents déchirés, et vous devez enjamber le feuillage et les débris qui jonchent les rues étroites. 
+
+Sous vos pieds, l'eau et la vase transforment les pavés en patinoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Il ne vous faut pas bien longtemps avant de vous retrouver les pieds pris dans un mélange de boue collante et de cailloux. 
+
+Plus vous progressez, plus les inondations empirent, l'eau montant jusqu'à vos genoux. La plupart des habitants de Port Maje ont fui vers des terres plus sèches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mais des éclats de voix indistinctes et le bruit d'occasionnelles éclaboussures vous indiquent que vous n'êtes pas tout à fait seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

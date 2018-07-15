@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_sea_cave_swim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les eaux de la région brillent d'un bleu étrange, et la lumière se reflète et fait scintiller la grotte. 
+
+Vous distinguez à peine une ouverture dans le mur de la caverne, au nord-ouest, là où l'eau s'écoule vers l'avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Rechercher des poches d'air]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Traverser à la nage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Enfiler votre casque de plongée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous tenez à nouveau devant l'étendue d'eau qui abrite le tunnel. L'eau lèche paresseusement la base de l'affleurement rocheux sur lequel vous êtes juché, créant un fond sonore constant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Chaque membre du groupe inhale une dernière bouffée d'air à la surface avant de plonger dans le tunnel et de suivre le mur incurvé de la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous placez l'encombrant casque sur votre tête et pénétrez dans l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Le tunnel semble s'étendre sur une courte distance avant de bifurquer brusquement, mais vous n'en voyez pas l'issue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous prenez une longue inspiration et disparaissez lentement sous la surface de l'eau froide. Vous suivez le mur de la caverne, tâtant le plafond de vos mains pour chercher les endroits où l'eau ne remplit pas complètement la cavité souterraine.
+
+Après deux petits allers-retours, vous trouvez enfin un endroit sûr où remonter pour respirer. Grâce à cette nouvelle bouffé d'air frais, vous parvenez à nager jusqu'au bout du tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Envoyer quelqu'un en éclaireur pour repérer des poches d'air]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous prenez une longue inspiration et entrez progressivement dans l'eau. L'eau est froide, sans toutefois que cela soit inconfortable, et vous vous engouffrez dans le tunnel en nageant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Le tunnel bifurque soudain et vous suivez le mur de la grotte, cherchant un endroit où remonter pour respirer. Vous n'en trouvez pas. L'eau vous pique les yeux et la roche monotone qui vous entoure perturbe votre sens de l'orientation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0] part à bonne allure, fendant l'eau avec confiance.
+
+Peu avant la fin du tunnel, [Specified 0] trouve un espace où remonter pour respirer. Grâce à cette halte reconstituante, la traversée du tunnel ne devrait pas poser trop de souci.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] pénètre dans l'eau et s'élance dans la sombre grotte sous-marine. La caverne est tortueuse et la roche monotone rend la recherche d'air de plus en plus désespérée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous progressez : vos mouvements puissants ne sont pas affectés par le poids de votre équipement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous remontez dans ce qui paraît être une nouvelle grotte, plus petite, où les rayons du soleil sont filtrés par un orifice perçant la roche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous remontez dans ce qui paraît être une nouvelle grotte, plus petite, où la lumière de la lune est filtrée par un orifice perçant la roche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous retournez dans le tunnel, désormais familier, et arrivez à nouveau à l'autre bout de la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>En cours de route, [SkillCheck 0] commence à se laisser distancer. La panique s'installe en constatant le chemin qui reste à parcourir.
+
+[SkillCheck 1] fait demi-tour pour l'aider, tirant [SkillCheck 0] en sûreté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>La traversée de la grotte immergée se résume dès lors à la succession de tunnels mal éclairés, et s'avère bien plus facile maintenant que vous n'avez plus à remonter respirer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous nagez dans cette obscurité hostile, et êtes immédiatement plongé dans un royaume aqueux déroutant fait de roche monotone et de petites formes se déplaçant par brusques à-coups.
+
+Vous continuez de nager, déterminé, mais il devient bientôt évident que vous avez sous-estimé la durée du périple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Cherchant désespérément à reprendre votre souffle, vous êtes forcé de retourner à votre point de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous partez d'une bonne allure, mais vos poumons vous brûlent lorsque vous arrivez au deuxième virage du tunnel. 
+
+Heureusement, c'est là que vous découvrez une poche d'air. Grâce à cette aire de repos, vous êtes persuadé de réussir à franchir le tunnel sans encombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Vos mouvements puissants vous font avancer prestement et vous trouvez quelques poches d'air à une distance confortable de votre point de départ. 
+
+Vous êtes sûr de pouvoir atteindre l'autre bout du tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous êtes forcé de faire demi-tour et de remonter sur l'affleurement pour reprendre avidement votre souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 0] doit faire demi-tour, au risque de se noyer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Des poches d'air fournissent un répit bienvenu alors que vous traversez l'étroit conduit immergé. Vous arrivez au bout du tunnel sans effort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

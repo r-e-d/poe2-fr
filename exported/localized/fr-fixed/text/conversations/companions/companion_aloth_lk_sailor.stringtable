@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_lk_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un fragment d'essence vibre près d'un cadavre. La plus grande partie de l'âme semble avoir déjà quitté l'endroit, mais cette essence flottante et tourmentée persiste.
+
+Elle palpite d'affolement. Même à cette distance, elle fait battre votre cœur plus vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Sonder le fragment d'âme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous la laissez vous submerger, et la terreur vous glace le sang. Votre cœur s'emballe. 
+
+Vous luttez pour ne pas vomir de peur, ne serait-ce que pour éviter le bruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>C'était censé être une brève expédition commerciale. Monter à Neketaka et revenir quelques jours plus tard. 
+
+Mais vous vous êtes perdus dans le brouillard, et avant même que vous sachiez ce qui était en train de se passer, des flèches sifflaient dans tous les sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Alors, vous vous êtes caché ici, entre des caisses. Dans un endroit sombre. Où les hurlements du pont n'étaient pas aussi stridents.
+
+Vous pensiez que les pirates représentaient le pire danger pour un navire marchand comme le vôtre, mais les guerriers qui massacrent votre équipage en hurlant n'ont pas l'air de pirates.
+
+L'un d'entre eux se tient sur le gréement, en train de peindre un symbole sur vos voiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Les étrangers ne souilleront plus nos terres !"
+
+Vous levez les yeux vers la lumière éblouissante et la silhouette de l'aumaua qui se détache en contrejour, lorsqu'une douleur intense jaillit dans votre nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous reconnaissez le guerrier comme l'un des tristement célèbres Wahakis.
+
+Par contre, le malheureux marchand ne voit qu'un guerrier indigène furieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>La lumière inonde votre cachette. Un guerrier aumaua, un Huana vous semble-t-il, se tient au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

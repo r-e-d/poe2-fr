@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_luminousadra_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Biens et services</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Obtenir trois caisses d'adra lumineux brut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Livrer l'adra à Morena la Folle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Obtenir quatre caisses d'adra lumineux brut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Obtenir six caisses d'adra lumineux brut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aller trouver &lt;b&gt;Morena la Folle&lt;/b&gt; au &lt;b&gt;Caveau&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Aller parler au &lt;b&gt;capitaine Aeldys&lt;/b&gt;, à &lt;b&gt;Mortelume&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Morena la Folle&lt;/b&gt;, la capitaine príncipi qui dirige le &lt;b&gt;Caveau&lt;/b&gt; dans la Raveline, désire vendre de l'adra lumineux brut au prix du marché noir. Je dois lui obtenir quelques caisses si je veux m'attirer ses bonnes grâces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Morena la Folle a un acheteur qui cherche de l'adra lumineux brut au prix du marché noir, mais elle n'en a pas en réserve.
+
+Selon elle, la Compagnie commerciale vailienne conserve de l'adra lumineux brut dans son &lt;b&gt;moulin&lt;/b&gt;, à la &lt;b&gt;Jetée de la reine&lt;/b&gt;.
+
+Je pourrais voler les trois caisses dont j'ai besoin au moulin, ou tendre une embuscade aux navires de la Compagnie quand ils prendront la mer pour transporter l'adra hors de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Morena la Folle attend ses caisses d'adra lumineux brut au &lt;b&gt;Caveau&lt;/b&gt; de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Morena la Folle a un acheteur qui cherche de l'adra lumineux brut au prix du marché noir, mais elle n'en a pas en réserve.
+
+Selon elle, la Compagnie commerciale vailienne conserve de l'adra lumineux brut dans son &lt;b&gt;moulin&lt;/b&gt;, à la &lt;b&gt;Jetée de la reine&lt;/b&gt;.
+
+Je pourrais voler les quatre caisses dont j'ai besoin au moulin, ou tendre une embuscade aux navires de la Compagnie quand ils prendront la mer pour transporter l'adra hors de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Morena la Folle a un acheteur qui cherche de l'adra lumineux brut au prix du marché noir, mais elle n'en a pas en réserve.
+
+Selon elle, la Compagnie commerciale vailienne conserve de l'adra lumineux brut dans son &lt;b&gt;moulin&lt;/b&gt;, à la &lt;b&gt;Jetée de la reine&lt;/b&gt;.
+
+Je pourrais voler les six caisses dont j'ai besoin au moulin, ou tendre une embuscade aux navires de la Compagnie quand ils prendront la mer pour transporter l'adra hors de Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Je ferais mieux d'aller parler à la subordonnée d'Aeldys, &lt;b&gt;Morena la Folle&lt;/b&gt;, au &lt;b&gt;Caveau&lt;/b&gt;, une grotte dont les autorités de la capitale huana Neketaka sont tenues à l'écart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>La &lt;b&gt;capitaine Aeldys&lt;/b&gt; souhaite parlementer dans sa forteresse de &lt;b&gt;Mortelume&lt;/b&gt;. Elle m'assure que cela n'a rien d'un piège.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Morena la Folle&lt;/b&gt; désire avoir au moins trois caisses d'adra lumineux brut à proposer à son acheteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Morena la Folle&lt;/b&gt; désire avoir au moins quatre caisses d'adra lumineux brut à proposer à son acheteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Morena la Folle&lt;/b&gt; désire avoir au moins six caisses d'adra lumineux brut à proposer à son acheteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai fourni l'adra qu'elle exigeait à Morena la Folle, et elle m'a proposé les services de son équipage du Caveau en remerciement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Un personnage jouant un rôle crucial dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai donné l'adra à Morena la Folle. Elle m'a proposé les services de son équipage du Caveau et a émis l'idée que je devrais rencontrer sa chef, Aeldys, à Mortelume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>La &lt;b&gt;capitaine Aeldys&lt;/b&gt; m'a demandé de prêter assistance à l'une de ses subordonnées, une capitaine nommée &lt;b&gt;Morena la Folle&lt;/b&gt; qui organise une opération de contrebande depuis un repaire secret appelé le &lt;b&gt;Caveau&lt;/b&gt;, quelque part dans Neketaka. Si je trouve cette capitaine príncipi et que je l'aide, Aeldys pourrait s'ouvrir à l'idée d'une collaboration plus étroite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>J'ai reçu une lettre de la &lt;b&gt;capitaine Aeldys&lt;/b&gt;. Elle sait que je me suis occupé de &lt;b&gt;Benweth&lt;/b&gt;, son commandant en second, et veut désormais me voir à &lt;b&gt;Mortelume&lt;/b&gt;.</DefaultText>
+      <FemaleText>J'ai reçu une lettre de la &lt;b&gt;capitaine Aeldys&lt;/b&gt;. Elle sait que je me suis occupée de &lt;b&gt;Benweth&lt;/b&gt;, son commandant en second, et veut désormais me voir à &lt;b&gt;Mortelume&lt;/b&gt;.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>
