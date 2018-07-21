@@ -2429,7 +2429,7 @@ Endurance élémentaire - Tous les elfes pâles possèdent une résistance accru
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et au Readceras. 
+      <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et au Readceras.
 
 Robuste et vigoureux - Les nains des montagnes ont un bonus de protection contre le poison et la maladie.</DefaultText>
       <FemaleText />
@@ -13241,11 +13241,11 @@ Lorsque Élévation se dissipe, la Concentration tombe à 0.</DefaultText>
       <ID>2823</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Confère la capacité « Annihilation d'âme » : Un coup au corps à corps auquel une âme a été insufflée qui consomme le reste de la &lt;xg&gt;réserve&lt;/xg&gt; de puissance du clairvoyant et la convertit en dégâts bruts infligés à la cible.
- 
+
 Le sort Déchirement du clairvoyant coûte moins en Concentration.
- 
+
 Mettre un ennemi à terre avec une arme au corps octroie temporairement de la Concentration et augmente la Concentration maximale.
- 
+
 &lt;b&gt;Malus&lt;/b&gt;
 Réduction de la Concentration maximale. (Ainsi que de sa quantité en début de combat)</DefaultText>
       <FemaleText />
@@ -13291,11 +13291,11 @@ Impossible de lancer des sorts de Rajeunissement.</DefaultText>
       <ID>2828</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Le druide peut prendre une fois chaque forme animale de la transformation spirituelle par combat.
- 
+
 La durée de la transformation spirituelle est augmentée.
- 
+
 Après une transformation spirituelle, le druide récupère une partie de sa Santé.
- 
+
 Les sorts de druide suivants sont automatiquement appris lorsque de nouveaux niveaux de pouvoir sont atteints :
 1. Marque de la nature
 2. Nuée d'insectes
@@ -13306,7 +13306,7 @@ Les sorts de druide suivants sont automatiquement appris lorsque de nouveaux niv
 7. Armure rouillée
 8. Entropie
 9. Carré pollinifère
- 
+
 &lt;b&gt;Malus&lt;/b&gt;
 Impossible de lancer des sorts sous forme animale.</DefaultText>
       <FemaleText />
@@ -13326,14 +13326,14 @@ Perd la récupération constante.</DefaultText>
       <ID>2830</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Ne peut choisir qu'une seule connaissance de l'arme pour avoir une arme de prédilection.
- 
+
 Pénétration augmentée avec l'arme de prédilection.
- 
+
 Dégâts des coups critiques augmentés avec l'arme de prédilection.
- 
+
 &lt;b&gt;Malus&lt;/b&gt;
 Diminution de la Précision avec toute autre arme que celle de prédilection.
- 
+
 Ne peut avoir qu'une seule connaissance de l'arme au détriment de nouvelles lors de montée de niveau.</DefaultText>
       <FemaleText />
     </Entry>
@@ -13367,18 +13367,18 @@ Les moines Heliens subissent davantage de dégâts pour chaque plaie.</DefaultTe
       <ID>2835</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Tous les effets des drogues durent plus longtemps.
- 
+
 Génère des plaies tout en recevant les bonus des drogues.
- 
+
 &lt;b&gt;Malus&lt;/b&gt;
 Les séquelles liées au manque de drogue empêchent le moine de recevoir des soins.
- 
+
 N'étant plus sous l'effet de la drogue, le nombre des plaies se détériore.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2836</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt; 
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gain de plaies lorsque des dégâts sont infligés avec des armes de corps à corps. (Capacités non prises en compte)
 
 &lt;b&gt;Malus&lt;/b&gt;
