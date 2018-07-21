@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4403</EntryCount>
+  <EntryCount>4406</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -14375,7 +14375,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3008</ID>
-      <DefaultText>{0:Value} de chaque {0:Class} ressource</DefaultText>
+      <DefaultText>{0:Value} de chaque ressource de {0:Class}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14655,7 +14655,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3066</ID>
-      <DefaultText>{0} puissante restante</DefaultText>
+      <DefaultText>{0} - Réserve de puissance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16903,7 +16903,7 @@ Les prêtres de Gaun apprennent automatiquement les sorts suivants au Niveau de 
 2. Retrait
 3. Terribles épines
 4. Cercle de protection
-5. Ronces maléfiques
+5. Bruyère nocive
 6. Intercession mineure
 7. Mur d'épines
 8. Symbole d'Éothas
@@ -18475,7 +18475,7 @@ Après la transformation spirituelle, le druide subit un malus important au Nive
     </Entry>
     <Entry>
       <ID>3938</ID>
-      <DefaultText>{0:Value} {0:DamageType} Valeur d'armure</DefaultText>
+      <DefaultText>{0:Value} de Valeur d'armure contre {0:DamageType}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19896,7 +19896,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4302</ID>
-      <DefaultText>Puissance restante max : {0:Value}</DefaultText>
+      <DefaultText>Réserve de puissance max : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22323,7 +22323,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4886</ID>
-      <DefaultText />
+      <DefaultText>Compagnon recommandé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22458,7 +22458,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4918</ID>
-      <DefaultText>Afficher la réactivité par rapport à PoE 1.</DefaultText>
+      <DefaultText>Afficher les réactions par rapport à PoE 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22538,6 +22538,21 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4955</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4956</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4957</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4958</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

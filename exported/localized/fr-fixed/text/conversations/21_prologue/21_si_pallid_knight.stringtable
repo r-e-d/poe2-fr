@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\21_prologue\21_si_pallid_knight</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>81</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -192,7 +192,7 @@ Sur ces paroles, ses traits s'assombrissent, les orbites de ses yeux virent au n
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Elle jette nonchalamment une carte sur la table. Elle atterrit de travers devant vous. 
+      <DefaultText>Elle jette nonchalamment une carte sur la table. Elle atterrit de travers devant vous.
 L'illustration représente une immense roue en bois. Des âmes s'accrochent aux rayons. D'autres tentent de trouver prise. D'autres encore lâchent la roue et s'en vont flotter dans toutes les directions.</DefaultText>
       <FemaleText />
     </Entry>
@@ -448,6 +448,61 @@ Qu'avez-vous fait avec les âmes ?</DefaultText>
       <DefaultText>Les dieux vous ont proposé des faveurs si vous acceptiez de résoudre la crise des Sans-âme. Vous n'avez accepté aucune de leurs propositions.
 
 Qu'avez-vous fait avec les âmes ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

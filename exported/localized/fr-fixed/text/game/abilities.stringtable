@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3313</EntryCount>
+  <EntryCount>3320</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -6794,7 +6794,7 @@ Flammes de dévotion soigne les alliés proches (Flammes blanches).</DefaultText
     </Entry>
     <Entry>
       <ID>2280</ID>
-      <DefaultText>Porteurs de bouclier de Ste Elcga</DefaultText>
+      <DefaultText>Les Porteurs de bouclier de Ste Elcga</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11279,7 +11279,7 @@ Les prêtres de Gaun apprennent automatiquement les sorts suivants au Niveau de 
 2. Retrait
 3. Terribles épines
 4. Cercle de protection
-5. Ronces maléfiques
+5. Bruyère nocive
 6. Intercession mineure
 7. Mur d'épines
 8. Symbole d'Éothas
@@ -12571,7 +12571,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3613</ID>
-      <DefaultText>(... Rien ne pouvait s'opposer à son fracas) - Gagne un bonus de Précision.</DefaultText>
+      <DefaultText>(... Rien ne pouvait s'opposer à son fracas) - Le personnage gagne un bonus de Précision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16950,6 +16950,41 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4839</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

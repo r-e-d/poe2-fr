@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>527</EntryCount>
+  <EntryCount>532</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Les dégâts subis causés par une arme sont réduits au fur et à mesure que de la Santé est perdue. (Jusqu'à un max. de {0:value:percentbonus} de réduction des dégâts)</DefaultText>
+      <DefaultText>Les dégâts d'arme subis sont réduits au fur et à mesure que de la Santé est perdue. (Réduction des dégâts max. de {0:value:percentbonus})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2636,6 +2636,31 @@
     </Entry>
     <Entry>
       <ID>609</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

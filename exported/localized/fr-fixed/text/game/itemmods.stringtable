@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1044</EntryCount>
+  <EntryCount>1050</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Purger la décomposition</DefaultText>
+      <DefaultText>Purge de la décomposition</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Épuisement</DefaultText>
+      <DefaultText>Drainage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,7 +936,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>Double tonneau</DefaultText>
+      <DefaultText>Double canon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Profil bas</DefaultText>
+      <DefaultText>Atterrement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5221,6 +5221,36 @@
     </Entry>
     <Entry>
       <ID>1633</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
