@@ -67,7 +67,7 @@ Alors que les voiles sont relâchées, [ShipDuel_PlayerShip] se tourne lentement
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt; "Parés à l'empannage !"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt; "Parés à l'empannage !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@ Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt; "Préparez-vous au choc !" ([ShipDuel_BraceChance] de chances d'éviter les Blessures)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt; "Préparez-vous au choc !" ([ShipDuel_BraceChance] de chances d'éviter les Blessures)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
