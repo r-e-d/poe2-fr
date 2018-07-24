@@ -751,7 +751,8 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis, et vous affronterez bien plus d'adversaires lors de vos rencontres. Attention : cette option ne peut pas être modifiée en cours de jeu. Elle s'applique uniquement aux joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !</DefaultText>
+      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis, et vous affronterez bien plus d'adversaires lors de vos rencontres.
+&lt;b&gt;Attention : cette option ne peut pas être modifiée en cours de jeu. Elle s'applique uniquement aux joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !&lt;/b&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2312,6 +2313,7 @@
     <Entry>
       <ID>469</ID>
       <DefaultText>La Détermination contribue à réduire les durées des effets hostiles, ainsi qu'à améliorer les types de défense Volonté et Déviation. Elle reflète la motivation inhérente d'un personnage, sa détermination et son intrépidité.
+
 5 - Timoré
 10 - Moyen
 15 - &lt;xg&gt;Déterminé&lt;/xg&gt;
