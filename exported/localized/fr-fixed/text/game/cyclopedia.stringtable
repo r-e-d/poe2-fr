@@ -1243,12 +1243,12 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Ensorcellement</DefaultText>
+      <DefaultText>Sort lié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Un objet avec la propriété ensorcellement permet d'utiliser une capacité ou un sort pendant que l'objet est équipé.</DefaultText>
+      <DefaultText>Un objet avec la propriété Sort lié permet d'utiliser une capacité ou un sort pendant que l'objet est équipé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1316,7 +1316,7 @@ Les augures du vide sont des crânes remplis d'essence. Les premières mentions 
       <ID>315</ID>
       <DefaultText>Les armes liées sont des objets uniques qui se lient magiquement avec l'âme d'une seule personne. Une fois liée, l'arme ne peut être utilisée que par cette personne, à moins que le lien ne soit rompu. Une arme liée augmentera en puissance si son porteur complète certaines des conditions détaillées dans la description de l'arme.
 
-La plupart des armes liées ne peuvent s'associer qu'avec des personnages de certaines classes. Cependant, quel que soit le type d'arme, une arme liée est toujours admissible pour tous types de talents et de compétences comme la maîtrise d'armes et la spécialisation que peut avoir le personnage. Par exemple, si un guerrier a une maîtrise des armes et une spécialisation en Voyou, il ou elle pourra gagner des effets bénéfiques même lorsqu'il porte une grande épée ou une baguette liées. Les effets bénéfiques de talents ou compétences multiples de la même catégorie (par exemple Maitrise des armes Voyou et Paysan) ne se cumulent pas.
+La plupart des armes liées ne peuvent s'associer qu'avec des personnages de certaines classes.
 
 Si le lien avec une arme liée devait être rompu, l'arme perdrait toutes les compétences qu'elle avait acquises durant ce temps.</DefaultText>
       <FemaleText />
@@ -1335,12 +1335,12 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Chance d'ensorcellement</DefaultText>
+      <DefaultText>Coup du destin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Les armes avec la propriété Chance d'ensorcellement ont une chance de déclencher la compétence ou le sort listé, en général à l'impact ou lors d'un critique.</DefaultText>
+      <DefaultText>Les armes avec la propriété Coup du destin ont une chance de déclencher la compétence ou le sort listé, en général à l'impact ou lors d'un critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
