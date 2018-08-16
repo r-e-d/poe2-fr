@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_si_circle_of_archmagi</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>95</EntryCount>
+  <EntryCount>112</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -545,6 +545,91 @@ Arkemyr gratifie Minoletta d'une révérence rigide.</DefaultText>
       <DefaultText>"Votre flatterie est éculée. Pour répondre au Gardien, je suppute que Concelhaut désirait faire durer sa maléfique existence grâce à une source d'essence. Mais vous y avez gracieusement mis fin."
 
 Minoletta acquiesce et vous octroie le sourire qu'elle a refusé à Arkemyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Éothas est en route vers Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Le silence total qui suit votre déclaration est pareil à l'écho d'un coup de feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Lorsque plusieurs regards se tournent vers vous et que plusieurs bouches s'ouvrent pour parler, Arkemyr les fait tous taire à l'aide d'un bruyant raclement de gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Il va arrêter la Roue."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"C'est un plan ambitieux, je vous l'accorde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Je vois. Merci d'avoir tiré ça au clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Arkemyr s'éclaircit la voix, puis attend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Y a-t-il quelque chose d'autre que vous ne me dites pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Et qu'est-ce que vous comptez faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Il hausse les épaules, l'air réfléchi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"J'y réfléchirai lorsque nous aurons le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Très bien."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1050</EntryCount>
+  <EntryCount>1055</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Régénération</DefaultText>
+      <DefaultText>Régénération supérieure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3595,18 +3595,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1179</ID>
-      <DefaultText>Sans cuirasse</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1180</ID>
       <DefaultText>Mobilité lourde</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1181</ID>
-      <DefaultText>Défense active</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3710,38 +3700,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1209</ID>
-      <DefaultText>Résonance d'Hylea</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1210</ID>
-      <DefaultText>Serres venteuses</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1211</ID>
-      <DefaultText>Chant d'oiseau</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1212</ID>
       <DefaultText>Grand chant d'Hylea</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1213</ID>
-      <DefaultText>Tempête du faucon</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1214</ID>
-      <DefaultText>Appel de la volée</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1215</ID>
-      <DefaultText>Viser juste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5146,47 +5106,47 @@
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText />
+      <DefaultText>Présence déliquescente (divins des fins uniquement)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1615</ID>
-      <DefaultText />
+      <DefaultText>Carnage collectif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1616</ID>
-      <DefaultText />
+      <DefaultText>Vue de la coalition</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText />
+      <DefaultText>Coup enflammé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1618</ID>
-      <DefaultText />
+      <DefaultText>Bouclier de feu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1619</ID>
-      <DefaultText />
+      <DefaultText>Frappe brûlante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1620</ID>
-      <DefaultText />
+      <DefaultText>Bouclier de feu supérieur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText />
+      <DefaultText>Flammes purificatrices</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1622</ID>
-      <DefaultText />
+      <DefaultText>Coup vertueux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5251,6 +5211,71 @@
     </Entry>
     <Entry>
       <ID>1643</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

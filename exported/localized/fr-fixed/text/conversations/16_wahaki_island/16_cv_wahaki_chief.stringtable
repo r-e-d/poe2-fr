@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\16_wahaki_island\16_cv_wahaki_chief</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>291</EntryCount>
+  <EntryCount>295</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1531,6 +1531,26 @@ Les yeux plissés, Ruāsare vous observe, hochant lentement la tête.</DefaultTe
     <Entry>
       <ID>636</ID>
       <DefaultText>"Onekaza sera déçue d'apprendre que les Wahakis n'intercèderont pas en sa faveur." Ruāsare fait le geste d'épousseter son épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Les navires de guerre rauatais cernent l'Éperon tordu et les vagues portent les cris des esclaves, semblables au chant de mouettes meurtries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\15_rdc_port\15_cv_backer_npc_marofeto_liano</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -214,6 +214,11 @@ Même s'il était autrefois chevalier, la vieillesse l'a rendu frêle, et il sem
     <Entry>
       <ID>60</ID>
       <DefaultText>[Améliorer la Compréhension et l'Intimidation] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

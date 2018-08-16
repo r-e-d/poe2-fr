@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_cv_degnos</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>70</EntryCount>
+  <EntryCount>71</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -374,6 +374,11 @@ Il prend vos mains dans ses pognes moites et tremble comme une feuille morte.</D
     <Entry>
       <ID>113</ID>
       <DefaultText>[Partir] "Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Son teint blêmit et il jette des regards paniqués autour de lui.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

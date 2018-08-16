@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2825</EntryCount>
+  <EntryCount>2831</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -8065,7 +8065,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3415</ID>
-      <DefaultText>Envoie plusieurs missiles de force pure sur la cible, provoquant une onde de choc aux dégâts contondants sur les ennemis proches de la zone d'impact.</DefaultText>
+      <DefaultText>Projette sur la cible plusieurs missiles de force pure, ce qui déclenche une onde de choc infligeant des dégâts contondants aux ennemis proches de l'impact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16908,7 +16908,9 @@ Si vous avez des questions ou des réclamations à propos de mon service, merci 
     </Entry>
     <Entry>
       <ID>5494</ID>
-      <DefaultText />
+      <DefaultText>L'origine de la Lame du Gardien reste un mystère. Aucun forgeron n'a jamais revendiqué sa fabrication. Son métal est aussi fumeux et indistinct que les Limbes, sans aucun signe pouvant trahir la caresse d'un marteau. De fait, nombreux sont ceux qui pensent qu'elle a adopté cette forme de façon naturelle.
+
+Savamment imbue d'essence d'âme, la lame luit en harmonie avec ceux ayant côtoyé la mort. Son étrange équilibre est lié à sa nature éthérée, car la lame ne semble jamais entièrement présente dans la réalité tangible. Elle ressemble parfois moins à une lame qu'à une projection fantasmée, ce qui explique pourquoi beaucoup se sont mépris sur sa vraie nature. Comme pour étoffer ce mystère, les anciens récits de guerre ont décrit des merlins ou des dagues partageant les propriétés de la Lame du Gardien. Cela a conduit certains mystiques à la conclusion que la lame ne serait qu'une épée au cours de son existence actuelle et inexpliquablement longue, et pourrait être quelque chose de tout à fait différent lors du prochain cycle de la Roue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16923,6 +16925,36 @@ Si vous avez des questions ou des réclamations à propos de mon service, merci 
     </Entry>
     <Entry>
       <ID>5509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5538</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5539</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5540</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5541</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5546</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5547</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

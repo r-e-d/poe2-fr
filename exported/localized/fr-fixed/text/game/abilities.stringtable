@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3320</EntryCount>
+  <EntryCount>3325</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>WoundsTrait</DefaultText>
+      <DefaultText>Plaies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Défenseur</DefaultText>
+      <DefaultText>Posture Défensive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,17 +696,17 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Punit une cible pour les péchés qu'elle a commis, réduisant sa Déviation, sa Robustesse, ses Réflexes et sa Volonté.</DefaultText>
+      <DefaultText>Punit une cible pour les péchés qu'elle a commis, infligeant des dégâts perforants, réduisant sa Déviation, sa Robustesse, ses Réflexes et sa Volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Invoque une faveur divine qui renforce la précision des alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque une faveur divine octroyant l'inspiration Subtilité aux alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Instille de la peur dans les cœurs des indignes et inflige une pénalité de précision à tous les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Instille de la peur dans les cœurs des indignes, inspirant l'Effroi à tous les ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,12 +716,12 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Isole une cible au sein d'une sphère de protection qui régénère son endurance.</DefaultText>
+      <DefaultText>Isole une cible au sein d'une sphère de protection qui régénère sa Santé tout en lui évitant de subir des dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Crée un cercle de guérison durable qui régénère l'endurance des alliés.</DefaultText>
+      <DefaultText>Crée un cercle de guérison durable qui régénère la Santé des alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,12 +731,12 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Crée une zone de faveur divine qui augmente la puissance et la détermination des alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Crée une zone de faveur divine autour du lanceur qui octroie l'inspiration Force aux alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement et régénère l'endurance des alliés tout en infligeant des dégâts givrants aux ennemis.</DefaultText>
+      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement, régénérant la Santé des alliés tout en infligeant des dégâts givrants aux ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,17 +756,17 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Face à une foi inébranlable, un doute persistant consume les ennemis présents dans la zone d'effet, ce qui réduit leur précision en mêlée et leur plage de critiques.</DefaultText>
+      <DefaultText>Un doute persistant consume les ennemis présents dans la zone d'effet malgré leur foi inébranlable, ce qui réduit leur précision au corps à corps et dégrade leurs coups critiques en coups simples.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Renforce les alliés au combat, leur conférant l'inspiration Conscience.</DefaultText>
+      <DefaultText>Renforce les alliés qui combattent, leur conférant l'inspiration Conscience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Fait apparaître un pilier de jugement divin qui inflige des dégâts contondants et de renversement aux ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait apparaître un pilier de jugement divin qui inflige des dégâts contondants à la cible et la renverse, elle et les ennemis à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Génère un sceau magique qui explose en libérant de l'énergie électrique lorsqu'un ennemi entre en contact avec lui avant de lui infliger des dégâts électriques.</DefaultText>
+      <DefaultText>Génère un sceau magique qui explose en libérant de l'énergie électrique lorsqu'un ennemi entre en contact avec, avant de lui infliger des dégâts électriques et une interruption.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,12 +791,12 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Confère à la cible une rapidité surnaturelle qui accroît sa vitesse de déplacement.</DefaultText>
+      <DefaultText>Confère à la cible une rapidité surnaturelle, lui octroyant l'inspiration Agilité ainsi qu'un bonus en défense de Désengagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Fait apparaître un champ de lames surnaturelles qui infligent des dégâts perforants immédiats ainsi qu'une affliction entrave aux cibles présentes dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait apparaître un champ de lames surnaturelles qui infligent des dégâts tranchants ou perforants immédiats ainsi qu'une affliction Entrave aux ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,17 +811,17 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Fait apparaître trois missiles ensorceleurs qui infligent des dégâts contondants ou corrosifs à la cible.</DefaultText>
+      <DefaultText>Fait apparaître plusieurs projectiles enchantés infaillibles qui meurtrissent la cible en lui infligeant des dégâts contondants ou corrosifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Entoure le jeteur de sorts d'un bouclier d'énergie spirituelle qui augmente sa valeur de réduction de dégâts et lui confère un bonus de concentration.</DefaultText>
+      <DefaultText>Entoure le jeteur de sorts d'un bouclier d'énergie spirituelle qui augmente sa valeur d'armure et lui confère un bonus de concentration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Tisse dans la zone d'effet une toile résistante et visqueuse qui réduit la vitesse de déplacement de tous les personnages touchés.</DefaultText>
+      <DefaultText>Tisse dans la zone d'effet une toile résistante et visqueuse qui immobilise tous les personnages qui n'arrivent pas à y résister.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Dissout l'esprit de la cible en lui infligeant des dégâts corrosifs et en transformant cette essence en endurance pour le jeteur de sorts.</DefaultText>
+      <DefaultText>Dissout l'esprit de la cible en lui infligeant des dégâts corrosifs et en transformant cette essence en Santé pour le jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,7 +856,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Révèle à tous les vulnérabilités de combat de l'ennemi et pénalise sa réduction de dégâts, sa déviation et sa concentration.</DefaultText>
+      <DefaultText>Révèle aux yeux de tous les vulnérabilités d'un ennemi, l'interrompt et pénalise sa valeur d'armure et sa déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Le jeteur de sorts puise sa propre force vitale pour améliorer sa vigueur, ce qui accroît sa vitesse et ses déplacements tout en réduisant son endurance.</DefaultText>
+      <DefaultText>Le jeteur de sorts puise dans sa propre force vitale afin d'obtenir l'inspiration Vélocité, ce qui accroît sa Vitesse d'action, et réduit progressivement sa Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,17 +896,17 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Transforme brièvement en énergie l'enveloppe extérieure de l'âme d'une cible alliée, ce qui libère une décharge électrique autour d'elle. Les personnages présents dans la zone autour de la cible subissent des dégâts électriques.</DefaultText>
+      <DefaultText>Transforme brièvement en énergie l'enveloppe extérieure de l'âme d'une cible alliée, ce qui libère une décharge électrique autour d'elle. Les ennemis présents dans la zone autour de la cible subissent des dégâts électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Prive la cible de son essence en générant une lame de force cinglante qui l'attaque avant de s'en prendre à cinq autres cibles.</DefaultText>
+      <DefaultText>Prive la cible de son essence en générant une lame de force lacérante qui l'attaque avant de s'en prendre à d'autres cibles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Le clairvoyant utilise la force mentale de la cible contre elle en lui volant une partie de sa détermination afin de mieux dévier les attaques dirigées contre lui.</DefaultText>
+      <DefaultText>Le clairvoyant utilise la force mentale de la cible contre elle en lui volant une partie de sa Résolution afin de gagner l'inspiration Détermination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Relie mentalement les ennemis alentour à la cible, en leur infligeant une partie de tous les dégâts subis par celle-ci.</DefaultText>
+      <DefaultText>Relie mentalement les ennemis alentour à la cible alliée, en leur infligeant une partie de tous les dégâts subis par celle-ci.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,12 +931,12 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Le combattant est parfaitement apte à porter des armures, même les plus épaisses et encombrantes, en réduisant leur pénalité de récupération de manière significative.</DefaultText>
+      <DefaultText>Le combattant est parfaitement apte à porter des armures, même les plus épaisses et encombrantes, en réduisant leur malus de Récupération de manière significative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>L'arme de mêlée du guerrier balaie un large arc de cercle, renversant les ennemis face contre terre et causant des dégâts Contondants.</DefaultText>
+      <DefaultText>L'arme de mêlée du guerrier balaie un large arc de cercle, infligeant une Attaque principale à tous les ennemis, les repoussant et leur ingligeant un Renversement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,17 +946,17 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Dans l'intensité de la bataille, le combattant régénère continuellement son endurance à un rythme modeste.</DefaultText>
+      <DefaultText>Dans l'intensité de la bataille, le combattant régénère continuellement sa Santé à un rythme modeste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui convertit un certain pourcentage des critiques reçus en coups, et des coups en éraflures.</DefaultText>
+      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui convertit un certain pourcentage de coups critiques reçus en coups simples.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Le combattant adopte une stratégie de combat plus prudente en neutralisant les ennemis situés trop près. Le combattant peut attaquer trois cibles, mais au détriment de sa déviation.</DefaultText>
+      <DefaultText>Le combattant adopte une stratégie de combat plus prudente en arrêtant les ennemis qui s'approchent trop. Le combattant peut engager davantage de cibles, et subit moins de dégâts pour chacune d'entre elles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Une attaque puissante qui projette les ennemis en l'air et les fait subir un Renversement, leur infligeant également une Désorientation.</DefaultText>
+      <DefaultText>Une attaque puissante qui projette les ennemis en l'air et leur fait subir un Renversement, leur infligeant également une Désorientation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,12 +976,12 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Ordonne à un allié inconscient de se relever, ce qui lui confère un bonus d'endurance important mais temporaire puisqu'une partie disparaît rapidement.</DefaultText>
+      <DefaultText>Les paladins peuvent ordonner à un allié inconscient de se relever, ce qui lui confère un bonus de Santé ainsi que l'inspiration Force, mais lui fera perdre la moitié de la Santé regagnée après un court instant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>Incite le paladin et tous les alliés aux alentours à charger violemment, ce qui accroît leur vitesse de déplacement et leur défense de désengagement. Ne peut être actif en même temps que d'autres Auras zélées.</DefaultText>
+      <DefaultText>Incite le paladin et tous les alliés aux alentours à charger violemment, ce qui accroît leur Allure et leur défense de désengagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>Ordonne à un allié de rassembler toutes ses forces pour ignorer momentanément les effets hostiles existants. Les effets reprennent dès la fin de l'Exhortation de libération.</DefaultText>
+      <DefaultText>Ordonne à un allié de rassembler toutes ses forces pour ignorer momentanément les effets hostiles existants et lui octroie l'inspiration Détermination. (Les effets hostiles reprennent dès la fin de celui-ci)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1021,7 +1021,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>La conviction intense et pure du paladin clarifie ses intentions et celles de ses alliés, ce qui accroît leur précision et convertit certaines éraflures en coups. Ne peut être actif en même temps que d'autres Auras zélées.</DefaultText>
+      <DefaultText>La conviction intense et pure du paladin clarifie ses intentions et celles de ses alliés, ce qui accroît leur Précision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Invoque le feu intérieur du paladin, ce qui enflamme les armes dont il est équipé et ajoute des dégâts brûlants à ses prochaines attaques.</DefaultText>
+      <DefaultText>Invoque le feu intérieur du paladin, ce qui enflamme les armes avec lesquelles il frappe et ajoute des dégâts brûlants à ses prochaines attaques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains. Le paladin ou un allié situé à sa portée peut ainsi récupérer un degré d'endurance important.</DefaultText>
+      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains, lui permettant, ou à un allié à portée, de recouvrer une grande part de Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1056,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Ordonne à un allié de redoubler d'efforts, ce qui améliore sa déviation.</DefaultText>
+      <DefaultText>Ordonne à un allié de redoubler d'efforts, ce qui améliore sa Déviation et lui octroie l'inspiration Dynamisme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Confère une confiance inébranlable au paladin et à ses alliés, ce qui accroît leur réduction de dégâts et convertit une partie des coup reçus en éraflures. Ne peut être actif en même temps que d'autres Auras zélées.</DefaultText>
+      <DefaultText>Confère une confiance inébranlable au paladin et à ses alliés, ce qui accroît leur Valeur d'armure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1201,7 +1201,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Le combattant tire sa force de son esprit indomptable, ce qui lui permet de récupérer une partie de l'endurance perdue lors d'une attaque.</DefaultText>
+      <DefaultText>Le combattant tire sa force de son esprit indomptable, ce qui lui permet de récupérer une partie de la Santé perdue lors de chaque attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Le combattant refuse de s'avouer vaincu. Après avoir été assommé, le combattant se relève avec une partie de son endurance ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
+      <DefaultText>Le combattant refuse de s'avouer vaincu. Après avoir été assommé, le combattant se relève avec une partie de sa Santé ainsi qu'une augmentation temporaire de ses Défenses et de sa Valeur d'armure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>Confère une vue extraordinaire au jeteur de sorts qui bénéficie brièvement d'une précision surnaturelle.</DefaultText>
+      <DefaultText>Confère une vue extraordinaire au jeteur de sorts qui bénéficie temporairement de l'inspiration Conscience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>Rapide frappe contondante qui inflige peu de dégâts mais peut gêner les jeteurs de sorts ennemis.</DefaultText>
+      <DefaultText>Frappe perforante rapide et magique qui inflige des dégâts susceptibles de traverser le Voile. Cette compétence ne peut pas échouer et interrompt la cible à coup sûr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Fait apparaître un double du jeteur de sorts pour détourner l'attention des ennemis, ce qui confère au jeteur de sorts un bonus de déviation important jusqu'à ce qu'il reçoit un coup ou un critique.</DefaultText>
+      <DefaultText>Fait apparaître un double du jeteur de sorts pour détourner l'attention des ennemis, ce qui lui confère un bonus de Déviation important jusqu'à ce qu'il se fasse toucher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Les blessures des ennemis présents dans la zone d'effet s'enflamment, leur infligeant des dégâts brûlants progressifs.</DefaultText>
+      <DefaultText>Les blessures des ennemis présents dans la zone d'effet s'enflamment, leur infligeant des dégâts brûlants progressifs à chaque nouveau dommage reçu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Paralyse les personnages présents dans la zone d'effet et des pustules brûlantes de liquide nauséabonds apparaissent sur leur peau, ce qui intoxique les personnages aux alentours.</DefaultText>
+      <DefaultText>Paralyse la cible et fait apparaître sur sa peau des pustules pleines de liquide nauséabond, ce qui intoxique tous les personnages aux alentours.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1366,7 +1366,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie d'une augmentation temporaire de son endurance actuelle et maximale.</DefaultText>
+      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie des inspirations Dynamisme et Sagacité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Fait apparaître une boule de feu bondissante qui inflige des dégâts brûlants à quiconque sur son passage.</DefaultText>
+      <DefaultText>Fait apparaître une boule de feu rebondissante qui inflige des dégâts brûlants et un Renversement à quiconque sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts corrosifs à la cible, l'affaiblit et réduit une partie de son endurance.</DefaultText>
+      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts corrosifs à la prochaine cible, l'affaiblit et transforme sa vitalité en Santé pour le lanceur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Fait apparaître dans la main du jeteur de sorts une boule d'énergie qui peut être lancée sur un ennemi et infliger des dégâts brûlants, givrants, corrosifs ou électriques à quiconque se trouve dans la zone d'effet. Les fléaux se régénèrent continuellement jusqu'à ce que le sort prenne fin.</DefaultText>
+      <DefaultText>Fait apparaître dans la main du jeteur de sorts une boule d'énergie pouvant être lancée sur un ennemi pour infliger des dégâts brûlants, givrants, corrosifs ou électriques à quiconque se trouve dans la zone d'effet. Les fléaux se régénèrent continuellement jusqu'à ce que le sort prenne fin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>Les ennemis présents dans la zone d'effet sont affaiblis et terrifiés par des visions cauchemardesques.</DefaultText>
+      <DefaultText>Les ennemis présents dans la zone d'effet sont terrifiés par la vision de leurs peurs les plus profondes, leur infligeant Affaiblissement et Terreur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Crée autour du jeteur de sorts une redoutable force qui inflige des dégâts perforants aux ennemis les plus proches, ignorant leur réduction de dégâts.</DefaultText>
+      <DefaultText>Crée autour du jeteur de sorts une force mortelle qui inflige des dégâts perforants aux ennemis les plus proches, ignorant en grande partie leur Valeurs d'armure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1551,12 +1551,12 @@
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Le prêtre s'éclaircit l'esprit et confère de la clarté aux alliés aux alentours, ce qui accroît leurs bonus de concentration et de volonté.</DefaultText>
+      <DefaultText>Le prêtre s'éclaircit l'esprit et confère de la clairvoyance aux alliés alentour, ce qui octroie l'inspiration Opiniâtreté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>Partage une importante portion de la force divine du lanceur et restaure une partie significative de l'Endurance à tous les alliés dans la zone d'effet.</DefaultText>
+      <DefaultText>Partage une importante portion de la force divine du lanceur et restaure une partie significative de la Santé de tous les alliés dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Insuffle aux alliés la ferveur de la droiture au combat. Lorsqu'un allié présent dans la zone d'effet porte un coup fatal, il récupère de l'endurance.</DefaultText>
+      <DefaultText>Insuffle aux alliés la ferveur de la droiture au combat, leur octroyant l'inspiration Force. Lorsqu'un allié présent dans la zone d'effet porte un coup fatal, il récupère de la Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,7 +1626,7 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Accorde une faveur divine à un allié, ce qui confère un bonus à sa puissance, à sa perception et à toutes ses valeurs de réduction de dégâts.</DefaultText>
+      <DefaultText>Accorde une faveur divine à un allié, ce qui lui confère les inspirations Opiniâtreté et Ténacité ainsi qu'un Engagement bonus tant que dure son effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1646,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Accorde une deuxième chance en ranimant les alliés inconscients présents dans la zone d'effet et en régénérant une petite partie de leur endurance.</DefaultText>
+      <DefaultText>Accorde une deuxième chance aux alliés inconscients présents dans la zone d'effet, les ranimant et régénérant une petite partie de leur Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Implore les dieux d'accorder plus de temps, ce qui prolonge tous les effets bénéfiques sur les alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Implore les dieux d'accorder davantage de temps, ce qui prolonge tous les effets bénéfiques sur les alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Le prêtre lance sur l'ennemi une boule de feu sacré qui neutralise ses protections et précipite son destin funeste. Inflige des dégâts brûlants pendant cinq secondes et accélère le chronomètre de tous les effets bénéfiques sur la cible (à l'exception des guérisons), ainsi que celui des éventuels dégâts continus. Peut rebondir sur deux ennemis proches.</DefaultText>
+      <DefaultText>Le prêtre lance sur l'ennemi une boule de feu sacré qui neutralise ses protections et précipite son destin funeste. Inflige des dégâts brûlants progressifs et accélère l'échéance de tous les effets bénéfiques et des dégâts progressifs touchant la cible, avant de rebondir sur des cibles additionnelles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,7 +1686,7 @@
     </Entry>
     <Entry>
       <ID>500</ID>
-      <DefaultText>Couronne les alliés en honorant le dieu du prêtre, ce qui confère aux alliés présents dans la zone d'effet des bonus de perception, d'intelligence et de détermination.</DefaultText>
+      <DefaultText>Couronne les alliés en honorant le dieu du prêtre, ce qui confère aux alliés présents dans la zone d'effet les inspirations de Subtilité, de Sagacité et de Détermination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>Invoque l'aide du dieu du prêtre, ce qui régénère l'endurance et abrège les effets négatifs pour tous les alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque l'aide du dieu du prêtre, ce qui régénère la Santé et abrège les effets négatifs pour tous les alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>Fait apparaître des éclairs qui frappent les ennemis présents dans la zone d'effet en leur infligeant des dégâts électriques.</DefaultText>
+      <DefaultText>Fait apparaître de minces éclairs qui frappent les ennemis présents dans la zone d'effet en leur infligeant des dégâts électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Fait apparaître des griffes géantes et tranchantes qui infligent des dégâts tranchants à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait apparaître des griffes géantes sous la cible, infligeant des dégâts tranchants à tous les personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Lance des lianes aux épines tranchantes qui infligent des dégâts perforants et peuvent intoxiquer les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Lance des lianes aux épines tranchantes sur les ennemis alentour, qui infligent des dégâts perforants et peuvent intoxiquer les personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1796,7 +1796,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
+      <DefaultText>Des hordes d'asticots s'attaquent à la peau des ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants. Une cible en pleine Santé ne subira aucun dégât avec ce sort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1806,7 +1806,7 @@
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>Purifie la cible des toxines présentes dans son organisme, ce qui lui confère un bonus et abrège les effets du poison et des maladies.</DefaultText>
+      <DefaultText>Purifie la cible des toxines présentes dans son organisme, ce qui lui confère une immunité temporaire aux effets du poison et des maladies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1886,7 +1886,7 @@
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>Forme un nuage de purification qui régénère l'endurance des alliés et repousse les ennemis.</DefaultText>
+      <DefaultText>Forme un nuage de purification qui régénère la Santé des alliés et repousse les ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1901,7 +1901,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Une redoutable boule de feu rebondit jusqu'à huit fois d'un ennemi sur l'autre en leur infligeant des dégâts brûlants.</DefaultText>
+      <DefaultText>Une redoutable boule de feu rebondit d'un ennemi à l'autre en leur infligeant des dégâts brûlants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>Déclenche une redoutable tempête et confère une aura électrique qui terrifie tous les personnages alentour et leur inflige des dégâts électriques.</DefaultText>
+      <DefaultText>Déclenche une redoutable tempête et confère une aura électrique qui inflige des dégâts électriques tout en frappant d'Effroi tous les personnages alentour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,7 +1921,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui infligent des dégâts bruts progressifs, réduisant la concentration et intoxiquant quiconque présent dans la zone d'effet.</DefaultText>
+      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui infligent des dégâts bruts progressifs, réduisant la Concentration de la cible et intoxiquant quiconque est présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1971,7 +1971,7 @@
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>Frappe les récepteurs visuels d'un ennemi, ce qui l'étourdit et l'aveugle tout en aveuglant les cibles alentour.</DefaultText>
+      <DefaultText>Frappe les récepteurs visuels d'un ennemi, lui infligeant un Aveuglement ainsi qu'à toutes les cibles alentour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1981,7 +1981,7 @@
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>S'en prend à la perception de la réalité de la cible, ce qui l'effraie et sème la confusion en elle.</DefaultText>
+      <DefaultText>S'en prend à la perception de la réalité de la cible, ce qui lui inflige le Frisson et sème la Confusion en elle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1996,7 +1996,7 @@
     </Entry>
     <Entry>
       <ID>571</ID>
-      <DefaultText>Fait rebondir de l'énergie psychique sur une cible alliée, sans danger pour cette cible, puis sur l'ennemi le plus proche, infligeant à ce dernier des dégâts perforants et le repoussant violemment.</DefaultText>
+      <DefaultText>Fait rebondir sans danger de l'énergie psychique sur une cible alliée, puis sur l'ennemi le plus proche, infligeant à ce dernier des dégâts perforants et le repoussant violemment.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2006,7 +2006,7 @@
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>Prive la cible des capacités mentales lui permettant de communiquer avec son corps, ce qui le paralyse et fait émettre à son âme une onde de choc qui peut immobiliser les ennemis alentour.</DefaultText>
+      <DefaultText>Surcharge de perceptions corporelles les capacités mentales de la cible, ce qui la paralyse et fait émettre à son âme une onde de choc qui peut immobiliser les ennemis alentour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2056,7 +2056,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>Le clairvoyant sonde l'esprit et l'âme de la cible ennemie pour rechercher les points forts de ses défenses et les lui voler. Puise une partie de la valeur de réduction de dégâts de la cible et confère un bonus équivalent au clairvoyant.</DefaultText>
+      <DefaultText>Le clairvoyant sonde l'esprit et l'âme de la cible ennemie pour rechercher les points forts de ses défenses et se les approprier. Puise une partie de la valeur d'armure de la cible et confère un bonus équivalent au clairvoyant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2066,7 +2066,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Empale la cible avec une lance de force pure qui inflige d'importants dégâts perforants à tous les personnages présents sur la ligne d'attaque et peut entraîner une interruption.</DefaultText>
+      <DefaultText>Empale la cible avec une lance de force pure qui inflige d'importants dégâts perforants à tous les personnages présents sur la ligne d'attaque et peut interrompre les actions des ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2076,7 +2076,7 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Permet à un allié de bloquer mentalement sa douleur, ce qui confère un bonus à sa réduction de dégâts et régénère progressivement son endurance.</DefaultText>
+      <DefaultText>Permet à un allié de bloquer mentalement sa douleur, ce qui lui confère l'inspiration Robuste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Produit un hurlement psychique dans la zone visée, ce qui assomme la cible et inflige des dégâts bruts à tous les ennemis présents dans la zone. Peut également entraîner une interruption.</DefaultText>
+      <DefaultText>Produit un hurlement psychique dans la zone visée. La cible est assommée, et les ennemis proches subissent des dégâts bruts en plus d'être interrompus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2096,7 +2096,7 @@
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Vise et extrait une caractéristique de la psyché de la cible, ce qui confère un bonus équivalent au clairvoyant. Affecte un attribut aléatoire.</DefaultText>
+      <DefaultText>Vise et extrait une caractéristique de la psyché de la cible, ce qui confère un bonus équivalent au clairvoyant. Applique une affliction aléatoire de bas niveau à l'ennemi et confère l'inspiration correspondante au clairvoyant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Détruit la mémoire d'un ennemi avec une précision calculée pour semer la confusion en lui et l'étourdir avant de s'attaquer à un maximum de cinq autres ennemis.</DefaultText>
+      <DefaultText>Détruit la mémoire d'un ennemi avec une précision calculée pour le rendre confus et l'étourdir avant de s'attaquer à d'autres ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Dévore le nerf éthéré qui maintient ensemble l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont l'endurance devient nulle se désintègrent.</DefaultText>
+      <DefaultText>Dévore le nerf éthéré qui maintient ensemble l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont la Santé devient nulle sont désintégrées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2166,7 +2166,7 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Relie l'esprit du clairvoyant à celui d'un allié, conférant au clairvoyant et à son allié l'inspiration Conscience ainsi qu'une augmentation de la limite d'engagement.</DefaultText>
+      <DefaultText>Relie l'esprit du clairvoyant à celui d'un allié, ce qui leur confère à tous les deux l'inspiration Conscience et augmente leur limite d'engagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2176,7 +2176,7 @@
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>Fait apparaître un double fantomatique du jeteur de sorts et inflige des dégâts électriques aux ennemis frappés par lui.</DefaultText>
+      <DefaultText>Fait apparaître un double fantomatique du jeteur de sorts dont il copie les armes et l'apparence.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2411,7 +2411,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Défenseur prudent</DefaultText>
+      <DefaultText>Posture du défenseur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2476,17 +2476,17 @@
     </Entry>
     <Entry>
       <ID>790</ID>
-      <DefaultText>Réduit la valeur de réduction de dégâts des ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Réduit la valeur d'armure des ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>Accroît les valeurs de réduction de dégâts tranchants et électriques des alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Augmente les valeurs d'armure contre les dégâts tranchants et électriques des alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>Fait exploser un ennemi terrassé à proximité en expulsant trois asticots blancs et en écrasant les ennemis alentour.</DefaultText>
+      <DefaultText>Fait exploser un ennemi terrassé à proximité. Des petits asticots blancs sont expulsés et les ennemis proches subissent des dégâts Contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,7 +2516,7 @@
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>Abrège les effets effrayants et terrifiants et protège de ceux-ci les alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Accorde une résistance contre les afflictions touchant la Résolution et la Constitution aux alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,12 +2531,12 @@
     </Entry>
     <Entry>
       <ID>803</ID>
-      <DefaultText>Terrifie les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Inflige Effroi aux ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Abrège les effets d'entrave, d'immobilisation, de paralysie et de pétrification et protège de ceux-ci les alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Supprime les afflictions de Dextérité des alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,17 +2551,17 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Les alliés dans la zone d'effet gagnent de la Résistance aux afflictions touchant la Dextérité ainsi qu'à celles touchant la Puissance.</DefaultText>
+      <DefaultText>Les alliés dans la zone d'effet gagnent une résistance aux afflictions touchant la Dextérité et la Puissance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Invoque des serres enflammées causant des dégâts brûlants ou lacérants aux ennemis dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque des serres enflammées causant des dégâts brûlants ou tranchants aux ennemis dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Accroît la déviation des alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Augmente la déviation et la limite d'engagement des alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,17 +2576,17 @@
     </Entry>
     <Entry>
       <ID>812</ID>
-      <DefaultText>Confère aux alliés présents dans la zone d'effet des bonus de puissance, de constitution et de détermination.</DefaultText>
+      <DefaultText>Confère aux alliés présents dans la zone d'effet les inspirations Force et Détermination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>Confère aux alliés présents dans la zone d'effet des bonus de dextérité, de perception et l'intelligence.</DefaultText>
+      <DefaultText>Confère aux alliés présents dans la zone d'effet les inspirations Célérité et Subtilité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>Ranime les alliés présents dans la zone d'effet en régénérant légèrement leur endurance.</DefaultText>
+      <DefaultText>Ranime les alliés présents dans la zone d'effet en régénérant légèrement leur Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2621,17 +2621,17 @@
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Déclenche une violente tempête de glace et de neige qui inflige lentement des dégâts givrants à quiconque dans la zone d'effet et réduit sa vitesse d'attaque.</DefaultText>
+      <DefaultText>Déclenche une violente tempête de glace et de neige qui inflige des dégâts givrants à quiconque se trouvant dans la zone d'effet et réduit sa vitesse d'action.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts brûlants à quiconque dans la zone d'effet. Temps d'incantation court.</DefaultText>
+      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts brûlants à quiconque se trouvant dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>823</ID>
-      <DefaultText>Rassemble quelques fragments d'âmes égarées et les fusionne pour former une flamme, du vent, de la pluie ou un fléau terrestre mineurs.</DefaultText>
+      <DefaultText>Rassemble quelques fragments d'âmes égarées et les fusionne pour former un fléau de flammes, cyclonique, de sable, de glace ou terrestre mineur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2641,17 +2641,17 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Attire une nuée d'insectes agressifs infligeant des dégâts sur la durée et empêchant toutes les cibles affectées d'avoir de la Concentration.</DefaultText>
+      <DefaultText>Attire une nuée d'insectes agressifs qui inflige des dégâts progressifs et empêche toutes les cibles affectées d'avoir de la Concentration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts bruts continus sont ajoutés à son attaque, régénérant son endurance.</DefaultText>
+      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. Sa prochaine attaque inflige des dégâts bruts continus supplémentaires et rend de la Santé au jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Enveloppe d'une épaisse écorce les alliés dans la zone d'effet, ce qui procure un bonus à leur réduction de dégâts perforants, brûlants et électriques.</DefaultText>
+      <DefaultText>Enveloppe d'une épaisse écorce les alliés dans la zone d'effet, ce qui procure un bonus à leur valeur d'armure contre les dégâts perforants, brûlants et électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2661,7 +2661,7 @@
     </Entry>
     <Entry>
       <ID>829</ID>
-      <DefaultText>Puise le pouvoir de guérison de la nature en créant un rapide effet de régénération sur les membres du groupe.</DefaultText>
+      <DefaultText>Puise dans le pouvoir de guérison de la nature pour infuser l'inspiration Robustesse des membres du groupe d'un rapide effet de régénération.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2671,22 +2671,22 @@
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Fait apparaître un énorme bois de cerf qui attaque la cible en provoquant des dégâts perforants et en infligeant une pénalité de déviation et de réflexes.</DefaultText>
+      <DefaultText>Fait apparaître un énorme bois de cerf qui fonce en ligne droite et frappe la première cible qu'il rencontre, ce qui inflige des dégâts perforants et une pénalité à la déviation et aux réflexes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Fait pousser d'épaisses lianes épineuses qui infligent des dégâts perforants et d'entrave aux personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait pousser d'épaisses lianes épineuses qui infligent des dégâts perforants et une Entrave aux personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Rassemble un nombre modéré de fragments d'âmes égarées et les fusionne pour former une flamme, du vent, de la pluie ou un fléau terrestre.</DefaultText>
+      <DefaultText>Rassemble un nombre modéré de fragments d'âmes égarées et les fusionne pour former un fléau de flammes, cyclonique, de sable, de glace ou terrestre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>834</ID>
-      <DefaultText>Canalise l'énergie lunaire et la dirige vers une source localisée qui régénère l'endurance des alliés présents dans la zone d'effet et confère un bonus mineur à toutes les défenses.</DefaultText>
+      <DefaultText>Canalise l'énergie lunaire et la dirige vers une source localisée qui régénère la Santé des alliés présents dans la zone d'effet et confère un bonus mineur à toutes les défenses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2696,17 +2696,17 @@
     </Entry>
     <Entry>
       <ID>836</ID>
-      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts perforants. En cas d'échec d'un test de robustesse, les toxines des épines infligent l'affliction affaiblissement.</DefaultText>
+      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts perforants et inoculent un poison affaiblissant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>837</ID>
-      <DefaultText>Rassemble une immense quantité de fragments d'âmes égarées et les fusionne pour former une flamme, du vent, de la pluie ou un fléau terrestre majeurs.</DefaultText>
+      <DefaultText>Rassemble une immense quantité de fragments d'âmes égarées et les fusionne pour former un fléau de flammes, cyclonique, de sable, de glace ou terrestre majeur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>838</ID>
-      <DefaultText>Fait apparaître des crânes en putréfaction rongés par la maladie dans la main du jeteur de sorts qui s'en sert comme armes à distance pour infliger des dégâts contondants et former une zone d'effet corrosive basée sur la maladie qui inflige à son tour des dégâts progressifs.</DefaultText>
+      <DefaultText>Fait apparaître des crânes en putréfaction rongés par la maladie dans la main du jeteur de sorts qui s'en sert comme armes à distance pour infliger des dégâts contondants et former une zone d'effet corrosive de maladie qui inflige des dégâts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2716,12 +2716,12 @@
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Fait apparaître un bâton incandescent de pure énergie pour le magicien, ce qui lui confère une chance supplémentaire de frapper et augmente son endurance à chaque frappe réussie.</DefaultText>
+      <DefaultText>Fait apparaître un bâton incandescent imprégné d'énergie négative entre les mains du magicien. Chaque coup porté avec le bâton draine de la Santé de la cible vers le magicien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>844</ID>
-      <DefaultText>Échange les emplacements du jeteur de sorts et d'un allié en déclenchant entre eux une onde de choc qui assomme tous les personnages touchés.</DefaultText>
+      <DefaultText>Échange les emplacements du jeteur de sorts et d'un allié en déclenchant entre eux une onde de choc qui assomme les ennemis touchés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2731,12 +2731,12 @@
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Enveloppe le jeteur de sorts dans les flammes, ce qui accroît sa réduction de dégâts givrants et inflige des dégâts brûlants à quiconque lui cause des dégâts avec une attaque de mêlée.</DefaultText>
+      <DefaultText>Enveloppe le jeteur de sorts dans des flammes, ce qui augmente sa valeur d'amure contre les dégâts givrants et inflige des dégâts brûlants à quiconque lui cause des dégâts avec une attaque au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>848</ID>
-      <DefaultText>Transforme la peau du jeteur de sorts en métal, ce qui augmente considérablement sa valeur de réduction de dégâts. Cet effet est limité à dix attaques.</DefaultText>
+      <DefaultText>Transforme en métal la peau du jeteur de sorts, ce qui augmente considérablement sa valeur d'armure. Cet effet dure jusqu'à dix attaques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2746,7 +2746,7 @@
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Envoie plusieurs missiles de force pure sur la cible, provoquant une onde de choc aux dégâts contondants sur les ennemis proches de la zone d'impact.</DefaultText>
+      <DefaultText>Projette sur la cible des missiles de force pure, ce qui déclenche une onde de choc infligeant des dégâts contondants aux ennemis proches de l'impact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2761,17 +2761,17 @@
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Puise la détermination et l'intelligence de la cible en formant deux versions moins puissantes de l'effet qui s'attaquent aux ennemis voisins lorsque le premier effet prend fin.</DefaultText>
+      <DefaultText>Draine la Détermination, l'Intelligence et la Perception de la cible et crée deux versions moins puissantes de l'effet qui s'attaquent aux ennemis proches quand le premier effet prend fin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Crée un pic de force magique pure qui inflige des dégâts perforants et déclenche une explosion (seuls les ennemis sont touchés).</DefaultText>
+      <DefaultText>Crée une pique de force magique pure qui inflige des dégâts perforants et déclenche une explosion à l'impact (seuls les ennemis sont touchés).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Un évènement magique insidieux se déclenche lorsque le lanceur atteint 50 % d'endurance. Il renverse immédiatement les ennemis les plus proches et bénéficie brièvement d'un bonus de réduction de dégâts et de défense.</DefaultText>
+      <DefaultText>Un évènement magique insidieux se déclenche lorsque le lanceur est Ensanglanté ou moins. Il repousse et renverse immédiatement les ennemis proches et bénéficie brièvement d'un bonus d'armure et de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,7 @@
     </Entry>
     <Entry>
       <ID>859</ID>
-      <DefaultText>Le jeteur de sorts sacrifie momentanément ses pouvoirs mystérieux au profit de pouvoirs martiaux. Le magicien bénéficie de bonus de déviation, de précision, de puissance, de constitution et de dextérité, mais est incapable de jeter des sorts ou de changer de grimoire pendant toute la durée du sort.</DefaultText>
+      <DefaultText>Le jeteur de sorts sacrifie momentanément ses pouvoirs arcaniques pour gagner en puissance martiale. Le magicien gagne des bonus en déviation et précision en plus des inspirations Force, Dynamisme et Célérité, mais est incapable de jeter des sorts pendant toute la durée du sort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2796,7 +2796,7 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts givrants à quiconque dans la zone d'effet et crée un cercle de gel instable qui peut entraver tous ceux qu'il touche.</DefaultText>
+      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts givrants périodiques à quiconque se trouvant dans la zone d'effet et crée un cercle de gel intense qui peut entraver tous ceux qu'il touche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2811,12 +2811,12 @@
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Le barbare peut charger imprudemment, ce qui lui permet d'ignorer l'arrêt du mouvement d'engagement et lui confère un bonus à toutes les défenses contre les attaques de désengagement.</DefaultText>
+      <DefaultText>Le barbare peut charger imprudemment, ce qui lui accorde l'inspiration Agilité et une immunité à l'engagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Le barbare canalise son irrépressible détermination, ce qui régénère une grande partie de son endurance.</DefaultText>
+      <DefaultText>Le barbare canalise son irrépressible détermination, ce qui lui accorde l'inspiration Robustesse pendant un court instant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2826,32 +2826,32 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>Le barbare adopte une posture courageuse face à tous les attaquants. Confère un bonus de dégâts de mêlée lorsque le barbare est attaqué par au moins deux ennemis, et il ne peut être pris de flanc que s'il est attaqué par plus de trois ennemis.</DefaultText>
+      <DefaultText>Le barbare se prépare à affronter courageusement ses assaillants. Confère un bonus de dégâts de mêlée quand le barbare est attaqué par au moins deux ennemis, et il faut un ennemi supplémentaire pour le prendre à revers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>Laisse échapper un hurlement terrifiant qui effraie les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Laisse échapper un hurlement terrifiant qui inflige frisson aux ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>874</ID>
-      <DefaultText>Insuffle une insatiable soif de sang au barbare, ce qui accroît momentanément sa vitesse au combat après un combat contre au moins deux ennemis.</DefaultText>
+      <DefaultText>Insuffle une insatiable soif de sang au barbare, ce qui accroît pendant un court instant sa vitesse d'action dès qu'il terrasse personnellement un ennemi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Invoque une énergie primitive qui permet aux alliés situés à portée de bénéficier d'une régénération d'endurance constante pendant que l'incantateur chante.</DefaultText>
+      <DefaultText>Invoque une énergie primitive qui permet aux alliés à portée de bénéficier d'une régénération de Santé constante tant que le chanteur chante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>Fait appel au lien naturel qui unit le druide à l'ours, ce qui lui permet de prendre momentanément cette forme. La transformation spirituelle Ours s'accompagne d'une valeur de réduction de dégâts élevée et peut invoquer un rugissement terrifiant.</DefaultText>
+      <DefaultText>Fait appel au lien naturel qui unit le druide à l'ours, ce qui lui permet de prendre temporairement cette forme. La transformation spirituelle en ours permet d'engager des cibles, de bénéficier d'une valeur d'armure élevée et de pousser un rugissement terrifiant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Fait appel au lien naturel qui unit le druide au sanglier, ce qui lui permet de prendre momentanément cette forme. La transformation spirituelle Sanglier régénère l'endurance perdue et ses attaques de mêlée infligent des dégâts sur la durée.</DefaultText>
+      <DefaultText>Fait appel au lien naturel qui unit le druide au sanglier, ce qui lui permet de prendre temporairement cette forme. La transformation spirituelle en sanglier permet d'engager des cibles, de régénérer la santé et d'infliger des dégâts progressifs à chaque attaque au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2871,37 +2871,37 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des coups ou des critiques sont entravées.</DefaultText>
+      <DefaultText>Les attaques de désengagement du combattant bénéficient d'une précision et de dégâts augmentés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Le combattant consacre toute son énergie à la défense des alliés. Réduit la précision mais améliore la déviation des alliés alentour.</DefaultText>
+      <DefaultText>(Posture du conquérant) : le combattant bénéficie d'un bonus à la précision tant qu'il est Blessé ou en meilleure santé. Quand il est Ensanglanté ou en moins bonne santé, le combattant bénéficie d'un bonus à la déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Frappe visant la tête destinée à empêcher les ennemis de réagir. Les ennemis frappés par une attaque réussie sont assommés.</DefaultText>
+      <DefaultText>Un coup porté à la tête et imaginé pour perturber la capacité des ennemis à réagir en les assommant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>Les mains du moine se transforment en un brouillard d'attaques forcenées, ce qui accroît brièvement sa vitesse d'attaque.</DefaultText>
+      <DefaultText>Les mains du moine se transforment en un brouillard d'attaques frénétiques, ce qui augmente un court instant sa vitesse d'action et lui accorde l'inspiration Célérité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Les moines atteignent une plus grande compréhension de leurs corps en endurant les épreuves de l'existence. Les poings et les pieds des moines ont une valeur de base de dégâts, de précision et de pénétration bien supérieure à celles des autres personnages, et qui augmente de manière permanente lorsque leur Niveau de pouvoir augmente.</DefaultText>
+      <DefaultText>Les moines atteignent une plus grande compréhension de leur corps en résistant aux épreuves de l'existence. Les poings et les pieds des moines ont des valeurs de dégâts de base, de précision et de pénétration bien supérieure à celles des autres personnages, et qui augmentent de façon permanente à chaque niveau gagné.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>Une pratique intense et des années d'apprentissage permettent au moine de se mouvoir avec une fluidité assurée au combat. Pendant le combat, la vitesse de déplacement du moine augmente de manière significative.</DefaultText>
+      <DefaultText>Une pratique intense et des années d'apprentissage permettent au moine de se mouvoir avec une fluidité assurée en combat. Pendant le combat, l'allure du moine est considérablement augmentée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>892</ID>
-      <DefaultText>Cette capacité exploite les liens de souffrance universelle que partagent tous les êtres. Un puissant coup s'abat sur la cible initiale en lui infligeant des dégâts contondants supplémentaires. Les ennemis présents dans un cône derrière la cible subissent des dégâts contondants et leur puissance est réduite.</DefaultText>
+      <DefaultText>Cette capacité profite des liens de souffrance universelle que partagent tous les êtres. La cible est frappée par un coup puissant, et les ennemis situés dans un cône derrière la cible subissent des dégâts contondants et sont stupéfiés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,22 +2921,22 @@
     </Entry>
     <Entry>
       <ID>896</ID>
-      <DefaultText>Puissante attaque qui, lorsqu'elle aboutit, repousse la cible à bonne distance. La cible en écarte d'autres et rebondit sur les surfaces rigides comme les murs avant d'être renversée.</DefaultText>
+      <DefaultText>Une puissante attaque qui repousse la cible sur une bonne distance et la renverse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les critiques de mêlée causent affaiblissement à la cible.</DefaultText>
+      <DefaultText>Le moine est capable de cibler certains points d'un ennemi et de provoquer des faiblesses physiques. Les coups critiques au corps à corps infligent Affaiblissement à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Le moine se concentre pleinement sur le monde matériel, ce qui lui confère un bonus de déviation.</DefaultText>
+      <DefaultText>Le moine se concentre pleinement sur le monde matériel, ce qui lui confère un bonus en Constitution pour chaque plaie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus de robustesse, de réflexes et de volonté.</DefaultText>
+      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus en Intelligence pour chaque plaie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2946,7 +2946,7 @@
     </Entry>
     <Entry>
       <ID>901</ID>
-      <DefaultText>Génère une onde de choc autour du moine chaque fois qu'il obtient une plaie, ce qui fait subir quelques dégâts, voire une interruption, à tous les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Génère occasionnellement une onde de choc autour du moine à chaque plaie gagnée, ce qui inflige quelques dégâts et interrompt les ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2961,17 +2961,17 @@
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>L'âme pure du paladin résiste à toutes les forces d'invasion, ce qui lui confère un bonus de défense contre le poison et la maladie.</DefaultText>
+      <DefaultText>L'âme pure du paladin résiste à toutes les invasions, ce qui lui accorde une immunité aux poisons et maladies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Comme il le ferait en poursuivant une proie en fuite, le rôdeur vise un point qui ralentira la progression de l'ennemi, l'entravant et lui infligeant des dégâts bruts progressifs.</DefaultText>
+      <DefaultText>Le rôdeur vise un endroit qui laissera une trace facile à traquer et inflige des dégâts bruts progressifs à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>Le lien empathique qui unit le rôdeur et son compagnon animal leur permet de sentir un danger imminent, ce qui confère à chacun d'eux un bonus de défense important lorsqu'ils sont tous deux visés par une attaque dans la même zone d'effet.</DefaultText>
+      <DefaultText>Le lien empathique qui unit le rôdeur et son compagnon animal leur permet de sentir un danger imminent, ce qui leur accorde à tous les deux un bonus de défense contre les attaques de zone tant qu'ils sont à 4m ou moins l'un de l'autre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2991,7 +2991,7 @@
     </Entry>
     <Entry>
       <ID>912</ID>
-      <DefaultText>Chaque attaque à distance lancée par le rôdeur est d'une force telle qu'elle atteint directement la première cible et frappe une seconde derrière elle en infligeant moins de dégâts à cette dernière.</DefaultText>
+      <DefaultText>Chaque attaque à distance portée par le rôdeur est d'une force telle qu'elle transperce la première cible et frappe une seconde derrière elle en infligeant des dégâts réduits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3001,12 +3001,12 @@
     </Entry>
     <Entry>
       <ID>916</ID>
-      <DefaultText>Appelle le compagnon animal du rôdeur à ses côtés, ce qui le fait revenir plus rapidement en ignorant l'engagement et en renversant tous les ennemis sur son passage.</DefaultText>
+      <DefaultText>Appelle le compagnon animal du rôdeur à ses côtés, ce qui lui accorde l'inspiration Agilité et le fait revenir incroyablement vite auprès du rôdeur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Le bandit s'efforce d'achever un adversaire blessé en lui assénant un coup précis et fatal via un bonus de précision dont la puissance est plus importante lorsque l'endurance de la cible est faible.</DefaultText>
+      <DefaultText>Le bandit cherche à achever un adversaire blessé grâce à une frappe aussi précise que mortelle, capable d'infliger des dégâts supplémentaires en fonction de la santé manquante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3021,7 +3021,7 @@
     </Entry>
     <Entry>
       <ID>922</ID>
-      <DefaultText>Le bandit empêche son ennemi de se déplacer efficacement, lui inflige des dégâts supplémentaires et entrave ses coups.</DefaultText>
+      <DefaultText>Le bandit empêche son ennemi de se déplacer efficacement en l'entravant à chaque coup porté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3031,7 +3031,7 @@
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Le bandit recherche les possibilités de contre-attaques au combat. Les attaques de mêlée qui visent la déviation et l'échec peuvent permettre une riposte instantanée lors d'une attaque maximum. Actif uniquement si le personnage est équipé d'armes de mêlée.</DefaultText>
+      <DefaultText>Le bandit recherche les possibilités de contre-attaques au combat. Les attaques de mêlée qui visent la déviation et se soldent par un échec ou une éraflure peuvent permettre une riposte instantanée avec une attaque maximum. (Nécessite une arme de mêlée)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit de nombreuses éraflures sur réflexes en échecs.</DefaultText>
+      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit presque toutes les éraflures ciblant les réflexes en échecs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3051,17 +3051,17 @@
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>Le bandit vise une zone vitale, ce qui inflige des dégâts supplémentaires à la cible et l'affaiblit.</DefaultText>
+      <DefaultText>Le bandit vise une zone vitale, ce qui affaiblit la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Un mouvement rapide permet au bandit de changer instantanément de place avec une cible voisine, ce qui annule tout engagement effectif. Automatique lorsqu'un allié est visé, sinon il doit porter un coup pour neutraliser les réflexes de l'ennemi.</DefaultText>
+      <DefaultText>Un mouvement rapide permet au bandit de changer instantanément de place avec une cible proche, ce qui annule tout engagement effectif. Automatique lorsqu'un allié est visé, sinon il doit réussir une attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Permet au bandit de s'emparer de la position d'une cible sur le champ de bataille, ce qui rend l'attaque furtive plus efficace lorsque la cible réunit au moins deux des conditions qui permettent une telle attaque.</DefaultText>
+      <DefaultText>Permet au bandit de mieux profiter des faiblesses d'un ennemi, ce qui lui permet d'infliger beaucoup plus de dégâts quand la cible est victime d'au moins deux conditions qui permettent une attaque furtive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3076,17 +3076,17 @@
     </Entry>
     <Entry>
       <ID>945</ID>
-      <DefaultText>Le Fouet de l'âme du clairvoyant mord encore plus fort, ce qui confère un bonus de dégâts.</DefaultText>
+      <DefaultText>(Fouet mordant) : la morsure du Fouet de l'âme du clairvoyant est plus intense, ce qui confère un meilleur bonus aux dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>946</ID>
-      <DefaultText>Améliore la puissance du Fouet de l'âme du clairvoyant, ce qui régénère plus rapidement la concentration.</DefaultText>
+      <DefaultText>(Fouet drainant) : améliore la puissance du Fouet de l'âme du clairvoyant, ce qui lui permet de régénérer plus vite sa concentration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>Améliore la conscience du combattant en mode Défenseur, ce qui confère un bonus à la robustesse, les réflexes et la volonté.</DefaultText>
+      <DefaultText>(Posture du défenseur) : les ennemis qui se désengagent du combattant sont immédiatement attaqués, et renversés en cas d'attaque réussie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3096,27 +3096,27 @@
     </Entry>
     <Entry>
       <ID>954</ID>
-      <DefaultText>Stimule les Frappes rapides du moine, ce qui inflige à toutes les victimes de l'attaque des dégâts électriques supplémentaires.</DefaultText>
+      <DefaultText>(Réflexes fulgurants) : stimule les attaques du moine pour lui permettre d'infliger des dégâts électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>960</ID>
-      <DefaultText>Forme le compagnon animal du rôdeur aux tactiques violentes, ce qui lui permet d'infliger davantage de dégâts et de mieux pénétrer la réduction de dégâts à chaque coup.</DefaultText>
+      <DefaultText>Forme le compagnon animal du rôdeur aux tactiques violentes, ce qui lui permet d'infliger davantage de dégâts et de mieux pénétrer l'armure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>La visée du rôdeur devient plus redoutable, ce qui améliore la précision de ses Coups blessants.</DefaultText>
+      <DefaultText>(Tir blessant précis) : la visée du rôdeur est bien plus précise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>Élargit les connaissances du bandit en matière d'anatomie critique, ce qui accroît les dégâts infligés par le Coup de grâce.</DefaultText>
+      <DefaultText>(Coup dévastateur) : élargit les connaissances du bandit en matière d'anatomie critique, ce qui accorde un plus grand bonus aux dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>968</ID>
-      <DefaultText>Permet au magicien d'écraser un ennemi avec un grimoire alimenté en énergie spirituelle, ce qui inflige de gros dégâts à la cible et la renverse.</DefaultText>
+      <DefaultText>Permet au magicien d'écraser un ennemi avec un grimoire alimenté en énergie arcanique, ce qui inflige des dégâts importants à la cible et la repousse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3131,7 +3131,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Un groupe d'ennemis s'endort momentanément, ce qui les renverse brièvement.</DefaultText>
+      <DefaultText>Un groupe d'ennemis s'endort momentanément, ce qui les renverse jusqu'à la fin de l'effet ou qu'ils subissent des dégâts. Appel du sommeil n'affecte pas les vaisseaux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3226,32 +3226,32 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement hors du commun (Déviation, Robustesse, Réflexes et Volonté).</DefaultText>
+      <DefaultText>Les compagnons antilopes bénéficient de défenses naturellement hors du commun (Déviation, Robustesse, Réflexes et Volonté).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>Les ours de compagnie bénéficient d'une valeur d'armure exceptionnellement élevée, ce qui les protège efficacement contre la plupart des types de dégâts.</DefaultText>
+      <DefaultText>Les compagnons ours bénéficient d'une valeur d'armure exceptionnellement élevée, ce qui les protège efficacement contre la plupart des types de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Les sangliers de compagnie régénèrent lentement leur santé, et ce même pendant un combat.</DefaultText>
+      <DefaultText>Les compagnons sangliers régénèrent lentement leur santé, même en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>Bonus de dégâts Sanglier blessé</DefaultText>
+      <DefaultText>Régénération du sanglier</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Tous les sangliers de compagnie reçoivent un bonus de dégâts, tant que leur endurance est inférieure à 50 %.</DefaultText>
+      <DefaultText>Tous les compagnons sangliers régénèrent lentement leur santé, même en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Les lions de compagnie bénéficient d'une Vitesse d'action naturellement élevée.</DefaultText>
+      <DefaultText>Les compagnons lions bénéficient d'une Vitesse d'action naturellement élevée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3261,7 +3261,7 @@
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Les loups de compagnie infligent naturellement plus de dégâts avec leurs attaques.</DefaultText>
+      <DefaultText>Les compagnons loups infligent naturellement plus de dégâts avec leurs attaques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3296,7 +3296,7 @@
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Le bandit voyage à travers l'Au-delà, apparaissant à un endroit précis et évitant l'attaque suivante de manière experte. Après cela, le bandit est temporairement invisible.</DefaultText>
+      <DefaultText>Le bandit traverse l'Au-delà et apparaît à un endroit précis, ce qui lui permet d'éviter habilement l'attaque suivante. Après cela, le bandit est temporairement invisible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3316,12 +3316,12 @@
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>Attaque prudente</DefaultText>
+      <DefaultText>Frappes interférentes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Le personnage attaque en posture défensive, en prenant soin de ne jamais exposer ses points faibles. Les personnages qui adoptent cette posture reçoivent une pénalité de vitesse mais améliorent leur déviation.</DefaultText>
+      <DefaultText>Vous adoptez une posture de combat rapproché et utilisez votre lame pour pénétrer plus efficacement l'armure, même si cela vous coûte en déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3331,7 +3331,7 @@
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>La foi du paladin est plus intense, ce qui confère des bonus défensifs à sa foi et à sa conviction.</DefaultText>
+      <DefaultText>(Foi profonde) : la foi du paladin est plus intense, ce qui augmente les bonus défensifs liés à Foi et conviction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3341,7 +3341,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Renforce les défenses du personnage contre les afflictions charme, confusion, domination, effroi et terreur.</DefaultText>
+      <DefaultText>Le paladin devient résistant aux afflictions touchant l'Intelligence (confusion, charme et domination).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3351,17 +3351,17 @@
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>Le combattant devient résistant aux afflictions touchant la Puissance (Stupéfaction, Étourdissement, Assommement).</DefaultText>
+      <DefaultText>Le combattant devient résistant aux afflictions touchant la Puissance (stupéfaction, étourdissement, assommement).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>Imparable</DefaultText>
+      <DefaultText>Inébranlable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Renforce les défenses du personnage contre les afflictions aveuglement, étourdissement, entrave, renversement et immobilisation.</DefaultText>
+      <DefaultText>Tant qu'il est blessé ou en meilleure santé, le barbare profite d'une résistance aux afflictions corporelles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3371,7 +3371,7 @@
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>Le rôdeur entraîne son compagnon animal à infliger des dégâts contondants à ses adversaires lorsque la capacité Fauchage est utilisée.</DefaultText>
+      <DefaultText>(Fauchage brutal) : accorde à l'attaque un bonus important à la pénétration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3381,7 +3381,7 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une défense accrue contre les afflictions charme, confusion et domination.</DefaultText>
+      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une résistance aux afflictions touchant l'Intelligence et la Perception.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3391,12 +3391,12 @@
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une réduction de dégâts améliorée contre tous les types de dégâts.</DefaultText>
+      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une valeur d'armure améliorée contre tous les types de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>Le personnage devient plus rapide et agile, en bénéficiant d'une vitesse de déplacement accrue et d'un bonus défensif contre les attaques de désengagement.</DefaultText>
+      <DefaultText>Le personnage devient plus rapide et agile, ce qui lui augmente son allure et lui accorde un bonus défensif contre les attaques de désengagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3416,7 +3416,7 @@
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>L'entraînement spécialisé accroît la vitesse d'attaque du personnage lorsqu'il utilise une arme dans chaque main.</DefaultText>
+      <DefaultText>Un entraînement spécialisé augmente la vitesse d'action du personnage quand il utilise une arme dans chaque main.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3431,7 +3431,7 @@
     </Entry>
     <Entry>
       <ID>1076</ID>
-      <DefaultText>Améliore la précision du personnage lorsqu'il utilise des armes à distance sur des cibles éloignées.</DefaultText>
+      <DefaultText>Augmente la précision du personnage quand il utilise des armes à distance contre des cibles éloignées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3451,7 +3451,7 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>Dangereux instrument</DefaultText>
+      <DefaultText>Canalisation destructrice</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3501,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Accroît le bonus de partage conféré par le Lien défensif.</DefaultText>
+      <DefaultText>(Lien renforcé) : augmente le bonus de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3511,7 +3511,7 @@
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Lorsque l'assaillant utilise une seule arme à une main, une partie de ses coups sont convertis en coups critiques.</DefaultText>
+      <DefaultText>Lorsque l'attaquant utilise une seule arme à une main, une partie de ses coups sont convertis en coups critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3521,7 +3521,7 @@
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Confère un bonus de dégâts lorsqu'une arme de mêlée à deux mains est utilisée.</DefaultText>
+      <DefaultText>Accorde un bonus aux dégâts avec les armes à deux mains.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3566,7 +3566,7 @@
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Sacrifie la vitesse d'attaque à distance pour accroître la réduction de dégâts.</DefaultText>
+      <DefaultText>Sacrifie de la vitesse d'action à distance pour augmenter la pénétration d'armure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3581,7 +3581,7 @@
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Sa longue expérience en matière de dissimulation d'armes et d'objets en tous genres a appris au bandit à mieux gérer la disposition de ses possessions. Le bandit obtient deux emplacements d'objet rapide supplémentaires.</DefaultText>
+      <DefaultText>Sa longue expérience en matière de dissimulation d'armes et d'objets en tous genres a appris au bandit à mieux gérer la disposition de ses possessions. Le bandit obtient deux emplacements d'objets rapides supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3656,7 +3656,7 @@
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Toutes les attaques lancées contre des ennemis Proches de la mort convertissent certains coups en critiques, et ces critiques infligent des dégâts supplémentaires.</DefaultText>
+      <DefaultText>Toutes les attaques portées sur des ennemis Proches de la mort convertissent certains coups en critiques, et ces critiques infligent des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3666,7 +3666,7 @@
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Réduit le délai de récupération lors de l'échange d'armes ou de sorts de grimoires.</DefaultText>
+      <DefaultText>Réduit le délai de récupération provoqué par un changement d'arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3696,7 +3696,7 @@
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>Fait apparaître trois projectiles qui transpercent la cible avant de frapper deux autres cibles chacun.</DefaultText>
+      <DefaultText>Fait apparaître trois projectiles qui transpercent la cible avant de frapper d'autres cibles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3741,12 +3741,12 @@
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>Après avoir été victimes d'une attaque de volonté, les orlans sauvages reçoivent momentanément un bonus pour toutes leurs défenses.</DefaultText>
+      <DefaultText>Les orlans sauvages sont naturellement sains d'esprit et reçoivent une résistance aux afflictions touchant la Résolution.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Lorsque les divins du feu sont Ensanglantés ou Proches de la mort, leur corps s'endurcit, ce qui augmente leur Valeur d'armure, et leur âme se déchaîne sur les assaillants, infligeant des dégâts brûlants à tous ceux qui les frappent au corps à corps.</DefaultText>
+      <DefaultText>Lorsque les divins du feu sont Ensanglantés ou Proches de la mort, leur corps s'endurcit, ce qui augmente leur valeur d'armure, et leur âme se déchaîne sur les assaillants, infligeant des dégâts brûlants à tous ceux qui les frappent au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3756,7 +3756,7 @@
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>Armé jusqu'aux dents</DefaultText>
+      <DefaultText>Libre comme l'eau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Libère de l'énergie magique à partir du grimoire pour infliger des dégâts bruts et étourdir les cibles présentes dans la zone.</DefaultText>
+      <DefaultText>Libère du grimoire un trait d'énergie magique à partir qui inflige des dégâts bruts et étourdit les ennemis présents dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3816,7 +3816,7 @@
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Le combattant se concentre intensément sur son entraînement, ce qui améliore brièvement sa précision.</DefaultText>
+      <DefaultText>Le combattant se concentre intensément sur son entraînement, ce qui lui accorde un court instant l'inspiration Conscience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3826,12 +3826,12 @@
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Les divins avians sont naturellement difficiles à frapper avec des armes à distance, ce qui confère un bonus de déviation contre toutes les attaques de ce type. Sous la barre des 50 % d'endurance, les sens et les déplacements d'un divin avian deviennent plus précis, ce qui confère un bonus de perception et de défense contre les attaques de désengagement.</DefaultText>
+      <DefaultText>Les divins avians sont astucieux et précis. Ils gagnent une résistance aux afflictions touchant la Perception et l'Intelligence.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1336</ID>
-      <DefaultText>Les divins de la mort semblent sentir de manière innée la vulnérabilité de leurs ennemis lorsque la mort se profile. Contre toutes les cibles Proches de la mort, les divins de la mort reçoivent un bonus de dégâts.</DefaultText>
+      <DefaultText>Les divins de la &lt;xg&gt;mort&lt;/xg&gt; semblent sentir de manière innée la vulnérabilité de leurs ennemis à l'approche de la mort. Contre toutes les cibles Proches de la mort, les divins de la mort reçoivent un bonus de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3856,7 +3856,7 @@
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Les aumauas côtiers sont réputés pour leur "pied marin" naturel et leur constitution robuste. Que ce soit dû à leur longue histoire de navigation maritime ou à quelque chose d'inné, tous les aumauas côtiers sont résistants aux afflictions touchant la Puissance.</DefaultText>
+      <DefaultText>Les aumauas côtiers sont réputés pour leur « pied marin » naturel et leur constitution robuste. Que ce soit dû à leur longue histoire de navigation maritime ou à quelque chose d'inné, tous les aumauas côtiers sont résistants aux afflictions touchant la Puissance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3871,7 +3871,7 @@
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>Le moine reçoit deux capacités modales qui lui permettent d'alterner entre un bonus de déviation et un bonus applicable à toutes les autres propriétés défensives.</DefaultText>
+      <DefaultText>Le moine reçoit deux capacités modales qui lui permettent d'alterner entre relier les Plaies reçues à leur corps (bonus de Constitution ) ou leur esprit (bonus d'Intelligence).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3891,7 +3891,7 @@
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Empêche la santé d'un personnage gravement blessé d'atteindre le seuil fatal de 0 quand cela impliquerait la mort du personnage. Le personnage peut néanmoins être renversé si son endurance est épuisée.</DefaultText>
+      <DefaultText>Empêche la Santé d'un personnage gravement blessé d'atteindre le seuil fatal de 0 pour un bref moment.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3996,8 +3996,8 @@
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>La douleur que lui infligent ses plaies permet au moine de réduire les dégâts des attaques subies.</DefaultText>
-      <FemaleText>La douleur que lui infligent ses plaies permet à la moniale de réduire les dégâts des attaques subies.</FemaleText>
+      <DefaultText>(Roue de fer) - La douleur que lui infligent ses plaies permet au moine de relever sa Valeur d'armure contre les attaques subies.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1425</ID>
@@ -4021,7 +4021,7 @@
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>Flèches jumelles</DefaultText>
+      <DefaultText>Tir jumeau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4056,12 +4056,12 @@
     </Entry>
     <Entry>
       <ID>1462</ID>
-      <DefaultText>En siphonnant la puissance spirituelle de ses ennemis, le clairvoyant peut les ralentir pour accélérer ses propres déplacements.</DefaultText>
+      <DefaultText>En siphonnant la puissance spirituelle de ses ennemis, le clairvoyant peut les ralentir pour accélérer sa propre Vitesse d'action.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Le druide puise l'énergie spirituelle brute de la nature pour prendre la forme de 2 ou 3 vases et limons aléatoires.</DefaultText>
+      <DefaultText>Le druide puise l'énergie spirituelle brute de la nature pour prendre la forme physique de vases et limons aléatoires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4071,7 +4071,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Le druide jette une puissante protection contre les forces de la nature sur ses alliés pour leur permettre de résister aux dégâts brûlants, corrosifs, givrants et éléctriques.</DefaultText>
+      <DefaultText>Le druide jette une puissante protection contre les forces de la nature sur ses alliés pour relever leur Valeur d'armure contre les dégâts brûlants, corrosifs, givrants et électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4081,22 +4081,22 @@
     </Entry>
     <Entry>
       <ID>1467</ID>
-      <DefaultText>Le combattant lance une attaque principale qui inflige des dégâts supplémentaires et fait baisser le niveau de réduction des dégâts de base de la cible.</DefaultText>
+      <DefaultText>Le combattant lance une attaque principale qui inflige des dégâts supplémentaires et diminue les Valeurs d'armure de la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Le paladin se concentre sur sa foi et s'immole dans des flammes bleues. Chaque fois que la capacité clignote, il subit des dégâts bruts, mais des dégâts brûlants sont infligés aux ennemis présents dans la zone. L'endurance des alliés augmente légèrement.</DefaultText>
+      <DefaultText>Le paladin se concentre sur sa foi et s'immole dans des flammes bleues. Chaque fois que le sort pulse, les ennemis les plus proches subissent des dégâts brûlants tandis que le paladin reçoit une partie de leur Santé totale en dégâts bruts (ces dégâts peuvent tuer le paladin).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1469</ID>
-      <DefaultText>Le paladin vise un allié pour le guérir, mais l'effet rebondit d'un allié à l'autre jusqu'à six fois (coup initial compris).</DefaultText>
+      <DefaultText>Le paladin vise un allié pour le guérir, mais l'effet rebondit d'un allié à l'autre en guérissant un peu moins à chaque fois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Le prêtre bénéficie de l'éclat surnaturel du pouvoir dont il est imprégné. En tant qu'avatar mineur de sa divinité, il bénéficie de bonus pour tous les attributs, l'endurance, la santé et les dégâts armés.</DefaultText>
+      <DefaultText>Le prêtre bénéficie de l'éclat surnaturel du pouvoir dont il est imprégné. En tant qu'avatar mineur de sa divinité, il bénéficie de bonus pour tous les attributs, la Santé et les dégâts armés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,12 +4111,12 @@
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Le compagnon animal du rôdeur tombe et semble momentanément mort (il ne peut pas être pris pour cible). Pendant qu'il fait le mort, il récupère de l'endurance.</DefaultText>
+      <DefaultText>Le compagnon animal du rôdeur tombe et semble momentanément mort. Pendant qu'il fait le mort, il récupère de la Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1475</ID>
-      <DefaultText>Le bandit émet un petit nuage de fumée qui distrait brièvement les ennemis voisins.</DefaultText>
+      <DefaultText>Le bandit émet un petit nuage de fumée qui distrait brièvement les personnages se trouvant à l'intérieur, sauf lui-même.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Ce sort fait apparaître un puissant bâton qui accroît la déviation et chasse les ennemis tout en ajoutant un effet d'entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
+      <DefaultText>Ce sort fait apparaître un puissant bâton qui accroît la Déviation et chasse les ennemis tout en ajoutant un effet d'Entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4146,7 +4146,7 @@
     </Entry>
     <Entry>
       <ID>1481</ID>
-      <DefaultText>Les effets de statut bénéfiques des ennemis durent moins longtemps lorsqu'ils traversent ce mur ou qui sont pris dans celui-ci. Pour chaque seconde puisée, le magicien bénéficie d'effets de statut bénéfiques prolongés.</DefaultText>
+      <DefaultText>Les effets de statut bénéfiques des ennemis durent moins longtemps lorsqu'ils traversent ce mur ou qu'ils sont pris dans celui-ci. Pour chaque seconde puisée, le magicien bénéficie d'effets de statut bénéfiques prolongés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4156,7 +4156,7 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Le jeteur de sorts fait apparaître un énorme éclair qui s'abat sur une cible avant de s'attaquer à un autre ennemi. Il peut frapper six ennemis. Les autres personnages présents dans la zone d'effet sont épargnés par la foudre ésotérique.</DefaultText>
+      <DefaultText>Le jeteur de sorts fait apparaître un énorme éclair qui s'abat sur une cible avant de rebondir entre plusieurs ennemis. Les autres personnages présents dans la zone d'effet sont épargnés par la foudre ésotérique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4206,7 +4206,7 @@
     </Entry>
     <Entry>
       <ID>1572</ID>
-      <DefaultText>La variante de Concelhaut des Projectiles mineurs de Minoletta inflige des dégâts bruts, attaque la robustesse de la cible et octroie endurance puisée au lanceur.</DefaultText>
+      <DefaultText>La variante de Concelhaut des Projectiles mineurs de Minoletta inflige des dégâts bruts, attaque la robustesse de la cible et octroie de la Santé puisée au lanceur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,12 +4216,12 @@
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Dévaste les ennemis avec une puissante explosion d'air froid qui inflige des dégâts givrants (ignorant une large partie de la RD) et ralentit le mouvement.</DefaultText>
+      <DefaultText>Dévaste les ennemis avec une puissante explosion d'air froid qui inflige des dégâts givrants et contondants (de Pénétration élevée) et ralentit le mouvement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>L'incantateur s'insuffle à lui ou à elle-même d'une énergie frénétique, augmentant significativement sa Vitesse d'attaque.</DefaultText>
+      <DefaultText>L'incantateur s'insuffle à lui ou elle-même une énergie frénétique, recevant l'inspiration Tonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>1743</ID>
-      <DefaultText>Les frappes du moine génèrent un effet de résonance entre le moine et sa cible. Des frappes successives augmentent l'intensité de la résonance. Quand il le décide, le moine peut déclencher chaque résonance, infligeant des dégâts bruts dévastateurs à tout ennemi qui est sujet à la résonance.</DefaultText>
+      <DefaultText>Les frappes du moine génèrent un effet de résonance entre le moine et sa cible. Des frappes successives augmentent l'intensité de la résonance. Quand il le décide, le moine peut déclencher chaque résonance, infligeant des dégâts bruts dévastateurs à tout ennemi sujet à la résonance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5537,7 +5537,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2014</ID>
-      <DefaultText>(Fer rouge) - Pendant que dure la marque, l'ennemi subira des dégâts brûlants sur la durée.</DefaultText>
+      <DefaultText>(Fer rouge) - Pendant que dure la marque, l'ennemi subira des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5656,7 +5656,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
 
 À distance : Bonus de Pénétration
 À deux mains : Inflige Stupéfaction
-À une main : Dégâts bruts sur la durée</DefaultText>
+À une main : Dégâts bruts progressifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2051</ID>
-      <DefaultText>(Son de cloche) - Les effets des dégâts à une main sur la durée durent maintenant deux fois plus longtemps.</DefaultText>
+      <DefaultText>(Son de cloche) - Les effets des dégâts à une main progressifs durent maintenant deux fois plus longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,7 +5751,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2057</ID>
-      <DefaultText>(Coup exterminateur) - Les ennemis proches de la cible attaquée subissent Effroi.</DefaultText>
+      <DefaultText>(Coup exterminateur) - Les ennemis proches de la cible attaquée subissent Frisson.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5771,7 +5771,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2061</ID>
-      <DefaultText>(Frénésie sanglante) - Quand elle est activée, les coups critiques font saigner les cibles avec des dégâts bruts sur la durée.</DefaultText>
+      <DefaultText>(Frénésie sanglante) - Quand elle est activée, les coups critiques font saigner les cibles avec des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5991,7 +5991,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2117</ID>
-      <DefaultText>Le combattant prend une posture plus agressive, adaptée pour affronter des groupes d'ennemis. Dans cette posture, tuer un ennemi avec une arme de corps à corps déclenchera une Attaque maximum instantanée sur un ennemi proche.</DefaultText>
+      <DefaultText>Le combattant prend une posture plus agressive, adaptée pour affronter des groupes d'ennemis. Dans cette posture, tuer un ennemi avec une arme de mêlée déclenchera une Attaque maximum instantanée sur un ennemi proche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7447,7 +7447,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2411</ID>
-      <DefaultText>(Saut de la panthère) - Dévaste tous les ennemis proches de la zone d'impact, infligeant des dégâts lacérants et des dégâts bruts sur la durée.</DefaultText>
+      <DefaultText>(Saut de la panthère) - Dévaste tous les ennemis proches de la zone d'impact, infligeant des dégâts tranchants et des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7727,7 +7727,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2469</ID>
-      <DefaultText>(Chevaliers du Pacte d'or) - Les flammes sont dorées et infligent des dégâts brûlants sur la durée.</DefaultText>
+      <DefaultText>(Chevaliers du Pacte d'or) - Les flammes sont dorées et infligent des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8030,7 +8030,7 @@ Ennemi juré est amélioré en Colère des cinq soleils.</DefaultText>
     </Entry>
     <Entry>
       <ID>2530</ID>
-      <DefaultText>Utilisez votre petit bouclier pour mieux intercepter les attaques d'armes de corps à corps et contre-attaquer en échange d'un Temps de récupération prolongé. Gagnez de la Précision pour votre prochaine attaque si une attaque d'arme de corps à corps vous rate.</DefaultText>
+      <DefaultText>Utilisez votre petit bouclier pour mieux intercepter les attaques d'armes de corps à corps et contre-attaquer en échange d'un Temps de récupération prolongé. Gagnez de la Précision pour votre prochaine attaque si une attaque au corps à corps vous rate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8608,7 +8608,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2651</ID>
-      <DefaultText>(Frappe toxique) - Entraîne également un effet de corrosion infligeant des dégâts sur la durée qui s'accroissent à mesure que l'effet reste actif.</DefaultText>
+      <DefaultText>(Frappe toxique) - Entraîne également un effet de corrosion infligeant des dégâts progressifs qui s'accroissent à mesure que l'effet reste actif.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8778,7 +8778,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2687</ID>
-      <DefaultText>(Racines épineuses) - Rajoute de vilaines épines infligeant des dégâts perforants/lacérants.</DefaultText>
+      <DefaultText>(Racines épineuses) - Rajoute de vilaines épines infligeant des dégâts perforants/tranchants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8818,7 +8818,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2695</ID>
-      <DefaultText>(Nuage pernicieux) - Augmente la taille et la durée du nuage, et rajoute l'effet Corrosion infligeant des dégâts sur la durée.</DefaultText>
+      <DefaultText>(Nuage pernicieux) - Augmente la taille et la durée du nuage, et rajoute l'effet Corrosion infligeant des dégâts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9114,7 +9114,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     <Entry>
       <ID>2756</ID>
       <DefaultText>Petit bouclier - &lt;link="gamedata://62f142c9-d40c-495b-836b-88a62603db52"&gt;Blocage immobilisant&lt;/link&gt;</DefaultText>
-      <FemaleText>Connaissance : Petit bouclier</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2757</ID>
@@ -9238,7 +9238,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2781</ID>
-      <DefaultText>Fracture l'âme de la cible, lui infligeant des dégâts bruts sur la durée. Les sorts de Déchirement lancés sur cette cible causeront une autre fracture, infligeant des dégâts bruts instantanés et prolongeant la durée de l'effet.</DefaultText>
+      <DefaultText>Fracture l'âme de la cible, lui infligeant des dégâts bruts progressifs. Les sorts de Déchirement lancés sur cette cible causeront une autre fracture, infligeant des dégâts bruts instantanés et prolongeant la durée de l'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9533,7 +9533,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2843</ID>
-      <DefaultText>La cible se fait ronger par sa propre peau, subissant d'importants dégâts corrosifs sur la durée et subissant un Affaiblissement empêchant la guérison.</DefaultText>
+      <DefaultText>La cible se fait ronger par sa propre peau, subissant d'importants dégâts corrosifs progressifs et subissant un Affaiblissement empêchant la guérison.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9543,7 +9543,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2845</ID>
-      <DefaultText>Série de chutes de météorites enflammées, martelant la zone d'impact de dégâts brûlants et infligeant également des dégâts brûlants sur la durée.</DefaultText>
+      <DefaultText>Série de chutes de météorites enflammées, martelant la zone d'impact de dégâts brûlants et infligeant également des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9563,7 +9563,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2849</ID>
-      <DefaultText>Invoque une cape d'énergie noire tourbillonnante autour du magicien. La cape bannira ceux qui attaqueront le magicien au corps à corps, les emprisonnant dans les ténèbres pendant un bref laps de temps, au cours duquel ils ne pourront pas entreprendre d'actions et subiront des dégâts bruts sur la durée.</DefaultText>
+      <DefaultText>Invoque une cape d'énergie noire tourbillonnante autour du magicien. La cape bannira ceux qui attaqueront le magicien au corps à corps, les emprisonnant dans les ténèbres pendant un bref laps de temps, au cours duquel ils ne pourront pas entreprendre d'actions et subiront des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9588,7 +9588,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2854</ID>
-      <DefaultText>Le rôdeur inflige un tourbillon violent d'attaques maximum à chaque ennemi à portée, infligeant des dégâts bruts sur la durée. (Arme de corps à corps requise)</DefaultText>
+      <DefaultText>Le rôdeur inflige un tourbillon violent d'attaques maximum à chaque ennemi à portée, infligeant des dégâts bruts progressifs. (Arme de mêlée requise)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9793,7 +9793,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2896</ID>
-      <DefaultText>(Frappe sauvage brûlante frénétique) - Chaque ennemi tué sous transformation spirituelle augmentera la durée de l'effet de transformation et infligera des dégâts de brûlure sur la durée aux ennemis à proximité.</DefaultText>
+      <DefaultText>(Frappe sauvage brûlante frénétique) - Chaque ennemi tué sous transformation spirituelle augmentera la durée de l'effet de transformation et infligera des dégâts brûlants progressifs aux ennemis à proximité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11168,7 +11168,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>3294</ID>
-      <DefaultText>Augmente considérablement la Vitesse d'attaque pendant un certain temps, mais le rechargement bâclé et la poudre runique consumée provoquent des dégâts brûlants sur la durée chez le lanceur.</DefaultText>
+      <DefaultText>Augmente considérablement la Vitesse d'attaque pendant un certain temps, mais le rechargement bâclé et la poudre runique consumée provoquent des dégâts brûlants progressifs chez le lanceur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11251,7 +11251,7 @@ Aucun</DefaultText>
     </Entry>
     <Entry>
       <ID>3307</ID>
-      <DefaultText>Tire une cible distante vers l'utilisateur, lui infligeant des dégâts lacérants/perforants ainsi qu'un Étourdissement.</DefaultText>
+      <DefaultText>Tire une cible distante vers l'utilisateur, lui infligeant des dégâts tranchants/perforants ainsi qu'un Étourdissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11293,7 +11293,7 @@ Les prêtres de Gaun apprennent automatiquement les sorts suivants au Niveau de 
     </Entry>
     <Entry>
       <ID>3313</ID>
-      <DefaultText>Tire une cible distante vers l'utilisateur, lui infligeant des dégâts lacérants/perforants ainsi qu'un Étourdissement. Augmente la Vitesse d'attaque de l'utilisateur pendant un bref laps de temps.</DefaultText>
+      <DefaultText>Tire une cible distante vers l'utilisateur, lui infligeant des dégâts tranchants/perforants ainsi qu'un Étourdissement. Augmente la Vitesse d'attaque de l'utilisateur pendant un bref laps de temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11329,7 +11329,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3319</ID>
-      <DefaultText>Attaque tournoyante décrivant un grand arc, qui inflige des dégâts perforants/lacérants à toutes les cibles dans la zone d'effet, tout en les repoussant et en leur faisant subir une Entrave.</DefaultText>
+      <DefaultText>Attaque tournoyante décrivant un grand arc, qui inflige des dégâts perforants/tranchants à toutes les cibles dans la zone d'effet, tout en les repoussant et en leur faisant subir une Entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11664,7 +11664,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3395</ID>
-      <DefaultText>Frappe tous les ennemis à proximité, inflige des dégâts perforants/lacérants et leur inflige Effroi.</DefaultText>
+      <DefaultText>Frappe tous les ennemis à proximité, inflige des dégâts perforants/tranchants et leur inflige Effroi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12289,7 +12289,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3555</ID>
-      <DefaultText>Confère de la santé sur la durée et réduit les dégâts subis lorsque le porteur est Proche de la mort.</DefaultText>
+      <DefaultText>Confère de la Santé sur la durée et réduit les dégâts subis lorsque le porteur est Proche de la mort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12891,7 +12891,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3697</ID>
-      <DefaultText>Capacité passive. La première attaque de corps à corps effectuée en état de furtivité inflige des dégâts bruts sur une longue durée en cas d'attaque portée.</DefaultText>
+      <DefaultText>Capacité passive. La première attaque au corps à corps effectuée en état de furtivité inflige des dégâts bruts sur une longue durée en cas d'attaque portée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12951,7 +12951,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3710</ID>
-      <DefaultText>Déchaînement d'une série de frappes rapides comme l'éclair. Pendant un court instant, toucher une cible à l'aide d'une attaque de corps à corps annule la prochaine récupération du porteur.</DefaultText>
+      <DefaultText>Déchaînement d'une série de frappes rapides comme l'éclair. Pendant un court instant, toucher une cible à l'aide d'une attaque au corps à corps annule la prochaine récupération du porteur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13231,7 +13231,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3769</ID>
-      <DefaultText>Crache un cône de flammes qui inflige des dégâts brûlants à quiconque se trouvant dans la zone d'effet, infligeant également des dégâts brûlants sur la durée.</DefaultText>
+      <DefaultText>Crache un cône de flammes qui inflige des dégâts brûlants à quiconque se trouvant dans la zone d'effet, infligeant également des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13281,7 +13281,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3779</ID>
-      <DefaultText>Sceau de mortalité</DefaultText>
+      <DefaultText>Sceau de mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13536,7 +13536,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3835</ID>
-      <DefaultText>Préparation d'une cible pour votre lame. Diminue la Déviation des coups au corps à corps de la cible ainsi que sa Valeur d'armure contre les dégâts lacérants.</DefaultText>
+      <DefaultText>Préparation d'une cible pour votre lame. Diminue la Déviation des coups au corps à corps de la cible ainsi que sa Valeur d'armure contre les dégâts tranchants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14158,7 +14158,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>3960</ID>
-      <DefaultText>Tant que Marcassin vous suit, vos attaques d'armes de corps à corps ont une probabilité d'interrompre l'adversaire et votre groupe inflige des dégâts lacérants supplémentaires.</DefaultText>
+      <DefaultText>Tant que Marcassin vous suit, vos attaques d'armes de corps à corps ont une probabilité d'interrompre l'adversaire et votre groupe inflige des dégâts tranchants supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14183,7 +14183,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>3965</ID>
-      <DefaultText>Morsure inflige des dégâts empoisonnés bruts sur la durée.</DefaultText>
+      <DefaultText>Morsure inflige des dégâts empoisonnés bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14773,7 +14773,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4155</ID>
-      <DefaultText>Aura qui inflige des dégâts bruts sur la durée aux ennemis proches, en fonction de leur santé restante. (Les ennemis les plus proches de la mort subissent de pleins dégâts)</DefaultText>
+      <DefaultText>Aura qui inflige des dégâts bruts progressifs aux ennemis proches, en fonction de leur santé restante. (Les ennemis les plus proches de la mort subissent de pleins dégâts)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15418,7 +15418,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4361</ID>
-      <DefaultText>Aura qui inflige des dégâts bruts sur la durée aux ennemis proches et réduit leur Valeur d'armure. (Les ennemis les plus proches de la mort subissent de pleins dégâts)</DefaultText>
+      <DefaultText>Aura qui inflige des dégâts bruts progressifs aux ennemis proches et réduit leur Valeur d'armure. (Les ennemis les plus proches de la mort subissent de pleins dégâts)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15503,7 +15503,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4382</ID>
-      <DefaultText>Assène un ample coup horizontal qui inflige à toutes les cibles proches des dégâts perforants/lacérants, les repousse et les entrave.</DefaultText>
+      <DefaultText>Assène un ample coup horizontal qui inflige à toutes les cibles proches des dégâts perforants/tranchants, les repousse et les entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15998,7 +15998,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4507</ID>
-      <DefaultText>Projette une fléchette empoisonnée sur une cible à proximité, infligeant des dégâts perforants et appliquant des dégâts corrosifs sur la durée.</DefaultText>
+      <DefaultText>Projette une fléchette empoisonnée sur une cible à proximité, infligeant des dégâts perforants et appliquant des dégâts corrosifs progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16605,7 +16605,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4659</ID>
-      <DefaultText>Frappe avec la poignée dentelée de l'arme, ce qui inflige à la cible les dégâts de l'arme et applique des dégâts bruts sur la durée.</DefaultText>
+      <DefaultText>Frappe avec la poignée dentelée de l'arme, ce qui inflige à la cible les dégâts de l'arme et applique des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16930,7 +16930,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4833</ID>
-      <DefaultText />
+      <DefaultText>Défi de Berath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16985,6 +16985,31 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4846</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4851</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4863</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4864</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4865</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4866</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

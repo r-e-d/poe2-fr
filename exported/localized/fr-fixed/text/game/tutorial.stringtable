@@ -414,9 +414,9 @@ Sélectionnez &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; dans la R
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Un contre est toute capacité ou effet qui, une fois appliqué, supprime et accorde l'immunité à une autre catégorie d'effets. Il existe deux types de contres : les inspirations et les mots-clés.
+      <DefaultText>Un Contre est toute capacité ou effet qui, une fois appliqué, supprime ou accorde l'immunité contre une autre catégorie d'effets. Il existe deux types de Contres :
 
-Les inspirations sont regroupées par attribut (par. ex. : Dextérité, Perception) et contrecarrent et immunisent automatiquement au groupe d'afflictions correspondant à cet attribut.</DefaultText>
+Les Inspirations sont regroupées par attribut (par. ex. : Dextérité, Perception) et contrecarrent ou immunisent automatiquement au groupe d'Afflictions correspondant à cet attribut. En retour, les Afflictions peuvent aussi servir à supprimer les Inspirations correspondantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,9 +683,9 @@ La Roue de réputation des compagnons montre leur réputation auprès des autres
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Les mots-clés sont des qualificatifs comme Eau, Feu et Givre. Eau contre Feu, et Feu contre Givre. La relation entre mots-clés est à sens unique : Feu &lt;i&gt;ne contre pas&lt;/i&gt; Eau.
+      <DefaultText>Les mots-clés sont des qualificatifs comme Eau, Feu et Givre. La relation entre les mots-clés fonctionne dans les deux sens, donc le Feu contre l'Eau et l'Eau contre le Feu.
 
-Par exemple, un personnage est sous l'effet d'un Bouclier de flammes avec le mot-clé Feu. Un ennemi le touche avec une Vague écrasante associée au mot-clé Eau. Tous les effets de la Vague écrasante sont appliqués et le Bouclier de flammes est supprimé.</DefaultText>
+Par exemple, un personnage est sous l'effet d'un Bouclier de flammes doté du mot-clé Feu. Un ennemi le touche avec une Vague écrasante dotée du mot-clé Eau. Tous les effets de la Vague écrasante sont annulés et le Bouclier de flammes est supprimé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

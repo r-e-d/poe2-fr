@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>532</EntryCount>
+  <EntryCount>538</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -731,7 +731,7 @@
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Le porteur n'a plus besoin de vomir régulièrement quand il est sous l'effet de l'alcool</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -2081,7 +2081,7 @@
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>Invocation d'arme : Fléaux mineurs de Kalakoth</DefaultText>
+      <DefaultText>Invocation d'arme : &lt;link="gamedata://bf027e84-1d42-4653-a850-e2f4a9ca36c8"&gt;Fléaux mineurs de Kalakoth&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>{0:value} secondes de durée pour l'effet Supplice des 1 000 morceaux</DefaultText>
+      <DefaultText>{0:value} secondes de durée pour l'effet &lt;xg&gt;Supplice&lt;/xg&gt; des 1 000 morceaux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText />
+      <DefaultText>{0:value:percent} de chances d'obtenir {0:extravalue} de Zèle si un ennemi est tué</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2661,6 +2661,36 @@
     </Entry>
     <Entry>
       <ID>616</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_serafen_quest_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>143</EntryCount>
+  <EntryCount>145</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -767,6 +767,20 @@ Il caresse sa barbe tressée de sa main poilue.</DefaultText>
     <Entry>
       <ID>161</ID>
       <DefaultText>"Un coup de leurs cornes et Mortelume sera aussi fermée qu'Aedyran Magranite. Et le restera, d'ailleurs, jusqu'à ce que tout navire inconnu ait été criblé et sombré à grands coups de boulets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Bien sûr, j'en avais une. Mais j'ai fait l'erreur de la prêter à Furrante. 'L'a apparemment oublié que c'était pas la sienne."
+
+Vous percevez un grognement sourd derrière ses marmonnements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Un bon tour pour s'inviter dans une fête, c'est de fouiner jusqu'à ce que vous trouviez une invitation. Puis, 'suffit de se vêtir pour l'occasion."
+
+Il gonfle le torse, les pouces passés dans le fin tissu de sa chemise.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

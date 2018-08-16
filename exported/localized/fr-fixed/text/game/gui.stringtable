@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4406</EntryCount>
+  <EntryCount>4425</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -31,82 +31,82 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fonivèrno</DefaultText>
+      <DefaultText>Cœur d'hiver (Fonivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Tarivèrno</DefaultText>
+      <DefaultText>Fin d'hiver (Tarivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Préprima</DefaultText>
+      <DefaultText>Début de printemps (Préprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Majprima</DefaultText>
+      <DefaultText>Mi-printemps (Majprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Fonprima</DefaultText>
+      <DefaultText>Cœur de printemps (Fonprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Tarprima</DefaultText>
+      <DefaultText>Fin de printemps (Tarprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Préëstu</DefaultText>
+      <DefaultText>Début d'été (Préëstu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Majestu</DefaultText>
+      <DefaultText>Mi-été (Majestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Fonestu</DefaultText>
+      <DefaultText>Cœur d'été (Fonestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Tarestu</DefaultText>
+      <DefaultText>Fin d'été (Tarestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Préauton</DefaultText>
+      <DefaultText>Début d'automne (Préauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Majauton</DefaultText>
+      <DefaultText>Mi-automne (Majauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Fonauton</DefaultText>
+      <DefaultText>Cœur d'automne (Fonauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Tarauton</DefaultText>
+      <DefaultText>Fin d'automne (Tarauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Préïvèrno</DefaultText>
+      <DefaultText>Début d'hiver (Préïvèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Majivèrno</DefaultText>
+      <DefaultText>Mi-hiver (Majivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Reconnaissance</DefaultText>
+      <DefaultText>Furtivité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,22 +621,22 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>{0} est soigné pour {1} de santé.</DefaultText>
+      <DefaultText>{0} est soigné pour {1} de Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>{2} soigne {0} pour {1} de santé.</DefaultText>
+      <DefaultText>{2} soigne {0} pour {1} de Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{0} récupère {1} d'endurance.</DefaultText>
+      <DefaultText>{0} récupère {1} de Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>{2} soigne {0} pour {1} d'endurance.</DefaultText>
+      <DefaultText>{2} soigne {0} pour {1} de Santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Le mode Expert désactive un certain nombre de fonctionnalités d'aide dans le jeu. Les joueurs qui souhaitent s'appuyer sur leurs propres facultés et sur leur intuition sont invités à choisir le mode Expert. Cette option est sélectionnée lorsque vous commencez une nouvelle partie. Cette option ne peut pas être modifiée en cours de jeu.</DefaultText>
+      <DefaultText>Le mode Expert désactive un certain nombre de fonctionnalités d'aide dans le jeu. Les joueurs qui souhaitent s'appuyer sur leurs propres facultés et sur leur intuition sont invités à choisir le mode Expert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,8 +751,8 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis, et vous affronterez bien plus d'adversaires lors de vos rencontres.
-&lt;b&gt;Attention : cette option ne peut pas être modifiée en cours de jeu. Elle s'applique uniquement aux joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !&lt;/b&gt;</DefaultText>
+      <DefaultText>La &lt;b&gt;Voie des damnés&lt;/b&gt; oppose le joueur au plus grand nombre d'ennemis, rend les adversaires plus puissants et fait appel aux stratégies d'IA les plus retorses.
+&lt;b&gt;Attention : cette option s'applique uniquement aux joueurs qui souhaitent être confrontés aux rencontres les plus difficiles !&lt;/b&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -812,7 +812,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Le niveau « Difficile » est adapté aux vétérans du Infinity Engine en quête d'un défi. Survivre requiert une microgestion et une optimisation des statistiques à l'aide des objets, sorts et aptitudes.</DefaultText>
+      <DefaultText>Le niveau &lt;b&gt;Difficile&lt;/b&gt; s'adresse aux joueurs qui privilégient la difficulté en escomptant plus d'adversaires et des tactiques ennemies plus agressives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -917,7 +917,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Faible endurance</DefaultText>
+      <DefaultText>Santé faible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -982,7 +982,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Pause automatique lorsque l'endurance d'un membre du groupe est inférieure à 25 %.</DefaultText>
+      <DefaultText>Pause automatique lorsque la Santé d'un membre du groupe est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,7 +1062,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Cet objet ne peut occuper cet emplacement.</DefaultText>
+      <DefaultText>Cet objet ne peut être retiré.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,7 +1072,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Pour accéder à cet emplacement, vous devez camper ou revenir en ville.</DefaultText>
+      <DefaultText>Pour accéder à cet emplacement, vous devez vous reposer ou revenir en ville.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1117,7 +1117,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>RD</DefaultText>
+      <DefaultText>VA</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1482,12 +1482,12 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Le groupe a gagné un objet ({1}). {0}</DefaultText>
+      <DefaultText>Le groupe a gagné un objet ({1}) : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Le groupe a perdu un objet ({1}). {0}</DefaultText>
+      <DefaultText>Le groupe a perdu un objet ({1}) : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1702,7 +1702,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Aucun</DefaultText>
+      <DefaultText>Aucun(e)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1817,7 +1817,7 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Endurance et Santé {0} %, Robustesse {1}</DefaultText>
+      <DefaultText>{0}% Santé, {1} Robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2272,7 +2272,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Jet de sort bloqué</DefaultText>
+      <DefaultText>Jet de sort désactivé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2594,7 +2594,7 @@ Les incantateurs sont présents dans toutes les cultures d'Eora. Nombre d'histor
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>L'Empire d'Aedyr fait partie des plus importants Vieux empires occidentaux. Centré autour de l'Équateur, il jouit d'un climat tropical. Le gros de la nation aedyrane est composé d'humains et d'elfs. Jadis, l'Aedyr était une grande puissance coloniale, mais la perte de Readceras et du Dyrwood a considérablement affaibli sa position. Les Aedyrans sont très présents dans les Contrées orientales, contrairement à l'archipel du Feu éteint.</DefaultText>
+      <DefaultText>L'Empire d'Aedyr constitue l'un des Vieux empires les plus célèbres de l'Ouest. Centré autour de l'Équateur, il jouit d'un climat tropical. La nation d'Aedyr se situe au centre et abrite la plupart de ses nations humaines et elfiques. Aedyr était autrefois une puissante force coloniale, mais la perte de Readceras et du Dyrwood ont terni sa gloire. Les Aedyrans sont communs dans les Contrées orientales, mais rares dans l'archipel du Feu éteint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,19 +2606,19 @@ Les légendes huanas parlent d'un cataclysme qui dévasta leur peuple il y a des
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Situées au nord-est d'Eir Glanfath, les plaines d'Ixamitl forment une vaste étendue de savanes fertiles et cultivées de manière intensive par les humains et les orlans qui y ont élu domicile. La culture Ixamitl est l'une des plus anciennes et des moins impérialistes au monde et ne s'est que très peu répandue au fil des millénaires.</DefaultText>
+      <DefaultText>Situées au nord de Readceras dans les Contrées orientales, les plaines d'Ixamitl forment une vaste étendue de savanes fertiles et cultivées de manière intensive par les humains et les orlans qui y ont élu domicile. La culture Ixamitl est l'une des plus anciennes et des moins impérialistes au monde et ne s'est que très peu répandue au fil des millénaires. La société Ixamitl accorde une grande importance à l'enseignement et au savoir et valorise ses philosophes et érudits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Autrefois joyau des mers du sud, Vailia l'Ancienne renferme désormais les vestiges en ruine d'un empire de nations marchandes. Abritant de nombreux humains et nains, les pays de Vailia l'Ancienne demeurent puissants et fiers de leur riche héritage culturel.</DefaultText>
+      <DefaultText>Autrefois joyau des mers du sud, Vailia l'Ancienne renferme désormais les vestiges en ruine d'un empire de nations marchandes. Abritant de nombreux humains et nains, les pays de Vailia l'Ancienne demeurent puissants et fiers de leur riche héritage culturel. Située tout au sud des Vieux empires, Vailia l'Ancienne a subi un destin semblable à ses voisins du nord, les Aedyrans, en perdant ses terres coloniales les plus prospères : les Républiques de Vailia. De nombreux anciens Vailiens de l'archipel du Feu éteint sont associés aux Príncipi sen Patrena, une vaste coalition de pirates.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>Le puissant royaume naval de Rauatai est dominé par les aumauas côtiers et dirigé par le ranga nui. Étant actuellement le pays le plus développé parmi les Vieux empires, le Rauatai a étendu agressivement ses frontières sur l'archipel du Feu éteint pour saisir les richesses naturelles qui sont rares dans leur terre d'origine. Cependant, le royaume est également peuplé par les humains, les nains et les orlans, la plupart étant des marchands ou des minorités issues des vieux royaumes conquis par le Rauatai, suite à la prise de pouvoir par les aumauas il y a des siècles de cela.
+      <DefaultText>Le puissant royaume naval du Rauatai est dominé par la nation aumaua du littoral et gouverné par un ranga nui. Actuellement le plus prospère des Vieux empires, le Rauatai s'est étendu par la force dans l'archipel du Feu éteint pour s'emparer des ressources naturelles, rares sur leurs terres natales ravagées par les tempêtes. Bien que le Rauatai compte des humains, des nains et des orlans, la plupart sont des marchands ou des rescapés des anciens royaumes conquis par le Rauatai voici plusieurs siècles.
 
-Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis l'archipel du Feu éteint suite à un cataclysme terrible, mais les détails concernant cet événement ont été emportés par le temps et remplacés par les fruits d'imagination des conteurs.</DefaultText>
+Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres depuis l'archipel du Feu éteint à la suite d'un terrible cataclysme, mais les détails de cet événement ont fondu avec le temps et l'imagination des conteurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3908,22 +3908,22 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>Activer/désactiver le mode reconnaissance</DefaultText>
+      <DefaultText>Activer/désactiver le mode Furtivité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Mode reconnaissance activé</DefaultText>
+      <DefaultText>Mode Furtivité activé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Mode reconnaissance désactivé</DefaultText>
+      <DefaultText>Mode Furtivité désactivé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Campement</DefaultText>
+      <DefaultText>Repos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4023,7 +4023,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Grimoire</DefaultText>
+      <DefaultText>Grimoire/Bijou</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4954,7 +4954,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     <Entry>
       <ID>1104</ID>
       <DefaultText>{0} de Santé restaurée</DefaultText>
-      <FemaleText>Santé {0}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1106</ID>
@@ -4988,18 +4988,18 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Endurance {0:Value} par seconde</DefaultText>
+      <DefaultText>Santé régénérée {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Vitesse d'attaque {0}</DefaultText>
+      <DefaultText>Vitesse d'action {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1115</ID>
       <DefaultText>{0:Value:DamageProc} de dégâts infligés en tant que {0:DamageType}</DefaultText>
-      <FemaleText>Dégâts {1} {0}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1116</ID>
@@ -5024,7 +5024,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     <Entry>
       <ID>1120</ID>
       <DefaultText>Immobilisation</DefaultText>
-      <FemaleText>Immobilisé</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1121</ID>
@@ -5103,7 +5103,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Attaques furtives sur les ennemis ayant moins de {0} en Endurance</DefaultText>
+      <DefaultText>Attaques furtives sur les ennemis ayant moins de {0} en Santé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5184,7 +5184,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     <Entry>
       <ID>1154</ID>
       <DefaultText>{0} de dégâts par pourcentage de Santé perdu par la cible</DefaultText>
-      <FemaleText>Dégâts {0} par pourcentage de santé perdu</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1155</ID>
@@ -5213,12 +5213,12 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>Endurance drainée {0}</DefaultText>
+      <DefaultText>Santé drainée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>Endurance régénérée {0}</DefaultText>
+      <DefaultText>Santé régénérée {0:Value:PercentBonus}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5228,7 +5228,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>Dégâts {0} contre les ennemis avec une Endurance faible</DefaultText>
+      <DefaultText>Dégâts {0} contre les ennemis avec une Santé faible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5404,7 +5404,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     <Entry>
       <ID>1212</ID>
       <DefaultText>{0:Value:PercentBonus} de temps de récupération avec les armes à distance</DefaultText>
-      <FemaleText>Cadence de tir {0}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1213</ID>
@@ -5423,7 +5423,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>Concentration {0}</DefaultText>
+      <DefaultText>Concentration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5448,7 +5448,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>Empêche la mort</DefaultText>
+      <DefaultText>Ne peut pas mourir</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5493,17 +5493,17 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>{0} des dégâts convertis en Endurance</DefaultText>
+      <DefaultText>{0} des dégâts convertis en Santé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Précision {0} si endurance inférieure à {1}</DefaultText>
+      <DefaultText>Précision {0} si Santé inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>Dégâts {0} si endurance inférieure à {1}</DefaultText>
+      <DefaultText>Dégâts {0} si Santé inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5623,7 +5623,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>Dégâts {1} convertis en Endurance {0}</DefaultText>
+      <DefaultText>Dégâts {0} de {1} convertis en Santé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6028,7 +6028,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Impossible de camper pendant un combat.</DefaultText>
+      <DefaultText>Impossible de se reposer pendant un combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6038,17 +6038,17 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>Camper n'est pas autorisé dans cette zone.</DefaultText>
+      <DefaultText>Se reposer n'est pas autorisé dans cette zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>Vous devez rassembler votre groupe avant d'établir un campement.</DefaultText>
+      <DefaultText>Vous devez rassembler votre groupe avant de vous reposer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>Impossible de camper avec des ennemis en vue.</DefaultText>
+      <DefaultText>Impossible de se reposer avec des ennemis en vue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6113,7 +6113,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Requiert une endurance inférieure à {0}</DefaultText>
+      <DefaultText>Requiert une Santé inférieure à {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6218,12 +6218,14 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>La furtivité permet aux personnages de toutes classes de passer inaperçu. Elle est automatiquement utilisée lorsque le personnage est en mode Reconnaissance. Plus la compétence du personnage est élevée, plus il peut s'approcher de ses ennemis avant d'être détecté.</DefaultText>
+      <DefaultText>La furtivité permet aux personnages de toutes classes de passer inaperçu. Elle est automatiquement utilisée lorsque le personnage est en mode Furtivité. Plus la compétence du personnage est élevée, plus il peut s'approcher de ses ennemis avant d'être détecté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>L'aventure est un travail épuisant. En plus des risques mortels pris au combat, les aventuriers doivent escalader des murs, traverser des rivières et sauter à travers de gigantesques fossés. Une fois par rencontre, les personnages avec Athlétisme peuvent utiliser la compétence Second souffle pour récupérer de l'Endurance perdue. Un score d'Athlétisme élevé augmente les effets de Second souffle. Dans les conversations et les interactions scriptées, Athlétisme est utilisé pour les exploits physiques comme grimper, nager et sauter.</DefaultText>
+      <DefaultText>L'aventure est un travail épuisant. En plus des risques mortels pris au combat, les aventuriers doivent escalader des murs, traverser des rivières et sauter à travers de gigantesques fossés.
+Une fois par rencontre, les personnages avec Athlétisme peuvent utiliser la compétence Second souffle pour récupérer de la Santé perdue. Un score d'Athlétisme élevé augmente les effets de Second souffle.
+Dans les conversations et les interactions scriptées, Athlétisme est utilisé pour les exploits physiques comme grimper, nager et sauter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6503,7 +6505,7 @@ Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis 
     </Entry>
     <Entry>
       <ID>1455</ID>
-      <DefaultText>Concentration inférieure au maximum</DefaultText>
+      <DefaultText>{0} en dessous du maximum</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6715,7 +6717,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText>Endurance</DefaultText>
+      <DefaultText>Santé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6880,7 +6882,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Draine {0} Dégâts ({1}) en Endurance</DefaultText>
+      <DefaultText>Draine {0} Dégâts ({1}) en Santé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6910,7 +6912,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>L'érosion de Dyrwood</DefaultText>
+      <DefaultText>La chasse à Éothas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6975,12 +6977,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>{0} si Endurance supérieure à {1}</DefaultText>
+      <DefaultText>{0} si Santé supérieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>{0} si Endurance inférieure à {1}</DefaultText>
+      <DefaultText>{0} si Santé inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7125,7 +7127,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1585</ID>
-      <DefaultText>Pénalité de vitesse d'armure {0}</DefaultText>
+      <DefaultText>Pénalité de récupération d'armure {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8227,7 +8229,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1810</ID>
-      <DefaultText>Les compétences permettent à votre personnage d'accomplir des actions spécialisées comme la reconnaissance, la détection de pièges, le crochetage de verrous ou la lecture de parchemins. Elles peuvent également permettre de surmonter des obstacles lors des conversations et des interactions scriptées. Les compétences évoluent à mesure que le niveau de vos personnages progresse, mais certains objets et bonus peuvent également les améliorer.</DefaultText>
+      <DefaultText>Les compétences permettent à votre personnage d'accomplir des actions spécialisées comme la furtivité, la détection de pièges, le crochetage de verrous ou la lecture de parchemins. Elles peuvent également permettre de surmonter des obstacles lors des conversations et des interactions scriptées. Les compétences évoluent à mesure que le niveau de vos personnages progresse, mais certains objets et bonus peuvent également les améliorer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8547,12 +8549,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1874</ID>
-      <DefaultText>Afficher les valeurs d'endurance sur les portraits</DefaultText>
+      <DefaultText>Afficher les valeurs de Santé sur les portraits</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1875</ID>
-      <DefaultText>Affiche les valeurs numériques d'endurance sur les portraits des membres du groupe.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques de Santé sur les portraits des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8807,12 +8809,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Afficher les valeurs numériques de la santé du groupe</DefaultText>
+      <DefaultText>Afficher les valeurs de Santé du groupe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1927</ID>
-      <DefaultText>Affiche les valeurs numériques de la santé actuelle et maximum des membres du groupe sur leurs portraits.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques de Santé actuelle et maximum des membres du groupe sur leurs portraits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9803,7 +9805,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2128</ID>
-      <DefaultText>{0} en cas d'impact ou de critique</DefaultText>
+      <DefaultText>{0} en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9963,7 +9965,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2160</ID>
-      <DefaultText>Le personnage ne bougera pas pour attaquer à moins d'être engagé par un ennemi. Une fois cet ennemi vaincu, il cherchera de nouveaux ennemis à attaquer.</DefaultText>
+      <DefaultText>Le personnage ne bougera pas pour attaquer à moins d'être engagé par un ennemi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10183,7 +10185,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2207</ID>
-      <DefaultText>Requiert une Endurance supérieure à {0}</DefaultText>
+      <DefaultText>Requiert une Santé supérieure à {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10233,12 +10235,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2217</ID>
-      <DefaultText>{0} à l'impact ou lors d'un critique</DefaultText>
+      <DefaultText>{0} lorsque touché par une attaque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2218</ID>
-      <DefaultText>{0} avant impact ou critique</DefaultText>
+      <DefaultText>{0} avant d'être touché par une attaque ou par un critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10313,7 +10315,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2233</ID>
-      <DefaultText>Reconnaissance</DefaultText>
+      <DefaultText>Furtivité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10438,7 +10440,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2261</ID>
-      <DefaultText>{0} quand Endurance en dessous de {1}</DefaultText>
+      <DefaultText>{0} quand Santé en dessous de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10588,7 +10590,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures de renversement lorsque leur endurance est réduite à 0 en combat.</DefaultText>
+      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures de renversement lorsque leur Santé est réduite à 0 en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10763,7 +10765,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2326</ID>
-      <DefaultText>{0} d'Endurance transférée depuis le jeteur du sort</DefaultText>
+      <DefaultText>{0} de Santé transférée depuis le jeteur du sort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10958,7 +10960,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2366</ID>
-      <DefaultText>Impossible d'entrer en mode Reconnaissance pendant le combat.</DefaultText>
+      <DefaultText>Impossible d'entrer en mode Furtivité pendant le combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15932,7 +15934,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3341</ID>
-      <DefaultText>Camelote</DefaultText>
+      <DefaultText>Jonque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18082,7 +18084,7 @@ Après la transformation spirituelle, le druide subit un malus important au Nive
     </Entry>
     <Entry>
       <ID>3859</ID>
-      <DefaultText>Sceau de mortalité</DefaultText>
+      <DefaultText>Sceau de mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18117,7 +18119,7 @@ Après la transformation spirituelle, le druide subit un malus important au Nive
     </Entry>
     <Entry>
       <ID>3866</ID>
-      <DefaultText>Sceaux de mortalité</DefaultText>
+      <DefaultText>Sceaux de mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22330,7 +22332,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4887</ID>
-      <DefaultText />
+      <DefaultText>Les Uniques Réponses</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22345,7 +22347,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4891</ID>
-      <DefaultText />
+      <DefaultText>{0} jours restants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22405,7 +22407,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4906</ID>
-      <DefaultText />
+      <DefaultText>Erreur de version</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22470,7 +22472,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4934</ID>
-      <DefaultText />
+      <DefaultText>Triple couronne en option</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22485,7 +22487,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4937</ID>
-      <DefaultText />
+      <DefaultText>Sélectionné</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22500,61 +22502,156 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4941</ID>
-      <DefaultText />
+      <DefaultText>Défi de Magran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4942</ID>
-      <DefaultText />
+      <DefaultText>Défi de Berath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4943</ID>
-      <DefaultText />
+      <DefaultText>Impossible d'ajouter des membres du groupe dans {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4944</ID>
+      <DefaultText>Thaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>Iovara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4948</ID>
+      <DefaultText>Maerwald</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4949</ID>
-      <DefaultText />
+      <DefaultText>Le jeu ne peut pas être mis en pause</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4950</ID>
-      <DefaultText />
+      <DefaultText>Le temps en jeu ne peut pas être ralenti</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4951</ID>
-      <DefaultText />
+      <DefaultText>Impossible de recruter des compagnons, des acolytes ou des aventuriers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText />
+      <DefaultText>Tout membre du groupe perdant connaissance pendant 6 secondes est tué</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4953</ID>
-      <DefaultText />
+      <DefaultText>Impossible de fuir les combats</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4955</ID>
-      <DefaultText />
+      <DefaultText>Solo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4956</ID>
-      <DefaultText />
+      <DefaultText>Feux de Magran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4957</ID>
-      <DefaultText />
+      <DefaultText>Beast of Winter - Installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4958</ID>
+      <DefaultText>Beast of Winter - Non installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>Ordhjóma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4962</ID>
+      <DefaultText>Désactive la triche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4963</ID>
+      <DefaultText>Désactive les mods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4964</ID>
+      <DefaultText>Gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4965</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4966</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4967</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4969</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4970</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4971</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4972</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4973</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4975</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4976</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4977</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4978</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

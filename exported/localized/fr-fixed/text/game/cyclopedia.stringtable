@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>886</EntryCount>
+  <EntryCount>890</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -1356,7 +1356,7 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     <Entry>
       <ID>324</ID>
       <DefaultText>Les personnages inconscients ne peuvent pas agir. Leur Dextérité est réduite à 0. Leurs Réflexes et leur Déviation sont réduits de 40.</DefaultText>
-      <FemaleText>Les personnages Inconscients ne peuvent pas agir. Dextérité réduite à 0. Réflexes et Déviation réduits de 40.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>329</ID>
@@ -2724,7 +2724,7 @@ Vous êtes de facto devenu seigneur du château après avoir vaincu son précéd
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>L'Empire d'Aedyr fait partie des plus importants Vieux empires occidentaux. Centré autour de l'Équateur, il jouit d'un climat tropical. Le gros de la nation aedyrane est composé d'humains et d'elfs. Jadis, l'Aedyr était une grande puissance coloniale, mais la perte de Readceras et du Dyrwood a considérablement affaibli sa position. Les Aedyrans sont très présents dans les Contrées orientales, contrairement à l'archipel du Feu éteint.</DefaultText>
+      <DefaultText>L'Empire d'Aedyr constitue l'un des Vieux empires les plus célèbres de l'Ouest. Centré autour de l'Équateur, il jouit d'un climat tropical. La nation d'Aedyr se situe au centre et abrite la plupart de ses nations humaines et elfiques. Aedyr était autrefois une puissante force coloniale, mais la perte de Readceras et du Dyrwood ont terni sa gloire. Les Aedyrans sont communs dans les Contrées orientales, mais rares dans l'archipel du Feu éteint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2736,19 +2736,19 @@ Les légendes huanas parlent d'un cataclysme qui dévasta leur peuple il y a des
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Situées au nord-est d'Eir Glanfath, les plaines d'Ixamitl forment une vaste étendue de savanes fertiles et cultivées de manière intensive par les humains et les orlans qui y ont élu domicile. La culture Ixamitl est l'une des plus anciennes et des moins impérialistes au monde et ne s'est que très peu répandue au fil des millénaires.</DefaultText>
+      <DefaultText>Situées au nord de Readceras dans les Contrées orientales, les plaines d'Ixamitl forment une vaste étendue de savanes fertiles et cultivées de manière intensive par les humains et les orlans qui y ont élu domicile. La culture Ixamitl est l'une des plus anciennes et des moins impérialistes au monde et ne s'est que très peu répandue au fil des millénaires. La société Ixamitl accorde une grande importance à l'enseignement et au savoir et valorise ses philosophes et érudits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Autrefois joyau des mers du sud, Vailia l'Ancienne renferme désormais les vestiges en ruine d'un empire de nations marchandes. Abritant de nombreux humains et nains, les pays de Vailia l'Ancienne demeurent puissants et fiers de leur riche héritage culturel.</DefaultText>
+      <DefaultText>Autrefois joyau des mers du sud, Vailia l'Ancienne renferme désormais les vestiges en ruine d'un empire de nations marchandes. Abritant de nombreux humains et nains, les pays de Vailia l'Ancienne demeurent puissants et fiers de leur riche héritage culturel. Située tout au sud des Vieux empires, Vailia l'Ancienne a subi un destin semblable à ses voisins du nord, les Aedyrans, en perdant ses terres coloniales les plus prospères : les Républiques de Vailia. De nombreux anciens Vailiens de l'archipel du Feu éteint sont associés aux Príncipi sen Patrena, une vaste coalition de pirates.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>Le puissant royaume naval de Rauatai est dominé par les aumauas côtiers et dirigé par le ranga nui. Étant actuellement le pays le plus développé parmi les Vieux empires, le Rauatai a étendu agressivement ses frontières sur l'archipel du Feu éteint pour saisir les richesses naturelles qui sont rares dans leur terre d'origine. Cependant, le royaume est également peuplé par les humains, les nains et les orlans, la plupart étant des marchands ou des minorités issues des vieux royaumes conquis par le Rauatai, suite à la prise de pouvoir par les aumauas il y a des siècles de cela.
+      <DefaultText>Le puissant royaume naval du Rauatai est dominé par la nation aumaua du littoral et gouverné par un ranga nui. Actuellement le plus prospère des Vieux empires, le Rauatai s'est étendu par la force dans l'archipel du Feu éteint pour s'emparer des ressources naturelles, rares sur leurs terres natales ravagées par les tempêtes. Bien que le Rauatai compte des humains, des nains et des orlans, la plupart sont des marchands ou des rescapés des anciens royaumes conquis par le Rauatai voici plusieurs siècles.
 
-Les légendes racontent que le peuple de Rauatai est venu sur ces terres depuis l'archipel du Feu éteint suite à un cataclysme terrible, mais les détails concernant cet événement ont été emportés par le temps et remplacés par les fruits d'imagination des conteurs.</DefaultText>
+Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres depuis l'archipel du Feu éteint à la suite d'un terrible cataclysme, mais les détails de cet événement ont fondu avec le temps et l'imagination des conteurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3651,9 +3651,9 @@ Les incantateurs sont présents dans toutes les cultures d'Eora. Nombre d'histor
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Un contre est toute capacité ou effet qui, une fois appliqué, supprime et accorde l'immunité à une autre catégorie d'effets. Il existe deux types de contres : les inspirations et les mots-clés.
+      <DefaultText>Un Contre est toute capacité ou effet qui, une fois appliqué, supprime ou accorde l'immunité contre une autre catégorie d'effets. Il existe deux types de Contres :
 
-Les inspirations sont regroupées par attribut (par. ex. : Dextérité, Perception) et contrecarrent et immunisent automatiquement au groupe d'afflictions correspondant à cet attribut.</DefaultText>
+Les Inspirations sont regroupées par attribut (par. ex. : Dextérité, Perception) et contrecarrent ou immunisent automatiquement au groupe d'Afflictions correspondant à cet attribut. En retour, les Afflictions peuvent aussi servir à supprimer les Inspirations correspondantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4711,57 +4711,77 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     </Entry>
     <Entry>
       <ID>1042</ID>
-      <DefaultText />
+      <DefaultText>Aptapo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText />
+      <DefaultText>Terme formel désignant les nains des montagnes. Dérivé du terme vailien aptapolare, ou « peuple chèvre ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText />
+      <DefaultText>Enutanik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText />
+      <DefaultText>Terme formel désignant les nains boréaux, ce terme issu de l'enutanik signifie « peuple de la toundra ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1046</ID>
-      <DefaultText />
+      <DefaultText>Scelterfolc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText />
+      <DefaultText>Nom formel donné aux elfes des bois. Dans la langue d'Hyl, ce terme signifie le « peuple à l'abri ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText />
+      <DefaultText>Glamfellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText />
+      <DefaultText>Originaires de la vaste île de Naasitaq, située à l'extrême sud du Feu éteint, les nains australs chassent sur les littoraux rocheux et dans les forêts enneigées, qu'ils écument sans relâche. Comme leurs cousins, les nains des montagnes, ils sont habités d'une passion pour l'exploration qui frise le nomadisme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText />
+      <DefaultText>Elfes ayant migré vers les Blanches étendues il y a plusieurs millénaires. Ils voyagent sur ce continent gelé en clans, s'affrontant entre eux et contre les Enutaniks pour s'accaparer les ressources. Tristement célèbres pour leur dévotion au dieu de la mort Rymrgand, d'aucuns prétendent qu'ils seraient ses enfants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText />
+      <DefaultText>Le nom d'usage des elfes pâles. Terme ordhjóma signifiant « habitants du crépuscule ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText />
+      <DefaultText>Le langage parlé par les Glamfellens actuels est très différent de la langue de leurs ancêtres, qui se sont installés dans les Blanches étendues à l'origine. Bien qu'il possède des racines communes avec l'aedyran, l'ordhjóma est incompréhensible pour ceux qui ne l'ont pas étudié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>Thaos ix Arkannon était un représentant de la civilisation engwithane et grand maître de la Clé plombée, une organisation qui a pour but de veiller sur les secrets des dieux. Allié à la déesse Woedica, Thaos était capable d'accéder aux souvenirs de toutes ses vies antérieures, ce qui faisait de lui l'un des plus célèbres fomenteurs de complots de l'Histoire. Il fut tué par le Gardien de Caed Nua, ce qui mit fin à la crise des Sans-âme dans le Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Iovara ix Ensios était une ancienne missionnaire engwithane. Après avoir appris que l'origine des dieux était artificielle, elle mena un mouvement d'opposition à la religion de ses compatriotes. En représailles, une Inquisition captura et tortura Iovara, envoyant son âme à la Cour des pénitents, où elle demeura plus de deux mille ans avant que le Gardien de Caed Nua ne mette fin à son châtiment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Maerwald était l'ancien seigneur de Caed Nua, ainsi qu'un Gardien très ambitieux. Il passa sa vie à restaurer sa forteresse, mais les connaissances issues de ses vies antérieures le hantèrent au point de le faire sombrer dans la folie. Il fut tué par un autre Gardien, qui prit possession de son château et poursuivit la tâche visant à neutraliser les nombreux dangers que recelait la place-forte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>Le duc en or est la seule pièce de monnaie en or frappée à Dyrwood. Les visages de différents ducs de l'histoire de Dyrwood peuvent être gravés sur les pièces, mais la plupart représentent le premier duc, Admeth Hadret.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
