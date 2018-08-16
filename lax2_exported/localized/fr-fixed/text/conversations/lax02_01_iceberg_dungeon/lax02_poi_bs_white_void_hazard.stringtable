@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_white_void_hazard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Attention où vous mettez les pieds. Les énergies entropiques de ces vents transformeront nos âmes en lambeaux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Attention, capitaine. Ces vents soufflent assez fort pour qu'on y laisse des plumes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Par le dieu de lumière ! Ce vent vous moissonnera aussi bien que la faucille aiguisée de Gaun !"</DefaultText>
+      <FemaleText>"Par le dieu de lumière ! Ce vent vous moissonnera aussi bien que la faucille aiguisée de Gaun !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Gaffe, cap'. Ce vent est plus froid qu'les fesses gelées d'Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ces vents peuvent détacher l'esprit de la chair. Faites attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ces vents peuvent emporter votre âme... enfin, d'après les vieilles légendes."</DefaultText>
+      <FemaleText>"Ces vents peuvent emporter votre âme... enfin, d'après les vieilles légendes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"On dit que ces vents emportent votre âme hors de votre corps ! Faites gaffe."</DefaultText>
+      <FemaleText>"On dit que ces vents emportent votre âme hors de votre corps ! Faites gaffe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ces vents nous décaperont jusqu'à l'os, si nous ne faisons pas attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

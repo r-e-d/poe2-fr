@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_engwith_eothassunbeam</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un rayon de lumière descend du ciel, ou plutôt du vide indistinct qui sert de ciel dans l'Au-delà. 
+
+Des morceaux d'un pont démantelé flottent, suspendus en l'air un instant avant son effondrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Exposer le cadran solaire de Waidwen à la lumière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Regarder la lumière]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>La source lumineuse est trop distante, et les efforts pour regarder vous font mal aux yeux.</DefaultText>
+      <FemaleText>La source lumineuse est trop distante, et les efforts pour regarder vous font mal aux yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le cadran solaire chauffe dans votre main. Vous sentez son pouvoir s'étendre autour de vous et reconfigurer le flux temporel afin de réparer ce qui fut brisé.</DefaultText>
+      <FemaleText>Le cadran solaire chauffe dans votre main. Vous sentez son pouvoir s'étendre autour de vous et reconfigurer le flux temporel afin de réparer ce qui fut brisé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>L'impression vous rappelle la lumière sacrée qu'émettait Éothas, mais elle semble ternie ici.</DefaultText>
+      <FemaleText>L'impression vous rappelle la lumière sacrée qu'émettait Éothas, mais elle semble ternie ici.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous soupçonnez la lumière d'être plus que ce qu'elle n'y paraît, mais cela pourrait être le cas de bien des choses en ce royaume.</DefaultText>
+      <FemaleText>Vous soupçonnez la lumière d'être plus que ce qu'elle n'y paraît, mais cela pourrait être le cas de bien des choses en ce royaume.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Grandeur et déclin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouver le Vytmádh sur la Morne banquise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Découvrir l'Œil de Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Entrer dans l'Au-delà en passant par le Vytmádh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouver le Vytmádh sur la Morne banquise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>D'après &lt;b&gt;Vatnir&lt;/b&gt;, un portail menant au &lt;b&gt;Néant blanc&lt;/b&gt; a été ouvert dans les profondeurs de la &lt;b&gt;Morne banquise&lt;/b&gt;, entretenant l'expansion de l'iceberg. 
+
+Si je veux empêcher qu'un hiver sans fin s'étende sur le monde, il faudrait que je commence par trouver ce portail menant à &lt;b&gt;l'Au-delà&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vatnir ne savait pas avec certitude pourquoi la Morne banquise s'étend, mais il a suggéré que je commence mes recherches par le &lt;b&gt;Vytmádh&lt;/b&gt;, un passage vers l'Au-delà dissimulé dans un &lt;b&gt;temple &lt;/b&gt;au &lt;b&gt;centre de l'île de glace&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai communié avec Rymrgand et le dieu effroyable a confirmé que le Vytmádh est à l'origine de l'expansion des glaces. 
+
+Il m'a cependant fait comprendre que le portail me détruirait si je tentais d'y pénétrer sans avoir en ma possession une relique appelée l'Œil de Rymrgand. C'était la gardienne de ce lieu qui détenait l'Œil, mais elle est morte il y a des années de cela lors de l'assaut de la dragonne. 
+
+Pour espérer pouvoir refermer le Vytmádh, il me faudra d'abord trouver l'&lt;b&gt;Œil de Rymrgand&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé l'Œil de Rymrgand en possession d'un diablotin des glaces et je l'ai récupéré. Maintenant que j'ai la relique, je peux me servir du &lt;b&gt;Vytmádh&lt;/b&gt; pour passer dans &lt;b&gt;l'Au-delà&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Pour empêcher la Morne banquise de s'étendre, il me faut trouver le &lt;b&gt;Vytmádh&lt;/b&gt;, que le chef des Envoyés a mentionné. Il faudrait que j'explore le reste de cet iceberg afin de trouver un moyen d'arrêter son expansion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Alors que je sortais du Refuge des Envoyés, la dragonne que j'avais tuée est revenue à la vie. Elle semblait être transportée au &lt;b&gt;sommet de l'iceberg&lt;/b&gt; par une force surnaturelle. Peut-être que la créature, ou ce qui l'a arrachée au bastion des Envoyés, en saura plus au sujet du &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Alors que j'explorais le temple gelé, j'ai vu une vision d'âme de personnes prises dans la glace ici pendant un assaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dans le temple, j'ai eu une nouvelle vision des âmes tuées lors de l'assaut mené contre ce lieu. Elles espéraient venir en aide à quelqu'un qui se nommait &lt;b&gt;Rynhaedr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé la &lt;b&gt;dragonne&lt;/b&gt; et je l'ai vue se faire traîner contre son gré dans les profondeurs blanches et glaciales du &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai trouvé un &lt;b&gt;cadavre gelé&lt;/b&gt; près du &lt;b&gt;Vytmádh&lt;/b&gt;, qui semblait avoir péri en tenant dans ses mains un &lt;b&gt;objet très puissant&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>La créature qui a retiré l'objet du cadavre gelé de la gardienne est dotée de petites griffes très acérées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai traversé le Vytmádh et j'ai pénétré dans l'Au-delà. Je dois maintenant y trouver la &lt;b&gt;dragonne&lt;/b&gt; qui empêche que le &lt;b&gt;portail&lt;/b&gt; soit refermé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Alors qu'il expirait, le &lt;b&gt;Grand Envoyé Vatnir&lt;/b&gt; a mentionné quelque chose qui s'appelle le &lt;b&gt;Vytmádh&lt;/b&gt;, qui d'après lui va s'étendre sans cesse jusqu'à consumer le monde entier.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_harbinger_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>237</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Et pourquoi ne &lt;i&gt;devrions&lt;/i&gt;-nous pas craindre la mort ? Qu'offre donc la mort, sinon la disparition ?"
+
+L'homme qui prend la parole devant l'assemblée porte le même genre de robe en lambeaux que la congrégation, mais sa tête est entourée de bandes de tissu souillées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mais il semblerait que la personne que nous attendions est arrivée. Venez, Oracle du crépuscule. Rejoignez notre cercle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Contemplez l'Oracle du crépuscule, et réjouissez-vous, mes frères et sœurs, car il annonce la fin de votre souffrance."</DefaultText>
+      <FemaleText>"Contemplez l'Oracle du crépuscule, et réjouissez-vous, mes frères et sœurs, car elle annonce la fin de votre souffrance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis votre Oracle du crépuscule, et je suis là pour, euh... oracler votre crépuscule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Les gens n'arrêtent pas de m'appeler comme ça. Je suppose que c'est à cause de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je vous présente [Player Name] de [Player Culture], Gardien de Caed Nua, père des émeutes de la Baie du défi."</DefaultText>
+      <FemaleText>"Je vous présente [Player Name] de [Player Culture], Gardienne de Caed Nua, mère des émeutes de la Baie du défi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qui a détrôné Raedric, seigneur légitime du Val-doré, plongeant le pays dans l'anarchie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Entraînant dans son sillage la malédiction des Sans-âme frappant le Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qui a affaibli la reine du Kahanga !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Et dont &lt;i&gt;la pierre et le sol même&lt;/i&gt; ont constitué le géant vert qui parcourt le Feu éteint en ce moment même !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mieux vaut l'anarchie que la tyrannie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Puis revint et le tua de nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Est-ce qu'on peut revenir sur cette histoire d'émeutes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"La malédiction avait commencé bien avant que je n'arrive là-bas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"C'est étrange... je crois me souvenir avoir &lt;i&gt;mis fin&lt;/i&gt; à la malédiction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Attendez... qu'est-ce que c'était que cette histoire d'émeutes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentir] "Je n'avais absolument rien à voir avec ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'ai fait ce que j'avais à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Mais je n'ai &lt;i&gt;pas&lt;/i&gt; tué le duc Hadret, ce qui a causé les émeutes dont il était question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oh, pour l'amour de... Il a détruit mon château !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oui, j'ai appelé Éothas pour qu'il fasse régner la terreur sur les mers. Et en effet, il est apparu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je ne pense pas que mes actions aient eu quoi que ce soit à voir avec ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>La congrégation chuchote des prières, les mains levées en une supplication pleine de gratitude envers la Bête hivernale.
+
+Vatnir lève une main et les murmures se taisent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Votre venue les réjouit, Gardien, car ils sont venus rendre hommage à Rymrgand et témoigner de la dissolution finale d'Eora par sa main."</DefaultText>
+      <FemaleText>"Votre venue les réjouit, Gardienne, car ils sont venus rendre hommage à Rymrgand et témoigner de la dissolution finale d'Eora par sa main."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Votre arrivée accomplit la prophétie. « Partout où passe l'Oracle du crépuscule tombent les mensonges, comme les feuilles mortes. Tombent les faux cycles. Se calment l'aube et le crépuscule. » Ils ont de grands espoirs vous concernant."</DefaultText>
+      <FemaleText>"Votre arrivée accomplit la prophétie. « Partout où passe l'Oracle du crépuscule tombent les mensonges, comme les feuilles mortes. Tombent les faux cycles. Se calment l'aube et le crépuscule. » Ils ont de grands espoirs vous concernant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"La vérité profonde de la doctrine de Rymrgand n'est-elle pas que les fins sont inévitables ? Qu'avec le temps, tout tombe en ruines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mes excuses, mais je ne suis pas ici pour provoquer la fin du monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pourquoi êtes vous si enthousiastes à l'idée de mourir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Un voile de silence tombe sur la pièce, tandis que les yeux se tournent vers l'homme enveloppé de bandages devant vous. Il incline légèrement la tête vers eux.</DefaultText>
+      <FemaleText>Un voile de silence tombe sur la pièce, tandis que les yeux se tournent vers l'homme enveloppé de bandages devant vous. Il incline légèrement la tête vers eux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous notez un léger tremblement dans la voix de Vatnir. Vous semblez avoir touché un point sensible.</DefaultText>
+      <FemaleText>Vous notez un léger tremblement dans la voix de Vatnir. Vous semblez avoir touché un point sensible.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Les têtes s'inclinent à nouveau parmi l'assemblée, et les prières chuintantes agitent l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Donc, si nous pouvions avoir le plaisir de votre présence, Oracle du crépuscule, nous avons préparé un festin... du moins, à l'échelle de nos modestes moyens, pour votre-"
+
+Ses paroles sont interrompues par une secousse qui fait trembler le sol sous vos pieds.</DefaultText>
+      <FemaleText>"Donc, si nous pouvions avoir le plaisir de votre présence, Oracle du crépuscule, nous avons préparé un festin... du moins, à l'échelle de nos modestes moyens, pour votre-"
+
+Ses paroles sont interrompues par une secousse qui fait trembler le sol sous vos pieds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Exactement. Que vous vouliez causer le désordre ou non, le chaos gronde dans votre sillage. Vous avez été élu, que vous le vouliez ou pas."</DefaultText>
+      <FemaleText>"Exactement. Que vous vouliez causer le désordre ou non, le chaos gronde dans votre sillage. Vous avez été élue, que vous le vouliez ou pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ce n'est pas la mort que nous cherchons. Mais l'oubli. Le calme final qui rend toutes les choses égales. L'échappatoire au cycle sans fin et tortueux de mort et de renaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"La... la messagère revient !"
+
+Vatnir indique du doigt l'entrée du sanctuaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vatnir se recroqueville sur lui-même, les mains entrelacées sur sa tête bandée pour la protéger. Il ne réagit absolument pas à votre présence.</DefaultText>
+      <FemaleText>Vatnir se recroqueville sur lui-même, les mains entrelacées sur sa tête bandée pour la protéger. Il ne réagit absolument pas à votre présence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je ne me cache pas ! J'ai juste... j'avais un sacrifice, quelque chose que je réservais à la messagère, et je n'arrivais pas à le retrouver, c'est pour ça que je le cherchais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Quand j'ai tué votre messagère, Rymrgand n'a pas eu un seul mot pour s'en plaindre. Et les dieux ne sont &lt;i&gt;pas&lt;/i&gt; timides avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"La bête est morte. Vous pouvez sortir, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"C'est... tant mieux. Qu'elle soit morte. Elle harassait le Bastion depuis... des années, maintenant. Mais les gens continuent d'arriver. Et elle continue de... manger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"À chaque fois qu'elle arrive, la glace s'étend plus loin. Je... Je ne savais pas comment y mettre fin. Alors, je vous ai écrit."</DefaultText>
+      <FemaleText>"À chaque fois qu'elle arrive, la glace s'étend plus loin. Je... Je ne savais pas comment y mettre fin. Alors, je vous ai écrit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Que pouvez-vous me dire sur cette créature ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je ne sais pas quoi vous dire. C'est une dragonne. Ou ça y ressemble. Et assez pourrie pour que la lier au dieu de la décomposition puisse sembler raisonnable."</DefaultText>
+      <FemaleText>"Je ne sais pas quoi vous dire. C'est une dragonne. Ou ça y ressemble. Et assez pourrie pour que la lier au dieu de la décomposition puisse sembler raisonnable."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Non. Quelles que soient les réponses que vous cherchez, vous avez toutes les chances de les trouver au sein du temple. Le temple sous la glace."</DefaultText>
+      <FemaleText>"Non. Quelles que soient les réponses que vous cherchez, vous avez toutes les chances de les trouver au sein du temple. Le temple sous la glace."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je vais jeter un œil sur ce portail, et vous allez venir avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Il y a un temple sous la glace ? Qu'est-ce qu'il fabrique dans un iceberg ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je n'en sais rien ! Je pense que c'est peut-être l'iceberg qui s'est formé autour du temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Peut-être que c'est à cause du Vytmádh. Plus on s'en rapproche, plus il fait froid."</DefaultText>
+      <FemaleText>"Peut-être que c'est à cause du Vytmádh. Plus on s'en rapproche, et plus tout se refroidit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Qu'est-ce que c'est que ce Vytmádh ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tout comme la Brèche du givre, c'est un passage à travers les parois du monde. De celui-ci vers le prochain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Expliquez-moi juste comment me rendre à cette gueule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous allez devoir escalader la falaise surplombant le Bastion des Envoyés. On ne connaît que cette façon d'entrer. Tenez, ça devrait vous aider."
+
+Il tire une paire de piolets à glace des ordures situées derrière lui et vous les passe, les mains tremblantes.</DefaultText>
+      <FemaleText>"Il vous faudra escalader la falaise qui surplombe le Bastion des Envoyés. Nous ne connaissons que cette entrée. Tenez, ça devrait vous aider."
+
+Il tire une paire de pics à glace du tas d'objets épars situé derrière lui et vous les passe, les mains tremblantes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Quoi ? Je ne suis pas... On a besoin de moi, les miens ont besoin de moi. Ici."
+
+Il vous incite à partir, de ses mains ouvertes.</DefaultText>
+      <FemaleText>"Quoi ? Je ne suis pas... On a besoin de moi, les miens ont besoin de moi. Tenez."
+
+Il vous incite à partir, de ses mains ouvertes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Alors, restez ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Choisissez entre le risque d'aller avec moi au temple ou celui de subir la colère de vos fidèles quand je leur apprendrai quel charlatan vous êtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"C'est bon, c'est bon, je... je vais vous accompagner au Vytmádh. Puissent les dieux nous protéger."
+
+Les bras serrés autour de son torse, il se berce lui-même.</DefaultText>
+      <FemaleText>"C'est bon, c'est bon, je... je vais vous accompagner au Vytmádh. Puissent les dieux nous protéger."
+
+Les bras serrés autour de son torse, il se berce lui-même.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"M-merci..."</DefaultText>
+      <FemaleText>"M-merci..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"La messagère vous attend. Je suivrai de près."</DefaultText>
+      <FemaleText>"Le messager vous attend. Je suivrai de près."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Un retour à la vie, privé d'expérience comme de compréhension. Dans l'ignorance. Sur le point de souffrir encore. De répéter nos erreurs. Éternellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Échouer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Mais la Bête nous épargnerait cette souffrance. Elle nous offrirait le soulagement. La grâce."
+
+Il incline légèrement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"En vérité, je vous le dis, je viens vous délivrer de vos tourments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je ne sers qu'un dieu, et ce n'est pas Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je ne suis le saint homme de personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Soupirer bruyamment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"C'est exactement ce que je me disais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nous autres élus avons rarement notre mot à dire dans notre élection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ah. Pour une fois, les responsabilités divines touchent quelqu'un d'autre que moi." Tekēhu pousse un soupir de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Et nous nous réjouissons, certes, de recevoir votre réconfort."</DefaultText>
+      <FemaleText>"Et nous nous réjouissons, certes, de recevoir votre réconfort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Un maigre réconfort toutefois, quand on pense à tous les malheurs que nous traversons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Toutes les actions, et tous les dieux, finissent par servir la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Gaun est tout autant le dieu des fins que la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Notre dieu à tendance à piétiner un peu tout, au cas où vous vous feriez des idées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vous ne pouvez pas vous amuser à renommer les gens sans leur demander leur avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je n'ai fait que révéler ce qui m'a été révélé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ydwin vous jette un regard méfiant.</DefaultText>
+      <FemaleText>Ydwin vous jette un regard méfiant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Si j'avais su que quelqu'un aurait remarqué notre passage je me serais mieux sapé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous voulez dire qu'il y aurait d'autres manières de gouverner que par la force ? On ne voit que peu d'endroits où les choses sont bien organisées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Qui a éparpillé les Ethik Nôl sanguinaires et sans foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"C'est ce que je fais quand je rencontre une secte de dingues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ça, c'était pour Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Mais plus sérieusement, les émeutes étaient entièrement imputables à un dénommé Thaos..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Qui ça ? Jamais entendu parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Absolument. Mais ce ton sous-entend une inquiétude persistante."</DefaultText>
+      <FemaleText>"Absolument. Mais ce ton sous-entend une inquiétude persistante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Est-ce cela qui m'a valu votre invitation ici ? Pour accomplir votre prophétie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous n'avez pas tort concernant le chaos dans mon sillage..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Selon les principes de Rymrgand, les fidèles devraient &lt;i&gt;accepter&lt;/i&gt; et même &lt;i&gt;accueillir&lt;/i&gt; la fin à bras ouverts, mais pas la chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"La Bête hivernale n'a pas besoin de précipiter la fin du monde. Et encore moins besoin de l'aide de ces tristes sires pour y parvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous trompez ces gens, et je compte y mettre fin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Vatnir garde le silence un moment. Son masque impassible cache son expression, mais l'angle de sa tête laisse à penser qu'il étudie votre question.</DefaultText>
+      <FemaleText>Vatnir garde le silence un moment. Son masque impassible cache son expression, mais l'angle de sa tête laisse à penser qu'il étudie votre question.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Peut-être plutôt pour tester votre rôle dans cette affaire, à mon avis. La prophétie se réalise d'elle-même. Mais votre identité d'Oracle du crépuscule... n'est pas encore irréfutable."</DefaultText>
+      <FemaleText>"Peut-être plutôt pour tester votre rôle dans cette affaire, à mon avis. La prophétie se réalise d'elle-même. Mais votre identité d'Oracle du crépuscule... n'est pas encore irréfutable."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Évidemment ! C'est à vous de le faire ! C'est pour ça que vous êtes ici !"</DefaultText>
+      <FemaleText>"Évidemment ! C'est ce que vous faites ! C'est pour ça que vous êtes ici !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"La fin approche, avec ou sans notre aide, comme vous le dites. Nous ne nous rassemblons pas ici parce que nous croyons qu'il a besoin de nous, mais parce que nous &lt;i&gt;savons&lt;/i&gt; que nous avons besoin de lui."</DefaultText>
+      <FemaleText>"La fin approche, avec ou sans notre aide, comme vous le dites. Nous ne nous rassemblons pas ici parce que nous croyons qu'il a besoin de nous, mais parce que nous &lt;i&gt;savons&lt;/i&gt; que nous avons besoin de lui."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"La mort n'est pas leur but, Gardien... Ceux-là cherchent une fin qui va au-delà de la mort. Un néant absolu."</DefaultText>
+      <FemaleText>"La mort n'est pas leur but, Gardienne... Ceux-là cherchent une fin qui va au-delà de la mort. Un néant absolu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Le cycle si bien représenté dans vos sombres traits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Le cycle pour lequel vous avez choisi de vous battre."</DefaultText>
+      <FemaleText>"Le cycle pour lequel vous avez choisi de vous battre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"&lt;i&gt;Voilà&lt;/i&gt; quelqu'un de l'extérieur qui semble très au fait de notre doctrine. Mais, qui sait, peut-être n'est-elle pas étrangère, au final."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"J'ai grandi parmi les Glamfellen. J'ai déjà entendu parler de tout ça." Les bras croisés et les sourcils froncés, Ydwin défie Vatnir du regard par-dessus les verres de ses lunettes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nous ne vous avons pas attribué votre titre sans raisons. Vous semblez destiné à de grandes choses. Des choses terribles."</DefaultText>
+      <FemaleText>"Nous ne vous avons pas attribué votre titre sans raisons. Vous semblez destinée à de grandes choses. Des choses terribles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Allez et témoignez... témoignez de son... message !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je suis avec vous. Je suppose."</DefaultText>
+      <FemaleText>"Je suis avec vous. Je suppose."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oui, oui, je suis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Finissons-en vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous... vous revoilà." Il se racle la gorge.</DefaultText>
+      <FemaleText>"Vous... vous revoilà." Il se racle la gorge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Rappelez-moi comment je peux rejoindre le temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Debout, chiffe molle !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"C'est bon, Vatnir. C'est terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ce n'est pas comme ça que j'imaginais &lt;i&gt;embrasser le néant&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Les vôtres sont en train de mourir et vous vous cachez ici ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Se racler la gorge]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Vatnir sursaute en entendant ce bruit, puis tourne lentement la tête pour vous regarder. Bien que son masque demeure froid et impassible, ses doigts crispés et ses épaules affaissées trahissent une terreur abjecte.</DefaultText>
+      <FemaleText>Vatnir sursaute en entendant ce bruit, puis tourne lentement la tête pour vous regarder. Bien que son masque demeure froid et impassible, ses doigts crispés et ses épaules affaissées trahissent une terreur abjecte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"À trop protéger un enfant, Gardien, il n'apprendra jamais."</DefaultText>
+      <FemaleText>"À trop protéger un enfant, Gardienne, il n'apprendra jamais."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Trembler solitaire dans un coin sombre d'une pièce cachée, c'est comme ça que nous autres Glamfellens démontrons notre affection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Le saint homme mettant en avant ses marques de vertu est un hypocrite et un charlatan. Quelle franche surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Très convaincant. C'est le bégaiement qui fait tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Quel genre de sacrifice ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Euh, hmm... c'est..." Il regarde autour de lui et sa voix s'évanouit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Je... Je ne sais pas quoi dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Comment cette communauté a-t-elle toléré l'infidèle à sa tête ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Dire à vos fidèles qu'il s'agissait d'une manifestation divine venue les accueillir dans le néant n'a évidemment pas contribué à jeter la confusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Savez-vous pourquoi cet iceberg existe ? Nous sommes loin des Blanches étendues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ce n'est pas ça... Je ne suis pas..." Sa tête retombe dans un long soupir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je... Nous sommes rares à avoir été touchés par les dieux. Et encore plus rares à l'avoir été par la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Atteindre l'âge adulte dans la Contrée... dans les Blanches étendues... est déjà suffisamment difficile sans l'engourdissement, la rigidité et la douleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ceux d'entre nous qui survivent... nos communautés attendent des choses de nous. La capacité à diriger. La sagesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Alors vous avez simplement endossé le rôle qui vous était offert, comme un costume bien taillé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Je suis devenu le chef qu'ils attendaient que je sois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Comment avez-vous fini ici, sur cet iceberg ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Nos anciens racontaient des histoires à propos de ce lieu, Vytmádh - la Gueule Blanche - et du néant sans fin qui se trouve au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Il y a quelques années de cela, un nommé Glasvahl a mené son clan vers la faille glacée d'Eir Glanfath, à la recherche d'un passage de ce monde vers le royaume de Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ils sont revenus avec le récit d'un portail vers le Néant blanc, et du froid qui en irradiait. Une histoire qui a rappelé le Vytmádh à beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ils ne sont jamais revenus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"L'histoire s'est transmise de bouche à oreille, puis tout le monde a commencé à se demander... Si Glasvahl a pu s'échapper, pourquoi pas nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Je crois que j'y ai vu une opportunité. Une chance de laisser la Contrée derrière moi. Alors, j'ai affirmé avoir eu une vision. Et que la Bête m'appelait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ça me rappelle quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Hocher la tête] "Allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Pardonnez-moi d'avoir demandé. Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Vatnir inspire rapidement, ses dents serrées produisant un gargouillis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Par exemple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Le mensonge a mieux marché que j'aurais pu l'imaginer. Et je ne manque pourtant pas d'imagination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Mais a fortiori suffisamment pour ne pas savoir comment quitter la Contrée en empruntant un bateau comme tout le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Avec quel argent ? Je n'en avais pas ! Et vous ? Comment avez-&lt;i&gt;vous&lt;/i&gt; pu payer le voyage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ydwin n'a rien à voir là-dedans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Bonne question. Comment avez-&lt;i&gt;vous&lt;/i&gt; payé votre passage vers les Républiques ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Ydwin vous adresse un signe de tête reconnaissant tandis que les yeux de Vatnir se plissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Non, je suppose que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Les yeux d'Ydwin s'écarquillent derrière ses lunettes, puis se détournent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"J'ai pris ce dont j'avais besoin à un homme mort. Je n'en dirai pas plus. Pas ici. Pas maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"C'est un troupeau plutôt impressionnant que vous avez rassemblé ici. M'est avis que nous avons bien des choses à nous enseigner mutuellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Je ne... on n'est pas des poissons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Si vous aimez les mensonges, on parlera des dieux quand vous aurez du temps à perdre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Le don d'Hylea vous a sûrement été bénéfique aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Le masque de Vatnir émet un souffle de mépris étouffé tandis qu'il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ça... ça ne vous regarde pas, prêtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Et vous osez me traiter d'hypocrite." Il souffle du nez avec mépris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Désormais, vous prenez ce dont vous avez besoin aux vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Cet endroit est sacré pour lui, alors peut-être que j'ai raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Vous voulez dire que vous ne manquez pas de fariboles." Elle gonfle ses joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Vers le Néant blanc, plus précisément, le trône de Rymrgand lui-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"En avez-vous la certitude ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"C'est ce que les histoires racontent. Personne qui y est allé n'est jamais revenu pour le confirmer, mais c'est un peu normal, non ?"</DefaultText>
+      <FemaleText>"C'est ce que les histoires racontent. Personne qui y est allé n'est jamais revenu pour le confirmer, mais c'est un peu normal, non ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Logique implacable, mon gars, et stable comme la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Le tuer] "Et ça, c'est pour les morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Vous venez me montrer le chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Le tuer sans un mot]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Il hoche la tête, abasourdi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[Vous en aller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Ses yeux se font globuleux alors que son sang éclabousse le sol gelé. Il s'écroule à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Comme vous voilà sympathique tout d'un coup. Vous essayez de vous débarrasser de nous, voire de nous envoyer périr sur la glace ?" 
+
+Maia plisse les yeux. Ishi imite sa réaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Non ! Je veux juste, je veux que vous réussissiez."</DefaultText>
+      <FemaleText>"Non ! Je veux juste, je veux que vous réussissiez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Qu'est-ce qui nous vaut cette soudaine hospitalité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Vous devez corriger ça, Vatnir. Aidez-moi à aider votre peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Vous finirez bien par faire face à Rymrgand. Ne vaut-il pas mieux décider par vous-même ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Je... je suppose que je leur dois bien ça." Ses yeux se perdent sur ses paumes bandées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Hah. Par moi-même." Comme si ça pouvait exister face à la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Quoi ? Non !" 
+
+Il s'écarte de vous.</DefaultText>
+      <FemaleText>"Quoi ? Non !" 
+
+Il s'écarte de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Nous devrons escalader la falaise surplombant le Bastion des Envoyés. Voilà qui aidera."
+
+Il extrait une paire de piolets à glace de ses affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Vraiment ?" Ydwin regarde sévèrement l'homme masqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Merci, Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Vous avez fait le bon choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Il hoche la tête, abasourdi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Prenez vos affaires. Vous venez avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[Partir] "Je dois partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Côté nord du Bastion se dresse un mur de glace. Vous allez devoir, euh, l'escalader. Prudemment. Puis descendre du côté opposé."</DefaultText>
+      <FemaleText>"Au bord nord-est du Bastion se dresse un mur de glace. Vous allez devoir, euh, l'escalader. Prudemment. Puis descendre du côté opposé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Je... ? Attendez, quoi ? Je ne peux pas ! J'ai des... responsabilités !" Vatnir s'agite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>L'horrible divin ricane discrètement tandis que le sang dégouline de sa bouche sans lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Le Vytmádh ne se fermera pas. La banquise s'étendra. Tout a une fin. Et vous autant que moi."</DefaultText>
+      <FemaleText>"Le Vytmádh ne se fermera pas. La banquise s'étendra. Tout a une fin. Et vous autant que moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Vous... lui avez &lt;i&gt;ôté la vie&lt;/i&gt; ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Vu les bateaux pris dans les glaces du coin, on dirait que votre iceberg prend de l'ampleur. Et vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Vatnir hoche la tête, tousse puis se racle la gorge à grand bruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"C'est vrai. Aussi étrange que ça puisse paraître, plus la banquise s'agrandit, plus elle semble s'étendre rapidement."
+
+Il s'essuie la bouche avec le dos de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ça ne semble vraiment pas inquiéter qui que ce soit par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Bien sûr que ça ne les inquiète pas. Ils prient Rymrgand de libérer notre monde de ses souffrances. Ça ressemble à une réponse de sa part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Nous discutions du Vytmádh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Tout ça est dangereusement proche de l'esclavagisme, capitaine Gardien. Et vous savez bien ce que je pense de ces saloperies."</DefaultText>
+      <FemaleText>"Tout ça fait plus que flirter dangereusement avec l'esclavagisme, Capitaine Gardienne. Et vous savez bien ce que je pense de ces saloperies."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Nous avons besoin de son aide pour régler ça, Serafen. Ce n'est que temporaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Compris. Bon, Vatnir, expliquez-moi comment atteindre ce temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Silence, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Tant que c'est pas plus que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>L'orlan se renfrogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Compris. On continuera sans Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Contrairement à vous, je parle aux dieux, et Rymrgand a dit que vous m'aideriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Il... il a dit ça ?" L'inspiration surprise et sifflante de Vatinr dégénère en une quinte de toux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Je suis juste derrière vous."</DefaultText>
+      <FemaleText>"Je suis juste derrière vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ouvrez la voie, Oracle du crépuscule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Je devrais renouveler ces pansements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Pourquoi m'écrire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Parce que vous êtes l'Oracle du crépuscule ?"
+
+Il émet un ricanement qui se perd dans une toux grasse et épaisse.</DefaultText>
+      <FemaleText>"Parce que vous êtes l'Oracle du crépuscule ?"
+
+Il émet un ricanement qui se perd dans une toux grasse et épaisse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>[Glousser poliment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"C'est vous qui n'arrêtez pas de le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Contentez-vous de répondre à la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Le titre est bien choisi." Il hausse les épaules, et les coins de sa bouche sans lèvres se relèvent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Mes excuses, mes excuses." Il s'écarte de vous.</DefaultText>
+      <FemaleText>"Mes excuses, mes excuses." Il s'écarte de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Vous avez une certaine réputation, n'est-ce pas ? Vous surmontez les obstacles. Vous triomphez."</DefaultText>
+      <FemaleText>"Vous avez une certaine réputation, n'est-ce pas ? Vous surmontez les obstacles. Vous triomphez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Le dragon est mort. Vous pouvez sortir, maintenant."</DefaultText>
+      <FemaleText>"Votre arrivée dans le Feu éteint semblait trop providentielle pour ne pas en profiter."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Alors la Morne banquise ne menace pas de s'étendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Oh, si, c'est précisément ce qui est en train d'arriver. Mais ce n'est simplement pas, euh... le premier de mes soucis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"La dragonne pose une menace plus imminente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Qui est... quoi, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"C'est la dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Mes bottes vont être le premier de vos soucis si vous ne crachez pas le morceau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Il hoche la tête, les mèches blanches de ses cheveux flottant doucement comme des flocons de neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Mes excuses, mes excuses." Il s'écarte de vous.</DefaultText>
+      <FemaleText>"Mes excuses, mes excuses." Il s'écarte de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Regardez-moi ça ! Si quelqu'un doit lui donner un surnom, c'est moi."</DefaultText>
+      <FemaleText>"Regardez-moi ça ! Si quelqu'un doit lui donner un surnom, c'est moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>La grappe d'yeux bleu arctique du divin cligne dans sa direction avant de se reposer sur vous.</DefaultText>
+      <FemaleText>La grappe d'yeux bleu arctique du divin cligne dans sa direction avant de se reposer sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Oui, oui, je suis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Je devrais renouveler ces pansements."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

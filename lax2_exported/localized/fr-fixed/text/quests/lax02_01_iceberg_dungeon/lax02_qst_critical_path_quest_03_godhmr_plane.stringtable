@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_godhmr_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Pont en flammes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Examinez le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez les fragments manquants de l'âme de Waidwen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rapporter les fragments de l'âme de Waidwen à l'instant qui précède l'explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai rejoint une autre partie du domaine de Rymrgand ; une scène du pont d'Evon Dewr, l'endroit où Éothas fut détruit par la bombe du Marteau divin. 
+
+Si j'arrive à les convaincre de me prêter main-forte, les esprits qui se trouvent ici pourront peut-être m'aider à affronter Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le pont d'Evon Dewr n'est pas ici par hasard. Quelqu'un ou quelque chose maintient ce lieu dans l'Au-delà, préservé au bord du néant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'explosion du Marteau divin a fragmenté l'âme de Waidwen. Dans cet état, il est incapable de penser clairement, et encore moins de m'aider. 
+
+D'après Éothas, le cadran solaire de Waidwen me permettra de passer d'un instant de l'explosion à un autre. Il me suffit pour ce faire de me tenir dans des rayons de lumière et de faire pivoter le cadran jusqu'à l'instant souhaité.
+
+Je peux peut-être me servir de cela pour rassembler les fragments de l'âme de Waidwen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>L'âme de Waidwen dresse un portrait de l'homme qu'il était avant de devenir un saint. 
+
+Restaurer les souvenirs à la version la plus intacte de lui-même devrait grandement contribuer à la restauration de son esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>La bataille qui eut lieu juste avant l'explosion de la bombe du Marteau divin a été figée dans le temps. Il sera peut-être possible de découvrir pourquoi en continuant d'explorer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>L'âme de saint Waidwen semble prise dans un cycle sans fin, revivant en boucle les événements de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Un fragment de l'âme de Waidwen a révélé qu'il a connu une enfance difficile et avait un père autoritaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Un fragment de l'âme de Waidwen a révélé qu'il a gardé en lui sa rancœur jusqu'à l'âge adulte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Un fragment de l'âme de Waidwen a révélé qu'il a fusionné avec Éothas et choisi de devenir un saint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Un quatrième fragment de l'âme de Waidwen se trouve au sein du Marteau divin lui-même. Je pourrais peut-être découvrir où ce trouve ce fragment insaisissable en enquêtant au sujet de la source de l'explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Lorsque j'ai tenté de le restaurer, je n'ai obtenu aucune réaction de la part de Waidwen. Il est possible qu'il ne soit cohérent que dans l'instant précédant l'explosion de la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé une prêtresse en train de canaliser un sort sous le pont. Elle est prise au piège dans une boucle, comme Waidwen, et son âme fragmentée n'arrive pas à se souvenir de l'incantation dont elle a besoin. Elle soupçonne l'avoir laissée dans la tour la plus au sud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai trouvé le souvenir d'une incantation laissée dans une tour. Je n'arrive pas à la lire, mais le texte aura peut-être de l'importance pour quelqu'un dans ce monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai remis à la prêtresse son incantation et j'ai découvert l'emplacement de la bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Un fragment de l'âme de Waidwen a révélé qu'au bout du compte, il avait compris et accepté son rôle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai persuadé Waidwen de se joindre à moi afin que je puisse le guider jusqu'à la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu Waidwen de se racheter en affrontant la dragonne, Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai décidé que le mieux serait que Waidwen soit détruit à tout jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai rejoint une autre partie du domaine de Rymrgand ; une scène du &lt;b&gt;pont d'Evon Dewr&lt;/b&gt;, l'endroit où &lt;b&gt;Éothas fut détruit&lt;/b&gt; par la &lt;b&gt;bombe du Marteau divin&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

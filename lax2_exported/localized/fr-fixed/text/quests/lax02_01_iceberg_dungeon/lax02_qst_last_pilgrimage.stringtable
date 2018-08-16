@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_last_pilgrimage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le dernier pèlerinage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pénétrer dans le Temple du givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Chercher des traces d'Ehrys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous occuper de la sœur de Brythe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retourner auprès de Brythe à la Demeure des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retourner auprès de Brythe à la Demeure des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retourner auprès de Brythe à la Demeure des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Il semble que la sœur de &lt;b&gt;Brythe&lt;/b&gt;, &lt;b&gt;Ehrys&lt;/b&gt;, ait été parmi les pèlerins. Elle espère que je puisse trouver quelque trace d'elle sur la &lt;b&gt;Morne banquise&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je n'ai vu personne répondant à la description d'&lt;b&gt;Ehrys&lt;/b&gt; au &lt;b&gt;Piton rocheux en hauteur&lt;/b&gt;. L'endroit suivant où effectuer des recherches serait le temple gelée au sein de la &lt;b&gt;Morne banquise&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je peux sans doute trouver &lt;b&gt;la sœur de Brythe&lt;/b&gt;, ou du moins ce qu'il reste d'elle, quelque part dans le &lt;b&gt;Temple du givre&lt;/b&gt;. Pour la trouver, je vais devoir explorer la structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ehrys est vivante, mais elle semble avoir la ferme intention de non seulement rester au temple, mais de transférer son âme dans l'un des automates gardiens qui s'y trouvent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ehrys a péri au Temple du givre. &lt;b&gt;Brythe&lt;/b&gt; voudra certainement être mise au fait du sort de sa sœur, même si je doute que la nouvelle lui fasse plaisir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai aidé Ehrys à transférer son âme de son corps à celui d'un automate de givre. Il faudrait que j'informe &lt;b&gt;Brythe&lt;/b&gt; de ce qui est arrivé à sa sœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai dû m'employer pour la convaincre, mais Ehrys a accepté de retourner auprès de sa sœur au &lt;b&gt;Bastion des Envoyés&lt;/b&gt; - si les Envoyés ne la tuent pas à son arrivée. Je devrais probablement m'assurer qu'elle a réussi à rejoindre &lt;b&gt;Brythe&lt;/b&gt; saine et sauve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Elle m'a demandé de l'aider et je doute qu'elle soit capable d'y arriver sans mes talents particuliers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai informé &lt;b&gt;Brythe&lt;/b&gt; de la mort de sa sœur. Elle en a eu le cœur brisé mais elle était heureuse de connaître avec certitude le sort de se sœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Horrifiée par la transformation de sa sœur en automate, &lt;b&gt;Brythe&lt;/b&gt; a quitté le Bastion des Envoyés pour aller trouver &lt;b&gt;Ehrys&lt;/b&gt; au &lt;b&gt;Temple du givre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Bien qu'elle ait été horrifiée par la transformation de sa sœur en automate, &lt;b&gt;Brythe&lt;/b&gt; a accepté de ne pas aller trouver &lt;b&gt;Ehrys&lt;/b&gt; au &lt;b&gt;Temple du givre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>&lt;b&gt;Brythe&lt;/b&gt; et &lt;b&gt;Ehrys&lt;/b&gt; se sont retrouvées au &lt;b&gt;Bastion des Envoyés&lt;/b&gt;. Brythe, au moins, est ravie de leurs retrouvailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai dit à &lt;b&gt;Brythe&lt;/b&gt; qu'&lt;b&gt;Ehrys&lt;/b&gt; était morte. Cela lui a peut-être brisé le cœur, mais au moins elle ne tentera pas d'aller retrouver sa sœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un invité d'honneur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lire la lettre cachetée à la cire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous rendre au Bastion des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parler à Vatnir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Enquêter au sujet du chahut dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouver Vatnir au Refuge des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une &lt;b&gt;lettre&lt;/b&gt; cachetée portant le symbole du dieu &lt;b&gt;Rymrgand&lt;/b&gt; m'est parvenue. Il faudrait que je la lise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Un messager a livré à mon navire un &lt;b&gt;parchemin de cuir&lt;/b&gt; cacheté portant l'&lt;b&gt;emblème de l'aurochs&lt;/b&gt;. Il faudrait que je le lise dès que j'en aurai l'occasion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Un groupe de gens qui se fait appeler les &lt;b&gt;Envoyés du crépuscule&lt;/b&gt; m'a envoyé une invitation afin que je me rende à un festin donné en mon honneur. Je ne sais pas qui ils sont, ni pourquoi ils souhaitent m'honorer. 
+
+Pour le découvrir, je dois me rendre au &lt;b&gt;Bastion des Envoyés&lt;/b&gt;, l'avant-poste du groupe sur la &lt;b&gt;Morne banquise&lt;/b&gt; - un &lt;b&gt;iceberg en expansion situé dans les mers du sud&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai appris que &lt;b&gt;Vatnir&lt;/b&gt;, le chef des Envoyés du crépuscule, est souvent en train de prêcher dans la chapelle qui se trouve au sein du &lt;b&gt;bâtiment principal de la communauté&lt;/b&gt;. Il devrait savoir pourquoi on m'a demandé de venir ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Le sermon de Vatnir au sujet de mon rôle à jouer dans la fin du monde et la mort de toute chose a été interrompu par un grand fracas au-dehors. Le tapage a déclenché un accès de joie curieux parmi les Envoyés. Il faudrait que je découvre ce qui se trame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; ne s'est pas rendu dehors. Maintenant que j'ai tué la messagère des Envoyés, une dragonne en décomposition, il faudrait que je retrouve le divin et que je lui demande ce qu'il se passe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; ne se trouve plus au sanctuaire, mais comme je ne l'ai pas vu dehors, il doit toujours être au &lt;b&gt;Refuge des Envoyés&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai dévoilé aux &lt;b&gt;Envoyés&lt;/b&gt; que &lt;b&gt;Vatnir&lt;/b&gt; était un imposteur. Il a pris la fuite, mais avant de le faire il a mentionné un temple niché dans les profondeurs de l'iceberg, un temple au sein duquel se trouve une brèche dans le tissu de la réalité qui pourrait servir de passage vers le &lt;b&gt;Néant blanc&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; m'a parlé d'un temple pris dans la glace, dans les profondeurs de l'iceberg. Ce temple abriterait soi-disant une brèche dans le tissu de la réalité ; un passage vers le &lt;b&gt;Néant blanc&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué &lt;b&gt;Vatnir&lt;/b&gt;. Dans un dernier souffle, il a mentionné un temple au sein de l'iceberg qui abrite une brèche dans le tissu de la réalité ; un passage menant au &lt;b&gt;Néant blanc&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Un groupe de gens appelés les &lt;b&gt;Envoyés du crépuscule&lt;/b&gt; m'ont demandé de me rendre à un festin donné en mon honneur au &lt;b&gt;Bastion des Envoyés&lt;/b&gt;, sur la &lt;b&gt;Morne banquise&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

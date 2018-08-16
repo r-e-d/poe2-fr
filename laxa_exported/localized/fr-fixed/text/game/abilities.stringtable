@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4700</ID>
+      <DefaultText>Vent de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4701</ID>
+      <DefaultText>Vrer Chiora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4702</ID>
+      <DefaultText>Saucco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4703</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4704</ID>
+      <DefaultText>Ynefer blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4705</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Chaînes des royaumes détruits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Torrent des royaumes détruits</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

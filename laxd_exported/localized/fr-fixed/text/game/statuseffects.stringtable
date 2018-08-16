@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Se transforme en une arme magique aléatoire au début de chaque combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Vous devenez invisible pendant {0:extravalue:duration} lorsque vous tuez un ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Les ennemis attaqués par le porteur requièrent un allié de plus pour Prendre à revers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Applique Confusion aux ennemis qui infligent au porteur une affliction touchant l'Intelligence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Petite chance d'invoquer un fléau de feu hostile en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Les ennemis infligent {0:value:percentbonus} de dégâts au porteur tant que leur Santé est au-dessus de 50 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Le porteur inflige {0:value:percentbonus} de dégâts aux ennemis dont la Santé est au-dessus de 50 %</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Zone de dégâts brûlants/contondants uniquement sur les cibles hostiles en passant Inconscient</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger des dégâts bruts de saignement sur la durée à l'ennemi ou au porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Tirez une carte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

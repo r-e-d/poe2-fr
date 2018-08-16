@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le territoire incommensurable de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explorez les mondes-échos et demandez aux âmes à l'origine de leur existence de vous aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Pénétrer dans la tanière de la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Échapper au Néant blanc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Rassembler les fragments d'âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Faites face à Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai pénétré dans le domaine glacial de &lt;b&gt;Rymrgand&lt;/b&gt;. Je ne peux espérer refermer le &lt;b&gt;Vytmádh&lt;/b&gt; qu'en retrouvant la trace de la dragonne &lt;b&gt;Neriscyrlas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai pénétré dans l'Au-delà, mais je n'ai pas encore trouvé la dragonne &lt;b&gt;Neriscyrlas&lt;/b&gt;. Je dois explorer plus en profondeur le royaume gelé de Rymrgand afin de la trouver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Neriscyrlas s'est réfugiée dans sa tanière, au cœur du Néant blanc. La gardienne Rynhaedr m'a dit qu'il serait périlleux de m'enfoncer plus profondément dans le domaine de Rymrgand sans l'aide de ceux qui y résident.
+
+Je pourrais explorer ces &lt;b&gt;domaines en décomposition&lt;/b&gt; afin d'y trouver une aide magique et peut-être obtenir l'aide des &lt;b&gt;âmes&lt;/b&gt; qui entretiennent leur existence au-dessus de l'abîme blême.
+
+Je pourrais également détruire les âmes, faisant ainsi don de leur essence à Rymrgand, afin de tenter d'obtenir la reconnaissance fugace du dieu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je ne peux faire grand-chose de plus dans le domaine de Rymrgand pour me préparer à affronter &lt;b&gt;Neriscyrlas&lt;/b&gt;.
+
+Pour la trouver, je dois descendre dans la fosse qu'elle a ouverte dans le &lt;b&gt;Passage écroulé&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Après ma confrontation avec elle, la tanière de Neriscyrlas s'est désagrégée, me laissant dans la morne toundra du Néant blanc.
+
+Rymrgand et Rynhaedr m'ont tous deux fait comprendre qu'aucun retour n'était possible de ces profondeurs. Pour leur donner tort et retourner en Eora, il va me falloir écumer le domaine en quête d'&lt;b&gt;une issue&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>J'ai vu un esprit attaquer Neriscyrlas, mais cette dernière l'a réduit en lambeaux. Si j'arrive à trouver les fragments de l'esprit, je pourrai peut-être le reconstituer et en savoir plus au sujet de la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Je suis descendu dans la &lt;b&gt;tanière de Neriscyrlas.&lt;/b&gt; 
+
+Je n'ai maintenant d'autre choix que de faire face à la dragonne qui a assailli le domaine de &lt;b&gt;Rymrgand's&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé le &lt;b&gt;roi Wingauro o Watūri I&lt;/b&gt; dans le &lt;b&gt;Royaume englouti&lt;/b&gt; et je l'ai obligé à faire face aux conséquences de ses actes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai libéré l'esprit enchaîné de l'&lt;b&gt;inquisitrice Naxiva&lt;/b&gt; de son interrogatoire sans fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai libéré &lt;b&gt;saint Waidwen&lt;/b&gt; de la boucle de destruction au &lt;b&gt;pont du Marteau divin&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Pour affronter &lt;b&gt;Neriscyrlas&lt;/b&gt;, je dois explorer le &lt;b&gt;Passage écroulé&lt;/b&gt; et trouver un moyen de rejoindre la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai trouvé un morceau de l'&lt;b&gt;âme fragmentée&lt;/b&gt; de la protectrice. Si je trouve les autres, peut-être en apprendrai-je plus au sujet de &lt;b&gt;Neriscyrlas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; a accepté de me libérer de &lt;b&gt;l'Au-delà&lt;/b&gt; ; il m'a suffi de lui promettre mon &lt;b&gt;âme&lt;/b&gt;. Lorsque je mourrai, mon âme sera détruite dans le &lt;b&gt;Néant blanc&lt;/b&gt;, et ne sera jamais réincarnée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; a accepté ma promesse d'être son &lt;b&gt;champion&lt;/b&gt; en Eora et m'a fait revenir au monde des vivants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai persuadé &lt;b&gt;Rymrgand&lt;/b&gt; de me renvoyer au monde des vivants pour me récompenser d'avoir détruit les âmes du &lt;b&gt;roi Wingauro o Watūri I&lt;/b&gt;, de l'&lt;b&gt;inquisitrice Naxiva ix Kirent&lt;/b&gt; et de &lt;b&gt;saint Waidwen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai convaincu &lt;b&gt;Rymrgand&lt;/b&gt; de me renvoyer au monde des vivants en lui rappelant les services que j'ai rendus jadis en son nom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai tenu tête à &lt;b&gt;Rymrgand&lt;/b&gt; et j'ai vaincu son champion en combat singulier. Il m'a fait retourner sans ménagement au monde des vivants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai sacrifié &lt;b&gt;Ydwin&lt;/b&gt; à &lt;b&gt;Rymrgand&lt;/b&gt; en échange de ma propre libération de &lt;b&gt;l'Au-delà&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

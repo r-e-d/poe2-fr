@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_si_whitevoid_rymrgand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>181</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La voix de Rymrgand jaillit des entrailles de la Bête hivernale. Bien que la bouche de la créature reste figée, vous pouvez clairement entendre les paroles du dieu malgré les grondements de la glace qui vous entoure.</DefaultText>
+      <FemaleText>La voix de Rymrgand jaillit des entrailles de la Bête hivernale. Bien que la bouche de la créature reste figée, vous pouvez clairement entendre les paroles du dieu malgré les grondements de la glace qui vous entoure.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous êtes maintenant au plus profond de mon domaine, dans un royaume dont personne ne peut revenir."</DefaultText>
+      <FemaleText>"Vous êtes maintenant au plus profond de mon domaine, dans un royaume dont personne ne peut revenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"J'ai détruit la dragonne, comme vous me l'avez demandé. J'ai rempli ma part de marché, à vous de remplir la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Berath ne sera pas heureux si je n'accomplis pas la tâche qu'ils m'ont donnée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je ne peux permettre à une âme imprégnée du froid du Néant blanc de quitter ce plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous pouvez retourner dans le royaume des mortels en récompense pour ce que vous avez fait.
+
+"Mais en vous sommeillera mon carillon. Et quand vous mourrez, votre âme retournera au Néant blanc."</DefaultText>
+      <FemaleText>"Vous pouvez retourner dans le royaume des mortels en récompense pour ce que vous avez fait.
+
+"Mais en vous sommeillera mon carillon. Et quand vous mourrez, votre âme retournera au Néant blanc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je porte déjà le carillon de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ce n'est pas ce que nous avions conclu quand j'ai accepté de m'occuper de Neriscyrlas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Donc, quand je mourrai, c'est ça ? Mon âme ne retournera pas dans le cycle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mon carillon assurera que votre âme retourne au Néant blanc à votre mort."</DefaultText>
+      <FemaleText>"Mon carillon assurera que votre âme retourne au Néant blanc à votre mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Berath n'aura que faire de votre carillon une fois accomplie la tâche qui vous a été confiée. Et si vous périssez, vous n'en aurez pas besoin dans la mort."</DefaultText>
+      <FemaleText>Berath n'aura que faire de votre carillon une fois accomplie la tâche qui vous a été confiée. Et si vous périssez, vous n'en aurez pas besoin dans la mort.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ce royaume est gouverné par des lois immuables, et je ne les ignorerai pas pour vous arranger."</DefaultText>
+      <FemaleText>"Ce royaume est gouverné par des lois immuables, et je ne les ignorerai pas pour vous arranger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous connaissez vos choix. Acceptez mon carillon, ou restez ici."</DefaultText>
+      <FemaleText>"Vous connaissez vos choix. Acceptez mon carillon, ou restez ici."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"C'était donc votre plan depuis le début ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Rynhaedr disait que vous vouliez que ces âmes soient détruites. Alors, je les ai détruites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Et si tel était le cas, quelle importance à présent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je suis toujours un outil des dieux. Pourquoi me détruire maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"L'ultime fin est notre destin à tous, un jour ou l'autre. J'accepte votre marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je compte me rallier à votre cause, comme je l'ai fait il y a des années dans la Salle des étoiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'aime casser des trucs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je n'avais pas prévu votre désir de reprendre le rôle de mon élu.
+
+"Et pourtant, vous voici devant moi, arborant l'apparat de Rynhaedr."</DefaultText>
+      <FemaleText>"Je n'avais pas prévu votre désir de reprendre le rôle de mon élue.
+
+"Et pourtant, vous voici devant moi, arborant l'apparat de Rynhaedr."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je ne cherche pas un nouveau maître. Je suis juste là pour m'en mettre plein les poches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mes gardiens sont les gardiens de ce domaine, chargés de me servir à jamais.
+
+"Si vous vous appropriez cette armure et, par là-même, cette obligation, vous rejoindrez leurs rangs et, à votre mort, vous vous joindrez à moi."</DefaultText>
+      <FemaleText>"Mes gardiens sont les gardiens de ce domaine, chargés de me servir à jamais.
+
+"Si vous vous appropriez cette armure et, par là-même, cette obligation, vous rejoindrez leurs rangs et, à votre mort, vous vous joindrez à moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je refuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je me mets à votre service, Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"L'utilité d'un outil est limitée. Jetez un œil à mon royaume, et voyez ce qu'il advient des outils des dieux quand leurs limites sont atteintes."</DefaultText>
+      <FemaleText>"L'utilité d'un outil est limitée. Jetez un œil à mon royaume, et voyez ce qu'il advient des outils des dieux quand leurs limites sont atteintes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vos Envoyés m'appellent l'Oracle du crépuscule. Je n'ai pas reçu ce nom pour rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'ai accompli toutes les tâches que les dieux m'ont données."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je ne suis pas comme eux. Je suis meilleur. Les dieux ont &lt;i&gt;besoin&lt;/i&gt; de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Toutes leurs tâches, et plus encore. Il ne semble pas exister un seul kith en Eora qui n'ait pas besoin de votre aide, et vous êtes bien prompt à leur accorder, qu'ils le demandent ou non.
+
+"La gloire que vous avez accumulée en si peu de temps est véritablement... impressionnante."</DefaultText>
+      <FemaleText>"Toutes leurs tâches, et plus encore. Il ne semble pas exister un seul kith en Eora qui n'ait pas besoin de votre aide, et vous êtes bien prompte à leur accorder, qu'ils le demandent ou non.
+
+"La gloire que vous avez accumulée en si peu de temps est véritablement... impressionnante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Pour le moment. Mais quand leur outil préféré ne leur conviendra plus... qu'arrivera-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous pouvez disposer."
+
+Un éclair passe dans les yeux de la Bête, et le vent mordant commence à souffler.</DefaultText>
+      <FemaleText>"Vous pouvez disposer."
+
+Un éclair passe dans les yeux de la Bête, et le vent mordant commence à souffler.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Mensonges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"C'était inévitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>La lueur des yeux de la Bête s'intensifie un instant. Quelque chose bouge dans votre poitrine, comme une créature en hibernation, taillée dans la glace, blottie contre votre sternum. Un étrange engourdissement vous envahit le torse.</DefaultText>
+      <FemaleText>La lueur des yeux de la Bête s'intensifie un instant. Quelque chose bouge dans votre poitrine, comme une créature en hibernation, taillée dans la glace, blottie contre votre sternum. Un étrange engourdissement vous envahit le torse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'accepte votre serment, Gardien de Caed Nua."
+
+La Bête frappe deux fois le sol du bas du manche de sa hache et hoche la tête.</DefaultText>
+      <FemaleText>"J'accepte votre serment, Gardienne de Caed Nua."
+
+La Bête frappe deux fois le sol du bas du manche de sa hache et hoche la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"La destruction sans autre objectif que le plaisir du chaos semé est l'acte d'une bête écervelée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"J'ai appris à éviter les marchés avec les dieux de la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Un éclair passe dans les yeux de la Bête. Elle lève sa hache bien haut avant de frapper le sol d'une force qui manque de vous renverser.
+
+Un craquement sec fend l'air.</DefaultText>
+      <FemaleText>Un éclair passe dans les yeux de la Bête. Elle lève sa hache bien haut avant de frapper le sol d'une force qui manque de vous renverser.
+
+Un craquement sec fend l'air.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"J'accepte votre serment, Gardien de Caed Nua."
+
+La Bête frappe deux fois le sol du bas du manche de sa hache et hoche la tête.</DefaultText>
+      <FemaleText>"J'accepte votre serment, Gardienne de Caed Nua."
+
+La Bête frappe deux fois le sol du bas du manche de sa hache et hoche la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eora ne manque pas de kiths indiscrets capables de mener la mission de Berath à bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Effectivement, les Envoyés gratifient de titres très littéraux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"La créature n'est plus. Bien. Donnez-moi la relique que vous portez. Je la laverai de la souillure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"La dragonne n'est plus, et sa marque ne souille plus la relique. Bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je vous ai demandé de détruire Neriscyrlas, mais vous l'avez menée jusqu'au cœur de mon royaume."
+
+La Bête soupèse le phylactère laissé par la dragonne.</DefaultText>
+      <FemaleText>"Je vous ai demandé de détruire Neriscyrlas, mais vous l'avez menée jusqu'au cœur de mon royaume."
+
+La Bête soupèse le phylactère laissé par la dragonne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"La présence de la dragonne n'est plus, mais je n'ai pas senti son âme entrée dans le Néant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Cette relique que vous lui avez prise... donnez-la-moi, je vais la purifier de la souillure de la dragonne."</DefaultText>
+      <FemaleText>"Cette relique que vous lui avez prise... donnez-la-moi, je vais la purifier de la souillure de la dragonne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Donner la relique à la Bête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Non, elle est à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Comment comptez-vous la laver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Donnez-moi la relique, ou ne me la donnez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Prenez-la avec vous quand vous quitterez ces lieux, alors. Et demandez aux dieux de vous protéger." Un sourd gloussement agite le poitrail de la Bête.</DefaultText>
+      <FemaleText>"Prenez-la avec vous quand vous quitterez ces lieux, alors. Et demandez aux dieux de vous protéger." Un sourd gloussement agite le poitrail de la Bête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Donner la relique à la Bête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Non, elle est à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Comment comptez-vous la laver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ce n'était pas une requête." Le phylactère s'échappe de vos mains et file vers la Bête qui l'attrape en plein vol.</DefaultText>
+      <FemaleText>"Ce n'était pas une requête." Le phylactère s'échappe de vos mains et file vers la Bête qui l'attrape en plein vol.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Le phylactère s'échappe de vos mains et flotte vers la Bête. Il l'attrape en plein vol.</DefaultText>
+      <FemaleText>Le phylactère s'échappe de vos mains et flotte vers la Bête. Il l'attrape en plein vol.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Un éclair passe dans l'œil de la Bête. Une fumée d'essence émane de la relique et se perd dans le Néant.
+
+Il vous la rend.</DefaultText>
+      <FemaleText>Un éclair passe dans l'œil de la Bête. Une fumée d'essence émane de la relique et se perd dans le Néant.
+
+Il vous la rend.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Le phylactère s'échappe de vos mains et flotte vers la Bête. Il l'attrape en plein vol.</DefaultText>
+      <FemaleText>Le phylactère s'échappe de vos mains et flotte vers la Bête. Il l'attrape en plein vol.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Un éclair passe dans l'œil de la Bête et vous entendez un hurlement de haine dans votre esprit.</DefaultText>
+      <FemaleText>Un éclair passe dans l'œil de la Bête et vous entendez un hurlement de haine dans votre esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"J'ai agi comme vous me l'avez demandé : je vous ai envoyé cette dragonne. Vous m'en devez une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Que voulez-vous dire, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je vous ai dit de tuer la dragonne Neriscyrlas, et vous ne l'avez pas fait."</DefaultText>
+      <FemaleText>"Je vous ai dit de tuer la dragonne Neriscyrlas, et vous ne l'avez pas fait."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Vous pourriez encore m'être utile à l'avenir."</DefaultText>
+      <FemaleText>"Vous pourriez encore m'être utile à l'avenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Vous n'avez rien fait pour moi."</DefaultText>
+      <FemaleText>"Vous n'avez rien fait pour moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je souhaite négocier ma liberté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous ne possédez rien qui puisse m'intéresser."</DefaultText>
+      <FemaleText>"Vous ne possédez rien qui puisse m'intéresser."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Prenez Ydwin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ydwin se tourne lentement vers vous, ses yeux carmin plissés derrière ses lunettes de bronze.</DefaultText>
+      <FemaleText>Ydwin se tourne lentement vers vous, ses yeux carmin plissés derrière ses lunettes de bronze.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Une proposition convaincante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je n'appartiens pas au Gardien. Je ne suis pas à négocier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>À côté de vous, Ydwin se raidit. Sa mine anxieuse se change en un masque égal, sans expression. Les courbes marquées de ses épaules s'affaissent alors qu'elle interrompt le tapotement nerveux de son pied sur la plateforme, démarré quelques instants plus tôt.
+
+Une lumière bleue embrase ses yeux, remplaçant le rouge vif habituel. Elle approche à pas laborieux, saccadés, de la Bête hivernale.</DefaultText>
+      <FemaleText>À côté de vous, Ydwin se raidit. Sa mine anxieuse se change en un masque égal, sans expression. Les courbes marquées de ses épaules s'affaissent alors qu'elle interrompt le tapotement nerveux de son pied sur la plateforme, démarré quelques instants plus tôt.
+
+Une lumière bleue embrase ses yeux, remplaçant le rouge vif habituel. Elle approche à pas laborieux, saccadés, de la Bête hivernale.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Une énorme bourrasque de vent rugit dans tout le royaume. Elle frappe Ydwin dans le dos, et vous percevez à peine son propre cri étouffé avant que le vent souffle &lt;i&gt;à travers&lt;/i&gt; elle, avec une telle force qu'il arrache la peau de ses os.
+
+Puis le vent se tait, et ne reste d'Ydwin qu'un tas de fine poussière grise.</DefaultText>
+      <FemaleText>Une énorme bourrasque de vent rugit dans tout le royaume. Elle frappe Ydwin dans le dos, et vous percevez à peine son propre cri étouffé avant que le vent souffle &lt;i&gt;à travers&lt;/i&gt; elle, avec une telle force qu'il arrache la peau de ses os.
+
+Puis le vent se tait, et ne reste d'Ydwin qu'un tas de fine poussière grise.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Bon sang, Gardien ! Je sais qu'elle n'était pas la plus amicale, mais elle ne méritait pas cela !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Bordel, cap'taine Gardien !? Moitié vivante ou non, la donzelle ne vous appartenait pas !"</DefaultText>
+      <FemaleText>"Bordel, cap'taine Gardienne !? Moitié vivante ou non, la donzelle ne vous appartenait pas !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Comment avez-vous pu faire cela ? Ydwin ne méritait pas un tel sort !"</DefaultText>
+      <FemaleText>"Comment avez-vous pu faire cela ? Ydwin ne méritait pas un tel sort !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Kabelay ! Comment avez-vous pu faire cela ?"</DefaultText>
+      <FemaleText>"Kabelay ! Comment avez-vous pu faire cela ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je suppose qu'on ferait &lt;i&gt;tous&lt;/i&gt; mieux de faire attention à nous, hein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Fassina siffle entre ses dents. "Si j'avais su que je risquais de finir en fourrage pour aurochs, je serais resté avec Arkemyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Tekēhu s'avance. "Capitaine ! Je préférerais couper mes appendices que de vous laisser sacrifier notre elfe des neiges. Je ne peux porter seul le fardeau de la beauté."</DefaultText>
+      <FemaleText>Tekēhu s'avance. "Capitaine ! Je préférerais couper mes appendices que de vous laisser sacrifier notre elfe des neiges. Je ne peux porter seul le fardeau de la beauté."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je sais que vous essayez d'être dans les petits papiers de la vache bavarde, mais il y a de meilleurs moyens." Edér croise les bras.</DefaultText>
+      <FemaleText>"Je sais que vous essayez d'être dans les petits papiers de la vache bavarde, mais il y a de meilleurs moyens." Edér croise les bras.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Gardien, vous ne pouvez agir ainsi. Quoi que soit Ydwin, elle ne mérite pas un tel sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"J'ai formulé ma proposition. Prenez-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Désolé, je ne sais pas à quoi je pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Elle accorde si peu de valeur à sa vie. Peut-être devrais-je la prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Maia se racle la gorge. "Je n'ai pas spécialement envie de me mêler de vos affaires, capitaine, mais nous ne pouvons pas vraiment nous permettre de réduire l'équipage. En plus, je l'aime bien."</DefaultText>
+      <FemaleText>Maia se racle la gorge. "Je n'ai pas spécialement envie de me mêler de vos affaires, capitaine, mais nous ne pouvons pas vraiment nous permettre de réduire l'équipage. En plus, je l'aime bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Ses bras rachitiques croisés, Vatnir regarde sans rien dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Tel est le prix à payer pour échapper à la vie et à la mort de ce monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Quoi ? Comment se... se fait-il que je ne porte pas la marque du Néant ? Avant de venir ici, je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Le Néant m'appartient, mais je ne suis pas le Néant. Ma marque n'est pas sa marque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Cela veut dire que vous avez d'autres... euh... lieux ?... Royaumes, je suppose, comme celui-ci ?"</DefaultText>
+      <FemaleText>"Cela veut dire que vous avez d'autres... euh... lieux ?... Royaumes, je suppose, comme celui-ci ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous méprenez votre apparence pour un choix."</DefaultText>
+      <FemaleText>"Vous méprenez votre apparence pour un choix."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"C'est juste que... je suppose que je me demandais pourquoi vous infligiez ça... à moi... à tout le monde. S'il y avait d'autres options."
+
+Ses doigts fins essuient un filet de bave de sa bouche sans lèvres.</DefaultText>
+      <FemaleText>"C'est juste que... je suppose que je me demandais pourquoi vous infligiez ça... à moi... à tout le monde. S'il y avait d'autres options."
+
+Ses doigts fins essuient un filet de bave de sa bouche sans lèvres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"La seule option était de lui infliger une vie de douleur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous lui devez des réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Il y a plus important que votre visage, Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"La vie est faite de souffrance. Jusqu'à la fin. Telle est la miséricorde que j'apporte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Je suis un elfe ! Votre miséricorde n'est pas pour tout de suite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Par rapport à l'éternité qu'est mon existence, vous n'êtes qu'une fraction de souffle.
+
+"Mais si vous voulez que je réclame votre âme en avance, il vous suffit de me décevoir."</DefaultText>
+      <FemaleText>"Par rapport à l'éternité qu'est mon existence, vous n'êtes qu'une fraction de souffle.
+
+"Mais si vous voulez que je réclame votre âme en avance, il vous suffit de me décevoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Je ne lui dois rien. Je lui ai tout donné. Et je n'ai rien récupéré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Récupéré ? Qu'est-ce que cela signifie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Cela veut dire que vous ne m'avez pas déçu. Pour le moment."</DefaultText>
+      <FemaleText>"Cela veut dire que vous ne m'avez pas déçu. Pour le moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Mais... cette opportunité... je n'en aurai pas d'autre !"
+
+Il ferme son poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Vous en aurez d'autres. Tout revient ici, au final. Le jour de votre mort, nous parlerons de nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Vous n'auriez pas pu en faire un divin de glace ? Un peu comme un divin de feu, mais avec des cheveux bleus plutôt que rouges ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Vatnir se hérisse et se détourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Vous êtes née de mes adorateurs des Blanches étendues."
+
+"Je peux vous récupérer, si je le souhaite."</DefaultText>
+      <FemaleText>"Vous êtes née de mes adorateurs des Blanches étendues."
+
+"Je peux vous récupérer, si je le souhaite."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Vous vous étoufferiez, créature."</DefaultText>
+      <FemaleText>"Vous vous étoufferiez, créature."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Nous avons des choses à régler, vous et moi."</DefaultText>
+      <FemaleText>"Nous avons des choses à régler, vous et moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Les yeux pâles de la Bête se détournent de Vatnir pour se concentrer sur vous.</DefaultText>
+      <FemaleText>Les yeux pâles de la Bête se détournent de Vatnir pour se concentrer sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Chaque dieu a ses agents. Vous êtes le mien. Si ce n'était pas le cas, vous n'existeriez pas.
+
+"Vous n'auriez pu être rien d'autre que ce que vous êtes, Vatnir."</DefaultText>
+      <FemaleText>"Chaque dieu a ses agents. Vous êtes le mien. Si ce n'était pas le cas, vous n'existeriez pas.
+
+"Vous n'auriez pu être rien d'autre que ce que vous êtes, Vatnir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"La Bête est implacable, et cette forme est aussi sombre et lugubre que le Néant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Une image digne de mon serviteur... et progéniture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>&lt;ispeech&gt;Menteur ! Traître ! Puisse votre âme étouffer la Bête !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Menteuse ! Traîtresse ! Puisse votre âme étouffer la Bête !&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Une fumée d'essence émane de la relique et disparaît dans le Néant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Je me débarrasse de la dragonne, comme vous l'avez demandé. J'ai rempli ma part de marché, à vous de remplir la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Maintenant que vous leur avez apporté l'information qu'ils cherchent, vous n'avez plus d'utilité aux yeux de Berath.
+
+"Ils se débarrasseront de vous, comme une bête se débarrasse d'un os suffisamment rongé."</DefaultText>
+      <FemaleText>"Maintenant que vous leur avez apporté l'information qu'ils cherchent, vous n'avez plus d'utilité aux yeux de Berath.
+
+"Ils se débarrasseront de vous, comme une bête se débarrasse d'un os suffisamment rongé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"J'ai déjà rallié Berath. Deux fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"J'ai déjà rallié Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"J'ai déjà rallié Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"J'ai déjà rallié Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"J'ai déjà rallié Skaen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Et vous trouvez qu'il s'est montré digne de vos services ?"</DefaultText>
+      <FemaleText>"Et vous trouvez qu'il s'est montré digne de vos services ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Oui, bien entendu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Je suppose que non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>La Bête hoche la tête. "Vous apprenez."</DefaultText>
+      <FemaleText>La Bête hoche la tête. "Vous apprenez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Vous avez si peu appris de votre séjour dans les plus profonds royaumes de l'Au-delà."</DefaultText>
+      <FemaleText>"Vous avez si peu appris de votre séjour dans les plus profonds royaumes de l'Au-delà."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Cela n'a jamais eu d'importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>La Bête hoche la tête. Bien que la créature ne puisse sourire, vous la sentez émettre une vive satisfaction.</DefaultText>
+      <FemaleText>La Bête hoche la tête. Bien que la créature ne puisse sourire, vous la sentez émettre une vive satisfaction.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Comptez-vous joindre les rangs de mes champions des glaces ?"</DefaultText>
+      <FemaleText>"Comptez-vous joindre les rangs de mes champions des glaces ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Je reviendrai donc dans le Néant blanc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Vous reviendrez, et vous y resterez. Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Je voulais gagner votre faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vous avez mon attention. Comptez-vous vous mettre à mon service ?"</DefaultText>
+      <FemaleText>"Vous avez mon attention. Comptez-vous vous mettre à mon service ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Rien n'empêche d'en porter deux, et celui de Berath ne vous servira à rien dans la mort."</DefaultText>
+      <FemaleText>"Rien n'empêche d'en porter deux, et celui de Berath ne vous servira à rien dans la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Je porte déjà deux carillons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Rien n'empêche d'en porter trois, et ceux des autres ne vous serviront à rien dans la mort."</DefaultText>
+      <FemaleText>"Rien n'empêche d'en porter trois, et ceux des autres ne vous serviront à rien dans la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ne me décevez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Vous m'avez été utile par le passé."</DefaultText>
+      <FemaleText>"Vous m'avez été utile par le passé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Peut-être n'êtes-vous pas fait pour vivre parmi les vivants."</DefaultText>
+      <FemaleText>"Peut-être n'êtes-vous pas faite pour vivre parmi les vivants."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ne me décevez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Vous avez promis de me servir dans la Salle des étoiles, et vous avez trahi cette promesse.
+
+"Vous avez peut-être oublié, mais ce n'est pas mon cas."</DefaultText>
+      <FemaleText>"Vous avez promis de me servir dans la Salle des étoiles, et vous avez trahi cette promesse.
+
+"Vous avez peut-être oublié, mais ce n'est pas mon cas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je n'ai que faire d'un outil dont la loyauté est partagée entre son devoir envers moi et son dévouement à sa propre légende."</DefaultText>
+      <FemaleText>"Je n'ai que faire d'un outil dont la loyauté est partagée entre son devoir envers moi et son dévouement à sa propre légende."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Je m'attendais à mieux de votre part. De votre part à tous les deux."
+
+Elle redresse ses épaules.</DefaultText>
+      <FemaleText>"Je m'attendais à mieux de votre part. De votre part à tous les deux."
+
+Elle redresse ses épaules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Prenez Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Qu... quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Non. Je pourrais le prendre à tout moment, mais je n'ai pas encore besoin de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Un revirement aussi soudain que curieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Très bien." La Bête hoche la tête, satisfaite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Je n'ai pas pour habitude d'accorder ma considération à des mortels.
+
+"Ne me décevez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Et je n'ai plus besoin de bêtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Alors, vous avez échoué."</DefaultText>
+      <FemaleText>"Alors, vous avez échoué."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>La Bête grogne et secoue sa lourde tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"La force qui maintenait intacte l'antre de la dragonne n'est plus. Elle est perdue dans le Néant, comme toutes choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Mais je pourrais envisager un compromis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Prenez Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Prenez Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Prenez Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Capitaine, comment dois-je le prendre ? Comment dois-je le supporter ?" Tekēhu ouvre grand des yeux pleins de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Votre lit sera bien froid, ce soir, m'est avis."</DefaultText>
+      <FemaleText>"Votre lit sera bien froid, ce soir, m'est avis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ma mère en entendra parler dans mes prières, capitaine. Vous aurez de la chance si elle se contente de couler votre navire." Tekēhu croise les bras et vous fixe intensément.</DefaultText>
+      <FemaleText>"Ma mère en entendra parler dans mes prières, capitaine. Vous aurez de la chance si elle se contente de couler votre navire." Tekēhu croise les bras et vous fixe intensément.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Xoti cligne des yeux, fronce les sourcils, puis adopte une position de combat, prête à se battre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>La Bête secoue la tête. "La lumière insistante d'Éothas brille en elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Di verus ? Si c'est une blague, elle ne me fait par rire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Je n'ai que faire d'un rejeton d'occasion d'Hylea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"L'âme du petit d'Ondra ne me revient pas." La Bête renâcle une bouffée d'air glacé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Votre hospitalité laisse à désirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Je n'ai rien à vous offrir d'autre que la douce libération de la mort."</DefaultText>
+      <FemaleText>"Je n'ai rien à vous offrir d'autre que la douce libération de la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Non merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Un éclair passe dans les yeux de la Bête. Une vapeur d'essence émane de la relique et se perd dans le Néant.
+
+Il la jette dans le neige, entre vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Prenez votre récompense. Sa présence ici m'offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Ne venez-vous pas de me demander de me débarrasser de ce phylactère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Je n'hésiterais pas à parier sur votre instinct de survie. C'est peut-être le seul sens qui ne vous fasse pas défaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

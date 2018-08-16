@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Résolution jusqu'à la fin du combat à chaque fois qu'un membre du groupe est assommé. Cumulable 4 fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>{0:value} à toutes les défenses en cas de coup porté. Pour chaque coup porté, le lanceur gagne {0:extravalue} à toutes les défenses (Cumulable {0:triggervalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Votre âme subit des dégâts persistants d'une attaque pendant qu'elle est sous Voile spirituel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Vous gagnez {0:value:percent} en conversion de coups portés en coups critiques toutes les {0:interval}. Cet effet est réinitialisé en cas de coup critique réussi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>(Bonus actuel : {0:value:percent}) Vous gagnez {0:extravalue:percent} en conversion de coups portés en coup critiques toutes les {0:interval}. Cet effet est réinitialisé en cas de coup critique réussi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>La Vitesse d'attaque augmente au fur et à mesure que la Santé baisse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Marcher génère une petite zone d'effet qui inflige Entrave aux ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>En cas de coup porté ou de coup critique, l'attaque suivante réussie du porteur inflige des dégâts givrants supplémentaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>L'attaque suivante réussie du porteur inflige des dégâts givrants supplémentaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>{0:Value:PercentBonus} aux dégâts contre Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>{0:value} à la Pénétration après avoir subi des dégâts givrants. Cumulable {0:extravalue:straight} fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Les attaques à l'arme infligent les dégâts les plus élevés entre contondants/givrants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger une affliction aléatoire de niveau 1 à un ennemi à proximité après s'être vu infliger une affliction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Lorsqu'un ennemi est tué, la durée des effets d'état hostiles sur les ennemis à proximité est augmentée de {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Les coups critiques ont {0:value:percent} de chances de geler l'ennemi pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger des dégâts givrants/perforants aux ennemis situés autour de la cible en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>La connaissance de l'arme Grand bouclier confère désormais {0:value:percent} de chances d'infliger des dégâts givrants lorsqu'une attaque ennemie rate son porteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>{0:statuseffects} à chaque fois qu'une attaque rate le porteur. Cumulable 5 fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Requiert 2 mains, mais inflige des dégâts accrus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Infliger un coup critique à un ennemi lui fait subir des dégâts bruts sur la durée. À chaque fois que cet ennemi inflige des dégâts, la durée augmente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice infligent des dégâts aux ennemis à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice guérissent les alliés à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger des dégâts corrosifs sur la durée lorsqu'on subit un coup porté à l'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Bonus aux chances de conversion de coups portés en coups critiques avec les Anguilles jumelles. Les chances augmentent en fonction de la compétence Religion du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Guérison sur une ZdE lorsqu'un ennemi est tué avec les Anguilles jumelles. La quantité de Santé guérie augmente en fonction de la compétence Religion du porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>{0:value:percent} de chances d'appliquer une ZdE de dégâts contondants qui effectue une interruption en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>{0:value:percent} de chances d'appliquer une ZdE de dégâts contondants qui effectue une interruption et inflige une Immobilisation en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>{0:value:percent} de chances de réduire la Pénétration d'arme de la cible de {0:extravalue} pendant {0:triggervalue:duration} lorsqu'un coup critique est porté avec une arme de corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Lorsque le porteur tombe inconscient, il inflige d'importants dégâts brûlants aux ennemis à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Les ennemis à proximité ont {0:value:percentbonus} en Allure pendant {0:extravalue:duration} après que le porteur effectue un coup porté au moyen d'une attaque de désengagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Le porteur reçoit un Engagement bonus à mesure que sa Santé faiblit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>{0:value:percent} de chances de conversion de coups critiques en coups simples pour les attaques de l'ennemi hors Perforation du Voile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>{0:value:percentbonus} aux dégâts subis d'attaques hors Perforation du Voile</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

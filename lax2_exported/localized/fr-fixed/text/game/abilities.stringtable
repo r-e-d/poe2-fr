@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4146</ID>
+      <DefaultText>Protection du Marteau divin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>Lorsqu'il est Proche de la mort, le porteur reçoit un bonus d'Armure et inflige des dégâts brûlants à ceux qui l'attaquent au corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Allégeance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4372</ID>
+      <DefaultText>Vie à travers la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4373</ID>
+      <DefaultText>Flamme finale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4374</ID>
+      <DefaultText>Prompt à la rébellion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Souffle corrosif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4457</ID>
+      <DefaultText>Absorption d'essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4459</ID>
+      <DefaultText>Déchiquetage d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4460</ID>
+      <DefaultText>Libération d'âmes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4461</ID>
+      <DefaultText>Libération d'âmes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4462</ID>
+      <DefaultText>Mort insidieuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4463</ID>
+      <DefaultText>Éclats glacés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4464</ID>
+      <DefaultText>Destruction d'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Brume glaçante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>Explosion glacée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4471</ID>
+      <DefaultText>Congélation à cœur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4472</ID>
+      <DefaultText>Souffle du néant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>Appel du néant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4479</ID>
+      <DefaultText>Dilatation temporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>Vide dévorant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4484</ID>
+      <DefaultText>Déchirement de la réalité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>Aperçu du vide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Trépas écrasant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4490</ID>
+      <DefaultText>Démolition</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4491</ID>
+      <DefaultText>Effondrement violent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Étreinte du néant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4499</ID>
+      <DefaultText>Appel à Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4500</ID>
+      <DefaultText>Frisson hivernal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4501</ID>
+      <DefaultText>Pas de la Bête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4508</ID>
+      <DefaultText>Mort torride</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4513</ID>
+      <DefaultText>Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4526</ID>
+      <DefaultText>Dispersion d'essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4540</ID>
+      <DefaultText>Immunité : acide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4541</ID>
+      <DefaultText>Reconstruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4565</ID>
+      <DefaultText>Reconstruction - Tissu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4585</ID>
+      <DefaultText>Perdu dans le temps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Reconstruction - Plates</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4675</ID>
+      <DefaultText>Garde de l'entropie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4676</ID>
+      <DefaultText>La glace recouvre les articulations de l'armure en octroyant au porteur un bonus d'Armure accompagné de l'affliction Immobilisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4677</ID>
+      <DefaultText>Montée d'adrénaline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4678</ID>
+      <DefaultText>Propagation du chaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4692</ID>
+      <DefaultText>Bénédiction des royaumes détruits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4693</ID>
+      <DefaultText>Bière rymsjódda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4694</ID>
+      <DefaultText>Ekkevít</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4695</ID>
+      <DefaultText>Ysae des glaces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4696</ID>
+      <DefaultText>Ysae pané</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4697</ID>
+      <DefaultText>Lorsque Givrou vous suit, vous obtenez un bonus d'Armure de gel et les attaques de givre du groupe sont plus précises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4698</ID>
+      <DefaultText>Éclat de permafrost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Force pestilentielle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4716</ID>
+      <DefaultText>Palissades gelées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>(Palissades gelées) Les attaques échouées de l'ennemi contre le porteur ont une chance de déclencher une attaque de givre en riposte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4718</ID>
+      <DefaultText>Protection de Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Augmente la Déviation du porteur, mais augmente également la durée de tout effet hostile présent sur le porteur. Ne peut être utilisé que lorsqu'on est sujet à un effet hostile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Élan glacial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Le Rempart de la marée hivernale ralentit le porteur pendant un bref laps de temps, mais il augmente les défenses physiques et mentales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4722</ID>
+      <DefaultText>Frappe du chaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>Le porteur canalise l'énergie de Rymrgand en une seule attaque, infligeant une affliction aléatoire à la cible ainsi qu'à lui-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4724</ID>
+      <DefaultText>Paralysie (Gel)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4725</ID>
+      <DefaultText>L'énergie de Rymrgand infuse le porteur, en lui conférant un bonus à toutes les défenses lorsqu'il est touché par une affliction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Mort traînante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Infusion d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Lorsque le porteur est sous le coup d'une affliction, ses défenses sont augmentées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Verrou spirituel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Lit au coin du feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Voile hivernal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>L'utilisateur et ses alliés se retrouvent enveloppés par l'Œil de Rymrgand, ce qui leur confère Touché par le Voile. Les attaques qui ne sont pas dotées de la Perforation du Voile leur infligent moins de dégâts et ne peuvent pas leur infliger de coups critiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>L'utilisateur déclenche une puissante explosion de feu à un endroit désigné. Les ennemis pris dans l'explosion subissent des dégâts brûlants immédiats et sur la durée. Les alliés pris dans l'explosion reçoivent une guérison immédiate et sur la durée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4734</ID>
+      <DefaultText>L'utilisateur canalise du pouvoir, absorbant les défenses de tous les ennemis dans une zone donnée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>L'utilisateur prend un ennemi au piège dans le temps, le bloquant sur place, mais le rendant également impossible à cibler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>L'utilisateur inspire aux ennemis qui l'entourent un esprit de rébellion. Ces ennemis subissent Charme pendant un bref laps de temps et leur Puissance, Constitution et Dextérité sont augmentées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>Hiver éternel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4738</ID>
+      <DefaultText>Vents blancs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4745</ID>
+      <DefaultText>Hôte pestilentiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4746</ID>
+      <DefaultText>Peu engageant pour les autres au mieux, il émane du divin des fins blessé un miasme de douleur et de répulsion infligeant à ses ennemis Intoxication lorsqu'il est Ensanglanté ou Proche de la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4747</ID>
+      <DefaultText>Les divins des fins souffrent constamment d'un éventail de maux tout au long de leur vie. En conséquence, les afflictions que leurs ennemis tentent de leur infliger ont un impact moindre sur eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4748</ID>
+      <DefaultText>Enfant du néant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Le porteur pointe du doigt un ennemi, lui infligeant Domination pendant un bref laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>Bouclier entropique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4760</ID>
+      <DefaultText>Essence d'âme instable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4761</ID>
+      <DefaultText>Au moment de l'explosion, de l'énergie spirituelle est brutalement libérée, guérissant tous ceux qui se trouvent dans la zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4762</ID>
+      <DefaultText>Essence d'âme corrosive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4763</ID>
+      <DefaultText>Essence d'âme empathique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>Dieu de l'entropie, du froid, de l'hiver, de la malchance, de la famine et des désastres naturels. Il se manifeste sous la forme d'aurochs albinos géants, se déplaçant au milieu d'un terrible blizzard, et dans les pas laborieux de Rymrgand suivent la mort et la désintégration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4766</ID>
+      <DefaultText>Appel de Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4767</ID>
+      <DefaultText>Le prêtre appelle Rymrgand et crée une brèche dans le Néant blanc. Des pulsations ont lieu à intervalles réguliers dans la zone, attirant à elle tous ceux qui se trouvent à proximité, tout en infligeant des dégâts givrants et en réduisant la durée des effets bénéfiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText>Symbole de Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
+      <DefaultText>Imprime le symbole de Rymrgand sur le sol, causant périodiquement des dégâts givrants aux ennemis et leur infligeant Effroi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4770</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les prêtres de Rymrgand apprennent automatiquement les sorts suivants au Niveau de pouvoir approprié :
+1. Putréfaction
+2. Blizzard
+3. Propagation d'un fléau
+4. Explosion nocive
+5. Explosion de givre
+6. Pilier gelant de Ninagauth
+7. Cercle de mort
+8. Symbole de &lt;xg&gt;Rymrgand&lt;/xg&gt;
+9. Appel de &lt;xg&gt;Rymrgand&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>L'utilisateur libère le souffle corrosif de Neriscyrlas, infligeant des dégâts corrosifs et Effroi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>L'utilisateur génère une décharge d'acide, infligeant des dégâts corrosifs et Effroi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4784</ID>
+      <DefaultText>Lorsque le porteur devient Inconscient, il est ranimé et guéri. La quantité de Santé guérie augmente en fonction de la compétence Religion du porteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4785</ID>
+      <DefaultText>Bête hivernale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4786</ID>
+      <DefaultText>Les traces de pas du porteur sont verglacées, infligeant Entrave aux ennemis qui entrent dans la zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4787</ID>
+      <DefaultText>Le porteur canalise toute énergie latente, ce qui lui confère un bonus de Vitesse d'action, mais lui inflige également Affaiblissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4788</ID>
+      <DefaultText>S'il est sujet à une affliction, le porteur guérit lentement sur la durée et reçoit un bonus de Puissance, de Constitution et de Dextérité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4789</ID>
+      <DefaultText>Dilatation temporelle I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4790</ID>
+      <DefaultText>S'il est engagé, tous ceux qui se trouvent autour du porteur sont ralentis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4791</ID>
+      <DefaultText>Dilatation temporelle II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4792</ID>
+      <DefaultText>(Dilatation temporelle II) Tous ceux qui se trouvent autour du porteur sont ralentis de manière plus prononcée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4793</ID>
+      <DefaultText>Dilatation temporelle III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4794</ID>
+      <DefaultText>(Dilatation temporelle III) Tous ceux qui se trouvent autour du porteur sont ralentis de manière encore plus prononcée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>Gifle glaciale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Mutilation neigeuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Fourrure de givre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Rugissement de la tempête de neige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4825</ID>
+      <DefaultText>Quand Fjord suit le groupe, votre Constitution est augmentée et le groupe inflige des dégâts givrants pour chaque attaque portée au corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

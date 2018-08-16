@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_hw_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous revoilà, Oracle du crépuscule. Le Bastion des Envoyés a tremblé comme s'il avait été blessé. Que s'est-il passé au Vytmádh ?" Son trio d'yeux d'un bleu glacial analyse vos traits.</DefaultText>
+      <FemaleText>"Vous revoilà, Oracle du crépuscule. Le Bastion des Envoyés a tremblé comme s'il avait été blessé. Que s'est-il passé au Vytmádh ?" Son trio d'yeux d'un bleu glacial analyse vos traits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oracle du crépuscule ! L'iceberg tout entier... il a tremblé comme s'il avait été poignardé. Qu'avez-vous fait ?"</DefaultText>
+      <FemaleText>"Oracle du crépuscule ! L'iceberg tout entier... il a tremblé comme s'il avait été poignardé. Qu'avez-vous fait ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pas besoin de vous en préoccuper. Elle ne reviendra pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est votre peuple, Vatnir. Vous voulez vous en occuper ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous plaisantez ! La Bête est vraiment partie ? Et le Vytmádh ?"</DefaultText>
+      <FemaleText>"Vous plaisantez ! La Bête est vraiment partie ? Et le Vytmádh ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Mentir] "Le portail demeure ouvert. Avec le temps, la glace engloutira le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le portail est fermé. Votre iceberg ne s'étendra plus, désormais. Avec le temps, il fondra probablement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"La messagère n'est plus en vie ? Mais qu'en est-il du Vytmádh ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Alors, il nous reste du temps." Le prêtre tourne son visage entouré de bandelettes vers le ciel encombré d'épais nuages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Chères sœurs. Chers frères. Nous revenons d'au-delà du royaume de Rymrgand. Puis-je rendre justice à sa beauté désolée ? Je ne le pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"C'était la volonté de Rymrgand de nous débarrasser de la dragonne qui nous menaçait, et c'est ce qui s'est produit !"
+
+Quelques-uns des Envoyés échangent des regards confus, mais Vatnir poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"La Bête hivernale apprécie notre foi ! Nous serons bientôt récompensés par une trêve à nos problèmes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vous devez tous charger vos navires et quitter cet iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"C'est ce qui est arrivé, et c'est ce qui doit advenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Hausser les épaules] "Ça suffira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hafjórn a su vous guider en mon absence. Je voudrais lui demander de continuer, pour que je puisse poursuivre mes voyages avec l'Oracle du crépuscule et répandre la vérité de Rymrgand."</DefaultText>
+      <FemaleText>"Hafjórn a su vous guider en mon absence. Je voudrais lui demander de continuer, pour que je puisse poursuivre mes voyages avec l'Oracle du crépuscule et répandre la vérité de Rymrgand."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mais... mais vous avez &lt;i&gt;rencontré&lt;/i&gt; la Bête hivernale ! Vous comprenez sûrement l'importance du travail que nous accomplissons ici !"</DefaultText>
+      <FemaleText>"Mais... mais vous avez &lt;i&gt;rencontré&lt;/i&gt; la Bête hivernale ! Vous comprenez sûrement l'importance du travail que nous accomplissons ici !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh." Hafjórn se tourne vers les autres Envoyés, vous regarde à nouveau, puis observe les kiths rassemblés.</DefaultText>
+      <FemaleText>"Oh." Hafjórn se tourne vers les autres Envoyés, vous regarde à nouveau, puis observe les kiths rassemblés.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'ai pénétré le Néant et communié avec la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous... vraiment ? Avec la Bête hivernale même ? Et la dragonne ? Qu'est-il advenu de la dragonne ?"</DefaultText>
+      <FemaleText>"Vous... vraiment ? Avec la Bête hivernale même ? Et la dragonne ? Qu'est-il advenu de la dragonne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"La dragonne ne reviendra pas. C'est tout ce que vous avez besoin de savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Frère Vatnir... veuillez nous réjouir des récits de votre voyage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Rymrgand n'en a pas fini avec nous, mes frères et sœurs. Nous devons préparer le chemin, car l'hiver toujours revient !"
+
+Baissant la tête, les Envoyés prient la Bête hivernale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Devons-nous rester ici ? Devons-nous partir ? Qu'est-ce que Rymrgand attend de nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Partir] "J'en a fait assez pour vous. Débrouillez-vous pour trouver le reste vous-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"C'est à vous d'en décider. J'espère que vous ferez ce qu'il faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Rymrgand n'a pas besoin de vous ici, et la dragonne n'était pas sa messagère. Vous devriez probablement quitter cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous faites un excellent travail ici ! Continuez d'emprunter le chemin vertueux, mes frères et mes sœurs !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Merci, Oracle du crépuscule. Puissiez-vous trouver le repos dans les bras de Rymrgand !"
+
+Baissant la tête, les Envoyés prient la Bête hivernale.</DefaultText>
+      <FemaleText>"Merci, Oracle du crépuscule. Puissiez-vous trouver le repos dans les bras de Rymrgand !"
+
+Baissant la tête, les Envoyés prient la Bête hivernale.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Les Envoyés vous jettent des regards noirs. L'un d'eux crache sur le sol glacé. Une autre serre les poings, craquant des phalanges dans le froid.</DefaultText>
+      <FemaleText>Les Envoyés vous jettent des regards noirs. L'un d'eux crache sur le sol glacé. Une autre serre les poings, craquant des phalanges dans le froid.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est... eh bien, difficile à croire. Presque incroyable. Et la messagère de Rymrgand ? Qu'est-il advenu de la dragonne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Gloire à la décomposition ! Vive la Bête hivernale !"
+
+Les voix des Envoyés rassemblés s'élèvent en un chœur de prières enjouées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Mais qu'est-ce qu'on doit faire ensuite ? Qu'est-ce que la Bête hivernale va exiger de nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vatnir lève mollement la main pour vous saluer tout en toussant dans l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Hafjórn vous regarde approcher, sa capuche tachée de sang. Il tripote nerveusement un de ses gants.</DefaultText>
+      <FemaleText>Hafjórn vous regarde approcher, sa capuche tachée de sang. Il tripote nerveusement un de ses gants.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vatnir commence immédiatement à tousser avec violence, mais réussit à répondre d'un signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Hafjórn observe ceux qui l'entourent tout en acquiesçant avec excitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Merla. Fantastique." Ydwin soupire en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Attendez, pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je... eh bien... je dois venir avec vous. J'aimerais venir avec vous. Si vous voulez bien de moi. Je vous en prie, prenez-moi !"</DefaultText>
+      <FemaleText>"Je... eh bien... je dois venir avec vous. J'aimerais venir avec vous. Si vous voulez bien de moi. Je vous en prie, prenez-moi !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Certainement pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Sa mâchoire semble tomber jusqu'au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous... vous voulez vraiment ? N'y a-t-il aucun moyen de vous faire changer d'avis ?"</DefaultText>
+      <FemaleText>"Vous... vous voulez vraiment ? N'y a-t-il aucun moyen de vous faire changer d'avis ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Absolument aucun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ces gens ont besoin de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"N'avez-vous pas une secte à diriger ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Avec un soupir, le triple regard de Vatnir se dirige vers le sol glacé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh, pas d'encouragements !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je veux dire, je suis de retour pour vous, pour vous guider..."</DefaultText>
+      <FemaleText>"Je veux dire, je suis de retour pour vous, pour vous guider..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Hafjórn peut s'occuper d'eux. Je sais que vous n'avez pas &lt;i&gt;besoin&lt;/i&gt; de moi, mais je peux vous aider."</DefaultText>
+      <FemaleText>"Hafjórn peut s'occuper d'eux. Je sais que vous n'avez pas &lt;i&gt;besoin&lt;/i&gt; de moi, mais je peux vous aider."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est bon, vous pouvez venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"La réponse est non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Lui adresser un regard noir sans mot dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>La bouche divine sans lèvres se tord pour former ce qui ressemble à un sourire. Il se retourne vers sa communauté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Est-ce que c'est un oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je dois voyager pour répandre la nouvelle de ces miracles. Assurez la sécurité de l'endroit en mon absence !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Étant donné que leurs maisons étaient principalement des bateaux, au départ, ils pourraient simplement les retourner pour être prêts à partir." 
+
+Edér hoche la tête pour lui-même. Les villageois le regardent avec étonnement, sans un bruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous ne nous avez pas encore égarés, frère Vatnir. Nous serions malavisés de douter de vous maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Vraiment, quel jour béni ! Vive la Bête hivernale ! Vive l'Oracle du crépuscule !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vatnir fronce les sourcils mais ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Comme l'a dit Vatnir, Rymrgand est satisfait. Nous avons accompli notre devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"J'ai &lt;i&gt;tué&lt;/i&gt; la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Et quel devoir serait-ce donc ? J'ai l'impression que vous passez la plupart du temps assis à pêcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Votre existence est totalement insignifiante pour Rymrgand. Rien de ce que vous pourriez faire ne le satisferait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Écoutez, bande d'abrutis aux oreilles pointues ! Quittez cet iceberg ! Allez-vous-en ! Sur-le-champ !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>La foule des Envoyés a le souffle coupé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je vous ferai pareil si vous ne quittez pas cet iceberg !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous avez échoué. Il est mort. Il n'y pas de raison de rester."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>L'assemblée des Envoyés semble se rétracter sous l'effet de vos menaces.</DefaultText>
+      <FemaleText>L'assemblée des Envoyés semble se rétracter sous l'effet de vos menaces.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Un des sourcils pâles au-dessus des yeux carmin d'Ydwin se soulève.</DefaultText>
+      <FemaleText>Un des sourcils pâles au-dessus des yeux carmin d'Ydwin se soulève.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>La foule commence à se disperser, ses membres marmonnant entre eux tout en retournant vers leurs habitations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Un jour, la même chose vous arrivera, Oracle du crépuscule. Rymrgand ne trouvera pas sa fin avant celle des fins elles-mêmes."
+
+Hafjórn se détourne en baissant la tête.</DefaultText>
+      <FemaleText>"Un jour, la même chose vous arrivera, Oracle du crépuscule. Rymrgand ne trouvera pas sa fin avant celle des fins elles-mêmes."
+
+Hafjórn se détourne en baissant la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Gardez-vous de juger trop rapidement une vie simple, capitaine. Les dieux ne vous aiment ni plus ni moins que ces gens."</DefaultText>
+      <FemaleText>"Gardez-vous de juger trop rapidement une vie simple, capitaine. Les dieux ne vous aiment ni plus ni moins que ces gens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nous protégeons le temple ! Nous chantons les chansons de l'hiver et appelons le froid !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Alors restez le protéger. Ça m'est égal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Des murmures nerveux parcourent la foule alors que les Envoyés se regardent les uns les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Hafjórn se frotte l'arrière de la tête, tandis que les autres Envoyés se regardent mutuellement en se demandant quoi faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vous êtes vraiment... eh bien, vraiment pas quelqu'un d'aimable, Oracle du crépuscule."
+
+L'elfe encapuchonné se détourne de vous et rejoint ses coreligionnaires.</DefaultText>
+      <FemaleText>"Vous êtes vraiment... eh bien, vraiment pas quelqu'un d'aimable, Oracle du crépuscule."
+
+L'elfe encapuchonné se détourne de vous et rejoint ses coreligionnaires.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Euh, bon travail, tout le monde. Remballons tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Discuter avec les dieux. Tuer quelques monstres. La routine de Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Mais qu'en est-il du, euh, de la messagère de Rymrgand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Pouvez-vous au moins nous dire ce que le... euh... la messagère de Rymrgand est devenue ?"</DefaultText>
+      <FemaleText>"Pouvez-vous au moins nous dire ce que le... euh... la messagère de Rymrgand est devenue ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Les Envoyés échangent des regards nerveux face à votre silence.</DefaultText>
+      <FemaleText>Les Envoyés échangent des regards nerveux face à votre silence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sacrément lassant, que ça d'vient. Y'en a qu'envisageraient même presque de d'venir croyants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"C'&lt;i&gt;est&lt;/i&gt; en train de devenir vraiment banal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Nous pourrions trouver un peu de variété en discutant avec les monstres. Réfléchissez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Bon entraînement pour quand on rattrapera Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Leur montrer le phylactère] "Elle est ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Elle a tenté de combattre Rymrgand. Elle a échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je l'ai tuée de mes paroles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je l'ai tuée. Encore. Elle est très, très morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ne vous inquiétez pas pour elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mais... la dragonne est la messagère, n'est-ce pas ? Frère Vatnir... vous étiez là. Qu'avez-vous vu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ne... ? Plus facile à dire qu'à faire ! Vous avez été au temple, n'est-ce pas ? Vous devez nous dire &lt;i&gt;quelque chose&lt;/i&gt; !"</DefaultText>
+      <FemaleText>"Ne... ? Plus facile à dire qu'à faire ! Vous avez été au temple, n'est-ce pas ? Vous devez nous dire &lt;i&gt;quelque chose&lt;/i&gt; !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ne vous en faites pas ? Mais, mais qu'en est-il du Vytmádh ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Votre petit portail blanc n'a aucune importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ce fut, eh bien, instructif." Il tousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Finalement, ce vieux lézard avait simplement peur de la faucille de Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Certains d'entre nous sont plus habitués que d'autres." Maia vous plante un doigt taquin dans les côtes.</DefaultText>
+      <FemaleText>"Certains d'entre nous sont plus habitués que d'autres." Maia vous plante un doigt taquin dans les côtes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Les Envoyés échangent des regards inquiets tandis que des murmures s'élèvent parmi eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Les Envoyés reculent devant la relique. Certains la fixent avec des yeux écarquillés par la terreur ou la curiosité, tandis que d'autres n'osent même pas regarder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Elle n'est... vous ne pouvez pas... Ouh ! Qu'en est-il du temple ? J'espère qu'aucun mal n'a touché le Vytmádh, n'est-ce pas ?"</DefaultText>
+      <FemaleText>"Elle n'est... vous ne pouvez pas... Ouh ! Qu'en est-il du temple ? J'espère qu'aucun mal n'a touché le Vytmádh, n'est-ce pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"D'accord, je... suppose, mais qu'est-il advenu du Vytmádh ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Doux givre et dieux morts... c'est tout ce qu'il reste ? Avez-vous... avez-vous abîmé le Vytmádh ?"</DefaultText>
+      <FemaleText>"Doux givre et dieux morts... c'est tout ce qu'il reste ? Avez-vous... avez-vous abîmé le Vytmádh ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Incroyable... et le Vytmádh ? Est-ce qu'il existe toujours ? Ou est-ce que vous l'avez caché dans une boîte quelconque ?"</DefaultText>
+      <FemaleText>"Incroyable... et le Vytmádh ? Est-ce qu'il existe toujours ? Ou est-ce que vous l'avez caché dans une boîte quelconque ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Où est frère Vatnir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"La Bête hivernale l'a mis à l'épreuve, et il ne s'est pas avéré à la hauteur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Resté sur mon bateau, je crois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Il est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Il a décidé de rejoindre mon équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Oh. Euh. D'accord. Que... que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"C'est important pour nous ! C'est tout pour nous !" crie un Envoyé encapuchonné dans la foule. Les autres acquiescent avec vigueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Alors c'est vraiment fini. Nous n'avons plus de raison de rester, n'est-ce pas ? Que... qu'est-ce qu'on va faire, maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Une douzaine de têtes s'affaissent, vaincues. Vous pouvez presque entendre les battements de votre cœur tant le silence est assourdissant.</DefaultText>
+      <FemaleText>Une douzaine de têtes s'affaissent, vaincues. Vous pouvez presque entendre votre cœur tant le silence est assourdissant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Les Envoyés se regardent mutuellement, le soulagement se lisant sur les quelques têtes découvertes. Vatnir fait un pas en avant et lève la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Les Envoyés vous regardent faire demi-tour bouche bée.</DefaultText>
+      <FemaleText>Les Envoyés vous regardent faire demi-tour bouche bée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Certains des Envoyés échangent des regards inquiets, tandis que les autres hochent la tête en entendant vos paroles.</DefaultText>
+      <FemaleText>Certains des Envoyés échangent des regards inquiets, tandis que les autres hochent la tête en entendant vos paroles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Nous... nous ne retiendrons pas vos paroles contre vous, Oracle du crépuscule. Vos épreuves ont clairement euh... nui à votre lucidité."
+
+Hafjórn soupire tristement.</DefaultText>
+      <FemaleText>"Nous... nous ne retiendrons pas vos paroles contre vous, Oracle du crépuscule. Vos épreuves ont clairement euh... nui à votre lucidité."
+
+Hafjórn soupire tristement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Pour notre part, il y a du pain sur la planche. Peut-être que vous devriez y aller."</DefaultText>
+      <FemaleText>"Pour notre part, il y a du pain sur la planche. Peut-être que vous devriez y aller."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Ydwin soupire et se frotte les tempes avec les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ydwin glousse discrètement tout en remontant les lunettes sur son nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je n'en doute pas, au vu de la qualité de leurs décisions jusqu'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Le Gardien ne se trompe pas, mes frères et sœurs. Trouvez meilleur usage pour vos talents. Rymrgand a besoin de vous ailleurs."</DefaultText>
+      <FemaleText>"Le Gardienne ne se trompe pas, mes frères et sœurs. Trouvez meilleur usage pour vos talents. Rymrgand a besoin de vous ailleurs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Est-ce que... on devrait peut-être lancer le dîner ?" demande un Envoyé à un autre. Il reçoit un haussement d'épaules sans engagement pour toute réponse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Baissant la tête, les Envoyés prient la Bête hivernale.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

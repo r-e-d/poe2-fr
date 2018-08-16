@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_huana_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Royaume englouti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorez le Royaume englouti à la recherche de fragments d'âmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez le trône au sein de la Couronne engloutie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai découvert une partie du domaine de Rymrgand dans laquelle la mer prédomine. Des structures de pierre érodées par le temps et incrustées de corail se dressent au loin, et les eaux semblent s'écouler de nulle part.
+
+Si je trouve l'esprit huana qui est à l'origine de cet endroit, peut-être pourrai-je le rallier à ma cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les habitants de ce lieu ont peur de moi, car ils croient que je suis un envahisseur étranger. Si je dois découvrir ce qui s'est passé ici, il me faudra trouver le roi qui les a exilés.
+
+Peut-être pourrai-je en apprendre plus des fragments d'âmes qui subsistent dans les eaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai rassemblé plusieurs fragments d'âme d'un roi huana d'autrefois.
+
+Si je ramène l'esprit au siège de son pouvoir, peut-être pourrai-je le convaincre de m'aider à détruire Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé un fragment d'âme dans l'eau. Il m'a communiqué un sentiment très fort de tristesse et de perte, d'une ère glorieuse depuis longtemps révolue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Un autre fragment d'âme m'a transmis l'image d'un palais étincelant un instant, puis celle d'une ruine délabrée le suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le fragment d'âme m'a montré le palais que j'avais déjà vu, mais cette fois j'ai eu l'impression qu'il s'agissait d'un lieu que je connaissais bien, comme si j'y avais résidé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Le fragment d'âme m'a fait pénétrer dans le palais et m'a fait me tenir devant un grand trône couvert d'or scintillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai convaincu le roi Wingauro o Watūri I d'accepter ses échecs. Il a convenu que l'heure était venue pour lui de quitter le Royaume englouti, alors j'ai éparpillé son essence dans le néant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu le roi Wingauro o Watūri I d'accepter ses échecs. Empli d'un courage fraîchement retrouvé, il a accepté de m'aider à affronter la dragonne Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu le roi Wingauro o Watūri I d'accepter ses échecs. Il a convenu que l'heure était venue pour lui de quitter le Royaume englouti, alors j'ai absorbé son âme afin de la renvoyer à la Roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

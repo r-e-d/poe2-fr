@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_engwith_trial_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Votre position parmi les témoins encapuchonnés vous permet de voir les inquisiteurs aussi bien que l'accusée. Vous reconnaissez que cette dernière n'est autre que l'esprit enchaîné près du portail situé plus haut.</DefaultText>
+      <FemaleText>Votre position parmi les témoins encapuchonnés vous permet de voir les inquisiteurs aussi bien que l'accusée. Vous reconnaissez que cette dernière n'est autre que l'esprit enchaîné près du portail situé plus haut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nous voilà réunis devant Woedica et Wael pour arracher la vérité aux mensonges et voir la justice rendue."
+
+La voix semble se réverbérer depuis nulle part en particulier, bien que les silhouettes devant vous peignent le tableau d'un procès en cours.</DefaultText>
+      <FemaleText>"Nous voilà réunis devant Woedica et Wael pour arracher la vérité aux mensonges et voir la justice rendue."
+
+La voix semble se réverbérer depuis nulle part en particulier, bien que les silhouettes devant vous peignent le tableau d'un procès en cours.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous attirez l'attention de la cour. Les inquisiteurs masqués vous observent, le dos raide et pleins de confiance dans leur autorité. Des silhouettes encapuchonnées bordent la fosse, attentives au déroulement du procès.</DefaultText>
+      <FemaleText>Vous attirez l'attention de la cour. Les inquisiteurs masqués vous observent, le dos raide et pleins de confiance dans leur autorité. Des silhouettes encapuchonnées bordent la fosse, attentives au déroulement du procès.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Utiliser la relique du poignard brisé pour prendre le rôle de l'accusée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Utiliser la relique du poignard brisé pour prendre le rôle d'un témoin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quelle est votre réponse à ces accusations ?"</DefaultText>
+      <FemaleText>"Quelle est votre réponse à ces accusations ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je les nie. Quelles preuves avez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je les accepte. J'ai offensé les dieux, et je prie qu'on me pardonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je nie votre autorité ! Cette cour n'est qu'une mascarade destinée à accomplir la volonté de Thaos !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Elle ment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Attaquer] "Assez de cette mascarade !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les nombreuses silhouettes de la cour émettent des murmures chuintants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Personne ici présent ne nie les faits. Vos paroles et vos actes ont été avérés, avoués par vos alliés et confirmés par d'innombrables yeux."</DefaultText>
+      <FemaleText>Personne ici présent ne nie les faits. Vos paroles et vos actes ont été avérés, avoués par vos alliés et confirmés par d'innombrables yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Les nombreuses silhouettes de la cour émettent des murmures chuintants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Si vous présumez de ma culpabilité , qu'est-ce que nous faisons ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Malin, votre petit système. Qui a besoin de la vérité quand on a le zèle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"N'ai-je pas le droit de connaître le détail des accusations ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Alors, je suppose que je suis coupable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je présente mes excuses pour mon emportement. Veuillez présenter les preuves contre moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Attaquer] "Je préfèrerais mourir que me soumettre à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Les autres témoins s'éloignent de vous alors que les inquisiteurs masqués tournent leurs regards en direction de votre éclat de voix.</DefaultText>
+      <FemaleText>Les autres témoins s'éloignent de vous alors que les inquisiteurs masqués tournent leurs regards en direction de votre éclat de voix.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"L'accusée a cherché mon aide pour contrecarrer ce tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Elle m'a prétendu être une disciple d'Iovara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mes excuses, je voulais dire que &lt;i&gt;vous&lt;/i&gt; mentiez. Cette cour n'est qu'un outil servant à renforcer le pouvoir de Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Personne ici présent ne nie les faits. Vos paroles et vos actes ont été avérés, avoués par vos alliés et confirmés par d'innombrables yeux."</DefaultText>
+      <FemaleText>Personne ici présent ne nie les faits. Vos paroles et vos actes ont été avérés, avoués par vos alliés et confirmés par d'innombrables yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Les intrus ont pris les armes contre ce conseil ! Détruisez-les !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Attaquer] "Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'est une bonne question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"L'admettre est tout à votre honneur, même si votre ton vous contredit."</DefaultText>
+      <FemaleText>"L'admettre est tout à votre honneur, même si votre ton vous contredit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Un murmure étouffé parcourt l'assistance, et les inquisiteurs échangent des regards. La silhouette la plus avancée lève cependant une main osseuse, dont la manche glisse, révélant un bras sombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Puissent les dieux avoir pitié de votre âme."</DefaultText>
+      <FemaleText>"Puissent les dieux avoir pitié de votre âme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Alors, vous mourrez." 
+
+Elle lève la main et sa manche glisse pour révéler un bras sombre et osseux, tandis que des armes font leur apparition parmi les Engwithans rassemblés.</DefaultText>
+      <FemaleText>"Alors, vous mourrez." 
+
+Elle lève la main et sa manche glisse pour révéler un bras sombre et osseux, tandis que des armes font leur apparition parmi les Engwithans rassemblés.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ce soir, ce tribunal doit statuer sur... une hérésie."
+
+Le poignard que vous avez pris à l'esprit entravé tiédit au toucher, et un ichor noir en suinte.</DefaultText>
+      <FemaleText>"Ce soir, ce tribunal doit statuer sur... une hérésie."
+
+Le poignard que vous avez pris à l'esprit entravé tiédit au toucher, et un ichor noir en suinte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Attaquer la cour rassemblée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous êtes ici accusée d'avoir rejeté l'orthodoxie qui nous a été révélée par les divinités universelles."</DefaultText>
+      <FemaleText>"Vous êtes ici accusée d'avoir rejeté l'orthodoxie qui nous a été révélée par les divinités universelles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Par votre malice, votre ignorance et votre audace, vous avez voulu mettre à mal les fondations mêmes de la civilisation."</DefaultText>
+      <FemaleText>Par votre malice, votre ignorance et votre audace, vous avez voulu mettre à mal les fondations mêmes de la civilisation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je les nie. Je sers les dieux de chaque fibre de mon être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh, totalement coupable. Les dieux sont des salopards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Un tel acte de contrition est admirable... et rarement visible dans cette cour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Les nombreuses silhouettes de la cour émettent des murmures chuintants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous êtes toujours contrarié au sujet du château, pas vrai ?"</DefaultText>
+      <FemaleText>"Vous êtes toujours contrariée au sujet du château, pas vrai ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hélas, les dieux ne nous ont pas délégué l'autorité pour pardonner vos péchés. Seule la Roue peut apporter l'absolution."
+
+L'assemblée des inquisiteurs et des témoins approuve de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Par conséquent, ce conseil vous destine à la sentence suivante : les plantes de vos pieds seront marquées au fer rouge afin de vous libérer de votre souillure terrestre."</DefaultText>
+      <FemaleText>"Par conséquent, ce conseil vous destine à la sentence suivante : les plantes de vos pieds seront marquées au fer rouge afin de vous libérer de votre souillure terrestre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous serez ensuite menée à la mer et noyée, afin qu'Ondra puisse prendre votre souffle et effacer de toute mémoire les mensonges qu'il a servi à proférer."</DefaultText>
+      <FemaleText>Vous serez ensuite menée à la mer et noyée, afin qu'Ondra puisse prendre votre souffle et effacer de toute mémoire les mensonges qu'il a servi à proférer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"J'accepte cette pénitence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous voulez me faire marcher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Attaquer] "Si je dois mourir, ça sera ici, sur mes pieds !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nous ne le voulons pas. Et nous n'apprécions pas davantage votre ton."</DefaultText>
+      <FemaleText>"Nous ne le voulons pas. Et nous n'apprécions pas davantage votre ton."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"La sentence a été prononcée, et ainsi sera-t-elle exécutée. Loués soient les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Beaucoup ont émis de telles affirmations entre ces murs. Si seulement les mots avaient le poids des actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Votre mesquinerie ne saurait vous innocenter. Empoisonner vos lèvres ne contaminera que vous."</DefaultText>
+      <FemaleText>"Votre mesquinerie ne saurait vous innocenter. Empoisonner vos lèvres ne contaminera que vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Par conséquent, ce conseil vous destine à la sentence suivante : les plantes de vos pieds seront marquées au fer rouge afin de vous libérer de votre souillure terrestre."</DefaultText>
+      <FemaleText>"Par conséquent, ce conseil vous destine à la sentence suivante : les plantes de vos pieds seront marquées au fer rouge afin de vous libérer de votre souillure terrestre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous serez ensuite menée à la mer et noyée, afin qu'Ondra puisse prendre votre souffle et effacer de toute mémoire les mensonges qu'il a servi à proférer."</DefaultText>
+      <FemaleText>Vous serez ensuite menée à la mer et noyée, afin qu'Ondra puisse prendre votre souffle et effacer de toute mémoire les mensonges qu'il a servi à proférer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Fantastique. J'avais besoin de toucher un mot à Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je doute qu'elle vous prenne en pitié."</DefaultText>
+      <FemaleText>"Je doute qu'elle vous prenne en pitié."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ce conseil vous fournit une dernière chance d'expier les péchés que vous avez cumulés."</DefaultText>
+      <FemaleText>"Ce conseil vous fournit une dernière chance d'expier les péchés que vous avez cumulés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Si vous choisissez de ne pas admettre vos torts, de ne pas faire acte de contrition, vous porterez le lourd fardeau de vos transgressions jusqu'à la Roue."</DefaultText>
+      <FemaleText>"Si vous choisissez de ne pas admettre vos torts, de ne pas faire acte de contrition, vous porterez le lourd fardeau de vos transgressions jusqu'à la Roue."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"L'autorité de ce tribunal tient sa source du divin, et ne fait aucun cas de votre approbation."</DefaultText>
+      <FemaleText>"L'autorité de ce tribunal tient sa source du divin, et ne fait aucun cas de votre approbation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Si vous choisissez de ne pas profiter de la chance de contrition qui vous est offerte, nous allons procéder à la sentence."</DefaultText>
+      <FemaleText>"Si vous choisissez de ne pas profiter de la chance de contrition qui vous est offerte, nous allons procéder à la sentence."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Silence !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vos yeux seront arrachés à leurs orbites et tournés vers vous, pour que vous puissiez examiner l'étendue de vos failles."</DefaultText>
+      <FemaleText>"Vos yeux seront arrachés à leurs orbites et tournés vers vous, pour que vous puissiez examiner l'étendue de vos failles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous serez ensuite enchaînée à une cuve de cuivre et votre peau sera ouverte en quarante-sept endroits, afin que votre esprit puisse mieux fuir votre chair corrompue."</DefaultText>
+      <FemaleText>Vous serez ensuite enchaînée à une cuve de cuivre et votre peau sera ouverte en quarante-sept endroits, afin que votre esprit puisse mieux fuir votre chair corrompue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Une fois purifiée, votre âme sera enfermée dans un animat, afin de servir éternellement les dieux."</DefaultText>
+      <FemaleText>"Une fois purifiée, votre âme sera enfermée dans un animat, afin de servir éternellement les dieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Allons donc me purifier, alors. J'imagine que ça va prendre un moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Soyez maudits, maudits soient vos dieux et maudite soit votre cour !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"La sentence a été prononcée, et ainsi sera-t-elle exécutée. Loués soient les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous êtes ici accusée d'avoir rejeté l'orthodoxie qui nous a été révélée par les divinités universelles."</DefaultText>
+      <FemaleText>"Vous êtes ici accusée d'avoir rejeté l'orthodoxie qui nous a été révélée par les divinités universelles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Par votre malice, votre ignorance et votre audace, vous avez voulu mettre à mal les fondations mêmes de la civilisation."</DefaultText>
+      <FemaleText>Par votre malice, votre ignorance et votre audace, vous avez voulu mettre à mal les fondations mêmes de la civilisation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Quelle est votre réponse à ces accusations ?"</DefaultText>
+      <FemaleText>"Quelle est votre réponse à ces accusations ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je suis coupable de bien des choses, mais je n'ai jamais failli au service des dieux. Pas même une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Les autres témoins s'éloignent de vous alors que les inquisiteurs masqués tournent leurs regards en direction de votre éclat de voix.</DefaultText>
+      <FemaleText>Les autres témoins s'éloignent de vous alors que les inquisiteurs masqués tournent leurs regards en direction de votre éclat de voix.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Le témoin a-t-il un témoignage à présenter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Les nombreuses silhouettes de la cour émettent des murmures chuintants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"L'autorité de ce tribunal tient sa source du divin, et ne fait aucun cas de votre approbation."</DefaultText>
+      <FemaleText>"L'autorité de ce tribunal tient sa source du divin, et ne fait aucun cas de votre approbation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous savez aussi bien que moi que les dieux ont été forgés par les dirigeants d'Engwith à partir de leurs propres âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Bien entendu, si on pense que le divin est un vieil homme portant un chapeau ridicule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Attaquer] "Nous ne supporterons plus vos mensonges !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Vous profèreriez des hérésies en ce saint lieu ?"
+
+Elle regarde l'assemblée.</DefaultText>
+      <FemaleText>"Vous profèreriez des hérésies en ce saint lieu ?"
+
+Elle regarde l'assemblée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Mettez-le à mort."</DefaultText>
+      <FemaleText>"Mettez-la à mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>L'inquisitrice reporte son attention vers l'esprit entravé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je suppose que vous n'avez pas envisagé de &lt;i&gt;ne pas&lt;/i&gt; agiter votre trou de lestage, capitaine Gardien, hein ?"</DefaultText>
+      <FemaleText>"Je suppose que vous n'avez pas envisagé de &lt;i&gt;ne pas&lt;/i&gt; agiter votre trou de lestage, capitaine Gardienne, hein ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je... je n'ai rien fait de tel !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Les lèvres de Xoti s'écartent comme si elle allait intervenir, mais elle garde le silence. Elle croise les bras et gonfle les joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Il semblerait que ma culpabilité n'ait jamais été mise en question. Alors pourquoi s'embarrasser de cette farce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Assez de vos mensonges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>L'inquisitrice tourne son visage masqué vers vous.</DefaultText>
+      <FemaleText>L'inquisitrice tourne son visage masqué vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nous vous prions de tenir votre langue tranquille ou respectueuse, si vous voulez la garder."</DefaultText>
+      <FemaleText>"Nous vous prions de tenir votre langue tranquille ou respectueuse, si vous voulez la garder."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ce conseil vous fournit une dernière chance d'expier les péchés que vous avez cumulés."</DefaultText>
+      <FemaleText>"Ce conseil vous fournit une dernière chance d'expier les péchés que vous avez cumulés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Si vous choisissez de ne pas admettre vos torts, de ne pas faire acte de contrition, vous porterez le lourd fardeau de vos transgressions jusqu'à la Roue."</DefaultText>
+      <FemaleText>"Si vous choisissez de ne pas admettre vos torts, de ne pas faire acte de contrition, vous porterez le lourd fardeau de vos transgressions jusqu'à la Roue."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Alors, déclarez votre sentence. Quel exemple allez-vous faire de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Mes excuses, inquisitrice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Attaquer] "Ou je pourrais vous délester de votre tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Elle s'adresse à nouveau à l'accusée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vos yeux seront arrachés à leurs orbites et tournés vers vous, pour que vous puissiez examiner l'étendue de vos failles."</DefaultText>
+      <FemaleText>"Vos yeux seront arrachés à leurs orbites et tournés vers vous, pour que vous puissiez examiner l'étendue de vos failles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Vous serez ensuite enchaînée à une cuve de cuivre et votre peau sera ouverte en quarante-sept endroits, afin que votre esprit puisse mieux fuir votre chair corrompue."</DefaultText>
+      <FemaleText>Vous serez ensuite enchaînée à une cuve de cuivre et votre peau sera ouverte en quarante-sept endroits, afin que votre esprit puisse mieux fuir votre chair corrompue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Une fois purifiée, votre âme sera enfermée dans un animat, afin de servir éternellement les dieux."</DefaultText>
+      <FemaleText>"Une fois purifiée, votre âme sera enfermée dans un animat, afin de servir éternellement les dieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>La tête de l'esprit tombe, son visage voilé par ses cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Loués soient les dieux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je suppose que je ne pourrai pas récupérer cet animat après ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Silence !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Gardien, c'est plein d'âmes qui ont été &lt;i&gt;torturées&lt;/i&gt; pendant des millénaires. Laissez-les."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

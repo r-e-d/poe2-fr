@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_house_keeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gótvadhjur... ah, vous devez être notre invité d'honneur. Vatnir a dit de nous attendre à votre arrivée."
+
+L'homme se tient près de son feu et se frotte les mains, un sourire barrant sa barbe éparse couleur de glace.</DefaultText>
+      <FemaleText>"Gótvadhjur... ah, vous devez être notre invitée d'honneur. Vatnir a dit de nous attendre à votre arrivée."
+
+L'homme se tient près de son feu et se frotte les mains, un sourire barrant sa barbe éparse couleur de glace.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Venez, venez. Débarrassez-vous de cette neige. Réchauffez-vous près du foyer."</DefaultText>
+      <FemaleText>"Venez, venez. Débarrassez-vous de cette neige. Réchauffez-vous près du foyer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai besoin de matériel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'aimerais louer une chambre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Êtes-vous ici à cause de vos croyances ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partir] "Ce n'est pas important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ce que j'ai est à vous, si vous avez de quoi échanger ou acheter. Jusqu'à ce que la fin arrive."</DefaultText>
+      <FemaleText>"Ce que j'ai est à vous, si vous avez de quoi échanger ou acheter. Jusqu'à ce que la fin arrive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Les installations sont modestes, mais aussi confortables qu'un kith puisse espérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"La mort marche main dans la main avec la vie dans les Blanches étendues. Les prêtres de la Roue veulent faire croire que l'une suit l'autre."</DefaultText>
+      <FemaleText>"La mort marche main dans la main avec la vie dans les Blanches étendues. Les prêtres de la Roue veulent faire croire que l'une suit l'autre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ce n'est pas le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Rebonjour." L'homme courbe légèrement le dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Votre combat contre la bête était impressionnant. Ne prenez pas à mal sa résurrection. Tout a une fin, ja ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Il n'avait pas parlé d'autant de monde. Peu importe ! On fera de la place !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Si vous avez besoin de quoi que ce soit, vous n'avez qu'à demander. Je ferai de mon mieux pour vous satisfaire. Oh, et avant que j'oublie, un cadeau de bienvenue !"
+
+Valbrendhur fouille parmi les fourrures et place un paquet entre vos mains.</DefaultText>
+      <FemaleText>"Si vous avez besoin de quoi que ce soit, vous n'avez qu'à demander. Je ferai de mon mieux pour vous satisfaire. Oh, et avant que j'oublie, un cadeau de bienvenue !"
+
+Valbrendhur fouille parmi les fourrures et place un paquet entre vos mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bien sûr. N'est-ce pas aussi votre cas ?"</DefaultText>
+      <FemaleText>"Bien sûr. N'est-ce pas aussi votre cas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je suis ici sur l'invitation de Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je ne prie pas pour la fin du monde, si c'était la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"C'est juste. Je suppose qu'on peut estimer que mes convictions ont aussi pu me mener ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Dites-moi juste ce qui a bien pu vous amener sur ce glaçon abandonné des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Il n'a lancé aucune invocation ni procédé à aucun rituel d'attachement. Votre venue était volontaire."</DefaultText>
+      <FemaleText>"Il n'a lancé aucune invocation ni procédé à aucun rituel d'attachement. Votre venue était volontaire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mais sa venue arrive, qu'on le veuille ou non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Le kith soupire et passe la main sur son menton barbu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"J'ai autrefois trouvé une faille, tout en bas du monde, et tout un clan de Glamfellens s'y trouvait, rassemblés et immobiles. Leurs récits, leur sang, leur ambitions... il n'en reste rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je ne cherche pas la fin, j'accepte simplement son inévitabilité. C'est une chose à fêter, comme la fin d'une épopée bien chantée. Vatnir comprend cela, et je suis son exemple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Un incident isolé se traduit difficilement en une vérité fondamentale." Aloth se frotte le front et soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous avez raison. Chaque incident se traduit en une vérité fondamentale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"La messagère arrive ! Pressez-vous de monter, ou vous raterez sa majestueuse furie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Avez-vous vu Vatnir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Il n'est pas dans la chapelle ? Il n'a pas suivi les autres dehors, essayez voir dans ses quartiers. Ils sont au bout de la pièce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Le kith soupire et passe la main sur son menton barbu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Vaillant chevalier aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>Vaisseau de tous les possibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText>Capitaine Thaenic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>Sautara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>Zidacco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>Babiole</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

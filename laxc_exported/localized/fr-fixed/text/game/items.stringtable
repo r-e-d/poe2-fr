@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>Ancre d'acier vivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>Bien que les ancres d'acier classique soient les plus répandues en mer, ceux qui peuvent s'offrir des ancres d'acier vivant rencontrent moins de difficultés lorsqu’ils utilisent des matériaux imprégnés d’essence d’âme. Les navires intégrant de l’acier vivant sont plus maniables sans toutefois perdre en fonctionnalité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>Lanceur de feu magranite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>Cette merveille d’ingénierie crache un torrent d’huile enflammée sur les navires ennemis, réservant une surprise de taille à tout assaillant passant à proximité en mer. Les premiers prototypes de lanceurs de feu présentaient des résultats mitigés, des erreurs humaines ou mécaniques aboutissant souvent à des incendies incontrôlables qui ravageaient tout navire ayant eu l’audace de faire usage de cette arme instable. Les modèles les plus récents ont réduit la part de risque en intégrant des dispositifs de sécurité bienvenus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>Lanterne du fléau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>Un feu imprévisible se jette avec violence contre le verre de cette lanterne. Ce réceptacle se passe de l'huile et des mèches que l'on retrouve d'ordinaire dans les lanternes présentes sur les navires : c'est en réalité une petite prison contenant un fléau des flammes. Paniqué et désespéré, le fléau s’efforce de s’échapper par la seule ouverture visible : la fenêtre, produisant ainsi un rayon lumineux puissant qui permet d'éclairer devant soi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>Voiles en feuille de palmier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>Ces voiles sont conçues à partir des feuilles de palmier flexibles et légères qu’on retrouve souvent sur les canoës de guerre huanas. Bien qu’elles ne sauraient résister longtemps à un feu ennemi, elles prennent le vent en un rien de temps, ce qui permet de fuir à toute vitesse en cas de danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>Gouvernail en sombre guetteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>Le bois traditionnel a beau être un incontournable de l’ingénierie maritime, certains charpentiers de marine ont pris l’habitude d’utiliser l’écorce des sombres guetteurs des lianes dès qu’ils en ont l’occasion. C’est un matériau souple, robuste, naturellement imperméable, et la sève unique qui s’en échappe a un effet graissant qui permet de manœuvrer plus facilement. Le plus dur reste de récolter la matière première.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

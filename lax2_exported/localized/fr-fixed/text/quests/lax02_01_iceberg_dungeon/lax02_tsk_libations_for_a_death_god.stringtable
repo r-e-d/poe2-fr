@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_libations_for_a_death_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un verre à la santé des morts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récolter du fluide d'automates de givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapporter le fluide à l'Envoyé Nyvardir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retourner auprès de Nyvardir an possession du fluide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nyvardir&lt;/b&gt;, maître-brasseur autoproclamé du &lt;b&gt;Bastion des Envoyés&lt;/b&gt;, m'a demandé de l'aider à perfectionner sa recette de la rymsjódda, une bière prisée parmi les elfes pâles car elle les aide à résister au froid. Nyvardir est convaincu que l'ajout d'un ingrédient rendrait sa bière encore plus efficace contre le froid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les &lt;b&gt;automates de givre&lt;/b&gt; contiennent un fluide qui les empêche de geler en cas de températures très basses.
+
+Nyvardir est d'avis qu'il aura un effet similaire sur les kiths qui l'ingurgitent, et m'a demandé de lui rapporter autant de fluide d'automate de givre que je serai capable de trouver. Des automates de givre ont été vus au cœur de la &lt;b&gt;Morne banquise&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je ne sais pas avec certitude si cette étrange substance est celle que le maître-brasseur m'a demandé de lui rapporter, je devrais l'examiner de plus près.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récolté du fluide que &lt;b&gt;Nyvardir&lt;/b&gt; m'a demandé de lui rapporter, mais il semble extrêmement dangereux à boire. Il semblait néanmoins vraiment tenir à ce que je lui ramène autant du liquide que possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai donné à &lt;b&gt;Nyvardir&lt;/b&gt; le fluide qu'il souhaitait obtenir et j'ai décidé de le laisser découvrir par lui-même sa nature toxique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai donné à &lt;b&gt;Nyvardir&lt;/b&gt; le fluide qu'il souhaitait obtenir, en le mettant en garde par rapport à sa toxicité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai refusé de donner à &lt;b&gt;Nyvardir&lt;/b&gt; le fluide d'automate de givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

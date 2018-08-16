@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_drowned_kingdom_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Sympa, ici. Ce serait dommage d'y mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pour quelle raison fuiraient-ils l'élu de Ngati ? Quelque chose ne va pas, ici, capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je me suis fait quelques ennemis, ici. Faites attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"M'enfin, je ne nous voyais pas &lt;i&gt;si&lt;/i&gt; effrayants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'ai juré un peu trop d'fois sur les mamelles salées d'Ondra pour aller traîner dans ses eaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"En général, seuls les animaux et les enfants me fuient de la sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"L'eau me semble bien trop profonde pour ces petites jambes. Une de ces dames bien bâties pourrait peut-être me porter ?"</DefaultText>
+      <FemaleText>"L'eau me semble bien trop profonde pour ces petites jambes. Une de ces dames bien bâties pourrait peut-être me porter ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

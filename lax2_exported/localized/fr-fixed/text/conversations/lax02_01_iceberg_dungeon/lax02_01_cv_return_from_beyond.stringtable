@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_return_from_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous reprenez votre forme corporelle, vous sentez une forte vague d'essence provenir de l'Œil de Rymrgand. Le joyau bleu semble tirer sur le Vytmádh, arrachant l'essence de cette gorge d'entropie.</DefaultText>
+      <FemaleText>Alors que vous reprenez votre forme corporelle, vous sentez une forte vague d'essence provenir de l'Œil de Rymrgand. Le joyau bleu semble tirer sur le Vytmádh, arrachant l'essence de cette gorge d'entropie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>L'énergie tourbillonne autour de vous, puis se condense et se solidifie pour former le mécanisme que vous avez trouvé dans l'Au-delà. Bien que composé d'essence entropique façonnée, cet équipement semble aussi solide que n'importe quelle arme ou armure. 
+
+Tout du moins, tant que vous gardez l'Œil de Rymrgand à portée de main.</DefaultText>
+      <FemaleText>L'énergie tourbillonne autour de vous, puis se condense et se solidifie pour former le mécanisme que vous avez trouvé dans l'Au-delà. Bien que composé d'essence entropique façonnée, cet équipement semble aussi solide que n'importe quelle arme ou armure. 
+
+Tout du moins, tant que vous gardez l'Œil de Rymrgand à portée de main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"C'est... c'est juste apparu ! Incroyable ! La relique l'a invoqué et elle maintient sa forme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Extrêmement fascinant. Je me demande si les autres dieux auraient de pareilles reliques sacrées."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

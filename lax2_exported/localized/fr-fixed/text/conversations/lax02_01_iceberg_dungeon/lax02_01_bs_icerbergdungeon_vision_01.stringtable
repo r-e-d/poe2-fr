@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_bs_icerbergdungeon_vision_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Les automates de givre ont été désactivés, ma sœur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Où sont les protecteurs du temple gelés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"On s'en fout des maudits protecteurs ! Engouffrons-nous dans la Brèche !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

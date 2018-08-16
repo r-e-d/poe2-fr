@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\laxd_00_deck_of_many_things\laxd_00_cv_deck_of_many_things_worldmap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Un navire apparaît à l'horizon, navigant à faible allure.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Saluer le navire et se préparer à aborder]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attaquer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Utiliser la lunette]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Vous approcher afin de l'identifier]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le navire possède les angles vifs et l'avant plat d'une jonque, mais n'arbore pas les couleurs du Rauatai ni d’aucune autre puissance navale. Sa bannière indique un navire marchand.
+
+La coque semble lourdement renforcée et ses sabords garnis de canons, mais il ne semble pas être particulièrement belliqueux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

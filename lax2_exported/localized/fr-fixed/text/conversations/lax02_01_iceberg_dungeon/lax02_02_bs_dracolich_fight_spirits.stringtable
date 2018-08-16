@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_bs_dracolich_fight_spirits</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Préparez-vous pour un raz-de-marée comme vous n'en avez jamais vu !"</DefaultText>
+      <FemaleText>"Préparez-vous pour un raz-de-marée comme vous n'en avez jamais vu !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Utilisez ça ! Enchaînez votre ennemi comme j'l'étais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Venez, Gardien ! La fureur du Marteau divin est prête !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Préparer les meilleures vagues prend du temps ! Ne pressez pas votre roi !"</DefaultText>
+      <FemaleText>"Préparer les meilleures vagues prend du temps ! Ne pressez pas votre roi !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Allez. Prouvez votre force. Je vais préparer les chaînes."</DefaultText>
+      <FemaleText>"Allez. Prouvez votre force. Je vais préparer les chaînes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'ai besoin de temps, Gardien. Ce n'est pas une tâche simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_engwith_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Questions sans fin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorer les Questions sans fin et trouver les grains d'essence de l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Donner le grain d'essence à l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver un autre grain d'essence de l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Donner le deuxième grain à l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouver un dernier grain d'essence de l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Donner le troisième grain à l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Faire face à l'inquisitrice Naxiva au cœur des Questions sans fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Parler à l'âme enchaînée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai découvert un domaine ancien, empli d'immenses piliers d'adra recouverts de cuivre et de pierre ; pareils aux machines engwithanes que j'ai rencontrées précédemment. L' &lt;b&gt;esprit d'une femme&lt;/b&gt;, vague et vacillant, se tient en chaînes près de l'entrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>L'esprit torturé a été emprisonné ici par une &lt;b&gt;inquisitrice engwithane&lt;/b&gt;. Elle pense pouvoir me mener à celle qui la tourmente ainsi, mais seulement si j'arrive à trouver les fragments de son âme qu'on lui a ôtées. Il me faudrait &lt;b&gt;fouiller la zone en quêtes d'indices&lt;/b&gt; liés à sa situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai récupéré un &lt;b&gt;grain d'essence spirituelle&lt;/b&gt; à la suite d'une épreuve au sein d'un pilier d'adra. Si je le donne à l'&lt;b&gt;esprit enchaîné&lt;/b&gt;, il améliorera peut-être son état.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>L'esprit qui est emprisonné ici a réagi de manière positive lorsque je lui ai donné le premier grain, mais elle est encore loin d'être capable de m'aider à faire face à l'inquisitrice, et encore moins à Neriscyrlas. Il faudrait que j'explore un autre &lt;b&gt;pilier d'adra&lt;/b&gt; pour trouver d'autres &lt;b&gt;fragments&lt;/b&gt; de son être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai récupéré un deuxième &lt;b&gt;grain d'essence spirituelle&lt;/b&gt; à la suite d'une seconde épreuve. L'&lt;b&gt;esprit emprisonné&lt;/b&gt; s'en portera certainement mieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>L'&lt;b&gt;esprit&lt;/b&gt; qui est emprisonné ici semble proche de recouvrer l'intégralité de ses moyens. Il suffira peut-être de lui donner un troisième &lt;b&gt;grain d'essence&lt;/b&gt; pour la libérer de cette prison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai obtenu un troisième &lt;b&gt;éclat d'essence spirituelle&lt;/b&gt; après une troisième épreuve. Ce pourrait être le dernier dont &lt;b&gt;l'esprit a besoin&lt;/b&gt; pour se remettre complètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai libéré l'âme de ses chaînes, mais elle semble toujours douter de son propre passé. Elle a cependant promis de me mener jusqu'à l'&lt;b&gt;inquisitrice&lt;/b&gt; qui se trouve au &lt;b&gt;cœur de ce domaine&lt;/b&gt;, si je souhaite faire face à l'Engwithane qui a causé tant de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Pour percer à jour la raison d'être de ce domaine, il me faudra trouver un &lt;b&gt;esprit&lt;/b&gt; qui accepte de me parler. La &lt;b&gt;femme&lt;/b&gt; enchaînée &lt;b&gt;près de l'entrée&lt;/b&gt; pourra peut-être m'aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de regret&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain d'hostilité&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de conviction&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de regret&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain d'hostilité&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de conviction&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de regret&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain d'hostilité&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai apporté à l'&lt;b&gt;esprit enchaîné&lt;/b&gt; un &lt;b&gt;Grain de conviction&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai aidé &lt;b&gt;Naxiva ix Kirent&lt;/b&gt; à se faire face à elle-même, et en échange elle a accepté de m'aider à affronter la dragonne &lt;b&gt;Neriscyrlas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai aidé &lt;b&gt;Naxiva ix Kirent&lt;/b&gt; à se faire face à elle-même. Elle a joint son esprit au mien, et je vais la guider jusqu'à la &lt;b&gt;Roue&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai aidé &lt;b&gt;Naxiva ix Kirent&lt;/b&gt; à se faire face à elle-même avant de l'expédier dans l'&lt;b&gt;oubli du Néant blanc&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai affronté et détruit l'&lt;b&gt;inquisitrice Naxiva&lt;/b&gt; ainsi que &lt;b&gt;l'âme enchaînée&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

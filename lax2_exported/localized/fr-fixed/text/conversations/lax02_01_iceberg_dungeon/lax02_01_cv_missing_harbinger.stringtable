@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_missing_harbinger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je connais cette odeur. Bière, fourrures et feux. Ça fait longtemps qu'un Envoyé n'a pas atteint le sommet de l'iceberg." 
+
+Elle détourne son attention de l'automate éteint et vous adresse une grimace.</DefaultText>
+      <FemaleText>"Je connais cette odeur. Bière, fourrures et feux. Ça fait longtemps qu'un Envoyé n'a pas atteint le sommet de l'iceberg." 
+
+Elle détourne son attention de l'automate éteint et vous adresse une grimace.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous êtes là pour bosser ou juste pour dire hájo ?" 
+
+Ehrys essuie l'huile de ses mains et vous fait signe de parler librement.</DefaultText>
+      <FemaleText>"Vous êtes là pour bosser ou juste pour dire hájo ?" 
+
+Ehrys essuie l'huile de ses mains et vous fait signe de parler librement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On dirait que vous allez aimer être un automate. Comment puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je pense que vous feriez mieux de retourner au Bastion des Envoyés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous n'êtes pas la sœur de Brythe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"En fait, je ne suis pas un Envoyé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, non. Ne me dites pas qu'elle a disparu avec le reste des fous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Les Envoyés sont trop tendres pour vénérer correctement la Bête. Les autres pèlerins et moi-même avons trouvé ici, en haut de l'iceberg, une foi renouvelée. Une qui nous a fortifiés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Qui l'eût cru. Je peux sentir l'autosatisfaction flotter sur vous comme de l'encens."</DefaultText>
+      <FemaleText>"Qui l'eût cru. Je sens la suffisance émaner de vous comme de l'encens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ce n'était qu'une question de temps avant qu'ils n'engagent quelqu'un pour nous arrêter. Je parie que les Envoyés ne supportent pas de nous voir si délicieusement &lt;i&gt;misérables&lt;/i&gt;." 
+
+Ses lèvres sèches se retroussent en une grimace douloureuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je me débarrasse de mon corps mortel et putride et j'essaie de trouver mieux." 
+
+Elle tapote fièrement sur la carapace métallique de l'automate inerte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je vais planter mon âme dans ce misérable instrument, ce qui fera de moi la gardienne que ce temple mérite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Que comptez-vous prouver en vous transformant en automate ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Prouver ? Intéressant de voir avec quelle facilité un étranger comme vous peut se planter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Un automate ne connaît rien d'autre que son devoir. Quand votre monde n'est composé que d'instructions simples, la « fierté » et le « soi » fondent comme neige au soleil."</DefaultText>
+      <FemaleText>"Un automate ne connaît rien d'autre que son devoir. Quand votre monde n'est composé que d'instructions simples, la « fierté » et le « soi » fondent comme neige au soleil."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Le sacrifice et le vide règnent dans le Néant blanc. Mon honneur me commande de donner tout ce que j'ai, tout ce que je suis, pour la gloire de la Bête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ces lieux m'ont montré des merveilles, et je n'ai pas l'intention de partir.
+
+"J'ai vu des serpents de glace étreindre la lune. J'ai vu des couleurs inconcevables serpenter entre les étoiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je suis une femme changée. Je suis à présent éveillée. Je lègue mon enveloppe charnelle boursouflée aux vers, mais mon âme saura servir éternellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eh bien, me voilà convaincu. Nous allons vous faire entrer dans cet automate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"L'expression ultime de la foi ne serait-elle pas de laisser votre corps dépérir et pourrir avec le temps ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Apparemment, vous détestez votre corps et voudriez en avoir un nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Laissez tomber, je n'aurais pas dû en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Pas d'inquiétude. Je finirai par tout oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous allez m'aider ? Formidable ! Il est temps de me débarrasser de mon corps comme d'une vieille fourrure usagée." 
+
+Elle se frotte les mains et désigne l'automate.</DefaultText>
+      <FemaleText>"Vous allez m'aider ? Formidable ! Il est temps de me débarrasser de mon corps comme d'une vieille fourrure usagée." 
+
+Elle se frotte les mains et désigne l'automate.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Mais cela prendra des années ! Je ne peux pas servir la Bête et la Gueule comme ça !" Elle se désigne de pied en tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Quelque chose, dans vos paroles, la prend par surprise. Elle pose une main sur la chaudière gelée de l'automate et se redresse.</DefaultText>
+      <FemaleText>Quelque chose, dans vos paroles, la prend par surprise. Elle pose une main sur la chaudière gelée de l'automate et se redresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je hais mes limites, ma faim, ma fragilité. La Bête peut aspirer ma moelle et se débarrasser de moi... c'est &lt;i&gt;ça&lt;/i&gt;, la vraie perfection."
+
+Elle frappe du poing la coque métallique, cette fois avec plus de conviction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ou vous pourriez vous accepter vous-même, telle que vous êtes. Arrêter de vous complaire dans ce nouveau départ fantasmé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je suis peut-être coupable de... d'espérer quelque chose que je ne suis pas. Mais l'espoir n'existe pas entre les griffes de la Bête, n'est-ce pas ?" 
+
+Son doigt glisse sur l'automate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je laisserai donc cet iceberg à la Bête. Et j'irai peut-être aussi aller crier leurs quatre vérités à ces abrutis d'Envoyés."
+
+Ehrys soupire et se tourne vers le chemin que vous avez pris pour venir.</DefaultText>
+      <FemaleText>"Je laisserai donc cet iceberg à la Bête. Et j'irai peut-être aussi crier leurs quatre vérités à ces abrutis d'Envoyés."
+
+Ehrys soupire et se tourne vers le chemin que vous avez pris pour venir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous allez vous contenter de refuser tout ce que je vais proposer, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Qu'avez-vous à y gagner, de toute façon ?" 
+
+Elle repose ses mains sur ses hanches et vous jette un regard inquisiteur.</DefaultText>
+      <FemaleText>"Qu'avez-vous à y gagner, de toute façon ?" 
+
+Elle repose ses mains sur ses hanches et vous jette un regard inquisiteur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Une proposition intéressante, mais je doute de pouvoir nettoyer toute la neige qui bouche les oreilles d'un Envoyé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Partez. Dites à tous ceux qui vous le demandent que vous n'avez rien vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Attention, vous vous adressez à l'Oracle du crépuscule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"L'Oracle du crépuscule ? C'est quoi ? Une sorte de croque-mitaine pour Envoyés ? Ça ne fait pas vraiment rêver, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vatnir, vous ne pensez pas que son ascétisme serait une inspiration pour les autres Envoyés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Oh, euh... absolument. Nous pourrions... euh... certainement bénéficier du point de vue d'une personne connaissant aussi bien la vie sur la Morne banquise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Porter cette peau permanente est une trahison à votre foi. Embrassez l'annihilation une fois l'heure venue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"À vous entendre, j'ai l'impression de ne rien avoir compris. Malédiction, il est possible que ça soit le cas."</DefaultText>
+      <FemaleText>"À vous entendre, j'ai l'impression de ne rien avoir compris. Malédiction, il est possible que ça soit le cas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eh bien, bonne chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Non ! Non ! Ma Bête, j'ai essayé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous tentez de défendre les corvées abrutissantes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ce n'est pas mieux, et certainement pas pire, que les autres affaires sur l'iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Brythe disait que vous faisiez partie d'un pèlerinage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Il aura fallu nos meilleurs grimpeurs et leurs ours de reconnaissance, mais nous avons vaincu l'iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Les choses que nous avons vues en haut... même maintenant, mon esprit ne parvient à l'accepter."
+
+Ses yeux se perdent pendant la conversation, mais elle secoue la tête pour revenir à la réalité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"On ne sort pas intact d'une telle escalade."</DefaultText>
+      <FemaleText>"On ne sort pas intacte d'une telle escalade."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>L'automate vous regarde sans mouvement flagrant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La seule question est de savoir comment nous y prendre." 
+
+Elle pose son menton sur son poing et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous n'avez pas de plan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Écartez-vous. Je suis un Gardien. Nous trouverons une solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je ne suis pas venue les mains vides. J'ai des trucs comme ça. Et un truc comme ça."
+
+Elle sort du fond de sa poche une poignée d'éclats d'adra et du fil de cuivre tordu, accompagnés de leur lot de poussière et de peluches. Elle décroche alors un maillet cabossé de sa ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ça peut aider ?" Elle donne des coups de maillet dans le vide, pour se chauffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je venais juste d'avoir l'idée quand vous êtes arrivé. Je n'ai pas vraiment eu le temps d'essayer quoi que ce soit, mais, après tout, c'est bien ça l'esprit de l'aventure, non ?"</DefaultText>
+      <FemaleText>"Je venais juste d'avoir l'idée quand vous êtes arrivée. Je n'ai pas vraiment eu le temps d'essayer quoi que ce soit, mais, après tout, c'est bien ça l'esprit de l'aventure, non ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"J'aime bien votre assurance ! Elle me donne l'impression que je serai encastrée dans du métal en un rien de temps."
+
+Elle rayonne de fierté alors que vous vous mettez au travail.</DefaultText>
+      <FemaleText>"J'aime bien votre assurance ! Elle me donne l'impression que je serai encastrée dans du métal en un rien de temps."
+
+Elle rayonne de fierté alors que vous vous mettez au travail.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"C'est un début. Espérons que cela suffise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Cela pourrait vous tuer, mais je suppose que c'est le but."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"C'est exactement ça ! Quand nous aurons terminé, vous verrez le cadavre le plus heureux au monde."
+
+Elle rayonne de fierté alors que vous vous mettez au travail.</DefaultText>
+      <FemaleText>"C'est exactement ça ! Quand nous aurons terminé, vous verrez le cadavre le plus heureux au monde."
+
+Elle rayonne de fierté alors que vous vous mettez au travail.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"J'ai changé d'avis. Je n'ai pas envie de participer à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Non ? Dommage pour vous, alors. Faites-moi signe si vos tripes ont d'un coup soif d'aventure."</DefaultText>
+      <FemaleText>"Non ? Dommage pour vous, alors. Faites-moi signe si vos tripes ont d'un coup soif d'aventure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"J'ai changé d'avis. Nous allons vous faire entrer dans cet automate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Les bâtisseurs de ce temple ont probablement laissé des outils ou des instructions dans un coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Maintenant que nous avons laissé de côté la décence, le reste devrait être simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Oh, non. Ne me dites pas qu'elle a disparu avec le reste des fous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous devez souvent voir ce genre de truc. J'aurais bien voulu voyager autant."</DefaultText>
+      <FemaleText>"Vous devez souvent voir ce genre de truc. J'aurais bien voulu voyager autant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"C'est vrai. Si nous faisons une bêtise, au moins nous ne causons aucun dommage irréversible... à mon esprit, tout du moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Au moins, les Envoyés brassent de la bonne bière. J'avais besoin d'une brune bien coriace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous pensez vraiment que tout cela est bien sage ?"</DefaultText>
+      <FemaleText>"Vous pensez vraiment que tout cela est bien sage ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Il nous reste encore du saindoux de cuisine d'Hasongo, hein ? Ça sera bien pratique quand ses articulations gèleront."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous cédez à des fantaisies peu banales, capitaine ! Je suis intrigué de voir jusqu'où cela nous mènera."</DefaultText>
+      <FemaleText>"Vous cédez à des fantaisies peu banales, capitaine ! Je suis intrigué de voir jusqu'où cela nous mènera."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Euh... peut-être &lt;i&gt;devrions&lt;/i&gt;-nous éviter d'enfermer une folle dans une machine hostile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vatnir cille de surprise. Sa bouche s'ouvre en grand, se ferme... puis s'ouvre de nouveau sous l'effet d'une toux difficile.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

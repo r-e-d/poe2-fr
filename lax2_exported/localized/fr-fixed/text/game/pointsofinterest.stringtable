@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\pointsofinterest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Fragment de Rynhaedr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Fragment du roi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Fragment de saint Waidwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Murmures de Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Rynhaedr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Waidwen</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

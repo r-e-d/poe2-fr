@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_dracolich_portal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Euh... c'était censé arriver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Le vent est chargé d'une étrange énergie. Ce portail pourrait-il mener à l'Au-delà ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Très bien. Avec un peu de chance, c'est la fin de cette chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Capitaine, j'espère que vous ne songez pas à suivre la bête ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eh bien. C'est toujours bien de voir un problème se résoudre de lui-même, pour une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous avez vu ça ? C'était comme si quelque chose la tirait par la queue !"</DefaultText>
+      <FemaleText>"Vous avez vu ça ? C'était comme si quelque chose la tirait par la queue !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ça, c'est l'meilleur genre d'succion !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Le Vytmádh... Il a &lt;i&gt;mangé&lt;/i&gt; la dragonne !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ne m'dites pas qu'on la suit là-dedans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Si ça vous va, je préférerais attendre dans le bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Kah yehad !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous avez vu ? Le portail, il a juste... &lt;i&gt;wouf&lt;/i&gt; !"</DefaultText>
+      <FemaleText>"Vous avez vu ? Le portail, il a juste... &lt;i&gt;wouf&lt;/i&gt; !"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

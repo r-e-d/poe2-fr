@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_icebergdungeon_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce diablotin est assis sur le sol glacé, du givre collé à la chair, les ailes drapées autour des épaules pour les protéger. Sa bouche est béante, et les rides autour de ses yeux indiquent qu'ils sont fermés avec force.
+
+Il tient un petit objet entre ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examiner l'objet]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les phalanges noueuses du diablotin agrippent ce qui semble être une sphère de glace, même si une énergie palpable luit sous sa surface, refroidissant encore l'air glacial qui l'entoure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Les phalanges noueuses ne peuvent guère cacher la sphère glacée qu'elles enserrent. Une énergie palpable luit en son sein, refroidissant encore l'air glacial qui l'entoure. C'est probablement l'objet que recherche Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Retirer la relique de ses mains]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Remplacer la relique glacée par une relique de pierre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Alors que vous écartez de l'orbe les doigts osseux de la créature, elle ouvre des yeux d'un bleu brillant. Le diablotin bondit loin de vous avec un long feulement, propulsé par ses ailes membraneuses.</DefaultText>
+      <FemaleText>Alors que vous écartez de l'orbe les doigts osseux de la créature, elle ouvre des yeux d'un bleu brillant. Le diablotin bondit loin de vous avec un long feulement, propulsé par ses ailes membraneuses.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"EH ! ÊTRE CHAUD PAS PRENDRE MA BOULE ! PAS BOULE D'ÊTRE CHAUD !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je veux bien échanger quelque chose contre cette boule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attaquer] "Finissons-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ce n'est pas une boule. C'est une relique sacrée, et elle appartient à ce temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"TÊTE ÊTRE CHAUD REMPLIE DE NEIGE ? TEMPLE PLEIN DE CADAVRES. CADAVRES RIEN AVOIR ! ÊTRE CADAVRES !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Donnez la relique ou je me mets à déplumer des ailes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je comprends que la relique puisse avoir une valeur sentimentale. Mais peut-être qu'on pourrait trouver un moyen pour que tout le monde ait ce qu'il veut..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je suppose que vous n'êtes pas au courant de la fureur qui attend quiconque fâche la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les yeux globuleux du maigre primordial se plissent légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je vous l'échange contre cette relique de pierre. Elle durera nettement plus longtemps qu'une boule de glace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous ne reconnaissez pas la Pierre du Crépuscule hivernal ? Elle protège son porteur de l'influence de Rymrgand. Vous ne ressentirez ni froid, ni faim, ni maladie, ni solitude tant que vous la porterez sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous retirez la pierre de votre sac et tentez de l'échanger prestement avec la sphère glacée. La poigne du diablotin se révèle plus forte que vous l'escomptiez, ruinant votre tentative d'échange rapide.</DefaultText>
+      <FemaleText>Vous retirez la pierre de votre sac et tentez de l'échanger prestement avec la sphère glacée. La poigne du diablotin se révèle plus forte que vous l'escomptiez, ruinant votre tentative d'échange rapide.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"HEIN ? PAS VOULOIR OBJETS ÊTRE CHAUD. DÉJÀ AVOIR BOULE ! DIABLOTIN JUSTE BESOIN BOULE !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je veux bien l'échanger contre un coffre plein d'or. Valant des milliers de pièces. Vous pourriez acheter &lt;i&gt;tellement de boules&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"EHHH ?! AMIS AIDER MOI ! AMIS SAUVER MOI DES ÊTRES CHAUDS !"
+
+Le diablotin agite ses ailes en tenant la relique au-dessus de sa tête. Un grincement métallique envahit la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"SI DONNER BOULE À ÊTRE CHAUD, QUOI DIABLOTIN AVOIR ?"
+
+Il se frotte la tête d'une main, collant fermement de l'autre la sphère contre ses côtes saillantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ce que vous n'aurez pas, c'est une malédiction. Cette relique fait ressentir le froid, la faim et la solitude à son porteur. Mais je ne doute pas que vous soyez au courant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"PLUS SEUL DANS SOLITUDE ?"
+
+Le diablotin regarde la sphère un moment, puis la pousse entre vos mains.</DefaultText>
+      <FemaleText>"PLUS SEUL DANS SOLITUDE ?"
+
+Le diablotin regarde la sphère un moment, puis la pousse entre vos mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Une vague de froid vous envahit... ou peut-être que la pierre aspire la chaleur de vos doigts.</DefaultText>
+      <FemaleText>Une vague de froid vous envahit... ou peut-être que la pierre aspire la chaleur de vos doigts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Alors que l'orbe brille entre vos doigts, vous entendez des craquements et des grincements de métal froid résonner dans l'air glacial.</DefaultText>
+      <FemaleText>Alors que l'orbe brille entre vos doigts, vous entendez des craquements et des grincements de métal froid résonner dans l'air glacial.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"PLUS DE PIÈCES BRILLANTES ET TRÉBUCHANTES QUE DIABLOTIN PEUT PORTER..."
+
+Les yeux du diablotin s'écarquillent devant la soudaine aubaine. Il pousse la relique entre vos mains et commence à traîner le coffre chargé de monnaie.</DefaultText>
+      <FemaleText>"PLUS DE PIÈCES BRILLANTES ET TRÉBUCHANTES QUE DIABLOTIN PEUT PORTER..."
+
+Les yeux du diablotin s'écarquillent devant la soudaine aubaine. Il pousse la relique entre vos mains et commence à traîner le coffre chargé de monnaie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Examiner le diablotin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Bien qu'immobile, le diablotin ne semble pas mort. Sa peau, où les couleurs bleu et blanc dominent, présente les traces d'une circulation sanguine. Quand vous passez la main devant sa bouche, vous pouvez ressentir un léger souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>C'est certainement un diablotin. Un diablotin froid, immobile et merveilleusement silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"JAMAIS... TOUT SEUL ?"
+
+Ses yeux s'attardent sur la pierre alors qu'il force la sphère glacée entre vos mains. Il agrippe la relique de pierre et l'embrasse contre son torse.</DefaultText>
+      <FemaleText>"JAMAIS... TOUT SEUL ?"
+
+Ses yeux s'attardent sur la pierre alors qu'il force la sphère glacée entre vos mains. Il agrippe la relique de pierre et l'embrasse contre son torse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"PFFFFFFT. ÊTRE CHAUD POUVOIR TROUVER CAILLOU BRILLANT, MAIS ÇA JUSTE TRUC-RIEN, FROID ET DUR !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"EHHH ?! AMIS AIDER MOI ! AMIS SAUVER MOI DES ÊTRES CHAUDS !"
+
+Le diablotin agite ses ailes en tenant la relique au-dessus de sa tête. Un grincement métallique envahit la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>La taille et la forme de l'objet vous font douter que ce soit celui disparu de l'étreinte de l'elfe pâle congelé que vous avez rencontré plus tôt. Les griffes du diablotin expliqueraient également les marques sur la peau gelée du Glamfellen.</DefaultText>
+      <FemaleText>La taille et la forme de l'objet vous font douter que ce soit celui disparu de l'étreinte de l'elfe pâle congelé que vous avez rencontré plus tôt. Les griffes du diablotin expliqueraient également les marques sur la peau gelée du Glamfellen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous ignorez la pierre parce qu'elle n'est, de toute évidence, pas magique, mais laissez complètement de côté sa valeur culturelle. Je n'aurais aucun mal à décider du prix en négociant avec les adorateurs de l'avant-poste situé un peu plus loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le diablotin vous fixe de ses yeux bleus et brillants plissés en deux minces fentes.</DefaultText>
+      <FemaleText>Le diablotin vous fixe de ses yeux bleus et brillants plissés en deux minces fentes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"NON ! ÊTRE CHAUD CROIRE ÊTRE &lt;i&gt;SI MALIN&lt;/i&gt; AVEC SES GRANDS MOTS ET SES JOLIS... MOTS!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tout va bien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Bonjour ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Tapoter sur la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ni son ni mouvement ne perturbent le diablotin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Au toucher, sa chair semble froide et dure.</DefaultText>
+      <FemaleText>Au toucher, sa chair semble froide et dure.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hé, si ça se trouve, c'est comme ça qu'ils dorment. On sait jamais."</DefaultText>
+      <FemaleText>"Hé, si ça se trouve, c'est comme ça qu'ils dorment. On sait jamais."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"On s'amuse bien, cap' ?"</DefaultText>
+      <FemaleText>"On s'amuse bien, cap' ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Pauvre petit glaçon. Capitaine, si vous ne comptez pas lui laisser une de vos capes en guise de couverture, je veux bien lui laisser une des miennes !" Tekēhu vous implore du regard.</DefaultText>
+      <FemaleText>"Pauvre petit glaçon. Capitaine, si vous ne comptez pas lui laisser une de vos capes en guise de couverture, je veux bien lui laisser une des miennes !" Tekēhu vous implore du regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous pensez qu'il est prêt pour ma lanterne ?"</DefaultText>
+      <FemaleText>"Vous pensez qu'il est prêt pour ma lanterne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bien que le diablotin soit incroyablement immobile, vous distinguez une légère agitation de ses doigts et d'une de ses oreilles. Les signes d'une respiration, bien que surnaturellement lente, animent son torse. La créature est vivante, mais peut-être sous une forme d'hibernation.</DefaultText>
+      <FemaleText>Bien que le diablotin soit incroyablement immobile, vous distinguez une légère agitation de ses doigts et d'une de ses oreilles. Les signes d'une respiration, bien que surnaturellement lente, animent son torse. La créature est vivante, mais peut-être sous une forme d'hibernation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Le diablotin est toujours aussi immobile qu'à première vue. Vous remarquez une très légère agitation du bout d'une oreille et une tension presque invisible de ses maigres doigts.</DefaultText>
+      <FemaleText>Le diablotin est toujours aussi immobile qu'à première vue. Vous remarquez une très légère agitation du bout d'une oreille et une tension presque invisible de ses maigres doigts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>La créature est vivante, mais peut-être sous une forme d'hibernation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Il pourrait être sous une forme d'enchantement, mais je ne ressens rien de la sorte. Étonnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Alors que vous scrutez sous la surface de la sphère, vous découvrez une énergie entropique tournoyant lentement à l'intérieur, comme si un sort nécrotique avait été lié... piégé, mais pas tout à fait gelé.</DefaultText>
+      <FemaleText>Alors que vous scrutez sous la surface de la sphère, vous découvrez une énergie entropique tournoyant lentement à l'intérieur, comme si un sort nécrotique avait été lié... piégé, mais pas tout à fait gelé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vu son apparence gelée et le froid surnaturel qu'il dégage, vous ne seriez pas étonné d'apprendre que cet artefact est considéré sacré par les adorateurs de Rymrgand.</DefaultText>
+      <FemaleText>Vu son apparence gelée et le froid surnaturel qu'il dégage, vous ne seriez pas étonnée d'apprendre que cet artefact est considéré sacré par les adorateurs de Rymrgand.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Utiliser la magie du feu pour dégeler les mains du diablotin et récupérer la relique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Vous commencez à peine à canaliser une flamme arcane que le diablotin pousse un cri strident qui résonne à travers la caverne. Il s'écarte de vous d'un bond et ses ailes le maintiennent en l'air. Ses yeux bleus vous fusillent alors qu'il souffle sur ses mains.</DefaultText>
+      <FemaleText>Vous commencez à peine à canaliser une flamme arcane que le diablotin pousse un cri strident qui résonne à travers la caverne. Il s'écarte de vous d'un bond et ses ailes le maintiennent en l'air. Ses yeux bleus vous fusillent alors qu'il souffle sur ses mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"DÉGAGEZ. ICI PAS ÊTRE CHEZ VOUS ! VOUS SÛREMENT MOURIR ICI !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Même quand tout va bien, les diablotins sont plutôt impétueux. Et je pense que celui-là a connu des jours meilleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"NON ! MENTEUR ! GROS IDIOT MENTEUR PLEIN DE MENSONGES !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Qu'avons-nous là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"RIEN QUI CONCERNER VOUS !"</DefaultText>
+      <FemaleText>"RIEN QUI CONCERNER VOUS !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"EH ! TOUS VOULOIR BOULE ! A DÉJÀ BOULE."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je vous l'achète. Que diriez-vous d'un sac d'or ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"APRÈS RÉFLEXION ? FAUT DÉJÀ RÉFLEXION POUR AVOIR APRÈS RÉFLEXION !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"ÊTRE CHAUD RÉSONNER COMME MOUETTE BAVARDE !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"POURQUOI ÊTRE CHAUD RÉPÉTER ÇA ? COMBIEN RÉFLEXION AVOIR APRÈS RÉFLEXION ?"</DefaultText>
+      <FemaleText>"POURQUOI ÊTRE CHAUD RÉPÉTER ÇA ? COMBIEN RÉFLEXION AVOIR APRÈS RÉFLEXION ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"CLIC-CLIC ? SECOUER, SIMPLE, ET ÉCOUTER ! EH, DIABLOTIN PEUT-ÊTRE PAS AVOIR COMPRIS LA QUESTION."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"COLÈRE, EH ? QUOI ÊTRE CHAUD BRAILLER ?"
+
+Le diablotin tend son cou des deux côtés pour jeter un coup d'œil aux recoins gelés de la caverne. Il essayait peut-être de baisser la voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Quand Elsífol Boldsummer a tenté de voler un seul esprit à Rymrgand, le dieu l'a englouti, mâché et digéré pendant un millier d'années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ce n'est pas très plaisant. Pas de chance. Froid. Sale odeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Le clan Annuqpiaat a fait de Magran sa divinité préférée. Ses membres expliquaient qu'il valait mieux courtiser le feu qu'apaiser le froid. Ils ont disparu l'hiver suivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Toute chose a une fin, mais cette fin n'est pas forcée d'être pleine de furoncles douloureux, de faim prenante et de malédictions atrophiantes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Le diablotin glousse bruyamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"FURONCLES ET MALÉDICTIONS ! TOUX ET PLEURS ! INTESTINS RELÂCHÉS ET NEZ ENCOMBRÉS !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"C'est ça, la réaction qu'vous cherchiez, cap' ?"
+
+Serafen se gratte l'arrière de la tête.</DefaultText>
+      <FemaleText>"C'est ça, la réaction qu'vous cherchiez, cap' ?"
+
+Serafen se gratte l'arrière de la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"NON ! FINI ÊTRE MÂCHÉ-CRACHÉ-MÂCHÉ-CRACHÉ ENCORE ET ENCORE !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"MAIS PAS VOULOIR DISPARAÎTRE COMPLÈTEMENT !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Il enlace encore plus la sphère gelée puis, comme s'il réalisait soudainement ce qu'il avait entre les mains, la fourre entre les vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Quelle grande et profonde compréhension des doctrines religieuses de mon peuple." Ydwin vous jette un coup d'œil par-dessus ses lunettes.</DefaultText>
+      <FemaleText>"Quelle grande et profonde compréhension des doctrines religieuses de mon peuple." Ydwin vous jette un coup d'œil par-dessus ses lunettes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"ÊTRE CHAUD DÉCRIRE VIE."
+
+Le diablotin hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;J'suppose que ça va pas venir d'votre part du butin, cap' ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;J'suppose que ça va pas venir d'votre part du butin, cap' ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"EH ! AMIS ! ÊTRES CHAUDS DEVOIR PARTIR, MAINTENANT !"
+
+Il agite la sphère au-dessus de sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Un diablotin qui comprend pas ? J'aurai vraiment tout entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Le diablotin vous renifle.</DefaultText>
+      <FemaleText>Le diablotin vous renifle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Les phalanges noueuses du diablotin agrippent ce qui semble être une sphère de glace, même si une énergie palpable luit sous sa surface, refroidissant encore l'air glacial qui l'entoure.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

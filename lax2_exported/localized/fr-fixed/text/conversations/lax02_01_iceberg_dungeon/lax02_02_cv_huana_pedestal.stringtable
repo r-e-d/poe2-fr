@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_huana_pedestal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.
+
+L'essence en votre possession se met à palpiter doucement, vous poussant à vous rapprocher du bassin.</DefaultText>
+      <FemaleText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.
+
+L'essence en votre possession se met à palpiter doucement, vous poussant à vous rapprocher du bassin.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Toucher la surface de l'eau avec l'essence]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La surface de l'eau ondule vivement. L'eau à vos pieds se met à écumer et bouillonner.
+
+Soudain, le flux de l'eau s'interrompt. Elle se met à s'écouler dans la direction opposée.</DefaultText>
+      <FemaleText>La surface de l'eau ondule vivement. L'eau à vos pieds se met à écumer et bouillonner.
+
+Soudain, le flux de l'eau s'interrompt. Elle se met à s'écouler dans la direction opposée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>L'essence dans votre main est toujours attirée par le bassin d'eau. Peut-être qu'en touchant à nouveau la surface de l'eau avec l'essence, le cours de l'eau sera inversé.</DefaultText>
+      <FemaleText>L'essence dans votre main est toujours attirée par le bassin d'eau. Peut-être qu'en touchant à nouveau la surface de l'eau avec l'essence, le cours de l'eau sera inversé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.</DefaultText>
+      <FemaleText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Boire l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Plonger un doigt dans l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>La surface de l'eau n'offre aucune résistance. Il ne se passe rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous mettez votre main en coupe et la passez dans l'eau, puis vous la portez à vos lèvres. L'eau est rafraîchissante, mais elle n'a rien d'inhabituel.</DefaultText>
+      <FemaleText>Vous mettez votre main en coupe et la passez dans l'eau, puis vous la portez à vos lèvres. L'eau est rafraîchissante, mais elle n'a rien d'inhabituel.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.</DefaultText>
+      <FemaleText>Un bassin d'eau calme et limpide emplit le creux du piédestal. Plus vous vous en approchez, plus l'eau vous semble attirante.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Plonger un doigt dans l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Boire l'eau]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La surface de l'eau n'offre aucune résistance. Il ne se passe rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous mettez votre main en coupe et la passez dans l'eau, puis vous la portez à vos lèvres. L'eau est rafraîchissante, mais elle n'a rien d'inhabituel.</DefaultText>
+      <FemaleText>Vous mettez votre main en coupe et la passez dans l'eau, puis vous la portez à vos lèvres. L'eau est rafraîchissante, mais elle n'a rien d'inhabituel.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

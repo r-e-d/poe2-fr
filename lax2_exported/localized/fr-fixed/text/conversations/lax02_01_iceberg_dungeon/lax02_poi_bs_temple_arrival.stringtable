@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_temple_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quelle hospitalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Encore quelque chose que je n'aime pas dans les religions. Elles poussent des peuples à construire leurs temples n'importe où."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ce lieu réserve un accueil bien froid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous n'auriez pas apporté de cette bière d'Envoyé ? Je ne serais pas contre un petit quelque chose pour me réchauffer."</DefaultText>
+      <FemaleText>"Vous n'auriez pas apporté de cette bière d'Envoyé ? Je ne serais pas contre un petit quelque chose pour me réchauffer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ce n'est pas vraiment l'endroit le plus chaleureux pour faire un temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Il était temps qu'on s'mett' à inspecter aut' chose que d'la glace bien solide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nous sommes arrivés. Vous trouverez le Vytmádh dans les niveaux inférieurs de ce temple."</DefaultText>
+      <FemaleText>"Nous sommes arrivés. Vous trouverez le Vytmádh dans les niveaux inférieurs de ce temple."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_hub_naxiva_ix_kirent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je vous aiderai lorsque vous aurez besoin de moi."</DefaultText>
+      <FemaleText>"Je vous aiderai lorsque vous aurez besoin de moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Il ne reste pas grand-chose de moi. Ne tardez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Si seulement je pouvais me rappeler... non, le souvenir a disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il choisit ceux qu'il amène ici. Je me demande comment."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

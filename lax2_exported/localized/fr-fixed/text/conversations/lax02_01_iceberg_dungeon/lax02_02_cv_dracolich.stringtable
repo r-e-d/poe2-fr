@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_dracolich</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;Vous m'avez suivie dans l'abysse ? N'avez-vous donc aucun respect pour les quelques années que votre fragilité physique vous accorde ?&lt;/ispeech&gt;
+
+La dragonne grogne entre ses dents acérées comme des lames, mais sa voix résonne dans votre esprit.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous m'avez suivie dans l'abysse ? N'avez-vous donc aucun respect pour les quelques années que votre fragilité physique vous accorde ?&lt;/ispeech&gt;
+
+La dragonne grogne entre ses dents acérées comme des lames, mais sa voix résonne dans votre esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne sais vraiment pas pourquoi le manque de perspicacité des kiths continue de me surprendre.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Partez, tant que vous en avez la possibilité. Sauf si vous êtes, comme moi, emprisonné ici.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Partez, tant que vous en avez la possibilité. Sauf si vous êtes, comme moi, emprisonnée ici.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;Mais sachez que toute chose touche à sa fin en ces lieux.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;J'imagine bien.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quelle &lt;i&gt;sorte&lt;/i&gt; de créature êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous n'êtes pas prisonnière. Vous venez d'attaquer le Bastion des Envoyés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je ne vous laisserai pas tuer quelqu'un d'autre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous vous sentirez bien moins prisonnière après vous avoir tuée. Une nouvelle fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"D'après Rymrgand, vous êtes morte quand vous êtes entrée en ces lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;Les circonstances ne me laissent pas le temps de répondre à des questions ridicules.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;ispeech&gt;J'ai offert aux croyants l'oubli qu'ils désiraient. Vous voulez m'empêcher de répondre à leurs prières ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;J'ai offert aux croyants l'oubli qu'ils désiraient. Vous voulez m'empêcher de répondre à leurs prières ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;Peu importe. Il me faut des âmes. J'en avais presque accumulé suffisamment pour atteindre mon objectif, mais votre intervention m'a forcée à en utiliser une partie conséquente.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;Au final, le prélèvement qui s'annonce sera sur votre note.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Au final, le prélèvement qui s'annonce sera sur votre note.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Une compréhension de simplet pour une situation compliquée.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Non.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Je flaire sur vous le sang de Scyorielaphas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Je flaire sur vous le sang de Scyorielaphas.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;Avez-vous donc pour habitude d'infliger votre personne à vos supérieurs ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Avez-vous donc pour habitude d'infliger votre personne à vos supérieurs ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;Pensez-vous votre labeur juste ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Pensez-vous votre labeur juste ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>&lt;ispeech&gt;Je flaire sur vous le sang de Sefyra.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Je flaire sur vous le sang de Sefyra.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je ne tue que pour aider ceux dans le besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Pas forcément, mais le boulot paie bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ce n'est clairement pas désagréable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Les dieux en seront les juges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Alors, aidez-moi à comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Votre pitoyable autojustification ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Cela me semble plutôt clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Possible. Mais vous ressemblez à un monstre, et tuer les monstres est mon boulot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>&lt;ispeech&gt;Et je n'éprouve pas le besoin de me justifier.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;Cela ne fait aucun doute. Vraiment.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;Vous trouverez bien peu ci-dessous. Et encore moins à emporter avec vous.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous trouverez bien peu ci-dessous. Et encore moins à emporter avec vous.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>La tête du grand reptile penche sur le côté alors qu'un œil luisant se pose sur vous. Ses narines se dilatent.</DefaultText>
+      <FemaleText>La tête du grand reptile penche sur le côté alors qu'un œil luisant se pose sur vous. Ses narines se dilatent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;Je flaire sur vous le sang de Jadaferlas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Je flaire sur vous le sang de Jadaferlas.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne suis responsable ni de votre illumination ni de votre évolution.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Je ne suis responsable ni de votre illumination ni de votre évolution.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;Peut-être, magicien.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;ispeech&gt;Descendez dans le Néant, ou non. Peu m'importe.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;ispeech&gt;Un jour. Mais je dois d'abord m'occuper de mes entraves.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La bête grogne plusieurs fois, comme un grave roulement venu du fond de sa gorge.
+
+Elle rit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>&lt;ispeech&gt;Vos divinités autoproclamées ne méritent pas une telle autorité.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Allons, Capitaine Gardien, on va quand même pas donner une raison à cette grosse bestiole d'avoir une bonne opinion de vous."</DefaultText>
+      <FemaleText>"Allons, capitaine Gardienne, on va quand même pas donner une raison à cette grosse bestiole d'avoir une bonne opinion de vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;Personne, ici, n'a besoin de votre aide. Ou ne pourrait en bénéficier.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Personne, ici, n'a besoin de votre aide. Ou ne pourrait en bénéficier.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Elle lève les yeux, pensive, avant d'agiter la tête comme si elle essayait en même temps d'acquiescer et d'exprimer son désaccord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Enfin. Des fois. Je veux dire, on ne peut pas faire sans les petites tueries inattendues, hein ? Et que dire de tous ces ours qui voulaient juste qu'on les laisse tranquilles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous avez trempé vos mains dans des situations qui en auraient fait fuir plus d'un."</DefaultText>
+      <FemaleText>"Vous avez trempé vos mains dans des situations qui en auraient fait fuir plus d'un."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hel, ils la méritent plus qu'une sorte de lézard à moitié pourri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hé, c'était pas une insulte, ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>&lt;ispeech&gt;Les paroles de votre bovidé putréfié divin ne me concernent pas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

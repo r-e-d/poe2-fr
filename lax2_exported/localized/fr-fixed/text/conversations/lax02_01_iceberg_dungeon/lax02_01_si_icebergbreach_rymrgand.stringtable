@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergbreach_rymrgand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>140</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous tenez devant le portail scintillant qui a dévoré la dragonne. À cette distance, vous remarquez qu'il s'agit en fait d'une déchirure grossière dans la réalité.</DefaultText>
+      <FemaleText>Vous vous tenez devant le portail scintillant qui a dévoré la dragonne. À cette distance, vous remarquez qu'il s'agit en fait d'une déchirure grossière dans la réalité.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une fois la lumière estompée et votre vue récupérée, vous réalisez que vous vous trouvez face à un grand auroch velu. Un froid mordant irradie de la créature.
+
+C'est une manifestation de Rymrgand.</DefaultText>
+      <FemaleText>Une fois la lumière estompée et votre vue récupérée, vous réalisez que vous vous trouvez face à un grand auroch velu. Un froid mordant irradie de la créature.
+
+C'est une manifestation de Rymrgand.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Traverser la brèche réduira votre âme en particules à peine plus grosses que des grains d'essence capricieux."</DefaultText>
+      <FemaleText>"Traverser la brèche réduira votre âme en particules à peine plus grosses que des grains d'essence rebelles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-il arrivé à la dragonne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Votre brèche va congeler tout le Feu éteint, si vous ne la fermez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Voilà qui est malencontreux pour vous."</DefaultText>
+      <FemaleText>"Voilà qui est malencontreux pour vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous devez faire quelque chose !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ce monde plongera dans le froid, dans l'équilibre. Ce destin est inévitable.
+
+"Je ne le retarderai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Alors, je fermerai la brèche moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mais vous n'avez pas de moyen pour entrer dans le Vytmádh et survivre à ce voyage.
+
+"Vous devez trouver l'Œil de Rymrgand, une relique qui appartenait autrefois à ma vassale, Rynhaedr.
+
+"Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</DefaultText>
+      <FemaleText>"Mais vous n'avez pas de moyen pour entrer dans le Vytmádh et survivre à ce voyage.
+
+"Vous devez trouver l'Œil de Rymrgand, une relique qui appartenait autrefois à ma vassale, Rynhaedr.
+
+"Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je préfère vous voir échouer que de vous empêcher de passer."</DefaultText>
+      <FemaleText>"Je préfère vous voir échouer que de vous empêcher de passer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je trouverai la relique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Approchez du Vytmádh une fois la relique entre vos mains. Je permettrai à votre âme d'entrer en toute sécurité dans mon royaume."</DefaultText>
+      <FemaleText>"Approchez du Vytmádh une fois la relique entre vos mains. Je permettrai à votre âme d'entrer en toute sécurité dans mon royaume."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Le seul dessein du Néant blanc est détruire les âmes. Et il est plutôt efficace dans ce domaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Il se tait, et seul le cri du vent engouffré par la brèche rompt le silence. La lumière s'intensifie une dernière fois avant de vite disparaître.
+
+Vous ouvrez les yeux, la Bête n'est plus là.</DefaultText>
+      <FemaleText>Il se tait, et seul le cri du vent engouffré par la brèche rompt le silence. La lumière s'intensifie une dernière fois avant de vite disparaître.
+
+Vous ouvrez les yeux, la Bête n'est plus là.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Montrer la relique à Rymrgand] "Vous parlez de cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>La lumière aveuglante de la brèche varie en accord avec les battements du cœur d'Eora. Votre âme bat en réponse.</DefaultText>
+      <FemaleText>La lumière aveuglante de la brèche varie en accord avec les battements du cœur d'Eora. Votre âme bat en réponse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Entrer dans la brèche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Entrer dans la brèche]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Les battements de votre âme accélèrent quand vous vous approchez de la brèche. Un soudain &lt;i&gt;désir ardent&lt;/i&gt; vous envahit. Vous n'avez pas le temps d'y réfléchir que vous tendez déjà la main vers la lumière.
+
+Votre âme est arrachée de vous et réduite en innombrables fils d'essence. Votre corps sans vie s'écroule au sol.
+
+C'est terminé.</DefaultText>
+      <FemaleText>Les battements de votre âme accélèrent quand vous vous approchez de la brèche. Un soudain &lt;i&gt;désir ardent&lt;/i&gt; vous envahit. Vous n'avez pas le temps d'y réfléchir que vous tendez déjà la main vers la lumière.
+
+Votre âme est arrachée de vous et réduite en innombrables fils d'essence. Votre corps sans vie s'écroule au sol.
+
+C'est terminé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Héraut de Berath, vous dansez sur le fil très fin de votre vie."</DefaultText>
+      <FemaleText>"Héraut de Berath, vous dansez sur le fil très fin de votre vie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous violez une fois de plus mon royaume... désirez-vous tant que cela être réduit en poussière ?"</DefaultText>
+      <FemaleText>"Vous violez une fois de plus mon royaume... désirez-vous tant que cela être réduite en poussière ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vos intrusions sont une marque d'audace. J'aurais pensé que vous auriez appris la leçon après notre dernière... rencontre."</DefaultText>
+      <FemaleText>"Vos intrusions sont une marque d'audace. J'aurais pensé que vous auriez appris la leçon après notre dernière... rencontre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Cela vous est égal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Qu'est-ce que ça signifie ? Un soudain revirement ? Faire passer vos intérêts en second ne vous ressemble pas."</DefaultText>
+      <FemaleText>"Qu'est-ce que ça signifie ? Un soudain revirement ? Faire passer vos intérêts en second ne vous ressemble pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"La flamme de Magran &lt;i&gt;brûle&lt;/i&gt; intensément en vous, n'est-ce pas ?"</DefaultText>
+      <FemaleText>"La flamme de Magran &lt;i&gt;brûle&lt;/i&gt; intensément en vous, n'est-ce pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous avez le mal du pays, n'est-ce pas ? Le froid de mon souffle sur votre nuque vous manque tant que cela ?
+
+"Je suis flatté."</DefaultText>
+      <FemaleText>"Vous avez le mal du pays, n'est-ce pas ? Le froid de mon souffle sur votre nuque vous manque tant que cela ?
+
+"Je suis flatté."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Éothas doit prendre bien trop son temps pour atteindre la fin, vu comme vous avez l'air impatient de la précipiter."</DefaultText>
+      <FemaleText>"Éothas doit prendre bien trop son temps pour atteindre la fin, vu comme vous avez l'air impatiente de la précipiter."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Venez-vous de nouveau proposer vos services ? Je pourrais peut-être vous trouver une utilité.
+
+"Mais ce que la déesse de la mort touche n'appartient qu'à elle. Pour le moment."</DefaultText>
+      <FemaleText>"Venez-vous de nouveau proposer vos services ? Je pourrais peut-être vous trouver une utilité.
+
+"Mais ce que la déesse de la mort touche n'appartient qu'à elle. Pour le moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Le panthéon vous fatigue-t-il tant que cela pour que vous veniez me voir directement ? Je suis flatté."
+
+"Je n'ai plus rien à leur dire. Ce sont des fous sans importance, façonnés à l'image des kiths qui les ont créés."</DefaultText>
+      <FemaleText>"Le panthéon vous fatigue-t-il tant que cela pour que vous veniez me voir directement ? Je suis flatté."
+
+"Je n'ai plus rien à leur dire. Ce sont des fous sans importance, façonnés à l'image des kiths qui les ont créés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Venez-vous enfin mettre en pratique votre menace ?"</DefaultText>
+      <FemaleText>"Venez-vous enfin mettre en pratique votre menace ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Attaquer] "Je vous tuerai moi-même !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Racler votre gorge] "Alors, à propos de cette histoire..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Un gloussement sourd et sec résonne dans toute la salle. Il fait trembler la plateforme sous vos pieds.</DefaultText>
+      <FemaleText>Un gloussement sourd et sec résonne dans toute la salle. Il fait trembler la plateforme sous vos pieds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous vous retrouvez momentanément sans forme, sans poids... libre. Puis plus rien.</DefaultText>
+      <FemaleText>Vous vous retrouvez momentanément sans forme, sans poids... libre. Puis plus rien.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Les serres acérées de la peur agrippent-elles votre cœur, Gardien, maintenant que vous affrontez la fin de toutes choses ?
+
+"Pitoyable."</DefaultText>
+      <FemaleText>"Les serres acérées de la peur agrippent-elles votre cœur, Gardienne, maintenant que vous affrontez la fin de toutes choses ?
+
+"Pitoyable."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>LR Ydwin: [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
+      <FemaleText>LR Ydwin: [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>LR Vatnir: [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Plus vous vous approchez, plus la lumière du portail s'intensifie, au point d'être insupportable.</DefaultText>
+      <FemaleText>Plus vous vous approchez, plus la lumière du portail s'intensifie, au point d'être insupportable.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Vous devez me confondre avec un autre kith. Je n'oserais jamais provoquer un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Envoyez mes salutations à votre dieu aux nombreux yeux."</DefaultText>
+      <FemaleText>"Envoyez mes salutations à votre dieu aux nombreux yeux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je suis fatigué, Rymrgand. Je suis prêt pour en finir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Eora vous demande tant et vous donne si peu en retour. De mon côté, je vous propose la paix que vous désirez vraiment."</DefaultText>
+      <FemaleText>"Eora vous demande tant et vous donne si peu en retour. De mon côté, je vous propose la paix que vous désirez vraiment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Rymrgand laisse échapper un long soupir de satisfaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Il me reste encore tant à accomplir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Oui, Berath sait tenir ses molosses au bout d'une courte laisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Si jamais vous désirez être libéré définitivement des griffes de la Chevaleresse blême, venez me voir. Je me ferai un plaisir de vous accorder ce souhait."</DefaultText>
+      <FemaleText>"Si jamais vous désirez être libérée définitivement des griffes de la Chevaleresse blême, venez me voir. Je me ferai un plaisir de vous accorder ce souhait."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Alors retentit un craquement et un gémissement, comme si la glace cédait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Neriscyrlas a lié son âme à une relique venue des âges ancestraux, quand les dieux foulaient Eora sous la forme de titans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Cette relique se trouve dans l'Au-delà, où elle garde prisonnière son âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Tout à fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Maintenant que vous savez cela, que désirez-vous ?"</DefaultText>
+      <FemaleText>"Maintenant que vous savez cela, que désirez-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Son âme a été aspirée dans la faille, à travers le Vytmádh, jusque dans l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Quelle est la différence entre le Vytmádh et le Néant blanc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Le Vytmádh est la gueule béante de l'entropie. Le Néant blanc est la faim qui dévore les entrailles d'Eora sans être jamais rassasiée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>LR Ydwin: [Ydwin responds to Rymrgand calling the player pitiful for fearing death.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Passons un marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Vous pensez encore pouvoir conclure un marché honnête avec moi ou tout autre dieu... remarquable. Naïf, mais remarquable."</DefaultText>
+      <FemaleText>"Vous pensez encore pouvoir conclure un marché honnête avec moi ou tout autre dieu... remarquable. Naïf, mais remarquable."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Hausser les épaules] "Question de foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Rymrgand renâcle avec dérision. Un nuage de cristaux glacés flotte un instant dans l'air avant d'être dispersé par le vent hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Partir] "Oubliez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Le grondement grave du rire de Rymrgand secoue le temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Est-ce la raison de la présence de cet iceberg ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Oui. L'iceberg est la conséquence naturelle des tentatives désespérées de Neriscyrlas d'échapper à la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"À chaque fois qu'elle s'extirpe de l'Au-delà et atteint l'Ici-bas, elle agrandit un peu plus la déchirure.
+
+"Ce qui permet au froid de mon royaume de se répandre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Une dernière chose, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Approchez du Vytmádh la relique à la main. Cela permettra à votre âme d'entrer en toute sécurité dans les Royaumes détruits."</DefaultText>
+      <FemaleText>"Approchez du Vytmádh la relique à la main. Cela permettra à votre âme d'entrer en toute sécurité dans les Royaumes détruits."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Si vous vous faites attraper, pas même Berath ne pourra vous sauver."</DefaultText>
+      <FemaleText>"Si vous vous faites attraper, pas même Berath ne pourra vous sauver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Rymrgand marque une pause pendant que ses nombreux yeux clairs vous observent intensément.</DefaultText>
+      <FemaleText>Rymrgand marque une pause pendant que ses nombreux yeux clairs vous observent intensément.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Vous &lt;i&gt;devez&lt;/i&gt; détruire cette dragonne."</DefaultText>
+      <FemaleText>"Vous &lt;i&gt;devez&lt;/i&gt; détruire cette dragonne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Qui est Neriscyrlas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"C'est le nom que la dragonne s'est donnée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Attendez avant de détaler, Héraut de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Si vous songez à revenir, dites-vous bien qu'il vous manque le moyen d'entrer dans le Vytmádh et de survivre à ce voyage.
+
+"Vous devez trouver l'Œil de Rymrgand, une relique qui appartenait autrefois à ma vassale, Rynhaedr. Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</DefaultText>
+      <FemaleText>"Si vous songez à revenir, dites-vous bien qu'il vous manque le moyen d'entrer dans le Vytmádh et de survivre à ce voyage.
+
+"Vous devez trouver l'Œil de Rymrgand, une relique qui appartenait autrefois à ma vassale, Rynhaedr. Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"N'oubliez pas qu'il vous faut trouver l'Œil de Rymrgand, si vous voulez entrer dans le Vytmádh.
+
+"Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</DefaultText>
+      <FemaleText>"N'oubliez pas qu'il vous faut trouver l'Œil de Rymrgand, si vous voulez entrer dans le Vytmádh.
+
+"Il s'agit d'une pierre bleue et froide. Elle repose quelque part dans ce temple."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Lui adresser un regard noir sans mot dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Et votre culte, les Envoyés... qu'en est-il d'eux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ils ont fait ce que font tous les kiths : ils se sont approprié un lieu qui ne leur appartient pas.
+
+"Je ne me préoccupe pas de leur sort."</DefaultText>
+      <FemaleText>"Ils ont fait ce que font tous les kiths : ils se sont approprié un lieu qui ne leur appartient pas.
+
+"Je ne me préoccupe pas de leur sort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ceci dit, vous pouvez peut-être faire quelque chose pour moi."</DefaultText>
+      <FemaleText>"Ceci dit, vous pouvez peut-être faire quelque chose pour moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Tel un asticot, la dragonne Neriscyrlas s'est logée sous la peau de mon royaume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Détruisez-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Non. Je ne suis pas votre grouillot."</DefaultText>
+      <FemaleText>"Non. Je ne suis pas votre grouille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Avec plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Vous &lt;i&gt;pourriez&lt;/i&gt; accomplir quelque chose pour moi."</DefaultText>
+      <FemaleText>"Vous &lt;i&gt;pourriez&lt;/i&gt; accomplir quelque chose pour moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Ah, de l'initiative. Excellent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Un grondement sourd secoue le sol à vos pieds.</DefaultText>
+      <FemaleText>Un grondement sourd secoue le sol à vos pieds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Qu'est-ce que j'y gagne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"En effet. Vous appartenez à Berath."</DefaultText>
+      <FemaleText>"En effet. Vous appartenez à Berath."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Mais dans le cas présent, mes intérêts et les vôtres convergent.
+
+"Après tout, vous pourriez trouver compliqué de survivre si Eora se retrouve figée dans la glace."</DefaultText>
+      <FemaleText>"Mais dans le cas présent, mes intérêts et les vôtres convergent.
+
+"Après tout, vous pourriez trouver compliqué de survivre si Eora se retrouve figée dans la glace."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Très bien, je le ferai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Un court sursis avant ma victoire inéluctable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Pourquoi voulez-vous que la dragonne meure ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Elle a trouvé le moyen de s'immuniser à ma destruction. De ce fait, elle se moque de l'essence même de mon royaume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Oh, super. Un autre dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Je me demandais quand vous alliez vous montrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Alors que, moi, je n'en ai rien à faire de vous."</DefaultText>
+      <FemaleText>"Alors que, moi, je n'en ai rien à faire de vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Encore vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Un parmi tant, oui. Mais ils sont plus ma cour que mon conseil, et ils se blottissent en ma présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"J'aimerais vous demander la même chose."</DefaultText>
+      <FemaleText>"J'aimerais vous demander la même chose."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Rappelez-moi qui vous êtes ? Il y a tant de dieux... pas facile de suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Je suis Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Un vent d'un froid mordant souffle du portail et vous engloutit dans un tourbillon de neige dansante.
+
+Vous ne parvenez pas à respirer. Vous avez déjà du mal à rester debout.</DefaultText>
+      <FemaleText>Un vent d'un froid mordant souffle du portail et vous engloutit dans un tourbillon de neige dansante.
+
+Vous ne parvenez pas à respirer. Vous avez déjà du mal à rester debout.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Maintenant, vous vous souviendrez de moi."</DefaultText>
+      <FemaleText>"Maintenant, vous vous souviendrez de moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Je sais que vous êtes l'énigmatique dieu du froid et de tout ce qui va avec, mais il me faudrait plus d'informations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Éradiquez la dragonne, et le Vytmádh fermera, ce qui épargnera votre précieux royaume du froid insatiable du Néant blanc."</DefaultText>
+      <FemaleText>"Éradiquez la dragonne, et le Vytmádh se refermera, ce qui épargnera au monde qui vous est si cher le froid insatiable du Néant blanc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Je n'empêcherai pas mes serviteurs d'accomplir leur devoir. Ils vous traiteront comme n'importe quelle âme rebelle."</DefaultText>
+      <FemaleText>"Je n'empêcherai pas mes serviteurs d'accomplir leur devoir. Ils vous traiteront comme n'importe quelle âme rebelle."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Le vent finit par se calmer, et vous pouvez de nouveau respirer. Le froid a blanchi vos extrémités. Vous ne sentez plus vos mains.</DefaultText>
+      <FemaleText>Le vent finit par se calmer, et vous pouvez de nouveau respirer. Le froid a blanchi vos extrémités. Vous ne sentez plus vos mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Pourquoi pensez-vous que je pourrais réussir là où vous avez échoué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[Rire] "Donc un kith peut accomplir ce qui tient le grand dieu Rymrgand en échec ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"La relique qu'elle a liée à son âme se trouve être imperméable à mon influence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Mais il reste bien des choses que je peux accomplir, Héraut de Berath."
+
+Une pellicule de glace apparaît à vos pieds. Elle s'étend, se solidifie et commence à remonter le long de vos jambes. Vous êtes immobilisé, et vos membres s'engourdissent lentement.</DefaultText>
+      <FemaleText>"Mais il reste bien des choses que je peux accomplir, Héraut de Berath."
+
+Une pellicule de glace apparaît à vos pieds. Elle s'étend, se solidifie et commence à remonter le long de vos jambes. Vous êtes immobilisée, et vos membres s'engourdissent lentement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Vous ne me faites pas peur, espèce de vache gonflée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Ok, ok, désolé ! Je retire ce que j'ai dit !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>La glace monte jusqu'au ventre. Elle se resserre autour de votre torse. Chaque inspiration est plus difficile que la précédente. Des points dansent devant vos yeux.</DefaultText>
+      <FemaleText>La glace monte jusqu'au ventre. Elle se resserre autour de votre torse. Chaque inspiration est plus difficile que la précédente. Des points dansent devant vos yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Sages paroles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>La glace enveloppant vos jambes se morcelle et tombe. Sans la moindre sensation dans les jambes, vous finissez par terre. Vous restez un moment au sol, à laisser de côté votre dignité pour mieux vous concentrer sur le moyen de vous relever.</DefaultText>
+      <FemaleText>La glace enveloppant vos jambes se morcelle et tombe. Sans la moindre sensation dans les jambes, vous finissez par terre. Vous restez un moment au sol, à laisser de côté votre dignité pour mieux vous concentrer sur le moyen de vous relever.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[Lui cracher dessus] "Que les dieux aillent se faire foutre, et vous en particulier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>La glace monte pour couvrir votre bouche, puis toute votre tête. Vous êtes complètement prisonnier d'un glaçon qui commence maintenant à envahir votre gorge. Le froid brûle vos entrailles.
+
+Rymrgand vous gèle à l'intérieur comme à l'extérieur.</DefaultText>
+      <FemaleText>La glace monte pour couvrir votre bouche, puis toute votre tête. Vous êtes complètement prisonnière d'un glaçon qui commence maintenant à envahir votre gorge. Le froid brûle vos entrailles.
+
+Rymrgand vous gèle à l'intérieur comme à l'extérieur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>La glace enveloppant vos jambes se morcelle et tombe. Vous ne sentez plus vos pieds et êtes sur le point de tomber quand [Specified 0] vous rattrape habilement.</DefaultText>
+      <FemaleText>La glace enveloppant vos jambes se morcelle et tombe. Vous ne sentez plus vos pieds et êtes sur le point de tomber quand [Specified 0] vous rattrape habilement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Un soupir de satisfaction s'échappe de la bouche bovine et en pleine décomposition de Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Un soupir de satisfaction s'échappe de la bouche bovine et en pleine décomposition de Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Un soupir de satisfaction s'échappe de la bouche bovine et en pleine décomposition de Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>La glace monte pour couvrir votre bouche, puis toute votre tête. Vous êtes complètement prisonnier d'un glaçon qui commence maintenant à envahir votre gorge. Le froid brûle vos entrailles.
+
+Rymrgand vous gèle à l'intérieur comme à l'extérieur sous le regard horrifié de vos compagnons.</DefaultText>
+      <FemaleText>La glace monte pour couvrir votre bouche, puis toute votre tête. Vous êtes complètement prisonnière d'un glaçon qui commence maintenant à envahir votre gorge. Le froid brûle vos entrailles.
+
+Rymrgand vous gèle à l'intérieur comme à l'extérieur sous le regard horrifié de vos compagnons.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Quelle relique ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Une des nombreuses choses que les kiths ont jetées dans l'Au-delà en espérant qu'elles seraient dévorées par le Néant blanc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Pourquoi la dragonne a-t-elle lié son âme à cet objet en particulier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"La relique ne peut être détruite. Dans son ignorance, Neriscyrlas espérait que lier son âme pourrait la sauver de la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Elle se trompait. La vraie mort ne l'a pas encore attrapée, mais ce n'est qu'une question de temps. C'est inévitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Elle est déjà morte. Elle refuse juste de l'accepter."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

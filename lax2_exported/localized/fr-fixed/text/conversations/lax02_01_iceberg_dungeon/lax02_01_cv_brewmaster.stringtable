@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_brewmaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gótvadhjur, ami voyageur. J'ai du rymsjódda, si vous voulez vous affranchir du froid."
+
+L'elfe remplit une chope sous un tonneau, un léger sourire incurvant sa barbe, avant de vous la remettre.</DefaultText>
+      <FemaleText>"Gótvadhjur, amie voyageuse. J'ai du rymsjódda, si vous voulez vous affranchir du froid."
+
+L'elfe remplit une chope sous un tonneau, un léger sourire incurvant sa barbe, avant de vous la remettre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est tout ce que vous désirez ?"</DefaultText>
+      <FemaleText>"C'est tout ce que vous désirez ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce qui vous amène ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partir] "Ce n'est pas important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous disiez que vous tentez de fabriquer la bière idéale ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Un bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"On brasse du rymsjódda non seulement pour son goût mais pour se protéger du froid mortel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"La fin du monde est peut-être proche, mais, en attendant, je vous fournis ce qu'il vous faut."</DefaultText>
+      <FemaleText>"La fin du monde est peut-être proche, mais, en attendant, je vous fournis ce qu'il vous faut."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"L'alcool nous permet d'oublier, même si ce n'est que temporaire. C'est l'œuvre de ma vie : brasser le rymsjódda parfait. La difficulté consiste en l'obtention des bons ingrédients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je ne suis pas guerrier depuis longtemps, et les machines ont des armes et des boucliers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous revoilà. Est-ce trop vous demander de rapporter du fluide d'un automate givré ?"</DefaultText>
+      <FemaleText>"Vous revoilà. Est-ce trop vous demander de rapporter du fluide d'un automate givré ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Fantastique. Je vais pouvoir l'ajouter tout de suite à la première fournée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pas si vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vraiment ? Rien d'étonnant. Tout a une fin. Quelle importance, si certaines choses prennent plus de temps que d'autres ?" Il accepte la flasque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du dhakklátur ! Pardon, je dois l'ajouter au mélange sans délai !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"C'est pas tout à fait une surprise. Et pourtant, il semblait en être content. Pendant un temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Si vous récupérez du fluide sur l'un d'eux, je vous en récompenserai volontiers. Avec de l'argent ou du troc."
+
+Il marque une pause, l'air pensif.</DefaultText>
+      <FemaleText>"Si vous récupérez du fluide sur l'un d'eux, je vous en récompenserai volontiers. Avec de l'argent ou du troc."
+
+Il marque une pause, l'air pensif.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Votre bière a tué cet Envoyé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"En effet, Rymrgand l'a rappelé au néant. Il y a de pires manières de partir, si je puis me permettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous feriez peut-être bien d'en avaler une lampée vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hein, non, non. Rymrgand décide de nos fins. Jamais je ne me risquerais à lui jalouser ce choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"C'est... quelque chose. Assurément. Épicé, mais doux à la fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oh... c'est... la couleur. Par le Néant, Nyvardir, je crois que vous êtes sur la bonne piste..."</DefaultText>
+      <FemaleText>"Oh... c'est... la couleur. Par le Néant, Nyvardir, je crois que vous êtes sur la bonne piste..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vraiment... Je me sens un peu... comme dans un drakkar sur une mer en furie... Urk, par les dieux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du rymsjódda ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Accepter la boisson] "À la santé de la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Accepter la boisson] "Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Refuser la boisson] "Non merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'est une bière. Qui a été brassée et a vieilli dans des contrées plus rudes encore pour lutter contre la morsure du froid. Elle est très populaire ici, comme vous vous en doutez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja, c'est l'esprit même de cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ce n'est rien. De nouveaux Envoyés arrivent toutes les semaines. Nous essayons de fournir un accueil aussi chaleureux que possible dans cet endroit désolé, malgré nos moyens limités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Comme vous voulez."
+
+Il retire la bière et en prend une gorgée au passage.</DefaultText>
+      <FemaleText>"Comme vous voulez."
+
+Il retire la bière et en prend une gorgée au passage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous commencez à prendre goût à notre breuvage ? Je vous en sers une. Contre de l'argent ou du troc."</DefaultText>
+      <FemaleText>"Vous commencez à prendre goût à notre breuvage ? Je vous en sers une. Contre de l'argent ou du troc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous ne savez pas ce qu'est le rymsjódda ? Vous n'êtes pas de la côte des Blanches étendues, pas vrai ?"</DefaultText>
+      <FemaleText>"Vous ne savez pas ce qu'est le rymsjódda ? Vous n'êtes pas de la côte des Blanches étendues, pas vrai ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous n'en avez jamais bu ? Je vous envie presque, de pouvoir en goûter pour la première fois !"</DefaultText>
+      <FemaleText>"Vous n'en avez jamais bu ? Je vous envie presque, de pouvoir en goûter pour la première fois !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Allons, capitaine. Si un brave homme nous propose de quoi se déshydrater, ce serait très impoli de notre part de ne pas au moins y goûter !"
+
+Il s'empare de la chope et avale une longue gorgée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vous avez quelque chose de plus fort ? Le voyage a été long, et on a vu des choses qu'on préférerait oublier, pour certains d'entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Capitaine, où est passé votre courage ?" Tekēhu accepte le verre et sirote la mousse du bout des lèvres.</DefaultText>
+      <FemaleText>"Capitaine, où est passé votre courage ?" Tekēhu accepte le verre et sirote la mousse du bout des lèvres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eh bien, ce n'est pas parce que vous refusez son hospitalité que je vais faire de même."</DefaultText>
+      <FemaleText>"Eh bien, ce n'est pas parce que vous refusez son hospitalité que je vais faire de même."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Un des sourcils pâles au-dessus des yeux carmin d'Ydwin se soulève.</DefaultText>
+      <FemaleText>Un des sourcils pâles au-dessus des yeux carmin d'Ydwin se soulève.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous avez changé d'avis, à propos de ce verre ? Je serais ravi de vous le servir. Contre de l'argent ou du troc, bien entendu."</DefaultText>
+      <FemaleText>"Vous avez changé d'avis, à propos de ce verre ? Je serais ravi de vous le servir. Contre de l'argent ou du troc, bien entendu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bienvenue, mon frère."</DefaultText>
+      <FemaleText>"Bienvenue, ma sœur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Concrètement, je voulais dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Moi aussi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Glousser poliment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"J'étais sur un drakkar. Avec des rames et un seul mât. Concrètement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"On ne peut pas s'y rendre à la nage, ja ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Il hoche la tête, accompagnant ce petit geste d'un léger rictus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Il hausse les épaules, soutenant votre regard.</DefaultText>
+      <FemaleText>Il hausse les épaules, soutenant votre regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Oui, même s'il est compliqué de trouver de bons ingrédients au Bastion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ce qui fait la bière parfaite, ça ne dépend pas de celui qui la boit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Pourquoi se donner tant de mal, si la fin du monde approche ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Quels ingrédients recherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je voudrais parler d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Parlez donc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Pourquoi se donner tant de mal tout court ? Parce que j'en ai envie. Parce que j'aime relever ce défi. Parce que j'adore la bière."
+
+Souriant, il pose la main sur son ventre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je ne me fais pas d'illusions : mon œuvre ne me survivra pas et ne sera d'importance pour personne d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Pourquoi perdre le sommeil à réfléchir à des futilités que je ne contrôle pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Non." Il sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Pourriez-vous préciser le fond de votre pensée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"C'est très bien le long des Côtes blanches, mais plus au sud (voire ici au Bastion, d'ailleurs), disons que ça pourrait être amélioré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"J'ai vu des machines déambuler sur les icebergs : des objets de métal en forme de kiths, qui n'ont cure du froid. Je me dis qu'elles doivent être remplies d'une substance qui les tient au chaud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"J'ai bien envie d'en rajouter une petite quantité à ma dernière production, quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je vais voir ce que je peux trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ça ne me paraît pas très sain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous êtes complètement cinglé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"... Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"C'est bien possible. Mais on ne le saura pas tant qu'on n'aura pas tenté le coup, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Pas complètement, non. Mais je ne prétends pas non plus être entièrement rationnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je vous dois une faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Bien sûr. Dites-moi quel sujet vous intéresse."</DefaultText>
+      <FemaleText>"Bien sûr. Dites-moi quel sujet vous intéresse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Ydwin, ce sont les nuits qui durent des mois qui rendent votre peuple fou ? Ou bien le froid ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"En voilà un qui s'entoure des cerveaux les plus vifs du Feu éteint." Elle vous montre d'un geste de la main.</DefaultText>
+      <FemaleText>"En voilà une qui s'entoure des cerveaux les plus vifs du Feu éteint." Elle fait un signe en votre direction.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Capitaine, je me disais... On ferait sans doute bien de réfléchir à nouveau à l'idée d'envoyer Ydwin au combat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ydwin, j'ai beau savoir que ce n'est pas le cas, on dirait bien que Gaun vous a fait dans le même moule, tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Pendant qu'il recule, sa main descend à hauteur de sa hanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je ne peux pas vous donner ça. C'est incroyablement toxique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Détruire le fluide] "Non. Je ne vous laisserai pas donner ça aux autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Je vous le donne, mais sachez bien que c'est hautement néfaste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Nous n'avons pas encore discuté du paiement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Et ? La mort fait partie de la vie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Tenez, je possède cet anneau. Il provient du temple. Et il est magique ! Vous me l'échangez contre le fluide ? Ou de l'argent ? J'ai de l'argent. Quatre mille pièces !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh, bien sûr. Je veux bien vous proposer en échange cet anneau magique que j'ai trouvé au temple. Sinon, si vous préférez de l'argent, je peux vous offrir quatre mille pièces de cuivre."</DefaultText>
+      <FemaleText>"Oh, bien sûr. Je veux bien vous proposer en échange cet anneau magique que j'ai trouvé au temple. Sinon, si vous préférez de l'argent, je peux vous offrir quatre mille pièces de cuivre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je veux les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je prends l'anneau enchanté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je préfère l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Disons huit mille pièces de cuivre et marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Nyvardir vous perce du regard tandis que vous renversez le fluide sur le sol. Il siffle entre ses dents et vous tourne le dos.</DefaultText>
+      <FemaleText>Nyvardir vous perce du regard tandis que vous renversez le fluide sur le sol. Il siffle entre ses dents et vous tourne le dos.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Les deux ?" Il siffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Très bien ! Tenez, prenez tout. Maintenant, donnez-moi le fluide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Lui donner le fluide] "Voici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Détruire le fluide] "Certainement pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Quoi ? Mais il me revient de droit !" Il plonge sur vous.</DefaultText>
+      <FemaleText>"Quoi ? Mais il me revient de droit !" Il plonge sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Donnez-le-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Tenez, mon brave. Buvez une bonne rasade à la santé de la Bête hivernale."</DefaultText>
+      <FemaleText>"Tenez, donzelle. Buvez une bonne rasade à la santé de la Bête hivernale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Tout breuvage est bon à boire, si vous voulez mon avis. Même ce jus de cale dilué que boivent les Étoiles de l'aube se marie bien avec le rhum."</DefaultText>
+      <FemaleText>"Tout breuvage est bon à boire, si vous voulez mon avis. Même ce jus de cale dilué que boivent les Étoiles de l'aube se marie bien avec le rhum."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vous mélangez l'hydromel et le rhum ? Ce monde mérite définitivement le désir de purification de Rymrgand."</DefaultText>
+      <FemaleText>"Vous mélangez l'hydromel et le rhum ? Ce monde mérite définitivement le désir de purification de Rymrgand."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Voilà qui paraît assurément promettre du bon temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ou non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je m'attendais à ce que vous n'en rameniez même pas la moitié. Voire rien du tout, en vérité.
+Je vais pouvoir l'ajouter tout de suite à mon premier brassage."</DefaultText>
+      <FemaleText>"Je m'attendais à ce que vous n'en rameniez même pas la moitié. Voire rien du tout, en vérité.
+Je vais pouvoir l'ajouter tout de suite à mon premier brassage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"C'est... euh, ça fait beaucoup ! Il y a de quoi faire plusieurs brassages ! Je vais pouvoir l'ajouter tout de suite à mon premier brassage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Eh bien... vous en avez ramené une sacrée quantité. Très bien. Tenez."</DefaultText>
+      <FemaleText>"Eh bien... vous en avez ramené une sacrée quantité. Très bien. Tenez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"J'en accepterai autant que vous pourrez m'en trouver. Je vais bien trouver à quoi ça va me servir, à un &lt;i&gt;moment&lt;/i&gt; donné."</DefaultText>
+      <FemaleText>"J'en accepterai autant que vous pourrez m'en trouver. Je vais bien trouver à quoi ça va me servir, à un &lt;i&gt;moment&lt;/i&gt; donné."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Alors vous revoilà. Très bien. J'accepterai votre argent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Eh bien... vous en avez ramené une sacrée quantité. Très bien. Tenez."</DefaultText>
+      <FemaleText>"Eh bien... vous en avez ramené une sacrée quantité. Très bien. Tenez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"La bête de glace arrive !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

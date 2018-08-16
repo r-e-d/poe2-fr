@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_bs_hw_vatnir_missing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Et où est passé Vatnir ? Il n'a pas pu s'enfuir bien loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hé, où est le gars aux cornes ? Au moins, on ne le perdra pas au milieu de la foule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Le prêtre a abandonné sa paroisse ? Il n'a pas pu aller bien loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Où ce bonhomme a-t-il filé ? Il est bien trop chétif pour être allé loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Not' zigoto baveux a fiché l'camp. Vous l'voyez, Gardien ?"</DefaultText>
+      <FemaleText>"Not' zigoto baveux a fiché l'camp. Vous l'voyez, Gardienne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Où est passé ce gamin à tête de chèvre ? On peut sans doute le traquer à l'odeur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Et notre ami bavard qui disparaît à un moment pareil ! Capitaine, il n'a pas pu aller bien loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

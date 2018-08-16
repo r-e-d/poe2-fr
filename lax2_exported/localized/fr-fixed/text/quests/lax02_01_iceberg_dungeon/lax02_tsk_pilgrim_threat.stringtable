@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_pilgrim_threat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ceux d'en haut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vaincre les pèlerins au Piton rocheux en hauteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parler à Brythe à la Demeure des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'&lt;b&gt;Envoyée Brythe&lt;/b&gt; m'a demandé de me charger d'un problème auquel les fidèles de Rymrgand du Bastion des Envoyés sont confrontés : les adeptes qui sont arrivés sur la &lt;b&gt;Morne banquise&lt;/b&gt; avant eux. Ces &lt;b&gt;pèlerins&lt;/b&gt; ont établi un campement au-dessus du bastion et attaquent tout ce qui passe à leur portée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Des &lt;b&gt;pèlerins&lt;/b&gt; hostiles ont établi un &lt;b&gt;campement&lt;/b&gt; entre le Bastion des Envoyés et le temple de Rymrgand. Pour garantir la sécurité du Bastion – ou pour dégager le chemin menant au Vytmádh – je vais devoir les vaincre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Il faudrait que j'informe &lt;b&gt;Brythe&lt;/b&gt; du fait que les pèlerins ne constituent plus une menace. Elle se trouve probablement dans la &lt;b&gt;grotte de pêche sur glace&lt;/b&gt; au Bastion des Envoyés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sans équipement spécialisé, j'ai peu de chances de réussir à grimper jusqu'au Piton rocheux en hauteur. Le Grand Envoyé possède peut-être quelque chose qui m'aidera dans mon ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai obtenu des pics à glace de Vatnir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué les pèlerins fanatiques au &lt;b&gt;Piton rocheux en hauteur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

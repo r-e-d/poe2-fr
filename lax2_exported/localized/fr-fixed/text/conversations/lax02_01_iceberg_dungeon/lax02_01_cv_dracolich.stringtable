@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_dracolich</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La dragonne, ou cette carapace pourrie en forme de dragon, dirige un œil luisant vers vous. Vous sentez son regard fouiller votre âme, inspecter votre esprit.
+
+Un grondement sourd provient de sa gueule. Bien que menaçant, le grognement ne se transforme pas en paroles.</DefaultText>
+      <FemaleText>La dragonne, ou cette carapace pourrie en forme de dragon, dirige son œil luisant vers vous. Vous sentez son regard fouiller votre âme, inspecter votre esprit.
+
+Un grondement sourd provient de sa gueule. Bien que menaçant, le grognement ne se transforme pas en paroles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>La dragonne, ou cette carapace pourrie en forme de dragon, ne remarque pas votre présence avant que vous ne vous approchiez. Sa tête pivote vivement dans un grognement qui voit ses narines pourries projeter des flammes pourpres.
+
+Vous sentez son regard fouiller votre âme, inspecter votre esprit.</DefaultText>
+      <FemaleText>La dragonne, ou cette carapace pourrie en forme de dragon, ne remarque pas votre présence avant que vous ne vous approchiez. Sa tête pivote vivement dans un grognement qui voit ses narines pourries projeter des flammes pourpres.
+
+Vous sentez son regard fouiller votre âme, inspecter votre esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que faites-vous à ces gens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous êtes censée être la messagère de Rymrgand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attaquer] "Préparez-vous à mourir, vil animal !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partir] "Je ne voulais pas vous déranger. Je vous laisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>La créature renâcle, un bruit clairement moqueur accompagné d'un flash pourpre sortant de ses narines putréfiées, et porte un des Envoyés morts à sa bouche. Elle arrache le bras de l'elfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les babines de la créature se retroussent pour découvrir des crocs putréfiés tandis que son rire joue avec les limites de votre esprit.</DefaultText>
+      <FemaleText>Les babines de la créature se retroussent pour découvrir des crocs putréfiés tandis que son rire joue avec les limites de votre esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>La dragonne change de position, écrasant la neige sous ses pattes griffues, et se tourne vers vous. Vous entendez son rire à l'entrée de votre esprit.</DefaultText>
+      <FemaleText>La dragonne change de position, écrasant la neige sous ses pattes griffues, et se tourne vers vous. Vous entendez son rire à l'entrée de votre esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>La dragonne change de position, écrasant la neige et la glace sous ses pattes griffues, et se tourne vers vous.</DefaultText>
+      <FemaleText>La dragonne change de position, écrasant la neige et la glace sous ses pattes griffues, et se tourne vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Que faites-vous à ces gens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous êtes censée être la messagère de Rymrgand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attaquer sans avertissement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Reculer lentement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"D'après mon expérience, les dragons adorent généralement s'entendre parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Glauque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;Bien que votre subtilité soit impressionnante, elle ne m'oblige en rien à considérer vos questions.&lt;/ispeech&gt;
+
+Ses paroles se faufilent tels des vers de terre dans vos pensées.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Bien que votre subtilité soit impressionnante, elle ne m'oblige en rien à considérer vos questions.&lt;/ispeech&gt;
+
+Ses paroles se faufilent tels des vers de terre dans vos pensées.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

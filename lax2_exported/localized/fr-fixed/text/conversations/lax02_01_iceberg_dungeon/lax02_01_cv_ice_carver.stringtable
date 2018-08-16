@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_ice_carver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cette sculpture, gravée dans un bloc de glace, domine une Glamfellen. Elle se déplace le long de la sculpture, un burin dans une main, un maillet dans l'autre. Son regard acéré reste fixé dessus comme s'il avait le pouvoir de la faire fondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La sculptrice taille avec précaution quelques éclats de glace. Elle ne prête aucune attention à vous pendant un moment.</DefaultText>
+      <FemaleText>La sculptrice taille avec précaution quelques éclats de glace. Elle ne prête aucune attention à vous pendant un moment.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Belle utilisation de la perspective pour souligner la domination du sujet sur le spectateur. Une manière intelligente de mettre en valeur le pouvoir que les dieux exercent sur les mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Où avez-vous appris à sculpter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partir] "Bon, je ferais mieux d'y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elle cligne des yeux en vous regardant, puis renifle avec mépris. Un gloussement discret s'échappe de ses lèvres recourbées, tandis qu'elle secoue la tête.</DefaultText>
+      <FemaleText>Elle cligne des yeux en vous regardant, puis renifle avec mépris. Un gloussement discret s'échappe de ses lèvres recourbées, tandis qu'elle secoue la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Très vailien. Penser à propos de la chose... &lt;i&gt;parler de&lt;/i&gt; la chose... sans jamais en faire l'expérience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Est-ce que je devrais plutôt m'adresser à quelqu'un d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Qu'est-ce qui vous a amené dans cet avant-poste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vatnir. Il se trouve souvent dans la cabane sur la colline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous le reconnaîtrez à ses traits. Il porte la marque du toucher de Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je suis comme un poisson hors de l'eau. Bien peu respectent l'art dans les Blanches étendues s'il n'a aucune fonction. Si on ne peut pas l'emporter avec soi."</DefaultText>
+      <FemaleText>"Je suis comme un poisson hors de l'eau. Bien peu respectent l'art dans les Blanches étendues s'il n'a aucune fonction. Si on ne peut pas l'emporter avec soi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ailleurs, il y aurait peu d'intérêt envers une artiste dont l'œuvre est destinée à fondre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Elle se tourne vers vous, son sourcil blanc comme neige surplombant un œil couleur améthyste.</DefaultText>
+      <FemaleText>Elle se tourne vers vous, son sourcil blanc comme neige surplombant un œil couleur améthyste.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui ? De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Elle se tourne lentement vers vous, resserrant les mains sur ses outils.</DefaultText>
+      <FemaleText>Elle se tourne lentement vers vous, resserrant les mains sur ses outils.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Elle ne répond pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Excusez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Se racler la gorge]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Vous en aller]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[S'éclaircir à nouveau la voix. Plus fort]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Le bruit lui fait relever la tête, qu'elle tourne d'un côté puis de l'autre afin d'en localiser la source, avant de braquer ses yeux couleur d'améthyste sur vous.</DefaultText>
+      <FemaleText>Le bruit lui fait relever la tête, qu'elle tourne d'un côté puis de l'autre afin d'en localiser la source, avant de braquer ses yeux couleur d'améthyste sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Eh bien, quel accueil chaleureux, on se sent comme à la maison, pas vrai ?" Xoti frotte ses bras contre le givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est pas le ton d'une dame heureuse de vous voir, cap'. Il m'est plus qu'un peu familier."</DefaultText>
+      <FemaleText>"C'est pas le ton d'une dame heureuse de vous voir, cap'. Il m'est plus qu'un peu familier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"De ma mère. Elle m'a appris bien des choses. À donner forme à la glace. À aiguiser une lame d'obsidienne. À nettoyer la carcasse d'un phoque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Si c'est comme ça qu'elle prend les compliments, qu'est-ce que ça va être quand on va en arriver aux insultes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>L'elfe croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Il n'y a qu'ici qu'on puisse comprendre son côté éphémère. Ici où la dernière chanson s'emballe pour son dernier vers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'est... quelque chose. Assurément. Qu'est-ce que c'est censé être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous plaisantez ? Ou serait-ce une tentative d'insulte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ça représente clairement Rymrgand, la Bête hivernale, le Dieu de la fin. Évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ah. Oui, j'arrive à le voir, maintenant. Clairement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je croyais que Rymrgand était moins un homme-auroch et plutôt un auroch-auroch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je dois y travailler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Elle plisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Elle soupire et repousse une mèche de son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Elle émet un reniflement de dérision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oui. Et si vous vouliez bien me laisser faire, je pourrais y consacrer l'attention méritée."</DefaultText>
+      <FemaleText>"Oui. Et si vous vouliez bien me laisser faire, je pourrais y consacrer l'attention méritée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Parce que les dieux sont limités à une seule forme. Avez-vous besoin de quelque chose ?"
+
+Les bras croisés, la sculptrice vous regarde en fronçant les yeux.</DefaultText>
+      <FemaleText>"Parce que les dieux sont limités à une seule forme. Avez-vous besoin de quelque chose ?"
+
+Les bras croisés, la sculptrice vous regarde en fronçant les yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je suppose que vous ne pouvez pas me parler de cet iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"À part le fait de devenir plus large à chaque lune pour finir par engloutir tout Eora ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"À part ça, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je suppose que ça ne vous inquiète pas, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ou évitons plutôt de parler de l'iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Non, je ne peux pas. C'est la volonté de la Bête hivernale, et je ne saurais la remettre en question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Pas spécialement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Elle soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

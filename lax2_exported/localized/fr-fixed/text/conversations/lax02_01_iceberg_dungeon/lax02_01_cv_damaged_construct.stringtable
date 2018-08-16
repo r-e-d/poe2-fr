@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_damaged_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bien qu'intact en grande partie, cet automate semble avoir une fuite quelque part. Une trainée de fluide vert à l'odeur douce coule le long de la carapace de la machine. La glace en dessous a noirci, comme brûlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Chercher l'origine de la fuite]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Siphonner le fluide de l'automate]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Un panneau sur le côté de l'appareil permet d'accéder à ses entrailles. À l'intérieur, vous apercevez le réservoir duquel le fluide coule.</DefaultText>
+      <FemaleText>Un panneau sur le côté de l'appareil permet d'accéder à ses entrailles. À l'intérieur, vous apercevez le réservoir duquel le fluide coule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous fabriquez un simple siphon en recourant à un tube et à de la physique de base, ce qui vous permet de tirer une grande quantité de fluide de l'automate sans le déranger.</DefaultText>
+      <FemaleText>Vous fabriquez un simple siphon en recourant à un tube et à de la physique de base, ce qui vous permet de tirer une grande quantité de fluide de l'automate sans le déranger.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous retirez prudemment une mesure du fluide... mais pas assez prudemment. Des rouages s'enclenchent et des ressorts s'actionnent : vous parvenez juste à enlever votre main (et le précieux fluide) de la machine sans dommage.</DefaultText>
+      <FemaleText>Vous retirez prudemment une mesure du fluide... mais pas assez prudemment. Des rouages s'enclenchent et des ressorts s'actionnent : vous parvenez juste à enlever votre main (et le précieux fluide) de la machine sans dommage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous retirez prudemment une mesure du fluide... mais pas assez prudemment. Vous arrachez votre main (et le précieux fluide) de la machine, non sans qu'elle subisse de nombreuses entailles. Votre sang gicle sur la neige.</DefaultText>
+      <FemaleText>Vous retirez prudemment une mesure du fluide... mais pas assez prudemment. Vous arrachez votre main (et le précieux fluide) de la machine, non sans qu'elle subisse de nombreuses entailles. Votre sang gicle sur la neige.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dans un bruit ressemblant à une herse qui s'abat, l'automate tourne son attention vers vous.</DefaultText>
+      <FemaleText>Dans un bruit ressemblant à une herse qui s'abat, l'automate tourne son attention vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Récupérer le fluide de l'automate]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Récupérer le fluide de l'automate]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mais des engrenages, rouages et mécanismes similaires remplissent l'intérieur de la machine, et un faux mouvement pourrait vous faire perdre des doigts, voire pire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

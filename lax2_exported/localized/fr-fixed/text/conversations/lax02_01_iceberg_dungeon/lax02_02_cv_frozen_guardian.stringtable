@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_frozen_guardian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>363</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une âme se tient devant vous , scintillante et indistincte, ses traits elfiques angulaires se fondant dans le néant au niveau de ses contours.</DefaultText>
+      <FemaleText>Une âme se tient devant vous , scintillante et indistincte, ses traits elfiques angulaires se fondant dans le néant au niveau de ses contours.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous commettez une intrusion."
+
+La voix de l'âme semble provenir de partout à la fois... d'elle-même, de l'air qui vous entoure et de l'intérieur de votre esprit. Sa froideur parcourt les côtés de votre cou, l'engourdissement descendant de vos oreilles vers vos épaules.</DefaultText>
+      <FemaleText>"Vous commettez une intrusion."
+
+La voix de l'âme semble provenir de partout à la fois... d'elle-même, de l'air qui vous entoure et de l'intérieur de votre esprit. Sa froideur parcourt les côtés de votre cou, l'engourdissement descendant de vos oreilles vers vos épaules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>La silhouette se rapproche d'un pas, et l'air semble plus glacial et plus sec. Du givre se propage depuis ses pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je vous aiderai si je le peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous avez essayé de tuer cette abomination ? Savez-vous ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Avant de venir ici, c'était une dragonne. Ce qu'elle est devenue depuis, je ne saurais dire au juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Elle est tombée sur notre temple en produisant une puissante magie. Je croyais qu'elle voulait le temple lui-même ou le savoir accumulé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je me trompais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je dois trouver cette dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Alors, vous devez chercher en bas. Sachez cependant que le Néant blanc &lt;i&gt;va&lt;/i&gt; vous consumer."</DefaultText>
+      <FemaleText>"Alors, vous devez chercher en bas. Sachez cependant que le Néant blanc &lt;i&gt;va&lt;/i&gt; vous consumer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Quelques âmes ici présentes s'accrochent avec ténacité à leur cohérence, parfois depuis des siècles. Cherchez-les si vous voulez connaître les secrets de leur longévité."</DefaultText>
+      <FemaleText>"Quelques âmes ici présentes s'accrochent avec ténacité à leur cohérence, parfois depuis des siècles. Cherchez-les si vous voulez connaître les secrets de leur longévité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Même si j'imagine que la Bête hivernale préfèrerait plutôt que vous précipitiez leur dissolution."</DefaultText>
+      <FemaleText>"Même si j'imagine que la Bête hivernale préfèrerait plutôt que vous précipitiez leur dissolution."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Rynhaedr vous adresse un signe de tête.</DefaultText>
+      <FemaleText>Rynhaedr incline la tête à votre attention.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous gardez votre personnalité. Votre vie. Votre conscience. Votre âme. Comment ?"</DefaultText>
+      <FemaleText>"Vous gardez votre personnalité. Votre vie. Votre conscience. Votre âme. Comment ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lui montrer l'Œil de Rymrgand] "Rymrgand m'a donné ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Réussir là où j'ai échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cet endroit doit vous être familier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"C'est un endroit intermédiaire. Un puits descendant dans le Néant blanc, où toutes les choses ne sont rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Comment puis-je fermer le Vytmádh ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai fini par le percevoir comme le Passage écroulé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Si je le laisse tel qu'il est, la glace va recouvrir le Feu éteint tout entier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tout a une fin."
+
+Elle soupire en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Faites ce que vous voulez, tant que vous tuez le grand ver."</DefaultText>
+      <FemaleText>"Faites ce que vous voulez, tant que vous tuez le grand ver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je devrais probablement quitter cet endroit. Le Feu éteint a besoin de mon intégrité corporelle et spirituelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Alors, partez. Tout finira en ruines givrées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vouliez-vous poser une autre question ?"</DefaultText>
+      <FemaleText>"Vouliez-vous poser une autre question ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pourquoi me parlez-vous en aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Pouvez-vous m'en dire davantage sur ces royaumes échos ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je ne peux vous parler que de trois d'entre eux. Il en est d'autres, mais ils existent au-delà de ma compréhension."</DefaultText>
+      <FemaleText>"Je ne peux vous parler que de trois d'entre eux. Il en est d'autres, mais ils existent au-delà de ma compréhension."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Il y a un royaume entier englouti en bas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Y a-t-il d'autres royaumes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Qu'entendiez-vous par « enchaîné de questions » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ne savez-vous rien d'autre du royaume le plus jeune ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je voudrais parler d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Chacun est un reflet des âmes qu'il contient, des esprits à la dérive à cause de la calamité qui a causé leur perte. Certaines âmes s'accrochent plus fort que les autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Un royaume englouti, de sel et de corail. Un royaume de cuivre enchaîné de questions. Ils étaient là lors de mon arrivée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Le troisième est encore jeune, et chaud comme un bûcher festif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je ne connais pas d'autres mots pour ça. Ses salles résonnent de cris d'agonie, et de grandes machines tournent au-dessus d'interrogateurs masqués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est un cauchemar antique, qui s'alimente de l'amertume et du dépit kith qui s'y trouve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je parle la langue de mon peuple. Si vous l'entendez comme la vôtre, c'est à cause de cet endroit."</DefaultText>
+      <FemaleText>"Je parle la langue de mon peuple. Si vous l'entendez comme la vôtre, c'est à cause de cet endroit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous reconnaissez sa forme comme étant celle du cadavre en armure gelé dans le temple, au-delà du portail.</DefaultText>
+      <FemaleText>Vous reconnaissez sa forme comme étant celle du cadavre en armure gelé dans le temple, au-delà du portail.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je n'ai pas vu de serrure sur la porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Allez, entrez-y, maintenant." Xoti remue sa lanterne en direction de l'entité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vatnir est bouche bée devant le fantôme et recule d'un pas vers le portail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"J'ai une invitation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"C'est un peu une habitude chez moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ce serait une intrusion où, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Xoti, voulez-vous faire usage de votre lanterne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ses yeux immatériels de fantôme suivent la lanterne d'un côté comme de l'autre, sans qu'elle semble affectée pour autant. Son attention se porte à nouveau sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Oui. Vous et tous les autres. Et pourtant, vous arrivez avant l'heure prévue." Son front se plisse.</DefaultText>
+      <FemaleText>"Oui. Vous et tous les autres. Et pourtant, vous arrivez avant l'heure prévue." Son front se plisse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ou peut-être après."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Elle ne répond rien, accrochant votre regard avec le sien.</DefaultText>
+      <FemaleText>Elle ne répond rien, accrochant votre regard avec le sien.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Taciturne, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mes excuses. Ma bouche me joue parfois des tours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Dites-moi simplement ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Dans le territoire de terreur de Rymrgand. Le royaume des morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous avez l'air quelque peu égaré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je suis Gardien."</DefaultText>
+      <FemaleText>"Je suis Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ah bon ?"
+
+Elle incline légèrement la tête tout en étudiant vos traits.</DefaultText>
+      <FemaleText>"Ah bon ?"
+
+Elle incline légèrement la tête tout en étudiant vos traits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"La dissolution s'empare de tout ce qui vient ici. Telle est la nature de ce royaume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je n'y fais pas exception. Toute mon énergie m'a servi à faire appel à Rymrgand. Ce qui reste monte la garde ici. Contre le grand ver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Intéressant. Et pratique, je suppose. Mais quel rapport ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ses sourcils tricotent le fantôme d'un froncement. Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Les yeux de l'esprit s'agrandissent alors qu'elle fait un geste vers l'orbe. Elle s'arrête à mi-chemin, les doigts tremblants, avant de laisser retomber sa main à son flanc. Son attention retombe vers le sol gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Mais qui êtes-vous donc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Votre présence laisse à penser que Rymrgand a choisi un nouveau protecteur pour couper court au grand ver."</DefaultText>
+      <FemaleText>"Votre présence laisse à penser que Rymrgand a choisi une nouvelle protectrice pour couper court au grand ver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"J'&lt;i&gt;étais&lt;/i&gt; Rynhaedr des &lt;link="neutralvalue://Un terme ordhjóma qui semble faire référence à la garde d'un temple."&gt;gandhur&lt;/link&gt;. Désormais, je ne suis qu'une ombre devant vous."</DefaultText>
+      <FemaleText>"J'&lt;i&gt;étais&lt;/i&gt; Rynhaedr des &lt;link="neutralvalue://Un terme ordhjóma qui semble faire référence à la garde d'un temple."&gt;gandhur&lt;/link&gt;. Désormais, je ne suis qu'une ombre devant vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"J'ai vu votre corps au-dehors du portail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Elle acquiesce lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Nous n'avons pu protéger ni le temple ni le Vytmádh. J'ai fait appel à la Bête hivernale, et son givre est tombé sur nous, nous exterminant là où nous nous tenions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Quand était-ce, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mais même ça n'a pas suffi. Ma dernière vision avant que mes yeux gèlent, c'était le grand ver qui nous dépassait pour aller dans la Gueule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Il y a bien longtemps. Je ne sais point comment évaluer de telles choses."</DefaultText>
+      <FemaleText>"Il y a bien longtemps. Je ne sais point comment évaluer de telles choses."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Est-ce qu'Aedyr avait déjà perdu le contrôle du Dyrwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ça fait des siècles que personne n'a fabriqué d'armures comme la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Quelle année était-ce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ce n'est pas faux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Le Dyrwood ?" Elle fronce les sourcils en entendant le mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Des siècles ? Oui, ça pouvait bien être il y a des siècles."
+
+Elle jette un regard interrogatif sur l'étrange décor qui vous entoure.</DefaultText>
+      <FemaleText>"Des siècles ? Oui, ça pouvait bien être il y a des siècles."
+
+Elle jette un regard interrogatif sur l'étrange décor qui vous entoure.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je ne connais pas ce nom. Aedyr était une alliance du peuple des prairies et des Sceltrfolcs, n'est-ce pas ? Elle était encore jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"J'avais vu près d'une centaine d'hivers. Une bonne vie. Une longue vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Elle ne dit rien et regarde au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Si le souvenir de cet esprit est vrai, alors elle a été liée à ce lieu pendant bien plus de deux cents ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Edér commence à compter sur ses doigts. Il perd le fil, jure dans sa barbe et recommence plusieurs fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Aedyr a pris forme il y a environ quatre siècles, mais n'a établi de colonie dans le Dyrwood que lors des deux derniers." Elle tapote sa lèvre supérieure d'un doigt tendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Elle a dû être là depuis au moins deux siècles si elle ne connaît même pas l'existence du Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Pourquoi ? Il est sacré pour Rymrgand." Un froncement confus barre son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Voilà qui explique tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Un endroit intermédiaire ? Est-ce que ça a un rapport avec ces chemins ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Comment se fait-il que le Néant blanc réduise tout en rien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Elle esquisse un faible sourire, mais un sourire tout de même. Il semble que votre sarcasme ne lui ait pas entièrement échappé.</DefaultText>
+      <FemaleText>Elle esquisse un faible sourire, mais un sourire tout de même. Il semble que votre sarcasme ne lui ait pas entièrement échappé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ils mènent à des endroits qui n'existent plus et à des époques passées. Cet endroit les digère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Rien n'est exactement comme auparavant, malgré d'inévitables similitudes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nous ne sommes jamais nos mères. Même si elles le voudraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Alors, ces portails mènent à des endroits morts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"À des échos de passés perdus. Est-ce plus clair ?" 
+
+Un froncement incertain domine son pâle visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"C'est le royaume de Rymrgand. L'hiver sans fin. Le vers final de la dernière messe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"C'est la fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ce n'est pas si différent pour nous. Les âmes amenées ici se fragmentent. Tombent en poussière. Ses enfants ramassent les débris et les envoient dans le néant." Elle désigne la forme biscornue et immobile laissée dans le sillage de la dragonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ça semble totalement sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je voudrais parler d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Salut encore, à vous qui marchez entre les mondes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Est-ce que ça veut dire qu'il est dangereux d'être ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Pas du tout. Ça veut juste dire que votre âme sera dissoute et évacuée."</DefaultText>
+      <FemaleText>"Pas du tout. Ça veut juste dire que votre âme sera dissoute et évacuée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Que cherchait cette dragonne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Rymrgand a offert le Vytmádh à notre peuple afin de nous permettre de lui céder les objets et les personnes qui persistaient au-delà de leur... utilité aux clans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Dans son désir de dominer le Feu éteint, le grand ver a cherché à retrouver une ou plusieurs des reliques sacrifiées."
+
+Sa mine renfrognée se tord en un sourire satisfait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Même s'il récupérait les reliques, cet idiot ne saurait en revenir, son corps ayant été détruit depuis longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Mais son âme persiste malgré le pouvoir de cet endroit, et je voudrais en voir la fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"La dragonne avait l'air furieusement solide quand nous l'avons combattue au-dehors du temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Juste une ombre forgée à partir de matière spirituelle par la volonté même du grand ver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Vous voulez dire que la dragonne s'est manifestée à partir de l'essence ambiante ?"
+
+Rynhaedr répond en hochant de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Avec une forme et une fonction similaires à une invocation. Comme c'est... inhabituel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je m'efforce de ne pas prendre pour habitude de faire le travail des dieux à leur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Rynhaedr hausse les épaules dans son armure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'espère que vous ne croyez pas sincèrement cela."</DefaultText>
+      <FemaleText>"J'espère que vous ne croyez pas sincèrement cela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je pourrais répondre à cela, mais je ne veux pas brusquer vos douces illusions."</DefaultText>
+      <FemaleText>"Je pourrais répondre à cela, mais je ne veux pas brusquer vos douces illusions."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Servir n'est pas la moitié du fardeau que vous semblez croire, vous savez."</DefaultText>
+      <FemaleText>"Servir n'est pas la moitié du fardeau que vous semblez croire, vous savez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"J'espère qu'un jour, vous verrez ça comme un honneur, et non une corvée."</DefaultText>
+      <FemaleText>"J'espère qu'un jour, vous verrez ça comme un honneur, et non une corvée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Rynhaedr soutient votre regard.</DefaultText>
+      <FemaleText>Rynhaedr soutient votre regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Dans son agitation désespérée, le grand ver a éparpillé ce royaume en ruines. Il se peut que vous trouviez votre chemin encombré à mesure de votre avancée."</DefaultText>
+      <FemaleText>"Dans son agitation désespérée, le grand ver a éparpillé ce royaume en ruines. Il se peut que vous trouviez votre chemin encombré à mesure de votre avancée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ne craignez pas de tailler la route que vous recherchez."</DefaultText>
+      <FemaleText>"Ne craignez pas de tailler la route que vous recherchez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ce n'est pas mon cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Oh. D'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Permettez-moi de ne pas être d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Elle hoche la tête sans quitter vos yeux du regard.</DefaultText>
+      <FemaleText>Elle hoche la tête sans quitter vos yeux du regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Il existait, dans le passé. Je me souviens d'un palais d'or et de fumée. Il n'est plus, désormais. Un temple aux salles mouvantes. Disparu lui aussi." 
+
+Elle fronce les sourcils, plissant presque des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ces royaumes sont tombés, consumés par le Néant blanc. Je ne sais pas depuis combien de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Oui... et en même temps, non."
+
+Elle fronce les sourcils et son front se plisse, à la recherche des mots qui formeront une explication adéquate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Plutôt l'écho de la fin du royaume. Il est tombé entièrement dans une grande calamité, je le crains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"L'entêtement aveugle de son chef l'a maintenu suspendu au-dessus du néant pendant des siècles, voire davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Fraîche et nue, cette blessure. Dans son agonie, elle se retrouve elle-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Je voulais vous demander autre chose à propos de cette dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je me pose des questions sur votre pays natal et votre peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>La haine traverse fugacement le visage indistinct de Rynhaedr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Posez vos questions, alors, si elles peuvent mener à la fin du grand ver."</DefaultText>
+      <FemaleText>"Posez vos questions, alors, si elles peuvent mener à la fin du grand ver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Est-il mort-vivant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"J'ai tué la dragonne et elle a ressuscité. Comment puis-je la tuer pour toujours ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Pourquoi l'appelle-t-on les Blanches étendues ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"D'où venait la dragonne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Que fait-elle ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Vous avez dit précédemment que la dragonne utilisait la sorcellerie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Savez-vous comment elle a acquis de tels pouvoirs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Je voudrais parler d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Du nord."
+
+Elle fronce le sourcil en regardant ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Une bête du Feu éteint, ayant décidé de dominer cet endroit comme l'ours des neiges domine son terrain de chasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Aucune créature, dragon ou kith, ne pouvait rivaliser. Mais ça ne lui suffisait pas, et ses yeux se sont tournés vers les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Rymrgand a offert le Vytmádh à notre peuple afin de nous permettre de lui céder les objets et les personnes qui persistaient au-delà de leur... utilité aux clans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Dans son désir de dominer le Feu éteint, le grand ver a cherché à retrouver une ou plusieurs des reliques sacrifiées."
+
+Sa mine renfrognée se tord en un sourire satisfait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Même s'il récupérait les reliques, cet idiot ne saurait en revenir, son corps ayant été détruit depuis longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"J'aimerais avoir la réponse. Peut-être qu'il suffirait de la combattre en cet endroit pour affaiblir sa prise et enfin entraîner sa chute dans le néant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Peut-être qu'elle a trouvé la relique qu'elle cherchait, accrochant son âme à cet objet plutôt qu'à une forme terrestre. Si cet objet était retrouvé, peut-être qu'il pourrait être amené à la Bête hivernale pour sa dissolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Je ne peux toutefois pas risquer la chute sur une incertitude. Pas quand je dois tenir le portail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Un réceptacle ? Elle n'a pas de forme physique..."
+
+Ses sourcils se rapprochent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Est-ce important ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Oui. J'ai besoin de savoir ce que j'affronte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je suppose que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Alors je n'oserais pas remplir ma bouche de possibilités. Je n'ai que peu d'intérêt pour de telles distinctions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Horriblement pratique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Oui. Avant même que cette chose nous atteigne, des histoires nous étaient parvenues du nord. Ses capacités de grand ver ne se limitaient pas à ses crocs, à ses griffes et à son souffle... Elle commandait à des énergies sinistres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Je l'ignore. Elle a mangé un sorcier, peut-être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Elle hoche la tête sans quitter vos yeux du regard.</DefaultText>
+      <FemaleText>Elle hoche la tête sans quitter vos yeux du regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Elle incline la tête vers vous.</DefaultText>
+      <FemaleText>Elle incline la tête vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Comment sont les Blanches étendues ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Comment étaient les Blanches étendues il y a quatre siècles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Pouvez-vous m'en dire davantage sur les elfes pâles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Fort proches de ce qu'elles sont maintenant, je suppose. Le changement est toujours lent dans les contrées."
+
+Son regard retombe tandis qu'elle réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Les Glamfellens ont-ils un avis particulier sur les elfes des bois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Comment peut-on expliquer son foyer, quand on ne l'a jamais vu que de ses propres yeux ? Les voyageurs diraient que c'est une étendue sans fin de blanc, nue et sans le moindre relief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Je leur montrerais les crêtes déchiquetées, les côtes vertigineuses, les failles abruptes, les fléaux cycloniques ou les ours des neiges... et je leur demanderais : ne les voyez-vous pas ?"</DefaultText>
+      <FemaleText>"Je leur montrerais les crêtes déchiquetées, les côtes vertigineuses, les failles abruptes, les fléaux cycloniques ou les ours des neiges... et je leur demanderais : ne les voyez-vous pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Peu de kiths appellent néanmoins les contrées leur foyer. Seulement les Glamfellens et les Enutaniks. Ils ont la volonté... la vigueur nécessaire pour endurer la présence atrophiante de la Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Plutôt que la Flamme décédée ou le Pays des cerfs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Je doute qu'il y ait beaucoup de cerfs dans les Blanches étendues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Nous autres Glamfellens l'appelons juste la Contrée. Les étrangers l'appellent les Blanches étendues, probablement parce qu'elle est principalement blanche et qu'il peut être difficile d'y naviguer... pour les non-initiés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Ydwin renifle avec dérision et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Je suppose que vous n'êtes pas d'accord, Ydwin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Bien des sortes de kiths sont venues à appeler la Contrée leur foyer au cours des dernières années, particulièrement près des ports de sa côte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Rappelez-moi de ne pas y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ça a l'air incroyable. Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Est-ce que ça ressemble au foyer que vous avez quitté, Vatnir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"C'est étrange. L'appel de l'hiver est-il devenu si fort, mon frère ?"</DefaultText>
+      <FemaleText>"C'est étrange. L'appel de l'hiver est-il devenu si fort, ma sœur ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Des kiths comme vous, sans doute."
+
+Elle esquisse un léger sourire.</DefaultText>
+      <FemaleText>"Des kiths comme vous, sans doute."
+
+Elle esquisse un léger sourire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Je n'ai guère de mal à parler du foyer."
+
+Elle incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Elle fronce les sourcils et hausse les épaules, sans rien dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Le divin regarde l'esprit qui se trouve devant lui. Bien que son masque dissimule son expression, ses épaules voûtées suggèrent la peur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"C'est un lieu cruel et trompeur. Sur ce point, au moins, elle a raison."
+
+Son regard est baissé et il semble s'adresser au sol plutôt qu'à vous ou à Rynhaedr.</DefaultText>
+      <FemaleText>"C'est un lieu cruel et trompeur. Sur ce point, au moins, elle a raison."
+
+Son regard est baissé et il semble s'adresser au sol plutôt qu'à vous ou à Rynhaedr.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Il n'est ni l'un, ni l'autre, jeune Fils de l'hiver. Difficile et rude, peut-être, mais son dessein est pur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Il croise les bras et détourne le regard, en direction du paysage amorphe qui s'étend au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"C'est une contrée rude qui façonne un peuple coriace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Il est erroné de lui attribuer des propriétés spirituelles – ou pire encore, anthropomorphiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Je connais bien ceux de votre espèce, ma fille ; si prompts à vous dissimuler derrière les mots et les symboles afin d'éviter que le monde ne souille l'idée que vous vous en faites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Et je connais ceux de la vôtre ; si prompts à affirmer que la moindre brise émane du souffle d'un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Et ne m'appelez pas « ma fille »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Vous ne pouvez nier l'existence des dieux, Ydwin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Dites franchement ce que vous avez à l'esprit, Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>L'animancienne vous toise du regard, les sourcils froncés.</DefaultText>
+      <FemaleText>L'animancienne vous toise du regard, les sourcils froncés.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Il me semble pourtant que mes actes prouvent que j'accepte l'existence des dieux – et que je suis personnellement liée à Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Je ne leur reconnais pas l'omnipotence, toutefois, et je ne les tiens pas non plus pour seuls responsables du moindre phénomène naturel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"N'avons nous pas déjà gaspillé suffisamment de temps à creuser cette cicatrice de l'esprit?"
+
+Il désigne Rynhaedr d'un geste dédaigneux de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Mettons-nous donc au travail et tuons cette dragonne ou fermons ce portail, ou que sais-je encore que vous voulez que nous fassions."</DefaultText>
+      <FemaleText>"Mettons-nous donc au travail et tuons ce dragon ou fermons ce portail, ou que sais-je encore que vous voulez que nous fassions."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Quel est le lien entre les Glamfellens et Rymrgand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Que votre propre expérience ne vous aurait pas encore appris ?"</DefaultText>
+      <FemaleText>"Que votre propre expérience ne vous aurait pas encore appris ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"La plupart des Glamfellens vivent dans les Blanches étendues, où nous nous déplaçons en clans. La vie dans la Contrée est parfois rude, mais elle subvient à nos besoins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Les enfants sont élevés en commun par le clan, chaque membre transmettant son savoir afin que tous les enfants possèdent les compétences que requiert la vie dans la Contrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"J'ai l'impression que tout cela vous manque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ce ne sont pas leurs parents qui le font ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Chaque clan est autant une famille qu'une nation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"La mère aide bien évidemment à élever l'enfant, mais il peut parfois être... compliqué de déterminer l'identité du père. Les enfants sont avant tout des enfants du clan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"J'aime la Contrée et j'aime mon peuple. Mais cette vie s'est achevée il y a bien longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Comme toute chose finit par le faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"La Contrée a bien changé, gandhur. Des communautés se sont établies le long de la côte et troquent aussi bien leur culture que leurs biens."
+
+Elle baisse ses yeux carmins vers le sol gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"C'est peut-être vrai dans le nord. Beaucoup des clans de l'intérieur des terres suivent toujours les usages d'antan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Et peu d'enfants bénéficient du soutien de deux parents, et encore moins de tout un clan."
+
+Les propos de l’animancienne sont teintés d'une grande amertume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Me demandez-vous si nous vous apprécions ?"
+
+L'esprit rit doucement.</DefaultText>
+      <FemaleText>"Me demandez-vous si nous vous apprécions ?"
+
+L'esprit rit doucement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Vous faites partie de notre peuple. Qu'en est-il pour vous ?"</DefaultText>
+      <FemaleText>"Vous faites partie de notre peuple. Qu'en est-il pour vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Je ne connais que peu les Sceltrfolcs d'Eir Glanfath. Ils ne nous font pas bon accueil sur leurs terres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Aloth est tolérable, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Ils sont comme tout le monde, il y a de bonnes et de mauvaises personnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Ce sont des faibles et des geignards, qui de plus ignorent être frappés de ces défauts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Nous commerçons un peu avec les Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>La gardienne hoche lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Je suppose que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"J'espérais obtenir une perspective historique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Merci, enfin je crois."</DefaultText>
+      <FemaleText>"Merci, enfin je crois."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Nous vénérons depuis longtemps Rymrgand car il est l'aîné des dieux, le plus puissant et le plus sage. Il a fait de la Contrée son royaume, comme il a fait de nous son peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"L'aîné de nos anciens nous a enseigné que nous sommes tombés de la fourrure de la Bête hivernale tandis qu'elle parcourait la Contrée, que les premiers Glamfellens étaient constitués à parts égales de sel, de neige et d'esprit divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"En quoi consiste la « vénération de Rymrgand » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Votre ancien vous a-t-il dit d'où venait Rymrgand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Qu'en est-il des autres dieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Elle hoche la tête sans quitter vos yeux du regard.</DefaultText>
+      <FemaleText>Elle hoche la tête sans quitter vos yeux du regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Des prières, des chants, des danses, des sacrifices. L'utilisation de reliques bénies. La défense de sites sacrés."
+
+Elle sourit et indique d'un geste la surface tourbillonnante et nacrée du Vytmádh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Nos prêtres lisent sa volonté dans les entrailles des morts. Ils nous guident tandis que nous traversons la Contrée et nous acceptons les tribulations qui s'ensuivent inévitablement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Comme toute fin, il était inéluctable dès le début. Le Nouveau-né du printemps exigeait une Bête hivernale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ma mère m'a dit un jour que, d'après elle, ils ne faisaient qu'un. Que, comme vous et moi, Rymrgand était né mortel."</DefaultText>
+      <FemaleText>"Ma mère m'a dit un jour que, d'après elle, ils ne faisaient qu'un. Que, comme vous et moi, Rymrgand était né mortel."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Mais contrairement à nous, sa naissance engendra l'enfantement, et sa mort mettra fin à la mort. Il a allumé la flamme et il enfouira les cendres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ils chantent chacun leur chant. La flamme nous réchauffe. La mer nous procure le poisson, la terre nous procure la viande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Chacun d'entre eux nous apporte un réconfort passager face au froid, et nous les remercions pour ces dons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Mais seul Rymrgand nous attend dans le Néant blanc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Je trouvais cela étrange, Gardien, que vous compreniez soudain, et si couramment, l'ordhjóma."</DefaultText>
+      <FemaleText>"Je trouvais cela étrange, Gardienne, que vous compreniez soudain, et si couramment, l'ordhjóma."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Mais elle parle ordhjóma... Elle parle bien ordhjóma, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Il me semble que c'est du rauatai, capitaine. Parlons-nous au même fantôme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Ne conversez-vous pas en aedyran, capitaine ? Étonnant."</DefaultText>
+      <FemaleText>"Ne conversez-vous pas en aedyran, capitaine ? Étonnant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Comment sait-elle... cela fait si longtemps que je n'ai entendu personne d'autre parler seki, je... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Rynhaedr tourne vers vous un regard qui brûle d'un feu estompé.</DefaultText>
+      <FemaleText>Rynhaedr tourne vers vous un regard qui brûle d'un feu estompé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Oui. Aussi prêt qu'on puisse l'être."</DefaultText>
+      <FemaleText>"Oui. Aussi prête qu'on puisse l'être."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[Partir] "Non. Il me faut encore du temps pour me préparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Puissent les dieux vous sourire. Donnez quelques nouvelles plaies à la bête de ma part."</DefaultText>
+      <FemaleText>"Puissent les dieux vous sourire. Donnez quelques nouvelles plaies à la bête de ma part."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Ce lieu décompose les esprits. Ne soyez pas surpris si les âmes requièrent quelque restauration avant de pouvoir vous venir en aide."</DefaultText>
+      <FemaleText>"Ce lieu décompose les esprits. Ne soyez pas surprise si les âmes requièrent quelque restauration avant de pouvoir vous venir en aide."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"C'est le plus ancien des mondes accessibles d'ici... et celui qui a le plus dépéri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Vous avez rassemblé autour de vous les âmes déterminées de ce lieu en une enveloppe protectrice. Vous comptez vous rendre en bas."</DefaultText>
+      <FemaleText>"Vous avez rassemblé autour de vous les âmes déterminées de ce lieu en une enveloppe protectrice. Vous comptez vous rendre en bas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Est-ce que vous m'aiderez, en bas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"J'ai prêté serment. Je dois veiller sur le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Un serment qui sera d'autant plus important si vous échouez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Je vois que de l'essence d'esprits est accrochée à vous. Vous comptez donc vous rendre en bas ?"</DefaultText>
+      <FemaleText>"Je vois que de l'essence d'esprits est accrochée à vous. Vous comptez donc vous rendre en bas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Vous comptez y aller, donc ? Dans votre état présent ? Sans la protection que peuvent conférer les âmes de ce lieu ?"</DefaultText>
+      <FemaleText>"Vous comptez y aller, donc ? Dans votre état présent ? Sans la protection que peuvent conférer les âmes de ce lieu ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>La protectrice hoche la tête et plonge son regard dans l'ouverture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>[Sauter] "Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Une fois que vous descendez, vous serez bien plus proche du cœur du Néant. Nul ne revient de cet endroit. Est-ce vraiment ce que vous souhaitez faire ?"</DefaultText>
+      <FemaleText>"Une fois que vous descendez, vous serez bien plus proche du cœur du Néant. Nul ne revient de cet endroit. Est-ce vraiment ce que vous souhaitez faire ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>[Sauter] "Suffisamment certain."</DefaultText>
+      <FemaleText>[Sauter] "Suffisamment certaine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Pas du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>L'esprit fronce les sourcils, le coin droit de ses lèvres retroussé par un léger tic. Ses narines se dilatent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Comme un incantateur capable d'incanter sa propre présence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Vous émergez de la fournaise sans la moindre brûlure."
+
+La froide curiosité de Rynhaedr vous procure une sensation quelque peu réconfortante tandis qu'elle s'attarde sur vous.</DefaultText>
+      <FemaleText>"Vous émergez de la fournaise sans la moindre brûlure."
+
+La froide curiosité de Rynhaedr vous procure une sensation quelque peu réconfortante tandis qu'elle s'attarde sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Bien qu'une braise s'agrippe à votre cape."
+
+Elle plisse les yeux.</DefaultText>
+      <FemaleText>"Bien qu'une braise s'agrippe à votre cape."
+
+Elle plisse les yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Avec pour armes une pierre à feu et de l'acier. Cela devrait vous être utile pour affronter un cadavre."
+
+Elle penche légèrement la tête en contemplant Waidwen.</DefaultText>
+      <FemaleText>"Avec pour armes une pierre à feu et de l'acier. Cela devrait vous être utile pour affronter un cadavre."
+
+Elle penche légèrement la tête en contemplant Waidwen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"La flamme vacille. Elle s'éteindra bientôt. Vous l'avez donc anéantie, l'âme qui se trouvait en son sein ?"</DefaultText>
+      <FemaleText>"La flamme vacille. Elle s'éteindra bientôt. Vous l'avez donc anéantie, l'âme qui se trouvait en son sein ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Waidwen n'est ici qu'à cause du Marteau divin. J'ai l'intention de le libérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Je dois rappeler son passé à un dieu déchaîné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Malheureusement pour Rymrgand, cette âme est déjà prise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"La Bête hivernale n'appréciera pas que vous dépouilliez son domaine d'âmes qui s'y trouvent."
+
+Elle se détourne de vous, puis hésite, vous adressant un regard par-dessus son épaule.</DefaultText>
+      <FemaleText>"La Bête hivernale n'appréciera pas que vous dépouilliez son domaine d'âmes qui s'y trouvent."
+
+Elle se détourne de vous, puis hésite, vous adressant un regard par-dessus son épaule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Priez qu'il décide de ne pas y prêter attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"C'est un guerrier d'expérience. Il serait idiot de ma part de me priver de son aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Waidwen a causé beaucoup de souffrance. Ceci lui permettra de se racheter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Si Éothas le jugeait à la hauteur, nul doute qu'il me sera utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Prenez garde à l'excès de confiance. Le grand ver a vaincu de nombreux adversaires avant vous, et son pouvoir n'a fait que croître avec le temps."</DefaultText>
+      <FemaleText>"Prenez garde à l'excès de confiance. Le grand ver a vaincu de nombreux adversaires avant vous, et son pouvoir n'a fait que croître avec le temps."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Son heure était venue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"La guerre sainte de Waidwen a causé des milliers de morts et plongé les Contrées orientales dans le chaos. Il a eu ce qu'il méritait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Avec Éothas lâché dans la nature, je ne pouvais pas prendre le risque de voir Waidwen retourner à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Je comprends. Ce récit ne manque pas de logique. Et nous y jouons tous notre rôle."
+
+Elle incline la tête à votre attention.</DefaultText>
+      <FemaleText>"Je comprends. Ce récit ne manque pas de logique. Et nous y jouons tous notre rôle."
+
+Elle incline la tête à votre attention.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>À travers le trou béant que Neriscrylas a laissé dans son sillage, vous distinguez des fragments d'îlots désolés qui se dissolvent lentement – les échos d'âmes de défunts en décomposition – et qui flottent entre vous et l'étendue tourbillonnante et sans fin du Néant blanc.</DefaultText>
+      <FemaleText>À travers le trou béant que Neriscrylas a laissé dans son sillage, vous distinguez des fragments d'îlots désolés qui se dissolvent lentement – les échos d'âmes de défunts en décomposition – et qui flottent entre vous et l'étendue tourbillonnante et sans fin du Néant blanc.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[Descendre dans la tanière de Neriscrylas]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Vous avez refait surface."
+
+Rynhaedr porte sa froide attention sur vous.</DefaultText>
+      <FemaleText>"Vous avez refait surface."
+
+Rynhaedr porte sa froide attention sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Vous êtes de retour de votre interrogatoire."
+
+Le regard de Rynhaedr vous perce de part en part.</DefaultText>
+      <FemaleText>"Vous êtes de retour de votre interrogatoire."
+
+Le regard de Rynhaedr vous perce de part en part.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Vous portez le roi des temps anciens comme un nouveau-né dans vos bras, pathétique et pleurnichard."</DefaultText>
+      <FemaleText>"Vous portez le roi des temps anciens comme un nouveau-né dans vos bras, pathétique et pleurnichard."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Et avec une couronne, rien de moins. Impressionnant."
+
+Elle toise le roi, un sourire narquois aux lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"En ce moment même, l'eau s'écoule dans le Néant. Vous avez donc fait disparaître son roi ?"</DefaultText>
+      <FemaleText>"En ce moment même, l'eau s'écoule dans le Néant. Vous avez donc fait disparaître son roi ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Il a droit à la même chance de renaître que toute âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Son pouvoir augmente le mien et je le récompenserai en le renvoyant à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Qui ne souhaiterait pas se lier d'amitié avec un roi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Vous bafouez des lois éternelles et vous vous mettez en danger, ce faisant. Je vous recommande plus de prudence, à l'avenir."</DefaultText>
+      <FemaleText>"Vous bafouez des lois éternelles et vous vous mettez en danger, ce faisant. Je vous recommande plus de prudence, à l'avenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Espérons que son pouvoir soit à la hauteur de l'idée qu'il s'en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Il a voué son peuple à la ruine. Il va maintenant se racheter de ses erreurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"L'aide d'un roi sera sans nul doute très précieuse pour terrasser la dragonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Je prie qu'il en soit ainsi. Le grand ver perdure depuis bien trop longtemps."
+
+Elle incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Son heure était venue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"J'espère que Rymrgand saura l'apprécier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"C'était un imbécile bavard. Je l'ai réduit au silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Vous avez agi de manière admirable."
+
+Les coins de ses lèvres trahissent une légère frustration.</DefaultText>
+      <FemaleText>"Vous avez agi de manière admirable."
+
+Les coins de ses lèvres trahissent une légère frustration.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Et vous avez ajouté une âme de plus à votre collection."</DefaultText>
+      <FemaleText>"Et vous avez ajouté une âme de plus à votre collection."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Elle vous aidera donc à affronter le grand ver ?"
+
+Son regard s'attarde sur Naxiva.</DefaultText>
+      <FemaleText>"Elle vous aidera donc à affronter le grand ver ?"
+
+Son regard s'attarde sur Naxiva.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Vous avez brisé les chaînes et expédié dans le néant l'âme qui les avait forgées."</DefaultText>
+      <FemaleText>"Vous avez brisé les chaînes et expédié dans le néant l'âme qui les avait forgées."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Ce lieu la torturait. Ou elle se torturait elle-même. Quoi qu'il en soit, son existence a pris fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Je vais la renvoyer à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Je ne l'ai pas sauvée pour la sacrifier à un dragon !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Vous la mettez en péril. Tout comme vous vous mettez en péril. Sans son aide, vous n'échapperez peut-être jamais aux profondeurs."
+
+Elle soupire.</DefaultText>
+      <FemaleText>"Vous la mettez en péril. Tout comme vous vous mettez en péril. Sans son aide, vous n'échapperez peut-être jamais aux profondeurs."
+
+Elle soupire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"J'ai pleinement confiance en sa volonté et sa force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Ceci est sa sentence. Sa pénitence. Sa rédemption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Elle a une dette envers moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Je n'en doute pas. Mais est-ce suffisant pour enfin mettre un terme au monstre tapi là-dessous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Son heure était venue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Elle avait souffert des millénaires durant. Je lui ai accordé une miséricordieuse dissolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Naxiva était un monstre. J'ai mis un terme à son existence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Le maître du Néant blanc saura apprécier le sacrifice. J'espère cependant que cela ne vous place pas en situation précaire avant d'affronter le grand ver."</DefaultText>
+      <FemaleText>"Le maître du Néant blanc saura apprécier le sacrifice. J'espère cependant que cela ne vous place pas en situation précaire avant d'affronter le grand ver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Vous voyez la dragonne sur un grand bloc de glace, juste en-dessous de vous. Vous pouvez descendre, mais vous ne voyez aucune voie facile de retour.</DefaultText>
+      <FemaleText>Vous voyez la dragonne sur un grand bloc de glace, juste en-dessous de vous. Vous pouvez descendre, mais vous ne voyez aucune voie facile de retour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"On a du mal avec les barrières, l'amie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Mais votre choix est fait. Il n'y a pas de retour en arrière possible."</DefaultText>
+      <FemaleText>"Mais votre choix est fait. Il n'y a pas de retour en arrière possible."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Aurait-il pu malgré tout servir un intérêt supérieur avant sa fin définitive ? Peu importe. Une fois brisée, la glace ne peut être assemblée à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Vous êtes de retour du Néant blanc. Les choses ne se passent pas ainsi, d'ordinaire."
+
+Elle hausse l'un des coins de ses lèvres. C'est presque un sourire.</DefaultText>
+      <FemaleText>"Vous êtes de retour du Néant blanc. Les choses ne se passent pas ainsi, d'ordinaire."
+
+Elle hausse l'un des coins de ses lèvres. C'est presque un sourire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Que s'est-il passé ? J'ai observé la restauration du Vytmádh. Qu'en est-il de la bête ? Est-elle enfin occise, pour de bon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Qu'est-ce que ça change ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Neriscyrlas n'est plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Neriscyrlas n'est plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Je la porte avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Je n'ai aucune intention de vous le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Bien sûr que c'est... n'est-ce pas la raison de votre présence ici ?"</DefaultText>
+      <FemaleText>"Bien sûr que c'est... n'est-ce pas la raison de votre présence ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Vous &lt;i&gt;devez&lt;/i&gt; me dire ce qu'il s'est passé."
+
+Elle tend la main vers vous, mais la laisse ensuite retomber. Ses yeux avides sondent malgré tout les vôtres.</DefaultText>
+      <FemaleText>"Vous &lt;i&gt;devez&lt;/i&gt; me dire ce qu'il s'est passé."
+
+Elle tend la main vers vous, mais la laisse ensuite retomber. Ses yeux avides sondent malgré tout les vôtres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Vous mentez."
+
+Elle fronce les sourcils, puis son expression se mue en froide colère à votre encontre.</DefaultText>
+      <FemaleText>"Vous mentez."
+
+Elle fronce les sourcils, puis son expression se mue en froide colère à votre encontre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Je ressens la souillure du grand ver sur vous. Elle vous marque comme une gale."</DefaultText>
+      <FemaleText>"Je ressens la souillure du grand ver sur vous. Elle vous marque comme une gale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Vous plaisantez. Non... Non, vous ne plaisantez pas."
+
+Son front se plisse de désapprobation.</DefaultText>
+      <FemaleText>"Vous plaisantez. Non... Non, vous ne plaisantez pas."
+
+Son front se plisse de désapprobation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Nous n'avons rien d'autre à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Ne vous adressez pas à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Vous devriez vous en aller tant que vous le pouvez encore."</DefaultText>
+      <FemaleText>"Vous devriez vous en aller tant que vous le pouvez encore."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Je regrette de vous avoir apporté la moindre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Si vous étiez sage, vous confieriez cet objet à Rymrgand. Au Néant. Mais, de toute évidence, la sagesse ne fait pas partie de vos qualités."
+
+Les bras croisés, elle vous adresse un regard noir.</DefaultText>
+      <FemaleText>"Si vous étiez sage, vous confieriez cet objet à Rymrgand. Au Néant. Mais, de toute évidence, la sagesse ne fait pas partie de vos qualités."
+
+Les bras croisés, elle vous adresse un regard noir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Eh bien, au moins je suis toujours en vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Il n'a pas été capable de le détruire. Au moins, je l'extrais du Néant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Les dieux ont été injustes envers Neriscyrlas. Si je peux l'aider, je le ferai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Je ne vais pas me justifier auprès de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Elle se redresse et se raidit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Puissiez-vous ne jamais mourir, afin de voir tout ce que vous chérissez tomber en poussière."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</DefaultText>
+      <FemaleText>"Puissiez-vous ne jamais mourir, afin de voir tout ce que vous chérissez tomber en poussière."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Pour l'heure, peut-être. Qu'est-ce qui l'empêchera d'y retourner ?"
+
+Elle vous congédie d'un geste de la main.</DefaultText>
+      <FemaleText>"Pour l'heure, peut-être. Qu'est-ce qui l'empêchera d'y retourner ?"
+
+Elle vous congédie d'un geste de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Partez donc. Emmenez-la d'ici. Veillez bien à ne jamais revenir ici."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</DefaultText>
+      <FemaleText>"Partez donc. Emmenez-la d'ici. Veillez bien à ne jamais revenir ici."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Elle est responsable de ce qui lui est arrivé."
+
+Elle vous congédie d'un geste de la main.</DefaultText>
+      <FemaleText>"Elle est responsable de ce qui lui est arrivé."
+
+Elle vous congédie d'un geste de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous ne me le diriez pas. Ne vous ai-je pas apporté mon aide ? N'ai-je pas droit à une réponse ?"</DefaultText>
+      <FemaleText>"Je ne vois pas pourquoi vous ne me le diriez pas. Ne vous ai-je pas apporté mon aide ? N'ai-je pas droit à une réponse ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Apparemment pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Et risquer que vous succombiez à l'attraction du Néant ? Je ne crois pas, non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Je vois. Faites comme bon vous semble, dans ce cas. Comme si vous agiriez autrement."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</DefaultText>
+      <FemaleText>"Je vois. Faites comme bon vous semble, dans ce cas. Comme si vous agiriez autrement."
+
+La gardienne choisie par Rymrgand secoue la tête et se détourne de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Rynhaedr contemple le sol gelé en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Rynhaedr prend une inspiration aussi profonde que superflue, puis elle expire. Ses épaules s'affaissent légèrement et, pour la première fois depuis votre rencontre, elle semble véritablement détendue.</DefaultText>
+      <FemaleText>Rynhaedr prend une inspiration aussi profonde que superflue, puis elle expire. Ses épaules s'affaissent légèrement et, pour la première fois depuis votre rencontre, elle semble véritablement détendue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Cela fait bien longtemps que j'attends d'entendre cela."
+
+Elle sourit et vous réalisez que vous distinguez à travers son corps les silhouettes d'objets se trouvant derrière elle. Elle s'estompe.</DefaultText>
+      <FemaleText>"Cela fait bien longtemps que j'attends d'entendre cela."
+
+Elle sourit et vous réalisez que vous distinguez à travers son corps les silhouettes d'objets se trouvant derrière elle. Elle s'estompe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Je sens que ma fin est arrivée. C'est vous que je dois remercier pour cela."</DefaultText>
+      <FemaleText>"Je sens que ma fin est arrivée. C'est vous que je dois remercier pour cela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Puissiez-vous toujours arriver à bon port. Et, dans le cas contraire, puisse votre fin être prompte et miséricordieuse."</DefaultText>
+      <FemaleText>"Puissiez-vous toujours arriver à bon port. Et, dans le cas contraire, puisse votre fin être prompte et miséricordieuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Avec cette bénédiction d'adieu, la gardienne choisie par Rymrgand cède à l'attraction du Néant blanc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"J'aimerais vous demander des nouvelles de notre terre natale commune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Dans le silence qui suit la descente du dragon, un tiraillement parcourt les poils de vos bras. Après un instant, vous réalisez que cette sensation a votre âme pour origine... un écho d'essence quasiment imperceptible, même pour vos sens de Gardien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Les morceaux fracturés de l'esprit en armure que vous avez vu foncer combattre Neriscyrlas se tendent vers vous, invitants.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
