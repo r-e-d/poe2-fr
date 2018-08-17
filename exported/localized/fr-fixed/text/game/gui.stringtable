@@ -8599,7 +8599,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText> : </DefaultText>
+      <DefaultText>: </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14354,12 +14354,12 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3003</ID>
-      <DefaultText>Concentration : {0:Value} </DefaultText>
+      <DefaultText>Concentration : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3004</ID>
-      <DefaultText>Phrases : {0:Value} </DefaultText>
+      <DefaultText>Phrases : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14474,17 +14474,17 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3028</ID>
-      <DefaultText>Pénétration : {0:Value} </DefaultText>
+      <DefaultText>Pénétration : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3029</ID>
-      <DefaultText>Durée de persistance de la phrase : {0:Value:PercentBonus} </DefaultText>
+      <DefaultText>Durée de persistance de la phrase : {0:Value:PercentBonus}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3030</ID>
-      <DefaultText>Niveau de pouvoir : {0:Value} {0:Class} {0:Keyword} </DefaultText>
+      <DefaultText>Niveau de pouvoir : {0:Value} {0:Class} {0:Keyword}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15204,7 +15204,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3190</ID>
-      <DefaultText>Sélection de la {0} classe </DefaultText>
+      <DefaultText>Sélection de la {0} classe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15219,7 +15219,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3193</ID>
-      <DefaultText>Temps de récupération : {0:Value:PercentBonus} </DefaultText>
+      <DefaultText>Temps de récupération : {0:Value:PercentBonus}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15294,7 +15294,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3209</ID>
-      <DefaultText>Armes non connues : {0} </DefaultText>
+      <DefaultText>Armes non connues : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15409,7 +15409,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3232</ID>
-      <DefaultText>Caméra de suivi </DefaultText>
+      <DefaultText>Caméra de suivi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18064,7 +18064,7 @@ Après la transformation spirituelle, le druide subit un malus important au Nive
     </Entry>
     <Entry>
       <ID>3855</ID>
-      <DefaultText>Vers la cour est </DefaultText>
+      <DefaultText>Vers la cour est</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18666,7 +18666,7 @@ Merci,
     </Entry>
     <Entry>
       <ID>3976</ID>
-      <DefaultText>Résistance : {0:value:percent} </DefaultText>
+      <DefaultText>Résistance : {0:value:percent}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
