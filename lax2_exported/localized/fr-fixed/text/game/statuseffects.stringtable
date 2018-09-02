@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Résolution jusqu'à la fin du combat à chaque fois qu'un membre du groupe est assommé. Cumulable 4 fois</DefaultText>
+      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Résolution jusqu'à la fin du combat à chaque fois qu'un membre du groupe est assommé. Cumulable {0:value:straight} fois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>{0:value} à toutes les défenses en cas de coup porté. Pour chaque coup porté, le lanceur gagne {0:extravalue} à toutes les défenses (Cumulable {0:triggervalue:straight} fois)</DefaultText>
+      <DefaultText>{0:value} à toutes les défenses en cas de coup porté. Pour chaque coup porté, le lanceur gagne {0:extravalue} à toutes les défenses Cumulable {0:triggervalue:straight} fois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>La Vitesse d'attaque augmente au fur et à mesure que la Santé baisse</DefaultText>
+      <DefaultText>La Vitesse d'attaque augmente au fur et à mesure que la Santé baisse (Maximum {0:value:percentbonus})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>En cas de coup porté ou de coup critique, l'attaque suivante réussie du porteur inflige des dégâts givrants supplémentaires.</DefaultText>
+      <DefaultText>En cas de coup porté ou de coup critique, l'attaque suivante réussie du porteur inflige {0:value:bonuspercentbonus} dégâts givrants supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>L'attaque suivante réussie du porteur inflige des dégâts givrants supplémentaires.</DefaultText>
+      <DefaultText>L'attaque suivante réussie du porteur inflige {0:value:bonuspercentbonus} dégâts givrants supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>{0:statuseffects} à chaque fois qu'une attaque rate le porteur. Cumulable 5 fois.</DefaultText>
+      <DefaultText>{0:statuseffects} à chaque fois qu'une attaque rate le porteur. Cumulable {0:value:straight} fois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,32 +101,32 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Infliger un coup critique à un ennemi lui fait subir des dégâts bruts sur la durée. À chaque fois que cet ennemi inflige des dégâts, la durée augmente</DefaultText>
+      <DefaultText>Infliger un coup critique à un ennemi lui fait subir {0:value:straight} dégâts bruts chaque {0:interval} pendant {0:extravalue:duration}. À chaque fois que cet ennemi inflige des dégâts, la durée augmente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice infligent des dégâts aux ennemis à proximité</DefaultText>
+      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice infligent {0:value:straight} dégâts bruts aux ennemis à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice guérissent les alliés à proximité</DefaultText>
+      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice soignent de {0:value:straight} les alliés à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} de chances d'infliger des dégâts corrosifs sur la durée lorsqu'on subit un coup porté à l'arme</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'infliger {0:extravalue:straight} dégâts corrosifs chaque {0:interval} pendant {0:extravalue:duration} lors d'un Coup avec une arme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Bonus aux chances de conversion de coups portés en coups critiques avec les Anguilles jumelles. Les chances augmentent en fonction de la compétence Religion du porteur</DefaultText>
+      <DefaultText>Bonus de {0:value:bonuspercentbonus} aux chances de conversion de Coup en Critique. Les chances augmentent en fonction de la compétence {0:skill} du porteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>592</ID>
-      <DefaultText>Guérison sur une ZdE lorsqu'un ennemi est tué avec les Anguilles jumelles. La quantité de Santé guérie augmente en fonction de la compétence Religion du porteur</DefaultText>
+      <DefaultText>Guérison de {0:value:straight} sur une ZdE lorsqu'un ennemi est tué. La quantité de Santé guérie augmente en fonction de la compétence {0:skill} du porteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Le porteur reçoit un Engagement bonus à mesure que sa Santé faiblit</DefaultText>
+      <DefaultText>Le porteur reçoit un Engagement bonus à mesure que sa Santé faiblit. (Maximum {0:value})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

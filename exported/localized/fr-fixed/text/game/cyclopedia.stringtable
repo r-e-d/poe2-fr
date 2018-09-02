@@ -359,7 +359,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Les personnages renversés ne peuvent accomplir aucune action. La dextérité est réduite de 2 points. Les réflexes et la déviation sont réduits de 10 points.</DefaultText>
+      <DefaultText>Le Renversement est un effet d'Interruption amélioré qui fait tomber un personnage, lui demandant plus de temps pour se relever.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,7 +489,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Un critique est un jet d'attaque de 100 ou plus. Un critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un critique est porté à des effets durables (afflictions de type intoxication ou paralysie, par exemple), la durée augmente de 50 %.</DefaultText>
+      <DefaultText>Un critique est un jet d'attaque de 100 ou plus. Un critique qui inflige des dégâts augmente le total des dégâts de 25 % et la Pénétration de 50 %. Lorsqu'un critique est porté à des effets durables (afflictions de type intoxication ou paralysie, par exemple), la durée augmente de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,7 +585,7 @@ Par défaut, seulement quelques attaques peuvent produire des éraflures, à moi
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Un échec correspond à un jet d'attaque inférieur ou égal à 15. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
+      <DefaultText>Un échec correspond à un jet d'attaque inférieur à 25. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

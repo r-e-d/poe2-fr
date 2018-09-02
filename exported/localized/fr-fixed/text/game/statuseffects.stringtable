@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>5 % de chances de détruire instantanément une bête ou un kith touché et dont la Santé est inférieure à 100</DefaultText>
+      <DefaultText>{0:value:percent} de chances de détruire instantanément une bête ou un kith touché et dont la Santé est inférieure à 100</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Détruire un élément destructible accorde Coups fracassants</DefaultText>
+      <DefaultText>Détruire un élément destructible accorde &lt;link="gamedata://c65c8b7e-a50b-4c6d-a033-865d4822eb3b"&gt;Coups fracassants&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

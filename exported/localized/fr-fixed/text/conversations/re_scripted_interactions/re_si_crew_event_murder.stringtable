@@ -278,7 +278,7 @@ Le [Player Ship] poursuit sa course.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Euh, oui. Je veux dire, tout le monde a des mains et des doigts, même cette créature, non ?"</DefaultText>
+      <DefaultText>"Euh, oui. Je veux dire, tout le monde a des mains et des doigts, même [Specified 1], non ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,7 +369,7 @@ L'équipage observe la scène.</DefaultText>
       <ID>77</ID>
       <DefaultText>"C'est pas comme s'il y avait aucune tension à bord, capitaine", dit [Specified 0].
 
-"Ouais", grommelle [Specified 4]. "On se défoulait juste un peu. Ça aurait pas été pas méchant si [Specified 1] avait pas pris la tête de [Specified 2] pour un clou et s'était pas déchaîné dessus avec le marteau. Seul Skaen sait ce qui lui est passé par la tête."
+"Ouais", grommelle [Specified 4]. "On se défoulait juste un peu. Ça aurait pas été pas méchant si [Specified 1] ne s'était pas déchaîné avec le marteau. Seul Skaen sait ce qui lui est passé par la tête."
 
 [Specified 0] acquiesce, confirmant le récit.</DefaultText>
       <FemaleText />
