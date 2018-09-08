@@ -1626,12 +1626,12 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Concentration complète</DefaultText>
+      <DefaultText>Focus plein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>Perdez toute votre Concentration</DefaultText>
+      <DefaultText>Perdez tout votre Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1651,7 +1651,7 @@
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>{0:value:percent} des dégâts reçus restituent de la Concentration</DefaultText>
+      <DefaultText>{0:value:percent} des dégâts reçus restituent du Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2051,7 +2051,7 @@
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:percentbonus} d'ampleur de la zone d'effet par Concentration</DefaultText>
+      <DefaultText>(Bonus actuel : {0:value:percentbonus}) {0:extravalue:percentbonus} d'ampleur de la zone d'effet par Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2091,7 +2091,7 @@
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>{0:value:percent} des dégâts infligés octroient de la Concentration</DefaultText>
+      <DefaultText>{0:value:percent} des dégâts infligés octroient du Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

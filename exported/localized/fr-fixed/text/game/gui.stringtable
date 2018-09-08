@@ -2042,7 +2042,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Concentration</DefaultText>
+      <DefaultText>Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@ Les moines appartiennent à divers ordres guerriers instaurés à Ixamitl et dan
       <DefaultText>Rôles : Contrôle de la foule, Attaquant
 
 
-Ressource : Concentration
+Ressource : Focus
 
 Récemment découverts dans les Contrées orientales, les clairvoyants étaient autrefois appelés « brîshalgwin » (« chasseurs spirituels ») par les Glanfathans. Les clairvoyants sont capables d'entrer directement en contact avec l'âme et la psyché d'une personne, et de la manipuler en utilisant l'essence de leurs alliés ou ennemis pour canaliser leur magie. Bien que la plupart des clairvoyants continuent de vivre dans les Contrées orientales, on trouve des pratiquants de cet art aux quatre coins du monde connu. Avec le temps, ils finissent par se faire accepter, mais continuent de susciter de la méfiance, notamment chez les personnes les moins éduquées.</DefaultText>
       <FemaleText />
@@ -4462,7 +4462,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>Armures</DefaultText>
+      <DefaultText>Armure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5132,7 +5132,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1145</ID>
-      <DefaultText>Concentration {0} par coup</DefaultText>
+      <DefaultText>Focus {0} par coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5592,7 +5592,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>{0} de concentration en plus</DefaultText>
+      <DefaultText>{0} de focus en plus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6544,7 +6544,7 @@ Dans les conversations et les interactions scriptées, Athlétisme est utilisé 
     </Entry>
     <Entry>
       <ID>1464</ID>
-      <DefaultText>Les clairvoyants peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de concentration, que les clairvoyants acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
+      <DefaultText>Les clairvoyants peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de focus, que les clairvoyants acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7631,7 +7631,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1691</ID>
-      <DefaultText>Concentration max : {0}</DefaultText>
+      <DefaultText>Focus max : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13212,27 +13212,27 @@ Toutes les invocations coûtent 1 phrase de plus.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Tous les sorts de Supercherie du clairvoyant voient leur portée accrue.
 
-Les sorts de Supercherie du clairvoyant restaurent de la Concentration s'ils sont lancés avec succès sur des ennemis vulnérables aux attaques furtives.
+Les sorts de Supercherie du clairvoyant restaurent du Focus s'ils sont lancés avec succès sur des ennemis vulnérables aux attaques furtives.
 
 &lt;b&gt;Malus&lt;/b&gt;
-Le Fouet de l'âme octroie un bonus de dégâts moins important et moins de Concentration contre les cibles qui ne sont pas vulnérables aux attaques furtives.</DefaultText>
+Le Fouet de l'âme octroie un bonus de dégâts moins important et moins de Focus contre les cibles qui ne sont pas vulnérables aux attaques furtives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2822</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Augmentation de la Concentration maximale.
+Augmentation du Focus maximum.
 
-Atteindre la Concentration maximale accorde temporairement l'effet "Élévation", augmentant le Niveau de pouvoir et réduisant les coûts de Concentration à 0.
+Atteindre le Focus maximum accorde temporairement l'effet "Élévation", augmentant le Niveau de pouvoir et réduisant les coûts de Focus à 0.
 
 Le Fouet de l'âme ne s'interrompt pas sous l'effet Élévation, et octroie des bonus de dégâts additionnels pendant la durée de l'effet.
 
 &lt;b&gt;Malus&lt;/b&gt;
 Lorsque vous n'êtes pas sous l'effet Élévation, vous êtes sujet à un malus à votre Niveau de pouvoir de clairvoyant.
 
-Lorsque vous n'êtes pas sous l'effet Élévation, le Fouet de l'âme inflige nettement moins dé dégâts, mais génère davantage de Concentration.
+Lorsque vous n'êtes pas sous l'effet Élévation, le Fouet de l'âme inflige nettement moins dé dégâts, mais génère davantage de Focus.
 
-Lorsque Élévation se dissipe, la Concentration tombe à 0.</DefaultText>
+Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13240,12 +13240,12 @@ Lorsque Élévation se dissipe, la Concentration tombe à 0.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Confère la capacité « Annihilation d'âme » : Un coup au corps à corps auquel une âme a été insufflée qui consomme le reste de la &lt;xg&gt;réserve&lt;/xg&gt; de puissance du clairvoyant et la convertit en dégâts bruts infligés à la cible.
 
-Le sort Déchirement du clairvoyant coûte moins en Concentration.
+Le sort Déchirement du clairvoyant coûte moins en Focus.
 
-Mettre un ennemi à terre avec une arme au corps octroie temporairement de la Concentration et augmente la Concentration maximale.
+Mettre un ennemi à terre avec une arme au corps octroie temporairement de la Concentration et augmente le Focus maximum.
 
 &lt;b&gt;Malus&lt;/b&gt;
-Réduction de la Concentration maximale. (Ainsi que de sa quantité en début de combat)</DefaultText>
+Réduction du Focus maximum. (Ainsi que de sa quantité en début de combat)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14351,7 +14351,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3003</ID>
-      <DefaultText>Concentration : {0:Value}</DefaultText>
+      <DefaultText>Focus : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20477,7 +20477,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4425</ID>
-      <DefaultText>Concentration</DefaultText>
+      <DefaultText>Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
