@@ -802,12 +802,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Le niveau « Facile » ne requiert qu'un minimum de microgestion et pardonne facilement les erreurs de combat. Il est VIVEMENT CONSEILLÉ aux joueurs débutants ou à ceux qui n'ont pas participé à des jeux de rôles en groupe et en temps réel depuis longtemps.</DefaultText>
+      <DefaultText>Le niveau &lt;b&gt;Facile&lt;/b&gt; s'adresse aux joueurs débutants ou à ceux qui n'ont pas participé à des jeux de rôles en groupe et en temps réel depuis longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Le niveau « Normal » requiert stratégie et efficacité, mais pardonne quelques erreurs de combat. Il N'est PAS conseillé aux personnes qui n'ont jamais participé à des jeux de rôles en groupe et en temps réel !</DefaultText>
+      <DefaultText>Le niveau &lt;b&gt;Normal&lt;/b&gt; s'adresse aux joueurs voulant la difficulté par défaut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10379,7 +10379,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Le mode Histoire s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur. En outre, le groupe peut transporter un nombre illimité de fournitures de Campement.</DefaultText>
+      <DefaultText>Le mode &lt;b&gt;Histoire&lt;/b&gt; s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10404,7 +10404,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2255</ID>
-      <DefaultText>{0} des écorchures entrantes converties en coups ratés</DefaultText>
+      <DefaultText>{0} des Éraflures reçues converties en Échecs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19972,7 +19972,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4317</ID>
-      <DefaultText>Purakau</DefaultText>
+      <DefaultText>Pūrākau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

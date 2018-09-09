@@ -2801,7 +2801,7 @@
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>(Berserker) : Octroie les inspirations Ténacité et Vigueur, au lieu de Force et Dynamisme. Les chances de coups critiques des attaques au corps à corps et carnage augmentent considérablement sous Frénésie. Cependant, sous Frénésie, le barbare est confus, ne peut pas voir sa santé et subit des dégâts bruts en continu.</DefaultText>
+      <DefaultText>(Berserker) - Octroie les inspirations Ténacité et Vigueur, au lieu de Force et Dynamisme. Les chances de coups critiques des attaques au corps à corps et carnage augmentent considérablement sous Frénésie. Cependant, sous Frénésie, le barbare est confus, ne peut pas voir sa santé et subit des dégâts bruts en continu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,7 +2876,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>(Posture du conquérant) : le combattant bénéficie d'un bonus à la précision tant qu'il est Blessé ou en meilleure santé. Quand il est Ensanglanté ou en moins bonne santé, le combattant bénéficie d'un bonus à la déviation.</DefaultText>
+      <DefaultText>(Posture du conquérant) - le combattant bénéficie d'un bonus à la précision tant qu'il est Blessé ou en meilleure santé. Quand il est Ensanglanté ou en moins bonne santé, le combattant bénéficie d'un bonus à la déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2906,7 +2906,7 @@
     </Entry>
     <Entry>
       <ID>893</ID>
-      <DefaultText>Le moine peut transformer la souffrance physique en énergie pure et la rediriger vers ses attaquants. Lorsque le moine est blessé, il ajoute un bonus de feu proportionnel aux dégâts de mêlée.</DefaultText>
+      <DefaultText>(Roue en mouvement) - Le moine peut transformer la souffrance physique en énergie pure et la rediriger vers ses attaquants. Lorsque le moine est blessé, il ajoute un bonus de feu proportionnel aux dégâts de mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3036,7 +3036,7 @@
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>Attaque perfide qui éblouit l'adversaire. Inflige des dégâts supplémentaires et aveugle la cible.</DefaultText>
+      <DefaultText>(Frappe éborgnante) - Inflige des dégâts bruts progressifs jusqu'à la fin du combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3076,17 +3076,17 @@
     </Entry>
     <Entry>
       <ID>945</ID>
-      <DefaultText>(Fouet mordant) : la morsure du Fouet de l'âme du clairvoyant est plus intense, ce qui confère un meilleur bonus aux dégâts.</DefaultText>
+      <DefaultText>(Fouet mordant) - la morsure du Fouet de l'âme du clairvoyant est plus intense, ce qui confère un meilleur bonus aux dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>946</ID>
-      <DefaultText>(Fouet drainant) : améliore la puissance du Fouet de l'âme du clairvoyant, ce qui lui permet de régénérer plus vite son focus.</DefaultText>
+      <DefaultText>(Fouet drainant) - améliore la puissance du Fouet de l'âme du clairvoyant, ce qui lui permet de régénérer plus vite son focus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>(Posture du défenseur) : les ennemis qui se désengagent du combattant sont immédiatement attaqués, et renversés en cas d'attaque réussie.</DefaultText>
+      <DefaultText>(Posture du défenseur) - les ennemis qui se désengagent du combattant sont immédiatement attaqués, et renversés en cas d'attaque réussie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3096,7 +3096,7 @@
     </Entry>
     <Entry>
       <ID>954</ID>
-      <DefaultText>(Réflexes fulgurants) : stimule les attaques du moine pour lui permettre d'infliger des dégâts électriques.</DefaultText>
+      <DefaultText>(Réflexes fulgurants) - stimule les attaques du moine pour lui permettre d'infliger des dégâts électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3106,12 +3106,12 @@
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>(Tir blessant précis) : la visée du rôdeur est bien plus précise.</DefaultText>
+      <DefaultText>(Tir blessant précis) - la visée du rôdeur est bien plus précise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>(Coup dévastateur) : élargit les connaissances du bandit en matière d'anatomie critique, ce qui accorde un plus grand bonus aux dégâts.</DefaultText>
+      <DefaultText>(Coup dévastateur) - élargit les connaissances du bandit en matière d'anatomie critique, ce qui accorde un plus grand bonus aux dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3331,7 +3331,7 @@
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>(Foi profonde) : la foi du paladin est plus intense, ce qui augmente les bonus défensifs liés à Foi et conviction.</DefaultText>
+      <DefaultText>(Foi profonde) - la foi du paladin est plus intense, ce qui augmente les bonus défensifs liés à Foi et conviction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3371,7 +3371,7 @@
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>(Fauchage brutal) : accorde à l'attaque un bonus important à la pénétration.</DefaultText>
+      <DefaultText>(Fauchage brutal) - accorde à l'attaque un bonus important à la pénétration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3501,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>(Lien renforcé) : augmente le bonus de défense.</DefaultText>
+      <DefaultText>(Lien renforcé) - augmente le bonus de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4716,7 +4716,7 @@
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>(Fauchage combo) - L'attaque suivante sur la cible infligera des dégâts largement augmentés.</DefaultText>
+      <DefaultText>(Fauchage combo) - L'attaque suivante sur la cible infligera des dégâts largement augmentés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4821,7 +4821,7 @@
     </Entry>
     <Entry>
       <ID>1829</ID>
-      <DefaultText>Tronc inébranlable</DefaultText>
+      <DefaultText>Tronc inflexible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5020,7 +5020,7 @@ Le coût de toutes les capacités de Rage est augmenté de 1 point.</DefaultText
     </Entry>
     <Entry>
       <ID>1883</ID>
-      <DefaultText>(Frénésie de l'esprit) - Quand elle est active, les attaques peuvent infliger Stupéfaction aux ennemis.</DefaultText>
+      <DefaultText>(Frénésie de l'esprit) - Quand elle est active, les attaques peuvent infliger Stupéfaction aux ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5095,12 +5095,12 @@ Le coût de toutes les capacités de Rage est augmenté de 1 point.</DefaultText
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>(Rugissement barbare) - Les ennemis en file indienne sont désormais affectés, et la force du rugissement peut les renverser.</DefaultText>
+      <DefaultText>(Rugissement barbare) - Les ennemis en file indienne sont désormais affectés, et la force du rugissement peut les renverser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>(Cri barbare) - Les ennemis autour du barbare sont désormais affectés, et le barbare reçoit un bonus d'engagement.</DefaultText>
+      <DefaultText>(Cri barbare) - Les ennemis autour du barbare sont désormais affectés, et le barbare reçoit un bonus d'engagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5160,7 +5160,7 @@ Le coût de toutes les capacités de Rage est augmenté de 1 point.</DefaultText
     </Entry>
     <Entry>
       <ID>1932</ID>
-      <DefaultText>(Envoûteur) - Le Fouet de l'âme octroie un bonus de dégâts moins important et génère moins de Focus si la cible du clairvoyant n'est pas vulnérable aux attaques furtives.</DefaultText>
+      <DefaultText>(Envoûteur) - Le Fouet de l'âme octroie un bonus de dégâts moins important et génère moins de Focus si la cible du clairvoyant n'est pas vulnérable aux attaques furtives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5258,7 +5258,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1951</ID>
-      <DefaultText>(Réaction brutale) - La réaction du clairvoyant devient particulièrement traumatisante, infligeant des dégâts bruts additionnels à la cible.</DefaultText>
+      <DefaultText>(Réaction brutale) - La réaction du clairvoyant devient particulièrement traumatisante, infligeant des dégâts bruts additionnels à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5293,7 +5293,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1962</ID>
-      <DefaultText>(Frappe sauvage brûlante majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts brûlants supplémentaires lors d'une transformation spirituelle.</DefaultText>
+      <DefaultText>(Frappe sauvage brûlante majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts brûlants supplémentaires lors d'une transformation spirituelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5303,7 +5303,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>(Frappe sauvage corrosive majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts corrosifs supplémentaires lors d'une transformation spirituelle.</DefaultText>
+      <DefaultText>(Frappe sauvage corrosive majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts corrosifs supplémentaires lors d'une transformation spirituelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5318,12 +5318,12 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1967</ID>
-      <DefaultText>(Frappe sauvage givrante majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts givrants supplémentaires lors d'une transformation spirituelle.</DefaultText>
+      <DefaultText>(Frappe sauvage givrante majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts givrants supplémentaires lors d'une transformation spirituelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1968</ID>
-      <DefaultText>(Frappe sauvage électrique majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts électriques supplémentaires lors d'une transformation spirituelle.</DefaultText>
+      <DefaultText>(Frappe sauvage électrique majeure) - Une connaissance approfondie des forces de la nature permet d'infliger encore plus de dégâts électriques supplémentaires lors d'une transformation spirituelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5363,7 +5363,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1977</ID>
-      <DefaultText>(Angoisse efficace) - Réduit le coût d'activation en plaies.</DefaultText>
+      <DefaultText>(Angoisse efficace) - Réduit le coût d'activation en plaies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5388,7 +5388,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1983</ID>
-      <DefaultText>(Tourment aggravé) - Les ennemis derrière la cible subissent désormais Assommement au lieu de Stupéfaction.</DefaultText>
+      <DefaultText>(Tourment aggravé) - Les ennemis derrière la cible subissent désormais Assommement au lieu de Stupéfaction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5398,7 +5398,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1985</ID>
-      <DefaultText>(Déferlement assommant) - Si cette attaque porte un coup critique, son coût vous est reversé.</DefaultText>
+      <DefaultText>(Déferlement assommant) - Si cette attaque porte un coup critique, son coût vous est reversé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5467,7 +5467,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2000</ID>
-      <DefaultText>(Dévotion perpétuelle) - Après utilisation, les attaques du paladin reçoivent temporairement un bonus de dégâts brûlants.</DefaultText>
+      <DefaultText>(Dévotion perpétuelle) - Après utilisation, les attaques du paladin reçoivent temporairement un bonus de dégâts brûlants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5477,7 +5477,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2002</ID>
-      <DefaultText>(Répartition des flammes) - Les alliés à proximité bénéficient d'une version réduite des effets des flammes.</DefaultText>
+      <DefaultText>(Répartition des flammes) - Les alliés à proximité bénéficient d'une version réduite des effets des flammes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5507,7 +5507,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2008</ID>
-      <DefaultText>(Charge stimulée) - Les alliés convertissent désormais également certains coups subis en éraflures (ou en coups ratés si l'attaque ne peut pas érafler).</DefaultText>
+      <DefaultText>(Charge stimulée) - Les alliés convertissent désormais également certains coups subis en éraflures (ou en coups ratés si l'attaque ne peut pas érafler).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5517,7 +5517,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2010</ID>
-      <DefaultText>(Endurance stimulée) - Fournit également désormais aux alliés un effet régénératif constant.</DefaultText>
+      <DefaultText>(Endurance stimulée) - Fournit également désormais aux alliés un effet régénératif constant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5537,7 +5537,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2014</ID>
-      <DefaultText>(Fer rouge) - Pendant que dure la marque, l'ennemi subira des dégâts brûlants progressifs.</DefaultText>
+      <DefaultText>(Fer rouge) - Pendant que dure la marque, l'ennemi subira des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5547,7 +5547,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>(Rival attitré) - Si le rival est vaincu, le coût en Zèle vous est reversé.</DefaultText>
+      <DefaultText>(Rival attitré) - Si le rival est vaincu, le coût en Zèle vous est reversé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5557,7 +5557,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText>(Flambeau tenace) - Les alliés à proximité gagnent un bonus de Déviation pendant un bref laps de temps.</DefaultText>
+      <DefaultText>(Flambeau tenace) - Les alliés à proximité gagnent un bonus de Déviation pendant un bref laps de temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5567,7 +5567,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2020</ID>
-      <DefaultText>(Flambeau inspiré) - Les dégâts infligés aux ennemis affectés augmentent considérablement.</DefaultText>
+      <DefaultText>(Flambeau inspiré) - Les dégâts infligés aux ennemis affectés augmentent considérablement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5587,7 +5587,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2024</ID>
-      <DefaultText>(Proie désignée) - Si la proie est tuée, la marque passe à un autre ennemi à proximité.</DefaultText>
+      <DefaultText>(Proie désignée) - Si la proie est tuée, la marque passe à un autre ennemi à proximité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5622,7 +5622,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2032</ID>
-      <DefaultText>(Compagnon vigoureux) - Octroie également l'inspiration Vigoureux au compagnon.</DefaultText>
+      <DefaultText>(Compagnon vigoureux) - Octroie également l'inspiration Vigoureux au compagnon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5632,7 +5632,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2034</ID>
-      <DefaultText>(Tir évasif) - Le rôdeur attaque instantanément un ennemi aléatoire à portée. (Arme à distance requise)</DefaultText>
+      <DefaultText>(Tir évasif) - Le rôdeur attaque instantanément un ennemi aléatoire à portée. (Arme à distance requise)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5661,7 +5661,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2039</ID>
-      <DefaultText>(Frappe artérielle) - Les ennemis affectés saigneront désormais aussi lors de leurs déplacements, subissant des dégâts bruts à chaque pas.</DefaultText>
+      <DefaultText>(Frappe artérielle) - Les ennemis affectés saigneront désormais aussi lors de leurs déplacements, subissant des dégâts bruts à chaque pas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5671,7 +5671,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2041</ID>
-      <DefaultText>(Frappe débilitante) - Les coups infligent maintenant également Distraction à la cible.</DefaultText>
+      <DefaultText>(Frappe débilitante) - Les coups infligent maintenant également Distraction à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5686,7 +5686,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2044</ID>
-      <DefaultText>(Aveuglement déconcertant) - Lorsque celle-ci est sujette à Aveuglement, toutes les attaques sur la cible appliquent un malus cumulatif à la Déviation.</DefaultText>
+      <DefaultText>(Aveuglement déconcertant) - Lorsque celle-ci est sujette à Aveuglement, toutes les attaques sur la cible appliquent un malus cumulatif à la Déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2051</ID>
-      <DefaultText>(Son de cloche) - Les effets des dégâts à une main progressifs durent maintenant deux fois plus longtemps.</DefaultText>
+      <DefaultText>(Son de cloche) - Les effets des dégâts à une main progressifs durent maintenant deux fois plus longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5731,7 +5731,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2053</ID>
-      <DefaultText>(Perce-cloche) - Les armes à distance obtiennent également un bonus de dégâts.</DefaultText>
+      <DefaultText>(Perce-cloche) - Les armes à distance obtiennent également un bonus de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5741,7 +5741,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2055</ID>
-      <DefaultText>(Brise-cloche) - L'effet à deux mains Stupéfaction devient maintenant Étourdissement.</DefaultText>
+      <DefaultText>(Brise-cloche) - L'effet à deux mains Stupéfaction devient maintenant Étourdissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,7 +5751,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2057</ID>
-      <DefaultText>(Coup exterminateur) - Les ennemis proches de la cible attaquée subissent Frisson.</DefaultText>
+      <DefaultText>(Coup exterminateur) - Les ennemis proches de la cible attaquée subissent Frisson.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5771,7 +5771,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2061</ID>
-      <DefaultText>(Frénésie sanglante) - Quand elle est activée, les coups critiques font saigner les cibles avec des dégâts bruts progressifs.</DefaultText>
+      <DefaultText>(Frénésie sanglante) - Quand elle est activée, les coups critiques font saigner les cibles avec des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5791,7 +5791,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2065</ID>
-      <DefaultText>(Coup écrasant) - Si le barbare tue sa cible, son temps de récupération passe instantanément à zéro.</DefaultText>
+      <DefaultText>(Coup écrasant) - Si le barbare tue sa cible, son temps de récupération passe instantanément à zéro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5801,7 +5801,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2067</ID>
-      <DefaultText>(Écrasement barbare) - Si le coup tue la cible, le coût en Rage vous est reversé.</DefaultText>
+      <DefaultText>(Écrasement barbare) - Si le coup tue la cible, le coût en Rage vous est reversé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5821,7 +5821,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2072</ID>
-      <DefaultText>(Vielo Vidorio) - Inspire les alliés proches, leur octroyant un bonus de récupération.</DefaultText>
+      <DefaultText>(Vielo Vidorio) - Inspire les alliés proches, leur octroyant un bonus de récupération.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6006,7 +6006,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2120</ID>
-      <DefaultText>(Baisser leur garde) - La Valeur d'armure de l'ennemi est considérablement réduite face à la prochaine attaque subie.</DefaultText>
+      <DefaultText>(Baisser leur garde) - La Valeur d'armure de l'ennemi est considérablement réduite face à la prochaine attaque subie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,7 +6021,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2125</ID>
-      <DefaultText>(Posture d'assaut) - Chaque ennemi à proximité réduit le temps de récupération du combattant entre chaque attaque.</DefaultText>
+      <DefaultText>(Posture d'assaut) - Chaque ennemi à proximité réduit le temps de récupération du combattant entre chaque attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6096,12 +6096,12 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2149</ID>
-      <DefaultText>(Le bouclier se fissure) - Chaque fois qu'un ennemi subit des dégâts, la durée de l'effet augmente.</DefaultText>
+      <DefaultText>(Le bouclier se fissure) - Chaque fois qu'un ennemi subit des dégâts, la durée de l'effet augmente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2150</ID>
-      <DefaultText>(Os cassants anciens) - Si un squelette tombe au combat, il se divise en deux squelettes plus petits.</DefaultText>
+      <DefaultText>(Os cassants anciens) - Si un squelette tombe au combat, il se divise en deux squelettes plus petits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6111,7 +6111,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2152</ID>
-      <DefaultText>(Sa vengeance balayait les terres) - Les éclairs rebondissent désormais sur des cibles supplémentaires.</DefaultText>
+      <DefaultText>(Sa vengeance balayait les terres) - Les éclairs rebondissent désormais sur des cibles supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6126,7 +6126,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2155</ID>
-      <DefaultText>(...Et la peur les suivait jusque dans les collines) - Lorsque termine la Paralysie, l'ennemi subit Effroi.</DefaultText>
+      <DefaultText>(...Et la peur les suivait jusque dans les collines) - Lorsque termine la Paralysie, l'ennemi subit Effroi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,12 +6141,12 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2159</ID>
-      <DefaultText>(Les landes furent inondées de lumière) - Les feux follets sont plus puissants que d'habitude et sont dotés d'une attaque qui inflige Distraction.</DefaultText>
+      <DefaultText>(Les lumières dansaient sur la lande) - Les feux follets sont plus puissants que d'habitude et sont dotés d'une attaque qui inflige Distraction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2160</ID>
-      <DefaultText>(Ensemble ils firent couler un fleuve de sang) - Lorsqu'ils sont sujets à l'affliction Charme, les ennemis infligent plus de dégâts.</DefaultText>
+      <DefaultText>(Ensemble ils firent couler un fleuve de sang) - Lorsqu'ils sont sujets à l'affliction Charme, les ennemis infligent plus de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6429,7 +6429,7 @@ La &lt;xg&gt;Résistance&lt;/xg&gt; passive aux sorts affecte les sortilèges am
     </Entry>
     <Entry>
       <ID>2220</ID>
-      <DefaultText>(...Et leurs cris atteignirent les cieux) - Les dragonnets sont plus puissants et possèdent des attaques uniques.</DefaultText>
+      <DefaultText>(...Et leurs cris atteignirent les cieux) - Les dragonnets sont plus puissants et possèdent des attaques uniques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7360,7 +7360,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2393</ID>
-      <DefaultText>(Sprint félin) - L'attaque suivante effectuée durant le sprint gagne considérablement en Précision.</DefaultText>
+      <DefaultText>(Sprint félin) - L'attaque suivante effectuée durant le sprint gagne considérablement en Précision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7370,7 +7370,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2395</ID>
-      <DefaultText>(Sprint bovidé) - Repousse les ennemis à proximité à l'activation.</DefaultText>
+      <DefaultText>(Sprint bovidé) - Repousse les ennemis à proximité à l'activation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7390,7 +7390,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2399</ID>
-      <DefaultText>(Tempête sanglante) - Lorsqu'elle est active, la durée de la Frénésie augmente à chaque ennemi vaincu.</DefaultText>
+      <DefaultText>(Tempête sanglante) - Lorsqu'elle est active, la durée de la Frénésie augmente à chaque ennemi vaincu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7400,7 +7400,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2401</ID>
-      <DefaultText>(Tornade psychique) - Des ectoplasmes en sortent à l'activation, infligeant Terreur et dégâts givrants.</DefaultText>
+      <DefaultText>(Tornade psychique) - Des ectoplasmes en sortent à l'activation, infligeant Terreur et dégâts givrants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7410,7 +7410,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2403</ID>
-      <DefaultText>(Défi exemplaire) - Réduction du coût en Rage.</DefaultText>
+      <DefaultText>(Défi exemplaire) - Réduction du coût en Rage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7420,7 +7420,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2405</ID>
-      <DefaultText>(Courage farouche) - Gagne de la Concentration à l'activation.</DefaultText>
+      <DefaultText>(Courage farouche) - Gagne de la Concentration à l'activation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7440,7 +7440,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2409</ID>
-      <DefaultText>(Saut de dragon) - Ajoute une zone d'effet de dégâts brûlants à l'endroit de l'impact du saut.</DefaultText>
+      <DefaultText>(Saut de dragon) - Ajoute une zone d'effet de dégâts brûlants à l'endroit de l'impact du saut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7450,7 +7450,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2411</ID>
-      <DefaultText>(Saut de la panthère) - Dévaste tous les ennemis proches de la zone d'impact, infligeant des dégâts tranchants et des dégâts bruts progressifs.</DefaultText>
+      <DefaultText>(Saut de la panthère) - Dévaste tous les ennemis proches de la zone d'impact, infligeant des dégâts tranchants et des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7720,17 +7720,17 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2467</ID>
-      <DefaultText>(Marcheurs austères) - Les flammes s'assombrissent et infligent l'affliction Intoxication.</DefaultText>
+      <DefaultText>(Marcheurs austères) - Les flammes s'assombrissent et infligent l'affliction Intoxication.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2468</ID>
-      <DefaultText>(Aimables voyageurs) - Les flammes sont blanches et soignent les alliés proches.</DefaultText>
+      <DefaultText>(Aimables voyageurs) - Les flammes sont blanches et soignent les alliés proches.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2469</ID>
-      <DefaultText>(Chevaliers du Pacte d'or) - Les flammes sont dorées et infligent des dégâts brûlants progressifs.</DefaultText>
+      <DefaultText>(Chevaliers du Pacte d'or) - Les flammes sont dorées et infligent des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7740,7 +7740,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2471</ID>
-      <DefaultText>(Paladini Darcozzi) - Octroie à la cible un Bouclier de flammes mineur.</DefaultText>
+      <DefaultText>(Paladini Darcozzi) - Octroie à la cible un Bouclier de flammes mineur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8986,7 +8986,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2728</ID>
-      <DefaultText>(Coup de balai) - Le combattant frappe désormais tous les ennemis autour de lui avec cette attaque.</DefaultText>
+      <DefaultText>(Table rase) - Le combattant frappe désormais tous les ennemis autour de lui avec cette attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15096,7 +15096,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4294</ID>
-      <DefaultText>(Trempe du héraut de la mort) - Confère au Gardien une inspiration de Perception en cas d'utilisation.</DefaultText>
+      <DefaultText>(Trempe du héraut de la mort) - Confère au Gardien une inspiration de Perception en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15106,7 +15106,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4296</ID>
-      <DefaultText>(Colère du héraut de la mort) - Confère au Gardien une inspiration de Puissance en cas d'utilisation.</DefaultText>
+      <DefaultText>(Colère du héraut de la mort) - Confère au Gardien une inspiration de Puissance en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15116,7 +15116,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4298</ID>
-      <DefaultText>(Esprit du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence en cas d'utilisation.</DefaultText>
+      <DefaultText>(Esprit du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15126,7 +15126,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4300</ID>
-      <DefaultText>(Émerveillement du héraut de la mort) - Confère au Gardien une inspiration de Puissance et de Perception en cas d'utilisation.</DefaultText>
+      <DefaultText>(Émerveillement du héraut de la mort) - Confère au Gardien une inspiration de Puissance et de Perception en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15136,7 +15136,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4302</ID>
-      <DefaultText>(Habit du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence et de Perception en cas d'utilisation.</DefaultText>
+      <DefaultText>(Habit du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence et de Perception en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15146,7 +15146,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4304</ID>
-      <DefaultText>(Cruauté du héraut de la mort) - Confère au Gardien une inspiration de Puissance et d'Intelligence en cas d'utilisation.</DefaultText>
+      <DefaultText>(Cruauté du héraut de la mort) - Confère au Gardien une inspiration de Puissance et d'Intelligence en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15156,7 +15156,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4306</ID>
-      <DefaultText>(Majesté du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence, de Puissance et de Perception en cas d'utilisation.</DefaultText>
+      <DefaultText>(Majesté du héraut de la mort) - Confère au Gardien une inspiration d'Intelligence, de Puissance et de Perception en cas d'utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15176,7 +15176,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4310</ID>
-      <DefaultText>(Compassion pour les âmes égarées) - Les âmes guérissent désormais également les alliés du Gardien.</DefaultText>
+      <DefaultText>(Compassion pour les âmes égarées) - Les âmes guérissent désormais également les alliés du Gardien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15201,7 +15201,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4315</ID>
-      <DefaultText>(Chœur des âmes égarées) - Les âmes entravent désormais également les ennemis dans la zone.</DefaultText>
+      <DefaultText>(Chœur des âmes égarées) - Les âmes entravent désormais également les ennemis dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15211,7 +15211,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4317</ID>
-      <DefaultText>(Pitié pour les âmes égarées) - Les âmes confèrent désormais également l'inspiration Dynamisme aux alliés dans la zone.</DefaultText>
+      <DefaultText>(Pitié pour les âmes égarées) - Les âmes confèrent désormais également l'inspiration Dynamisme aux alliés dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15221,7 +15221,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4319</ID>
-      <DefaultText>(Temporalité des âmes égarées) - Les âmes réduisent désormais la durée des effets hostiles sur les alliés dans la zone et augmentent la durée des effets bénéfiques.</DefaultText>
+      <DefaultText>(Temporalité des âmes égarées) - Les âmes réduisent désormais la durée des effets hostiles sur les alliés dans la zone et augmentent la durée des effets bénéfiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15231,7 +15231,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4321</ID>
-      <DefaultText>(Commandement des âmes égarées) - Les âmes immobilisent désormais les ennemis dans la zone.</DefaultText>
+      <DefaultText>(Commandement des âmes égarées) - Les âmes immobilisent désormais les ennemis dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15471,7 +15471,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4371</ID>
-      <DefaultText>(Invocateur spirituel) - Augmente le nombre d'invocations.</DefaultText>
+      <DefaultText>(Invocateur spirituel) - Augmente le nombre d'invocations.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15591,7 +15591,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4399</ID>
-      <DefaultText>(Pilier détruit) - À la place, vous gagnez des plaies lorsque vous infligez des dégâts.</DefaultText>
+      <DefaultText>(Pilier détruit) - À la place, vous gagnez des plaies lorsque vous infligez des dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
