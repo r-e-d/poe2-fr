@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Précision : {0:extravalue} (Bonus en vigueur : {0:value})</DefaultText>
+      <DefaultText>(Bonus actuel : {0:value}) Précision {0:extravalue}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>{0:Value:PercentBonus} aux dégâts armés. Le bonus augmente à mesure que la Santé du porteur diminue.</DefaultText>
+      <DefaultText>{0:value:percentbonus} aux dégâts armés. Le bonus augmente à mesure que la Santé du porteur diminue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,7 +1046,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Pénétration : {0:Value} Augmente avec la compétence Survie</DefaultText>
+      <DefaultText>Pénétration : {0:value} Augmente avec la compétence Survie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,7 +1221,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>{0:Value:PercentBonus} aux dégâts. Augmente avec la compétence Survie</DefaultText>
+      <DefaultText>{0:value:percentbonus} aux dégâts. Augmente avec la compétence Survie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

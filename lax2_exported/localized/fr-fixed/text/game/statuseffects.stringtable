@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>{0:Value:PercentBonus} aux dégâts contre Neriscyrlas</DefaultText>
+      <DefaultText>{0:value:percentbonus} aux dégâts contre Neriscyrlas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} de chances d'infliger {0:extravalue:straight} dégâts corrosifs chaque {0:interval} pendant {0:extravalue:duration} lors d'un Coup avec une arme</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'infliger {0:extravalue:straight} dégâts corrosifs chaque {0:interval} pendant {0:triggervalue:duration} lors d'un Coup avec une arme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
