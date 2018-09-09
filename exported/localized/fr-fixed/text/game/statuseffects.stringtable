@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{0:value} en Déviation contre les attaques sans perforation du Voile</DefaultText>
+      <DefaultText>{0:value} en Déviation contre les attaques sans Perforation du Voile</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Les attaques de base infligent des dégâts lacérants ou perforants (les plus élevés, selon la situation) dans une petite ZdE.</DefaultText>
+      <DefaultText>Les attaques de base infligent des dégâts tranchants ou perforants (les plus élevés, selon la situation) dans une petite ZdE.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>{0:value:percent} de chances d'étourdir un attaquant pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps.</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'assommer un attaquant pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Inflige des dégâts lacérants ou contondants (le meilleur, selon la situation)</DefaultText>
+      <DefaultText>Inflige des dégâts tranchants ou contondants (le meilleur, selon la situation)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>{0:value:percent} de chances d'effectuer une contre-attaque contondante/lacérante quand vous êtes manqué au corps à corps</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'effectuer une contre-attaque contondante/tranchante quand vous êtes manqué au corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>ZdE givrante/lacérante à un emplacement ciblé en cas de coup critique infligé</DefaultText>
+      <DefaultText>ZdE givrante/tranchante à un emplacement ciblé en cas de coup critique infligé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>{0:value:percent} de chances de riposter avec une attaque lacérante en cas d'attaque lacérante subie au corps à corps</DefaultText>
+      <DefaultText>{0:value:percent} de chances de riposter avec une attaque tranchante en cas d'attaque tranchante subie au corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1846,7 +1846,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Inflige des dégâts lacérants et perforants</DefaultText>
+      <DefaultText>Inflige des dégâts tranchants et perforants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>{0:extravalue:percent} de chances de résister aux dégâts lacérants</DefaultText>
+      <DefaultText>{0:extravalue:percent} de chances de résister aux dégâts tranchants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
