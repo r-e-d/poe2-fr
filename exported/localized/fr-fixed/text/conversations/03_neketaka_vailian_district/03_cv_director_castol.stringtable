@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_director_castol</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>658</EntryCount>
+  <EntryCount>659</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -170,7 +170,7 @@ Castol fait la moue en secouant la tête.</DefaultText>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Le voilà, et en un seul morceau ! Je plaisante, bien entendu. L'expérience a-t-elle été fructueuse ?"</DefaultText>
-      <FemaleText>"La voilà - et en un seul morceau ! Je plaisante, évidemment. L’expérience a-t-elle été fructueuse ?"</FemaleText>
+      <FemaleText>"La voilà - et en un seul morceau ! Je plaisante, évidemment. L'expérience a-t-elle été fructueuse ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -815,7 +815,7 @@ Il joint les mains, vous offrant un sourire à la fois poli et soulagé.</Defaul
 "Survivre à une éruption... Si ç'avait été quelqu'un d'autre, j'aurais parlé de chance, mais c'est un mot bien trop faible pour exprimer ce que vous êtes."</DefaultText>
       <FemaleText>"La lettre du canta Nirro était une compilation de déclarations sidérantes."
 
-"Survivre à une éruption... Si ç’avait été quelqu’un d’autre, j’aurais parlé de chance, mais c’est un mot bien trop faible pour exprimer ce que vous êtes."</FemaleText>
+"Survivre à une éruption... Si ç'avait été quelqu'un d'autre, j'aurais parlé de chance, mais c'est un mot bien trop faible pour exprimer ce que vous êtes."</FemaleText>
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -1721,7 +1721,7 @@ Maia lève les yeux au ciel.</DefaultText>
     <Entry>
       <ID>402</ID>
       <DefaultText>"O-oui, j'imagine que cela présentera des dangers pour quelqu'un qui n'a pas de véritables alliés."</DefaultText>
-      <FemaleText>"O-oui, j’imagine que ce sera un acte périlleux pour une femme sans alliés à proprement parler."</FemaleText>
+      <FemaleText>"O-oui, j'imagine que ce sera un acte périlleux pour une femme sans alliés à proprement parler."</FemaleText>
     </Entry>
     <Entry>
       <ID>403</ID>
@@ -3784,6 +3784,13 @@ L'emportement de Pallegina se résume à un seul mot, mais son regard est rivé 
     <Entry>
       <ID>807</ID>
       <DefaultText>"Quelle triste fin pour des individus si dévoués. Quelle chance que vous ayez survécu pour rapporter leur récit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>"J'ai trouvé préférable de venir vous parler face à face. Les Gardiens sont si rares, ici au Feu éteint."
+
+"Surtout ceux au passé aussi fourni que le vôtre."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

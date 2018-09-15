@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>4662</ID>
-      <DefaultText>Lorsqu'il ne se trouve pas près d'alliés, le porteur reçoit un bonus de Robustesse, de Réflexes et de Volonté.</DefaultText>
+      <DefaultText>Lorsque le porteur ne se trouve pas près d'alliés, toutes ses défenses reçoivent un bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>4895</ID>
-      <DefaultText />
+      <DefaultText>En fonction de la richesse actuelle du groupe, augmente les chances du porteur de voir ses coups portés convertis en coups critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4897</ID>
-      <DefaultText />
+      <DefaultText>Augmente la Résolution du porteur en fonction du peu d'argent dont dispose le groupe.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

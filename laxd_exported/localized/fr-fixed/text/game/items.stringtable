@@ -2,8 +2,203 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>81</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4563</ID>
+      <DefaultText>Crâne du vaincu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4564</ID>
+      <DefaultText>Ce crâne inhabituel, lourd d'essence spirituelle, affiche à sa surface des symboles religieux peints à l'aide de teintures antiques. Un épais liquide rouge suinte de l'os, imprégné de l'énergie stockée à l'intérieur.
+
+Neale pense que vous devriez y boire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4700</ID>
+      <DefaultText>Ce heaume, sculpté dans un seul bloc de bois dans le style huana, représente Toamowhai sous son aspect de sanglier. Des peintures vives soulignent le groin et les yeux, ces derniers étant cernés de petits points blancs pour suggérer une perception surnaturelle. Imprégné d'essence, ce heaume résiste à des coups capables d'abattre un arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4701</ID>
+      <DefaultText>L'armure protège. La couronne commande. Le Survivant sert ceux qui vivent afin de protéger, détournant les coups mortels et déviant les flèches empoisonnées. Ornée d'un plumage éclatant, cette coiffe fait davantage que protéger : elle commande.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4702</ID>
+      <DefaultText>Le sentier centuple se ramifie en cent fois cent chemins différents. Le Survivant n'a aucun ordre à donner au protecteur, car il affronte volontiers les difficultés de chaque sentier et prouve sa supériorité par ce cheminement même. Ainsi le voyageur sert-il le Survivant, en réservant le rempart pour les menaces les plus redoutables.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4705</ID>
+      <DefaultText>{0} dégâts subis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Lancer {0} sorts de prêtre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Cœur de titan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Cadran solaire de Waidwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>Des cadrans solaires comme celui-ci sont utilisés par des bergers ou des fermiers qui passent le plus clair de leur temps au grand air. On détermine l'heure en faisant pivoter l'axe central afin de l'aligner avec un mois donné et en faisant passer un rayon de soleil à travers un trou minuscule, afin qu'il brille sur une rangée de chiffres gravés sur le pourtour intérieur de l'anneau.
+
+Waidwen devait porter cet objet sur lui pendant la guerre du Saint, car l'air qui l'entoure est chargé de pouvoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Les Anguilles jumelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Un forgeron kuaru a façonné ce chef-d'œuvre, qu'il a nommé Tangaloa, prétendant qu'il enverrait tout ennemi droit dans la gueule de la grande anguille. Après qu'il eût mis en avant le fruit de son labeur auprès de tous ceux qui étaient disposés à l'écouter, Rikuhu s'adressa à lui pendant son sommeil, exprimant sa déception concernant le fait qu'il n'ait pas honoré les deux aspects du dieu. À la fois empli d'humilité et terrifié, le forgeron façonna son pendant, Kohopa, afin de respecter la volonté du dieu. Il lia les deux armes, vrillant leurs lames l'une autour de l'autre.
+
+Il vendit ensuite l'épée à la première occasion et ne forgea plus jamais d'arme au nom des dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Essor du courant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Selon la légende, un modeleur d'eau d'Ukaizo forgea jadis ce sceptre sur le lit de l'océan. Il sculpta le manche dans un bois de santal de qualité exceptionnelle. Pour l'extrémité, il se mit en quête d'une perle rare, formée pendant plus d'un millénaire au sein d'un mollusque de la taille d'une yole. Le modeleur d'eau ne fut capable de la soustraire à la créature sans être englouti vivant que grâce aux bénédictions d'Ondra.
+
+La rumeur prétend que le sceptre est l'un des éléments d'un rituel dont l'objet est de satisfaire Ngati, mais tout savoir concernant cette expérience lubrique s'est perdu dans les brumes du temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Broche de l'hiver inéluctable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Le métal terni de ce pendentif en tête d'auroch a perdu tout son lustre. Il pèse lourdement sur la poitrine, et le froid qu'il dégage inflige sa morsure à toute chair qu'il effleure. Les gemmes serties dans les yeux de l'auroch émettent une faible lueur bleue, et le porteur perçoit parfois le murmure d'une légère brise, à peine audible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>L'Emprise de l'irrévocable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Plus on scrute les profondeurs luisantes et séduisantes de cet anneau, plus il exerce une attraction sur l'essence de son être, comme des vrilles qui s'agrippent et tirent sur l'âme du porteur. Des heures entières peuvent s'écouler tandis que l'on contemple l'anneau, et lorsqu'on en arrache son regard, le monde semble plus sombre.
+
+L'anneau semble avoir faim d'éclats entropiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Pas de la Bête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5070</ID>
+      <DefaultText>Ces bottes ouvragées de manière à ressembler à des sabots fendus ruinent le sol qu'elles foulent. Le Glamfellen qui les façonna offrit ces godillots inhabituels à la prêtresse de son clan, qui les bénit au nom de Rymrgand. Elle les offrit ensuite à son tour à la championne la plus vaillante du clan, afin qu'elle les porte en l'honneur de la Bête hivernale.
+
+Bien qu'il fallût des mois de pratique à la guerrière pour se déplacer dans ces bottes avec un semblant de grâce, elle finit (inévitablement, sans doute) par devenir un véritable fléau sur le champ de bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Robes du Grand Envoyé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Bien que ces fourrures ressemblent aux robes des autres Envoyés, elles comportent une différence marquante : l'odeur putride qui en émane telle une aura. Cela signifie qu'il est pratiquement impossible pour quelqu'un d'autre que Vatnir de les revêtir, à moins d'être dépourvu des sens du goût et de l'odorat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Cornes de l'auroch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>Un pillard aumaua de triste réputation tomba sur une petite forge exploitée par des fidèles d'Abydon, qu'il massacra tous, à l'exception d'une forgeronne qui s'était dissimulée dans une caisse de provisions. La naine interpella l'aumaua et lui proposa un marché. Elle façonnerait le plus beau heaume que le pillard avait jamais vu s'il promettait de l'épargner. Le pillard lui accorda une semaine et exigea que le heaume honore son protecteur : la Bête hivernale.
+
+La forgeronne travailla sans relâche jusqu'au dernier soir, puis elle plaça le heaume juste devant la porte déverrouillée de la forge. À l'aube du jour suivant, le heaume avait disparu, et le sanctuaire d'Abydon ne fut plus jamais pillé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Brassards d'avant-bras corrodés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Dans les mers du Feu éteint se tapit un crustacé de taille colossale, dont la carapace est plus résistante que tout acier forgé de main de kith. Il attend dans les hauts-fonds et attaque toute embarcation qui a l'imprudence de s'approcher de sa carapace. Ces gantelets, façonnés à partir de morceaux de carapace abandonnés par la créature lors de la mue, sont à la fois légers et étonnamment résistants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Lettre cachetée à la cire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>Cette missive, qui semble écrite dans du sang séché sur une tranche de cuir tanné, vous est parvenue enroulée et portant le cachet de l'auroch. L'écriture angulaire en pattes de mouche suggère que son expéditeur grelottait peut-être lorsqu'elle fut rédigée.
+
+&lt;i&gt;"Illustre Gardien de Caed Nua,
+
+Je vous invite cordialement à prendre part à un festin qui sera donné en votre honneur. Une assemblée d'âmes sœurs s'est regroupée au Bastion des Envoyés, un modeste avant-poste situé au sud de la mer du Feu éteint, afin d'être témoin dela rapide expansion de la Morne banquise.
+
+Les glaces recouvriront bientôt toute chose, et rien ne s'opposera au règne de Rymrgand sur Eora la morte.
+
+Nous sommes très impatients de recevoir votre magnificence.
+
+Avec toute mon admiration pour vos nombreux exploits,
+
+Vatnir, Grand Envoyé du crépuscule"&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Pics à glace de Vatnir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>Une paire de pics à glace d'apparence simple, dotés de manches en bois, qui servent à gravir des surfaces gelées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Trahison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Marteau des glaces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Charme des voyages perdus</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5245</ID>
       <DefaultText>Collier des possibilités révélées</DefaultText>
@@ -48,7 +243,7 @@ Elle s'introduisit à bord sans le moindre bruit grâce à ses chaussons, et arr
     </Entry>
     <Entry>
       <ID>5255</ID>
-      <DefaultText>Un enchanteur irascible, excédé par les requêtes constantes de divertissements magiques de son seigneur, façonna cet anneau pour aveulir de manière permanente l’exigeant noble. Il l'apporta à la cour et prétendit qu'il s'agissait d'une relique enchantée d'une contrée lointaine, où l'âne était vénéré en tant que symbole de ténacité. Le seigneur passa l'anneau à son doigt sans la moindre hésitation. Déçu par le fait qu'il ne lui conférait aucun pouvoir, le noble jeta l'anneau parmi les joncs. L'enchanteur, lui aussi déçu que son seigneur ne tombât pas dans un état d'hébétude, se passa l'anneau au doigt. Il trouva enfin la paix.</DefaultText>
+      <DefaultText>Un enchanteur irascible, excédé par les requêtes constantes de divertissements magiques de son seigneur, façonna cet anneau pour aveulir de manière permanente l'exigeant noble. Il l'apporta à la cour et prétendit qu'il s'agissait d'une relique enchantée d'une contrée lointaine, où l'âne était vénéré en tant que symbole de ténacité. Le seigneur passa l'anneau à son doigt sans la moindre hésitation. Déçu par le fait qu'il ne lui conférait aucun pouvoir, le noble jeta l'anneau parmi les joncs. L'enchanteur, lui aussi déçu que son seigneur ne tombât pas dans un état d'hébétude, se passa l'anneau au doigt. Il trouva enfin la paix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

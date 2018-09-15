@@ -2,11 +2,21 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>108</EntryCount>
+  <EntryCount>128</EntryCount>
   <Entries>
     <Entry>
-      <ID>4705</ID>
-      <DefaultText>{0} dégâts subis</DefaultText>
+      <ID>4708</ID>
+      <DefaultText>Appliquer {0} afflictions touchant la Puissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Lancer {0} invocations d'Incantateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Infliger {0} dégâts bruts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,6 +36,56 @@ Bien qu'on ne sache que peu de choses au sujet de la bataille, une chose est cer
     <Entry>
       <ID>4732</ID>
       <DefaultText>Douze firent front</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText>Appliquer {0} afflictions touchant la Perception</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Accorder {0} inspirations aux membres du groupe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Tuer {0} bêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Avoir 25 en Force</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Il est facile d'oublier qu'on porte l'armure. Il est facile, à vrai dire, d'oublier beaucoup de choses. Les souvenirs, les regrets, les philosophies abstraites, ces choses n'ont que peu de place dans la grande chasse, ces épreuves infiniment interconnectées qui définissent chaque action sur Eora. Chez ceux qui l'acceptent, les priorités essentielles se recentrent vers ce défi, vers le défi suivant, vers la lutte qui donne à chacun son contexte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Appliquer {0} afflictions touchant l'Intelligence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Lancer {0} sorts de druide liés aux bêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Couteau cérémoniel en obsidienne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Chaîne de l'autorité légitime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,7 +115,7 @@ Bien qu'on ne sache que peu de choses au sujet de la bataille, une chose est cer
     </Entry>
     <Entry>
       <ID>4876</ID>
-      <DefaultText>De nombreux noms ont été donnés à cette lame brisée au fil des ans, mais elle n'a jamais été débarrassée de la souillure de la trahison. Il y a bien longtemps, il s'agissait d'une arme de gladiateur, qui servait dans les fosses aux esclaves. Le guerrier auquel elle appartenait s'est affranchi en la plantant dans le dos de son maître, ce qui valut à l'épée le nom de Libératrice. Plus tard, on l’accrocha au mur du domaine d'une famille fortunée, qui fut massacrée par l'une des domestiques. L'épée fut alors rebaptisée Décence. Nul ne sait quand ni comment elle fut brisée, mais en tant que symbole de justice rendue et de condamnation des gens malveillants, elle eut un franc succès parmi les fidèles de Skaen, qui effectuèrent grand nombre de sacrifices afin de l'investir de la bénédiction de leur divinité.</DefaultText>
+      <DefaultText>De nombreux noms ont été donnés à cette lame brisée au fil des ans, mais elle n'a jamais été débarrassée de la souillure de la trahison. Il y a bien longtemps, il s'agissait d'une arme de gladiateur, qui servait dans les fosses aux esclaves. Le guerrier auquel elle appartenait s'est affranchi en la plantant dans le dos de son maître, ce qui valut à l'épée le nom de Libératrice. Plus tard, on l'accrocha au mur du domaine d'une famille fortunée, qui fut massacrée par l'une des domestiques. L'épée fut alors rebaptisée Décence. Nul ne sait quand ni comment elle fut brisée, mais en tant que symbole de justice rendue et de condamnation des gens malveillants, elle eut un franc succès parmi les fidèles de Skaen, qui effectuèrent grand nombre de sacrifices afin de l'investir de la bénédiction de leur divinité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +161,7 @@ Il vendit ensuite l'épée à la première occasion et ne forgea plus jamais d'a
       <ID>5059</ID>
       <DefaultText>Selon la légende, un modeleur d'eau d'Ukaizo forgea jadis ce sceptre sur le lit de l'océan. Il sculpta le manche dans un bois de santal de qualité exceptionnelle. Pour l'extrémité, il se mit en quête d'une perle rare, formée pendant plus d'un millénaire au sein d'un mollusque de la taille d'une yole. Le modeleur d'eau ne fut capable de la soustraire à la créature sans être englouti vivant que grâce aux bénédictions d'Ondra.
 
-La rumeur prétend que le sceptre est l'un des éléments d'un rituel dont l'objet est de satisfaire Ngati, mais tout savoir concernant cette expérience lubrique s’est perdu dans les brumes du temps.</DefaultText>
+La rumeur prétend que le sceptre est l'un des éléments d'un rituel dont l'objet est de satisfaire Ngati, mais tout savoir concernant cette expérience lubrique s'est perdu dans les brumes du temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,13 +376,42 @@ Lorsque Givrou vous accompagne, vous obtenez un bonus d'Armure contre les dégâ
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5355</ID>
+      <DefaultText>Mélange de plusieurs rhums (et de tout autre alcool fort disponible) et de jus de fruits tropicaux, le vent de Wael est une boisson qui a toujours été populaire durant la période estivale du Feu éteint, où la chaleur est assommante. Inventée par les pirates Príncipi sen Patrena, cette boisson est traditionnellement servie dans une demi-coque de noix de coco.
+
+Le vent de Wael tient son nom de sa capacité légendaire à faire tomber ses buveurs à la renverse et à leur faire oublier tout souvenir de la soirée de la veille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>D'une teinte allant du transparent au léger blanc nuageux, cette liqueur est distillée à partir d'une mixture de deux riz (l'un au grain court, l'autre long) plongés dans l'eau d'une source de montagne située sur l'île d'Osa. Alcool le plus fort du Feu éteint, le daibō est en général servi tiède et est particulièrement populaire auprès de la caste des artisans.
+
+Régulièrement présent dans la culture populaire huana, surtout dans les pièces de théâtre et les chansons, le daibō o Osa a toujours été rendu principal responsable de la « dépravation » de la jeunesse huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer chiora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5364</ID>
       <DefaultText>Fluide d'automate de givre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5365</ID>
-      <DefaultText>La couleur de ce liquide vert épais et visqueux donne l'impression qu’il possède des propriétés luminescentes, mais il ne luit pas dans le noir. Cette matière gluante, dont la consistance est celle du glaire d'un mourant et dont l'acidité est capable de corroder toute matière organique, ne doit quasiment certainement jamais être avalée par quiconque.</DefaultText>
+      <DefaultText>La couleur de ce liquide vert épais et visqueux donne l'impression qu'il possède des propriétés luminescentes, mais il ne luit pas dans le noir. Cette matière gluante, dont la consistance est celle du glaire d'un mourant et dont l'acidité est capable de corroder toute matière organique, ne doit quasiment certainement jamais être avalée par quiconque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +436,7 @@ Lorsque Givrou vous accompagne, vous obtenez un bonus d'Armure contre les dégâ
     </Entry>
     <Entry>
       <ID>5385</ID>
-      <DefaultText>Le manche de ce pic à glace est recouvert de couches d’un tissu très usé, chaque couche plus ancienne que la suivante. Des dizaines de pictogrammes minuscules sont gravés sur le manche en bois, racontant des récits des Enutaniks de Naasitaq. Certaines des gravures sont soignées et précises, d'autres sont quasiment indéchiffrables. Elles racontent de longues traversées de la toundra gelée, des combats face à d'énormes créatures et décrivent des piliers d'adra recouverts de neige.
+      <DefaultText>Le manche de ce pic à glace est recouvert de couches d'un tissu très usé, chaque couche plus ancienne que la suivante. Des dizaines de pictogrammes minuscules sont gravés sur le manche en bois, racontant des récits des Enutaniks de Naasitaq. Certaines des gravures sont soignées et précises, d'autres sont quasiment indéchiffrables. Elles racontent de longues traversées de la toundra gelée, des combats face à d'énormes créatures et décrivent des piliers d'adra recouverts de neige.
 
 Les pictogrammes les plus récents font allusion à une île de glace, qui s'étend lentement au nord de Naasitaq.</DefaultText>
       <FemaleText />
@@ -355,11 +444,6 @@ Les pictogrammes les plus récents font allusion à une île de glace, qui s'ét
     <Entry>
       <ID>5386</ID>
       <DefaultText>Fléau des glaciers</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5387</ID>
-      <DefaultText>Les attaques des ennemis ratent {0} fois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -559,7 +643,7 @@ Confectionnés pour le climat plus tempéré du Bastion des Envoyés, ces vêtem
     </Entry>
     <Entry>
       <ID>5481</ID>
-      <DefaultText>Cette essence est produite par les kiths dont les actes de bienveillance ont renforcé leurs esprits. L'utilisateur qui la consume devient incorporel et capable d'éviter toutes les attaques physiques.</DefaultText>
+      <DefaultText>Cette essence provient de kiths dont les esprits ont été renforcés par leurs actes de bienveillance. Celui qui la consomme devient incorporel et bénéficie de la protection du Voile.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -624,6 +708,26 @@ Il ne ressentit aucune peine, aucune peur. Il comprenait la Contrée, et donc il
     <Entry>
       <ID>5496</ID>
       <DefaultText>Cet ourson des neiges chahuteur a pour habitude de chasser les mouettes et de mâchonner vos bottes de rechange. Il mange tout ce qu'il trouve à portée de patte, mais fait preuve d'un penchant tout particulier pour l'ysae gelé et les morceaux de viande de requin avariée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,6 +1,6 @@
 # Pillars of Eternity 2 : Traduction française corrigée
 
-Ce projet a pour but de corriger et d'améliorer la traduction française de Pillars of Eternity 2. Les fichiers sont prévus pour la version 2.0.1.0044 du jeu.
+Ce projet a pour but de corriger et d'améliorer la traduction française de Pillars of Eternity 2. Les fichiers sont prévus pour la version 2.1.0.0034 du jeu.
 
 ## Installation:
 

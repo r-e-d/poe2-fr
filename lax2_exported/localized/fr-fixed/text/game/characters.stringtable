@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>60</EntryCount>
+  <EntryCount>61</EntryCount>
   <Entries>
     <Entry>
       <ID>1445</ID>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>1635</ID>
-      <DefaultText>Pilgerin Ehrys</DefaultText>
+      <DefaultText>Pèlerine Ehrys</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,6 +302,11 @@
     <Entry>
       <ID>1647</ID>
       <DefaultText>Fjord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

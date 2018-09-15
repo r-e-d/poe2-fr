@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>890</EntryCount>
+  <EntryCount>891</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -29,11 +29,11 @@ Les rares fois où les ogres s'entraident, ils le font sous le commandement d'un
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Les ténèbres voient le jour lorsque des créatures pourvues d'âmes particulièrement fracturées succombent sans être renvoyées dans le cycle de la renaissance. Altérées, ces âmes puisent l'essence des autres créatures dans l'espoir vain de se guérir. Plus elles volent d'essence, plus elles deviennent puissantes et dangereuses. Lorsqu'elles ingurgitent cette essence, elles récupèrent des fragments de matière corporelle, ce qui leur confère une apparence distinctive. Heureusement, les ténèbres ne peuvent puiser qu'une infime quantité d'énergie des âmes toujours attachées à un corps ou liées à un objet. Elles s'appuient essentiellement sur certaines créatures, telles que les pŵgras capables d'extirper les âmes de leur forme physique, pour les aider à obtenir l'essence dont elles ont besoin.
+      <DefaultText>Les ombres voient le jour lorsque des créatures pourvues d'âmes particulièrement fracturées succombent sans être renvoyées dans le cycle de la renaissance. Altérées, ces âmes puisent l'essence des autres créatures dans l'espoir vain de se guérir. Plus elles volent d'essence, plus elles deviennent puissantes et dangereuses. Lorsqu'elles ingurgitent cette essence, elles récupèrent des fragments de matière corporelle, ce qui leur confère une apparence distinctive. Heureusement, les ombres ne peuvent puiser qu'une infime quantité d'énergie des âmes toujours attachées à un corps ou liées à un objet. Elles s'appuient essentiellement sur certaines créatures, telles que les pŵgras capables d'extirper les âmes de leur forme physique, pour les aider à obtenir l'essence dont elles ont besoin.
 
-Les ténèbres sont connues pour puiser l'énergie spirituelle de leurs victimes pendant leur sommeil, lorsque les âmes sont moins fermement liées aux corps. Cela donne lieu à d'horribles cauchemars qui épuisent ceux qui en sont la cible. Lorsque tous les habitants d'une ville se mettent à cauchemarder, il y a fort à parier qu'une ténèbre y a élu domicile.
+Les ombres sont connues pour puiser l'énergie spirituelle de leurs victimes pendant leur sommeil, lorsque les âmes sont moins fermement liées aux corps. Cela donne lieu à d'horribles cauchemars qui épuisent ceux qui en sont la cible. Lorsque tous les habitants d'une ville se mettent à cauchemarder, il y a fort à parier qu'une ombre y a élu domicile.
 
-Les ténèbres absorbant l'énergie spirituelle, elles sont invisibles des créatures recourant à la vision spirituelle. Cela a conduit à des expériences au cours desquelles les ténèbres ont été liées à des armures ou à des objets afin de faire disparaître ceux qui ne veulent pas être vus par ces créatures.</DefaultText>
+Les ombres absorbant l'énergie spirituelle, elles sont invisibles des créatures recourant à la vision spirituelle. Cela a conduit à des expériences au cours desquelles les ténèbres ont été liées à des armures ou à des objets afin de faire disparaître ceux qui ne veulent pas être vus par ces créatures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@ Les plus dangereux spécimens sont vecteurs de maladies, ce qui rend tout affron
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Dans les villes de Dyrwood, les feux follets sont presque mythologiques et présents dans d'anciens récits. À en croire un des ces récits les plus populaires, les feux follets seraient les âmes des enfants perdus, errant vers leur vie suivante. Dans les campagnes, ceux qui observent régulièrement les feux follets s'amusent de ces histoires. Ils se manifestent dans les ruines abandonnées et autres lieux oubliés. Ils passent pour être curieux et suivent parfois les voyageurs sur de courtes distances. De nature pacifique, les feux follets peuvent se révéler particulièrement agressifs en cas de provocation et défendent férocement leur territoire s'ils se sentent menacés. Dès lors, les feux follets sont souvent décrits comme les mauvaises herbes du monde spirituel ; petits, ils se régénèrent rapidement et sont quasi inarrêtables en nombre.</DefaultText>
+      <DefaultText>Les feux follets se manifestent dans les ruines abandonnées et autres lieux oubliés. Ils passent pour être curieux et suivent parfois les voyageurs sur de courtes distances. De nature pacifique, les feux follets peuvent se révéler particulièrement agressifs en cas de provocation et défendent férocement leur territoire s'ils se sentent menacés. Dès lors, les feux follets sont souvent décrits comme les mauvaises herbes du monde spirituel ; petits, ils se régénèrent rapidement et sont quasi inarrêtables en nombre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@ En cas d'attaque, la précision est comparée à la défense appropriée de la c
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>La déviation correspond à la défense utilisée pour résister à des attaques de mêlée et des attaques à distance directes contre le personnage situé en dehors de la zone d'effet (ZE). Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
+      <DefaultText>La déviation correspond à la défense utilisée pour résister à des attaques de corps à corps et des attaques à distance directes contre le personnage situé en dehors de la zone d'effet (ZdE). Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,12 +354,12 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Renversement</DefaultText>
+      <DefaultText>Chute</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Le Renversement est un effet d'Interruption amélioré qui fait tomber un personnage, lui demandant plus de temps pour se relever.</DefaultText>
+      <DefaultText>La Chute est une version plus efficace de l'effet Interruption qui fait tomber les personnages à plat dos. Se relever leur coûte plus de temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,7 +489,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Un critique est un jet d'attaque de 100 ou plus. Un critique qui inflige des dégâts augmente le total des dégâts de 25 % et la Pénétration de 50 %. Lorsqu'un critique est porté à des effets durables (afflictions de type intoxication ou paralysie, par exemple), la durée augmente de 50 %.</DefaultText>
+      <DefaultText>Un critique est un jet d'attaque supérieur ou égal à 100. Un critique qui inflige des dégâts augmente le total des dégâts de 25 % et la Pénétration de l'attaque de 50 %. Lorsqu'un critique s'applique à des effets durables (afflictions de type Intoxication ou Paralysie, par exemple), leur durée augmente de 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,13 +569,13 @@ Certaines créatures peuvent être invulnérables à une ou plusieurs affliction
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de Précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : Déviation (attaques de mêlée et attaques à distance directes), Robustesse (attaques visant l'organisme, comme le poison et la maladie), Réflexes (attaques dévastatrices à effet de zone) et Volonté (attaques psychiques).
+      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de Précision de l'attaquant est mesurée à l'une des quatre défenses suivantes : la Déviation (attaques au corps à corps et attaques à distance directes), la Robustesse (attaques visant l'organisme, comme le poison et la maladie), les Réflexes (attaques à effet de zone) et la Volonté (attaques psychiques).
 
-Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur à 25 = Échec. Nombre compris entre 25 et 49 = Éraflure. Nombre compris entre 50 et 99 = Coup. Nombre supérieur à 99 = Critique.
+Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la Précision et la défense pour déterminer les résultats de l'attaque. Moins de 25 = Échec, 25-49 = Éraflure, 50-99 = Coup, plus de 99 = Critique.
 
-En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se soldent par des coups ou des éraflures. Lorsque la précision est supérieure à la défense, les critiques sont plus probables. Lorsque la défense est supérieure à la Précision, les échecs sont plus probables.
+Lorsque l'Attaque et la défense sont équilibrées, la plupart des attaques deviennent soit des Coups, soit des Échecs. Lorsque la Précision est supérieure à la défense, les chances de porter des coups critiques augmentent. Lorsque la défense est supérieure à la Précision, les chances de rater une attaque augmentent.
 
-Par défaut, seulement quelques attaques peuvent produire des éraflures, à moins qu'une capacité ou un effet l'authorise. Si une attaque devrait produire une éraflure, mais ne peut pas, cette attaque échoue.</DefaultText>
+Par défaut, seules quelques attaques sont en mesure d'infliger des éraflures, à moins qu'une capacité ou un effet le permettent. Si une attaque est portée dans la zone d'éraflure sans pouvoir érafler, elle sera convertie en échec.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,12 +585,12 @@ Par défaut, seulement quelques attaques peuvent produire des éraflures, à moi
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Un échec correspond à un jet d'attaque inférieur à 25. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
+      <DefaultText>Tout jet d'attaque inférieur à 25 résulte en un échec. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Réduction de dégâts</DefaultText>
+      <DefaultText>Valeur d'armure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -629,7 +629,7 @@ Chaque point de Concentration que le personnage possède le protégera d'une Int
       <ID>162</ID>
       <DefaultText>La Santé représente la capacité de survie d'un personnage à court terme.
 
-Les dégâts non absorbés par la Valeur d'armure du personnage sont directement déduits de sa Santé. Les potions et les sorts de guérison (d'un paladin, d'un prêtre ou d'un druide) peuvent renforcer la Santé au combat. Lorsque la Santé du personnage atteint 0, il est Renversé. Un personnage Renversé peut reprendre le combat grâce à l'utilisation de la capacité Réanimation. Sinon, le personnage récupère toute sa Santé à la fin du combat (à condition qu'il appartienne au camp victorieux).</DefaultText>
+Les dégâts non absorbés par la Valeur d'armure du personnage sont directement déduits de sa Santé. Les potions et les sorts de guérison (d'un paladin, d'un prêtre ou d'un druide) peuvent rendre de la Santé au combat. Lorsque la Santé du personnage est épuisée (0), celui-ci est renversé. Un personnage renversé peut reprendre le combat grâce à l'utilisation d'une capacité Ranimation. Sinon, le personnage récupère toute sa Santé à la fin du combat (à condition qu'il appartienne au camp victorieux).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -808,9 +808,9 @@ Certaines créatures, surtout celles de grande stature, peuvent engager plus d'u
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Une prise à revers intervient lorsque deux attaquants engagent un adversaire en mêlée dans des directions opposées. Lorsque les défenseurs sont pris à revers, différentes pénalités sont infligées, ce qui permet une attaque furtive. Toute condition entraînant une rupture d'engagement de la part d'un attaquant annule également la prise à revers sur le défenseur si celle-ci est impossible sans lui.
+      <DefaultText>Une prise à revers intervient lorsque deux attaquants engagent un adversaire en corps à corps dans des directions opposées. Lorsque les défenseurs sont pris à revers, différentes pénalités sont infligées, ce qui permet une attaque furtive. Toute condition entraînant une rupture d'engagement de la part d'un attaquant annule également la prise à revers sur le défenseur si celle-ci est impossible sans lui.
 
-Notez que quelques rares capacités confèrent des exceptions aux règles de prise à revers standard, comme la capacité Isolement du barbare, la capacité Liaison du rôdeur et la capacité Ennemis fantômes du clairvoyant.</DefaultText>
+Notez que quelques rares capacités confèrent des exceptions aux règles de prise à revers standard, comme le capacités Isolement (barbare), Lien du pisteur (rôdeur) et Ennemis fantômes (clairvoyant).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -870,9 +870,9 @@ Les crochets sont des outils spécifiques utilisés pour forcer les verrous. Si 
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>De nombreuses compétences indiqueront l'utilisation d'une attaque maximum ou principale. Lorsque de telles compétences sont utilisées, le personnage applique l'effet par le biais d'une attaque avec soit toutes les armes actuellement équipées (attaque maximum) soit avec son arme principale équipée (attaque principale).
+      <DefaultText>De nombreuses compétences indiquent qu'elles utilisent une attaque maximum ou principale. Lorsque de telles compétences sont utilisées, le personnage applique l'effet par le biais d'une attaque soit avec toutes les armes actuellement équipées (attaque maximum), soit avec son arme principale équipée (attaque principale).
 
-Cela signifie que toutes les statistiques des armes s'appliquent encore, y compris les dégâts et les autres effets qu'elles provoquent.</DefaultText>
+Cela signifie que toutes les statistiques des armes s'appliquent, y compris les dégâts et les autres effets qu'elles provoquent. Si deux armes sont utilisées de cette manière pour effectuer une attaque maximum, chaque arme infligera moins que l'intégralité des dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1322,11 +1322,11 @@ Les augures du vide sont des crânes remplis d'essence. Les premières mentions 
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Les armes liées sont des objets uniques qui se lient magiquement avec l'âme d'une seule personne. Une fois liée, l'arme ne peut être utilisée que par cette personne, à moins que le lien ne soit rompu. Une arme liée augmentera en puissance si son porteur complète certaines des conditions détaillées dans la description de l'arme.
+      <DefaultText>Les objets liés à l'âme sont des objets uniques qui peuvent être liés par la magie avec l'âme d'un personnage. Une fois lié, l'objet ne peut être utilisé que par cette personne, à moins que le lien ne soit rompu. Un objet lié à l'âme augmentera en puissance si son porteur remplit certaines des conditions détaillées dans la description de l'arme.
 
-La plupart des armes liées ne peuvent s'associer qu'avec des personnages de certaines classes.
+La plupart des objets liés à l'âme ne peuvent s'associer qu'avec des personnages de certaines classes.
 
-Si le lien avec une arme liée devait être rompu, l'arme perdrait toutes les compétences qu'elle avait acquises durant ce temps.</DefaultText>
+Si le lien d'un objet lié à l'âme est rompu, l'objet perdra toutes les capacités qu'il aura acquises au fil du temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2896,7 +2896,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>Le peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés au Readceras, les membres du peuple de la savane sont rares à Dyrwood et dans les Républiques de Vailia.</DefaultText>
+      <DefaultText>Le peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés à Ixamitl, Readceras et dans les autres pays des Contrées orientales, ils sont rares dans les Vieux empires ou sur l'archipel du Feu éteint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2906,12 +2906,12 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000  ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un).</DefaultText>
+      <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000 ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>663</ID>
-      <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et au Readceras.</DefaultText>
+      <DefaultText>Les nains des montagnes (ou Aptapos), sont originaires des Vieux empires du continent d'Aedyr, mais ils ont disparu de ces terres bien avant l'arrivée des humains et des elfes. Au fil des millénaires, ils se sont rapidement répandus dans le monde entier en raison de leur penchant naturel pour l'exploration et la migration. Bien que les nains des montagnes forment des agglomérations ou même de petites nations, ils sont bien plus présents parmi les autres cultures, comme Vailia l'Ancienne, les Républiques de Vailia ou au Dyrwood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3363,7 +3363,7 @@ Chaque inspiration a trait à un attribut, comme la Puissance ou la Dextérité.
     </Entry>
     <Entry>
       <ID>753</ID>
-      <DefaultText>Les personnages qui sont résistants à un type d'affliction diminueront d'un cran les effets subis des afflictions de ce type qui leur sont appliqués. Par exemple, sur un personnage résistant aux afflictions touchant la Puissance, l'affliction Assommement serait rétrogradée en Étourdissement. Étourdissement serait rétrogradée en Stupéfaction, et Stupéfaction ne serait pas appliquée.</DefaultText>
+      <DefaultText>Les personnages qui sont résistants à un type d'affliction diminueront d'un cran les effets subis des afflictions de ce type qui leur sont appliqués. Par exemple, sur un personnage résistant aux afflictions touchant la Puissance, l'affliction Assommement serait rétrogradée en Étourdissement. Étourdissement serait rétrogradée en Stupéfaction, et Stupéfaction ne serait pas appliquée. Les personnage étant résistants aux attaques physiques ou magiques obtiennent une chance de les esquiver, sans subir les moindres effets négatifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3470,7 +3470,7 @@ Le haemneg le plus connu est l'union traditionnelle entre le ferscönyng humain 
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>Finoma</DefaultText>
+      <DefaultText>Fìnoma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4144,7 +4144,7 @@ Il peut arriver que les ours du Feu éteint soient attaqués par des tigres. Les
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>Finoma</DefaultText>
+      <DefaultText>Fìnoma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4179,7 +4179,7 @@ Il peut arriver que les ours du Feu éteint soient attaqués par des tigres. Les
     </Entry>
     <Entry>
       <ID>914</ID>
-      <DefaultText>Vidório</DefaultText>
+      <DefaultText>Vidòrio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4784,6 +4784,11 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     <Entry>
       <ID>1060</ID>
       <DefaultText>Le duc en or est la seule pièce de monnaie en or frappée à Dyrwood. Les visages de différents ducs de l'histoire de Dyrwood peuvent être gravés sur les pièces, mais la plupart représentent le premier duc, Admeth Hadret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>Terme vailien signifiant « dégoût ».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

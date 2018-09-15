@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1520</EntryCount>
+  <EntryCount>1512</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -3791,7 +3791,7 @@
     </Entry>
     <Entry>
       <ID>762</ID>
-      <DefaultText>Le Dragon des rivières</DefaultText>
+      <DefaultText>Dragon des rivières</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3966,7 +3966,7 @@
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>Le Sabordeur</DefaultText>
+      <DefaultText>Sabordeur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3976,7 +3976,7 @@
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>L'Intrépide</DefaultText>
+      <DefaultText>Intrépide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4846,7 +4846,7 @@
     </Entry>
     <Entry>
       <ID>973</ID>
-      <DefaultText>La Terreur du Feu éteint</DefaultText>
+      <DefaultText>Terreur du Feu éteint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5321,7 +5321,7 @@
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>L'Alisio</DefaultText>
+      <DefaultText>Alisio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5841,7 +5841,7 @@
     </Entry>
     <Entry>
       <ID>1177</ID>
-      <DefaultText>Crogall la matriarche</DefaultText>
+      <DefaultText>Porokoa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6711,7 +6711,7 @@
     </Entry>
     <Entry>
       <ID>1390</ID>
-      <DefaultText>Le Serviteur de Rikuhu</DefaultText>
+      <DefaultText>Serviteur de Rikuhu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7026,7 +7026,7 @@
     </Entry>
     <Entry>
       <ID>1457</ID>
-      <DefaultText>Le Chambellan flâneur</DefaultText>
+      <DefaultText>Chambellan flâneur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7061,7 +7061,7 @@
     </Entry>
     <Entry>
       <ID>1464</ID>
-      <DefaultText>Le Léviathan royal</DefaultText>
+      <DefaultText>Léviathan royal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7126,7 +7126,7 @@
     </Entry>
     <Entry>
       <ID>1479</ID>
-      <DefaultText>Le Chasse-tempête</DefaultText>
+      <DefaultText>Chasse-tempête</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7151,7 +7151,7 @@
     </Entry>
     <Entry>
       <ID>1484</ID>
-      <DefaultText>La Marine</DefaultText>
+      <DefaultText>Marine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7511,7 +7511,7 @@
     </Entry>
     <Entry>
       <ID>1592</ID>
-      <DefaultText>Le Drake</DefaultText>
+      <DefaultText>Drake</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7525,63 +7525,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1638</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1640</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1641</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1644</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1648</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1649</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1650</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1651</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1652</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1653</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1654</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1655</ID>
-      <DefaultText />
+      <DefaultText>Ryona</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7590,17 +7535,32 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1657</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1658</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1672</ID>
+      <DefaultText>Grand-prêtre xaurip sauvage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Illusion vivante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Illusion vivante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

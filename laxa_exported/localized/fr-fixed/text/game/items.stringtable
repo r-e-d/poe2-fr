@@ -2,72 +2,63 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>12</EntryCount>
+  <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
-      <ID>5350</ID>
-      <DefaultText>Ynefer blanche</DefaultText>
+      <ID>4860</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5351</ID>
-      <DefaultText>Fabriquée à partir de baies de genièvre communément trouvées dans les Contrées orientales, l'ynefer est une boisson populaire dans la Marche blanche et au Readceras. Habituellement distillée dans de simples cruches avec de la poudre de céréales et diverses herbes du cru selon le goût de celui qui la prépare, peu de bouteilles sont exportées jusqu'au Feu éteint. Nombre de nouvelles recrues des Príncipis, et particulièrement ceux originaires des Contrées orientales, convoitent cet alcool fort qui est un vrai petit plaisir gustatif.</DefaultText>
+      <ID>4861</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5352</ID>
-      <DefaultText>Saucco</DefaultText>
+      <ID>4865</ID>
+      <DefaultText>Œil de Rymrgand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5353</ID>
-      <DefaultText>Importé des Républiques de Vailia, cet alcool de céréales bleu foncé parfumé à l'anis et au sureau est souvent apprécié en digestif par les riches marchands, accompagné d'un verre de breuvage noir.</DefaultText>
+      <ID>4866</ID>
+      <DefaultText>Cette pierre précieuse est semblable au toucher à un morceau de glace polie. Plus vous la tenez en main, plus une imperfection située juste sous la surface de la pierre semble vous suivre. Les récits qui entourent le soi-disant « Œil de Rymrgand » ont toutes un thème commun : personne ne le garde en sa possession très longtemps. Toutes les légendes faisant état d'un héros intrépide qui entre en possession de la gemme se termine invariablement par une disparition tragique ou un voyage en mer voué à l'échec. Selon certaines théories, la gemme a été arrachée à une stalactite dans le Néant blanc de Rymrgand et son besoin inlassable de retourner d'où elle vient entraîne les mortels vers leur sombre destinée. Quelle que soit la part de vérité de ces récits, la gemme exerce une influence considérable sur son porteur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5354</ID>
-      <DefaultText>Vent de Wael</DefaultText>
+      <ID>4867</ID>
+      <DefaultText>Éclat détonateur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5355</ID>
-      <DefaultText>Mélange de plusieurs rhums (et de tout autre alcool fort disponible) et de jus de fruits tropicaux, le vent de Wael est une boisson qui a toujours été populaire durant la période estivale du Feu éteint, où la chaleur est assommante. Inventée par les pirates Príncipi sen Patrena, cette boisson est traditionnellement servie dans une demi-coque de noix de coco.
+      <ID>4868</ID>
+      <DefaultText>Cet élément de la bombe du Marteau divin bourdonne de pouvoir. Son existence même est quelque peu paradoxale, car la bombe dont il faisait partie a explosé en 2808 AI. La combinaison de la bénédiction de Magran et de son importance historique font de cet objet une trouvaille rare. Même si ce catalyseur n'a en fait pas réellement déclenché l'explosion sur le pont d'Evon Dewr, il vibre du pouvoir destructeur du Marteau divin et semble impatient de tenir sa promesse d'annihilation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4870</ID>
+      <DefaultText>Dans les années précédant l'arrivée de la Compagnie royale du Feu éteint, le chasseur wahaki Metani mena de nombreuses traques légendaires à travers les îles. Prétendument doté par Ngati d'une roublardise surnaturelle, Metani aimait faire usage de la ruse, attirant de monstrueuses bêtes marines dans des pièges soigneusement conçus. L'un de ces stratagèmes lui rapporta ce trophée : un harpon taillé dans la plus longue défense d'un qilutaalik. Au fil du temps, il y grava des représentations des créatures dont il vint à bout avec le harpon.
 
-Le vent de Wael tient son nom de sa capacité légendaire à faire tomber ses buveurs à la renverse et à leur faire oublier tout souvenir de la soirée de la veille.</DefaultText>
+Lorsque les Rauatais investirent le Feu éteint, Metani brandit la Défense de Ngati pour les repousser, impatient de prouver sa valeur contre les envahisseurs. Mais rien ne l'avait préparé à l'armada de fer, et son frêle bateau disparut dans l'explosion d'une mine aquatique. La Défense sombra alors dans la mer, pour ne plus jamais en resurgir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
+      <ID>4871</ID>
+      <DefaultText>Cape du champion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5357</ID>
-      <DefaultText>D'une teinte allant du transparent au léger blanc nuageux, cette liqueur est distillée à partir d'une mixture de deux riz (l'un au grain court, l'autre long) plongés dans l'eau d'une source de montagne située sur l'île d'Osa. Alcool le plus fort du Feu éteint, le daibō est en général servi tiède et est particulièrement populaire auprès de la caste des artisans.
-
-Régulièrement présent dans la culture populaire huana, surtout dans les pièces de théâtre et les chansons, le daibō o Osa a toujours été rendu principal responsable de la « dépravation » de la jeunesse huana.</DefaultText>
+      <ID>4872</ID>
+      <DefaultText>Brodée de figures stylisées représentant des stelgaers, des araignées et des sangliers, cette cape vous a été décernée lorsque vous avez été nommé Champion de la chasse, lors des jeux du Creuset de Kazuwari. Même si, traditionnellement, c'est un casque décerné au vainqueur, vous n'êtes pas le premier divin à remporter les jeux. Pour les champions dont le front, comme le vôtre, a été touché par les dieux, le heaume habituel est remplacé par cette cape taille unique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
+      <ID>4873</ID>
+      <DefaultText>Heaume du combattant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5359</ID>
-      <DefaultText>Liquide brun fumé natif du Rauatai, le meppu est distillé à partir d'orge malté et décanté dans des fûts en chêne. Bien que la tradition veuille qu'on le serve coupé avec de l'eau à température ambiante, les étudiants rauatais l'ajoutent souvent à du thé chaud. Quelle que soit sa forme, il est régulièrement consommé avec du chocolat noir ou d'autres sucreries.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer chiora</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5361</ID>
-      <DefaultText>Cette variante d'une liqueur d'herbes répandue dans les Républiques de Vailia a été infusée avec de l'adra lumineux. La combinaison de l'alcool jaune et de l'adra en poudre donne une décoction verte qui luit faiblement.
-
-Seuls les plus riches marchands vailiens peuvent se vanter de posséder plus d'une bouteille de chiora, et en déboucher une à la fin d'un repas est une façon ostentatoire d'afficher sa réussite à ses invités.</DefaultText>
+      <ID>4874</ID>
+      <DefaultText>En plus de protéger la tête, le visage et la nuque du porteur, ce casque à crête distingue ceux qui se sont élevés dans les rangs et l'estime du Creuset. Des gravures ornementales donnent au porteur un aspect stoïque, tandis que les ouvertures pour les yeux soulignent la nécessité de rester concentré au cœur de la bataille.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergbreach_rymrgand</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>140</EntryCount>
+  <EntryCount>137</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -237,16 +237,6 @@ C'est terminé.</FemaleText>
 "Pitoyable."</FemaleText>
     </Entry>
     <Entry>
-      <ID>91</ID>
-      <DefaultText>LR Ydwin : [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
-      <FemaleText>LR Ydwin : [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>92</ID>
-      <DefaultText>LR Vatnir : [vous n'êtes pas sérieux] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>93</ID>
       <DefaultText>Plus vous vous approchez, plus la lumière du portail s'intensifie, au point d'être insupportable.</DefaultText>
       <FemaleText>Plus vous vous approchez, plus la lumière du portail s'intensifie, au point d'être insupportable.</FemaleText>
@@ -337,11 +327,6 @@ C'est terminé.</FemaleText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>157</ID>
-      <DefaultText>LR Ydwin: [Ydwin responds to Rymrgand calling the player pitiful for fearing death.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>169</ID>
       <DefaultText>[Hausser les épaules]</DefaultText>
       <FemaleText />
@@ -410,8 +395,8 @@ C'est terminé.</FemaleText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Rymrgand marque une pause pendant que ses nombreux yeux clairs vous observent intensément.</DefaultText>
-      <FemaleText>Rymrgand marque une pause pendant que ses nombreux yeux clairs vous observent intensément.</FemaleText>
+      <DefaultText>Rymrgand marque une pause et vous scrute de sa multitude d'yeux sombres.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>

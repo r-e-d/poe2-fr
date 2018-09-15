@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1055</EntryCount>
+  <EntryCount>1094</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Déviation</DefaultText>
+      <DefaultText>Déviateur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4761,7 +4761,7 @@
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Indécise</DefaultText>
+      <DefaultText>Indécis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5151,17 +5151,17 @@
     </Entry>
     <Entry>
       <ID>1626</ID>
-      <DefaultText />
+      <DefaultText>Culpabilité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1627</ID>
-      <DefaultText />
+      <DefaultText>Colossal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1628</ID>
-      <DefaultText />
+      <DefaultText>Rédemption</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5171,112 +5171,307 @@
     </Entry>
     <Entry>
       <ID>1630</ID>
-      <DefaultText />
+      <DefaultText>Deuil</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1631</ID>
-      <DefaultText />
+      <DefaultText>Martyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1633</ID>
-      <DefaultText />
+      <DefaultText>Rupture de voile</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1638</ID>
-      <DefaultText />
+      <DefaultText>Âmes expérimentales</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1639</ID>
-      <DefaultText />
+      <DefaultText>Cuivre chargé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1640</ID>
-      <DefaultText />
+      <DefaultText>Conduit électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1641</ID>
-      <DefaultText />
+      <DefaultText>Conduit thermique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1642</ID>
-      <DefaultText />
+      <DefaultText>Diplomatie des âmes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1643</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1662</ID>
-      <DefaultText />
+      <DefaultText>Âmes liées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1666</ID>
-      <DefaultText />
+      <DefaultText>Sang</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1667</ID>
-      <DefaultText />
+      <DefaultText>Tempérament</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1668</ID>
-      <DefaultText />
+      <DefaultText>Fureur tempérée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1669</ID>
-      <DefaultText />
+      <DefaultText>Tempérament instable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1670</ID>
-      <DefaultText />
+      <DefaultText>Déchirement sanglant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1671</ID>
-      <DefaultText />
+      <DefaultText>Abondance de sang</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText />
+      <DefaultText>Annihilation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1674</ID>
-      <DefaultText />
+      <DefaultText>Férocité du loup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText />
+      <DefaultText>Ténacité du loup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1676</ID>
-      <DefaultText />
+      <DefaultText>Entaille sanglante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1677</ID>
-      <DefaultText />
+      <DefaultText>Désordre sanglant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1678</ID>
+      <DefaultText>Élan sanglant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Intemporel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Flamme intemporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>Persévérance intemporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>Symbole d'inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Flambeau de l'inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Symbole de courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>Dévouement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Lien de l'amour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText>Le briseur de potences</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText>Cajux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Chloë</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Dude le chat à six doigts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>Epsilon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Ludde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>Misty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Noah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Zorro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Levin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>Pes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>Rex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>Sheba</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>Ulk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Dégâts mineurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Dégâts modérés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>Léger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>Faveur du capitaine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>Tempérament de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Malédiction brisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>Perforation d'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Lame desséchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Don de sang majeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Illusions vivantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>L'esprit domine le corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText>Célérité mystique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Presque brisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Socrate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>Ickis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1721</ID>
+      <DefaultText>Amra</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

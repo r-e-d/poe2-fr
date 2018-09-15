@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\11_hasongo\11_si_cannon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -288,6 +288,30 @@ Serafen jette un regard en direction de la tour.</DefaultText>
       <DefaultText>[Specified 0] évalue la distance avec la cible et rajuste la bombarde pour atteindre un angle qui semble raisonnable.
 
 À peu près.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Tourner la bombarde en direction des décombres à l'ouest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Viser les décombres avec la bombarde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Vous évaluez la distance vous séparant de la plateforme ouest et prenez en considération vos connaissances en matière de balistique et de trajectoires paraboliques.
+
+Après quelques calculs mentaux, vous ajustez la bombarde sur une position de tir adaptée. Vous êtes certain de pouvoir vous débarrasser des décombres sur la plateforme avec cet angle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Specified 0] estime la distance vous séparant de la plateforme ouest et ajuste la bombarde sur une position de tir adaptée.
+
+[Specified 0] est certain que vous pouvez vous débarrasser des décombres sur la plateforme avec cet angle.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

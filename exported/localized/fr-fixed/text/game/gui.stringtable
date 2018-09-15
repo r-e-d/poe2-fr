@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4425</EntryCount>
+  <EntryCount>4455</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -301,8 +301,8 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Non blessé</DefaultText>
-      <FemaleText>Non blessée</FemaleText>
+      <DefaultText>Indemne</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -807,7 +807,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Le niveau &lt;b&gt;Normal&lt;/b&gt; s'adresse aux joueurs voulant la difficulté par défaut.</DefaultText>
+      <DefaultText>Le niveau &lt;b&gt;Normal&lt;/b&gt; est conseillé aux personnes qui veulent relever un défi équilibré dans l'archipel du Feu éteint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -907,7 +907,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Mêlée engagée</DefaultText>
+      <DefaultText>Combat en corps à corps engagé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1002,7 +1002,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Pause automatique lorsqu'un membre du groupe affronte en mêlée un ennemi.</DefaultText>
+      <DefaultText>Pause automatique lorsqu'un membre du groupe est engagé en corps à corps par un ennemi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,7 +1012,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Pause automatique lorsque l'attaque d'un membre du groupe est inéfficace en raison de la valeur de réduction de dégâts de la cible.</DefaultText>
+      <DefaultText>Pause automatique lorsque l'attaque d'un membre du groupe est inefficace en raison de la Valeur d'armure de la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2412,7 +2412,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Le peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés au Readceras, les membres du peuple de la savane sont rares à Dyrwood et dans les Républiques de Vailia.</DefaultText>
+      <DefaultText>Le peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés à Ixamitl, Readceras et dans les autres pays des Contrées orientales, ils sont rares dans les Vieux empires ou sur l'archipel du Feu éteint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2422,12 +2422,12 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000  ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un).</DefaultText>
+      <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000 ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et au Readceras.</DefaultText>
+      <DefaultText>Les nains des montagnes (ou Aptapos), sont originaires des Vieux empires du continent d'Aedyr, mais ils ont disparu de ces terres bien avant l'arrivée des humains et des elfes. Au fil des millénaires, ils se sont rapidement répandus dans le monde entier en raison de leur penchant naturel pour l'exploration et la migration. Bien que les nains des montagnes forment des agglomérations ou même de petites nations, ils sont bien plus présents parmi les autres cultures, comme Vailia l'Ancienne, les Républiques de Vailia ou au Dyrwood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3842,7 +3842,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>840</ID>
-      <DefaultText>Nom de l'animal de compagnie</DefaultText>
+      <DefaultText>Nom du compagnon animal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4017,7 +4017,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Grimoire/Bijou</DefaultText>
+      <DefaultText>Grimoire/Breloque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4952,7 +4952,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Précision {0} en mêlée</DefaultText>
+      <DefaultText>Précision {0} en corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5022,7 +5022,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>Renversé</DefaultText>
+      <DefaultText>Chute</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5067,7 +5067,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Portée en mêlée {0}</DefaultText>
+      <DefaultText>Portée au corps à corps {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5077,7 +5077,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1132</ID>
-      <DefaultText>Attaques de mêlée sur une ligne</DefaultText>
+      <DefaultText>Attaques de corps à corps sur une ligne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5112,7 +5112,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>Dégâts de mêlée {0}</DefaultText>
+      <DefaultText>Dégâts au corps à corps {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5202,7 +5202,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Invoquer une arme : {0:Equippable}</DefaultText>
+      <DefaultText>Invocation d'arme : {0:Equippable}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5272,7 +5272,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1180</ID>
-      <DefaultText>Attaques de mêlée hostiles redirigées vers une autre cible proche</DefaultText>
+      <DefaultText>Attaques de corps à corps hostiles redirigées vers une autre cible proche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5317,7 +5317,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>Défense {0} lors d'un Renversement</DefaultText>
+      <DefaultText>Défense {0} lors d'une Chute</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5387,7 +5387,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Dégâts en mêlée {0}</DefaultText>
+      <DefaultText>Dégâts au corps à corps {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5502,7 +5502,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Dégâts {0} contre les ennemis subissant renversement, assommement ou prise à revers</DefaultText>
+      <DefaultText>Dégâts {0} contre les ennemis subissant Chute, Assommement ou Prise à revers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6122,7 +6122,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>Mêlée uniquement</DefaultText>
+      <DefaultText>Corps à corps uniquement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6444,7 +6444,7 @@ Dans les conversations et les interactions scriptées, Athlétisme est utilisé 
     </Entry>
     <Entry>
       <ID>1442</ID>
-      <DefaultText>Vous devez vous trouver à la forteresse pour recruter ou renvoyer des membres du groupe.</DefaultText>
+      <DefaultText>Vous devez vous trouver sur votre navire pour recruter ou renvoyer des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6539,7 +6539,7 @@ Dans les conversations et les interactions scriptées, Athlétisme est utilisé 
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Tous les druides maîtrisent une forme animale. Cette forme confère au druide de puissantes capacités de mêlée ainsi qu'un pouvoir supplémentaire lorsqu'il est transformé.</DefaultText>
+      <DefaultText>Tous les druides maîtrisent une forme animale. Cette forme confère au druide de puissantes capacités au corps à corps ainsi qu'un pouvoir supplémentaire lorsqu'il est transformé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6656,7 +6656,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1486</ID>
-      <DefaultText>Sorts de {0}</DefaultText>
+      <DefaultText>Sorts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7556,7 +7556,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} des éraflures converties en coups (arme en mêlée à une main)</DefaultText>
+      <DefaultText>{0} des éraflures converties en coups (arme de corps à corps à une main)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8133,7 +8133,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1792</ID>
-      <DefaultText>Les capacités de combattant se caractérisent par des propriétés défensives élevées et des propriétés offensives fiables. Elles portent majoritairement sur le combat de mêlée.</DefaultText>
+      <DefaultText>Les capacités de combattant se caractérisent par des propriétés défensives élevées et des propriétés offensives fiables. Elles portent majoritairement sur le combat au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8143,7 +8143,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Tous les combattants sont spécialisés dans une catégorie d'armes. Chaque groupe de Spécialisation en armes couvre un ensemble d'armes de mêlée et d'armes à distance qui infligent différents types de dégâts.</DefaultText>
+      <DefaultText>Tous les combattants sont spécialisés dans une catégorie d'armes. Chaque groupe de spécialisation en armes couvre un ensemble d'armes de corps à corps et d'armes à distance qui infligent différents types de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8158,12 +8158,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1797</ID>
-      <DefaultText>Les capacités du barbare lui permettent de combattre des groupes d'ennemis en mêlée en leur infligeant davantage de dégâts, ce qui affaiblit les ennemis ou confère des bonus au barbare lorsque la situation semble désespérée.</DefaultText>
+      <DefaultText>Les capacités du barbare lui permettent de combattre des groupes d'ennemis au corps à corps en leur infligeant davantage de dégâts, ce qui affaiblit les ennemis ou confère des bonus au barbare lorsque la situation semble désespérée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1798</ID>
-      <DefaultText>Les capacités du moine couvrent un ensemble d'effets qui renforcent ses attaques de mêlée, le protègent des afflictions ou renversent la situation au détriment des ennemis. La plupart des capacités du moine reposent sur les plaies, et certaines sur une utilisation Par rencontre ou Par repos.</DefaultText>
+      <DefaultText>Les capacités du moine couvrent un ensemble d'effets qui renforcent ses attaques de corps à corps, le protègent des afflictions ou renversent la situation au détriment des ennemis. La plupart des capacités du moine reposent sur les plaies, et certaines sur une utilisation Par rencontre ou Par repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8183,7 +8183,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>Les capacités du bandit mettent l'accent sur les frappes offensives à l'aide d'armes de mêlée et d'armes à distance. Certaines provoquent des afflictions qui permettent au bandit de lancer une Attaque furtive. D'autres renforcent son Attaque furtive ou lui confèrent des capacités de positionnement tactique.</DefaultText>
+      <DefaultText>Les capacités du bandit mettent l'accent sur les frappes offensives à l'aide d'armes de corps à corps et d'armes à distance. Certaines provoquent des afflictions qui permettent au bandit de lancer une Attaque furtive. D'autres renforcent son Attaque furtive ou lui confèrent des capacités de positionnement tactique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10129,7 +10129,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2196</ID>
-      <DefaultText>Arme liée à l'âme</DefaultText>
+      <DefaultText>Objet lié à l'âme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10379,7 +10379,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Le mode &lt;b&gt;Histoire&lt;/b&gt; s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur.</DefaultText>
+      <DefaultText>Le mode &lt;b&gt;Histoire&lt;/b&gt; s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Les mécaniques de jeu sont biaisées en faveur du joueur afin de rendre les affrontements beaucoup plus faciles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10404,7 +10404,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2255</ID>
-      <DefaultText>{0} des Éraflures reçues converties en Échecs</DefaultText>
+      <DefaultText>{0} des éraflures subies converties en échecs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10429,7 +10429,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2260</ID>
-      <DefaultText>Bouclier de dégâts {0}-pt {1}</DefaultText>
+      <DefaultText>{0} pts de protection contre dégâts de {1} type</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11354,7 +11354,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2451</ID>
-      <DefaultText>{0} ennemis en mêlée</DefaultText>
+      <DefaultText>{0} ennemis au corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13317,7 +13317,7 @@ Démarre avec un jeu d'armes et une connaissance d'arme supplémentaires.
 Réduit le malus de temps de récupération lors du changement d'arme.
 
 &lt;b&gt;Malus&lt;/b&gt;
-Perd la récupération constante.</DefaultText>
+La &lt;xg&gt;Récupération&lt;/xg&gt; constante est moins efficace.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13495,7 +13495,7 @@ Les prêtres de Wael apprennent automatiquement les sorts suivants au Niveau de 
 2. Projection iconique
 3. Reflet
 4. Image décalée de Llengrath
-5. Confusion
+5. &lt;xg&gt;Confusion&lt;/xg&gt;
 6. Merveilleux tourment d'&lt;xg&gt;Arkemyr&lt;/xg&gt;
 7. Regard de l'adragan
 8. Symbole de &lt;xg&gt;Wael&lt;/xg&gt;
@@ -13514,7 +13514,7 @@ Doit invoquer le compagnon animal au combat (a un coût en Lien et une durée).
 
 Le compagnon est considéré comme un esprit et est sensible aux pouvoirs visant les esprits.
 
-Le compagnon animal ne peut pas être soigné (incapable d'apprendre les capacités Guérison d’animal de compagnie et Réanimation d’animal de compagnie).</DefaultText>
+Le compagnon animal ne peut pas être soigné (incapable d'apprendre les capacités Guérison de compagnon et Réanimation de compagnon).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13956,7 +13956,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>2924</ID>
-      <DefaultText>La Roublardise englobe les règles de &lt;xg&gt;survie&lt;/xg&gt; qu'on apprend dans les rues et les ruelles des grandes villes. Elle inclut un certain savoir urbain et l’étiquette appropriée pour traiter avec des gens peu recommandables.</DefaultText>
+      <DefaultText>La Roublardise englobe les règles de &lt;xg&gt;survie&lt;/xg&gt; qu'on apprend dans les rues et les ruelles des grandes villes. Elle inclut un certain savoir urbain et l'étiquette appropriée pour traiter avec des gens peu recommandables.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14026,17 +14026,17 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>2938</ID>
-      <DefaultText>{0} a été tué.</DefaultText>
+      <DefaultText>{0} a été tué(e).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2939</ID>
-      <DefaultText>{0} a été détruit.</DefaultText>
+      <DefaultText>{0} a été détruit(e).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2940</ID>
-      <DefaultText>Arbalète</DefaultText>
+      <DefaultText>Grande arbalète</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14926,7 +14926,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3135</ID>
-      <DefaultText>Soulever</DefaultText>
+      <DefaultText>Ascenseur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15841,7 +15841,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3323</ID>
-      <DefaultText>Aucune compétence</DefaultText>
+      <DefaultText>Néant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16101,12 +16101,12 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3392</ID>
-      <DefaultText>Attaquer les cibles</DefaultText>
+      <DefaultText>Attaque les cibles</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3393</ID>
-      <DefaultText>en cas d'esquive d'une attaque</DefaultText>
+      <DefaultText>lorsque raté par une attaque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16121,7 +16121,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3396</ID>
-      <DefaultText>lorsque touché par une attaque ou par un critique</DefaultText>
+      <DefaultText>lorsque touché par un coup ou par un critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17807,12 +17807,12 @@ Aucun</DefaultText>
     </Entry>
     <Entry>
       <ID>3809</ID>
-      <DefaultText>en cas de critique</DefaultText>
+      <DefaultText>en cas de critique porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3810</ID>
-      <DefaultText>en cas d'attaque réussie</DefaultText>
+      <DefaultText>en cas de coup porté avec attaque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18411,7 +18411,7 @@ Après la transformation spirituelle, le druide subit un malus important au Nive
     </Entry>
     <Entry>
       <ID>3925</ID>
-      <DefaultText>{0:Value} Tous les niveaux de pouvoir {0:Keyword}</DefaultText>
+      <DefaultText>Tous les niveaux de pouvoir de {0:Keyword} : {0:Value}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18593,7 +18593,7 @@ Merci,
     </Entry>
     <Entry>
       <ID>3960</ID>
-      <DefaultText>Pas de malus !</DefaultText>
+      <DefaultText>Pénétration réduite !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22544,7 +22544,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Tout membre du groupe perdant connaissance pendant 6 secondes est tué</DefaultText>
+      <DefaultText>Tout membre du groupe étant renversé pendant 6 secondes est tué</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22594,61 +22594,215 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4965</ID>
-      <DefaultText />
+      <DefaultText>Se désinscrire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4966</ID>
-      <DefaultText />
+      <DefaultText>Se désinscrire de {0} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4967</ID>
-      <DefaultText />
+      <DefaultText>Steam Workshop</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4969</ID>
-      <DefaultText />
+      <DefaultText>Publier ce mod sur le Steam Workshop ?
+
+En publiant ce mod, vous acceptez les &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;conditions d'utilisation&lt;/link&gt; du Steam Workshop.
+
+Vous pourrez relire la page Workshop du mod avant de la publier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4970</ID>
-      <DefaultText />
+      <DefaultText>Charger sur le Steam Workshop</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4971</ID>
-      <DefaultText />
+      <DefaultText>Mod de mise à jour</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4972</ID>
-      <DefaultText />
+      <DefaultText>Brève description des modifications apportées à votre mod depuis la version précédente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4973</ID>
-      <DefaultText />
+      <DefaultText>J'ai moi-même créé tous les fichiers contenus dans ce mod, ou alors j'ai la permission de les utiliser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4975</ID>
-      <DefaultText />
+      <DefaultText>Choisir un objet à enchanter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4976</ID>
-      <DefaultText />
+      <DefaultText>Pas d'objets à enchanter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4977</ID>
-      <DefaultText />
+      <DefaultText>Conditions pour {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4978</ID>
+      <DefaultText>Ingrédient</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4979</ID>
+      <DefaultText>Choisir un Enchantement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>Desgant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4982</ID>
+      <DefaultText>Nasenalenet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>L'équipement s'abîme au fil du temps et doit être réparé via l'interface d'Enchantement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4991</ID>
+      <DefaultText>Défi de Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4992</ID>
+      <DefaultText>Défi d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>{0} a été endommagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>L'ajout de {0} à {1} vous empêchera d'ajouter {2}. Souhaitez-vous ajouter {0} ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>Périmètre de dissipation du brouillard la nuit et en intérieur : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>Toute source de lumière à la main augmente le périmètre de dissipation du brouillard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>Effet aléatoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4999</ID>
+      <DefaultText>{2} a renforcé {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>Impossible de lier {0} à {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>Cibles engagées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>Cibles menacées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>Assaillants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5004</ID>
+      <DefaultText>Mon compagnon animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>Armure endommagée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Armure brisée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>Arme endommagée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>Arme brisée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>Bouclier endommagé !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>Bouclier brisé !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5015</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5016</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5031</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5032</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

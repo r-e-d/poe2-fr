@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>108</EntryCount>
+  <EntryCount>109</EntryCount>
   <Entries>
     <Entry>
       <ID>4146</ID>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>4676</ID>
-      <DefaultText>La glace recouvre les articulations de l'armure en octroyant au porteur un bonus d'Armure accompagné de l'affliction Immobilisation.</DefaultText>
+      <DefaultText>La glace recouvre les articulations de l'armure, octroyant au porteur un bonus en Armure tout en l'immobilisant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>4721</ID>
-      <DefaultText>Le Rempart de la marée hivernale ralentit le porteur pendant un bref laps de temps, mais il augmente les défenses physiques et mentales.</DefaultText>
+      <DefaultText>Lorsque le porteur subit une Affliction, le Rempart de la marée hivernale durcit, augmentant les chances de convertir les éraflures ennemies en échecs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>4725</ID>
-      <DefaultText>L'énergie de Rymrgand infuse le porteur, en lui conférant un bonus à toutes les défenses lorsqu'il est touché par une affliction.</DefaultText>
+      <DefaultText>Le porteur est imprégné de l'énergie de Rymrgand et reçoit un bonus à toutes ses défenses lorsqu'il est touché par une affliction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>4735</ID>
-      <DefaultText>L'utilisateur prend un ennemi au piège dans le temps, le bloquant sur place, mais le rendant également impossible à cibler.</DefaultText>
+      <DefaultText>L'utilisateur piège un ennemi dans le temps tout en accélérant le temps pour lui-même. L'ennemi se retrouve figé et impossible à cibler tandis que l'utilisateur bénéficie d'importants bonus en Récupération et en Allure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,6 +552,11 @@ Les prêtres de Rymrgand apprennent automatiquement les sorts suivants au Niveau
     <Entry>
       <ID>4825</ID>
       <DefaultText>Quand Fjord suit le groupe, votre Constitution est augmentée et le groupe inflige des dégâts givrants pour chaque attaque portée au corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Vengeance légitime</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

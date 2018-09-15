@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Vous gagnez {0:value:percent} en conversion de coups portés en coups critiques toutes les {0:interval}. Cet effet est réinitialisé en cas de coup critique réussi</DefaultText>
+      <DefaultText>Vous gagnez {0:value:percent} en conversion de coups portés en coups critiques toutes les {0:interval} (cet effet est réinitialisé en cas de coup critique réussi)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>(Bonus actuel : {0:value:percent}) Vous gagnez {0:extravalue:percent} en conversion de coups portés en coup critiques toutes les {0:interval}. Cet effet est réinitialisé en cas de coup critique réussi</DefaultText>
+      <DefaultText>(Bonus actuel : {0:value:percent}) Vous gagnez {0:extravalue:percent} en conversion de coups portés en coup critiques toutes les {0:interval} (cet effet est réinitialisé en cas de coup critique réussi)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>La Vitesse d'attaque augmente au fur et à mesure que la Santé baisse (Maximum {0:value:percentbonus})</DefaultText>
+      <DefaultText>La Vitesse d'action augmente à mesure que la Santé baisse (jusqu'à un max de {0:value:percentbonus} à la Vitesse d'action)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>En cas de coup porté ou de coup critique, l'attaque suivante réussie du porteur inflige {0:value:bonuspercentbonus} dégâts givrants supplémentaires.</DefaultText>
+      <DefaultText>Si le porteur subit un coup ou un coup critique, sa prochaine attaque armée réussie inflige {0:value:bonuspercentbonus} dégâts givrants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>L'attaque suivante réussie du porteur inflige {0:value:bonuspercentbonus} dégâts givrants supplémentaires.</DefaultText>
+      <DefaultText>La prochaine attaque armée réussie du porteur inflige {0:value:bonuspercentbonus} dégâts givrants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>{0:value} à la Pénétration après avoir subi des dégâts givrants. Cumulable {0:extravalue:straight} fois.</DefaultText>
+      <DefaultText>{0:value} à la Pénétration après avoir subi des dégâts givrants (cumulable {0:extravalue:straight} fois)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>559</ID>
-      <DefaultText>Lorsqu'un ennemi est tué, la durée des effets d'état hostiles sur les ennemis à proximité est augmentée de {0:value:percentbonus}</DefaultText>
+      <DefaultText>Lorsqu'un ennemi est tué, {0:value:percentbonus} à la durée des effets hostiles sur les ennemis à proximité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>{0:statuseffects} à chaque fois qu'une attaque rate le porteur. Cumulable {0:value:straight} fois.</DefaultText>
+      <DefaultText>{0:statuseffects} à chaque fois qu'une attaque rate le porteur (cumulable {0:value:straight} fois)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Infliger un coup critique à un ennemi lui fait subir {0:value:straight} dégâts bruts chaque {0:interval} pendant {0:extravalue:duration}. À chaque fois que cet ennemi inflige des dégâts, la durée augmente</DefaultText>
+      <DefaultText>Infliger un coup critique à un ennemi lui fait subir {0:value:straight} dégâts bruts toutes les {0:interval} pendant {0:extravalue:duration} (à chaque fois que la cible inflige des dégâts, la durée augmente)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,22 +111,22 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice soignent de {0:value:straight} les alliés à proximité</DefaultText>
+      <DefaultText>Les ennemis tués sous l'effet de Balance de la justice régénèrent {0:value:straight} de santé aux alliés à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} de chances d'infliger {0:extravalue:straight} dégâts corrosifs chaque {0:interval} pendant {0:triggervalue:duration} lors d'un Coup avec une arme</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'infliger {0:extravalue:straight} dégâts corrosifs toutes les {0:interval} pendant {0:triggervalue:duration} lorsque touché avec des armes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Bonus de {0:value:bonuspercentbonus} aux chances de conversion de Coup en Critique. Les chances augmentent en fonction de la compétence {0:skill} du porteur</DefaultText>
+      <DefaultText>{0:value:bonuspercentbonus} de chances de convertir les coups portés en coups critiques avec les attaques armées (augmente avec la compétence {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>592</ID>
-      <DefaultText>Guérison de {0:value:straight} sur une ZdE lorsqu'un ennemi est tué. La quantité de Santé guérie augmente en fonction de la compétence {0:skill} du porteur</DefaultText>
+      <DefaultText>Régénère {0:value:straight} de Santé à tous les alliés à proximité si un ennemi est tué (augmente avec la compétence {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Le porteur reçoit un Engagement bonus à mesure que sa Santé faiblit. (Maximum {0:value})</DefaultText>
+      <DefaultText>Le porteur reçoit un bonus en Engagement à mesure que sa Santé faiblit (jusqu'à un Engagement max de {0:value})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

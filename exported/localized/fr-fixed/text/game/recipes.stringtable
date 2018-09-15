@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>597</EntryCount>
+  <EntryCount>610</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,12 +126,12 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Exceptionnel</DefaultText>
+      <DefaultText>Exceptionnelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Raffiné</DefaultText>
+      <DefaultText>Raffinée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Retirer la malédiction de Calmo</DefaultText>
+      <DefaultText>Malédiction brisée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,7 +2531,7 @@
     </Entry>
     <Entry>
       <ID>706</ID>
-      <DefaultText>Appel à la Volonté</DefaultText>
+      <DefaultText>Usurper la volonté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2896,7 +2896,7 @@
     </Entry>
     <Entry>
       <ID>784</ID>
-      <DefaultText>Dragon trempé</DefaultText>
+      <DefaultText>Trempe de dragon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,71 +2921,136 @@
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>Retirer Murmures des morts</DefaultText>
+      <DefaultText>Faire taire les morts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText />
+      <DefaultText>Flame purificatrice</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText />
+      <DefaultText>Frappe brûlante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>806</ID>
-      <DefaultText />
+      <DefaultText>Bouclier de feu supérieur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText />
+      <DefaultText>Coup vertueux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText />
+      <DefaultText>Diplomatie des âmes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText />
+      <DefaultText>Âmes liées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>812</ID>
-      <DefaultText />
+      <DefaultText>Conduit électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>816</ID>
-      <DefaultText />
+      <DefaultText>Conduit thermique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText />
+      <DefaultText>Fureur tempérée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText />
+      <DefaultText>Déchirement sanglant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText />
+      <DefaultText>Tempérament instable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>822</ID>
+      <DefaultText>Abondance de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Ténacité du loup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Férocité du loup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Désordre sanglant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>Élan sanglant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Flamme intemporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Persévérance intemporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Symbole de courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Flambeau de l'inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Réparations mineures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Réparations modérées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Réparations majeures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

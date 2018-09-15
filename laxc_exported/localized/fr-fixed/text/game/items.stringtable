@@ -2,8 +2,63 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>10</EntryCount>
+  <EntryCount>19</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Lancer {0} sorts de prêtre de protection ou de restauration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Lancer {0} sorts de druide liés aux bêtes ou aux plantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4713</ID>
+      <DefaultText>Une arme blesse. Un piège affaiblit. Le Pisteur sert la quête, piégeant les cœurs et les yeux de huit fois quatre-vingts adversaires, brouillant le sentier centuple devant le voyageur. Suffisamment silencieuse pour ne pas attirer l'attention et suffisamment perçante pour affronter l'attention sans se dérober, cette rapière fait davantage qu'assassiner : elle désoriente.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4714</ID>
+      <DefaultText>Le sentier centuple se ramifie en cent fois cent chemins différents. Le Pisteur ne guide pas la quête, car il arpente volontiers chaque sentier en long et en large, faisant l'expérience du monde dans sa totalité, tel qu'il était et sera. Ainsi le voyageur sert-il le Pisteur, réduisant le champ des potentiels et des possibles par des décisions acérées.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Le Pisteur cherche la quête. D'une aube à l'autre, telle une aiguille œuvrant sur un tissu, cent fois cent voyageurs tissent cent fois cent capes à partir du sentier centuple. D'une aube à l'autre, le Pisteur désoriente chaque adversaire à chaque embranchement.
+
+Le Pisteur cherche ici et ailleurs.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Infliger {0} dégâts à des ennemis sous le coup d'une affliction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Infliger {0} dégâts à des ennemis pris à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Infliger {0} dégâts avec les pouvoirs du Destructeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>Une arme blesse. Un outil sert. Le Tueur sert la traque, séparant les lourdes lianes de la jungle, écartant les denses roseaux des marais, dégageant le sentier centuple devant le voyageur. Assez robuste pour dégager des pierres branlantes et assez aiguisée pour éloigner les prédateurs, cette hache fait davantage que protéger : elle escorte.
+
+Ainsi chantent les Huanas. Ainsi hurlent les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5454</ID>
       <DefaultText>Ancre d'acier vivant</DefaultText>
@@ -11,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>5455</ID>
-      <DefaultText>Bien que les ancres d'acier classique soient les plus répandues en mer, ceux qui peuvent s'offrir des ancres d'acier vivant rencontrent moins de difficultés lorsqu’ils utilisent des matériaux imprégnés d’essence d’âme. Les navires intégrant de l’acier vivant sont plus maniables sans toutefois perdre en fonctionnalité.</DefaultText>
+      <DefaultText>Bien que les ancres d'acier classique soient les plus répandues en mer, ceux qui peuvent s'offrir des ancres d'acier vivant rencontrent moins de difficultés lorsqu'ils utilisent des matériaux imprégnés d'essence d'âme. Les navires intégrant de l'acier vivant sont plus maniables sans toutefois perdre en fonctionnalité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>5457</ID>
-      <DefaultText>Cette merveille d’ingénierie crache un torrent d’huile enflammée sur les navires ennemis, réservant une surprise de taille à tout assaillant passant à proximité en mer. Les premiers prototypes de lanceurs de feu présentaient des résultats mitigés, des erreurs humaines ou mécaniques aboutissant souvent à des incendies incontrôlables qui ravageaient tout navire ayant eu l’audace de faire usage de cette arme instable. Les modèles les plus récents ont réduit la part de risque en intégrant des dispositifs de sécurité bienvenus.</DefaultText>
+      <DefaultText>Cette merveille d'ingénierie crache un torrent d'huile enflammée sur les navires ennemis, réservant une surprise de taille à tout assaillant passant à proximité en mer. Les premiers prototypes de lanceurs de feu présentaient des résultats mitigés, des erreurs humaines ou mécaniques aboutissant souvent à des incendies incontrôlables qui ravageaient tout navire ayant eu l'audace de faire usage de cette arme instable. Les modèles les plus récents ont réduit la part de risque en intégrant des dispositifs de sécurité bienvenus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>5459</ID>
-      <DefaultText>Un feu imprévisible se jette avec violence contre le verre de cette lanterne. Ce réceptacle se passe de l'huile et des mèches que l'on retrouve d'ordinaire dans les lanternes présentes sur les navires : c'est en réalité une petite prison contenant un fléau des flammes. Paniqué et désespéré, le fléau s’efforce de s’échapper par la seule ouverture visible : la fenêtre, produisant ainsi un rayon lumineux puissant qui permet d'éclairer devant soi.</DefaultText>
+      <DefaultText>Un feu imprévisible se jette avec violence contre le verre de cette lanterne. Ce réceptacle se passe de l'huile et des mèches que l'on retrouve d'ordinaire dans les lanternes présentes sur les navires : c'est en réalité une petite prison contenant un fléau des flammes. Paniqué et désespéré, le fléau s'efforce de s'échapper par la seule ouverture visible : la fenêtre, produisant ainsi un rayon lumineux puissant qui permet d'éclairer devant soi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>5461</ID>
-      <DefaultText>Ces voiles sont conçues à partir des feuilles de palmier flexibles et légères qu’on retrouve souvent sur les canoës de guerre huanas. Bien qu’elles ne sauraient résister longtemps à un feu ennemi, elles prennent le vent en un rien de temps, ce qui permet de fuir à toute vitesse en cas de danger.</DefaultText>
+      <DefaultText>Ces voiles sont conçues à partir des feuilles de palmier flexibles et légères qu'on retrouve souvent sur les canoës de guerre huanas. Bien qu'elles ne sauraient résister longtemps à un feu ennemi, elles prennent le vent en un rien de temps, ce qui permet de fuir à toute vitesse en cas de danger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>5463</ID>
-      <DefaultText>Le bois traditionnel a beau être un incontournable de l’ingénierie maritime, certains charpentiers de marine ont pris l’habitude d’utiliser l’écorce des sombres guetteurs des lianes dès qu’ils en ont l’occasion. C’est un matériau souple, robuste, naturellement imperméable, et la sève unique qui s’en échappe a un effet graissant qui permet de manœuvrer plus facilement. Le plus dur reste de récolter la matière première.</DefaultText>
+      <DefaultText>Le bois traditionnel a beau être un incontournable de l'ingénierie maritime, certains charpentiers de marine ont pris l'habitude d'utiliser l'écorce des sombres guetteurs des lianes dès qu'ils en ont l'occasion. C'est un matériau souple, robuste, naturellement imperméable, et la sève unique qui s'en échappe a un effet graissant qui permet de manœuvrer plus facilement. Le plus dur reste de récolter la matière première.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

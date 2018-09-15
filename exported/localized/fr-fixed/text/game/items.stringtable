@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2831</EntryCount>
+  <EntryCount>2899</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -473,7 +473,7 @@ Page après page, la calligraphie nette et soignée d'Aloth forme un catalogue m
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Les arquebuses sont des armes à feu à mèche extrêmement puissantes et précises. Elles sont particulièrement appréciées pour leur capacité à pénétrer les Voiles ésotériques des magiciens.</DefaultText>
+      <DefaultText>Les arquebuses sont des armes à feu à mèche extrêmement puissantes et précises. Elles sont particulièrement appréciées pour leur capacité à pénétrer les Voiles, y compris le Voile mystérieux des esprits et des magiciens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,7 +483,7 @@ Page après page, la calligraphie nette et soignée d'Aloth forme un catalogue m
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>Les tromblons sont des armes à feu à mèche utilisées pour chasser ou pour combattre des groupes d'ennemis. Ils infligent des dégâts impressionnants mais ne sont guère efficaces contre les armures. Néanmoins, comme les autres armes à feu, les tromblons sont capables de pénétrer le Voile ésotérique d'un magicien.</DefaultText>
+      <DefaultText>Les tromblons sont des armes à feu à mèche utilisées pour chasser ou pour combattre des groupes d'ennemis. Ils infligent des dégâts impressionnants mais ne sont guère efficaces contre les armures. Néanmoins, comme les autres armes à feu, les tromblons sont capables de pénétrer les Voiles, y compris le Voile mystérieux des esprits et des magiciens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8999,7 +8999,7 @@ De plus, n'oublions pas que nous ne sommes PAS des pillards. Ceux qui seront pri
     </Entry>
     <Entry>
       <ID>3615</ID>
-      <DefaultText>Chauncey</DefaultText>
+      <DefaultText>Chauncy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9219,7 +9219,7 @@ De plus, n'oublions pas que nous ne sommes PAS des pillards. Ceux qui seront pri
     </Entry>
     <Entry>
       <ID>3659</ID>
-      <DefaultText>Tant que Crêpe vous suit, vous recevez un bonus en Puissance et votre groupe bénéficie d'une résistance améliorée aux dégâts brûlants.</DefaultText>
+      <DefaultText>Tant que Crêpe vous suit, vous recevez un bonus en Puissance et votre groupe bénéficie d'une Valeur d'armure améliorée contre les dégâts brûlants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12459,32 +12459,6 @@ Vous n'êtes pas sûr de l'origine du cache-œil, mais il empeste le rhum.</Defa
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4349</ID>
-      <DefaultText>La Gueule d'Ingimyrk</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4350</ID>
-      <DefaultText>La louve ancestrale Ingimyrk rôdait sur les côtes septentrionales des Blanches étendues pendant une génération, traquant les kiths et les bêtes sans distinction. Cette grande prédatrice grise semblait être un monstre de légende, rapide comme le vent et suffisamment intelligente pour se servir des conditions pour masquer son approche : une ombre dans une tempête de neige.
-
-Après que son cousin eut succombé aux crocs de la bête, le héros Jyrfe entreprit de se mesurer à la tempête. Il traqua la louve dans l'ensemble des Blanches étendues, trouvant refuge auprès de tribus qui avaient senti le souffle de la prédatrice et parlant à ceux dont Ingimyrk avait tué des proches. Il étudia la créature comme l'on se renseigne au sujet d'un ennemi, glanant les récits de ses attaques. Fort des renseignements recueillis, le glamfellen prit conscience de quelque chose dont personne ne s'était encore rendu compte : les victimes d'Ingimyrk étaient presque toujours des membres importants de leurs tribus.
-
-Jyrfe se prépara à cette traque finale, s'intéressant tout particulièrement à l'un des marchands qui se déplaçait d'un campement à l'autre dans les terres du sud. Il revint avec un bras en moins, mais avec la tête d'Ingimyrk en récompense de ses efforts.
-
-Il s'en façonna un heaume qu'il porta jusqu'à ses vieux jours. Il en fit don à sa fille Frygn, qui parcourrait plus tard le Feu éteint pour consigner les légendes de ces contrées. Quand on l'interrogeait sur ce couvre-chef insolite, Frygn narrait volontiers les nombreux exploits de son père, mais elle ne parlait jamais de la louve Ingimyrk. Il était préférable, d'après elle, de ne pas chanter le souvenir de certaines traques.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4351</ID>
-      <DefaultText>Autrefois communs chez les pêcheurs et les chasseurs de requin les plus chevronnés des tribus huanas, de tels manteaux étaient cousus avec de l'épaisse peau de phoque qui était enduite d'huile pour protéger contre les éléments. Ils servaient non seulement à protéger leur porteur du froid, de l'humidité, des morsures et des coups de tentacules, mais dénotaient aussi un certain statut social : un individu enveloppé dans ces peaux bravait volontairement les dangers du domaine impitoyable de Ngati pour aider la tribu. Ce manteau en particulier porte la trace d'années d'utilisation intensive : ses coutures sont effilochées et ses bords déchirés. Malgré l'usure évidente, la fabrication robuste du manteau continue de protéger du froid comme des embruns.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4352</ID>
-      <DefaultText>Refuge de Hakori</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4353</ID>
       <DefaultText>Cornes</DefaultText>
       <FemaleText />
@@ -12512,11 +12486,6 @@ Il s'en façonna un heaume qu'il porta jusqu'à ses vieux jours. Il en fit don �
     <Entry>
       <ID>4358</ID>
       <DefaultText>Cette clé a été acquise auprès de Marihi, propriétaire de la Forge de Marihi, au promontoire de Periki.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4359</ID>
-      <DefaultText>Médaillon du Creuset</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12603,30 +12572,6 @@ Ironiquement, en apprenant que les dieux avaient été fabriqués de toutes piè
     <Entry>
       <ID>4378</ID>
       <DefaultText>Don d'Hylea pour avoir respecté votre promesse envers elle, cette étrange pitance est très nourrissante et accorde la bénédiction de la déesse.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4379</ID>
-      <DefaultText>Kāhako Nihi</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4380</ID>
-      <DefaultText>Revêtir cette brigandine exige déjà une certaine dextérité. Ses plaques de métal dentelées forment des angles curieux, dépassant des couches de gambison effiloché et du cuir troué, et conférant à l'armure un aspect rugueux, presque décrépit. Ses rebords acérés constituent un plus indéniable lors des empoignades dans la fosse, lacérant tout adversaire s'approchant un peu trop près ou abîmant son arme.
-
-Osara Haru, riche actionnaire de la Compagnie royale du Feu éteint et mécène sans complexe du Creuset, fit façonner Kāhako Nihi dans son pays natal pour une combattante à laquelle elle vouait un intérêt particulier. Mais elle apprit ensuite que cette dernière avait péri en combat singulier face à un drake avant que les vents ne ramènent Haru à son foyer. Peu désireuse de gaspiller une ressource, Haru offrit l'armure en récompense au gladiateur capable de lui rapporter la tête du drake.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4381</ID>
-      <DefaultText>La meilleure défense</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4382</ID>
-      <DefaultText>Ce sont les féroces compétiteurs du Creuset qui donnèrent naissance au modèle de cette redoutable rondache. Une pique en acier acérée jaillit de son centre pour perforer les plaques, les chaînes et la peau, et, pour autant qu'on la frotte, il est impossible d'en nettoyer les tâches de sang incrustées à sa base. La rondache inspire l'effroi chez les combattants et des grimaces de sympathie de la part des membres plus compatissants du public, se rappelant de récits de combats désespérés au cours renversé par un coup de rondache bien placé dans l'estomac, l'entrejambe ou l'œil.
-
-Bien que personne ne semble connaître l'inventeur originel de cette rondache, les citoyens de Kazuwari affirment que des douzaines de combattants l'ont brandie dans la fosse au fil des années de combat. Le fait qu'elle soit aujourd'hui entre vos mains suggère que ses précédents propriétaires ont appris l'amère et ultime leçon du Creuset : même les détenteurs des meilleures armes payent inévitablement leur dû à la fosse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12818,18 +12763,6 @@ Dans le cas où vous seriez apte à une ascension de longue haleine, le palais t
 
 Bien à vous,
 La reine Onekaza II</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4424</ID>
-      <DefaultText>Gardien de la Flamme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4425</ID>
-      <DefaultText>Les prêtres contemporains de Magran ont beau privilégier les épées et les armes à feu, certains guerriers magranites d'autrefois de la Grande Vailia étaient armés de thuribles : de robustes encensoirs suspendus à une simple poignée par une chaîne. Dans ces thuribles brûlaient de l'huile d'olive et de l'encens, dont était aspergée la malheureuse victime du magranite. Ce faisant, le combustible éclaboussait presque systématiquement le porteur, pénitence volontiers acceptée par les adorateurs de la déesse du feu au titre de leur dévotion.
-
-Bien que certains temples de Magran continuent d'employer des thuribles à l'occasion de rituels, peu d'exemplaires de la version martiale de ces objets subsistent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13727,7 +13660,7 @@ En bas, quelqu'un a griffonné : « À cuisiner pour Eolina et Jun une fois de
     </Entry>
     <Entry>
       <ID>4639</ID>
-      <DefaultText>Tant que Bonnie vous suit, certaines attaques ennemies portées seront transformées en éraflures, et certaines attaques critiques seront transformées en coups simples pour votre groupe.</DefaultText>
+      <DefaultText>Tant que Bonnie vous suit, certaines attaques ennemies portées contre vous sont transformées en éraflures, et certaines attaques critiques armées portées contre votre groupe sont converties en coups simples.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13995,8 +13928,63 @@ En guise de symbole de son nouveau rang, Pallegina a reçu ce plastron étincela
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4705</ID>
+      <DefaultText>{0} dégâts subis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Lancer {0} sorts de prêtre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Appliquer {0} afflictions touchant la Puissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Lancer {0} invocations d'Incantateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Lancer {0} sorts de prêtre de protection ou de restauration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Lancer {0} sorts de druide liés aux bêtes ou aux plantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4712</ID>
       <DefaultText>Grimoire abîmé par la mer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Infliger {0} dégâts à des ennemis sous le coup d'une affliction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Infliger {0} dégâts à des ennemis pris à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Infliger {0} dégâts avec les pouvoirs du Destructeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Infliger {0} dégâts bruts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>{0} afflictions reçues</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14210,6 +14198,21 @@ En guise de symbole de son nouveau rang, Pallegina a reçu ce plastron étincela
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4781</ID>
+      <DefaultText>Appliquer {0} afflictions touchant la Perception</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>Lancer {0} sorts de druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Accorder {0} inspirations aux membres du groupe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4784</ID>
       <DefaultText />
       <FemaleText />
@@ -14280,6 +14283,16 @@ Il est descendu dans un endroit baptisé les Chemins infinis d'Od Nua, après qu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4797</ID>
+      <DefaultText>Tuer {0} bêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Avoir 25 en Puissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4799</ID>
       <DefaultText>Adieux de Tekēhu</DefaultText>
       <FemaleText />
@@ -14297,6 +14310,16 @@ Puisse la Roue broyer en poussière le souvenir de vos actes. Puissiez-vous oubl
 Adieu, mon capitaine.
 
 Tekēhu"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Appliquer {0} afflictions touchant l'Intelligence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Lancer {0} sorts de druide liés aux bêtes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14724,6 +14747,11 @@ Le drake enragé a déchiqueté son plastron, arrachant l'acier de son corps et 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4930</ID>
+      <DefaultText>Assaut réfléchi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4932</ID>
       <DefaultText>Nemnok</DefaultText>
       <FemaleText />
@@ -14741,6 +14769,11 @@ Le drake enragé a déchiqueté son plastron, arrachant l'acier de son corps et 
     <Entry>
       <ID>4935</ID>
       <DefaultText>Tant que le Dragonnet d'obsidienne vous suit, vous gagnez un bonus aux compétences Furtivité et Tour de passe-passe, et votre groupe bénéficie d'une précision accrue contre les ennemis pris à revers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Anneau de Reflet entropique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15510,7 +15543,7 @@ Les arbres de l'île brûlaient comme du petit bois et le sable de la plage s'é
       <ID>5097</ID>
       <DefaultText>Il semblerait que cette lame apparaisse et disparaisse de l'histoire à chaque génération ou presque. De nombreux nobles, guerriers et aventuriers l'ont portée et, forts de son pouvoir, accompli de grandes et terribles choses. Leurs noms ne sont pas souvent mentionnés, comme s'ils étaient moins importants que l'arme elle-même. Aucun de ses propriétaires n'a gardé l'épée longtemps, car tous ont invariablement connu une fin violente. On raconte que l'épée chante une étrange chanson au cœur de ceux qui la manient, les inspirant à repousser leurs capacités au-delà de leurs limites, ce qui finit rarement bien. Voilà pourquoi elle a changé de nombreuses fois de mains.
 
-Dernièrement, elle a été récupérée sur le corps gelé d'un explorateur vailien dans les Blanches étendues. On raconte qu'il a découvert l'épée dans la cage thoracique d'un dragon mort de longue date, à côté des restes rouillés d'une armure à moitié digérée. Nul ne sait où ni comment la malheureuse victime du dragon avait acquis cette arme, même si l'on peut vraisemblablement conclure à un coup de chance tout aussi macabre.</DefaultText>
+Dernièrement, elle a été récupérée sur le corps gelé d'un explorateur vailien dans les Blanches étendues. On raconte qu'il a découvert l'épée dans la cage thoracique d'un dragon mort de longue date, à côté des restes rouillés d'une armure à moitié digérée. Nul ne sait où ni comment la malheureuse victime du dragon avait acquis cette arme, même si l'on peut vraisemblablement conclure à un &lt;xg&gt;coup&lt;/xg&gt; de chance tout aussi macabre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16665,7 +16698,7 @@ Et si l'envie vous prend de faire une pause entre vos aventures et votre besoin 
     </Entry>
     <Entry>
       <ID>5302</ID>
-      <DefaultText>Fiole remplie d'une poudre faite de champignons coupe-lamelles séchés. Les minuscules particules fongiques sont légères comme une plume mais conservent toute l'intensité de leur acrimonie. Au contact de la chair, ce poison fongique provoque des plaies qui s'ouvrent et se ferment selon leur bon vouloir. Une lame recouverte de cette poussière peut infliger de graves blessures qui ne coagulent pas. Ce poison peut être appliqué sur n'importe quelle arme.</DefaultText>
+      <DefaultText>Fiole remplie d'une poudre faite de champignons lamelles-rasoir séchés. Les minuscules particules fongiques sont légères comme une plume mais conservent toute l'intensité de leur acrimonie. Au contact de la chair, ce poison fongique provoque des plaies qui s'ouvrent et se ferment selon leur bon vouloir. Une lame recouverte de cette poussière peut infliger de graves blessures qui ne coagulent pas. Ce poison peut être appliqué sur n'importe quelle arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16809,6 +16842,52 @@ Le journal de bord s'interrompt prématurément. Les pages restantes sont marqu�
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5354</ID>
+      <DefaultText>Vent de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5355</ID>
+      <DefaultText>Mélange de plusieurs rhums (et de tout autre alcool fort disponible) et de jus de fruits tropicaux, le vent de Wael est une boisson qui a toujours été populaire durant la période estivale du Feu éteint, où la chaleur est assommante. Inventée par les pirates Príncipi sen Patrena, cette boisson est traditionnellement servie dans une demi-coque de noix de coco.
+
+Le vent de Wael tient son nom de sa capacité légendaire à faire tomber ses buveurs à la renverse et à leur faire oublier tout souvenir de la soirée de la veille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>D'une teinte allant du transparent au léger blanc nuageux, cette liqueur est distillée à partir d'une mixture de deux riz (l'un au grain court, l'autre long) plongés dans l'eau d'une source de montagne située sur l'île d'Osa. Alcool le plus fort du Feu éteint, le daibō est en général servi tiède et est particulièrement populaire auprès de la caste des artisans.
+
+Régulièrement présent dans la culture populaire huana, surtout dans les pièces de théâtre et les chansons, le daibō o Osa a toujours été rendu principal responsable de la « dépravation » de la jeunesse huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5359</ID>
+      <DefaultText>Liquide brun fumé natif du Rauatai, le meppu est distillé à partir d'orge malté et décanté dans des fûts en chêne. Bien que la tradition veuille qu'on le serve coupé avec de l'eau à température ambiante, les étudiants rauatais l'ajoutent souvent à du thé chaud. Quelle que soit sa forme, il est régulièrement consommé avec du chocolat noir ou d'autres sucreries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer chiora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5361</ID>
+      <DefaultText>Cette variante d'une liqueur d'herbes répandue dans les Républiques de Vailia a été infusée avec de l'adra lumineux. La combinaison de l'alcool jaune et de l'adra en poudre donne une décoction verte qui luit faiblement.
+
+Seuls les plus riches marchands vailiens peuvent se vanter de posséder plus d'une bouteille de chiora, et en déboucher une à la fin d'un repas est une façon ostentatoire d'afficher sa réussite à ses invités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5362</ID>
       <DefaultText>Adieu de Pallegina</DefaultText>
       <FemaleText />
@@ -16898,6 +16977,11 @@ Si vous avez des questions ou des réclamations à propos de mon service, merci 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5387</ID>
+      <DefaultText>Les attaques des ennemis ratent {0} fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5445</ID>
       <DefaultText>Talisman contre le Sceau de mort</DefaultText>
       <FemaleText />
@@ -16914,22 +16998,22 @@ Si vous avez des questions ou des réclamations à propos de mon service, merci 
     </Entry>
     <Entry>
       <ID>5482</ID>
-      <DefaultText />
+      <DefaultText>Rouage de Cohh</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5483</ID>
-      <DefaultText />
+      <DefaultText>Cette relique ressemble à un badge ou à un insigne militaire mais son symbole ne rappelle aucune faction connue. L'âge et l'usure du métal laissent penser que cet objet est très ancien et a beaucoup voyagé. L'influence qu'il exerce sur une bande de combattants soudés laisse à penser que c'est un chevalier ou un général influent qui l'arborait en guise de charme pour motiver ses troupes et faire en sorte qu'elles restent sur leurs gardes. Au-delà de ce qu'on peut déduire de sa puissance, ses origines restent mystérieuses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5484</ID>
-      <DefaultText />
+      <DefaultText>Bénédiction de Magran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5485</ID>
-      <DefaultText />
+      <DefaultText>Ce fragment de bouclier a été retravaillé afin de s'ajuster de façon confortable au bras d'un porteur. La surface de ce métal mystérieux est chaude au toucher et sa chaleur augmente dans les moments de tension. Son énergie torride réconforte quiconque le porte. Au cœur du combat, expédier le bouclier dans le visage d'un ennemi peut lui laisser une remarquable cicatrice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16941,47 +17025,307 @@ Savamment imbue d'essence d'âme, la lame luit en harmonie avec ceux ayant côto
     </Entry>
     <Entry>
       <ID>5497</ID>
-      <DefaultText />
+      <DefaultText>Fardeau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5498</ID>
+      <DefaultText>Tuer {0} ennemis tout en étant touché par une affliction mentale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5500</ID>
+      <DefaultText>Recevez {0} dégâts en ayant moins de 25 % en Santé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5501</ID>
+      <DefaultText>Ayez {0} effets hostiles qui expirent au cours d'un combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5502</ID>
+      <DefaultText>Infligez {0} dégâts à des ennemis tout en ayant moins de 25 % en Santé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5503</ID>
+      <DefaultText>Appliquez {0} afflictions à des esprits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5504</ID>
+      <DefaultText>Trouver le Chasseur des profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5505</ID>
+      <DefaultText>Trouver le vénérable de soufre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5508</ID>
-      <DefaultText />
+      <DefaultText>Interrupteur d'essence</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5509</ID>
+      <DefaultText>Les détracteurs de la manipulation d'âme décrivent l'animancie comme une dangereuse perversion de l'ordre naturel. Bien qu'ils n'aient de cesse de ressasser les mêmes arguments lors des débats politiques, il leur arrive parfois d'avoir raison.
+Ce fut le cas avec l'Interrupteur d'essence, création d'un paria du sanatorium de Brackenbury tout aussi ambitieux qu'anticonformiste. Cet inventeur avait théorisé une méthode infaillible permettant d'éveiller les âmes des kiths au moyen d'une brève décharge de stimulus spirituel délivrée au niveau du crâne. Une fois, il modifia un arc de chasse pour tirer des projectiles d'adra et de cuivre chargés, puis il installa un stand à Spirento où il promettait de dédommager quiconque participerait à son étude.
+Après avoir décoché de sang-froid des flèches entre les yeux de deux cobayes, l'animancien fut jugé. Les autorités ne mirent jamais la main sur son arc, qui rappelle encore aujourd'hui, d'une certaine façon, l'excentricité tout immorale de son inventeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5528</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5529</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5530</ID>
+      <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5531</ID>
+      <DefaultText>Cette hache à double lame a porté de multiples noms au cours des âges, notamment Fardeau, Lame pesante et Tranchant instable. Beaucoup la considéreraient trop lourde pour la manier efficacement, mais sa valeur ne fait aucun doute. Les pirates qui l'ont nommée « Amra » se sont ralliés autour de l'arme comme ils l'auraient fait d'un étendard ou d'un totem, probablement à cause de la manière inhabituelle dont ils en ont fait l'acquisition. Après avoir franchi un maelström pour échapper à leurs poursuivants, ils ont découvert Amra fichée dans le pont de leur navire. Des années durant, ils l'ont laissée là en guise de porte-bonheur, mais la bonne fortune qu'ils ont retiré de sa présence n'a semble-t-il pas duré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5532</ID>
+      <DefaultText>Karabörü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5533</ID>
+      <DefaultText>Cette arme tient son nom de la maîtresse de guerre huana qui la brandissait au combat. Même si elle adorait mener l'avant-garde et s'entourer d'adversaires trop confiants, rien ne réjouissait davantage Karabörü que d'abattre sa hache en un grand arc de cercle et de taillader une rangée entière d'ennemis. Elle a volontairement omis de garnir la poignée d'une garde, estimant que de tels « ornements » la déséquilibraient, mais elle a fini par regretter sa décision quand une parade bien calculée a coûté à Karabörü trois doigts de sa main de prédilection. Par la suite, elle a continué à affiner ses compétences avec d'autres armes, laissant de côté sa lame en guise de leçon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5534</ID>
+      <DefaultText>Rondache décrépite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5535</ID>
+      <DefaultText>Cette humble rondache ressemble au bouclier d'entraînement d'un élève maladroit. Le bois est couturé de profondes entailles, à tel point qu'on se demande comment il peut encore tenir d'un bloc. Une petite inscription gravée à l'arrière, quasiment effacée par le temps, raconte une autre histoire.
+
+Ce récit de première main parle d'une femme chevalier destinée à connaître la gloire dans Vailia l'Ancienne et à devenir l'une des membres fondatrices des Paladini Darcozzi, tout en portant cette rondache à son bras. Ses instincts protecteurs ont laissé dans le bois une marque plus profonde que n'importe quelle encoche. Perpétuellement négligé et sous-estimé, cet objet est passé entre les mains de nombreux propriétaires depuis sa disparition de son armurerie, trouvant toujours un foyer chez le noble et le méritant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5536</ID>
+      <DefaultText>L'harmonica de Haricot Mung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5537</ID>
+      <DefaultText>Le musicien Gil « Haricot Mung » Mungo a porté cet harmonica autour de son cou pendant une grande partie de sa carrière illustre, s'en servant pour annoncer le début de sa prestation. Le secret de sa réussite, peu connu, consistait à verser dans un orifice de l'instrument de l'éponge ridée réduite en poudre, qui était ensuite soufflée sur le visage de son public sans méfiance. Après avoir fait fortune sur le circuit des concerts, Mungo s'est retiré de la vie publique pour s'engager dans la marine rauatai. Son unité est célèbre pour avoir apaisé les relations avec les tribus huana du Feu éteint, en rassemblant les kiths autour d'un amour partagé pour la musique et d'autres plaisirs moins flagrants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5538</ID>
-      <DefaultText />
+      <DefaultText>Grimoire en écailles de Zandethus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5539</ID>
-      <DefaultText />
+      <DefaultText>Prudentes calamités de Jernaugh</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5540</ID>
-      <DefaultText />
+      <ID>5550</ID>
+      <DefaultText>Harmonie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5541</ID>
-      <DefaultText />
+      <ID>5551</ID>
+      <DefaultText>Ce modeste anneau en bois a été taillé avec un grand soin et moult détails.
+
+La surface intérieure est ornée d'un symbole représentant deux montagnes jointes par un motif en losange, avec le message « nos étoiles alignées » gravé dans le bois. L'anneau résonne d'un faible écho d'essence d'âme. Des souvenirs d'affection et de dévotion s'entortillent autour de lui, et le bois vibre pratiquement d'un sentiment vertigineux d'anticipation. Une personne a autrefois tenu cet anneau, obsédée par une question sans réponse. Quand elle a fini par obtenir sa réponse, elle s'est contentée de laisser ses soucis derrière elle, où ils demeurent à ce jour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5546</ID>
-      <DefaultText />
+      <ID>5554</ID>
+      <DefaultText>Chloë</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5547</ID>
-      <DefaultText />
+      <ID>5555</ID>
+      <DefaultText>Sheba</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5556</ID>
+      <DefaultText>Cajux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5557</ID>
+      <DefaultText>Dude le chat à six doigts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5558</ID>
+      <DefaultText>Epsilon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5559</ID>
+      <DefaultText>Ludde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5560</ID>
+      <DefaultText>Misty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5561</ID>
+      <DefaultText>Noah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5562</ID>
+      <DefaultText>Zorro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5563</ID>
+      <DefaultText>Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5564</ID>
+      <DefaultText>Levin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5565</ID>
+      <DefaultText>Pes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5566</ID>
+      <DefaultText>Rex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5567</ID>
+      <DefaultText>Ulk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5568</ID>
+      <DefaultText>Tant que Cajux vous suit, vous regagnez de la Santé lorsque vous portez le coup de grâce à un ennemi, et votre groupe se déplace plus rapidement en combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5569</ID>
+      <DefaultText>Tant que Chloë vous suit, vos attaques au corps à corps sont plus précises, et votre groupe voit augmenter sa défense face aux attaques qui causent des afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5570</ID>
+      <DefaultText>Tant que Dude le chat à six doigts vous suit, vous regagnez de la Santé lorsque vous portez le coup de grâce à un ennemi, et votre groupe a moins de chances d'être atteint par les attaques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5571</ID>
+      <DefaultText>Tant qu'Epsilon vous suit, vous bénéficiez d'une réduction de votre malus de récupération d'armure et votre groupe se déplace plus vite en combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5572</ID>
+      <DefaultText>Tant que Ludde vous suit, vous bénéficiez d'un bonus en Perception et votre groupe a plus de chances d'éviter les attaques ennemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5573</ID>
+      <DefaultText>Tant que Misty vous suit, vous bénéficiez d'une Déviation additionnelle pour les attaques au corps à corps, et la taille de la zone d'effet de votre groupe est augmentée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5574</ID>
+      <DefaultText>Tant que Noah vous suit, vous vous déplacez plus vite en combat et les attaques de votre groupe ont moins de chances de rater.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5575</ID>
+      <DefaultText>Tant que Zorro vous suit, vous bénéficiez d'un bonus en Résolution et votre groupe reçoit un bonus en Réflexes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5576</ID>
+      <DefaultText>Tant que Hati vous suit, vous bénéficiez d'un bonus en Puissance et votre groupe reçoit un bonus en Réflexes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5577</ID>
+      <DefaultText>Tant que Levin vous suit, vous bénéficiez d'un bonus en Intelligence et votre groupe se déplace plus vite en combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5578</ID>
+      <DefaultText>Tant que Pes vous suit, vos dégâts au corps à corps sont augmentés et les attaques au corps à corps de votre groupe ont plus de chances d'être converties en coups critiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5579</ID>
+      <DefaultText>Tant que Rex vous suit, votre zone d'effet inflige plus de dégâts et votre groupe a plus de chances d'éviter les attaques ennemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5580</ID>
+      <DefaultText>Tant que Sheba vous suit, vous bénéficiez d'un bonus en Perception et les attaques au corps à corps de votre groupe ont plus de chances d'être converties en coups critiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5581</ID>
+      <DefaultText>Tant que Ulk vous suit, vous bénéficiez d'un bonus en Puissance et votre groupe a plus de chances d'éviter les attaques ennemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5591</ID>
+      <DefaultText>Arbalète magnifique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5592</ID>
+      <DefaultText>Suaire du spectre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5593</ID>
+      <DefaultText>Le tissu de cette cape semble avoir été cousu selon un motif mystique qui varie en fonction des mouvements du vêtement, amenant l'œil à voir des choses qui n'existent pas.
+
+Les étudiants de Wael mènent depuis longtemps de discrètes expériences sur les illusions, fascinés par les théories selon lesquelles le monde autour d'eux serait une tromperie, un rêve ou les deux. Une année, inspirée par ces concepts, toute une classe d'apprentis ambitieux forma une coterie de sceptiques existentiels. Ils revêtaient des capes comme celle-ci pour se reconnaître en dehors de leurs réunions.
+
+On retrouva plus tard une dizaine de ces capes parmi des piles de livres dans une bibliothèque. Bien que le sort de leurs porteurs ainsi que de leurs recherches reste inconnu, les capes circulent depuis, présentées comme des curiosités arcanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5594</ID>
+      <DefaultText>Armure brisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5595</ID>
+      <DefaultText>Bouclier brisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5596</ID>
+      <DefaultText>Arme brisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5597</ID>
+      <DefaultText>Cet objet a été trop longtemps utilisé sans entretien adéquat. Il est brisé sans aucune chance de pouvoir être réparé.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

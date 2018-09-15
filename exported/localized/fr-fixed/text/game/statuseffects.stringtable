@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>538</EntryCount>
+  <EntryCount>551</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{0:value:percent} de chances de renverser la cible et de réduire ses défenses de {0:triggercount} durant {0:extravalue:duration} en cas de coup critique</DefaultText>
+      <DefaultText>{0:value:percent} de chances faire subir une Chute à la cible et de réduire ses défenses de {0:triggercount} durant {0:extravalue:duration} en cas de coup critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Chance d'étourdir et de renverser une cible touchée par un coup critique.</DefaultText>
+      <DefaultText>Chance de faire subir Étourdissement et Chute à une cible touchée par un coup critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,7 +716,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Chance de renverser la cible en cas de coup critique infligé</DefaultText>
+      <DefaultText>Chance de faire subir une Chute à la cible en cas de coup critique infligé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>{0:value:percent} de chances d'interrompre et de renverser la cible en cas de coup porté</DefaultText>
+      <DefaultText>{0:value:percent} de chances de faire subir Interruptiont et Chute à la cible en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>{0:extravalue:percent} de chances d'étourdir la cible pendant {0:value:duration} et de la renverser en cas de coup porté</DefaultText>
+      <DefaultText>{0:extravalue:percent} de chances d'étourdir la cible pendant {0:value:duration} avec Chute en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Si la cible est distraite, elle est renversée en accusant un coup critique</DefaultText>
+      <DefaultText>Si la cible est distraite, elle Chute lors d'un coup critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{0:value:percent} de chances qu'un tir soit scindé et produise {0:extravalue:straight} projectiles</DefaultText>
+      <DefaultText>{0:extravalue:percent} de chances qu'un tir se scinde et produise {0:value:straight} projectiles</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Intoxication de la cible pendant 12,0 s en cas de coup critique. Opposé par Robustesse</DefaultText>
+      <DefaultText>Intoxication de la cible pendant {0:extravalue:duration} en cas de coup critique (opposé par Robustesse)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>{0:value:percent} de chances de riposter avec une attaque tranchante en cas d'attaque tranchante subie au corps à corps</DefaultText>
+      <DefaultText>{0:value:percent} de chances de riposter avec une attaque tranchante en cas de coup avec dégâts tranchants subi au corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2396,7 +2396,7 @@
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>Probabilidad del {0:value:percent} de conseguir en forma {0:extravalue:duration} en uno mismo al realizar un impacto con éxito</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'attribuer Dynamisme pendant {0:extravalue:duration} sur soi-même en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2601,27 +2601,22 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText />
+      <DefaultText>{0:value:percent} de chances de réduire les effets bénéfiques de l'ennemi de {0:extravalue:duration} lorsque touché au corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText />
+      <DefaultText>Vous obtenez l'inspiration Conscience pendant {0:value:duration} quand un allié proche donne le &lt;xg&gt;coup&lt;/xg&gt; de grâce à un ennemi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText />
+      <DefaultText>{0:value:percent} de chances d'interrompre avec des attaques de la Bénédiction de Magran en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>596</ID>
       <DefaultText>{0:value:percent} de chances d'obtenir {0:extravalue} de Zèle si un ennemi est tué</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>597</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,66 +2626,136 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText />
+      <DefaultText>En cas de coup porté, inflige {0:value} en Résolution au porteur et à l'ennemi (cumulable 5 fois)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText />
+      <DefaultText>Confère {0:value} en Puissance à chaque fois qu'un membre du groupe est mis KO</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>612</ID>
-      <DefaultText />
+      <DefaultText>Inflige des dégâts perforants ou électriques (le meilleur, selon la situation)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText />
+      <DefaultText>{0:value:bonuspercentbonus} en dégâts {0:damagetype} (augmente avec Métaphysique)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText />
+      <DefaultText>Les coups critiques portés avec cette arme transfèrent de l'énergie d'âme expérimentale dans la cible, la transformant en créature douée de conscience à sa mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText />
+      <DefaultText>Les coups critiques portés avec cette arme transfèrent de l'énergie d'âme expérimentale dans la cible, la transformant en créature douée de conscience à sa mort (les créatures seront désormais toujours des alliées)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText />
+      <DefaultText>Les coups critiques portés avec cette arme transfèrent de l'énergie d'âme expérimentale dans la cible, la transformant en créature douée de conscience à sa mort (la durée de vie des créatures est désormais doublée)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText />
+      <DefaultText>Chance d'infliger Terreur lorsque attaqué avec une arme de corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText />
+      <DefaultText>Si un ennemi est tué avec cette arme, {0:value:percent} de chances de faire entrer le porteur en &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frénésie&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText />
+      <DefaultText>Si un ennemi est tué avec cette arme, {0:value:percent} de chances de faire entrer le porteur en &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frénésie&lt;/link&gt; (sans malus de Déviation)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText />
+      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de faire entrer le porteur en &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frénésie&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText />
+      <DefaultText>Si la Puissance du porteur est d'au moins {0:value:straight}, les coups critiques portés avec cette arme infligent {0:extravalue:percent} de ses dégâts de base dans une zone autour du porteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
+      <DefaultText>Si la Puissance du porteur est d'au moins {0:value:straight}, les coups critiques portés avec cette arme infligent {0:extravalue:percent} de ses dégâts de base dans une zone autour du porteur (les ennemis dont la santé est inférieure à {0:triggervalue:straight} sont tués sur le coup)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Les éliminations avec cette arme confèrent {0:value:percent} aux dégâts de coup critique (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>À chaque fois qu'un allié est terrassé, cette arme confère {0:value:percent} aux dégâts de coup critique (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Les coups critiques portés avec cette arme ont {0:value:percent} de chances de lancer une zone de dégâts conique en direction de la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Les coups critiques portés avec cette arme ont {0:value:percent} de chances de lancer une zone de dégâts conique en direction de la cible (désormais, la zone de dégâts intoxique aussi les ennemis)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Les coups critiques portés avec cette arme ont {0:value:percent} de chances de lancer une zone de dégâts conique en direction de la cible (désormais, la zone de dégâts réduit aussi la Déviation des ennemis)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Détermination aux alliés à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Détermination, Opiniâtreté ou Courage aux alliés à proximité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>{0:value} à tous les niveaux de pouvoir des drogues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Retire Murmures des morts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Retire Immobilité du guet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Retire Malédiction de Calmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>{0:value:percent} de chances d'obtenir l'inspiration Perspicacité lorsque vous recevez des dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Représailles en dégâts brûlants quand on vous porte un coup au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
