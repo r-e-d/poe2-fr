@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts sur la durée si le coup touche</DefaultText>
+      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts progressifs si le coup touche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Les attaques à l'arme au corps à corps effectuées en état furtif infligent des dégâts bruts sur la durée à la cible</DefaultText>
+      <DefaultText>Les attaques à l'arme au corps à corps effectuées en état furtif infligent des dégâts bruts progressifs à la cible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>{0:value:percent} des dégâts {0:damagetype} sous la forme de dégâts bruts sur la durée</DefaultText>
+      <DefaultText>{0:value:percent} des dégâts {0:damagetype} sous la forme de dégâts bruts progressifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,7 +1071,7 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Dégâts bruts modérés sur la durée aux cibles prises à revers si elle sont touchées</DefaultText>
+      <DefaultText>Dégâts bruts progressifs modérés aux cibles prises à revers si elle sont touchées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1236,7 +1236,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts bruts sur la durée en cas de coup porté avec cette arme</DefaultText>
+      <DefaultText>{0:value:percent} des dégâts appliqués sous la forme de dégâts bruts progressifs en cas de coup porté avec cette arme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Modifie les Munitions imprégnées avec {0:value:percent} de chances d'ajouter des dégâts brûlants sur la durée en cas de coup porté</DefaultText>
+      <DefaultText>Modifie les Munitions imprégnées avec {0:value:percent} de chances d'ajouter des dégâts brûlants progressifs en cas de coup porté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
