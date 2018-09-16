@@ -6611,7 +6611,7 @@ Dans les conversations et les interactions scriptées, Athlétisme est utilisé 
       <ID>1477</ID>
       <DefaultText>Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramené à la vie. Si un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13490,7 +13490,7 @@ Les prêtres de Skaen apprennent automatiquement les sorts suivants au Niveau de
     <Entry>
       <ID>2846</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Les prêtres de Wael apprennent automatiquement les sorts suivants au Niveau de pouvoir approprié :
+Les prêtres de Wael apprennent automatiquement les sorts suivants au Niveau de pouvoir approprié :
 1. Voile mystérieux
 2. Projection iconique
 3. Reflet

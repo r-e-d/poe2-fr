@@ -519,7 +519,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Il existe quatre types de défense dans Pillars of Eternity : la Déviation, la Robustesse, les Réflexes et la Volonté. Chaque type de défense sert à résister à une catégorie d'attaques différente via le jet d'attaque. La Déviation sert à résister aux attaques à l'arme directes ou aux attaques similaires à celles effectuées au moyen d'une arme. La Robustesse s'oppose aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les Réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La Volonté s'oppose à presque toutes les attaques psychiques.
+      <DefaultText>Il existe quatre types de défense dans Pillars of Eternity : la Déviation, la Robustesse, les Réflexes et la Volonté. Chaque type de défense sert à résister à une catégorie d'attaques différente via le jet d'attaque. La Déviation sert à résister aux attaques armées directes ou aux attaques similaires à celles effectuées au moyen d'une arme. La Robustesse s'oppose aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les Réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La Volonté s'oppose à presque toutes les attaques psychiques.
 
 La Robustesse, les Réflexes et la Volonté reposent tous sur une paire d'attributs. La Robustesse repose sur la Puissance et la Constitution. Les Réflexes reposent sur la Dextérité et la Perception. Et la Volonté repose sur l'Intelligence et la Détermination. La Déviation de base dépend de la classe du personnage et de sa Détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les valeurs de défense d'un personnage.</DefaultText>
       <FemaleText />
@@ -1239,7 +1239,7 @@ Cela signifie que toutes les statistiques des armes s'appliquent, y compris les 
       <ID>292</ID>
       <DefaultText>Beaucoup de sorts et de capacités de zone peuvent blesser les ennemis et les alliés en même temps.
 
-Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera à tous les personnages présents dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
+Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tous les personnages présents dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
 
 Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affectera pas si ceux-ci sont dans le cercle externe engendré par une forte intelligence. Vous pouvez utiliser ce cercle externe pour frapper les ennemis sans blesser vos alliés.</DefaultText>
       <FemaleText />
@@ -1338,7 +1338,7 @@ Si le lien d'un objet lié à l'âme est rompu, l'objet perdra toutes les capaci
       <ID>317</ID>
       <DefaultText>Une série de territoires Pargruns déchus qui furent peuplés par des nains durant les premières années coloniales des Contrées orientales. La colonie la plus remarquable, la Batterie de Durgan, était bien connue pour ses objets en bronze de grande qualité et ses armes, boucliers et armures en acier sans égaux. Au cours des décennies, plusieurs colonies de la Marche blanche ont été soit envahies par d'innombrables pillards, soit se sont effondrées à cause de craintes croissantes d'instabilité. La forteresse de la Batterie de Durgan a été apparemment abandonnée et scellée il y a presque deux siècles, marquant la fin non officielle de la Marche blanche.
 
-Les armoiries de la Marche blanche peuvent toujours être vues sur certains objets raffinés en bronze et en acier qui circulent dans les Contrées orientales. Le symbolisme des montagnes est évident, mais les cercles liés à son sommet étaient communs dans les colonies de Pargruns, et représentaient le lien de parenté qui les unissaient. La partie jaune, peu courante sur des objets métalliques représentait les bronzes pour lesquels la Marche blanche était initialement connue.</DefaultText>
+Les armoiries de la Marche blanche peuvent toujours être vues sur certains objets raffinés en bronze et en acier qui circulent dans les Contrées orientales. Le symbolisme des montagnes est évident, mais les cercles liés à son sommet étaient communs dans les colonies de Pargruns, et représentaient le lien de parenté qui les unissaient. La partie jaune, peu courante sur des objets métalliques, représentait les bronzes pour lesquels la Marche blanche était initialement connue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
