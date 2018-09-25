@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_lucky_coin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Tueur traque la pièce malchanceuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez la &lt;b&gt;pièce malchanceuse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez la &lt;b&gt;pièce malchanceuse&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Tueur veut que je récupère une &lt;b&gt;pièce maudite&lt;/b&gt; et que je la rapporte au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les informations d'Engari suggèrent que la pièce que je cherche se trouverait à l'&lt;b&gt;Œil du kraken&lt;/b&gt; de &lt;b&gt;Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récupéré la pièce désirée par l'Aspect du Tueur. Je dois à présent la rapporter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour débloquer son histoire spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ajouté la pièce malchanceuse au Bassin des souvenirs, ce qui m'a permis de débloquer de nouveaux défis des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

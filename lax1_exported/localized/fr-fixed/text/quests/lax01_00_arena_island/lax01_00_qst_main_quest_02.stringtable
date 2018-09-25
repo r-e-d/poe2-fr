@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le rite de passage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Communiez avec le &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour lancer la &lt;b&gt;Première épreuve&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Cherchez la &lt;b&gt;Deuxième épreuve&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tuez un souvenir dans la &lt;b&gt;Troisième épreuve&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Survivez à la &lt;b&gt;Saignée&lt;/b&gt;, la dernière épreuve du rite de passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Soumettez-vous au &lt;b&gt;rite de passage&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retournez au &lt;b&gt;Bassin des souvenirs.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Parlez à &lt;b&gt;Humaire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Humaire&lt;/b&gt; m'a demandé de participer au Creuset afin de découvrir pourquoi les âmes perturbées s'agitent dans tout Kazuwari.
+
+Avant de pouvoir accéder à l'intégralité des défis proposés par l'arène, je dois surmonter le traditionnel &lt;b&gt;rite de passage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Humaire semble craindre que les habitants de Kazuwari n'acceptent pas ma présence si je ne participe pas à leur sport.
+
+Elle dit que je peux commencer ma première incursion dans le &lt;b&gt;Creuset&lt;/b&gt; en utilisant le &lt;b&gt;Bassin des souvenirs&lt;/b&gt;, dans &lt;b&gt;l'aile ouest du temple&lt;/b&gt;, sous l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Humaire craint que les &lt;b&gt;âmes de Kazuwari&lt;/b&gt; soient troublées et espère que, en tant que Gardien, je sois en mesure d'interpréter leurs besoins. Pour ce faire, je dois &lt;b&gt;attirer l'attention des Aspects de la chasse&lt;/b&gt; en relevant les épreuves du Creuset.
+
+J'ai survécu à une bataille contre les éléments, mais cela ne semble pas suffisant pour faire mes preuves.
+
+Dès que je serai prêt pour le défi suivant, je dois aller communier avec le &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai triomphé deux fois dans le Creuset, mais le rite de passage n'est pas encore terminé.
+
+La prochaine épreuve est tirée des souvenirs d'un initié. J'en saurai plus dès que j'aurai de nouveau communié avec le &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant que le fantôme de Maerwald est vaincu, il ne me reste plus qu'une épreuve à surmonter pour en terminer avec le &lt;b&gt;rite de passage&lt;/b&gt;.
+
+Dès que je serai prêt, le &lt;b&gt;Bassin des souvenirs&lt;/b&gt; préparera une dernière épreuve : un duel contre un groupe rival qui cherche également à accomplir son propre rite de passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Humaire semble craindre que les habitants de Kazuwari n'acceptent pas ma présence si je ne participe pas à leur sport. Elle raconte que je dois accomplir le &lt;b&gt;rite de passage&lt;/b&gt; avant d'être considéré de confiance.
+
+Si je veux en apprendre plus sur cette île, je dois me soumettre à ce rite de passage. Pour ce faire, je dois aller parler à &lt;b&gt;Humaire&lt;/b&gt;, à côté du &lt;b&gt;Bassin des souvenirs&lt;/b&gt; de &lt;b&gt;l'aile ouest du temps&lt;/b&gt;, sous l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>J'ai accompli le rite de passage du Creuset en aquérant auprès de l'arène le titre de prétendant.
+
+On m'a expliqué que j'avais maintenant accès à plus d'épreuves. Je dois revenir au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour voir ce que ses eaux me réservent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>J'ai survécu à une bataille contre les éléments. Je dois en apprendre plus sur cet endroit et sa protectrice, &lt;b&gt;Humaire&lt;/b&gt;, possède de toute évidence des réponses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Humaire m'a prêté un petit &lt;b&gt;couteau d'obsidienne&lt;/b&gt; pour mon &lt;b&gt;offrande de sang&lt;/b&gt; à l'arène. Cela donnera au Creuset le nécessaire pour préparer un défi à ma hauteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai survécu au rite de passage. Je suis à présent un prétendant du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Plutôt que de faire carrière dans l'arène, j'ai choisi d'attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>On m'a jeté dans le Creuset, une sorte de compétition en arène où je dois affronter esprits et kiths.
+
+Je dois en apprendre plus au sujet du rite de passage auquel je prends part.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Armure de plates du protecteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5524</ID>
+      <DefaultText>Mandibules de l'impératrice arachnéenne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5525</ID>
+      <DefaultText>Ces mandibules poilues dégoulinent d'un venin gluant. Soit les glandes qui produisent cette substance visqueuse ignorent encore le funeste destin de l'impératrice, soit elles sont de nature à fonctionner encore par-delà la mort. Le venin immobilise la proie et puise aussi dans un réservoir secondaire qui contient une poche gonflée d'œufs d'araignées en sommeil. Les implications de ce système biologique interconnecté sont peu agréables à envisager, et ceux qui ont été témoins de son fonctionnement ne l'oublient jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5582</ID>
+      <DefaultText>Les pièges du Feu éteint, tome 1 : L'impératrice de cristal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5583</ID>
+      <DefaultText>Ce guide de voyage est mis en circulation pour les nouveaux arrivants dans l'archipel du Feu éteint. Un passage s'en distingue :
+
+« ÉVITEZ À TOUT PRIX l'araignée Belranga. C'est une menace pour les îles, une terreur empoisonnée d'envergure légendaire. Sa progéniture AFFAMÉE se rue en masse sur les imprudents voyageurs, et si vous blessez un seul de ses rejetons, sa rage sera INCOMMENSURABLE. Approchez-vous-en À VOS RISQUES ET PÉRILS.
+
+La Société de protection des visiteurs du Feu éteint ne peut en aucun cas être tenue responsable des préjudices causés par des risques sciemment ignorés, et tous les efforts ont été réalisés afin d'ÉLOIGNER les voyageurs des coordonnées suivantes : 8° 53' Nord, 45° 25' Est. »
+
+Une carte montrant l'emplacement de Belranga est marquée d'un sceau de cire en forme de crâne. La carte indique une île à l'ouest du Mortier d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

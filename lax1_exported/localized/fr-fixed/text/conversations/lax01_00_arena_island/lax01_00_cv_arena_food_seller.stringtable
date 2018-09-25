@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_food_seller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ohé, l'ami !"
+
+Des arômes de plats locaux et exotiques s'élèvent du chariot qui se trouve derrière l'orlan grassouillet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Aimeriez-vous déguster quelque mangeaille goûteuse avant d'aller vous frotter aux esprits ?" Il indique la nourriture disposée derrière lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir] "Peut-être une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Heureux de vous revoir !" L'orlan se frotte les paumes l'une contre l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Les plats les plus savoureux du Feu éteint ! Venez donc voir par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Foutrebleu. C'est toi, Corrin ? Ça fait deux ou trois lustres que je ne t'ai pas vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qu'on m'arrache les poils un par un si ce n'est pas Corrin, le chef cavalier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eh ouais ! Toujours un plaisir de revoir un camarade pirate. Surtout quelqu'un d'aussi agréable à regarder !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous connaissez cet orlan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Et comment ! Il s'était forgé une réputation en tant que cuisinier à Mortelume. Mais il avait disparu il y a quelques années. Tout le monde pensait qu'il s'était noyé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Et comment ! Ce matelot est le meilleur cuistot avec qui j'ai pu servir. Le Sorcier était bien moins jouasse comme navire quand il n'y était plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Toujours agréable d'entendre qu'on manque aux gens."
+
+Corrin glousse et détourne le regard avec pudeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous n'avez pas encore combattu dans la fosse ? Vous feriez bien d'aller parler à Humaire avant que quelqu'un ne décide que vous n'avez rien à faire ici." Corrin croise les bras et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Le Creuset, ça creuse, pas vrai ? J'ai tout ce qu'il faut pour vous dépanner !" Paume ouverte, Corrin vous indique un plateau recouvert de nourriture fumante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'ai entendu des rumeurs au sujet d'un nouveau prétendant. Le fait que vous mangiez ici sera certainement bon pour mes affaires !" Corrin vous adresse un clin d'œil et désigne du menton un étalage de plats chauds.</DefaultText>
+      <FemaleText>"J'ai entendu des rumeurs au sujet d'une nouvelle prétendante. Le fait que vous mangiez ici sera certainement bon pour mes affaires !" Corrin vous adresse un clin d'œil et désigne du menton un étalage de plats chauds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous nous avez tirés d'un bien mauvais pas ! Si ça ne vaut pas un bon festin, ça. Qu'est-ce que je vous sers ?" Corrin hausse un sourcil et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ce n'est pas tous les jours qu'un champion vient jeter un coup d'œil à mes plats ! Qu'est-ce que je vous offre ?" Corrin ouvre les mains.</DefaultText>
+      <FemaleText>"Ce n'est pas tous les jours qu'une championne vient jeter un coup d'œil à mes plats ! Qu'est-ce que je vous offre ?" Corrin ouvre les mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Les esprits ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous venez de débarquer, mon garçon ? L'arène regorge d'énergie spirituelle."</DefaultText>
+      <FemaleText>"Vous venez de débarquer, donzelle ? L'arène regorge d'énergie spirituelle."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sans doute à cause de tout le sang versé."
+
+Il laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Cela a tendance à arriver lorsqu'un nombre suffisant de gens meurent au même endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Traditionnellement, c'est une conséquence de la mort." Fassina hausse un sourcil et vous dévisage d'un air critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Étant donné la nature du divertissement sanglant, ce serait certainement logique. Étrange." Ydwin se tapote pensivement le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Les Aspects de la chasse les asticotent, en invoquant des monstres et des guerriers légendaires face auxquels les prétendants peuvent mettre leurs lames à l'épreuve !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Pas le temps de manger, mon garçon, à moins que vous ne souhaitiez tenir lieu de plat principal !"</DefaultText>
+      <FemaleText>"Pas le temps de manger, donzelle, à moins que vous ne souhaitiez tenir lieu de plat principal !"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

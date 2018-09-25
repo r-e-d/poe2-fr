@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_bs_eruke_memory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ça suffit maintenant, le moment est venu. La lame de la hache est affûtée, elle ne sentira rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Non ! Je t'en prie ! Celle-ci est mon amie. Il y a d'autres truies, pourquoi ne pas abattre une de celles-là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les autres truies seront mangées, elles aussi. Pour survivre à cet hiver, il nous faudra un garde-manger bien rempli et moins de bouches à nourrir. Allons, cesse donc ces enfantillages..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

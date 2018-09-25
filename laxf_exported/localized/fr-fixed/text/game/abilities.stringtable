@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4836</ID>
+      <DefaultText>Cri fracassant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4837</ID>
+      <DefaultText>Consumer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4838</ID>
+      <DefaultText>Venin catalysant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4839</ID>
+      <DefaultText>Appel des petits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4851</ID>
+      <DefaultText>Colère de l'impératrice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>Venin pétrifiant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4862</ID>
+      <DefaultText>Le venin de la mandibule pénètre dans le corps de la cible et la pétrifie. Si la cible meurt alors qu'elle est pétrifiée, des jeunes araignées mangeuses de cristal sortiront de son corps et rejoindront votre groupe pendant un moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

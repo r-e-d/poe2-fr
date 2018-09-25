@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3341</EntryCount>
+  <EntryCount>3363</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Fait apparaître des doubles du jeteur de sorts pour détourner l'attention des ennemis, lui conférant ainsi un bonus de déviation élevé qui diminue à chaque &lt;xg&gt;coup&lt;/Xg&gt; subi.</DefaultText>
+      <DefaultText>Fait apparaître des doubles du jeteur de sorts pour détourner l'attention des ennemis, lui conférant ainsi un bonus de déviation élevé qui diminue à chaque &lt;xg&gt;coup&lt;/xg&gt; subi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Les blessures des ennemis présents dans la zone d'effet s'enflamment, leur infligeant des dégâts brûlants progressifs à chaque nouveau dommage reçu.</DefaultText>
+      <DefaultText>Les &lt;xg&gt;blessures&lt;/xg&gt; des ennemis présents dans la zone d'effet s'enflamment, leur infligeant des dégâts brûlants progressifs à chaque nouveau dommage reçu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3471,7 +3471,7 @@
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Le barbare délivre une frappe puissante avec une probabilité et des dégâts augmentés pour un critique tout en étendant la zone d'effet du Carnage.</DefaultText>
+      <DefaultText>Le barbare délivre une puissante frappe qui augmente les chances de réussite et les dégâts des coups critiques, en provoquant également Carnage sur une zone plus large.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3501,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>(Lien renforcé) - augmente le bonus de défense.</DefaultText>
+      <DefaultText>(&lt;xg&gt;Lien&lt;/xg&gt; renforcé) - augmente le bonus de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9321,7 +9321,7 @@ La limite maximale de plaies est réduite.</DefaultText>
     </Entry>
     <Entry>
       <ID>2798</ID>
-      <DefaultText>(Frappe inspirée) - Confère temporairement les inspirations Astuce et Vélocité après le coup.</DefaultText>
+      <DefaultText>(Frappe inspirée) - Confère temporairement les inspirations Astuce et Vélocité après la frappe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12919,7 +12919,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3702</ID>
-      <DefaultText>Une attaque suffocante qui inflige Paralysie à la cible.</DefaultText>
+      <DefaultText>Une attaque suffocante qui inflige Paralysie à la cible et inflige des dégâts bruts progressifs. Lorsque l'effet prend fin, la cible est renversée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14236,7 +14236,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>3978</ID>
-      <DefaultText>Sang-froid du combattant</DefaultText>
+      <DefaultText>Sang-froid du prétendant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17094,6 +17094,116 @@ Aucun.</DefaultText>
     <Entry>
       <ID>4910</ID>
       <DefaultText>Quand vous êtes affecté par une inspiration spirituelle, les sorts se lancent plus vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4911</ID>
+      <DefaultText>Vampirique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4912</ID>
+      <DefaultText>Imparable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4913</ID>
+      <DefaultText>Réflexion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4914</ID>
+      <DefaultText>Exalté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4915</ID>
+      <DefaultText>Vengeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4918</ID>
+      <DefaultText>Griffe du chasseur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4919</ID>
+      <DefaultText>Au corps à corps, le rôdeur frappe tel un redoutable prédateur, étudiant sa proie afin d'apprendre quel est le meilleur moyen de la terrasser. Lors de la première utilisation, le rôdeur bénéficiera d'un bonus de Précision contre la race de sa cible. Ce bonus se cumule à chaque coup porté sur des créatures de la même race avec cette capacité (jusqu'à une certaine limite). Une fois qu'une race a été choisie comme proie, le rôdeur ne peut pas en changer avant de s'être reposé, effaçant alors tous les bonus cumulés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4920</ID>
+      <DefaultText>Griffe de la bête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4921</ID>
+      <DefaultText>(Griffe de la bête) - Chaque cumul augmente désormais les défenses contre les dégâts infligés par la race choisie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4922</ID>
+      <DefaultText>Croc du chasseur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4923</ID>
+      <DefaultText>(Croc du chasseur) - Chaque cumul augmente maintenant les dégâts infligés à la race choisie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4924</ID>
+      <DefaultText>Furie liée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4925</ID>
+      <DefaultText>Le rôdeur fait appel à son compagnon animal, générant en lui une rage primale qui lui accorde plusieurs inspirations puissantes pendant une durée prolongée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4926</ID>
+      <DefaultText>Tracœur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4927</ID>
+      <DefaultText>Le rôdeur décoche un tir infaillible à l'aide de son arme à distance qui frappe tous les personnages sur une même ligne avec des dégâts et une pénétration accrus, et leur inflige Diminution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5025</ID>
+      <DefaultText>En combat, Nebula octroiera régulièrement une inspiration à un personnage de façon aléatoire. Si vous êtes attaqué alors que vous êtes Proche de la mort, Nebula bénéficie aussi d'une petite probabilité de lancer Retrait ou Rappel de la souffrance sur vous-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Bénédiction de Nebula</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Accéléré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Haussier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>Endurci</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>Rôder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Volatil</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

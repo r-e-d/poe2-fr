@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_endgame_eothaschallenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous sentez une pression glaçante vous envelopper lorsque Berath se manifeste. Même si elle ne dit rien, sa désapprobation plane comme un nuage d'orage. Vous n'avez pas agi assez promptement, et elle est venue réclamer son dû. Soudain, elle tire d'un coup sec sur un fil d'or sortant de votre poitrine, avec une force telle qu'elle fait retentir le carillon qu'elle y a placé. Le tintement résonne dans vos oreilles tel un clocher. La puissance du son sépare votre corps de votre âme et, en hurlant, vous partez dans l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Avant que cette vie ne disparaisse dans le flou total, il vous semble entendre du tonnerre au loin, comme si quelqu'un frappait violemment le monde au moyen d'un bélier. Où qu'il soit, Éothas a eu ce qu'il voulait. Le temps que vous vous en rendiez compte, vous êtes déjà parti et toutes ces préoccupations sont bien loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

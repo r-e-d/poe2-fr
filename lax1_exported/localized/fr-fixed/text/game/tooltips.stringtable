@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les Engwithans ont bâti Cignath Mór afin d'effectuer des recherches sur la transformation de créatures marines en monstres d'une taille démesurée. Vous l'avez inondée alors que Galawain s'y opposait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Les Engwithans ont bâti Cignath Mór afin d'effectuer des recherches sur la transformation de créatures marines en monstres d'une taille démesurée. Vous l'avez préservée à la demande de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Les Engwithans ont bâti Cignath Mór afin d'effectuer des recherches sur la transformation de créatures marines en monstres d'une taille démesurée. Vous vous y êtes rendu à la demande du maître de la flotte Okaya.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

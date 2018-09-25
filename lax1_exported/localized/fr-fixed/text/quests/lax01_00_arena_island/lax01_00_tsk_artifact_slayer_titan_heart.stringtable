@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_titan_heart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Tueur traque le cœur de titan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez le &lt;b&gt;cœur de titan&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez le &lt;b&gt;cœur de titan&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Tueur a repéré le &lt;b&gt;cœur d'un guerrier ancestral&lt;/b&gt; et m'a demandé de le récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les informations d'Engari indiquent que le cœur du guerrier ancestral est prisonnier d'une &lt;b&gt;forteresse de cuivre&lt;/b&gt; que je vais devoir infiltrer pour récupérer l'artefact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai récupéré le cœur de titan dans la Citadelle de cuivre, je peux débloquer son potentiel dans le &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai confié le cœur de titan au Bassin des souvenirs. Je peux à présent accéder à de nouveaux combats des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

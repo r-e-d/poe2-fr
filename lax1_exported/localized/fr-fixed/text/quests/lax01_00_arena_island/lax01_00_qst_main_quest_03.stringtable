@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Creuset</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;b&gt;Localisez un artefact&lt;/b&gt; recherché par le Pisteur, le Tueur ou le Survivant, et &lt;b&gt;confiez-le au Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez au &lt;b&gt;Bassin des souvenirs.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Discutez des &lt;b&gt;artefacts&lt;/b&gt; des Aspects avec &lt;b&gt;Engari&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Gagnez la faveur &lt;b&gt;de l'Aspect du Pisteur, de l'Aspect du Tueur ou de l'Aspect du Survivant&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maintenant que je suis un des prétendants du &lt;b&gt;Creuset&lt;/b&gt;, je dois me soumettre à ses &lt;b&gt;épreuves&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Aspects de la chasse accordent leur faveur aux combattants du Creuset.
+
+Je dois d'abord récupérer un &lt;b&gt;artefact&lt;/b&gt; perdu dans &lt;b&gt;la nature de Kazuwari&lt;/b&gt; afin de contribuer au Creuset. Je pourrai alors relever un défi que les Aspects de la chasse tireront de cet artefact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai été choisi par un des Aspects de la chasse. Je peux revenir au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour recevoir leur bénédiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Si je récupère des &lt;b&gt;reliques&lt;/b&gt; chargées de souvenirs de conflits, le Creuset peut les changer en nouvelles épreuves.
+
+Je dois discuter avec &lt;b&gt;Engari&lt;/b&gt; : il semble en savoir beaucoup à propos de ces artefacts si importants pour les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>J'ai donné un artefact au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;. Je peux à présent affronter des souvenirs du passé.
+
+Récupérer &lt;b&gt;plus d'artefacts&lt;/b&gt; et surmonter leurs défis me feront gagner la faveur des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je suis devenu l'élu d'un des Aspects de la chasse. Il reste un dernier combat avant de décrocher le titre de Champion de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

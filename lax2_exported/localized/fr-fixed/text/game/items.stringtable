@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>128</EntryCount>
+  <EntryCount>123</EntryCount>
   <Entries>
     <Entry>
       <ID>4708</ID>
@@ -55,12 +55,12 @@ Bien qu'on ne sache que peu de choses au sujet de la bataille, une chose est cer
     </Entry>
     <Entry>
       <ID>4798</ID>
-      <DefaultText>Avoir 25 en Force</DefaultText>
+      <DefaultText>Avoir 25 en Puissance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4801</ID>
-      <DefaultText>Il est facile d'oublier qu'on porte l'armure. Il est facile, à vrai dire, d'oublier beaucoup de choses. Les souvenirs, les regrets, les philosophies abstraites, ces choses n'ont que peu de place dans la grande chasse, ces épreuves infiniment interconnectées qui définissent chaque action sur Eora. Chez ceux qui l'acceptent, les priorités essentielles se recentrent vers ce défi, vers le défi suivant, vers la lutte qui donne à chacun son contexte.</DefaultText>
+      <DefaultText>Il est facile d'oublier qu'on porte l'armure. Il est facile, à vrai dire, d'oublier beaucoup de choses. Les souvenirs, les regrets, les philosophies abstraites, ces choses n'ont que peu de place dans la grande chasse, ces épreuves infiniment interconnectées qui définissent chaque action sur Eora. Chez ceux qui l'acceptent, les priorités essentielles se recentrent vers ce défi, vers &lt;xg&gt;le défi&lt;/xg&gt; suivant, vers la lutte qui donne à chacun son contexte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,35 +376,6 @@ Lorsque Givrou vous accompagne, vous obtenez un bonus d'Armure contre les dégâ
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5355</ID>
-      <DefaultText>Mélange de plusieurs rhums (et de tout autre alcool fort disponible) et de jus de fruits tropicaux, le vent de Wael est une boisson qui a toujours été populaire durant la période estivale du Feu éteint, où la chaleur est assommante. Inventée par les pirates Príncipi sen Patrena, cette boisson est traditionnellement servie dans une demi-coque de noix de coco.
-
-Le vent de Wael tient son nom de sa capacité légendaire à faire tomber ses buveurs à la renverse et à leur faire oublier tout souvenir de la soirée de la veille.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5357</ID>
-      <DefaultText>D'une teinte allant du transparent au léger blanc nuageux, cette liqueur est distillée à partir d'une mixture de deux riz (l'un au grain court, l'autre long) plongés dans l'eau d'une source de montagne située sur l'île d'Osa. Alcool le plus fort du Feu éteint, le daibō est en général servi tiède et est particulièrement populaire auprès de la caste des artisans.
-
-Régulièrement présent dans la culture populaire huana, surtout dans les pièces de théâtre et les chansons, le daibō o Osa a toujours été rendu principal responsable de la « dépravation » de la jeunesse huana.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer chiora</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5364</ID>
       <DefaultText>Fluide d'automate de givre</DefaultText>
       <FemaleText />
@@ -712,22 +683,38 @@ Il ne ressentit aucune peine, aucune peur. Il comprenait la Contrée, et donc il
     </Entry>
     <Entry>
       <ID>5600</ID>
-      <DefaultText />
+      <DefaultText>Lettre soignée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5601</ID>
-      <DefaultText />
+      <DefaultText>Cette lettre a été pliée en carré avec soin et minutie.
+
+"[Player Name] arpente le Feu éteint en transportant des fragments de métal calciné. L'importance de ces objets ne vous aura pas échappé, même si nous sommes tous surpris de les voir resurgir maintenant.
+
+Nous devrions saisir cette opportunité. Tuez [Player Name]. Nul besoin de dissimuler votre acte, car nous œuvrons sous les auspices de la loi. Veillez à ce que le métal parvienne à Izzia. Elle gaspille son potentiel au promontoire de Periki.
+
+Louée soit la reine exilée."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5602</ID>
-      <DefaultText />
+      <DefaultText>Missive écrite à la va-vite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5603</ID>
-      <DefaultText />
+      <DefaultText>Cette lettre est maculée de poussière de charbon et de cire de bougie.
+
+"J'aurais aimé ne jamais avoir à écrire ces mots. Les fragments noircis ont été retrouvés, et c'est [Player Name] qui les a en sa possession... J'espère que ce n'est qu'une coïncidence et qu'il n'a pas conscience de ce qu'ils représentent.
+
+Nous pouvons prendre les devants si nous agissons rapidement. Il se peut que le Gardien soit déjà victime de la corruption de la sorcière sans même le savoir. Ne laissez pas la pitié retenir votre lame.
+
+Une fois que vous aurez récupéré les fragments, &lt;i&gt;tenez-les à tout prix éloignés les uns des autres.&lt;/i&gt; À votre retour, ils seront placés dans des coffres séparés et nous les scellerons au moyen de sorts aussi longtemps que nous le pourrons.
+
+Veillez aussi à ce qu'ils restent loin du promontoire de Periki. Nos ennemis murmurent au sujet d'Izzia l'artisane, comme si une grande destinée l'attendait.
+
+Pour la paix et l'honneur de Magran, puissiez-vous réussir."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

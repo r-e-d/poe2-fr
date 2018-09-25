@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Survivant traque le crâne de la matrone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez le &lt;b&gt;crâne de la matrone&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez le &lt;b&gt;crâne de la matrone&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Survivant veut que je me rende à &lt;b&gt;Neketaka&lt;/b&gt; pour y trouver quelqu'un ou quelque chose capable de &lt;b&gt;persister sans survivre&lt;/b&gt;. Je dois ensuite rapporter ma trouvaille pour obtenir la faveur du sanglier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari a découvert que l'objet que je cherche figure parmi les &lt;b&gt;autels des morts&lt;/b&gt; de Neketaka. Cela fait certainement référence aux &lt;b&gt;sépulcres&lt;/b&gt; de la cité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai localisé le crâne de la matrone, non sans quelques problèmes inattendus, dans les Sépulcres suspendus. Je dois à présent le rapporter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; si je veux profiter de son histoire spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ajouté le crâne de la matrone au Bassin des souvenirs, ce qui m'a permis de débloquer plus de défis du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

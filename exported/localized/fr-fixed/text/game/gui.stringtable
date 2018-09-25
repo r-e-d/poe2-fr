@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4455</EntryCount>
+  <EntryCount>4532</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -16016,7 +16016,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3360</ID>
-      <DefaultText>Tout prendre et poursuivre</DefaultText>
+      <DefaultText>Tout prendre et continuer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22777,32 +22777,421 @@ Vous pourrez relire la page Workshop du mod avant de la publier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5014</ID>
+      <DefaultText>Longueur : portée de l'arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5015</ID>
-      <DefaultText />
+      <DefaultText>Défi d'Éothas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText />
+      <DefaultText>Terminez tous les chemins de quête critiques avant les dates spécifiées ou le jeu prend fin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>Défi de Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>Les bêtes bénéficient d'effets aléatoires puissants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5025</ID>
+      <DefaultText>Permet au lanceur de modifier la zone d'effet des sorts de ce type, ce qui influe sur le niveau de pouvoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Importer un aventurier</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5031</ID>
-      <DefaultText />
+      <DefaultText>Seeker, Slayer, Survivor - Installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5032</ID>
-      <DefaultText />
+      <DefaultText>Seeker, Slayer, Survivor - Non installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5035</ID>
-      <DefaultText />
+      <DefaultText>Recruter {0} au niveau {1} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5036</ID>
+      <DefaultText>Sans équipement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>Exporter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>Personnages exportés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Aucun personnage exporté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Publier ce personnage sur le Steam Workshop ?
+
+En publiant ce personnage, vous acceptez les &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;conditions d'utilisation&lt;/link&gt; du Steam Workshop.
+
+Vous pourrez relire la page Workshop du personnage avant de la publier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Mettre à jour ce personnage sur le Steam Workshop ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>L'équipement de ce personnage contient des objets uniques. Importer un personnage possédant des objets uniques peut avoir un impact sur la difficulté du jeu. Continuer ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>Ce personnage a été exporté depuis une partie où les codes de triche étaient activés. Importer ce personnage peut avoir un impact sur la difficulté du jeu. Continuer ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>L'exportation de {0} a été effectuée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>Télécharger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>Cinématiques de mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>Activer les cinématiques de mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>Temps de récupération global des cinématiques de mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>Fréquence de mort des ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>Fréquence de pulvérisation des ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>Fréquence de renversement des alliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>Fréquence de mort des alliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>Temps de récupération</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>Afficher le texte d'agrément des cinématiques de mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>Si cette option est activée, des cinématiques des moments clés du combat seront créées en fonction des paramètres définis par l'utilisateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>La durée minimale entre la génération de deux cinématiques de mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>Définit la fréquence à laquelle cet événement de combat déclenchera la génération d'une cinématique de mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>La durée minimale qui doit s'écouler entre deux événements de ce type pour déclencher une nouvelle cinématique de mort de ce genre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>Victoire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>Quel triomphe !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>Défaite !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5102</ID>
+      <DefaultText>Déroute !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5103</ID>
+      <DefaultText>{0} a péri !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>{0} est à terre !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>Oblitération !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>Annihilation !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>Destruction !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>Terrassement !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>Élimination !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>Achèvement !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>Niveau original</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>Niveau personnalisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>Le niveau de ce personnage est trop élevé pour pouvoir le recruter à son niveau original.</DefaultText>
+      <FemaleText>Le niveau de ce personnage est trop élevé pour pouvoir la recruter à son niveau original.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>Toujours</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Dernier uniquement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>Jamais</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>Capacités fréquemment utilisées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>Raccourcis et capacités fréquemment utilisées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>Comportement au combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Attaque auto comme action par défaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5124</ID>
+      <DefaultText>Quand aucun critère d'aucun arbre de décision n'est rempli, attaque la cible la plus proche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>Caméra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>Si cette option est activée, les cinématiques de mort afficheront un texte d'agrément en rapport avec l'événement qui les a déclenchées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>Afficher les capacités d'usage fréquent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>Affiche une barre avec les capacités les plus fréquemment utilisées au-dessus de votre barre de capacités. En plus de la plus récente, celle-ci contiendra 5 capacités parmi les plus souvent utilisées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

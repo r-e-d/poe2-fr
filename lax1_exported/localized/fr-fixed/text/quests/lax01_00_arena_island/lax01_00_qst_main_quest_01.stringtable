@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Épreuve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ouvrez l'&lt;b&gt;étrange paquet&lt;/b&gt; trouvé sur votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Voguez jusqu'à &lt;b&gt;Kazuwari&lt;/b&gt;, dans la mer du Feu éteint occidentale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aventurez-vous dans les profondeurs de &lt;b&gt;Kazuwari&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parlez à &lt;b&gt;Humaire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Parlez à l'Intendante, dans la cale de votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Intendante m'a informé que l'équipage avait découvert une &lt;b&gt;cargaison&lt;/b&gt; cachée &lt;b&gt;au fond de la coque du [Player Ship].&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je dois revenir au &lt;b&gt;[Player Ship]&lt;/b&gt; pour en savoir plus sur cette mystérieuse cargaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le paquet contenait la tête coupée d'un aumaua nommé Muātu. Son esprit m'a demandé mon aide en tant que Gardien.
+
+Il souhaite m'accompagner jusqu'à l'île de &lt;b&gt;Kazuwari&lt;/b&gt;, où une sorte de crise spirituelle a lieu.
+
+L'île est située pile à l'ouest d'Hasongo. Je peux passer par une &lt;b&gt;cascade&lt;/b&gt; située sur le &lt;b&gt;versant sud&lt;/b&gt; de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Muātu m'a demandé de me rendre au &lt;b&gt;cœur de l'île,&lt;/b&gt; où je peux rencontrer &lt;b&gt;Humaire&lt;/b&gt; et commencer à m'occuper du problème de Kazuwari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je me retrouve impliqué dans une sorte de tournoi au public nombreux. On m'a expliqué que &lt;b&gt;Humaire&lt;/b&gt; est en quelque sorte la protectrice de ces lieux. Elle pourrait avoir des réponses au sujet de cette étrange invitation. Elle regarde en ce moment les épreuves &lt;b&gt;d'en haut&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>L'intendante m'a informé qu'une sorte de mystérieux paquet est arrivé à bord de mon navire. Je devrais aller lui parler pour en apprendre plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Une fois à terre, j'ai été accueilli par une cacophonie d'essence d'âme et eu droit à la vision d'une grande statue au centre de l'île. La statue fourmillait d'esprits capricieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Une créature de taille conséquente a secoué le [Player Ship] alors que je m'approchais de Kazuwari. Avant de disparaître au nord, le long de la côte de l'île, &lt;b&gt;Galawain, le dieu de la chasse,&lt;/b&gt; m'a conseillé de rester loin de Kazuwari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Humaire&lt;/b&gt; m'a demandé de venir lui parler dans la &lt;b&gt;Salle des souvenirs&lt;/b&gt;, dans &lt;b&gt;l'aile ouest du temple&lt;/b&gt;, sous l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Il semblerait qu'on m'ait confondu avec un initié et que je me retrouve à participer à une sorte de tournoi. Je dois soit trouver un moyen de sortir, soit &lt;b&gt;passer la porte de l'arène&lt;/b&gt; pour découvrir ce qui m'attend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Selon Humaire, je peux aider Kazuwari et me forger ma propre gloire en combattant dans le Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai décidé que les habitants de Kazuwari devaient mourir et je les ai attaqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

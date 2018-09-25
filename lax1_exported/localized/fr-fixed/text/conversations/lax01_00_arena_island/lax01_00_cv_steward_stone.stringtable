@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_steward_stone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Auriez-vous un moment à m'accorder, Gardien... s'il vous plaît ?"
+
+La voix douce et neutre de l'intendante de Caed Nua s'élève de son buste fissuré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Comment une caisse a-t-elle pu se retrouver sur mon navire sans que personne ne la remarque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Malheureusement, le navire n'a pas les défenses de Caed Nua. Une caisse aurait pu être montée à bord lors d'un arrêt dans un port. Elle aurait également pu être glissée parmi les marchandises que nous avons embarquées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quel genre de caisse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Elle fait environ un mètre de côté et il y a écrit « haricots » dessus. Les matelots l'ont remarquée quand le cuisinier les a envoyés chercher les ingrédients du ragoût de ce soir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Les matelots ont laissé la caisse dans la cale, si vous voulez l'examiner."
+
+Le buste se tait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Oui, intendante ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Qu'y a-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Pas maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Des matelots ont découvert une caisse singulière dans la cale du navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mes excuses. Je pensais que vous souhaiteriez être informé qu'une caisse est mystérieusement apparue dans la cale de votre navire, mais si vous êtes occupé ailleurs, ne vous laissez pas distraire par de telles futilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Partir] "Je m'en occuperai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Partir] "Merci, Intendante. Je vais voir de quoi il s'agit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Pas de haricots dans la caisse, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Une onde d'affirmation émane de la part de l'intendante en guise d'un hochement de tête spirituel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_arena_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La jungle devient plus clairsemée, et une colline abrupte s'élève devant vous. Les chants des oiseaux et des insectes agrémentent le décor. Un semblant de sentier serpente parmi les herbes hautes vers une structure ombragée située au-dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Laisser le rocher et grimper la colline]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Une monumentale porte de pierre s'élève devant vous. Devant se trouve un piédestal de pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>L'arche révèle un tunnel menant à ce qui semble être un bazar bien éclairé, plein de petits étals aux auvents de toile, et de fanions pendus à des cordes de chanvre. L'odeur des viandes qui cuisent et le bruit des conversations joviales vous attirent à l'intérieur.
+
+En entrant, vous entendez un cri d'encouragement lointain...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Examiner le piédestal]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Redescendre la colline]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous remarquez un écart dans la base du piédestal, comme s'il continuait sous la surface de la place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Monter la pierre sur la colline]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Malgré la force exercée dessus, le piédestal ne bouge pas d'un pouce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Pousser la pierre au sommet de la colline ne s'annonce pas comme une partie de plaisir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Appuyer sur le piédestal]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Les muscles tendus, vous appuyez sur le socle, et il s'enfonce d'un pouce ou deux avant de s'arrêter. Vous reculez, et le piédestal revient à sa position initiale en grondant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>L'ascension de la butte se révèle déjà ardue sans la Pierre de l'épreuve et, lorsque vous arrivez au sommet, vos jambes brûlent en protestation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Faire monter quelqu'un avec l'autre bout de la corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Avec un bref hochement de tête, [Specified 0] prend l'autre bout de la corde et grimpe le long de la pente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Dire à [Specified 0] d'enrouler la corde autour du piédestal et de tirer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Dire à [Specified 0] de redescendre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Attacher une extrémité de la corde autour du rocher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Dire à [Specified 0] de remonter la pierre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] vous salue et disparaît. La corde se tend...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous passez le grappin au centre de la Pierre de l'épreuve et l'attachez fermement à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0] vous salue et disparaît. La corde se tend...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>C'est un travail laborieux, mais vous réussissez à vous deux à amener la Pierre de l'épreuve au sommet de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>La pierre remue à peine.
+
+Après environ une minute, vous voyez [Specified 0], visiblement épuisé, apparaître au sommet de la colline en secouant tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>La pierre glisse lentement vers le sommet de la colline, laissant derrière elle un sillon de sol nu. Son mouvement ne dure guère, et s'arrête même brusquement.
+
+[Specified 0] apparaît au-dessus de vous, donnant des signes de fatigue et secouant tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La pierre remue à peine.
+
+Après environ une minute, vous voyez [Specified 0], visiblement épuisé, apparaître au sommet de la colline en secouant tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>La pierre glisse lentement vers le sommet de la colline, laissant derrière elle un sillon de sol nu. Son mouvement ne dure guère, et s'arrête même brusquement.
+
+[Specified 0] apparaît au-dessus de vous, donnant des signes de fatigue et secouant tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>La pierre glisse le long de la colline, broyant l'herbe sous sa masse. Elle parcourt un quart du chemin vers le sommet de la colline avant de ralentir et finir par s'arrêter.
+
+[Specified 0] apparaît au-dessus de vous, donnant des signes de fatigue et secouant tristement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Avec force grognements, [Specified 1] fait rouler la pierre vers le sommet de la colline, négligeant la piste serpentant entre les herbes pour favoriser la ligne droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Prouvant sa force légendaire, [Specified 1] amène la pierre de l'épreuve sur la crête de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous appuyez votre épaule contre la pierre et faites signe à [Specified 0] de tirer à nouveau.
+
+La pierre commence à glisser...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Cela prend du temps et, à la fin, les deux luisent de sueur et de crasse, après avoir néanmoins réussi à amener la pierre de l'épreuve au sommet de la colline.
+
+Vous les y rejoignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>La pierre semble progresser quelque peu, mais [Specified 0] voit la corde lui échapper des mains et glisser de plusieurs pieds le long de la pente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Le reste de votre groupe vous rejoint alors que vous reprenez votre souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous la rejoignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Placer la pierre sur le piédestal]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Plantant fermement vos pieds dans la terre, vous commencez à faire lentement rouler le lourd rocher vers le haut de la colline. Vous ne suivez pas le chemin tortueux, et tracez une ligne droite à travers les herbes.
+
+Vos muscles vous lancent. Vos mains vous brûlent. Votre visage luit de sueur, qui goutte du bout de votre nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Vous vous précipitez pour seconder [Specified 1] et appuyez votre épaule contre la pierre...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>En travaillant de concert, [Specified 1] et vous faites rouler la Pierre de l'épreuve le long du reste du chemin vers le faîte de la colline.
+
+Vous faites un pas de côté, et aspirez avidement l'air tiède des tropiques, les mains sur les genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Même combinées, vos forces cèdent face au poids de la Pierre de l'épreuve, et vous devez lui dégager le passage quand elle roule jusqu'au pied de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>À vous deux, vous réussissez à ramener la pierre au bas de la colline sans danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Vous voyez la pierre redescendre et rouler sur [Specified 1], qui hurle de douleur.
+
+Elle s'arrête de rouler au pied de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 1] bondit à vos côtés, écrasant son épaule contre la pierre et, à vous deux, vous réussissez à la hisser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>En travaillant de concert, [Specified 1] et vous faites rouler la Pierre de l'épreuve le long du reste du chemin vers le faîte de la colline.
+
+Vous faites un pas de côté, et aspirez avidement l'air tiède des tropiques, les mains sur les genoux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Même combinées, vos forces cèdent face au poids de la Pierre de l'épreuve, et vous devez lui dégager le passage quand elle roule jusqu'au pied de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Mais vous poussez plus fort et, grâce à votre force incroyable, vous parvenez au sommet de la colline, précédés de la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Vous hissez le rocher sur le piédestal, et le premier se glisse parfaitement dans le trou au centre du second. Avec un son rappelant la chute d'un grand arbre, le pilier s'enfonce lentement dans le sol, abaissant la Pierre de l'épreuve du même coup.
+
+Alors que la pierre disparaît, la grande porte de pierre disparaît elle aussi en terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>D'antiques colonnes de pierre, toutes couvertes de runes si anciennes qu'elles en sont illisibles, délimitent les contours de la place. Certaines se sont écroulées, d'autres sont appuyées contre les arbres alentours, mais toutes ont été envahies par les lianes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Examiner la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Vous quittez la place ombragée et rejoignez le pied de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ces créatures sont toutes considérées comme sacrées par Toamowhai, le dieu huana de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>La porte semble taillée dans la roche elle-même, et vous ne trouvez aucun mécanisme permettant de l'ouvrir. Un bas-relief sculpté dans la porte montre les têtes hideuses et grimaçantes de trois animaux : l'araignée, le sanglier et le terrifiant stelgaer, un féroce tigre à dents de sabre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Haut de près d'un mètre, le piédestal n'est guère plus large qu'un gros melon. Le matériau et la structure du socle vous rappellent la Pierre de l'épreuve. Il porte même des inscriptions similaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Avec un grognement, [Specified 4] appuie fortement sur le socle, tentant de le pousser dans le sol, et voit ses efforts récompensés par un tassement de près d'un pouce dans la terre. Avec un soupir, [Specified 4] se redresse, et le piédestal revient à sa position initiale en grognant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous pénétrez dans l'ombre d'une place en ruines, dont le sol de pierre est usé par le temps et fendu par les racines des arbres qui le délimitent. Des tapis de mousse sortent des fentes, se répandant le long de la terre exposée, comme le sang suintant d'une plaie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous sentez trembler vos bras alors qu'ils commencent à céder. Vos pieds glissent sur l'herbe.
+
+Le rocher commence à rouler vers l'arrière...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 1] glisse dans un cri, empêchant à peine la pierre de rouler vers l'arrière.
+
+La situation semble désespérée...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Essayer de l'arrêter]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Appeler à l'aide]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Sauter hors de son chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Vous vous arc-boutez contre la Pierre de l'épreuve, tâchant d'endiguer sa descente...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Vous réussissez à l'empêcher de vous échapper. Vous la ramenez au pied de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Mais la pierre vous roule dessus et vos mains se retrouvent écrasées sous son poids. Vous sentez vos doigts se briser sous la masse rocheuse.
+
+Quand vous retournez au bas de la colline, vous y trouvez la pierre, appuyée sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous décidez de laisser échapper la pierre et tentez de bondir hors de sa trajectoire...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Vous regardez la pierre dévaler la pente et tomber à son pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Mais la pierre vous roule dessus et vos mains se retrouvent écrasées sous son poids. Vous sentez vos doigts se briser sous la masse rocheuse.
+
+Quand vous retournez au bas de la colline, vous y trouvez la pierre, appuyée sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Aider [Specified 1] à pousser la pierre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Aider [Specified 1] à faire rouler la pierre au bas de la colline]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Ne rien faire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous le rejoignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Vous vous précipitez pour seconder [Specified 1] et appuyez votre épaule contre la pierre...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Invoquer de l'aide magique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Les invocations agitent l'air, alors que l'essence répond à leur appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>La bête que vous avez fait apparaître vous regarde un moment avant d'avancer lourdement vers la pierre. Elle arrache facilement la pierre du sol et la porte au sommet de la pente, la laissant tomber dans un grand bruit sourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Un énorme ours sort sans grâce de la jungle, les poils ébouriffés par une légère brise. Il se dresse sur ses pattes arrière, et ses muscles épais se tendent alors qu'il arrache la pierre au sol. L'ours gravit la colline jusqu'à son sommet et y dépose la pierre avant de laisser échapper un rugissement qui fait trembler vos os.
+
+La jungle répond avec force hurlements et cris d'oiseaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Le couple de spectres brumeux qui émerge semble regarder à travers vous quelque moment, comme pour vous évaluer, avant de hocher la tête et se tourner vers la pierre. Ils la soulèvent facilement, l'avatar de la Chevaleresse Blême l'agrippant d'un gantelet et le Portier la tenant au-dessus de sa tête de ses deux mains.
+
+Ils la portent au sommet de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Trois êtres scintillants apparaissent sous vos yeux, et vous font chacun une légère révérence. Avec une force incroyable, ils soulèvent la Pierre de l'épreuve et la portent jusqu'au faîte de la colline. Ils la reposent avec précaution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>L'apparition se volatilise en un éclair, et vous commencez à gravir la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Essayer autre chose]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Vous levez les yeux vers la butte récalcitrante, et prenez un moment pour étudier vos options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Rassembler tout le monde pour tirer sur la corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Votre groupe entier monte sur la colline en tenant la corde. Vous tirez dessus, laissant la pesanteur vous ramener au bas de la colline. La corde frotte contre le piédestal, mais la pierre fait de même avec le sol en montant la pente.
+
+Vous vous rassemblez à côté, épongeant la sueur de vos fronts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Des os malpropres s'élèvent de la terre, pour se rassembler en un trio de squelettes chargés de vous aider.
+
+Les réceptacles trébuchent vers la Pierre de l'épreuve, se courbent près d'elle et glissent leurs doigts noueux dessous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Les squelettes luttent contre le poids. En une série de craquements sonores, leurs bras se délogent de leurs épaules et tombent. 
+
+Ils s'écroulent en un tas d'os et disparaissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Des flammes jaillissent devant vous, prenant la forme d'une énorme créature bipède faite de feu et de magma. Elle ramasse la Pierre de l'épreuve et grimpe le long de la colline, laissant des empreintes d'herbe calcinée à chaque pas. Elle laisse tomber le rocher, désormais fumant, au sommet de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>La silhouette élancée qui se matérialise devant vous rit doucement, et vous percevez des chuchotements à l'arrière de votre esprit. Elle bondit vers la pierre, la soulève à deux mains et la porte sans peine au sommet de la colline. Elle vous regarde de haut et, en vision, vous la voyez écraser la pierre contre le sol... Mais au lieu de cela, elle la pose doucement, avec un autre rire silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>La jungle miroite autour de vous tandis qu'un être sans forme ni traits se matérialise dans l'air. L'air semble trembler, comme si des portions de temps avaient été tranchées. Sans surprise, la pierre ne repose plus devant vous, mais perchée sur le côté au sommet de la colline. Des murmures dissonants résonnent autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Lisser la colline par magie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Quelques invocations plus tard, la colline reluit, aussi lisse qu’un miroir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Aider [Specified 0] en poussant la pierre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Un trio de long tentacules noueux jaillit du flanc de la colline. Le premier ramasse la pierre de l'épreuve, puis la passe au second qui la confie au troisième. Le dernier tentacule jette la pierre au faîte de la colline avec une douceur relative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Specified 1] hoche la tête vers vous, grimpe jusqu'à la pierre et y appuie son épaule. Vous faite signe d'y aller à [Specified 0], et la pierre commence à bouger...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>C'est un travail laborieux, mais vous réussissez à vous deux à amener la Pierre de l'épreuve au sommet de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Cela prend du temps et, à la fin, les deux luisent de sueur et de crasse, après avoir néanmoins réussi à amener la pierre de l'épreuve au sommet de la colline.
+
+Vous les y rejoignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Levez avec vos genoux, moussaillons !" crie Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Pauvres gars."
+
+Edér secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je ne sais pas trop à quoi vous vous attendiez. Ils sont plutôt fragiles, au mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Les invocations agitent l'air, alors que l'essence répond à leur appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Les invocations agitent l'air, alors que l'essence répond à leur appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Les invocations agitent l'air, alors que l'essence répond à leur appel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>La porte semble taillée dans la roche elle-même, et vous ne trouvez aucun mécanisme permettant de l'ouvrir. Un bas-relief sculpté dans la porte montre les têtes hideuses et grimaçantes de trois animaux : l'araignée, le sanglier et le terrifiant stelgaer, un féroce tigre à dents de sabre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Haut de près d'un mètre, le piédestal n'est guère plus large qu'un gros melon. Le matériau et la structure du socle vous rappellent la Pierre de l'épreuve. Il porte même des inscriptions similaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Un air glacé vous enveloppe, et une énorme créature à tête d'auroch jaillit de la jungle en faisant trembler le sol à chaque pas. Elle vous jette un regard et renâcle avant de prendre la pierre sur une de ses larges épaules.
+
+Elle la porte jusqu'en haut de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Invoquer de l'aide magique]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Plantant fermement vos pieds dans la terre, vous commencez à faire lentement rouler le lourd rocher vers le haut de la colline. Vous ne suivez pas le chemin tortueux, et tracez une ligne droite à travers les herbes.
+
+Vos muscles vous lancent. Vos mains vous brûlent. Votre visage luit de sueur, qui goutte du bout de votre nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Avec force grognements, [Specified 1] fait rouler la pierre vers le sommet de la colline, négligeant la piste serpentant entre les herbes pour favoriser la ligne droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Réenvisager d’utiliser la corde]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Vous vous assurez que la corde est solidement attachée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>C'est un travail laborieux, mais vous réussissez à vous deux à amener la Pierre de l'épreuve au sommet de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Cela prend du temps et, à la fin, les deux luisent de sueur et de crasse, après avoir néanmoins réussi à amener la pierre de l'épreuve au sommet de la colline.
+
+Vous les y rejoignez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Pousser la Pierre de l'épreuve à travers toute l'île a rendu vos mains sèches et rugueuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Une grande pierre ronde recouverte d'inscriptions sur un côté repose dans l'herbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Vous retournez à la colline escarpée située en bas du Creuset Des oiseaux chantent au loin. L'air est chaud et lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Vous la reconnaissez : il s'agit d'une Pierre de l'épreuve. Mais vous avez beau chercher, vous ne trouvez aucune indication vous apprenant qui l'a envoyée ni ce que vous êtes censé faire avec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Un trou transperce le bloc solide pour en faire un anneau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>La silhouette vague de Muātu scintille à la limite de votre champ de vision.
+
+"Oh, une Pierre de l'épreuve ! Vous trouverez l'entrée du Creuset en haut de la colline. La pierre ouvrira le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>La Pierre de l'épreuve se trouve en bas de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Sans Pierre de l'épreuve, vous ne pouvez pas faire grand-chose...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Vous allez devoir la faire monter jusqu'en haut de la colline. D'où le nom : Pierre de l'épreuve. Parce qu'elle est très lourde, et qu'il y a une colline, et... enfin..."
+
+L'esprit sourit de toutes ses dents fantomatiques et secoue sa tête spectrale.
+
+"Si vous arrivez à la monter tout en haut, vous pourrez tenter le Rite de passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Edér couvre ses yeux d'une main en mordillant un brin d'herbe. "On va s'amuser. Après vous, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Partir avec la Pierre de l'épreuve]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"En nous y mettant tous, cela ne devrait pas être trop difficile." Konstanten adresse à Edér un regard pesant, retrousse ses manches et commence à s'étirer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Rekke pousse un petit rire et imite Konstanten. Un petit coup dans l'épaule encourage Edér à se joindre à eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Vous étudiez les options à votre disposition.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

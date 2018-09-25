@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Champion de la chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;b&gt;Participez à l'intronisation&lt;/b&gt; dans la &lt;b&gt;Salle des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;b&gt;Terrassez les autres élus&lt;/b&gt; et décrochez le titre de Champion de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Communiez avec les &lt;b&gt;Aspects de la chasse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai gagné le droit de représenter un des Aspects de la chasse lors d'un combat sanglant du Creuset. Si je remporte la victoire, je deviendrai le Champion de la chasse et pourrai communier directement avec les Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le carnage est terminé, et j'en suis sorti victorieux.
+
+Je suis à présent le Champion de la chasse. La cérémonie d'intronisation n'attend plus que moi au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Chacun des Aspects de la chasse a choisi son prétendant. La &lt;b&gt;prochaine bataille sera une mêlée générale&lt;/b&gt;. Mon groupe en affrontera deux autres.
+
+Dès que je suis prêt, je peux plonger mon regard dans le &lt;b&gt;Bassin des souvenirs&lt;/b&gt; et relever mon défi le plus difficile jusqu'à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Maintenant que je suis Champion, je peux discuter avec les &lt;b&gt;Aspects de la chasse&lt;/b&gt; pour en apprendre plus sur la crise qui agite Kazuwari.
+
+Je peux communier avec eux via le &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai rencontré &lt;b&gt;Erūke,&lt;/b&gt; l'âme kith qui incarne l'Aspect du Survivant. Ils m'ont raconté que &lt;b&gt;Whehami&lt;/b&gt;, l'Aspect du Tueur, a rompu le lien entre l'île et l'Au-delà. Erūke veut restaurer ce lien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Je suis entré dans une poche de l'Au-delà via le Bassin des souvenirs. Les réponses, et peut-être la solution aux troubles qui rongent Kazuwari, sont à portée de main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Aexica&lt;/b&gt;, l'âme kith qui incarne l'Aspect du Pisteur, veut que je terrasse &lt;b&gt;Whehami&lt;/b&gt; et que je restaure le lien entre l'île et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;Whehami&lt;/b&gt; a rompu le lien avec le reste de l'Au-delà pour prendre le royaume de Galawain en otage. Il veut qu'une autre âme, la mienne, prenne la place des Aspects de la chasse pour qu'il puisse revêtir une enveloppe charnelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Il semble que, bien que des siècles aient séparé leurs existences respectives, Aexica, Erūke et Whehami soient devenus en même temps des Aspects de la chasse.
+
+Peut-être que des liens plus profonds les unissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Aexica pense qu'une âme forte pourrait remplacer Whehami dans l'Au-delà. Je peux peut-être le convaincre d'accepter celle d'un autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Erūke pense pouvoir m'aider à convaincre Whehami d'abandonner en utilisant le lien qui les unit : une seule et même âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Aexica a fourni à Whehami les connaissances nécessaires pour rompre le lien entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Aexica a avoué avoir manipulé Whehami pour s'approprier le flot d'âmes circulant entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Whehami m'a demandé de reporter ma colère sur Aexica pour sa trahison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu Whehami et Aexica, et restauré le flot d'âmes entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai sacrifié l'âme de Konstanten pour remplacer les Aspects de la chasse. J'ai ensuite utilisé la Dent de Toamowhai pour restaurer le flot d'âmes entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai convaincu Whehami de rester dans l'Au-delà. Il m'a laissé réparer les dégâts et restaurer le flot d'âmes entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai convaincu Whehami que je peux échanger son âme contre celle de la puissante bête de Galawain. Il ne reste plus qu'à la chasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Erūke m'a aidé à convaincre les autres d'arrêter. J'ai ensuite restauré le flot d'âmes entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai sacrifié l'âme de Muātu pour remplacer les Aspects de la chasse. J'ai ensuite utilisé la Dent de Toamowhai pour restaurer le flot d'âmes entre Kazuwari et l'Au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

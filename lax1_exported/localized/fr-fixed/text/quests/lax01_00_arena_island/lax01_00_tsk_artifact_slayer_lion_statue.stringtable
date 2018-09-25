@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_lion_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Tueur traque la tête du chasseur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez la &lt;b&gt;tête du chasseur&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez la &lt;b&gt;tête du chasseur&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Tueur m'a mis sur la piste d'un autre artefact pour le Bassin des souvenirs : &lt;b&gt;la tête manquante d'une statue&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari a entendu parler d'une &lt;b&gt;statue brisée&lt;/b&gt; située dans des &lt;b&gt;ruines huanas&lt;/b&gt;. La tête de l'œuvre est censée être remarquable.
+
+Le monument représentait un grand chasseur, et les ruines ont été envahies par les flots et la végétation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé la tête du chasseur à Motare o Kōzi et je dois la rapporter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; si je veux en tirer un nouveau combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ajouté la tête du chasseur au Bassin des souvenirs, ce qui m'a permis de débloquer de nouveaux défis des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

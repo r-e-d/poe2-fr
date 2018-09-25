@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3974</ID>
+      <DefaultText>Le porteur appelle un puissant drake en soutien au groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3975</ID>
+      <DefaultText>Commandement du drake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3989</ID>
+      <DefaultText>Le porteur bondit sur sa proie, immobilisant cette dernière et lui infligeant un saignement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3994</ID>
+      <DefaultText>Invocation : vase du marais mineure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4001</ID>
+      <DefaultText>Volée toxique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4002</ID>
+      <DefaultText>Flèches vénéneuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4012</ID>
+      <DefaultText>Tissage renforcé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4017</ID>
+      <DefaultText>Doux arôme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4018</ID>
+      <DefaultText>Un doux arôme émis par le fléau produit une aura qui augmente la Précision des alliés proches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4019</ID>
+      <DefaultText>Arôme enchanteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4020</ID>
+      <DefaultText>Un arôme enchanteur émis par le fléau produit une aura qui réduit la défense en Volonté des ennemis proches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4021</ID>
+      <DefaultText>Balayage encorné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4022</ID>
+      <DefaultText>Coup du trotteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4023</ID>
+      <DefaultText>Ruée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4024</ID>
+      <DefaultText>Arôme écœurant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4025</ID>
+      <DefaultText>Un arôme écœurant émis par le fléau produit une aura qui réduit la Précision des ennemis proches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4026</ID>
+      <DefaultText>Rage aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4027</ID>
+      <DefaultText>Appel de la harde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4032</ID>
+      <DefaultText>Prédateur caché</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4035</ID>
+      <DefaultText>Blessures handicapantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4036</ID>
+      <DefaultText>Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4037</ID>
+      <DefaultText>Rugissement primal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4038</ID>
+      <DefaultText>Ravage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4039</ID>
+      <DefaultText>Inégalé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4040</ID>
+      <DefaultText>Fouet caudal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4041</ID>
+      <DefaultText>Jet de bile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4042</ID>
+      <DefaultText>Déchirure du flanc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4047</ID>
+      <DefaultText>Aspect du sanglier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4048</ID>
+      <DefaultText>Endurance du sanglier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4049</ID>
+      <DefaultText>Charge du sanglier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4050</ID>
+      <DefaultText>Le porteur projette sa tête en arrière avant de frapper du front son ennemi. L'ennemi subit des dégâts contondants importants et est assommé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4053</ID>
+      <DefaultText>Boisson du vaincu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4054</ID>
+      <DefaultText>Adra liquide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4055</ID>
+      <DefaultText>Le liquide instable contenu dans cette fiole est capable de recueillir l'énergie du Creuset pour reproduire les effets d'une autre potion magique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4061</ID>
+      <DefaultText>Tentacules défensifs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4065</ID>
+      <DefaultText>Bond du stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4066</ID>
+      <DefaultText>Rafale de l'araignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4067</ID>
+      <DefaultText>Le porteur frappe rapidement une zone devant lui, ce qui lui permet d'infliger des dégâts et d'immobiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4068</ID>
+      <DefaultText>Le porteur bondit en avant, inflige des dégâts importants et renverse sa victime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4071</ID>
+      <DefaultText>Indépendance du stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4081</ID>
+      <DefaultText>Bouclier voltaïque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4084</ID>
+      <DefaultText>Déluge de flèches</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4086</ID>
+      <DefaultText>Choc final</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4103</ID>
+      <DefaultText>Union de l'araignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4104</ID>
+      <DefaultText>Confère un bonus en vitesse d'attaque lorsque le compagnon animal du porteur est à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4105</ID>
+      <DefaultText>Invincibilité de l'ombre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4106</ID>
+      <DefaultText>Toiles de guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4109</ID>
+      <DefaultText>Bouclier acide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4120</ID>
+      <DefaultText>Aura enflammée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4250</ID>
+      <DefaultText>Peau merveilleuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4251</ID>
+      <DefaultText>Invoque au début du combat une bête aléatoire et pacifique de Galawain. Chaque bête a sa propre aura qui applique un bonus à tous les alliés proches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4252</ID>
+      <DefaultText>Leçons du Change-forme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4253</ID>
+      <DefaultText>Transforme le porteur en une des formes du Change-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4271</ID>
+      <DefaultText>(Déluge de flèches) - Les cibles proches de la mort touchées par Chant du vent ont une chance d'être distraites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Allégeance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4477</ID>
+      <DefaultText>Récupération de la mère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4497</ID>
+      <DefaultText>Abri arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4498</ID>
+      <DefaultText>Abri de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4515</ID>
+      <DefaultText>Amélioré par la Chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4531</ID>
+      <DefaultText>Volute de disruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4537</ID>
+      <DefaultText>Étude du Pisteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4538</ID>
+      <DefaultText>Salon du Tueur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4539</ID>
+      <DefaultText>Antre du Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4544</ID>
+      <DefaultText>Brûler les notes de recherche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4545</ID>
+      <DefaultText>Colère de l'archimage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Reconstruction - Plates</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4691</ID>
+      <DefaultText>Forme du prétendant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Le porteur pointe du doigt un ennemi, lui infligeant Domination pendant un bref laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4852</ID>
+      <DefaultText>Quand aucun allié n'est proche, les attaques armées du porteur bénéficient de dégâts bruts supplémentaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4853</ID>
+      <DefaultText>À chaque combat, la première fois que le porteur est ensanglanté, ce dernier est soigné pendant une courte durée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4854</ID>
+      <DefaultText>À l’état d’inconscience, le porteur canalise l'esprit du Sanglier pour se relever et supprimer toutes les blessures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4867</ID>
+      <DefaultText>Tant que Drago vous suit, vous bénéficiez d'une Allure améliorée et les défenses de votre groupe reçoivent un bonus contre les attaques de désengagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4903</ID>
+      <DefaultText>Appel de Kazuwari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4904</ID>
+      <DefaultText>Le porteur défie un ennemi, ce qui lui accorde des dégâts supplémentaires contre ce dernier, tout en recevant moins de dégâts des attaques de cet adversaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4905</ID>
+      <DefaultText>Répercussion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4916</ID>
+      <DefaultText>Calice bouillonnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Vengeance légitime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4991</ID>
+      <DefaultText>Soutien de Muātu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4992</ID>
+      <DefaultText>Le porteur invoque Muātu à ses côtés. Les attaques de Muātu soignent le porteur s'il est à proximité, et gagnent en puissance quand il est alimenté par les âmes du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5027</ID>
+      <DefaultText>Don de Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5028</ID>
+      <DefaultText>Renvoyer l'âme du porokoa à la Roue a permis au Gardien de s'attirer un peu plus les faveurs de Berath, et d'augmenter sa Précision contre les esprits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>(Don de Rymrgand) - Anéantir davantage d'âmes augmente encore plus la Précision contre les réceptacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5030</ID>
+      <DefaultText>Don de Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5031</ID>
+      <DefaultText>Lui remettre les âmes du Creuset a permis au Gardien de s'attirer un peu plus les faveurs de Galawain, augmentant sa Précision contre les bêtes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5032</ID>
+      <DefaultText>(Don de Galawain) - Remettre davantage d'âmes à Galawain augmente encore plus la Précision contre les bêtes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5033</ID>
+      <DefaultText>Don de Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5034</ID>
+      <DefaultText>Anéantir les âmes du Creuset a permis au Gardien de s'attirer un peu plus les faveurs de Rymrgand, augmentant sa Précision contre les réceptacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -87,6 +87,11 @@ Je n'ai maintenant d'autre choix que de faire face à la dragonne qui a assailli
     <Entry>
       <ID>20000</ID>
       <DefaultText>J'ai trouvé le &lt;b&gt;roi Wingauro o Watūri I&lt;/b&gt; dans le &lt;b&gt;Royaume englouti&lt;/b&gt; et je l'ai obligé à faire face aux conséquences de ses actes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>

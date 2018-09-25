@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>551</EntryCount>
+  <EntryCount>555</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1186,7 +1186,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Les capacités armées améliorées infligent Blessure à la cible</DefaultText>
+      <DefaultText>Les capacités améliorées avec cette arme infligent des Blessures aux cibles qui ne sont pas blessées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2755,8 +2755,28 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>674</ID>
+      <DefaultText>{0:value} en Précision contre la race cible (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>{0:value} en Précision et {0:triggervalue} en défense contre la race cible (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>{0:value} en Précision et {0:triggervalue:percent} de dégâts contre la race cible (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>685</ID>
-      <DefaultText />
+      <DefaultText>Renversement final</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Retrait&lt;/link&gt; or &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Rappel de la souffrance&lt;/link&gt; sur le possesseur lorsqu'il est attaqué alors qu'il est Proche de la mort.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

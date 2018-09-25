@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_spirit_meeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous me voyez ? C'est vraiment vous, alors, le capitaine du Défi ?"</DefaultText>
+      <FemaleText>"Vous me voyez ? C'est vraiment vous, alors, la capitaine du Défi ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est le [Player Ship], mais oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qui le demande ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous vous trompez de capitaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que faites-vous sur mon navire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Moi, Muātu ! Auparavant de l'île de Kazuwari, et aujourd'hui de l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mais &lt;i&gt;vous&lt;/i&gt; êtes un Gardien, pas vrai ? Autrement, je ne pourrais pas vous voir."
+
+"Peut-être pourrez-vous quand même m'aider !"</DefaultText>
+      <FemaleText>"Mais &lt;i&gt;vous&lt;/i&gt; êtes une Gardienne, pas vrai ? Autrement, je ne pourrais pas vous voir."
+
+"Peut-être pourrez-vous quand même m'aider !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est forcément vous ! Vous avez ouvert la boîte. Vous pouvez me voir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Oh, c'est fantastique ! Qu'il est &lt;i&gt;agréable&lt;/i&gt; de savoir que l'on n'a pas donné sa vie en vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je viens de l'île de Kazuwari, et nous avons besoin de votre aide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Comment êtes-vous mort ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Qui est ce « nous » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"De quel type d'aide avez-vous besoin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Comment avez-vous su qui j'étais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Un effet secondaire malheureux, suite à la rencontre entre un coup d'épée fulgurant et ma poitrine, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Nous devions vous envoyer un messager, mais personne ne devait me voir quitter Kazuwari. Une solution inélégante, certes, mais &lt;i&gt;efficace&lt;/i&gt; !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pourquoi pensiez-vous que j'étais ce capitaine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Le peuple de Kazuwari, euh, &lt;i&gt;se méfie&lt;/i&gt; des non-initiés. Pour de bonnes raisons, bien entendu !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eh bien, il y a moi, évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Et puis il y a Humaire, la protectrice. C'est elle qui m'a tué et a mis ma tête dans cette boîte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ainsi que le peuple et les âmes de l'île, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ça va être difficile à expliquer tant que vous n'aurez pas visité l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je me contenterai de dire que quelqu'un nous a apporté quelque chose après votre bataille contre le Drake au large de la côte de l'île de Maje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Grâce à cela, nous en avons appris énormément sur vous... et sur vos capacités !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Kazuwari est une île sur laquelle les chasseurs les plus talentueux, les explorateurs les plus aguerris et les guerriers les plus farouches se rassemblent afin de gagner les faveurs de Toamowhai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mais Humaire, la protectrice de l'île, affirme que l'essence dont l'île se nourrit est malade. Elle la qualifie de « caillée »."
+
+"Les animaux, les arbres, tout bouillonne de colère et de peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Des fléaux se sont formés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Pourquoi diable souhaiterais-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Qui est Toamowhai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je suis le plus grand des guerriers. Pourquoi n'ai-je jamais entendu parler de cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous avez mentionné les faveurs de Toamowhai. Un brin de faveur divine ne serait pas de refus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"J'ai des problèmes bien plus importants que votre île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Oui ! Humaire avait raison. Elle disait que vous comprendriez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les Aspects de la chasse ! Celui qui chasse, tue et survit. Respectivement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Certains les considèrent comme la dimension tripartite de Galawain. Mais je n'en sais rien. Je ne leur ai jamais posé la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ne peux pas expliquer les lubies de Toamowhai. Peut-être que vous auriez fini par en entendre parler, mais seuls les élus de Toamowhai y sont les bienvenus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"&lt;i&gt;Eux &lt;/i&gt; seuls peuvent réellement apprécier ce qu'il offre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Les faveurs prennent de nombreuses formes, toutes merveilleuses ! Toamowhai est très généreux envers les plus forts d'entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ah, vous faites allusion au dieu de l'aube. Humaire m'avait prévenu. Elle pense que ce qui se passe sur Kazuwari y est lié !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ou du moins, que votre visite sur l'île vous aidera dans vos ambitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"On raconte que vous venez en aide aux gens. Que vous réglez leurs problèmes. Et Kazuwari a des problèmes. L'île a besoin de votre aide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Pour nous aider, vous devrez affronter parmi les plus coriaces adversaires qu'Eora ait jamais portés !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Il y a de jolis butins à récolter sur l'île pour ceux qui se montrent dignes de la considération de Toamowhai !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Allez parler à Humaire à Kazuwari, Gardien. Elle pourra vous expliquer la situation mieux que moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Il y a une chose que vous devez savoir : les Aspects de la chasse contrôlent jalousement les personnes qui débarquent sur l'île et en repartent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Mais vous trouverez sur le rivage sud de l'île une cascade qui vous permettra d'entrer en toute discrétion, à condition d'être prudent."</DefaultText>
+      <FemaleText>"Mais vous trouverez sur le rivage sud de l'île une cascade qui vous permettra d'entrer en toute discrétion, à condition d'être prudente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je crois que vous devez aussi savoir..." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je ferai mon possible pour vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je ne promets rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Aider des gens qui ne veulent pas de mon aide ? Ça a l'air sympa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vos problèmes ne m'intéressent pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh, c'est fantastique ! Merci !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je comprends. Vous avez un dieu à pourchasser !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ils ne sont pas si méchants une fois qu'on les connaît. Ils sont presque... gentils ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"À vrai dire, non, ils ne sont pas gentils. Mais Humaire est une brave femme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Quand nous serons sur place, je pourrai vous aider à pénétrer jusqu'au cœur de l'île."
+
+"Enfin, si vous le souhaitez. Je ne voudrais pas m'imposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'ai donné ma vie pour Kazuwari ! J'espère que vous pourrez au moins donner un peu de votre temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Si vous changez d'avis, je vous indiquerai le moyen le plus sûr de pénétrer jusqu'au cœur de l'île."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Entre-temps, je patienterai ici. Enfin, &lt;i&gt;derrière vous&lt;/i&gt;, en fait, avec le cortège d'esprits que vous traînez partout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oh, c'est terriblement dommage. Nous avons tellement entendu parler de ses exploits..."
+
+Le ton de l'esprit se fait mélancolique, presque déférent.</DefaultText>
+      <FemaleText>"Oh, c'est terriblement dommage. Nous avons tellement entendu parler de ses exploits..."
+
+Le ton de l'esprit se fait mélancolique, presque déférent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Il a défié les perfides nāgas lors d'une bataille sanglante à Hasongo et les a vaincus !"</DefaultText>
+      <FemaleText>"Elle a défié les perfides nāgas lors d'une bataille sanglante à Hasongo et les a vaincus !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Il a livré une lutte enflammée à la déesse de la guerre elle-même à la Gueule cendrée et n'a pas faibli !"</DefaultText>
+      <FemaleText>"Elle a livré une lutte enflammée à la déesse de la guerre elle-même à la Gueule cendrée et n'a pas faibli !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je rêve de rencontrer un jour un guerrier de sa trempe !"</DefaultText>
+      <FemaleText>"Je rêve de rencontrer un jour une guerrière de sa trempe !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Pourquoi personne ne devait être au courant de votre départ ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous êtes plus fébrile que la plupart des autres esprits que j'ai rencontrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"C'est drôle, mais, vous savez, quand on est mort, toutes ces contraintes sociales ? Ces petites règles formelles et tacites qui nous modèrent ? Eh bien, elles n'existent plus ! Je suis davantage moi-même que je l'ai jamais été de mon vivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Certains acceptent plus facilement la mort que d'autres, je suppose." Un sourire effroyablement large fend le visage indistinct de l'esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Vous êtes dans les Limbes, et moi dans l'Ici-bas. L'Au-delà est... eh bien, au-delà des Limbes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ah. Eh bien... C'est la première fois que je meurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous avez dit quelque chose ?" Aloth lève le nez de son livre, un sourcil arqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Lui faire signe de se taire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je parle à un esprit. Je vous expliquerai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[L'ignorer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Quelle surprise." Il lève les yeux au ciel et retourne à sa lecture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ça va, là-dedans ? On dirait que vous avez vu un fantôme. Un énième fantôme, je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Saluez-le de ma part. Ou saluez-la. Il ne faut pas avoir de préjugés vis-à-vis des morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Aloth lève les yeux au ciel et retourne à sa lecture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ça m'apprendra à me soucier des autres." Il mâchonne l'embout de sa pipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je n'en dirai pas plus. Les esprits ne devraient pas s'occuper de faire des promesses, surtout quand on n'a aucun moyen de les respecter !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Moi, Muātu ! Auparavant de l'île de Kazuwari, et aujourd'hui de l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous êtes dans les Limbes, et moi dans l'Ici-bas. L'Au-delà est... eh bien, au-delà des Limbes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ah. Eh bien... C'est la première fois que je meurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous avez dit quelque chose ?" Aloth lève le nez de son livre, un sourcil arqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ça va, là-dedans ? On dirait que vous avez vu un fantôme. Un énième fantôme, je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je parle à un esprit. Je vous expliquerai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Lui faire signe de se taire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[L'ignorer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Quelle surprise." Il lève les yeux au ciel et retourne à sa lecture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Saluez-le de ma part. Ou saluez-la. Il ne faut pas avoir de préjugés vis-à-vis des morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Aloth lève les yeux au ciel et retourne à sa lecture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ça m'apprendra à me soucier des autres." Il mâchonne l'embout de sa pipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Vous parlez du Change-forme, du Père des monstres, de Galawain le chasseur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Celui qui chasse, tue et survit, oui ! Vous comprenez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Pourquoi vous adresser à moi ? Que puis-je faire de plus que sa protectrice ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Vous êtes bien un Gardien, pas vrai ? &lt;i&gt;Le&lt;/i&gt; Gardien ? Celui qui est mort et a ressuscité ? Qui confère avec les dieux ?"
+
+"&lt;i&gt;Voilà&lt;/i&gt; le Gardien dont nous avons besoin."</DefaultText>
+      <FemaleText>"Vous êtes bien une Gardienne, pas vrai ? &lt;i&gt;La&lt;/i&gt; Gardienne ? Celle qui est morte et a ressuscité ? Qui confère avec les dieux ?"
+
+"&lt;i&gt;Voilà&lt;/i&gt; la Gardienne dont nous avons besoin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Il nous faut un Gardien. C'est Humaire qui l'a dit. Personne d'autre ne peut parler aux âmes, et notre problème, ce sont les âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Mais je suis sûr que ça ne vous posera aucun problème !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Avant que vous ayez l'occasion de répondre à l'avertissement de l'esprit, vous remarquez Konstanten qui danse nerveusement d'un pied sur l'autre derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Vous voulez quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Pas maintenant, Konstanten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[L'ignorer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Non, c'est juste, que..." Il s'éclaircit nerveusement la voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"D'accord, d'accord." Son regard va et vient entre votre visage et la boîte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Il s'éclaircit la voix pour attirer votre attention. Voyant que vous ne réagissez pas, il pousse un profond soupir et vient se placer à côté de vous.
+
+Il fixe intensément la boîte, les sourcils froncés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Le truc, c'est qu'il se pourrait que je sache quelque chose à propos de cette boîte. Un peu plus que quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ce que je veux dire, c'est... peut-être qu'il vaut mieux ne pas y toucher. Mieux vaudrait y attacher un gros rocher et la balancer par-dessus bord."
+
+"Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Il va falloir m'en dire un peu plus que ça pour me décider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Crachez le morceau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Hausser les épaules] "Je ne vois pas ce qu'elle a de dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Cette boîte contient une tête de mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'ai vu plus étrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"En fait, il y a aussi un esprit dans la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"C'est noté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ce que je veux dire, c'est... peut-être qu'il vaut mieux ne pas y toucher. Mieux vaudrait y attacher un gros rocher et la balancer par-dessus bord."
+
+"Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"... Génial. C'est... c'est génial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Vous dites ça, mais vous n'êtes jamais allé à Kazuwari. Là-bas, tout est &lt;i&gt;salement&lt;/i&gt; étrange. Plus étrange que d'habitude, même pour vous."</DefaultText>
+      <FemaleText>"Vous dites ça, mais vous n'êtes jamais allée à Kazuwari. Là-bas, tout est &lt;i&gt;salement&lt;/i&gt; étrange. Plus étrange que d'habitude, même pour vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Je ne prétends pas vous dire comment faire votre travail, mais... Gardien ? Faites attention."</DefaultText>
+      <FemaleText>"Je ne prétends pas vous dire comment faire votre travail, mais... Gardienne ? Faites attention."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Hé, coucou, on était en pleine discussion !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Allez-vous nous aider, oui ou non ? Nous avons vraiment besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Vous semblez en savoir un rayon sur cet endroit. Comment ça se fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Hocher la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Lever les yeux au ciel]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>À la périphérie de votre ouïe, vous saisissez l'écho d'un de vos compagnons qui vous parle, comme s'il se trouvait au bout d'un long couloir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Bingo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Disons plutôt que ce sont les dieux qui &lt;i&gt;confèrent&lt;/i&gt; avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ne croyez pas tout ce qu'on vous raconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"J'en étais sûr ! Je savais qu'Humaire ne mentait pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Oh, non, ne vous inquiétez pas pour ça ! Sauf si c'est Humaire qui le dit. Elle dit toujours la vérité, et elle a dit que le Gardien parlait aux dieux, donc c'est &lt;i&gt;forcément&lt;/i&gt; vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Vous &lt;i&gt;allez&lt;/i&gt; nous aider, hein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Je vous aiderai si je le peux. Que voulez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Il se peut que les habitants de l'île n'apprécient pas tellement votre présence s'ils vous découvrent. Ils sont, euh, assez ombrageux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Il a parlementé avec les perfides nāgas à Hasongo et les a contraints à s'enfuir la queue entre les jambes !"</DefaultText>
+      <FemaleText>"Elle a parlementé avec les perfides nāgas à Hasongo et les a contraints à s'enfuir la queue entre les jambes !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Muātu incline la tête et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"En dehors du fait que vous êtes la seule créature qui ne soit pas faite d'adra qui étincèle comme un feu de camp sur des kilomètres à la ronde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Je parle aux vivants &lt;i&gt;aussi&lt;/i&gt;, vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Bien sûr, bien sûr, mais &lt;i&gt;tout le monde&lt;/i&gt; en est capable !"
+
+"Enfin, presque tout le monde. Pas moi. Étant donné que... vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Quelqu'un nous a apporté quelque chose provenant du combat entre le Défi et le Drake au large de l'île de Maje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Grâce à ça, nous avons appris beaucoup de choses sur le Gardien de Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Pourquoi cette Humaire vous a-t-elle tué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Je viens de Kazuwari, où les chasseurs les plus talentueux, les explorateurs les plus aguerris et les guerriers les plus farouches se rassemblent afin de gagner les faveurs de Toamowhai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"J'ai dit que non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ekera, comment se fait-il qu'ils m'aient mis sur le mauvais bateau ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Mais vous êtes bien &lt;i&gt;un&lt;/i&gt; Gardien, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Vous devriez parler à Humaire. Elle sera en mesure de mieux vous expliquer tout ceci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Parler à Humaire, compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Où se trouve Kazuwari ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Je ne vous promets rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Quittez mon navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Kazuwari est une île &lt;i&gt;énorme&lt;/i&gt; à l'ouest d'Hasongo. Il est difficile de passer à côté, avec ses hautes falaises et ses chutes d'eau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Je... Je ne pense pas en être capable. Vous êtes la seule chose que je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Peut-être que nous devrions en parler plus tard ? Vous avez l'air, euh... occupé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Nous pouvons vous récompenser ! Et gloire et puissance vous attendent. Du trésor, aussi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

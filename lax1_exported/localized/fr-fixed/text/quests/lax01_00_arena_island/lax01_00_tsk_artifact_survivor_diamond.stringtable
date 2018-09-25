@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_diamond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Survivant traque la gemme brute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez la &lt;b&gt;gemme brute&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez la &lt;b&gt;gemme brute&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Survivant veut que je trouve une &lt;b&gt;pierre&lt;/b&gt; « forgée au cœur du monde » dans un &lt;b&gt;désert&lt;/b&gt; et que je la rapporte au Bassin des souvenirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari a appris que la pierre est en possession d'un &lt;b&gt;survivant solitaire&lt;/b&gt; accroché à la vie dans un &lt;b&gt;désert impitoyable&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé la gemme brute à l'extérieur de Poko Kohara. Je dois à présent la rapporter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; si je veux accéder à son histoire spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ajouté la gemme brute au Bassin des souvenirs, ce qui m'a permis de débloquer de nouveaux défis des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

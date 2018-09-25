@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3975</ID>
+      <DefaultText>Profondeurs de Huaba Māha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3982</ID>
+      <DefaultText>Étendue de Kōhatekana</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3983</ID>
+      <DefaultText>Basse plaine de Whakupoko</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4002</ID>
+      <DefaultText>Chutes de Rutura Whēkeke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4033</ID>
+      <DefaultText>Mont Hiuahariki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4034</ID>
+      <DefaultText>Ravin de Pingaka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4035</ID>
+      <DefaultText>Tiebe o Waiapu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4075</ID>
+      <DefaultText>Salle des souvenirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4076</ID>
+      <DefaultText>Tribune des spectateurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4077</ID>
+      <DefaultText>Auberge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4078</ID>
+      <DefaultText>Docks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>Bassin des souvenirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4148</ID>
+      <DefaultText>Défis disponibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4171</ID>
+      <DefaultText>Offrandes d'artefacts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4172</ID>
+      <DefaultText>Défi choisi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4173</ID>
+      <DefaultText>Pisteur, Tueur, Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4174</ID>
+      <DefaultText>Accepter le défi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4177</ID>
+      <DefaultText>La voie du Pisteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4178</ID>
+      <DefaultText>Les bêtes du Tueur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4179</ID>
+      <DefaultText>Le combat du Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4180</ID>
+      <DefaultText>Champions de la chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4181</ID>
+      <DefaultText>Le rite de passage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4182</ID>
+      <DefaultText>Épreuve du Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4183</ID>
+      <DefaultText>Originaire d'Eir Glanfath, la Bande de l'ours est une organisation de rôdeurs et de druides, unis par leur dévotion envers tout ce qui touche aux ours. Avec ses ours domestiques et ses pouvoirs magiques de métamorphose, ce groupe est davantage une force de la nature sauvage qu'une compagnie de mercenaires traditionnelle.
+
+Même si vous êtes en mesure de relever les trois défis (Pisteur, Tueur et Survivant), vous ne pouvez en choisir qu'un.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4184</ID>
+      <DefaultText>Épreuve du Tueur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4185</ID>
+      <DefaultText>Les Traqueurs de dragons affirment être les derniers membres de l'Ordre de l'acier brûlé, fraternité depuis longtemps éteinte de chasseurs de dragons autoproclamés. À l'image de sa proie de prédilection, l'invocateur spirituel qui dirige les Traqueurs de dragons est capable d'annihiler ses adversaires par les flammes. En outre, les armements barbares qu'ils utilisent pour chasser les drakes et dragons peuvent trancher la chair de kith tout aussi facilement que des écailles reptiliennes.
+
+Même si vous êtes en mesure de relever les trois défis (Pisteur, Tueur et Survivant), vous ne pouvez en choisir qu'un.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4186</ID>
+      <DefaultText>Épreuve du Pisteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4187</ID>
+      <DefaultText>Les Cinq muets ne sont pas connus pour mâcher leurs mots... ou pour prononcer quelque mot que ce soit, à vrai dire. Ce groupe de clairvoyants vit et s'entraîne toute l'année ensemble, et la communication silencieuse qui les lie fait de leur coordination hors pair une menace à ne pas négliger au combat.
+
+Même si vous êtes en mesure de relever les trois défis (Pisteur, Tueur et Survivant), vous ne pouvez en choisir qu'un.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4188</ID>
+      <DefaultText>Mémoires d'un fou</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4189</ID>
+      <DefaultText>La troisième bataille du rite de passage oppose généralement un initié à un ennemi tiré de ses propres souvenirs. Dans votre cas, le Creuset a décidé de vous confronter à Maerwald. En fonction de la manière dont vous avez géré votre rencontre avec l'ancien maître de Caed Nua, la rage de Maerwald peut être attisée par les mauvais traitements que vous lui avez infligés, ou adoucie par votre pitié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4190</ID>
+      <DefaultText>Souffrance des éléments</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4191</ID>
+      <DefaultText>Avant qu'un chasseur puisse tuer d'autres concurrents dans l'arène du Creuset, il doit se soumettre au rite de passage. Tous les nouveaux concurrents sont initiés par une épreuve contre les éléments. Si un prétendant chasseur ne parvient pas à vaincre un assortiment de stupides fléaux, quel défi pourrait-il bien représenter face à un combattant digne de ce nom ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4192</ID>
+      <DefaultText>La saignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4193</ID>
+      <DefaultText>La quatrième et dernière bataille de tout rite de passage oppose deux groupes de concurrents l'un contre l'autre. Les deux équipes entrent dans le Creuset, mais une seule équipe en émergera vivante avec la bénédiction de Toamowhai. Il n'y a aucune gloire à contraindre son adversaire à capituler ; le Creuset exige un sacrifice, et ce n'est qu'avec la mort du perdant que le vainqueur pourra progresser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4194</ID>
+      <DefaultText>Épreuve du nāga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4195</ID>
+      <DefaultText>Les initiés qui survivent aux éléments doivent ensuite échapper aux chasseurs nāgas. Bien que de stature et de force équivalentes aux kiths, les guerriers, archers et chamans nāgas combattent en une meute unie qui ne fera qu'une bouchée de ses infortunés adversaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4198</ID>
+      <DefaultText>Ombres du Pisteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4199</ID>
+      <DefaultText>Le combat recrée la lutte finale d'un prétendant Pisteur tué par les ombres de son rival. Sachant que son adversaire était une brute à la sauvagerie effrénée, encline à engager et rompre les hostilités sans prévenir, l'assassin a donné à ses ombres des instructions spéciales visant à contrer ce style de combat bestial et imprévisible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4200</ID>
+      <DefaultText>Choc du titan de feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4201</ID>
+      <DefaultText>Alors que la plupart des guerriers finissent par devenir la proie du cycle des saisons, le titan engwithan est un automate aux prouesses immuables. Les siècles ne peuvent pas émousser la détermination ni éroder la résistance de ces énormes statues animées. Cette bataille reconstitue une expédition malheureuse dans des ruines engwithanes, ainsi que la brève et ardente altercation avec le gardien immémorial de l'antique cité qui a signé la fin des explorateurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4202</ID>
+      <DefaultText>Ogres tactiques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4204</ID>
+      <DefaultText>Danse du Change-forme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4205</ID>
+      <DefaultText>Épreuve préférée du public depuis toujours, la Danse du Change-forme met au défi les prétendants de mesurer leur puissance sous une apparence autre que la leur. Un guerrier qui s'acharne même quand on le prive de ses principaux avantages est réellement béni par Toamowhai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4206</ID>
+      <DefaultText>Épreuve d'endurance des goules funestes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4207</ID>
+      <DefaultText>Testez votre courage contre une irrésistible marée de goules dévastatrices. Avide de chair fraîche et dénuée de pitié, la masse de goules est connue pour dévorer jusqu'à la dernière miette les prétendants les moins forts dans leur appétit orgiaque, digne d'une nuée de sauterelles, pour la chair de kith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4208</ID>
+      <DefaultText>Secrets de la vase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4209</ID>
+      <DefaultText>De nature territoriale et protectrice, les vases du marais défendront jusqu'à la mort l'endroit où elles ont élu résidence. Certaines vases développent une affinité symbiotique avec les barrières magiques, ce qui rend encore plus difficile de s'en débarrasser. Les Pisteurs audacieux doivent trouver un moyen de se défaire de leurs principaux ennemis tout en tâchant d'éviter le danger que représentent les barrières actives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4210</ID>
+      <DefaultText>Ténacité ténébreuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4211</ID>
+      <DefaultText>Préparez-vous à affronter un adversaire qui tire sa force de sa propre défaite. Revivez la mort de Jorrean do Aldres, ambitieuse incantatrice qui, dans sa quête visant à s'attaquer à des adversaires toujours plus redoutables, a invoqué une bande de rivaux bien plus coriaces que ce à quoi elle s'attendait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4212</ID>
+      <DefaultText>Épreuve d'endurance de l'équipage squelette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4213</ID>
+      <DefaultText>Même si n'importe quel concurrent capable de survivre au rite de passage peut vaincre un simple squelette, seul un guerrier accompli survivra à une marée quasiment ininterrompue de ces réceptacles imperturbables et déments. Mettez à l'épreuve votre capacité de résistance dans cette bataille rangée contre de multiples hordes d'adversaires squelettiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4214</ID>
+      <DefaultText>La toile de l'araignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4215</ID>
+      <DefaultText>Deux matriarches araignées et leurs couvées respectives ont tissé leur embuscade, dans l'attente d'un prétendant assez courageux (ou stupide) pour s'aventurer dans leur piège. Même si elles n'ont pas l'intelligence d'un chasseur kith, les araignées sont douées d'une certaine ruse animale, si bien que nombre de chasseurs ont été tués par les élues du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4216</ID>
+      <DefaultText>Épreuve de crocs et de fourrure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4217</ID>
+      <DefaultText>Même si les stelgaers et les autres fauves chassent rarement en compagnie de leurs cousins, nombre de chasseurs qui se sont aventurés dans des contrées où leurs territoires se chevauchent ont subi la furie combinée des insaisissables stelgaers et de leurs agiles cousins. Mettez votre puissance à l'épreuve dans une rencontre mortelle impliquant des félins de toutes tailles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4270</ID>
+      <DefaultText>Se couper la main</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4277</ID>
+      <DefaultText>Harde de sangliers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4278</ID>
+      <DefaultText>Alors que le sanglier commun est déjà en soi une bête féroce, les sangliers massifs de Kazuwari sont bénis par le courage et la furie de Toamowhai. Au fil des siècles, d'innombrables chasseurs de cette île ont péri en quête de viande de porc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4279</ID>
+      <DefaultText>La couvée de lagufaeths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4280</ID>
+      <DefaultText>Brutaux et implacables, les lagufaeths sont relativement inoffensifs quand ils sont seuls, mais constituent des adversaires redoutables quand on les rencontre en meute. Cette bataille reconstitue un raid malheureux contre une couveuse lagufaeth et ses infâmes serviteurs, sans compter que les initiés affronteront une couvée préparée et en position de défense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4287</ID>
+      <DefaultText>Chroniques xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4288</ID>
+      <DefaultText>Certains xaurips stupides chassent seuls, mais les meutes plus heureuses élèvent des drakes dès leur plus jeune âge et entraînent leurs cousins reptiliens afin qu'ils défendent leurs maîtres xaurips avec une détermination sans faille. Cette bataille est une évocation du groupe de chasseurs xaurips et drakes qui arpentaient cette île avant l'arrivée des Huanas. Si l'histoire avait évolué différemment, les xaurips seraient peut-être toujours maîtres de cette île, et le Creuset n'aurait peut-être jamais été construit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>Combiner la couronne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4296</ID>
+      <DefaultText>Préparez-vous au choc tandis que vous revivez une escarmouche contre un équipage de pirates ogres. Deux fois plus grand et largement plus massif que n'importe quel kith, l'ogre est l'incarnation vivante de l'Aspect du Tueur, et même un ogre seul est capable d'encaisser et de distribuer des coups formidables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4361</ID>
+      <DefaultText>Bataille générale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4362</ID>
+      <DefaultText>Les élus Pisteur, Tueur et Survivant de cette année ont prouvé leur mérite. Le temps est venu pour les trois équipes de combattre pour l'insigne honneur du Champion de la chasse. Dans cette mêlée générale, c'est chacun pour soi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4433</ID>
+      <DefaultText>Culte du chaman nāga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4434</ID>
+      <DefaultText>Cette bataille oppose les prétendants à une poignée de nāgas venimeux dirigés par un puissant chaman capable d'invoquer des renforts et d'accroître les pouvoirs de ses alliés empoisonnés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>Épreuve d'endurance de la folie de l'animancien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4474</ID>
+      <DefaultText>Revivez les derniers instants de l'une des expériences animanciennes les plus catastrophiquement réussies. Ce combat opposera les prétendants à une horde implacable d'automates, la sécurité intégrée défectueuse de l'animancien étant la seule chance des prétendants de rétablir l'équilibre des forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4475</ID>
+      <DefaultText>Les frères de tome et de tronc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4476</ID>
+      <DefaultText>Cette bataille reconstitue l'ultime combat des frères Waidyo. Les deux frères, aussi brillants l'un que l'autre dans leur domaine de magie respectif, partageaient leurs études entre la maîtrise de leurs compétences et la manière de contrer les sorts de leur frère. Attaqués lors d'un test de laboratoire mettant en jeu leurs défenses mutuelles, les frères ont entraîné avec eux dans la Roue d'innombrables assaillants en une apothéose meurtrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>Pour la défense du mot écrit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4482</ID>
+      <DefaultText>Protégez les notes de recherche avant que les diablotins indisciplinés de l'archimage détruisent les travaux de leur maître. Même si un diablotin seul ne représente pas une grande menace, chaque ensemble de notes de recherche que détruiront les diablotins infligera une mort insidieuse cumulative aux participants non diablotins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>Tombe de Vathor Cadhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Revivez le pillage de la tombe de Vathor Cadhu. Alors que les voleurs originels en quête des richesses de ce mausolée parsemé de pièges n'y ont trouvé que trépas et désolation, peut-être connaîtrez-vous plus de réussite dans la reconstitution de cette désastreuse chasse au trésor concoctée par le Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Ketē o Pungā</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4495</ID>
+      <DefaultText>Épreuve du Change-forme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4496</ID>
+      <DefaultText>L'incarnation de Galawain aux nombreux aspects, que l'on nomme Change-forme, a lancé un défi au porteur de cette relique homonyme : L'armure du Change-forme... qui se trouve être vous. Défendez votre honneur et votre titre contre ce puissant avatar du Seigneur de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4558</ID>
+      <DefaultText>Défilé de Rebūtara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Réhabilitation de la reine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina - Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina - Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina - Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina - Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina - Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina - Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>&lt;b&gt;Seeker, Slayer, Survivor&lt;/b&gt; a été installé. Vous commencerez automatiquement la première quête de cette aventure lorsque l'intendante vous contactera, une fois que vous aurez avancé assez loin dans Pillars of Eternity II : Deadfire, vous permettant d'accéder à Kazuwari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5020</ID>
+      <DefaultText>L'intendante désire vous parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>Ilo</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

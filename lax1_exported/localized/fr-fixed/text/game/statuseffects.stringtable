@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Détermination jusqu'à la fin du combat à chaque fois qu'un membre du groupe est renversé. Cumulable {0:value:straight} fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Charmez les bêtes à proximité pendant {0:extravalue:duration} quand vous tuez une bête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>{0:value:percent} de chances, quand vous êtes frappé par une arme de corps à corps, d'infliger des dégâts perforants à l'attaquant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>{0:value:straight} de dégâts brûlants à quiconque entoure la cible en cas de coup porté (augmente avec la compétence {0:skill})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>{0:value:percent} de chances, quand vous subissez un coup critique porté par une arme de corps à corps, de modifier la Pénétration de l'attaquant de {0:extravalue}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>{0:triggervalue:bonuspercentbonus} de vitesse d'action et de dégâts d'arme par ennemi attaquant le porteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Les inspirations de Puissance appliquées au porteur sont augmentées d'1 niveau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>{0:extravalue:percentbonus} de récupération en fonction de la compétence {0:skill}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>{0:value} en Valeur d'armure. Augmente avec la compétence Athlétisme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Ne peut pas être affecté par un talisman de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Ne peut pas être affecté par un talisman arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Inflige des dégâts électriques et assomme pendant {0:extravalue:duration} tout le monde autour du porteur en cas d'inconscience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Bénéficiez d'une inspiration aléatoire pendant {0:extravalue:duration} après avoir utilisé un sort ou une compétence d'amélioration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Infligez des dégâts corrosifs en riposte quand on vous porte un coup au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup critique d'invoquer {0:extravalue:straight} dragonnets pendant {0:triggervalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>{0:value:percent} de chances de gagner Force pendant {0:extravalue:duration} chaque fois que le porteur porte un coup pendant une transformation spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Les attaques au corps à corps contre la déviation et qui ratent le porteur ont {0:value:percent} de chances d'entraîner instantanément une riposte par l'attaque principale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup critique d'infliger des dégâts givrants à une ligne d'ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Lâcher les vents applique désormais Entrave aux ennemis pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Les dégâts de Lâcher les vents sont augmentés de {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>{0:statuseffects} pendant {0:value:duration} en cas de coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>{0:value:percent} de chances quand vous tuez un ennemi d'appliquer Intoxication aux ennemis proches pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>{0:value:percent} de chances quand vous tuez un ennemi d'appliquer Terreur aux ennemis proches pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup porté avec une attaque sans arme d'appliquer {0:extravalue} en Déviation pendant {0:triggervalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup critique avec une attaque sans arme d'appliquer {0:extravalue} en Valeur d'armure pendant {0:triggervalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>{0:value:percent} de chances quand vous recevez un coup critique à l'aide d'une arme de corps à corps d'infliger {0:extravalue:straight} dégâts bruts de saignement toutes les {0:interval} pendant {0:triggervalue:duration} à l'attaquant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Restaure {0:extravalue:straight} en Santé quand vous tuez un ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Inflige des dégâts bruts aux ennemis proches quand vous tuez un ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>{0:value:percent} de chances quand vous êtes touché de gagner {0:extravalue} en Pénétration pendant {0:triggervalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Inflige des dégâts bruts toutes les {0:interval} pendant {0:extravalue:duration} en cas de coup critique (les dégâts augmentent en fonction du Focus actuelle du clairvoyant)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Gagnez {0:extravalue:percentbonus} en Allure pendant {0:triggervalue:duration} après avoir attaqué en furtivité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Après avoir appliqué une affliction touchant la Dextérité, bénéficiez d'une immunité à l'Engagement pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Distraction aux ennemis proches pendant {0:extravalue:duration} après avoir utilisé une invocation d'Incantateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>En cas de coup porté avec Carnage contre des bêtes, gagnez {0:value:percentbonus} en Vitesse d'action pendant {0:extravalue:duration} (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup porté d'immobiliser les ennemis pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup porté avec une arme contre des bêtes d'infliger Frisson pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts contre l'ennemi défié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>{0:value:percentbonus} de dégâts contre l'initié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Ce bouclier peut servir d'arme afin d'infliger des dégâts perforants/contondants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Confère les effets d'une potion ou d'un onguent aléatoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Le modal de connaissance de l'arme Chant du vent a {0:extravalue:percent} de chances d'appliquer Distraction aux ennemis Proches de la mort pendant {0:value:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

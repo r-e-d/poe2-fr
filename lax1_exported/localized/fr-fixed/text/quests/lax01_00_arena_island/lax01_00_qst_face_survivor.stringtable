@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_survivor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explorez &lt;b&gt;Tiebe o Waiapu&lt;/b&gt; pour trouver un &lt;b&gt;artefact&lt;/b&gt; du Survivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez au &lt;b&gt;Bassin des souvenirs.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Endurez le &lt;b&gt;combat du Survivant&lt;/b&gt;, une série d'épreuves du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Terrassez la &lt;b&gt;Bande de l'ours&lt;/b&gt; et devenez l'élu de l'Aspect du Survivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Si je veux gagner la faveur de l'Aspect du Survivant, je dois répondre aux exigences de la statue antique et braver les &lt;b&gt;défis du Survivant du Creuset&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tiebe o Waiapu, la région montagneuse de Kazuwari, est réputée pour être le territoire d'un &lt;b&gt;sanglier sauvage&lt;/b&gt; particulièrement féroce. Si je retourne au Creuset avec la preuve d'avoir surmonté cette marche en pleine nature, je devrais gagner la faveur de l'Aspect du Survivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai survécu au décor inhospitalier de Tiebe o Waiapu (et à son porc de garde), et recueilli un petit collier pour le prouver.
+
+Je dois offrir cet artefact au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour voir quels défis le Creuset peut en tirer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le Creuset m'a récompensé en m'accordant plus de chances de perdre la vie, ou au moins quelques membres.
+
+Je dois à présent participer au &lt;b&gt;Combat du Survivant&lt;/b&gt;, une série de combats mettant l'accent sur l'endurance et la ténacité.
+
+En sortir victorieux m'octroiera de nouvelles faveurs de l'Aspect du Survivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mes exploits dans le Creuset ont prouvé ma valeur aux yeux de l'Aspect du Survivant.
+
+Un seul autre groupe, la &lt;b&gt;Bande de l'ours&lt;/b&gt; jouit d'une estime similaire. Si je peux les vaincre dans le Creuset, je deviendrai l'élu de l'Aspect du Survivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai rencontré un autre groupe de prétendants aux épreuves de l'Aspect du Survivant : la Bande de l'ours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu la Bande de l'ours et je suis devenu l'élu de l'Aspect du Survivant. Je devrais retourner dans la &lt;b&gt;Salle des souvenirs&lt;/b&gt; pour déterminer quelles autres épreuves m'attendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

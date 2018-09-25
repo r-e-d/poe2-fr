@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_woedica_finger_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Survivant traque le doigt de la reine exilée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez le &lt;b&gt;doigt de la reine exilée&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez le &lt;b&gt;doigt de la reine exilée&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Survivant veut que j'infiltre un &lt;b&gt;temple de Woedica&lt;/b&gt; pour prélever &lt;b&gt;une partie d'une statue&lt;/b&gt; dédiée à la déesse du jugement. Que pourrait-il bien arriver ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>L'Aspect du Survivant éprouve un profond respect pour l'endurance de Woedica malgré sa chute. C'est pourquoi le sanglier veut que je récupère &lt;b&gt;une partie d'une statue&lt;/b&gt; située &lt;b&gt;dans un lieu dédié à la déesse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récupéré le doigt de la reine exilée au dernier étage du Sanctuaire de la Garante des serments. Si je veux pouvoir en profiter, je dois le rapporter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ajouté le doigt de la reine exilée au Bassin des souvenirs, ce qui m'a permis de débloquer de nouveaux défis des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

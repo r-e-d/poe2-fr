@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_potion_seller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cet elfe se tient devant un chariot, une de ses mains fines en train de tortiller un petit outil contre une épaisse lanière de cuir qu'il tient avec précaution de son autre main. Il se mordille la lèvre inférieure, les sourcils froncés sous la concentration.
+
+Les effluves âcres de cataplasmes et de potions flottent dans l'air autour de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Heureux de vous revoir. Que puis-je faire pour vous ?"
+
+L'alchimiste met de côté son instrument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Vous éclaircir la voix]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'êtes-vous en train de faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il y a des clients qui attendent d'être servis !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'homme effectue un pas de recul en inspirant vivement, jonglant brièvement avec l'outil et l'instrument, qui sont tout près de lui échapper des mains. Il laisse échapper un juron, puis lève les yeux vers vous, le regard plissé.
+
+Il cligne des yeux, et son expression de mécontentement disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous venez jeter un œil à mon assortiment de mixtures alchimiques ? La potion appropriée peut s'avérer être la différence entre la vie et la mort, là-haut sur le sable."
+
+Ouvrant la main, l'elfe fait un geste en direction de son chariot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Montrez-moi ce que vous avez à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partir] "Peut-être une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>L'homme lève les yeux vers vous une fraction de seconde avant de retourner à sa tâche, puis ses yeux s'écarquillent et se posent à nouveau sur vous. Sa bouche s'ouvre en grand, se referme, puis s'ouvre à nouveau. Il déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'appelle cela le Transmutateur auroral de Neale. Ou peut-être le Dispositif de batterie essentielle. Ou peut-être... bah, son nom importe peu. L'objet est censé recueillir et stocker l'essence ambiante sous une forme accessible, afin d'en faire un usage dynamique ultérieurement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Par les dieux, mes excuses, voyageur. J'étais juste, j'étais absorbé par, eh bien, il s'agit d'un projet personnel. Voilà maintenant que je radote."
+
+Il pose avec précaution l'outil et l'instrument sur son chariot et se frotte les paumes l'une contre l'autre.</DefaultText>
+      <FemaleText>"Par les dieux, mes excuses, voyageuse. J'étais juste, j'étais absorbé par, eh bien, il s'agit d'un projet personnel. Voilà maintenant que je radote."
+
+Il pose avec précaution l'outil et l'instrument sur son chariot et se frotte les paumes l'une contre l'autre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'homme lève les yeux vers vous une fraction de seconde avant de retourner à sa tâche, puis ses yeux s'écarquillent et se posent à nouveau sur vous. Sa bouche s'ouvre en grand, se referme, puis s'ouvre à nouveau. Il déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Par les dieux, mes excuses, voyageur. J'étais juste, j'étais absorbé par, eh bien, il s'agit d'un projet personnel. Voilà maintenant que je radote."
+
+Il pose avec précaution l'outil et l'instrument sur son chariot et se frotte les paumes l'une contre l'autre.</DefaultText>
+      <FemaleText>"Par les dieux, mes excuses, voyageuse. J'étais juste, j'étais absorbé par, eh bien, il s'agit d'un projet personnel. Voilà maintenant que je radote."
+
+Il pose avec précaution l'outil et l'instrument sur son chariot et se frotte les paumes l'une contre l'autre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Le fait de capturer de l'essence de manière aléatoire ne risque-t-il pas de créer des problèmes d'instabilité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je ne vois ni soupape de dégorgement, ni système d'échappement. Que se passe-t-il si l'objet absorbe trop d'essence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ça a l'air coûteux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oui ! Exactement !"
+
+Ses yeux et son sourire s'élargissent, égayant son expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Que - c'est, eh bien, c'est un prototype. Il y a encore du travail."
+
+Il tient l'instrument contre sa poitrine d'un geste protecteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je reconnais que c'est loin d'être idéal, mais vous noterez les circuits ramifiés et les réceptacles d'adra symétriques. La combinaison de ces éléments devrait minimiser les risques de surcharge ou de dissociation essentielle. En théorie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ceci est l'œuvre de toute ma vie. Toutes mes études, mes expériences. Mon exil forcé de la Nouvelle-Heomar. C'est l'aboutissement de mon existence."
+
+Il soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Cette jungle, et à plus forte raison cette arène, est dans un état de fluctuation essentielle constante. La densité de l'essence ambiante en ce lieu est très supérieure à tout ce que j'ai pu rencontrer ailleurs. Mais pour recueillir ce pouvoir – pour l'exploiter – il me faut l'aide d'un participant dans le Creuset."
+
+Il se passe une main dans sa tignasse, l'ébouriffant au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je peux peut-être vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"La compétition n'est pas suffisamment dangereuse comme ça, il faut en plus que je porte votre ceinture expérimentale ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous accepteriez de le faire ?"
+
+Son large sourire fait remonter ses fossettes presque au niveau de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tout ce que je vous demande serait de porter la ceinture. Pendant que vous combattez dans le Creuset, je veux dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je reviendrai vous voir après mon inscription aux combats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"J'ai débuté la compétition du Creuset. Je vais porter votre ceinture spéciale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous revoilà ! Cela signifie-t-il que la ceinture est prête ?"
+
+Ses yeux sombres vous parcourent de haut en bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"À ce propos. Il semble que j'aie égaré la ceinture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Elle dégage une certaine chaleur..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"En fait, je suis là pour jeter un œil à vos potions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je ne pense pas qu'elle soit prête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, bien sûr. Bon. Gardez-la sur vous. Elle se chargera du reste."
+
+Il se passe les doigts dans les cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Son faciès anguleux blêmit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vous... vous plaisantez ? Par les dieux, vous ne plaisantez pas, n'est-ce pas ?"
+
+Il se prend la tête entre les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Dieux tout-puissants... tout ce travail... Pourquoi ? Pourquoi ai-je fait confiance à quelqu'un d'autre ? Je ne referai plus jamais une erreur aussi stupide."
+
+Il laisse échapper un long gémissement aigu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Partir] "Peut-être une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Parfait."
+
+Neale prend la ceinture que vous lui tendez, la pose sur son chariot et relie une paire de fils de cuivre à la boucle en adra. Les fils rejoignent une petite jauge et leur extrémité est plongée dans deux fioles. Le liquide dans les fioles miroite d'essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Bien, très bien. Oui, vous avez recueilli une charge très impressionnante ! Qui sait ce que je serai capable d'accomplir avec cela !"
+
+Le visage souriant et empourpré, il pose la ceinture. Il tire du chariot un réceptacle façonné dans l'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Intéressant. La charge n'est pas encore tout à fait aussi intense que je le souhaiterais, mais c'est bien mieux qu'avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hmm... la charge est faible, mais elle sera suffisante pour commencer. Quelques analyses préliminaires. Afin de vérifier les, hum, les principes de la chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Comment comptez-vous utiliser cette énergie, une fois que je l'aurai recueillie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Les alchimistes sont limités par les substances qu'ils récoltent, vous comprenez. Mais au bout du compte, les processus dont nous nous servons tirent leur efficacité de l'essence qui se trouve en toute chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"En infusant les ingrédients de potions avec les énergies essentielles ambiantes, j'ai pour ambition d'accroître considérablement l'efficacité du processus. Le résultat final ? Une concoction quasiment illimitée !"
+
+Neale vous adresse un grand sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Il n'y aucun véritable danger, je vous l'assure. Elle pourrait peut-être – &lt;i&gt;en théorie&lt;/i&gt; – libérer de l'essence si elle venait à subir un coup trop brutal. Si elle était frappée plusieurs fois de suite, par exemple, ou si vous tombiez dessus alors que vous la portez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mais la pire des conséquences pour vous serait une décharge légère, modérée disons. Pas du tout mortelle ! En présupposant que vous n'étiez pas déjà proche de la mort, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Elle est prête. Il vous suffit de la porter pendant le combat et de revenir une fois qu'elle sera pleinement chargée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ce n'est pas tout à fait aussi simple que ça, mais... Bref, vous me trouverez ici, une fois que vous aurez pris vos dispositions. Et merci, sincèrement, merci à vous."
+
+Son sourire semble sincère et chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"C'est ce crâne qui m'a amené à emprunter cette voie. Ou du moins, ce chemin précis. Cela s'est produit de manière naturelle dans l'arène. Un champion est mort, mais son crâne était si imprégné d'essence qu'il produisait sa propre... eh bien, il ne s'agit pas exactement d'une potion, mais d'une... substance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Un instant, je vous prie."
+
+Il se retourne vers son dispositif, y apporte quelques réglages, puis se tourne à nouveau vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tenez, elle devrait pouvoir contenir une charge plus importante, désormais. À condition que vous combattiez des ennemis dotés d'âmes plus puissantes."
+
+Il vous rend la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"J'ai créé ceci avec ce que vous m'avez apporté auparavant. C'est la preuve que les théories sont sensées, que le processus fonctionne. J'aimerais vous le donner."
+
+Tandis qu'il le remet entre vos mains, de la chaleur émane du cuivre finement ouvragé du calice. Le liquide qu'il contient bouillonne doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Un instant, je vous prie."
+
+Il se retourne vers son dispositif, y apporte quelques réglages, puis se tourne à nouveau vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Tenez, elle devrait pouvoir contenir une charge plus importante, désormais. À condition que vous combattiez des ennemis dotés d'âmes plus puissantes."
+
+Il vous rend la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Voici le fruit du dernier service que vous m'avez rendu. J'aimerais pouvoir affirmer qu'il s'agit d'un succès aussi franc que le premier, mais l'ajout de l'adra semble avoir rendu le résultat quelque peu... imprévisible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je pense disposer de ce dont j'ai besoin, désormais. Je vais commencer à peaufiner la conception et, avec le temps, je serai peut-être capable de créer des dispositifs puissants et fiables permettant de préserver des vies dans tout Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nous parviendrons peut-être à rendre ce monde meilleur. Je vous remercie du fond du cœur, [Player Name]."
+
+Il cligne des yeux et son visage s'empourpre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je ne pourrai jamais assez vous remercier. Puis-je faire quoi que ce soit d'autre pour vous, avant que vous ne vous remettiez à faire avancer l'art de l'animancie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bien sûr. Voyons si vous trouvez quelque chose à votre goût."
+
+Il ouvre un grand coffre, qui recèle un assortiment de fioles, de flasques et de bouteilles soigneusement étiquetées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Bien sûr. Voyons si vous trouvez quelque chose à votre goût."
+
+Il ouvre un grand coffre, qui recèle un assortiment de fioles, de flasques et de bouteilles soigneusement étiquetées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'aurais dû m'abstenir de poser la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Donc... une ceinture..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Mes excuses. J'étais... je me laisse parfois consumer par mon travail."
+
+Il met de côté les objets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nous sommes magnifiques, n'est-ce pas ?" Tekēhu soupire et remet ses appendices en place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Nous sommes magnifiques, n'est-ce pas ?" Tekēhu soupire et remet ses appendices en place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il émet un grognement de dérision et plisse les yeux, serrant la ceinture contre sa poitrine comme s'il cherchait à la réconforter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Une ceinture ? Une ceinture ?! Eh bien, oui, c'est une ceinture. Mais c'est aussi bien plus que cela."
+
+Le regard courroucé, il passe délicatement un doigt le long des volutes de cuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"« Censé »... Le mot préféré des animanciens." Il renifle et jette un regard en coin en direction de la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Souriant fièrement, il vous montre une ceinture ornée de cuivre en filigrane. Vous remarquez de petites pierres d'adra placées au sein de l'enchevêtrement de filins. La boucle de la ceinture semble être façonnée en cuivre incrusté d'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ça n'a pas l'air d'avoir la moitié de la capacité de ma lanterne." Elle hausse les épaules, visiblement pas impressionnée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il plisse les yeux et vous prend la ceinture des mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je ne le ferai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Neale semble se recroqueviller sur lui-même ; ses traits se décomposent et ses épaules s'affaissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Cela ne serait &lt;i&gt;vraiment&lt;/i&gt; pas judicieux." Aloth se renfrogne et s'écarte de vous de quelques pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous pensez que je dormirais mieux la nuit si je portais cette ceinture ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Aloth soupire bruyamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Je comprends. Enfin, je ne le &lt;i&gt;comprends&lt;/i&gt; peut-être pas, mais je l'accepte. Si jamais... Je serai sans doute toujours ici si vous changez d'avis. Tant que vous participerez au Creuset, vous serez en mesure de m'aider à entrer dans l'Histoire."
+
+Il laisse échapper un long soupir et se détourne de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Et tout le monde sait que ça ne risquerait pas d'arriver pendant une bagarre."
+
+Serafen lève ses grands yeux verts au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Oui, le genre de chose qui ne risque pas d'arriver pendant des échanges houleux."
+
+Le doigt tordu qu'Ydwin porte à ses lèvres n'aide pas vraiment à cacher son rictus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Une idée potentiellement brillante. Si elle ne provoque pas une catastrophe."
+
+Elle se tapote pensivement la lèvre supérieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Tout ira bien !"
+
+Son objection semble un peu trop prompte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"C'est formidable ! Lors de chaque combat dans l'arène, voyez-vous, la présence d'essence culmine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Et où trouverais-je mon intérêt dans tout cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Réflexion faite, je ne pense pas que ce soit une bonne idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Au-delà de la fierté que vous ressentiriez de faire avancer la cause de l'animancie ?"
+
+Il laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je plaisante. Je vous récompenserai, bien sûr. En pièces sonnantes et trébuchantes, bien entendu, mais aussi, si les – non, &lt;i&gt;lorsque&lt;/i&gt; les expériences porteront leurs fruits, je pourrai partager ces fruits avec vous."
+
+Il fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Formidable !"
+
+Il vous tend la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Les fruits, dans ce cas, sont les concoctions. Au cas où cela n'était pas clair. Je ne fais qu'embrouiller plus encore les choses, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"On dirait que vous nous avez dégoté un autre elfe pâle animancien, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"C'est toujours mieux qu'un deuxième fumier poilu bleu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ça, ça fait mal, donzelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"En fait, je suis là pour jeter un œil à vos potions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ne voyez-vous pas que je fais mon deuil ? Revenez plus tard !"
+
+Il vous fait signe de vous en aller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ishi, éloigne-toi de là." Maia repousse son oiseau avant qu'il ne puisse plonger son bec dans le contenu du crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ça ne serait pas la première fois que je boirais d'un crâne... mais ne le dites pas à ma grande prêtresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Un crâne-gobelet qui ne se vide jamais. J'en cherchais un, justement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous croyez vraiment que je vais boire dans ce truc dégoûtant ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je ne devrais plus en avoir besoin, grâce à ce que vous m'avez apporté. Grâce à ce que vous allez m'apporter."
+
+Il sourit, mais son regard s'attarde sur le crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Tout à fait ! Il est extrêmement pratique. Oh... vous plaisantez, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Il n'est pas dégoûtant ! Je l'ai fait soigneusement nettoyer !"
+
+Il émet un grognement offusqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Par les dieux, vous êtes le Gardien de Caed Nua, n'est-ce pas ? Comment ai-je pu ne pas m'en rendre compte ? Comment ai-je pu être aussi stupide ?"
+
+Il se frotte la base de sa paume contre le front.</DefaultText>
+      <FemaleText>"Par les dieux, vous êtes la Gardienne de Caed Nua, n'est-ce pas ? Comment ai-je pu ne pas m'en rendre compte ? Comment ai-je pu être aussi stupide ?"
+
+Il se frotte la base de sa paume contre le front.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Heureux de vous revoir, monseigneur. Comment puis-je vous servir ?"
+
+Il s'incline avec déférence.</DefaultText>
+      <FemaleText>"Heureux de vous revoir, ma dame. Comment puis-je vous servir ?"
+
+Il s'incline avec déférence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Comment vos expériences avancent-elles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Très bien, grâce à vous. Si j'ai quoi que ce soit de neuf et d'intéressant à relater, je vous en informerai sans faute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Il n'y a pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"C'est &lt;i&gt;Seigneur&lt;/i&gt; [Player Name]."</DefaultText>
+      <FemaleText>"C'est &lt;i&gt;Dame&lt;/i&gt; [Player Name]."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ne crions pas ma présence sur tous les toits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Mes excuses les plus sincères. Y a-t-il... puis-je faire quoi que ce soit pour... comment puis-je vous servir ?"
+
+Il se racle la gorge et se tient plus droit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Alors comme ça, Neale est toujours vivant ? J'étais sûr qu'à l'heure qu'il est, il se serait fait voler en éclats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"C'est en partie dû à un effet magique, ou d'énergie libérée par – eh bien, la mort des combattants – mais l'arène elle-même manipule l'essence, elle aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Et bien sûr que vous me la rendiez ensuite. Bien entendu."
+
+Il déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"C'est assez impressionnant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Quel serait mon rôle dans tout cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"N'oubliez pas de respirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Il cligne des yeux, puis inspire profondément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Beau travail, petit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Vous ne pourriez pas ajouter un petit quelque chose à ces breuvages, je suppose ? Du genre alcoolisé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"C'est la meilleure idée que j'aie entendue de votre part, donzelle ! Dommage que cela ne risque pas de durer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Di verus." Elle se pince l'arête du nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Une vraie bonne idée, ma belle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"J'ai dans l'idée que l'essence sera la petite touche qui relèvera le tout." Il laisse échapper un petit rire nerveux, tenant avec précaution son invention dans ses bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Oh !"
+
+Il fouille dans son chariot, puis vous tend avec précaution un crâne humain. Un crâne humain presque entier, en tout cas. Le sommet du crâne n'est plus là, et un épais liquide rouge ondule à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Et c'est à vous que je le dois !"
+
+Il pose la ceinture et sort un calice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Quoi qu'il en soit, j'aimerais vous le donner. C'est la moindre des choses."
+
+Il presse le calice entre vos mains. Le liquide contenu à l'intérieur miroite d'une lumière prismatique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Comme c'est surprenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Comme c'est fascinant." Elle contemple le liquide d'un regard avide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Il a connu quelques mois difficiles, le fait d'être mort, tout ça."</DefaultText>
+      <FemaleText>"Elle a connu quelques mois difficiles, le fait d'être morte, tout ça."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Oh, c'est vous. Comment va votre... votre sœur, c'était bien cela ?" Neale regarde Konstanten d'un air curieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Votre fille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Votre première supposition était la bonne." Konstanten fronce les sourcils. "Bon sang, j'ai l'air si vieux que ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

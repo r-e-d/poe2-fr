@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_crossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un pont fait de cordes tressées et de planches de bois noir traverse le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Traverser le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examiner le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Traverser prudemment le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Renforcer le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Renforcer magiquement le pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Chercher un autre passage]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>L'épaisse corde est bien accrochée, chaque ligne solidement enroulée et fixée à une lourde pierre, suivie d’une autre. Les nœuds se sont rigidifiés depuis longtemps. Il est impossible de les défaire.
+
+Le soleil a décoloré les planches de bois, tirant désormais sur le gris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le bois semble plus avoir été grossièrement taillé que coupé proprement. Vous ne repérez aucune tentative de fixer définitivement les planches.
+
+La corde semble déjà solide, mais pourrait encore être renforcée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous posez une main sur la terre humide et appelez la vie qu'elle contient. Des vignes poussent, s'agrippent à la corde et au bois et envahissent le pont jusqu'à le faire passer pour une extension naturelle de la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 0] pose une main sur la terre humide. Quelques instants plus tard, des vignes poussent, s'agrippent à la corde et au bois et envahissent le pont jusqu'à le faire passer pour une extension naturelle de la jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous prononcez quelques mots de pouvoir et tracez quelques gestes arcanes avant de poser vos mains sur les supports tressés. Une épaisse toile formée de puissante essence se manifeste dans vos paumes et envahit le pont pour étayer les cordes et les planches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] énonce des mots de pouvoir et pose ses deux mains sur les supports tressés. Une épaisse toile envahit le pont pour étayer les cordes et les planches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous travailliez avec vos mains bien avant de pouvoir lire les âmes, et votre expérience vous permet de voir que le bois n'est pas le matériau le plus sûr. Sa décoloration et son irrégularité trahissent un certain degré de pourriture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Chaque pièce de bois examinée ne semble pas faite pour accueillir sereinement la pression d'un pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Le bois semble encore tout juste bon pour nourrir un feu. Il ne pourra certainement pas supporter une charge très lourde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous avancez prudemment sur le pont en vous aidant des cordes et en évitant le plus possible les planches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Les cordes fléchissent sous votre poids alors que vous entamez votre progression. Le bois grogne, mais tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Les eaux tumultueuses une centaine de mètres sous vos pieds et le léger balancement du pont ne vous perturbent pas. Vous progressez résolument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le rugissement de la rivière attire votre attention, et vous ne pouvez vous empêcher de penser à la centaine de mètres qui vous sépare de la gueule aqueuse et mortelle. Le vent se lève et agite lentement le pont.
+
+Vos intestins commencent à se rebeller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vos mains tiennent fermement les cordes, et c'est plein d'assurance que vous progressez le long de la structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Un craquement retentit, tel un coup de feu. Une planche lâche sous les pieds de [SkillCheck 0], qui disparaît entre les cordes alors que le pont tout entier frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Le pont s'agite comme un canot sur une mer agitée et vous trébuchez. Votre pied se pose lourdement sur la planche suivante et la traverse sous vos yeux horrifiés.
+
+Vous basculez vers l'avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous posez enfin le pied sur un sol plus ferme. Vous avez traversé le pont et vous retrouvez à présent dans l'épaisse jungle du centre de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Un craquement retentit, tel un coup de feu. Une planche lâche sous les pieds de [SkillCheck 0], qui disparaît entre les cordes alors que le pont tout entier frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous forcez vos muscles fatigués à obéir et parvenez à vous hisser sur le pont.
+
+Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous posez enfin le pied sur un sol plus ferme. Vous avez traversé le pont et vous retrouvez à présent dans l'épaisse jungle du centre de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Attraper [Skillcheck 0] par le poignet]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Envoyer [Player Animal Companion] à la rescousse]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Renforcer [Skillcheck 0]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Invoquer un drake]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous réagissez au quart de tour sans pour autant relâcher votre emprise sur les cordes frissonnantes. Vous tendez le bras pour attraper [Skillcheck 0] par la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 5] réagit au quart de tour et attrape [Skillcheck 0] par la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Chaque fibre de vos muscles proteste, mais vous parvenez tout de même à ramener [Skillcheck 0] en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Bondir pour attraper [Skillcheck 0] par les poignets.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous bondissez agilement, agrippez [Skillcheck 0] par la main et lui évitez ainsi une chute fatale dans le ravin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous parvenez à atteindre l'autre côté de la gorge. Le pont se balance violemment derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous grognez bruyamment, chaque fibre des muscles de vos bras et de votre dos douloureusement tendue, mais parvenez à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Player Animal Companion] et vous bondissez ensemble pour aider. Vous attrapez la main libre de [Skillcheck 0] et luttez contre la gravité tandis que [Player Animal Companion] attrape fermement vos vêtements entre ses crocs et tire de toutes ses forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous implorez [Player Deity], infusez les muscles de [Skillcheck 0] d'essence divine et tendez la main. Grâce à l'énergie du désespoir et à votre aide, [Skillcheck 0] parvient à se hisser en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Votre voix agite l'essence autour de vous et vous sentez les esprits répondre à votre incantation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>... jusqu'à l'arrivée d'un drake invoqué. En quelques battements d'aile, il remonte [Skillcheck 0] jusqu'à vous puis votre compagnon gît sur le sol humide, encore tremblant comme une feuille. Le drake repart dans les airs en vous laissant sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous suivez le bord du gouffre des deux côtés, mais ne trouvez aucun autre moyen de traverser. La rivière semble courir jusqu'à la plage où vous avez accosté et vous sépare du reste de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Skillcheck 0] vous explique que, si vous avez le temps, le pont pourrait être renforcé grâce aux matériaux trouvés sur l'île, mais que cela pourrait prendre plusieurs jours de travail périlleux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous pourriez prendre le temps de renforcer le pont en utilisant les matériaux trouvés autour de vous, mais cela exigerait plusieurs jours de travail ardus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Rebrousser chemin]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Vous passez les jours qui suivent accroché sous le pont à le renforcer à l’aide de branches et de vignes.
+
+Au bout du compte, la traversée semble quand même bien plus sûre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Vous posez le pied sur le pont renforcé, qui soutient votre poids avec une stabilité rassurante. Vous commencez la traversée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Vous baissez les yeux et trouvez [Skillcheck 0] dansant dans le vide, raccroché au pont par une seule main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ensemble, vous hissez [Skillcheck 0] en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Specified 5] grogne sous l'effort, mais parvient à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 5] pousse un cri désespéré, mais parvient à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Chercher [Skillcheck 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Crier] "[Skillcheck 0] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Toujours... dans le... coin..." répond difficilement [Skillcheck 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous appelez l'essence qui vous entoure et transférez l'énergie vers [Skillcheck 0] pour renforcer ses os et ses muscles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Yeux fermés et main levée, [Specified 0] fortifie les os et les muscles de [Skillcheck 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>La voix de [Specified 1] fend l'air et vous sentez les esprits répondre à son incantation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Skillcheck 0] hurle au moment où ses doigts glissent du pont. Elle fonce vers l'eau en agitant désespérément les bras...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Skillcheck 0] crie désespérément au moment où ses doigts glissent du pont. Il fonce vers l'eau en agitant inutilement les bras...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vos doigts s'agrippent fermement à la planche, ce qui vous permet de rester en suspens dans le vide au lieu de foncer droit vers la rivière en dessous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Vous hisser]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Appeler à l'aide]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Vous sentez des bras confiants vous attraper le poignet, puis le bras : [Specified 3] vous aide à remonter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Grognant et pestant, vous parvenez à vous hisser sur pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Se concentrer sur votre force]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous prenez quelques profondes inspirations pour vous préparer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vos mains tiennent fermement les cordes, et c'est plein d'assurance que vous progressez le long de la structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Vous posez enfin le pied sur un sol plus ferme. Vous avez traversé le pont et vous retrouvez à présent dans l'épaisse jungle du centre de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Devant vous, la jungle épaisse et humide laisse subitement place à un vaste espace vide. Un grand canyon s'ouvre sur une rivière d'écume bouillonnante loin en contrebas, vous bloquant le passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Étudier la qualité du bois]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Étudier l'intégrité des planches]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Étudier la construction du pont]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Vous ne découvrez rien d'autre à propos du pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous suivez le bord du gouffre des deux côtés, mais ne trouvez aucun autre moyen de traverser. La rivière semble courir jusqu'à la plage où vous avez accosté et vous sépare du reste de l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Grognant et pestant, vous parvenez à vous hisser sur pied.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>59</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -257,6 +257,46 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>Commencez la partie avec des bonus inhérents en Puissance, Constitution, Dextérité, Intelligence, Perception et Détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Prix réduit d'artisan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Le coût des fabrications et des enchantements est réduit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Poches pleines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Les poches sont remplies de plus d'objets et d'objets plus rares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Équipage légendaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Trois marins expérimentés uniques peuvent désormais être recrutés à la taverne de l'Œil du kraken (à prix réduit).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Découverte mythique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Une pierre d'adra mythique apparaît dans l'armoire du prologue.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

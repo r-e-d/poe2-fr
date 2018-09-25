@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>8</EntryCount>
+  <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>4700</ID>
@@ -32,16 +32,6 @@
     <Entry>
       <ID>4705</ID>
       <DefaultText>Daibō o Osa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4707</ID>
-      <DefaultText>Chaînes des royaumes détruits</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4708</ID>
-      <DefaultText>Torrent des royaumes détruits</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

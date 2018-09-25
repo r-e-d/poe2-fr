@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_fortunetellers_ear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Pisteur traque l'Oreille du diseur de bonne aventure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez l'&lt;b&gt;Oreille du diseur de bonne aventure&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez l'&lt;b&gt;Oreille du diseur de bonne aventure&lt;/b&gt; au &lt;b&gt;Bassin des souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Aspect du Pisteur veut que je parcoure le Feu éteint à la recherche de l'&lt;b&gt;Oreille du diseur de bonne aventure&lt;/b&gt;, qui se trouve être littéralement l'oreille d'un vrai diseur de bonne aventure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari a découvert que le porteur de l'Oreille du diseur de bonne aventure figure parmi les marchands de Neketaka. Commencer l'enquête par les boutiques du &lt;b&gt;promontoire de Periki&lt;/b&gt; serait un bon début.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai en ma possession l'Oreille du diseur de bonne aventure, je peux l'ajouter au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour accéder à l'histoire spirituelle qu'elle contient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai localisé l'oreille et je l'ai rapportée au Bassin des souvenirs, ce qui me permet d'accéder à un nouveau défi des Aspects de la chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

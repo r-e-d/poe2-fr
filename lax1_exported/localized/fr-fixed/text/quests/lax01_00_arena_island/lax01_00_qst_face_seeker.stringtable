@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_seeker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Pisteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez un &lt;b&gt;artefact du Pisteur&lt;/b&gt; dans l'&lt;b&gt;Étendue de Kōhatekana.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez au &lt;b&gt;Bassin des souvenirs.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Triomphez de &lt;b&gt;la Voie du Pisteur&lt;/b&gt;, la série d'épreuves du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Terrassez les Cinq muets&lt;/b&gt; et devenez l'élu de l'Aspect du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Si je veux obtenir la faveur de l'Aspect du Pisteur, je dois répondre aux exigences de la mystérieuse statue et braver les &lt;b&gt;défis du Pisteur du Creuset.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>De nombreux pisteurs disparaissent dans l'Étendue de Kōhatekana, une forêt dense sur la &lt;b&gt;côte ouest de Kazuwari.&lt;/b&gt; Si je reviens avec un &lt;b&gt;jeton des demandeurs perdus&lt;/b&gt; venus avant moi, je gagnerai la faveur de l'Aspect du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai découvert au plus profond de l'Étendue de Kōhatekana le crâne chargé d'énergie d'âme d'un explorateur défunt.
+
+Je dois rapporter cet artefact au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; pour que le Creuset puisse en absorber le passé et forger des combats à partir de ses mémoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récupéré un artefact important pour l'Aspect du Pisteur et je l'ai offert au Bassin des souvenirs pour pouvoir participer aux défis du Pisteur.
+
+Je peux à présent &lt;b&gt;lutter dans la voie du Pisteur,&lt;/b&gt; une série d'affrontements qui reposent moins sur les prouesses de combat que sur &lt;b&gt;la victoire par la ruse&lt;/b&gt;. Si j'en sors vainqueur, je gagnerai la faveur immuable de l'Aspect du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mes exploits dans le Creuset ont prouvé ma valeur aux nombreux yeux de l'Aspect du Pisteur.
+
+Un seul autre groupe, les &lt;b&gt;Cinq muets&lt;/b&gt;, est à mon niveau. Si je parviens à les vaincre dans le Creuset, je deviendrai l'élu de l'Aspect du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>L'Étendue de Kōhatekana, sur la côte ouest de Kazuwari, fourmille d'araignées, l'animal emblème de l'Aspect du Pisteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai croisé la route d'un autre groupe de prétendants en quête de la faveur du Pisteur : &lt;b&gt;les Cinq muets.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu les Cinq muets et je suis devenu l'élu de l'Aspect du Pisteur. Je devrais retourner dans la &lt;b&gt;Salle des souvenirs&lt;/b&gt; pour déterminer quelles autres épreuves m'attendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

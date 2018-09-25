@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2899</EntryCount>
+  <EntryCount>2897</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -13974,7 +13974,7 @@ En guise de symbole de son nouveau rang, Pallegina a reçu ce plastron étincela
     </Entry>
     <Entry>
       <ID>4721</ID>
-      <DefaultText>Infliger {0} dégâts avec les pouvoirs du Destructeur</DefaultText>
+      <DefaultText>Infliger {0} dégâts avec les sorts de Déchirement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16842,52 +16842,6 @@ Le journal de bord s'interrompt prématurément. Les pages restantes sont marqu�
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5354</ID>
-      <DefaultText>Vent de Wael</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5355</ID>
-      <DefaultText>Mélange de plusieurs rhums (et de tout autre alcool fort disponible) et de jus de fruits tropicaux, le vent de Wael est une boisson qui a toujours été populaire durant la période estivale du Feu éteint, où la chaleur est assommante. Inventée par les pirates Príncipi sen Patrena, cette boisson est traditionnellement servie dans une demi-coque de noix de coco.
-
-Le vent de Wael tient son nom de sa capacité légendaire à faire tomber ses buveurs à la renverse et à leur faire oublier tout souvenir de la soirée de la veille.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5357</ID>
-      <DefaultText>D'une teinte allant du transparent au léger blanc nuageux, cette liqueur est distillée à partir d'une mixture de deux riz (l'un au grain court, l'autre long) plongés dans l'eau d'une source de montagne située sur l'île d'Osa. Alcool le plus fort du Feu éteint, le daibō est en général servi tiède et est particulièrement populaire auprès de la caste des artisans.
-
-Régulièrement présent dans la culture populaire huana, surtout dans les pièces de théâtre et les chansons, le daibō o Osa a toujours été rendu principal responsable de la « dépravation » de la jeunesse huana.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5359</ID>
-      <DefaultText>Liquide brun fumé natif du Rauatai, le meppu est distillé à partir d'orge malté et décanté dans des fûts en chêne. Bien que la tradition veuille qu'on le serve coupé avec de l'eau à température ambiante, les étudiants rauatais l'ajoutent souvent à du thé chaud. Quelle que soit sa forme, il est régulièrement consommé avec du chocolat noir ou d'autres sucreries.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer chiora</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5361</ID>
-      <DefaultText>Cette variante d'une liqueur d'herbes répandue dans les Républiques de Vailia a été infusée avec de l'adra lumineux. La combinaison de l'alcool jaune et de l'adra en poudre donne une décoction verte qui luit faiblement.
-
-Seuls les plus riches marchands vailiens peuvent se vanter de posséder plus d'une bouteille de chiora, et en déboucher une à la fin d'un repas est une façon ostentatoire d'afficher sa réussite à ses invités.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5362</ID>
       <DefaultText>Adieu de Pallegina</DefaultText>
       <FemaleText />
@@ -17030,7 +16984,7 @@ Savamment imbue d'essence d'âme, la lame luit en harmonie avec ceux ayant côto
     </Entry>
     <Entry>
       <ID>5498</ID>
-      <DefaultText>Tuer {0} ennemis tout en étant touché par une affliction mentale.</DefaultText>
+      <DefaultText>Tuez {0} ennemis tout en souffrant d'une affliction touchant l'Esprit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17055,12 +17009,12 @@ Savamment imbue d'essence d'âme, la lame luit en harmonie avec ceux ayant côto
     </Entry>
     <Entry>
       <ID>5504</ID>
-      <DefaultText>Trouver le Chasseur des profondeurs.</DefaultText>
+      <DefaultText>Cherchez le Chasseur des profondeurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5505</ID>
-      <DefaultText>Trouver le vénérable de soufre.</DefaultText>
+      <DefaultText>Cherchez le vénérable de soufre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17082,7 +17036,7 @@ Après avoir décoché de sang-froid des flèches entre les yeux de deux cobayes
     </Entry>
     <Entry>
       <ID>5529</ID>
-      <DefaultText />
+      <DefaultText>Il est dit que de l'adra d'une telle densité et d'une telle vigueur ne réside qu'au cœur des piliers les plus sains et robustes. L'extraction est une tâche délicate et spécialisée, mais le résultat donne un minerai gorgé de tant d'essence malléable qu'il peut conférer de nouvelles propriétés à des outils d'une facture déjà remarquable.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17326,6 +17280,36 @@ On retrouva plus tard une dizaine de ces capes parmi des piles de livres dans un
     <Entry>
       <ID>5597</ID>
       <DefaultText>Cet objet a été trop longtemps utilisé sans entretien adéquat. Il est brisé sans aucune chance de pouvoir être réparé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5648</ID>
+      <DefaultText>Nebula</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5649</ID>
+      <DefaultText>En combat, Nebula octroiera régulièrement une inspiration à un personnage de façon aléatoire. Si vous êtes attaqué alors que vous êtes Proche de la mort, Nebula bénéficie aussi d'une petite probabilité de lancer Retrait ou Rappel de la souffrance sur vous-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5705</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5757</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5758</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

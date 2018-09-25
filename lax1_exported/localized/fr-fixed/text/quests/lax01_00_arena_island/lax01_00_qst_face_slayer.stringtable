@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_slayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Aspect du Tueur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rapportez l'&lt;b&gt;artefact du Tueur&lt;/b&gt; de la &lt;b&gt;basse plaine de Whakupoko.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez au &lt;b&gt;Bassin des souvenirs.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Venez à bout des &lt;b&gt;Bêtes du Tueur&lt;/b&gt;, la série d'épreuves du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Terrassez les Traqueurs de dragon&lt;/b&gt; et devenez l'élu de l'Aspect du Tueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Si je veux gagner la faveur de l'Aspect du Tueur, je dois répondre aux exigences de la statue assoiffée de sang et braver les &lt;b&gt;défis du Tueur du Creuset&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Des voleurs ont dérobé au Tueur un &lt;b&gt;artefact sacré&lt;/b&gt; conservé dans les archives du Creuset.
+
+On raconte que les voleurs n'ont pas réussi à quitter l'île de Kazuwari et qu'ils se cachent à l'&lt;b&gt;ouest du Creuset&lt;/b&gt;, dans une région de Kazuwari appelée la &lt;b&gt;basse plaine de Whakupoko&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai repris l'artefact du Tueur à la basse plaine de Whakupoko face à son armée de stelgaers.
+
+Offrir cet artefact au &lt;b&gt;Bassin des souvenirs&lt;/b&gt; devrait permettre au Creuset d'invoquer de nouveaux défis inspirés des mémoires de l'objet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai offert l'artefact du Tueur au Bassin des souvenirs, je suis digne d'affronter les défis du Tueur.
+
+Si je veux conserver la faveur de l'Aspect du Tueur, je dois &lt;b&gt;participer à ces duels sauvages&lt;/b&gt;. Dès que je serai prêt, le Bassin des souvenirs préparera le Creuset pour le combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ma victoire dans l'arène du Creuset m'a valu la faveur de l'Aspect du Tueur.
+
+Un seul autre groupe, les &lt;b&gt;Traqueurs de dragons&lt;/b&gt;, sont mes égaux aux yeux lumineux du Tueur. Si je peux les vaincre dans l'arène, je deviendrai l'élu de l'Aspect du Tueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai rencontré un autre groupe prêt à faire couler le sang au nom du Tueur : les Traqueurs de dragons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu les Traqueurs de dragons et je suis devenu l'élu de l'Aspect du Tueur. Je devrais retourner dans la &lt;b&gt;Salle des souvenirs&lt;/b&gt; pour déterminer quelles autres épreuves m'attendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

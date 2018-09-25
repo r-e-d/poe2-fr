@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_prefightbanter_slayers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mais c'est le Gardien !"
+
+Une voix riche de baryton retentit. Malgré le ton chaleureux, le guerrier vous scrute les yeux plissés, le regard évaluateur.</DefaultText>
+      <FemaleText>"Mais c'est la Gardienne !"
+
+Une voix riche de baryton retentit. Malgré le ton chaleureux, le guerrier vous scrute les yeux plissés, le regard évaluateur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Il est plus petit que je ne l'aurais cru."
+
+Le nain émet un grognement de dérision.</DefaultText>
+      <FemaleText>"Elle est plus petite que je ne l'aurais cru."
+
+Le nain émet un grognement de dérision.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Votre effronterie vous sera sûrement très utile dans le Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Il est plus grand que je ne l'aurais cru, mais pas de problème."
+
+Le nain hausse les épaules.</DefaultText>
+      <FemaleText>"Elle est plus grande que je ne l'aurais cru, mais pas de problème."
+
+Le nain hausse les épaules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Si ce sont là nos adversaires, la victoire est à nous."
+
+Une troupe disparate de guerriers, dotés chacun de plus d'armes qu'ils ne peuvent brandir, s'arrête à votre approche. Ils vous toisent de derrière leur casques voyants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Salut, Je m'appelle [Player Name]. Maintenant que je me suis poliment présenté, c'est à votre tour."</DefaultText>
+      <FemaleText>"Salut, Je m'appelle [Player Name]. Maintenant que je me suis poliment présentée, c'est à votre tour."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pardon, mais... qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Croiser les bras et bander les muscles sans rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je suis censé avoir déjà entendu parler de vous ? Je ne m'intéresse pas trop aux jeux du cirque."</DefaultText>
+      <FemaleText>"Je suis censée avoir déjà entendu parler de vous ? Je ne m'intéresse pas trop aux jeux du cirque."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Les ignorer et continuer à marcher]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nous sommes les Traqueurs de dragons, les Champions de la chasse en titre. Quand on sait quel type de proie nous chassons d'habitude, les kiths dans votre genre sont des cibles faciles."
+
+Le guerrier jongle avec une hache richement décorée, la faisant passer d'une main à l'autre, un sourire nonchalant aux lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Les Traqueurs de dragons ? Et ça vous arrive de les trouver, ces dragons ? Ou bien vous n'en avez jamais vus de vos yeux ? Pas très impressionnant, tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Puisse Toamowhai veiller sur vous jusqu'à ce que nous nous affrontions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sachez que nous avons tué &lt;i&gt;trois&lt;/i&gt; dragons ! Toamowhai a béni notre groupe, et bientôt vous allez voir ce que vous allez voir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Réprimer votre rire] "Trois dragons ? Voilà qui est adorable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Impressionnant, mais j'en ai tué bien plus que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Votre mère est sûrement très fière de la chose sortie de son ventre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Impressionnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Et combien de dragons avez-vous tués, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Alors, il y avait cette dragonne céleste du Northweald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai tué le dragon d'adra qui vivait sous mon château."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"J'ai tué le dragon de magma qui vivait dans les Dents de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Le dragon alpin de la Marche blanche... Je l'ai tué..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Un sentiment audacieux que je partage. Il serait dommage que vous fléchissiez et que vous nous laissiez affronter un adversaire moins digne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Nous serions ravis de continuer à bavasser, mais un combat nous attend. À plus tard."
+
+Le guerrier vous adresse un sourire en coin tandis que son groupe et lui traversent le pont-levis, savourant les acclamations de la foule en prenant place dans l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Avez-vous déjà terrassé un dragon des marais ? Non ? Eh bien, j'en ai tué un pour moi, et un pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'ai tué Neriscyrlas, la dragonne cadavérique de la Morne banquise. Je l'ai tuée quelques fois, d'ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'ai tué le dragon des mers des modeleurs d'eau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Bah... n'importe qui peut avoir une fois un coup de chance."
+
+Le guerrier croise les bras et relève le menton pour vous toiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Et alors ? Vous avez tué deux dragons, bravo. Même une horloge cassée tombe juste deux fois par jour."
+
+Il se racle la gorge et se balance d'un pied sur l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ok... donc vous en avez tué trois. &lt;i&gt;Très&lt;/i&gt; impressionnant. Nous sommes tous très impressionnés."
+
+Le guerrier vous tire une révérence moqueuse très exagérée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quatre ? Eh bien... c'est... remarquable."
+
+Il tousse doucement et baisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Le guerrier soupire pendant que vous faites l'inventaire de vos prouesses, mais il ne dit mot et se contente d'attendre la fin de la litanie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Peut-être que c'est &lt;i&gt;eux&lt;/i&gt; qu'il faudrait appeler les Traqueurs de dragons."
+
+Le bel homme aux côtés du nain intervient, mais n'obtient en guise de réponse qu'un regard noir de son chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tu veux dire les Traqueurs de dragons en série." Elle esquisse un sourire narquois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"La ferme... tous les deux."
+
+Le guerrier secoue la tête, les dents serrées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Il serait peut-être plus rapide de faire la liste des dragons que vous n'avez pas tués ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je crois que c'est à peu près tous les dragons que j'ai tués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tant mieux pour vous ! Je doute que vous surviviez à notre affrontement dans le Creuset. Mais si vous y parvenez, vous avez peut-être un avenir en tant que tueurs de dragons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ok. Nous avons... euh... un... un combat à... euh... donc..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ça en fait plus que nous", intervient son équipière glamfellen, un doigt levé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Quelle perspicacité. Garde ton intellect fulgurant pour toi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ces dragons que vous avez tués... Ils étaient réveillés quand vous leur êtes tombés dessus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"La plupart des gens semblent le penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Alors ? On a trop la trouille pour répondre ? Enfin, si vous avez peur, c'est que vous avez au moins un peu de cervelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous avez remporté le titre auparavant ? Bravo à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Eh bien... merci. La grande mêlée de la saison dernière a été ardue, mais nous avons été finalement couronnés Champions de la chasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mieux encore : nous avons attiré l'attention du Tueur. Il nous a donné le droit de porter sa Griffe en combat."
+
+Il fait reposer la hache imposante sur son épaule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Jolie hache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Avez-vous découvert pourquoi la Bête de l'augure n'était pas apparue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"N'est-ce pas ? Je vous suggérerais bien de vous en trouver une, mais elle est assez unique."
+
+Il laisse échapper un petit rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"C'est un mystère pour tout le monde, surtout pour Humaire. Elle rabâche que l'« ordre naturel » des choses est que la Bête de l'augure apparaisse à chaque cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'ai bien peur que Toamowhai nous ait maudits pour avoir été... &lt;i&gt;de mauvais invités&lt;/i&gt; du Creuset, donc... au cas où, nous essayons de nous tenir à carreau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Têtes baissées, visages blêmes et bouches cousues, les guerriers passent rapidement devant vous et entrent dans l'arène.
+
+Bien que la foule les accueille avec un tonnerre d'applaudissements, les Traqueurs de dragons semblent crispés et incertains lorsqu'ils pénètrent dans l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Toujours vivants ? Vous êtes bien plus coriaces que vous n'en avez l'air."
+
+Il esquisse un sourire narquois, une main posée sur la poignée de sa hache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Peu importe ! L'heure de vérité approche."
+
+Il tourne les talons, faisant virevolter sa cape, avant de s'éloigner à grands pas vers l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous entendez, Gardien ? Ils chantent pour votre défaite !"
+
+Il lève ses poings fermés et se gorge de l'adulation de la foule.</DefaultText>
+      <FemaleText>"Vous entendez, Gardienne ? Ils chantent pour votre défaite !"
+
+Il lève ses poings fermés et se gorge de l'adulation de la foule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Donnons à ces bonnes gens ce qu'ils désirent, les gars !"
+
+Il dégaine son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ah, formidable. Encore un groupe de tordus muets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Il émet un grognement de dédain et se crispe, les tendons de son cou se contractant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Elle est fière de ce que j'ai accompli. Mais je ne vois pas vraiment le rapport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous avez déjà oublié tous ces dragons que j'ai tués ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"J'ai bien peur que l'honneur vous revienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Par nos combats, nous honorons Toamowhai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Que les meilleurs kiths gagnent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Non. Je viens de réaliser que ça n'avait pas d'importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"On dirait que vous allez avoir l'honneur d'être tué par les Traqueurs de dragons."</DefaultText>
+      <FemaleText>"On dirait que vous allez avoir l'honneur d'être tuée par les Traqueurs de dragons."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Serafen grimace. "C'était p'tet plus malin dans votre tête, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"C'est ce que je viens de dire, non ? C'était bien ça ?" Il regarde ses compagnons. L'un d'eux hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Il ne respecte que les tueurs et les survivants. Si vous n'êtes pas au moins l'un des deux, quel honneur lui apportez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nous n'y manquerons pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"L'instant de vérité est arrivé. Ne le faisons pas attendre."
+
+Il tourne les talons, faisant virevolter sa cape, avant de s'éloigner à grands pas vers l'arène.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je compte bien être les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous avez oublié les pisteurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Vous incliner respectueusement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Mieux vaut cela que d'être traqués, Traqueurs de dragons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nous vous traquerions s'il le fallait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"En fait, je n'ai tué aucun dragon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Un ange passe pendant que les Traqueurs de dragons échangent des regards incrédules. La tension n'est rompue que par un rire étouffé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"J'ai tué Neriscyrlas, la dragonne cadavérique de la Morne banquise, mais elle s'est envolée ensuite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"« L'honneur d'être... » Par la flamme de Magran, il y a vraiment des gens à qui ça pend au nez de se faire trucider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Merci, mais ce sera sans nous." Edér hausse un sourcil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"J'ai hâte de vous croiser dans le Creuset. Notre combat sera sans aucun doute mémorable pour la foule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je ne suis pas certain que celui-là compte, aimico."</DefaultText>
+      <FemaleText>"Je ne suis pas certain que celui-là compte, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Certainement pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ne blessez pas le petit cœur du Gardien, les amis."</DefaultText>
+      <FemaleText>"Ne blessez pas le petit cœur de la Gardienne, les amis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Vous tuez des dragons. Nous tuons des dragons. Nous sommes donc sur un pied d'égalité. Ou plus égal, en tout cas."
+
+Certains des Traqueurs de dragons échangent des regards perplexes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Bâiller]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
