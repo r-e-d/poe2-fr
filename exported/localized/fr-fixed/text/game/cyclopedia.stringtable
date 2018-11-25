@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>891</EntryCount>
+  <EntryCount>892</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4789,6 +4789,11 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     <Entry>
       <ID>1061</ID>
       <DefaultText>Terme vailien signifiant « dégoût ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>Terme vailien signifiant « non ».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

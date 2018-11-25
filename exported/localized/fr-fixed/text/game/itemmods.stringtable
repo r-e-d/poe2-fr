@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1095</EntryCount>
+  <EntryCount>1089</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>À l’épreuve des dégâts brûlants</DefaultText>
+      <DefaultText>À l'épreuve des dégâts brûlants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5150,38 +5150,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1626</ID>
-      <DefaultText>Culpabilité</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1627</ID>
-      <DefaultText>Colossal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1628</ID>
-      <DefaultText>Rédemption</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1629</ID>
       <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1630</ID>
-      <DefaultText>Deuil</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1631</ID>
-      <DefaultText>Martyr</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1633</ID>
-      <DefaultText>Rupture de voile</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5391,12 +5361,12 @@
     </Entry>
     <Entry>
       <ID>1702</ID>
-      <DefaultText>Dégâts mineurs</DefaultText>
+      <DefaultText>Détérioration mineure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1703</ID>
-      <DefaultText>Dégâts modérés</DefaultText>
+      <DefaultText>Détérioration modérée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5411,7 +5381,7 @@
     </Entry>
     <Entry>
       <ID>1708</ID>
-      <DefaultText>Tempérament de dragon</DefaultText>
+      <DefaultText>Trempe de dragon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

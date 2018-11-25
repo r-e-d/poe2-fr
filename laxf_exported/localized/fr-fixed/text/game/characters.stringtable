@@ -2,8 +2,23 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2</EntryCount>
+  <EntryCount>5</EntryCount>
   <Entries>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Hauani O Whe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Vase noire gigantesque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Vase noire massive</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>1649</ID>
       <DefaultText>Belranga</DefaultText>

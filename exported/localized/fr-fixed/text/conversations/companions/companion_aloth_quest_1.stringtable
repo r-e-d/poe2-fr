@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_aloth_quest_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>212</EntryCount>
+  <EntryCount>213</EntryCount>
   <Entries>
     <Entry>
       <ID>4</ID>
@@ -1110,6 +1110,11 @@ Il se gratte l'arrière de la tête.</DefaultText>
       <DefaultText>"C'était comme regarder un supplice de la quille... brutal."
 
 Serafen grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"De toutes les personnes que j'ai connues, vous êtes celle qui a traversé le plus d'épreuves à mes côtés." Il joint les mains, ses doigts s'entremêlant.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

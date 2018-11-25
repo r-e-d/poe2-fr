@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4533</EntryCount>
+  <EntryCount>4547</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -19992,7 +19992,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4321</ID>
-      <DefaultText>Dhrwgas silencieux</DefaultText>
+      <DefaultText>Dhwrgas silencieux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22623,7 +22623,7 @@ Vous pourrez relire la page Workshop du mod avant de la publier.</DefaultText>
     </Entry>
     <Entry>
       <ID>4971</ID>
-      <DefaultText>Mod de mise à jour</DefaultText>
+      <DefaultText>Mettre à jour le mod</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22788,7 +22788,7 @@ Vous pourrez relire la page Workshop du mod avant de la publier.</DefaultText>
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText>Terminez tous les chemins de quête critiques avant les dates spécifiées ou le jeu prend fin.</DefaultText>
+      <DefaultText>Terminez toutes les missions de la quête principale avant les dates spécifiées ou le jeu prend fin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22803,7 +22803,7 @@ Vous pourrez relire la page Workshop du mod avant de la publier.</DefaultText>
     </Entry>
     <Entry>
       <ID>5025</ID>
-      <DefaultText>Permet au lanceur de modifier la zone d'effet des sorts de ce type, ce qui influe sur le niveau de pouvoir.</DefaultText>
+      <DefaultText>Permet au lanceur de modifier la zone d'effet des sorts, ce qui influe sur leur Niveau de pouvoir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22867,7 +22867,7 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5068</ID>
-      <DefaultText>Ce personnage a été exporté depuis une partie où les codes de triche étaient activés. Importer ce personnage peut avoir un impact sur la difficulté du jeu. Continuer ?</DefaultText>
+      <DefaultText>Ce personnage provient d'une partie où les codes de triche étaient activés. Vous devez activer les codes de triche pour importer ce personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22922,7 +22922,7 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5094</ID>
-      <DefaultText>Afficher le texte d'agrément des cinématiques de mort</DefaultText>
+      <DefaultText>Texte d'agrément des cinématiques de mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23077,127 +23077,197 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5131</ID>
-      <DefaultText>Afficher les capacités d'usage fréquent</DefaultText>
+      <DefaultText>Afficher les capacités les plus utilisées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5132</ID>
-      <DefaultText>Affiche une barre avec les capacités les plus fréquemment utilisées au-dessus de votre barre de capacités. En plus de la plus récente, celle-ci contiendra 5 capacités parmi les plus souvent utilisées.</DefaultText>
+      <DefaultText>Affiche une barre avec les capacités les plus fréquemment utilisées au-dessus de votre barre de capacités. En plus de la plus récente, celle-ci affichera automatiquement les 5 capacités les plus souvent utilisées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5133</ID>
-      <DefaultText />
+      <DefaultText>Musique réactive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5134</ID>
-      <DefaultText />
+      <DefaultText>Lorsque cette option est désactivée, la musique d'exploration ne change pas lors des phases d'infiltration et des conversations. La musique reste telle qu'elle a été composée à l'origine. Activer cette option change la façon dont les musiques d'exploration sont jouées durant les phases d'exploration et d'infiltration ainsi que les conversations.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5135</ID>
-      <DefaultText />
+      <DefaultText>Tous les événements</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5136</ID>
-      <DefaultText />
+      <DefaultText>Événements de groupe uniquement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5137</ID>
-      <DefaultText />
+      <DefaultText>Événements des ennemis uniquement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5138</ID>
-      <DefaultText />
+      <DefaultText>{0} est un objet de quête qui ne peut pas être exporté. Déséquipez l'objet avant d'exporter ce personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5139</ID>
-      <DefaultText />
+      <DefaultText>Créé avec des codes de triche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5140</ID>
-      <DefaultText />
+      <DefaultText>Hors-combat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5141</ID>
-      <DefaultText />
+      <DefaultText>Barre de compétence</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5142</ID>
-      <DefaultText />
+      <DefaultText>Barre d'action</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5143</ID>
-      <DefaultText />
+      <DefaultText>Journal de combat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5145</ID>
-      <DefaultText />
+      <DefaultText>Infobulle en combat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5147</ID>
-      <DefaultText />
+      <DefaultText>Jeu en pause</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5149</ID>
-      <DefaultText />
+      <DefaultText>Choisissez quand afficher certains des éléments de l'affichage tête haute pendant et en dehors des combats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>Défi de Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>Au bout d'un certain temps, la nourriture devient avariée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5152</ID>
-      <DefaultText />
+      <DefaultText>Devient avarié(e) après</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5153</ID>
-      <DefaultText />
+      <DefaultText>Avarié·e </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Défi d'Hylea</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5159</ID>
-      <DefaultText />
+      <DefaultText>Impossible d'exporter des personnages au cours d'un combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5161</ID>
-      <DefaultText />
+      <DefaultText>Importer personnage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5162</ID>
-      <DefaultText />
+      <DefaultText>Importer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5163</ID>
-      <DefaultText />
+      <DefaultText>Partir de zéro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5164</ID>
-      <DefaultText />
+      <DefaultText>Choisissez un personnage préconçu pour commencer et modifiez le à votre guise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5165</ID>
-      <DefaultText />
+      <DefaultText>Créez un tout nouveau personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5169</ID>
-      <DefaultText />
+      <ID>5193</ID>
+      <DefaultText>Vela suit le Gardien et doit rester vivante, sans quoi la partie sera terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5194</ID>
+      <DefaultText>Infobulle en combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5196</ID>
+      <DefaultText>Ne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5197</ID>
+      <DefaultText>La dame d'Élégie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5209</ID>
+      <DefaultText>Votre espace de sockage cloud est plein. Supprimez des parties sauvegardées ou des personnages exportés, puis réessayez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5210</ID>
+      <DefaultText>Espace disponible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5211</ID>
+      <DefaultText>L'image d'aperçu dépasse 1 MB.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5212</ID>
+      <DefaultText>Défi d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5214</ID>
+      <DefaultText>Mythique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5220</ID>
+      <DefaultText>Ne peut pas utiliser de capacités non-sorts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5224</ID>
+      <DefaultText>Défi de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5225</ID>
+      <DefaultText>Plat préparé</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

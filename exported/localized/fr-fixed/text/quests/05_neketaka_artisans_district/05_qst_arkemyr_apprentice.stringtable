@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_apprentice</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>28</EntryCount>
+  <EntryCount>29</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -132,6 +132,11 @@
     <Entry>
       <ID>30004</ID>
       <DefaultText>Fassina était très déçue de ne pas récupérer ses gants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Avec des sujets plus importants à traiter, Fassina ne se préoccupait plus de Bertenno.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,8 +2,28 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>13</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Fusion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4800</ID>
+      <DefaultText>Liaison covalente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Solvant corrosif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4806</ID>
+      <DefaultText>Symbiote</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4836</ID>
       <DefaultText>Cri fracassant</DefaultText>
@@ -27,6 +47,16 @@
     <Entry>
       <ID>4851</ID>
       <DefaultText>Colère de l'impératrice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4857</ID>
+      <DefaultText>Fusion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Le porteur fusionne avec un allié cible, lui accordant un énorme bonus de pouvoir et de Santé. En contrepartie, le porteur se retire du combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

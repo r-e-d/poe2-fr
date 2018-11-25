@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1</EntryCount>
+  <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1082</ID>
@@ -13,6 +13,19 @@
 La Société de protection des visiteurs du Feu éteint ne peut en aucun cas être tenue responsable des préjudices causés par des risques sciemment ignorés, et tous les efforts ont été réalisés afin d'ÉLOIGNER les voyageurs des coordonnées suivantes : 8° 53' Nord, 45° 25' Est. »
 
 Une carte montrant l'emplacement de Belranga est marquée d'un sceau de cire en forme de crâne. La carte indique une île à l'ouest du Mortier d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Ce guide de voyage s'adresse aux nouveaux arrivants dans l'archipel du Feu éteint. Un passage se démarque des autres :
+
+"Ne vous débarrassez EN AUCUN CAS de votre bétail en l'envoyant dans la gueule d'Hauani O Whe. À cause des pèlerins naïfs qui la vénèrent comme une divinité, cette ABOMINATION PRIMORDIALE a grandi jusqu'à atteindre la taille d'une montagne.
+
+ATTENTION ! Hauani O Whe crache un symbiote qui &lt;i&gt;blesse&lt;/i&gt; les hôtes immobiles et &lt;i&gt;se réplique&lt;/i&gt; sur ceux en mouvement. Contentez-vous D'ÉVITER à tout prix la créature sous peine de vous exposer à un GRAVE DANGER, à une &lt;i&gt;INFESTATION,&lt;/i&gt; AINSI QU'À UNE MORT QUASI-CERTAINE.
+
+Comme toujours, la Société de préservation des visiteurs du Feu éteint n'est en aucun cas responsable des &lt;xg&gt;blessures&lt;/xg&gt; que vous pourriez subir en passant outre nos avertissements. Nous avons fait tout notre possible pour tenir les voyageurs ÉLOIGNÉS des coordonnées suivantes : 25° 52' S 34° 22' E."
+
+Une carte révélant l'emplacement de Hauani O Whe est frappée d'un sceau de cire en forme de crâne. Elle indique une lagune au sud de Dunnage.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

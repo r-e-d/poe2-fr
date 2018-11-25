@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3363</EntryCount>
+  <EntryCount>3361</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11557,7 +11557,7 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3371</ID>
-      <DefaultText>Jet de pierre</DefaultText>
+      <DefaultText>Pique de tentacule</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16783,7 +16783,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4775</ID>
-      <DefaultText>Au début du combat, le porteur est submergé par les flammes, ce qui augmente sa réduction des dégâts givrants et inflige des dégâts brûlants à quiconque lui inflige des dégâts avec une arme de corps à corps.</DefaultText>
+      <DefaultText>Au début du combat, le porteur est submergé par les flammes, ce qui augmente sa Valeur d'armure contre les dégâts givrants et inflige des dégâts brûlants à quiconque lui inflige des dégâts avec une attaque au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16803,7 +16803,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4779</ID>
-      <DefaultText>Au début du combat, le porteur est submergé par les flammes, ce qui augmente sa réduction des dégâts givrants et inflige des dégâts brûlants à quiconque lui inflige des dégâts avec une arme de corps à corps.</DefaultText>
+      <DefaultText>Au début du combat, le porteur est submergé par les flammes, ce qui augmente sa Valeur d'armure contre les dégâts givrants et inflige des dégâts brûlants à quiconque lui inflige des dégâts avec une attaque au corps à corps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16813,7 +16813,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4781</ID>
-      <DefaultText>(Bouclier de feu supérieur) - Le porteur bénéficie d'une plus grande réduction des dégâts givrants et les ripostes infligent des dégâts supplémentaires.</DefaultText>
+      <DefaultText>(Bouclier de feu supérieur) - Le porteur bénéficie d'une plus grande Valeur d'armure contre les dégâts givrants et les ripostes infligent des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16822,43 +16822,8 @@ Aucun.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4807</ID>
-      <DefaultText>Force colossale</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4808</ID>
-      <DefaultText>Encombré</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4809</ID>
-      <DefaultText>Rédemption</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4818</ID>
-      <DefaultText>Deuil</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4819</ID>
       <DefaultText>Émergence de magma</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4820</ID>
-      <DefaultText>Culpabilité</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4823</ID>
-      <DefaultText>Rupture de voile</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4824</ID>
-      <DefaultText>Martyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16933,7 +16898,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4871</ID>
-      <DefaultText>(Flamme intemporelle) - Désormais, les alliés reçoivent aussi une armure contre les dégâts brûlants (l'effet est plus important entre les mains d'un Paladini Darcozzi)</DefaultText>
+      <DefaultText>(Flamme intemporelle) - Désormais, les alliés reçoivent aussi de la Valeur d'armure contre les dégâts brûlants (l'effet est plus important entre les mains d'un Paladini Darcozzi)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17013,7 +16978,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>4887</ID>
-      <DefaultText>Tant que Zorro vous suit, vous bénéficiez d'un bonus en Résolution et votre groupe reçoit un bonus en Réflexes.</DefaultText>
+      <DefaultText>Tant que Zorro vous suit, vous bénéficiez d'un bonus en Détermination et votre groupe reçoit un bonus en Réflexes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17172,6 +17137,18 @@ Aucun.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4939</ID>
+      <DefaultText>Redimensionnement des sorts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4940</ID>
+      <DefaultText>Pendant le lancement des sorts à effet de zone, vous gagnez la capacité d'augmenter ou de réduire la taille de leur zone, ce qui réduit ou augmente leur Niveau de pouvoir.
+
+(Utilisez les commandes de zoom pendant le ciblage du sort pour modifier la zone. Notez que certains sorts ne peuvent pas être redimensionnés)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5025</ID>
       <DefaultText>En combat, Nebula octroiera régulièrement une inspiration à un personnage de façon aléatoire. Si vous êtes attaqué alors que vous êtes Proche de la mort, Nebula bénéficie aussi d'une petite probabilité de lancer Retrait ou Souvenirs d'agonie sur vous-même.</DefaultText>
       <FemaleText />
@@ -17182,13 +17159,18 @@ Aucun.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5062</ID>
+      <DefaultText>Effrayée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5065</ID>
       <DefaultText>Accéléré</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5066</ID>
-      <DefaultText>Haussier</DefaultText>
+      <DefaultText>Hardi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17198,12 +17180,22 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>5068</ID>
-      <DefaultText>Rôder</DefaultText>
+      <DefaultText>Rôdeur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5069</ID>
-      <DefaultText>Volatil</DefaultText>
+      <DefaultText>Volatile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Faveur d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5134</ID>
+      <DefaultText>Autodétruire</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

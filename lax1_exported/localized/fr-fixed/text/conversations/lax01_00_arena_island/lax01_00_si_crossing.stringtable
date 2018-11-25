@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>L'épaisse corde est bien accrochée, chaque ligne solidement enroulée et fixée à une lourde pierre, suivie d’une autre. Les nœuds se sont rigidifiés depuis longtemps. Il est impossible de les défaire.
+      <DefaultText>L'épaisse corde est bien accrochée, chaque ligne solidement enroulée et fixée à une lourde pierre, suivie d'une autre. Les nœuds se sont rigidifiés depuis longtemps. Il est impossible de les défaire.
 
 Le soleil a décoloré les planches de bois, tirant désormais sur le gris.</DefaultText>
       <FemaleText />
@@ -151,7 +151,7 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Attraper [Skillcheck 0] par le poignet]</DefaultText>
+      <DefaultText>[Attraper [SkillCheck 0] par le poignet]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[Renforcer [Skillcheck 0]]</DefaultText>
+      <DefaultText>[Renforcer [SkillCheck 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,27 +171,27 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Vous réagissez au quart de tour sans pour autant relâcher votre emprise sur les cordes frissonnantes. Vous tendez le bras pour attraper [Skillcheck 0] par la main.</DefaultText>
+      <DefaultText>Vous réagissez au quart de tour sans pour autant relâcher votre emprise sur les cordes frissonnantes. Vous tendez le bras pour attraper [SkillCheck 0] par la main.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[Specified 5] réagit au quart de tour et attrape [Skillcheck 0] par la main.</DefaultText>
+      <DefaultText>[Specified 5] réagit au quart de tour et attrape [SkillCheck 0] par la main.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Chaque fibre de vos muscles proteste, mais vous parvenez tout de même à ramener [Skillcheck 0] en sécurité.</DefaultText>
+      <DefaultText>Chaque fibre de vos muscles proteste, mais vous parvenez tout de même à ramener [SkillCheck 0] en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[Bondir pour attraper [Skillcheck 0] par les poignets.]</DefaultText>
+      <DefaultText>[Bondir pour attraper [SkillCheck 0] par les poignets.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Vous bondissez agilement, agrippez [Skillcheck 0] par la main et lui évitez ainsi une chute fatale dans le ravin.</DefaultText>
+      <DefaultText>Vous bondissez agilement, agrippez [SkillCheck 0] par la main et lui évitez ainsi une chute fatale dans le ravin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,17 +201,17 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Vous grognez bruyamment, chaque fibre des muscles de vos bras et de votre dos douloureusement tendue, mais parvenez à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <DefaultText>Vous grognez bruyamment, chaque fibre des muscles de vos bras et de votre dos douloureusement tendue, mais parvenez à hisser [SkillCheck 0] en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[Player Animal Companion] et vous bondissez ensemble pour aider. Vous attrapez la main libre de [Skillcheck 0] et luttez contre la gravité tandis que [Player Animal Companion] attrape fermement vos vêtements entre ses crocs et tire de toutes ses forces.</DefaultText>
+      <DefaultText>[Player Animal Companion] et vous bondissez ensemble pour aider. Vous attrapez la main libre de [SkillCheck 0] et luttez contre la gravité tandis que [Player Animal Companion] attrape fermement vos vêtements entre ses crocs et tire de toutes ses forces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Vous implorez [Player Deity], infusez les muscles de [Skillcheck 0] d'essence divine et tendez la main. Grâce à l'énergie du désespoir et à votre aide, [Skillcheck 0] parvient à se hisser en sécurité.</DefaultText>
+      <DefaultText>Vous implorez [Player Deity], infusez les muscles de [SkillCheck 0] d'essence divine et tendez la main. Grâce à l'énergie du désespoir et à votre aide, [SkillCheck 0] parvient à se hisser en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>... jusqu'à l'arrivée d'un drake invoqué. En quelques battements d'aile, il remonte [Skillcheck 0] jusqu'à vous puis votre compagnon gît sur le sol humide, encore tremblant comme une feuille. Le drake repart dans les airs en vous laissant sur le pont.</DefaultText>
+      <DefaultText>... jusqu'à l'arrivée d'un drake invoqué. En quelques battements d'aile, il remonte [SkillCheck 0] jusqu'à vous puis votre compagnon gît sur le sol humide, encore tremblant comme une feuille. Le drake repart dans les airs en vous laissant sur le pont.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Skillcheck 0] vous explique que, si vous avez le temps, le pont pourrait être renforcé grâce aux matériaux trouvés sur l'île, mais que cela pourrait prendre plusieurs jours de travail périlleux.</DefaultText>
+      <DefaultText>[SkillCheck 0] vous explique que, si vous avez le temps, le pont pourrait être renforcé grâce aux matériaux trouvés sur l'île, mais que cela pourrait prendre plusieurs jours de travail périlleux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@ Vous vous relevez, tremblant comme une feuille, mais vivant.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Vous passez les jours qui suivent accroché sous le pont à le renforcer à l’aide de branches et de vignes.
+      <DefaultText>Vous passez les jours qui suivent accroché sous le pont à le renforcer à l'aide de branches et de vignes.
 
 Au bout du compte, la traversée semble quand même bien plus sûre.</DefaultText>
       <FemaleText />
@@ -258,47 +258,47 @@ Au bout du compte, la traversée semble quand même bien plus sûre.</DefaultTex
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Vous baissez les yeux et trouvez [Skillcheck 0] dansant dans le vide, raccroché au pont par une seule main.</DefaultText>
+      <DefaultText>Vous baissez les yeux et trouvez [SkillCheck 0] dansant dans le vide, raccroché au pont par une seule main.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Ensemble, vous hissez [Skillcheck 0] en sécurité.</DefaultText>
+      <DefaultText>Ensemble, vous hissez [SkillCheck 0] en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Specified 5] grogne sous l'effort, mais parvient à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <DefaultText>[Specified 5] grogne sous l'effort, mais parvient à hisser [SkillCheck 0] en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>[Specified 5] pousse un cri désespéré, mais parvient à hisser [Skillcheck 0] en sécurité.</DefaultText>
+      <DefaultText>[Specified 5] pousse un cri désespéré, mais parvient à hisser [SkillCheck 0] en sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[Chercher [Skillcheck 0].]</DefaultText>
+      <DefaultText>[Chercher [SkillCheck 0].]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[Crier] "[Skillcheck 0] !"</DefaultText>
+      <DefaultText>[Crier] "[SkillCheck 0] !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Toujours... dans le... coin..." répond difficilement [Skillcheck 0].</DefaultText>
+      <DefaultText>"Toujours... dans le... coin..." répond difficilement [SkillCheck 0].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Vous appelez l'essence qui vous entoure et transférez l'énergie vers [Skillcheck 0] pour renforcer ses os et ses muscles.</DefaultText>
+      <DefaultText>Vous appelez l'essence qui vous entoure et transférez l'énergie vers [SkillCheck 0] pour renforcer ses os et ses muscles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Yeux fermés et main levée, [Specified 0] fortifie les os et les muscles de [Skillcheck 0].</DefaultText>
+      <DefaultText>Yeux fermés et main levée, [Specified 0] fortifie les os et les muscles de [SkillCheck 0].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,12 +308,12 @@ Au bout du compte, la traversée semble quand même bien plus sûre.</DefaultTex
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[Skillcheck 0] hurle au moment où ses doigts glissent du pont. Elle fonce vers l'eau en agitant désespérément les bras...</DefaultText>
+      <DefaultText>[SkillCheck 0] hurle au moment où ses doigts glissent du pont. Elle fonce vers l'eau en agitant désespérément les bras...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[Skillcheck 0] crie désespérément au moment où ses doigts glissent du pont. Il fonce vers l'eau en agitant inutilement les bras...</DefaultText>
+      <DefaultText>[SkillCheck 0] crie désespérément au moment où ses doigts glissent du pont. Il fonce vers l'eau en agitant inutilement les bras...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

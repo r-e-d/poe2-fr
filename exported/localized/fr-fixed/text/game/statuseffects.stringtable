@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>555</EntryCount>
+  <EntryCount>553</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2625,16 +2625,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>605</ID>
-      <DefaultText>En cas de coup porté, inflige {0:value} en Résolution au porteur et à l'ennemi (cumulable 5 fois)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>609</ID>
-      <DefaultText>Confère {0:value} en Puissance à chaque fois qu'un membre du groupe est mis KO</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>612</ID>
       <DefaultText>Inflige des dégâts perforants ou électriques (le meilleur, selon la situation)</DefaultText>
       <FemaleText />
@@ -2716,12 +2706,12 @@
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Détermination aux alliés à proximité</DefaultText>
+      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Fermeté aux alliés à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>642</ID>
-      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Détermination, Opiniâtreté ou Courage aux alliés à proximité</DefaultText>
+      <DefaultText>En cas de dégâts reçus, {0:value:percent} de chances de conférer Fermeté, Opiniâtreté ou Courage aux alliés à proximité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

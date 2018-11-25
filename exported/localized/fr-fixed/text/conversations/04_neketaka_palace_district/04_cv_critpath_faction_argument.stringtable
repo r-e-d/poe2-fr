@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_critpath_faction_argument</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>152</EntryCount>
+  <EntryCount>154</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -859,7 +859,7 @@ Quelque chose qu'elle préfère ne pas divulguer.</DefaultText>
       <ID>231</ID>
       <DefaultText>"Ac, parfitto. Vous comptez arrêter Éothas en lui tirant dessus ?"
 
-"Sèrre Pallegina accompagnera le Gardien. Montrez-lui comment les Républiques règlent leurs problèmes."
+"Sérre Pallegina accompagnera le Gardien. Montrez-lui comment les Républiques règlent leurs problèmes."
 
 Nirro esquisse un geste de la main.</DefaultText>
       <FemaleText />
@@ -884,6 +884,18 @@ Nirro esquisse un geste de la main.</DefaultText>
     <Entry>
       <ID>235</ID>
       <DefaultText>"Vous faites erreur, Gardien. En ces temps instables, les alliés dignes de confiance sont nos plus grands atouts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Nous n'avons pas de temps à perdre ! Éothas est allé à la Gueule cendrée, aux Dents de Magran. Je dois le suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Le silence tombe sur la salle. Courtisans et émissaires se toisent les uns les autres, comme s'ils cherchaient à déterminer lequel d'entre eux allait éclater de rire le premier.
+
+Un regard sévère de la part de la reine Onekaza suffit à figer chaque air inquisiteur dans le marbre.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

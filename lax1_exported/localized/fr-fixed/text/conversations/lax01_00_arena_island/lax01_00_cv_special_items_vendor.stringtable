@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax01_00_arena_island\lax01_00_cv_special_items_vendor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>208</EntryCount>
+  <EntryCount>209</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1119,6 +1119,11 @@ L'esprit vous domine, les mains posées sur ses hanches fantomatiques.</DefaultT
 
 L'âme secoue la tête.</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Kazuwari a besoin de vous, champion ! Allez-y ! Sauvez-la !"</DefaultText>
+      <FemaleText>"Kazuwari a besoin de vous, championne ! Allez-y ! Sauvez-la !"</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

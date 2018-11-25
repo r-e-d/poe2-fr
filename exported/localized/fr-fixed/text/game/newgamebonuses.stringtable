@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>59</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -260,6 +260,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>51</ID>
+      <DefaultText>Passé ignoble</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Commencez avec la compétence passive Capitaine tristement célèbre (comme si vous aviez survécu à une mutinerie).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>53</ID>
       <DefaultText>Prix réduit d'artisan</DefaultText>
       <FemaleText />
@@ -287,6 +297,16 @@
     <Entry>
       <ID>58</ID>
       <DefaultText>Trois marins expérimentés uniques peuvent désormais être recrutés à la taverne de l'Œil du kraken (à prix réduit).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>... Je peux quand même le caresser ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Edér déverrouille l'emplacement d'animal de compagnie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

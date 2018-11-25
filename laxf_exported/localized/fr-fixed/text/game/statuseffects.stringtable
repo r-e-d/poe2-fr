@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>chatter\00_companions\ch_sidekick_ryona_voice_set</Name>
+  <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
-      <ID>48</ID>
-      <DefaultText />
+      <ID>597</ID>
+      <DefaultText>À chaque pas, des morceaux du symbiote se détachent et tombent</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

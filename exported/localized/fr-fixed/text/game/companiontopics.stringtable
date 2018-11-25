@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\companiontopics</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>91</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -457,6 +457,11 @@
     <Entry>
       <ID>96</ID>
       <DefaultText>{0:Name} n'aime pas que l'on vénère ou même que l'on admire les divins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>{0:Name} croit que, par nature, les divins influent de manière positive sur Eora, ce qui bénéficie à la religion et à la société.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

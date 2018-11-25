@@ -90,7 +90,7 @@ Son crâne vous fait face, à l'envers, les mâchoires grandes ouvertes. Ses den
       <ID>20</ID>
       <DefaultText>Les bras tordus et les jambes cassées indiquent que l'humain que fut un jour ce squelette a connu une mort douloureuse. De profondes entailles au niveau du sternum et des entailles dans la cage thoracique trahissent plusieurs perforations au torse... très certainement à l'origine de la mort.
 
-Si l’on combine cela à la position verticale du corps placé sur d'épaisses pierres et son emplacement au centre de la gueule du squelette, vous en arrivez à une seule conclusion : c'est un sacrifice.</DefaultText>
+Si l'on combine cela à la position verticale du corps placé sur d'épaisses pierres et son emplacement au centre de la gueule du squelette, vous en arrivez à une seule conclusion : c'est un sacrifice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,14 +117,14 @@ Si l’on combine cela à la position verticale du corps placé sur d'épaisses 
       <ID>27</ID>
       <DefaultText>Vous progressez silencieusement et prudemment dans la végétation épaisse de la jungle.
 
-Vous entendez un juron étouffé. Quand vous vous retournez, vous trouvez [Skillcheck 0] grimaçant, le bras prisonnier d'une ronce.
+Vous entendez un juron étouffé. Quand vous vous retournez, vous trouvez [SkillCheck 0] grimaçant, le bras prisonnier d'une ronce.
 
 Le trottinement de sabots envahit l'air épais...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>En vous approchant du squelette, vous remarquez que plusieurs éléments de décoration y sont accrochés. Gravés dans le bois et l’os, ils pendent de la mâchoire et des côtes.</DefaultText>
+      <DefaultText>En vous approchant du squelette, vous remarquez que plusieurs éléments de décoration y sont accrochés. Gravés dans le bois et l'os, ils pendent de la mâchoire et des côtes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@ Vous entendez aussi du mouvement à votre droite.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>En vous approchant du squelette, vous remarquez que plusieurs éléments de décoration y sont accrochés. Gravés dans le bois et l’os, ils pendent de la mâchoire et des côtes.</DefaultText>
+      <DefaultText>En vous approchant du squelette, vous remarquez que plusieurs éléments de décoration y sont accrochés. Gravés dans le bois et l'os, ils pendent de la mâchoire et des côtes.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2</EntryCount>
+  <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>4974</ID>
@@ -10,8 +10,18 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4984</ID>
+      <DefaultText>Lagon des eaux troubles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4986</ID>
       <DefaultText>L'impératrice mangeuse de cristal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4987</ID>
+      <DefaultText>La Montagne vorace</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1512</EntryCount>
+  <EntryCount>1527</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7525,11 +7525,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1648</ID>
-      <DefaultText>Ryona</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1656</ID>
       <DefaultText />
       <FemaleText />
@@ -7562,6 +7557,86 @@
     <Entry>
       <ID>1715</ID>
       <DefaultText>Doru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1762</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>RDC Vessel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>[TEMP] Generic RDC Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>[TEMP] Generic RDC Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>[TEMP] Generic RDC High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>[TEMP] Generic Principi Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>[TEMP] Generic Principi Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>[TEMP] Generic Principi High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>[TEMP] Generic Huana Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>[TEMP] Generic Huana Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>[TEMP] Generic Huana High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>[TEMP] Generic VTC Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>[TEMP] Generic VTC Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>[TEMP] Generic VTC High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>[TEMP] Huana Vessel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>[TEMP] Principi Vessel</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
