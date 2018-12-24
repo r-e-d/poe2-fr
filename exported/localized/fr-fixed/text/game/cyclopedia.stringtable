@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>892</EntryCount>
+  <EntryCount>905</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4104,7 +4104,7 @@ Il peut arriver que les ours du Feu éteint soient attaqués par des tigres. Les
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Ne</DefaultText>
+      <DefaultText>Né</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4794,6 +4794,71 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     <Entry>
       <ID>1093</ID>
       <DefaultText>Terme vailien signifiant « non ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>Vitesse d'action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Les personnages possédant une Vitesse d'action élevée terminent leurs actions plus vite et se rétablissent plus rapidement après.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Nilkzenze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Une salutation ixamitl cordiale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>Langues, ixamitl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>Terrifiant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Terrifier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Inspirations corporelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>Les inspirations qui influent sur les attributs de Puissance, de Constitution et de Dextérité sont appelées inspirations corporelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>Inspiration corporelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>Inspirations mentales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>Les inspirations qui influent sur les attributs d'Intelligence, de Perception et de Détermination font partie des inspirations mentales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>Inspiration mentale</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>173</EntryCount>
+  <EntryCount>180</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
@@ -868,7 +868,7 @@ Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Capituler]</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Surrender"&gt;&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Capituler]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,7 +936,46 @@ Des acclamations retentissent parmi l'équipage du [ShipDuel_Opponent]. [ShipDue
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; "Pas de quartier ! Chargez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>L'équipage marmonne nerveusement tandis que vous donnez l'ordre de charger. Le [ShipDuel_PlayerShip] sera exposé aux tirs de traverse :
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Chargez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Réflexion faite..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Flee"&gt;&lt;sprite="Inline" name="action_flee" tint=1&gt;&lt;/link&gt; "Battez en retraite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Vous ordonnez à votre équipage de fuir en toute hâte.
+
+Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Votre équipage évalue mal la direction du vent, ne réussissant pas à prendre suffisamment de vitesse pour s'échapper. Les voiles du navire pendant sèchement sur leurs mâts.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

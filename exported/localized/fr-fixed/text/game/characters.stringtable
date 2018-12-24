@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1527</EntryCount>
+  <EntryCount>1528</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7561,82 +7561,87 @@
     </Entry>
     <Entry>
       <ID>1762</ID>
-      <DefaultText />
+      <DefaultText>(Base de données hors connexion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1778</ID>
-      <DefaultText>RDC Vessel</DefaultText>
+      <DefaultText>Navire de la Compagnie royale du Feu éteint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1779</ID>
-      <DefaultText>[TEMP] Generic RDC Low Rank Captain</DefaultText>
+      <DefaultText>Capitaine novice de la Compagnie royale du Feu éteint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1782</ID>
-      <DefaultText>[TEMP] Generic RDC Mid Rank Captain</DefaultText>
+      <DefaultText>Capitaine expert de la Compagnie royale du Feu éteint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1783</ID>
-      <DefaultText>[TEMP] Generic RDC High Rank Captain</DefaultText>
+      <DefaultText>Maître-capitaine de la Compagnie royale du Feu éteint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1784</ID>
-      <DefaultText>[TEMP] Generic Principi Low Rank Captain</DefaultText>
+      <DefaultText>Capitaine príncipi novice</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1785</ID>
-      <DefaultText>[TEMP] Generic Principi Mid Rank Captain</DefaultText>
+      <DefaultText>Capitaine príncipi expert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1786</ID>
-      <DefaultText>[TEMP] Generic Principi High Rank Captain</DefaultText>
+      <DefaultText>Maître-capitaine príncipi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1787</ID>
-      <DefaultText>[TEMP] Generic Huana Low Rank Captain</DefaultText>
+      <DefaultText>Capitaine huana novice</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1788</ID>
-      <DefaultText>[TEMP] Generic Huana Mid Rank Captain</DefaultText>
+      <DefaultText>Capitaine huana expert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1789</ID>
-      <DefaultText>[TEMP] Generic Huana High Rank Captain</DefaultText>
+      <DefaultText>Maître-capitaine huana</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1790</ID>
-      <DefaultText>[TEMP] Generic VTC Low Rank Captain</DefaultText>
+      <DefaultText>Capitaine novice de la Compagnie commerciale vailienne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1791</ID>
-      <DefaultText>[TEMP] Generic VTC Mid Rank Captain</DefaultText>
+      <DefaultText>Capitaine expert de la Compagnie commerciale vailienne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1792</ID>
-      <DefaultText>[TEMP] Generic VTC High Rank Captain</DefaultText>
+      <DefaultText>Maître-capitaine de la Compagnie commerciale vailienne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>[TEMP] Huana Vessel</DefaultText>
+      <DefaultText>Navire huana</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>[TEMP] Principi Vessel</DefaultText>
+      <DefaultText>Navire príncipi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Navire de la Compagnie commerciale vailienne</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -13190,7 +13190,7 @@ Les invocations de créatures coûtent 1 phrase de plus.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Les invocations de type offensif coûtent une phrase de moins.
 
-Les coups critiques à l'arme ont 50 % de chances d'octroyer une phrase.
+Les coups critiques avec une arme de mêlée ont 50 % de chances d'octroyer une phrase.
 
 &lt;b&gt;Malus&lt;/b&gt;
 Les invocations de type non-offensif coûtent une phrase de plus.</DefaultText>
@@ -19892,7 +19892,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4301</ID>
-      <DefaultText>Inspiration spirituelle</DefaultText>
+      <DefaultText>Inspiration mentale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22544,7 +22544,7 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Tout membre du groupe étant renversé pendant 6 secondes est tué</DefaultText>
+      <DefaultText>Tout membre du groupe étant renversé pendant 10 secondes est tué</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23222,7 +23222,7 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5196</ID>
-      <DefaultText>Ne</DefaultText>
+      <DefaultText>Né</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23242,7 +23242,7 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5211</ID>
-      <DefaultText>L'image d'aperçu dépasse 1 MB.</DefaultText>
+      <DefaultText>L'image d'aperçu fait plus d'1 Mo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23257,7 +23257,17 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5220</ID>
-      <DefaultText>Ne peut pas utiliser de capacités non-sorts</DefaultText>
+      <DefaultText>Impossible d'utiliser des capacités qui ne sont pas des sorts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5221</ID>
+      <DefaultText>Dans le Feu éteint, en plus d’être légion, les tempêtes sont très dangereuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5222</ID>
+      <DefaultText>Dans le Feu éteint, les navires sont plus expérimentés et plus rapides.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23267,7 +23277,47 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     </Entry>
     <Entry>
       <ID>5225</ID>
-      <DefaultText>Plat préparé</DefaultText>
+      <DefaultText>Repas préparé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5226</ID>
+      <DefaultText>Les ressources récupérées par combat sont converties en ressources récupérées par repos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5227</ID>
+      <DefaultText>La santé du groupe ne se regénère plus entre les combats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5228</ID>
+      <DefaultText>Récupérez les ressources, la Santé et soignez les Blessures qu'avec les Repas préparés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5238</ID>
+      <DefaultText>Défi de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5242</ID>
+      <DefaultText>Presque tous les nombres et les stats sont masqués</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5283</ID>
+      <DefaultText>Port</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5284</ID>
+      <DefaultText>The Forgotten Sanctum - Installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5285</ID>
+      <DefaultText>The Forgotten Sanctum - Non installé</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

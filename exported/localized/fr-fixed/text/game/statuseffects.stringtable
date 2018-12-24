@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>553</EntryCount>
+  <EntryCount>555</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Gagnez {0:value:straight} en Concentration toutes les 6 secondes si vous êtes à 4 m ou plus de l'allié le plus proche</DefaultText>
+      <DefaultText>Gagnez {0:value:straight} en Concentration (si elle est à 0) toutes les {0:extravalue:duration} si vous êtes à 4 m ou plus de l'allié le plus proche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>5 en dégâts bruts de saignement toutes les 3,0 s pendant 9,0 s lorsqu'un coup critique est infligé</DefaultText>
+      <DefaultText>{0:value:straight} dégâts bruts toutes les {0:triggervalue:duration} pendant {0:extravalue:duration} lorsqu'un coup critique est infligé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>{0:value:percent} de chances de devenir invisible pendant 8,0 sec en cas de coup critique infligé</DefaultText>
+      <DefaultText>{0:value:percent} de chances de devenir invisible pendant {0:extravalue:duration} en cas de coup critique infligé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance d'infliger Entrave, Renversement, des dégâts bruts sur 12,0 sec ou -25 % en Vitesse d'action à une cible touchée par un coup critique</DefaultText>
+      <DefaultText>Chance d'infliger Entrave, Renversement et des dégâts bruts pendant {0:extravalue:duration} ou -25 % en Vitesse d'action à une cible touchée par un coup critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>{0:value:percent} de chances d'assommer un attaquant pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps.</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'assommer un attaquant pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Dégâts de saignement bruts sur 12,0 sec sur une cible touchée par un coup critique</DefaultText>
+      <DefaultText>Dégâts de saignement bruts pendant {0:extravalue:duration} sur une cible touchée par un coup critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2596,7 +2596,7 @@
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>{0:value:percent} de chances de gagner {0:extravalue} phrases en cas de coup critique porté à l'arme</DefaultText>
+      <DefaultText>{0:value:percent} de chances de gagner {0:extravalue} phrases en cas de coup critique porté avec une arme de mêlée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2767,6 +2767,16 @@
     <Entry>
       <ID>697</ID>
       <DefaultText>{0:value:percent} de chances de lancer &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Retrait&lt;/link&gt; or &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Souvenirs d'agonie&lt;/link&gt; sur le possesseur lorsqu'il est attaqué alors qu'il est Proche de la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Ne peut pas bouger</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

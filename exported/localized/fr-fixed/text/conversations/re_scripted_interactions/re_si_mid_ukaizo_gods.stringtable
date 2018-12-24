@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_mid_ukaizo_gods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>99</EntryCount>
+  <EntryCount>94</EntryCount>
   <Entries>
     <Entry>
       <ID>47</ID>
@@ -407,23 +407,8 @@ Elle s'adresse à vous avec franchise et simplicité, une expression proche de l
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>328</ID>
-      <DefaultText>[Choisir une autre réponse]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>329</ID>
-      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>330</ID>
       <DefaultText>[Ne rien dire]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>331</ID>
-      <DefaultText>[Revenir aux autres réponses]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,16 +530,6 @@ Elle s'adresse à vous avec franchise et simplicité, une expression proche de l
       <DefaultText>"Magran est aveuglée par l'affection qu'elle a pour les mortels. Elle ne voit pas que l'entropie est la destinée de toute chose."
 
 "Si Éothas était sage, il détruirait tout. Il mettrait un terme à la vie, à la réincarnation et à la &lt;i&gt;mort&lt;/i&gt;."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>357</ID>
-      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>358</ID>
-      <DefaultText>"Eh bien, Gardien, vous connaissez notre position. Quel est votre avis ?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

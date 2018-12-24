@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3361</EntryCount>
+  <EntryCount>3362</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -4616,7 +4616,7 @@
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Une main fantomatique et squelettique ratisse la zone, occasionnant des dégâts givrants aux ennemis s'y trouvant, leur infligeant Affaiblissement et Entrave.</DefaultText>
+      <DefaultText>Une main fantomatique et squelettique ratisse la zone, occasionnant des dégâts givrants aux personnages s'y trouvant, leur infligeant Affaiblissement et Entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4636,7 +4636,7 @@
     </Entry>
     <Entry>
       <ID>1769</ID>
-      <DefaultText>Un vent desséchant souffle sur le champ de bataille, infligeant des dégâts bruts à quiconque se trouve dans la zone, et leur infligeant Affaiblissement.</DefaultText>
+      <DefaultText>Un vent desséchant souffle sur le champ de bataille, infligeant des dégâts bruts aux personnages se trouvant dans la zone, et leur infligeant Affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6518,7 +6518,7 @@ Les invocations de créatures coûtent 1 phrase de plus.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Les invocations de type offensif coûtent une phrase de moins.
 
-Les coups critiques à l'arme ont 50 % de chances d'octroyer une phrase.
+Les coups critiques avec une arme de mêlée ont 50 % de chances d'octroyer une phrase.
 
 &lt;b&gt;Malus&lt;/b&gt;
 Les invocations de type non-offensif coûtent une phrase de plus.</DefaultText>
@@ -14516,7 +14516,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4092</ID>
-      <DefaultText>Lorsque le porteur devient Ensanglanté, il bénéficie d'une inspiration spirituelle aléatoire pour une longue durée.</DefaultText>
+      <DefaultText>Lorsque le porteur devient Ensanglanté, il bénéficie d'une inspiration mentale aléatoire pour une longue durée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14691,17 +14691,17 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4133</ID>
-      <DefaultText>Confère de la Concentration toutes les quelques secondes quand il n'y a pas d'alliés à proximité.</DefaultText>
+      <DefaultText>Confère de la Concentration par intermittence quand il n'y a pas d'alliés à proximité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4134</ID>
-      <DefaultText>Accorde une chance de projeter une petite explosion de froid autour du lanceur lorsqu'il subit un coup critique, infligeant des dégâts givrants aux ennemis proches, à condition qu'aucun allié ne se trouve à proximité. Confère de la Concentration toutes les quelques secondes lorsqu'aucun allié n'est proche.</DefaultText>
+      <DefaultText>Accorde une chance de projeter une petite explosion de froid autour du lanceur lorsqu'il subit un coup critique, infligeant des dégâts givrants aux ennemis proches, à condition qu'aucun allié ne se trouve à proximité. Confère de la Concentration par intermittence lorsqu'aucun allié n'est proche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4135</ID>
-      <DefaultText>Génère un Brouillard givrant autour du lanceur lorsqu'il est vaincu, à condition qu'aucun allié ne se trouve à proximité. Confère de la Concentration toutes les quelques secondes lorsqu'aucun allié n'est proche.</DefaultText>
+      <DefaultText>Génère un Brouillard givrant autour du lanceur lorsqu'il est vaincu, à condition qu'aucun allié ne se trouve à proximité. Confère de la Concentration par intermittence lorsqu'aucun allié n'est proche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15296,7 +15296,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4334</ID>
-      <DefaultText>En fin de compte, ils n'ont jamais retrouvé le corps. Si vous êtes vaincu moins de 10 secondes après avoir utilisé Esquive de poulpe, vous ressuscitez et devenez invisible.</DefaultText>
+      <DefaultText>En fin de compte, ils n'ont jamais retrouvé le corps. Si vous êtes vaincu peu de temps après avoir utilisé Esquive de poulpe, vous ressuscitez et devenez invisible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16216,7 +16216,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4564</ID>
-      <DefaultText>Les membres de votre groupe reçoivent un bonus supplémentaire de compétence découlant de leur(s) classe(s).</DefaultText>
+      <DefaultText>Les membres de votre groupe reçoivent le double de bonus de compétence découlant de leurs classes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17195,7 +17195,12 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>5134</ID>
-      <DefaultText>Autodétruire</DefaultText>
+      <DefaultText>Autodestruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Ne peut pas bouger</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
