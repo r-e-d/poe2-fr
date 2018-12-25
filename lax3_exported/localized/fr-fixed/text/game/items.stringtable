@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>297</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Revêtir cette brigandine exige déjà une certaine dextérité. Ses plaques de métal dentelées forment des angles curieux, dépassant des couches de gambison effiloché et du cuir troué, et conférant à l'armure un aspect rugueux, presque décrépit. Ses rebords acérés constituent un plus indéniable lors des empoignades dans la fosse, lacérant tout adversaire s'approchant un peu trop près ou abîmant son arme. 
+
+Osara Haru, riche actionnaire de la Compagnie royale du Feu éteint et mécène sans complexe du Creuset, fit façonner Kāhako Nihi dans son pays natal pour une combattante à laquelle elle vouait un intérêt particulier. Mais elle apprit ensuite que cette dernière avait péri en combat singulier face à un drake avant que les vents ne ramènent Haru à son foyer. Peu désireuse de gaspiller une ressource, Haru offrit l'armure en récompense au gladiateur capable de lui rapporter la tête du drake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4381</ID>
+      <DefaultText>La meilleure défense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4382</ID>
+      <DefaultText>Ce sont les féroces compétiteurs du Creuset qui donnèrent naissance au modèle de cette redoutable rondache. Une pique en acier acérée jaillit de son centre pour perforer les plaques, les chaînes et la peau. Pour autant qu'on la frotte, il est impossible d'en nettoyer les tâches de sang incrustées à sa base. La rondache inspire l'effroi chez les combattants et des grimaces de sympathie de la part des membres plus compatissants du public, se rappelant de récits de combats désespérés au cours renversé par un coup de rondache bien placé dans l'estomac, l'entrejambe ou l'œil. 
+
+Bien que personne ne semble connaître l'inventeur originel de cette rondache, les citoyens de Kazanui affirment que des douzaines de combattants l'ont brandie dans la fosse au fil des années de combat. Le fait qu'elle soit aujourd'hui entre vos mains suggère que ses précédents propriétaires ont appris l'amère et ultime leçon du Creuset : même les détenteurs des meilleures armes payent inévitablement leur dû à la fosse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4422</ID>
+      <DefaultText>Bâton de guerre de Shea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4423</ID>
+      <DefaultText>Bien qu'elle ait disparu depuis plus d'un siècle, la Chevaleresse arcanique Shea tient toujours lieu de récit édifiant dans son Aedyr natal. Vassale d'une puissante maison noble de l'empire, Shea ne se départit jamais de sa fascination pour l'animancie ayant germé et pris racine à l'académie. S'armant de patience, elle s'adonna à sa passion illicite, s'érigeant peu à peu un laboratoire dans ses quartiers, au domaine de son comte. Lorsqu'il découvrit ses activités, il promit de ne pas la dénoncer eu égard à ses années de service, à condition qu'elle se débarrassât des instruments illégaux. Elle accepta, débarrassant sa chambre de tous ses livres et béchers.
+
+Malheureusement, elle les transféra dans le sous-sol loué d'une échoppe d'un village proche et eut tôt fait d'être dénoncée par un prêtre local de Woedica. Quand l'indulgence du comte éclata au grand jour, il le paya de sa fortune et essuya une humiliation plus lourde encore.
+
+Shea fuit l'empire et franchit les mers pour atteindre le Feu éteint. Après une courte escale à Neketaka, elle embarqua à bord d'un navire affrétant vers l'ouest pour la nation continentale d'Abet. Le sloop n'arriva jamais à destination, donnant lieu à de nombreux récits apocryphes (et deux pièces de théâtre populaires) sur les macabres conséquences des expériences de Shea en mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Le crâne recherché</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>Lancer {0} sorts de druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4857</ID>
+      <DefaultText>Poids de la révélation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Chaîne de l'autorité légitime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4859</ID>
+      <DefaultText>Couronne de la reine exilée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4860</ID>
+      <DefaultText>Cet éclat de métal dentelé irradie de chaleur au contact de la peau. La sensation est douloureuse, à la limite de la brûlure, mais ne laisse pas de trace. Les gravures élaborées couvrant la surface ont perdu un peu de leur beauté au contact avec le feu, mais une aura de puissance et de souveraineté émane toujours de l'objet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>Ce collier est un élégant bijou composé de plusieurs artefacts étranges. Bien que provenant de mondes différents, ces artefacts ont la même forme et possèdent aussi la même aura de puissance. Séparés, ils dégageaient de la chaleur ainsi qu'une énergie contenue. À présent qu'ils sont réunis, le collier semble plus puissant que la somme de ses parties. Les déformations du métal semblent avoir été causées par le feu.
+
+Une section du collier laisse penser qu'il manque un troisième élément. Peut-être qu'il a fondu ou qu'il s'est délogé.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4862</ID>
+      <DefaultText>Trois fragments d'un puissant métal furent trouvés éparpillés à travers l'éternité. L'un était caché, l'autre oublié, et le dernier relégué au néant. Une main agile les a réunis, façonnant un objet ressemblant à une couronne qui aurait récupéré sa splendeur d'antan.
+
+On reconnaît cette coiffe d'un bout à l'autre d'Eora. Son dessin orne les marges des enluminures, des contrats commerciaux et des textes de loi. Ce sont ses pointes sévères et royales qu'on retrouve sur les têtes de nombreux autels et statues. Elle vibre sous l'effet du pouvoir des trois fragments et luit, comme éclairée par les braises d'un feu qui ne s'éteint jamais vraiment. Si ce n'est pas la couronne de Woedica, alors c'en est une réplique incroyablement fidèle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5436</ID>
+      <DefaultText>Éclairs oculaires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5510</ID>
+      <DefaultText>Main gauche de l'Obscurci</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5511</ID>
+      <DefaultText>Une fois extrait de la masse grouillante de tentacules qui composait autrefois l'Entasseur de souvenirs, vous remarquez que la paume du gantelet terni arbore la gravure d'un œil. Les fines articulations de tous les doigts permettent de ne pas restreindre les capacités de lancement de sorts, laissant à penser qu'il a été fabriqué pour un magicien ou un prêtre.
+
+Ceux qui portent le gantelet, ou entrent simplement en contact avec, entendent des chuchotements furtifs à la limite de l'ouïe. Les quelques mots qui émergent de la mélasse n'ont généralement pas de sens ou de rapport avec la situation, mais offrent parfois des conseils utiles face aux problèmes que peuvent poser les arcanes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5512</ID>
+      <DefaultText>Ceinture agrippeuse de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5513</ID>
+      <DefaultText>Bien qu'elle soit avant tout réputée pour ses sorts aussi excentriques que son attitude, Maura, l'archimage aumaua, avait des goûts tout aussi peu conventionnels en matière de mode. Ses collègues maîtres des arts mystiques évitaient de s'asseoir près d'elle, ses robes, châles et autres collants ayant tendance à se révéler inconfortablement inquisiteurs. 
+
+Cette ceinture est un excellent exemple de sa garde-robe, constituée d'une bande d'un cuir étrange, festonné de vrilles pendantes de peaux impossibles à identifier qui se convulsent et se tortillent en permanence. La porter suppose ne pas avoir peur des caresses insistantes... littéralement en-dessous de la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5514</ID>
+      <DefaultText>Piste de la marcheuse onirique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5515</ID>
+      <DefaultText>Ahimi la marcheuse onirique était un archimage huana qui s'est fait connaître il y a environ trois siècles. Clairvoyante douée, elle devint une experte en manipulation d'âmes, développant des sorts de domination, de désorientation et d'affaiblissement. 
+
+Malgré leur nom, ces sandales ne disposent pas d'enchantements permettant à quelqu'un de pénétrer réellement les rêves d'un autre. Leur porteur devient immatériel, un être de pure essence, et attaque directement l'âme de sa pauvre victime, qui se retrouve inconsciente. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5516</ID>
+      <DefaultText>Murmures des profondeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5517</ID>
+      <DefaultText>Des spires d'argent éclatantes entourent le doigt du porteur, se pliant afin d'en suivre souplement les mouvements. De petits cercles imprimés dans le métal sont semblables aux ventouses préhensiles des tentacules d'une pieuvre. 
+
+Ça chatouille parfois.
+
+L'anneau confère à son porteur la certitude absolue face à ce qui ne peut être connu. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5518</ID>
+      <DefaultText>Canne d'Aretezzo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5519</ID>
+      <DefaultText>Solide et résistant, cet accessoire élégant peut également servir de gourdin pour le citadin sophistiqué. Aretezzo le magicien, qui faisait presque partie des meubles à la cour de la Grande Vailia, fut connu pour amener cet instrument parmi la haute société. Il s'en servait contre tous ceux qui lui déplaisaient, aussi bien diablotins, domestiques, apprentis ou même petits-enfants. Un coup mal placé touchant le frère du Duc de Nagnice envoya le magicien à l'ombre pour six mois, aux cours desquels la canne disparut... probablement par la main d'une de ses victimes perpétuelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>Lettre soignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>Cette lettre a été pliée en carré avec soin et minutie. 
+
+"[Player Name] arpente le Feu éteint en transportant des fragments de métal calciné. L'importance de ces objets ne vous aura pas échappé, même si nous sommes tous surpris de les voir resurgir maintenant. 
+
+Nous devrions saisir cette opportunité. Tuez [Player Name]. Nul besoin de dissimuler votre acte, car nous œuvrons sous les auspices de la loi. Veillez à ce que le métal parvienne à Izzia. Elle gaspille son potentiel au promontoire de Periki. 
+
+Louée soit la reine exilée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>Missive écrite à la va-vite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>Cette lettre est maculée de poussière de charbon et de cire de bougie. 
+
+"J'aurais aimé ne jamais avoir à écrire ces mots. Les fragments noircis ont été retrouvés, et c'est [Player Name] qui les a en sa possession... J'espère que ce n'est qu'une coïncidence et qu'il n'a pas conscience de ce qu'ils représentent.
+
+Nous pouvons prendre les devants si nous agissons rapidement. Il se peut que le Gardien soit déjà victime de la corruption de la sorcière sans même le savoir. Ne laissez pas la pitié retenir votre lame. 
+
+Une fois que vous aurez récupéré les fragments, &lt;i&gt;tenez-les à tout prix éloignés les uns des autres.&lt;/i&gt; À votre retour, ils seront placés dans des coffres séparés et nous les scellerons au moyen de sorts aussi longtemps que nous le pourrons. 
+
+Veillez aussi à ce qu'ils restent loin du promontoire de Periki. Nos ennemis murmurent au sujet d'Izzia l'artisane, comme si une grande destinée l'attendait.
+
+Pour la paix et l'honneur de Magran, puissiez-vous réussir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5604</ID>
+      <DefaultText>Instructions simples</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5605</ID>
+      <DefaultText>"[Player Name],
+
+Je vais faire &lt;i&gt;court&lt;/i&gt; au cas où mes diablotins rencontreraient une fin tragique et que cette missive se retrouve interceptée.
+
+Vous devez maintenant avoir rencontré d'autres membres du Cercle et laborieusement étudié les motifs pour lesquels ils veulent pénétrer dans le sanctuaire obscurci de Wael. Laissez-moi ajouter ma raison aux leurs.
+
+Ce que je désire est simple... &lt;i&gt;l'ordre&lt;/i&gt;. Il y a déjà un dieu laissant un sillage de destruction à travers le Feu éteint, et je ne désire nullement qu'un autre s'y joigne.
+
+Si Fassina est encore en vie, tâchez de l'y maintenir. Elle a un minimum de potentiel, qui pourrait vous aider au sein de l'étrange territoire de Wael. 
+
+~Arkemyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5606</ID>
+      <DefaultText>Une mission pour Fassina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5607</ID>
+      <DefaultText>"Fassina. 
+
+Il serait difficile de vous en vouloir si vous estimiez que le temps que nous avons passé ensemble l'a été en vain. Les tâches que que vous ai confiées oscillaient entre l'ennuyeux et le toxique. Je ne vous ai donné que des commissions de débutant en échange de votre labeur, et j'ai mérité votre juste colère de toutes les manières possibles. 
+
+Malgré ces difficultés, vous avez persévéré, pour devenir une magicienne au potentiel exceptionnel. Vous avez ignoré mon autorisation pour accéder à des livres que vous n'aviez pas le droit de lire, appris des sorts dépassant vos capacités et même retourner mes diablotins contre moi en une éphémère mutinerie (pensiez-vous que je ne le découvrirais pas ?). 
+
+Tout cela pour dire que vos progrès me réjouissent. Un magicien ne demande pas la permission ni ne se conforme à la structure rigide de l'autorité. Un magicien est un profond sceptique et un agitateur. Même les archimages ne tolèrent que les meilleurs jours le Cercle qu'ils se sont imposé. 
+
+Que vous vous considériez mon apprentie ou non, prenez le sanctuaire de Wael comme la dernière épreuve avant d'obtenir votre diplôme et de passer à de plus grandes choses. Je pense que vous vous montrerez à la hauteur du défi. 
+
+Magiquement vôtre,
+~Arkemyr
+
+P.S. Si vous deviez survivre à l'épreuve, vous pourriez vous servir de la présente comme lettre de recommandation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5608</ID>
+      <DefaultText>L'Emballeuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5609</ID>
+      <DefaultText>Bien que n'ayant pas encore atteint l'âge adulte pour son espèce, L'Emballeuse est tout de même une très grande araignée, attirant les regards des passants qui gardent leurs distances avec votre joyeux animal familier. Malgré la peur qu'elle provoque chez les autres, L'Emballeuse semble loyale et même douce, prête à recouvrir vos blessures de sa toile gluante.
+
+En tout cas, pour l'instant.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5610</ID>
+      <DefaultText>Contrat de garde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5611</ID>
+      <DefaultText>Ce contrat vieux et friable détaille un arrangement entre un groupe d'explorateurs vithracks et d'agents de Wael, établi à l'arrivée des vithracks dans les Chambres obscurcies. En échange de nourriture fraîche et abondante, ainsi que d'un endroit sec pour établir leur nid, les vithracks ont accepté de servir de gardes des Collections à perpétuité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5612</ID>
+      <DefaultText>Poids de la révélation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5618</ID>
+      <DefaultText>Un problème éthique complexe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5619</ID>
+      <DefaultText>Cette tablette de pierre comporte des runes engwithanes usées. Bien qu'une grande partie du texte ait trop subi l'érosion pour être &lt;xg&gt;récupérée,&lt;/xg&gt; quelques passages se démarquent : 
+
+"... regardé par-delà le grand rideau pour ne trouver qu'une scène déserte. Plus que la déception d'une vie, la déception pour tout ce que nous tenions...
+
+... contre la conclusion qu'il n'y avait jamais rien eu. Considérez que leur grandeur dépasse notre perception, ou qu'il nous manque simplement les &lt;xg&gt;outils&lt;/xg&gt; adéquats pour...
+
+... existait, alors qui peut dire qu'on ne pourrait améliorer...
+
+... de l'eau coulant dans un aqueduc plutôt qu'un courant incontrôlé...
+
+... même cette archive ne survivra pas assez longtemps pour rappeler notre..."
+
+Le reste de la tablette est illisible. L'autre côté semble cataloguer une série d'arguments éthiques débattant les avantages et inconvénients d'une décision encore à prendre, mais dont le sens et le contexte se sont perdus dans les brumes du temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5620</ID>
+      <DefaultText>Un almanach infesté des jachères</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5621</ID>
+      <DefaultText>La couverture de cet almanach est recouverte d'une épaisse couche fongique duveteuse et multicolore qui en a infesté le dos et les pages. Une seule page a échappé à cette invasion. La moisissure a contaminé l'encre même, déformant certains mots pour leur faire adopter des formes inhabituelles : 
+
+ « La fertilité des terres est un problème essentiel pour le succès de &lt;i&gt;BoNjOuR ?&lt;/i&gt; Une ferme &lt;xg&gt;saine&lt;/xg&gt; est diversifiée, et nous ne pouvons pas nous reposer sur la faveur de &lt;i&gt;Est-ce Que je somMes-nouS seuls ?&lt;/i&gt; pour dicter notre destin. Tout comme les kiths ont asservi les saisons pour nous obéir, nous devons faire notre partie &lt;i&gt;Est-ce quE je fais paRtie ? Suis-je une... partie ? Qui suis-je.&lt;/i&gt; que nous remplacions ce que nous prenons de la vie des terres... la précieuse abondance que nous arrachons si imprudemment à &lt;i&gt;PourqUoi savoir fAit maL ?&lt;/i&gt;
+
+Notre responsabilité consistera dorénavant à &lt;i&gt;Pas moi. Nous&lt;/i&gt; et partager nos progrès pour le &lt;i&gt;Chanson-Croissance-Amour&lt;/i&gt; de la &lt;i&gt;COLONIE&lt;/i&gt;. Ainsi, la pureté du &lt;i&gt;LIVRE&lt;/i&gt; sera mesurée et contrôlée... et ne sera plus une variable hors de notre... » 
+
+À partir de là, le texte a été consumé, réduit à n'être guère plus que le terreau d'une florissante colonie de champignons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5622</ID>
+      <DefaultText>Un récit vrai et exact de la dernière bataille des Dix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5623</ID>
+      <DefaultText>La couverture intérieure de ce texte porte un sceau d'authenticité doré d'une organisation prétendant enregistrer des récits historiques précis. 
+
+« Quand ses forces passèrent le virage, les défenseurs plantèrent leurs pieds sur les pierres d'Evon Dewr et s'arc-boutèrent dans l'attente de son arrivée. 
+Ses compatriotes bavaient d'impatience en prévision de la bataille, mais il se contentait d'observer les défenses ravagées avec un grand calme. 
+
+« Attendaient-ils vraiment que dix d'entre vous résistent contre l'aube ? » dit-il, rempochant la braise lui ayant servi à allumer sa pipe. « Reconnaissez que vous allez probablement avoir du mal à nous barrer la route. Notre plan consiste à vous piétiner et à embrocher tout le monde en chemin. Rien de personnel. Alors, nous voilà. »
+
+Telles furent les dernières paroles de Saint Edér avant que la bombe du Marteau divin l'incinère.” </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5624</ID>
+      <DefaultText>Rapport sur l'intégrité structurelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5625</ID>
+      <DefaultText>Cette lettre était adressée à un bureau de l'amirauté à Rauatai. Elle n'est apparemment jamais arrivée à destination. 
+
+"Grand Hazanui,
+
+Le Doctrine de fer, votre vaisseau amiral, n'a pas aussi bien supporté le voyage depuis la mère patrie que nous l'espérions. La mer était redoutable, et un parasite agressif infeste sa coque. 
+
+Quand j'ai appareillé pour le Feu éteint, vous m'avez dit que la Doctrine devait toujours ouvrir la voie, car nous portons le cœur de la mère patrie. Je dois vous informer par la présente que le navire n'est pas en ordre de bataille. Même une démonstration de force minime pourrait l'envoyer dans les bras d'Ondra. 
+
+Vous m'avez dit de ne pas prendre de charpentier de marine, car la prunelle de notre armada ne peut pas montrer la moindre faille, ni de solliciter l'aide des huanas, par crainte qu'ils se familiarisent trop avec nos armements. Et pourtant, ce n'est qu'une question de temps avant que votre navire amiral disparaisse sous les vagues. 
+
+Quels sont vos ordres ?” 
+
+Un embrun a estompé la signature. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5626</ID>
+      <DefaultText>Histoire et contradictions, tome 2 – Les huanas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5627</ID>
+      <DefaultText>"Les Huanas ont amalgamé à leur histoire culturelle des contes extravagants selon lesquels l'intendance leur aurait été confiée par les dieux. L'exemple le plus commun est le mythe impliquant trois gardiens ayant accepté une alliance avec Ngati, leur déesse-poisson locale. En échange de leur engagement à protéger les îles, les tribus et l'adra lumineux, les gardiens reçurent le don du modelage d'eau. 
+
+Le modelage d'eau est, certes, un talent remarquable, mais il n'y a aucune preuve qu'il est de source divine. Alors d'où viennent ces histoires d'alliance ? 
+
+Il y a d'autres histoires... qui suggèrent que les grands rois et reines d'Ukaizo auraient établi des accords avec des dragons.
+
+Et si les millénaires obscurs et inconnus, comme l'huître transforme un grain de sable en perle, avaient ajouté des couches de mythe autour de la réalité ?”
+
+Le texte continue dans cette veine, même si ses idées sont largement du domaine de la spéculation.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5628</ID>
+      <DefaultText>L'alchimie de la giclure de diablotin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5629</ID>
+      <DefaultText>"J'ai gardé un couple de diablotins en cage pendant près de trois décennies, alors que j'écrivais le tome Cinq de ma série Langages olfactifs pervertis. Chaque jour, le duo remplissait l'air de ses glandes pour communiquer malgré la distance. J'ai fini par comprendre l'alchimie de leur giclure en me plaçant sur son passage et en laissant l'effluve fétide m'imprégner. 
+
+Merveilleux effluve. Si puissant. Il m'entoure encore. 
+
+Alors que je venais d'achever la dernière page de ce qui allait être mon chef-d'œuvre, le dialecte de leur giclure a complètement changé, rendant mes trouvailles caduques. Oh, mais qu'est-ce qu'ils se sont moqués de moi ! 
+
+Je connais l'odeur de l'échec. C'est la puanteur de trente ans de pets de diablotins concentrés pulvérisés au visage, et l'amertume de n'avoir aucune reconnaissance académique en retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5630</ID>
+      <DefaultText>Pigeons puants opprimés, tome 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5631</ID>
+      <DefaultText>"S'il est quoi que ce soit qui puisse être qualifié de subtil concernant les diablotins, c'est qu'ils sont, en toute discrétion, les créatures non-kiths les plus compliquées d'Eora. Ils parlent nos langues, suivent des instructions complexes, et sont assez conscients pour développer une individualité et un libre arbitre dépassant l'intellect de leurs homologues primordiaux. Si on ajoute leur capacité latente à croître en proportion des énergies magiques que leur corps absorbe, il ne serait pas faux de penser que les diablotins devraient être les vrais maîtres de leur environnement. 
+
+Alors pourquoi ne les sont-ils pas ? 
+
+Une grande part de nos légendes présume que les diablotins sont un accident... guère plus que des pigeons impolis issus de débordements arcanes. Certains d'entre nous estiment que c'est loin d'être le cas. Des grands livres récupérés dans les premiers temples woedicans respectent davantage ces créatures méprisées, les appelant « les premiers » ou « les déchus » dans les notes en bas de page. Certains avancent même que les diablotins seraient les prototypes de vie que les dieux auraient abandonnés. 
+
+Ce texte sera le fer de lance de ma croisade académique pour prouver la valeur des diablotins, qui méritent une évaluation honnête de notre part, nous qui avons passé nos carrières à sous-estimer ce qu'ils valent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5632</ID>
+      <DefaultText>Page de journal en contrebande</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5633</ID>
+      <DefaultText>"Admeth a mis le feu à la forêt, qu'ils disent. Admeth a arraché le croc le plus pointu de la mâchoire ennemie, qu'ils chantent. 
+
+Je ne sais rien de ce qui se passe au-delà des murs de ma cellule... Mais ma mémoire demeure et je ne me souviens pas du moindre arbre calciné sur ce champ de bataille. Je ne me souviens pas avoir été pris. Je me souviens avoir agité le drapeau des négociations et avoir reçu un cri de guerre pour seule réponse. Tout ce qu'ils ont brûlé, ils l'ont brûlé après.
+
+L'&lt;xg&gt;Histoire&lt;/xg&gt; n'est pas écrite par les vainqueurs ni par les kiths qui étaient là. Elle est écrite par les scribes et, j'ignore pourquoi, mais Admeth n'a pas envie de contredire leurs mensonges. Peut-être parce qu'il est où il est, et que je suis où je suis. Il y a histoire et « histoire ». Il faut un œil avisé pour faire la différence.
+
+~ Regd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5634</ID>
+      <DefaultText>Notes de dissection anatomique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5635</ID>
+      <DefaultText>"Spécimen curieux. Plus grand que le précédent. Les os changent de configuration dès que je détourne le regard, aussi un compte-rendu précis de sa configuration interne ne sera pas une mince affaire. Les organes sont tricotés ensemble en un tissu flexible qui conserve un état spongieux malgré la décomposition. 
+
+Les mâchoires peuvent s'ouvrir plus largement qu'il semble possible. Je ne peux expliquer comment cela se peut, mais mes yeux ne me trompent pas. Les dents s'allongent en proportion de l'ouverture des mâchoires... malgré la mort. 
+
+Je recommande que le dernier exemplaire de cette espèce soit inhumé dans les Collections. Mieux vaut l'avoir catalogué et éliminé plutôt qu'en liberté on ne sait où." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5636</ID>
+      <DefaultText>Un très bon fermier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5637</ID>
+      <DefaultText>Chaque page de ce grimoire est couverte d'écriture serrée et d'illustrations. Un passage indique :
+
+"Saint Waidwen serra les lèvres, et observa le visage brillant, étincelant qui le regardait entre des tiges de vorlas. Il attrapa le manche de bois de sa faux, glissant sous la sueur de ses mains... les mains d'un travailleur, ce qu'il était.
+
+« Alors comme ça, vous êtes Éothas » dit-il. 
+
+« JE LE SUIS » répondit le dieu. 
+
+« Alors vous savez déjà ce que je veux » dit le fermier, qui était Waidwen.
+
+« JE LE SAIS ».
+
+Waidwen dénoua la corde tendue qui tenait sa queue de cheval, laissant les mèches luxuriantes tomber en cascade autour de ses épaules et reposer sur sa poitrine. Il cligna de l'œil et se racla la gorge, avant de cligner à nouveau.
+
+« J'ai une bougie qu'a pas été allumée comme il faut ».
+
+Éothas se rapprocha et...“
+
+Le passage prend abruptement fin, avec une série de notes profondément enfoncées dans le parchemin :
+
+“Eora n'est pas prêt à ça." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5638</ID>
+      <DefaultText>Notes sur un orlan disparu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5639</ID>
+      <DefaultText>"Quelqu'un de menu et à une seule oreille toqua à notre porte. J'avais entendu parler de lui avant. Il cherche des réponses concernant l'Obscurci, harcelant les temples à sa gloire partout où il va. J'étais sur le point de le renvoyer, avant qu'il se transforme en Stelgaer automnal sous mes yeux.  
+
+Je lui fis immédiatement signe de rentrer, et le fis s'asseoir (après qu'il eut recouvré sa forme). Puis j'ai ramené la boîte. 
+
+Ma mère m'avait légué la boîte, tout comme elle l'avait reçue de sa mère. Chaque fille de notre lignée est censée garder la boîte bien fermée jusqu'à ce que le messager de Galawain la trouve. Je l'ai expliqué au petit gars. Nous trouvâmes tous les deux intéressant que lui, plus petit que la moyenne de son espèce, soit exactement aussi grand que la boîte, une fois celle-ci posée sur son extrémité. 
+
+Nous déverrouillâmes le couvercle de concert. Il dévoila un petit escalier, menant vers des profondeurs cyclopéennes et sans lumière. Sans hésiter, il me fit la bise, mis son paquetage sur ses épaules et descendit, refermant derrière lui. Quand je l'ouvris à nouveau, je ne trouvai que le fond d'une boîte vide. 
+
+J'espère qu'il trouvera la réponse qu'il cherche. Si ce n'est pas le cas, j'espère que sa quête en aura valu la peine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5642</ID>
+      <DefaultText>Le fléau de Bezello</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5643</ID>
+      <DefaultText>Clé de voûte de la chute de l'île príncipi de Bezello, Marcia mes Ozia a introduit clandestinement un petit groupe d'assassins aux talents multiples, formés au maniement de l'arc comme de la diplomatie, dans ce qui deviendrait par la suite connu sous le nom de la Dernière danse de Renelli le Bâtard. Tout aussi égocentrique que paranoïaque, Renelli gardait sa forteresse peuplée de musiciens attitrés, certains plus disposés à jouer que d'autres, et n'invitait à ses soirées mensuelles que ses alliés et confidents les plus proches.
+
+Lorsqu'une maladie particulièrement virulente (l'œuvre d'un cuisinier acheté par une grosse bourse d'âmes) ravagea son personnel quelques jours avant une fête prévue, Renelli refusa d'annuler l'événement. Il fit le tour des routes avoisinantes à la recherche de remplaçants et repéra de manière inexplicable une troupe qui faisait route de Neketaka vers les Républiques, ancrée au large de la petite île de Manepeku.
+
+Bien que son équipage ait consciencieusement fouillé les artistes, nul n'était assez versé dans l'art du musicien pour se rendre compte du danger qui était invité avec insistance à se produire dans la salle de bal du Bâtard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5644</ID>
+      <DefaultText>Le parchemin du juste éveil de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5645</ID>
+      <DefaultText>Des runes arcanes, des dessins d'animaux et des tentatives de signature de Tayn sont griffonnées à la va-vite sur ce parchemin. Tayn pense que ce sort peut aider les prisonniers des Collections à retrouver la mémoire, à condition qu'il soit lu à un endroit où tous les prisonniers puissent l'entendre en même temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5646</ID>
+      <DefaultText>Parchemin du sommeil définitif de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5647</ID>
+      <DefaultText>Ce parchemin est décoré de runes fastidieusement dessinées sur une grille bien ordonnée. L'énergie arcane liée aux runes les rend légèrement phosphorescentes, et les observer trop longtemps ralentit les battements de votre cœur.
+
+Llengrath estime que le sort offrira une mort paisible aux prisonniers des Collections à condition que les mots soient prononcés là où chacun d'entre eux pourra les entendre simultanément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5650</ID>
+      <DefaultText>Observation mélancolique des étoiles avancée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5651</ID>
+      <DefaultText>Ce livre contient des planisphères complets, documente les passages de plusieurs comètes connues et spécule sur l'existence d'autres corps astraux pas encore aperçus à l'œil nu par les kiths. 
+
+Le ton de l'auteur est bienveillant et encourage les passionnés d'astrologie à nourrir leur curiosité afin de mieux comprendre leur existence au sein du vaste univers inconnu. 
+
+Ces cartes pourraient servir à quelqu'un. Cette leçon pourrait servir à tout le monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5652</ID>
+      <DefaultText>Grimoire défraîchi de Bekarna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5653</ID>
+      <DefaultText>Les nombreuses runes et annotations de ce grimoire ont en grande partie disparu. D'autre part, le texte semble codé à l'aide d'un cryptage complexe. Le livre ne servira à personne dans son état actuel. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5654</ID>
+      <DefaultText>Fragment d'astramétal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5655</ID>
+      <DefaultText>Ce bout de métal est dense : il pèse plus qu'il n'y paraît au premier abord. Sa surface irrégulière et pleine de cratères brille faiblement lorsqu'exposée à la lumière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5660</ID>
+      <DefaultText>Ce petit étalon nerveux fut élevé pour participer à des corridas mais s'est avéré peu adapté à l'arène. Lorsque vous traversez des endroits étranges, il reste près de vous, et pleure quand on l'abandonne. Apeuré par les kiths comme par les sauvages, vous êtes la seule créature auprès de laquelle il se sent en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5661</ID>
+      <DefaultText>Lucero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5662</ID>
+      <DefaultText>Clef d'accès à l'ascenseur des enclos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5663</ID>
+      <DefaultText>Cette clef est couverte d'une couche d'un substance visqueuse et collante. Peut-être de la bave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5664</ID>
+      <DefaultText>Incantations de la Main</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5665</ID>
+      <DefaultText>Ce livre contient une litanie d'incantations destinées aux membres de la Main occulte pour leur usage professionnel. 
+
+Il inclut une série de charmes destinés à attirer le mauvais œil, fermer les portes et révoquer les objets invoqués, ainsi que des instructions pour provoquer un son surnaturel qui inflige à l'auditeur des sifflements d'oreilles permanents.
+
+Un enchantement particulièrement intéressant est destiné aux serrures, les rendant de plus en plus complexes au fur et à mesure qu'on les trifouille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5667</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5673</ID>
+      <DefaultText>Jim le Mince</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5674</ID>
+      <DefaultText>Ainsi surnommé, affectueusement, par les bibliothécaires des Collections, Jim le Mince est le fruit de la tentative d'un chercheur voulant construire un chien de garde automate à partir de la chair préservée de Wael. Malheureusement, la créature s'est avérée peu douée pour différencier les amis des ennemis, particulièrement lorsqu'elle a faim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5675</ID>
+      <DefaultText>Ooblit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5676</ID>
+      <DefaultText>Cette petite noisette d'adra en fusion est fraîche au toucher, et sa forme est celle d'un ami.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5678</ID>
+      <DefaultText>Un œuf. Peut-être pondu par une simple poule, peut-être pas. Pour l'heure, il vous est impossible de le déterminer.</DefaultText>
+      <FemaleText>Un œuf. Peut-être pondu par une simple poule, peut-être pas. Pour l'heure, il vous est impossible de le déterminer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5679</ID>
+      <DefaultText>Clé de la salle du contrôleur de chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5680</ID>
+      <DefaultText>Cette clé est chaude et plus douce au toucher qu'elle ne devrait l'être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5684</ID>
+      <DefaultText>L'histoire d'Eora, tome II : La tribu du Peuple des cerfs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5685</ID>
+      <DefaultText>"Les académiciens de salon vous diraient que la chute était inévitable, que c'était l'appétit d'expansion insatiable de la Grande Vailia qui y a mis fin, ou un manque d'attention regrettable au besoin d'entretien des infrastructures critiques, ou l'ouroboros de la trahison, de la vengeance et de la revanche post-vengeance ponctuant les loisirs de ses riches oiseux, mais ils auraient tort.
+
+Non, c'était Dulcazza le Rayé qui a mis fin à tout ça... Dulcazza, une souris morte plongée dans un bouillon, et un duc très malade qui, lorsqu'il fut informé de la première, ce qui deviendrait le premier d'une série de meurtres motivés par la vendetta parmi les familles qui contrôlaient l'économie de la Grande Vailia, cria à son valet de fermer la porte et de ne plus perturber son repos. Il mourut rapidement et, alors que son valet ignorait consciencieusement la puanteur émanant de l'étude de son maître, la Grande Vailia se détricotait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5686</ID>
+      <DefaultText>"La première magie parmi le Peuple était le feu. C'est toujours le feu... dans chaque communauté, parmi toutes les espèces, c'est toujours le feu. Le feu est un baume contre l'obscurité, une lumière autour de laquelle raconter les histoires. Il fait fuir le froid. Illumine la voie. Fait apparaître les ombres.
+
+Il a été invoqué par une vieille femme chuchotant un mot à une braise mourante qui le vit prendre vie. Elle porta ce charbon brûlant jusqu'à sa mort, ayant appris le mot à sa fille, qui l'apprit à son fils.
+
+Le peuple porta sa petite flamme depuis leur foyer du nord glacial jusqu'aux jungles étouffantes du sud. Il ne s'éteignit pas une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5687</ID>
+      <DefaultText>Les annales de Llengrath, tome V sur V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5688</ID>
+      <DefaultText>Les annales de Llengrath, tome I sur V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5689</ID>
+      <DefaultText>Les annales de Llengrath, tome II sur V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5690</ID>
+      <DefaultText>Les annales de Llengrath, tome III sur V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5691</ID>
+      <DefaultText>Les annales de Llengrath, tome IV sur V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5692</ID>
+      <DefaultText>L'intégrale des annales de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5693</ID>
+      <DefaultText>L'intégrale amendée des annales de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5694</ID>
+      <DefaultText>Pantoufles de soie de vithrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5695</ID>
+      <DefaultText>Douces, souples et soyeuses, ces pantoufles sont également très légèrement collantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5697</ID>
+      <DefaultText>Anneau de muscle bandé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5698</ID>
+      <DefaultText>Cette boucle de viande contractée serre légèrement le doigt de son porteur à intervalles aléatoires, comme si un cœur malsain l'alimentait encore. La provenance de la chair qui compose cet anneau reste à déterminer, tout comme on ne sait, au vu de sa coloration marbrée, si elle n'a appartenu qu'à une seule créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5699</ID>
+      <DefaultText>Robe de la Main occulte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5700</ID>
+      <DefaultText>Robe infestée de la Main occulte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5701</ID>
+      <DefaultText>Agitateur céleste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5702</ID>
+      <DefaultText>Ce fragment d'une étoile distante ne provient pas de ce monde, même s'il en émane une puissance arcane. Le cœur troué du métal est chargé d'énergie spirituelle dormante. Territoriaux et agressifs, les esprits peuvent se manifester pour combattre les menaces externes. Ils ne semblent pas particulièrement attirés par l'adra natif d'Eora, sinon ils auraient déjà fui le métal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5703</ID>
+      <DefaultText>Le Troisième œil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5704</ID>
+      <DefaultText>Un symbole religieux richement gravé est accroché au collier. L'améthyste enchâssée au centre de l'icône n'est pas seulement décorative : elle sert de lentille capable de révéler, sous forme de présages et de métaphores obscurs, les faiblesses et les secrets de ceux qui ont plongé le regard dans ses facettes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5707</ID>
+      <DefaultText>La Baguette de la weyc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5708</ID>
+      <DefaultText>La forme de cette baguette plaquée or rappelle les tentacules frémissants d'une bête des profondeurs. Elle s'enroule autour d'un rubis coloré du rouge intense du sang fraîchement versé. Pendant l'ère qui suivit la chute d'Engwith, la Main occulte accordait ce genre de puissants instruments à ses magiciens et prêtres les plus rusés. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5709</ID>
+      <DefaultText>Clé incrustée de spores</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5710</ID>
+      <DefaultText>Incrustée des secrétions de spores, cette clé ouvre la porte de la Section en quarantaine. Enfin, avec un peu de chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5711</ID>
+      <DefaultText>Robe de la weyc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5712</ID>
+      <DefaultText>Cette luxueuse robe en soie arbore des runes magiques subtilement cousues de fils argentés, ce qui accorde aux replis du vêtement des défenses mystiques aux reflets scintillants. Les accents dorés sont autant de sceaux de protection et de dissimulation.
+
+Quand les enchantements sont activés, cette robe floute la silhouette du porteur et courbe la lumière pour dissimuler sa position exacte. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5715</ID>
+      <DefaultText>Focalisateur de divination de la weyc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5716</ID>
+      <DefaultText>Façonné à l'image d'une créature étrangère à ce monde, aux tentacules agités et aux yeux bulbeux, ce focalisateur est l'œuvre de la weyc Heldr, l'un des membres fondateurs de la Main occulte... enfin, d'après ses propres histoires.
+
+Cet outil puise dans l'âme du porteur pour projeter un fin écran d'énergie défensive. Bien que cette protection ne soit pas assez solide pour arrêter un coup porté avec force, elle peut dévier les projectiles et les armes pour éviter qu'ils vous frappent de plein fouet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5717</ID>
+      <DefaultText>Journal d'entretien : contrôleur d'automate de chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5718</ID>
+      <DefaultText>Quelqu'un a méticuleusement consigné les dates et détails des opérations d'un appareil de surveillance d'automate de chair. Certaines des dernières entrées attirent l'œil :
+
+- J'ai trouvé un doigt coincé dans un mécanisme. J'ai demandé à droite et à gauche. Aucun bibliothécaire n'a signalé la perte d'un doigt. 
+- J'ai démarré la séquence de démarrage et des dents sont tombées. Opération normale ?
+- Aujourd'hui, un nouveau levier a poussé sur le panneau. Je ne suis pas encore certain de ce qu'il contrôle. S'il contrôle quoi que ce soit. C'est dur et chaud. 
+- Le contrôleur a commencé à devenir une forme de vie à part entière. Je suis juste là pour interpréter ses désirs. 
+- L'appareil a refusé de lancer la procédure normale jusqu'à ce que je gratte sa glande préférée, au fond à gauche, à côté d'une grappe d'os. Il a ensuite frissonné un moment avant de m'accorder toute son attention.
+- Ce boulot est dégoûtant, et j'adore ça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5719</ID>
+      <DefaultText>Panoplie écarlate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5720</ID>
+      <DefaultText>L'intense vernis écarlate de cette armure semble changer légèrement selon les mouvements de son porteur, comme une pluie de pétales de rose ou de sang. Les ornements dorés, constitués de nombreux symboles finement ouvragés, sont les vestiges des enchantements qui l'animaient, et la remplissaient d'animosité, quand elle gardait les Archives de la Main occulte.
+
+Elle semble encore en colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5721</ID>
+      <DefaultText>Le Masque de la weyc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5722</ID>
+      <DefaultText>Wael est celui qui voit sans être vu. Ils sont l'Obscurci. Le Visage sans yeux. Le masque est l'outil magique de prédilection des agents de la Main occulte, car il représente leur dieu et ses nombreuses couches métaphoriques. Les prêtres de Wael le portent en méditant, et ces sorciers qui servent l'Obscurci l'arborent pendant leurs rituels secrets.
+
+Ce masque, en particulier, est moulé dans l'or et ne présente presque aucune fioriture. Il appartenait au weyc Heldr, l'un des membres fondateurs de la Main occulte... enfin, d'après leurs histoires. Le front est lisse, mais des runes engwithanes sont gravées à l'intérieur, ce qui accorde de puissants enchantements protecteurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5723</ID>
+      <DefaultText>Fragment externe de la graine divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5724</ID>
+      <DefaultText>Ce cadre de cuivre héberge une superbe pierre. De minuscules runes compliquées semblent bouger sous la surface polie du joyau.
+
+Une légère chaleur s'en dégage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5725</ID>
+      <DefaultText>Fragment externe de la graine divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5726</ID>
+      <DefaultText>Noyau interne de la graine divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5727</ID>
+      <DefaultText>La surface marbrée de cette pierre est changeante, comme si c'était un orbe de verre rempli d'une substance brumeuse. Un anneau de cuivre marque l'équateur de la sphère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5728</ID>
+      <DefaultText>Ce cadre de cuivre héberge une superbe pierre. De minuscules runes compliquées semblent bouger sous la surface polie du joyau.
+
+Une légère chaleur s'en dégage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5729</ID>
+      <DefaultText>Rétina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5730</ID>
+      <DefaultText>Cette réinterprétation humide de la nature vous regarde avec une admiration rêveuse. La petite Rétina n'est pas consciente de sa nature, que certains pourraient qualifier de parodie perverse de l'évolution, voire de moteur autonome à cauchemars. Pour le moment, elle se contente d'être votre amie. Rétina couvre une vue panoramique de ses environs à chaque fois qu'elle ouvre en grand les bras en quête d'un petit câlin... ce qui arrive assez souvent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5731</ID>
+      <DefaultText>Amanita</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5732</ID>
+      <DefaultText>Ses branchies projettent une neurotoxine mortelle quand elle est effrayée... ou plutôt devraient, si quelqu'un ne les avait pas retirées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5733</ID>
+      <DefaultText>"Les dieux nous enlèvent une partie de nous à chaque nouveau tour de Roue, retirant impitoyablement la glaise de tout ce que nous avons appris sur leurs tours divins."
+
+Nous conservons les pâles ombres de nos &lt;i&gt;âmes&lt;/i&gt;, mais le savoir, la mémoire, la personnalité... Tout cela disparaît.
+
+Les dieux craignent-ils que sans cela, nous rivalisions un jour avec eux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5734</ID>
+      <DefaultText>"Les arbres d'Eir Glanfath possèdent des âmes aussi fortes que n'importe quel kith et leurs racines s'étendent sur des kilomètres.
+
+Mais creusez donc sous l'un d'eux, suivez ses racines, et vous constaterez qu'elles ne se terminent pas mais mènent à un arbre voisin. Ce sont de nombreuses âmes qui partagent le &lt;i&gt;même corps&lt;/i&gt;.
+
+Pourquoi les kiths qui le désirent ne pourraient-ils pas faire de même ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5735</ID>
+      <DefaultText>"Une branche d'un arbre peut être greffée sur le tronc d'un autre et donner avec le temps des fruits plus sucrés que si la procédure n'avait pas eu lieu.
+
+Ne serait-il pas possible, alors, de greffer une âme bourgeonnante au rhizome d'un kith volontaire ?
+
+Les âmes ne se diviseraient pas, elles fusionneraient. Ensemble, elles deviendraient plus fortes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5736</ID>
+      <DefaultText>"Les dieux voient des âmes brisées, mais n'en ont cure. Les gens brisés et blessés sont abandonnés comme des malpropres par leurs créateurs et ne reçoivent ni secours, ni aide.
+
+Une âme divisée &lt;i&gt;intentionnellement&lt;/i&gt; serait-elle tout aussi négligeable à leurs yeux ?
+
+Je vais retourner leur apathie contre eux. Je ferai en sorte que leur dédain me &lt;i&gt;profite&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5739</ID>
+      <DefaultText>Le Sacrifice demandé par le Visage sans yeux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5740</ID>
+      <DefaultText>Les pages jaunies de cet épais ouvrage verrouillé sont remplies d'une écriture à l'encre vert foncé.
+
+Le livre contient des poèmes délirants, des formules insensées ainsi que d'impossibles croquis. 
+
+Sur une page, vous trouvez le passage suivant, écrit avec du sang : 
+
+&lt;i&gt;Le titan ne s'ouvre qu'à ceux qui ont percé le mystère de la Tréphine.
+
+Utiliser la Tréphine nécessite de comprendre son fonctionnement.
+
+Ce mystère ne peut être appris, seulement vécu.
+
+La mémoire d'une chose n'est pas cette chose en elle-même.
+
+La mémoire d'une chose est une chose en elle-même. La Tréphine exige qu'on lui sacrifie la connaissance de son fonctionnement. Sacrifiez la connaissance que vous cherchez.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5741</ID>
+      <DefaultText>Corne d'Heldr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5742</ID>
+      <DefaultText>Cet appendice usé du crâne de divin arbore plusieurs spires, suggérant la présence d'yeux vigilants. La corne est parcourue d'énergie, comme si elle était enchantée. Vous doutez qu'elle puisse être endommagée, sauf peut-être par une flamme incroyablement intense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5743</ID>
+      <DefaultText>Mémoires d'Heldr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5744</ID>
+      <DefaultText>Les pages de ce livre sont couvertes d'inscriptions gribouillées en Eld Aedyran. Elles parlent d'Heldr, un dirigeant de la Main occulte qui vivait il y a plusieurs siècles. Bien que le texte soit difficile à lire, et encore plus à interpréter, la fin détaille un rituel dont le but était de réussir à « communier » avec l'Obscurci.
+
+Les mémoires avancent que pour ne faire qu'un avec Wael, un individu doit s'effacer complètement de l'Histoire. Exister dans l'obscurité revient à n'avoir jamais existé.
+
+Pas même dans les écrits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5745</ID>
+      <DefaultText>Trouver et examiner la Corne d'Heldr dans les Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5746</ID>
+      <DefaultText>Trouver et lire les Mémoires d'Heldr dans les Archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5750</ID>
+      <DefaultText>Carnet de notes de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5751</ID>
+      <DefaultText>Bien qu'elles soient imbibées d’eau, les pages de ce carnet tournent sans problème. Le texte, écrit en huana, décrit une vaste forme de vie souterraine constituée d'appendices charnus et d'yeux fermés. Les parties les plus étranges décrivent une communion avec l'entité dans le but d'invoquer un simulacre arcane. 
+
+Vers la fin du carnet, Maura a écrit :
+
+&lt;i&gt;"Wael. Les Cent visions. L'Obscurci. Le Visage sans yeux. Je pense que vous êtes celui qui gît dans cette obscurité. La version de vous qui a jadis arpenté le monde. Pourquoi survivez-vous encore ? Pourquoi ne vous êtes-vous pas réveillé ?
+
+Peut-on vous retourner contre les Étoiles de l'aube ? Ne menace-t-il pas vos mystères ? Ne souhaitez-vous pas le mener à son dernier crépuscule ?"&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5752</ID>
+      <DefaultText>Fongicide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5753</ID>
+      <DefaultText>Les bibliothécaires des Chambres obscurcies semblent avoir développé ce puissant poison afin de lutter contre l'infestation fongique qui s'est échappée de sa prison, dans les Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5755</ID>
+      <DefaultText>Grimoire infesté de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5756</ID>
+      <DefaultText>Relié en cuir de requin et chargé de décennies d'études occultes couchées par l'encre de calamar et la poudre de corail, ce grimoire semble trempé au toucher. 
+
+Il sent aussi le renfermé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5757</ID>
+      <DefaultText>Amulette d'animation désenchantée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5758</ID>
+      <DefaultText>Les runes gravées dans ce pendentif permettent d'animer l'armure qui le porte et lui infusent la grâce et la force d'un guerrier expérimenté... mais pas forcément son intelligence ni sa personnalité. 
+
+Ou, tout du moins, elles le &lt;i&gt;faisaient&lt;/i&gt; avant que vous ne les désenchantiez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5759</ID>
+      <DefaultText>"Une âme greffée échappe au regard des dieux. Elle se propage librement, comme une fièvre du sang, mais ne tue pas son hôte.
+
+Non, je serai une fièvre de l'&lt;i&gt;esprit&lt;/i&gt;. Invisible. Irrésistible.
+
+Éternelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5760</ID>
+      <DefaultText>"Mit jeder Drehung des Rades nehmen die Götter uns das, was uns ausmacht. Auf ihrer göttlichen Drehbank fräsen sie alles fort, das wir jemals gelernt haben."
+
+"Nous conservons les pâles ombres de nos &lt;i&gt;âmes&lt;/i&gt;, mais le savoir, la mémoire, la personnalité... Tout cela disparaît."
+
+"Les dieux ont-ils peur que sans cela, nous rivalisions un jour avec eux ?"
+
+"Les arbres d'Eir Glanfath possèdent des âmes aussi fortes que n'importe quel kith, et leurs racines s'étendent sur des kilomètres."
+
+"Mais creusez donc sous l'un d'eux, suivez ses racines, et vous le constaterez : elles ne se terminent pas, elles mènent à un arbre voisin. Ce sont de nombreuses âmes qui ne partagent qu'&lt;i&gt;un seul corps&lt;/i&gt;."
+
+"Pourquoi les kiths qui le désirent ne pourraient-ils pas faire de même ?"
+
+"Une branche d'un arbre peut être greffée sur le tronc d'un autre, et donner avec le temps des fruits plus sucrés que si la procédure n'avait pas eu lieu."
+
+"Ne serait-il pas possible, alors, de greffer une âme bourgeonnante au rhizome d'un kith volontaire ?"
+
+"Les âmes ne se diviseraient pas, elles fusionneraient. Elles se renforceraient."
+
+"Les dieux voient des âmes brisées, mais n'en ont cure. Les gens brisés, blessés, sont abandonnés en rase campagne par leurs créateurs et ne reçoivent ni secours, ni aide."
+
+"Une âme divisée &lt;i&gt;intentionnellement&lt;/i&gt; serait-elle aussi inconséquente à leurs yeux ?"
+
+"Je retournerai leur apathie contre eux. Je pousserai leur dédain à &lt;i&gt;me servir&lt;/i&gt;."
+
+"Une âme greffée échappe au regard des dieux. Elle se propage librement, comme une fièvre du sang, mais ne tue pas son hôte."
+
+"Non, je serai une fièvre de l'&lt;i&gt;esprit&lt;/i&gt;. Invisible. Irrésistible."
+
+"Éternelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5762</ID>
+      <DefaultText>Clignos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5763</ID>
+      <DefaultText>Ce globe oculaire luisant vous observe sans vous juger, ni même vous jauger. Il se contente de vous suivre. Même s'il est difficile de déterminer si une étincelle d'intelligence anime l'organe flottant, Clignos semble quand même « heureux » de fixer chacune de vos actions... même quand vous dormez. La discrète membrane qui garde Clignos humide a tendance à goutter en cas de stimulation. 
+
+À chaque fois que Clignos jette un coup d'œil dans un couloir ou inspecte une ombre suspecte, vous vous surprenez à l'imiter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5764</ID>
+      <DefaultText>Heaume de plates écarlate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5765</ID>
+      <DefaultText>&lt;i&gt;Je ne serais pas ici si on n'avait pas besoin de moi. Si on ne m'avait pas choisi. Ces lieux, cet archipel, n'ont rien à voir avec chez moi.&lt;/i&gt; 
+
+Comment, &lt;i&gt;je me demande. Ne sommes-nous pas les produits de nos environnements ? Et qu'en est-il de nos cultures ? Cette région, avec ses tempêtes, sa chaleur, ses eaux, n'est pas si différente d'Aedyr... Et pourtant, nous sommes devenus la plus glorieuse culture qu'Eora ait connue, à l'exception d'Engwith, bien entendu. Alors que ces Huanas ne sont guère plus que des pécheurs et des animistes.
+
+Où sont leurs grandes traditions ésotériques ? Et leurs artistes inspirés ? Même des avancées en animancie attireraient une forme de curiosité, quoique malveillante. 
+
+Qu'ont-ils à produire ? Certains d'entre eux peuvent changer l'eau en poisson. Ridicule. Puéril.
+
+Ce manque de curiosité, d'ambition, explique peut-être pourquoi ils sont venus en ces lieux, avant de devenir Eux. &lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5766</ID>
+      <DefaultText>&lt;i&gt;Les Invisibles ont effleuré mes rêves, la nuit dernière. Ils ont choisi d'oublier cet endroit. De nous oublier. D'autres s'inquiéteront, mais je vois sa vraie nature : un cadeau et une récompense.
+
+Wael compte sur nous pour opérer en Leur absence. Pour poursuivre Leur œuvre. Et Ils veulent que nous Les surprenions.
+
+J'ai bien une surprise en tête.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5767</ID>
+      <DefaultText>&lt;i&gt;Le titan a chuchoté à mon oreille dans mes rêves. Je lui ai répondu. Il voit en moi. Je vois en lui. 
+
+Nous communions ensemble.
+
+Nous discutons sous cape du schéma. Il nous permettra d'effacer cette région. De nous effacer nous-mêmes.
+
+Il nous permettra de voir et de rester invisibles.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5768</ID>
+      <DefaultText>&lt;i&gt;Ne parlez pas de la weyc Heldr. Elle a vu sans être vue. Elle a écouté sans être entendue. Elle a touché sans être sentie. Ne parlez pas de la weyc Heldr, qui ne parlerait jamais de vous.
+
+Ne parlez pas de la weyc Heldr, son nom est faux, mais son titre est juste. 
+
+Ne parlez pas de la weyc Heldr, car l'œuvre de son père lui a été confiée.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5769</ID>
+      <DefaultText>&lt;i&gt;N'écoutez pas les dires à propos de la weyc Heldr, la première touchée par les Cent visions. N'écoutez pas les dires à propos de la weyc Heldr, celle qui a arraché la vérité des rêves et créé des mensonges dans le monde éveillé. N'écoutez pas les dires à propos de la weyc Heldr, à qui son père a demandé de faire fléchir le Feu éteint sans fléchir elle-même.
+
+N'écoutez pas les dires à propos de la weyc Heldr, de peur qu'elle écoute les dires à propos de vous. &lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5770</ID>
+      <DefaultText>&lt;i&gt;Ne cherchez pas la weyc Heldr, la Paume de la Main, l'Archimage et la Brigande de l'esprit, la Gardienne sans yeux des Collections de son père, la Créatrice des méthodes et pratiques. 
+
+Ne cherchez pas la weyc Heldr, la Conservatrice du titan, la Protectrice du schéma.
+
+Ne cherchez pas la weyc Heldr, car elle vous regarde sans bouger.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5771</ID>
+      <DefaultText>Essence de la giclure de diablotin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5772</ID>
+      <DefaultText>Cette substance putride est une sorte de combinaison impie d'urine, de bile et de phéromones tirées des glandes puantes d'un diablotin ordinaire. Bien que la communication par giclure soit bien documentée dans le monde naturel, les diablotins sont les seules créatures connues pour employer le langage parlé et le langage par giclure, abusant des deux systèmes lors d'échanges particulièrement désagréables. Personne ne sait vraiment ce qu'ils parviennent à exprimer grâce à leurs effluves, bien que le mécontentement et la colère soient à la base des propos de diablotins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5773</ID>
+      <DefaultText>Gratitude de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5774</ID>
+      <DefaultText>Si on ne s'intéresse qu'à la qualité du métal, ce médaillon n'est pas différent des autres articles des étalages de n'importe quel marché, sauf peut-être pour l'œil expert. Seule une légère radiation de pouvoir trahit ce qui se cache sous la surface. Ouvrir le fermoir révèle un petit compartiment partagé en deux. À gauche se trouve un portrait grossier d'un Tayn qui adresse un clin d'œil et se mord la langue. À droite est gravée une inscription : &lt;i&gt;À [Player Name], pour notre amitié. Tayn l'Archimage.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5777</ID>
+      <DefaultText>"Fassina,
+
+Excusez-moi de demander à un intermédiaire de vous faire parvenir cela, mais j'ai pensé qu'il était plus prudent d'éviter toute confrontation. Aujourd'hui marque la fin de votre apprentissage. 
+
+Vous avez persévéré pour devenir une magicienne au potentiel exceptionnel. Vous avez ignoré mon autorisation pour accéder à des livres que vous n'aviez pas le droit de lire, appris des sorts dépassant vos capacités et même retourner mes diablotins contre moi en une éphémère mutinerie (pensiez-vous que je ne le découvrirais pas ?). 
+
+Tout cela pour dire que vos progrès me réjouissent. Un magicien ne demande pas la permission ni ne se conforme à la structure rigide de l'autorité. Un magicien est un profond sceptique et un agitateur. Même les archimages ne tolèrent que les meilleurs jours le Cercle qu'ils se sont imposé. 
+
+Considérez le sanctuaire de Wael comme votre dernière épreuve avant de pouvoir passer à de meilleurs sujets. Je pense que vous vous montrerez à la hauteur du défi. 
+
+Magiquement vôtre,
+~Arkemyr
+
+P.S. Si vous deviez survivre à l'épreuve, vous pourriez vous servir de la présente comme lettre de recommandation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5780</ID>
+      <DefaultText>Missiles chaotiques de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5781</ID>
+      <DefaultText>Personne ne sait vraiment si Vilo Primavidòrio nomma ainsi cette épée en raison du poids de son improbable lame de plomb ou du mal du pays de son créateur.
+
+Premier forgeron de Pincenze, cité du duché d'Irruchetta de l'ancienne Grande Vailia, Vilo était acclamé par la noblesse locale pour la qualité de ses lames. Il était engagé à prix d'or pour créer des armes toutes plus délicates et élaborées, forgées à partir du meilleur acier que la Grande Vailia puisse compter.
+
+Son travail a attiré l'attention de Pietro Balchessa, frère renié de la Contessa Lina Balchessa et souverain de Pincenze. La Contessa et Pietro étaient férocement portés sur la compétition et n'hésitaient pas à se chamailler sur tout et n'importe quoi : argent, renommée, amour... Vilo accepta les avances de Pietro et refusa celles de la Contessa, et cette dernière le jeta hors de la cité par jalousie et embarras.
+
+Vilo erra de nation en nation, sans jamais pouvoir retrouver un foyer capable de titiller sa muse comme le faisait Pincenze. Il finit par s'installer dans le Feu éteint, où il entreprit de forger Fardeau, son dernier ouvrage. Il ne révéla jamais quelle méthode il employa pour s'assurer que la lame de plomb conserve son mordant. Il mourut la même année d'une maladie sanguine et emporta son secret dans la tombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5782</ID>
+      <DefaultText>L'histoire d'Eora, tome III : Le premier Sans-âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5783</ID>
+      <DefaultText>"Ses parents le nommèrent Gramwin et il dormit profondément toute la nuit, toutes les nuits, dès sa naissance et chaque jour depuis. Il ne criait pas, il ne pleurait pas. Il fixait, d'un œil morne, le monde qui vivait autour de lui.
+
+Gramwin n'avait pas de frère, et il n'en aurait jamais. Quand un enfant voisin aussi silencieux naquit, puis un autre, et encore un autre, les parents de Gramwin furent surnommés porteurs de malédictions. Ils furent brûlés sur la place du village et Gramwin fut abandonné sur une colline juste avant que les premières neiges pointent leur nez.
+
+Cela, bien entendu, n'arrêta pas la crise des Sans-âmes. Rien ne l'arrêta pendant quinze ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5784</ID>
+      <DefaultText>"... mais les delemgans et les adragans ne purent s'entendre. Ils plongèrent dans une guerre civile muette dont le front se figea sur les fermes des colons. Les adragans utilisèrent une sorte de mite native des forêts profondes pour infecter les récoltes de vorlas des Aedyrans. Les colons se crurent attaqués par les delemgans, connus pour être territoriaux, et répliquèrent en rasant les forêts autour de leurs villages. Refusant de baisser les bras, les delemgans drainèrent les aquifères souterrains des colonies vailiennes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5787</ID>
+      <DefaultText>L'histoire d'Eora, tome IV : La fondation de Readceras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5795</ID>
+      <DefaultText>L'histoire d'Eora, tome I : La chute de la Grande Vailia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5805</ID>
+      <DefaultText>"... Engwith ne pouvait accepter un concurrent et encore moins un rival. Ils trouvèrent ces deux qualités chez l'empire orlan des vallées septentrionales. L'organisation sociale des orlans, portée sur la communauté, l'absence de hiérarchie et l'animisme, se révéla bien plus insultante que la présence de l'empire aux frontières d'Engwith. Un tel schéma était en totale opposition avec les valeurs des Engwithans : la vénération de l'individu, l'importance de la position sociale, la dévotion sans borne aux dogmes religieux codifiés..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5806</ID>
+      <DefaultText>L'histoire d'Eora, tome V : Le grand empire orlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5807</ID>
+      <DefaultText>"Engwith n’était pas le seul empire. Elle n’était même pas le premier. Elle était juste plus brutale lors de ses tentatives de domination du monde. Eora a connu d'autres histoires depuis que les premiers dieux l'ont façonnée. Des histoires non pas tissées d'adra et de cuivre, mais de parfum de poésie épique et de chansons proclamées loin des oreilles des kiths.
+
+Restez à l'écoute du chuchotement des contrées libres, et vous connaîtrez l'histoire de la reine ogre et de l'assemblage vithrack. Calmez votre langue et vous goûterez aux repas d'une cité xaurip qui échappe aux yeux de tous, mais s'étend à l'horizon.
+
+Regardez, et vous verrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5808</ID>
+      <DefaultText>L'histoire d'Eora, tome VI : L'histoire des sauvages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5809</ID>
+      <DefaultText>"Les représentants des deux grands empires se rencontrèrent au siège du troisième, et Engwith, Yezuha et Ukaizo s'accordèrent sur un échange : contre terre et pouvoir, Ukaizo cèderait à Engwith un toit pour ses recherches. En échange de soldats capables, Yezuha permettrait à Engwith d'étendre sa religion. C'est ainsi qu'Ukaizo conquit le Feu éteint, que Yezuha conquit Yeshe, et qu'Engwith fit de tous des conspirateurs volontaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5810</ID>
+      <DefaultText>L'histoire d'Eora, tome VII : L'accord tripartite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5811</ID>
+      <DefaultText>"Au cœur de toute créature résident deux choses : une âme et une graine. Une âme a besoin d'une graine pour faire pousser un corps capable de l'héberger. Et plus l'âme est forte, plus le corps l'est aussi. Même les dieux ont besoin d'une forme physique pour agir dans le monde matériel.
+
+Nous ne pouvons pas créer d’âmes, mais nous pouvons les contrôler. Nous pouvons les assembler, les décomposer, et les recoudre encore et encore. Mais nous ne pouvons faire pousser un corps assez grand pour héberger la récolte de l'âme d'un dieu. Sauf si nous pouvons créer la bonne graine.
+
+Mais, dans ce cas, comment peut-on enseigner sa fonction à un objet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5812</ID>
+      <DefaultText>L'histoire d'Eora, tome VIII : La construction des titans divins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5813</ID>
+      <DefaultText>"Bien avant que les kiths n'inventent le temps, les mathématiques ou l'architecture, une tribu insulaire d'éleveurs de chèvres vivait au fond d'une vallée abrupte. Il s'étaient installés dans les grottes qui trouaient les parois et, quand le soleil se couchait, ils regardaient les étoiles flotter dans le vide de la nuit. Leurs observations menèrent à la conception d'une théorie sur la nature des choses, et ainsi débuta une quête visant à la mettre en œuvre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5814</ID>
+      <DefaultText>L'histoire d'Eora, tome IX : La naissance d'Engwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5815</ID>
+      <DefaultText>"... Creitus eut tôt fait de s'instaurer comme le conseiller préféré de Nua et entreprit de détruire l'ordre engwithan de l'intérieur. Ses mensonges érigèrent les puissants les uns contre les autres, et ses contrefaçons sabotèrent des accords commerciaux dont les négociations duraient depuis une décennie.
+
+Exploiter cette discorde lui rapportait quelques sous, sous qu'il destinait aux poches de la population et non aux siennes. Quand on finit par découvrir sa rébellion silencieuse, il fut presque torturé à mort et on lui proposa de choisir entre mettre ses talents au service de ceux qu'il s'était efforcé de détruire ou mourir entre les mains des inquisiteurs de l'église.
+
+Et Creitus survécut... du moins pendant un temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5816</ID>
+      <DefaultText>L'histoire d'Eora, tome X : L'homme qui deviendrait Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5817</ID>
+      <DefaultText>Glasanam Argûes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5818</ID>
+      <DefaultText>Ce petit totem au visage de pierre vous a été donné par l'archimage Llengrath. Il ne pèse pas lourd en main et sa surface est tiède, comme chauffée par un charbon interne. À sa base, on a inscrit le symbole tribal noueux des Gardiens de la pierre ainsi que le mot « glasanamfath ».
+
+Quand vous le portez à votre joue, vous avez l'impression de vous souvenir de vous être blotti sous les branchages d'un chêne antique, alors qu'une tempête se déchaînait autour de vous. Vous vous savez instinctivement au plus profond des forêts d'Eir Glanfath et en sécurité, pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5819</ID>
+      <DefaultText>Tentacule agrippeur de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5820</ID>
+      <DefaultText>Registre : Biens confisqués au sujet K-1121</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5821</ID>
+      <DefaultText>"Articles retirés et catalogués à leur enregistrement :
+1 livre (grimoire).
+1 lunette, fêlée.
+Thé en vrac."
+
+Un ajout a été rédigé d'une main tremblante :
+
+"Le grimoire du sujet K-1121 a un comportement imprévisible (soit aucun) depuis que nous l'avons amenée en bas. Au cours des dernières heures, j'ai remarqué que les runes et les inscriptions s'effaçaient des pages.
+
+Curieusement, le livre semblait plus actif quand je l'ai apporté dans l’alcôve de l'aile est de l'Oratoire de Wael, mais je ne parviens pas à en identifier la raison. Je recommande plus d'observations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5822</ID>
+      <DefaultText>Grimoire céleste de Bekarna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5823</ID>
+      <DefaultText>L'exposition à la lumière des étoiles a permis de restaurer les runes et les inscriptions du grimoire, bien qu'un code complexe rende la majeure partie de l'ouvrage indéchiffrable. 
+
+Un ex-libris dans la couverture contient un court message : 
+
+"En cas de perte, à rapporter à Bekarna en échange d'une petite récompense. Agracima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5824</ID>
+      <DefaultText>Parchemin d'Orbe chaotique de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5825</ID>
+      <DefaultText>Inspiré par l'excentrique magicien aedyran Tayn, l'Orbe chaotique rebondit d'un ennemi à l'autre en leur infligeant des dégâts et divers afflictions tels que pétrification, paralysie, affaiblissement, intoxication, assommement et eveuglement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5826</ID>
+      <DefaultText>Robe du gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5827</ID>
+      <DefaultText>Requête de l'Oracle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5828</ID>
+      <DefaultText>"L'Oracle exige une autre poignée d'œufs de lagufaeth à étudier. Je commence à comprendre pourquoi. Même le lagufaeth le plus lambda fait preuve d'une adaptabilité remarquable à l'état embryonnaire. Leurs coquilles poreuses permettent à leur corps de s'acclimater à l'environnement dans lequel ils vont éclore. Et l'Oracle conçoit des environnements tellement &lt;i&gt;créatifs&lt;/i&gt;.
+
+En comparaison, la biologie kith ne l'intéresse pas vraiment. Nos esprits sont plus malléables que nos corps. Même l'argile ne peut être étirée à l'infini. Tant mieux pour nous.
+
+Notre intendant insolite a un plan. Vu ses centres d'intérêt et l'orientation de ses études, je suis prêt à parier que ce plan implique quatre bras, des dents pointues et un peu trop de globes oculaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5829</ID>
+      <DefaultText>Crème antiseptique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5830</ID>
+      <DefaultText>Baume pour ce dont souffre Wael. Ne pas appliquer sur les yeux. Ne pas ingérer. Ne pas mélanger avec d'autres produits médicaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5831</ID>
+      <DefaultText>Note sur un sujet disparu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5832</ID>
+      <DefaultText>"Le sujet P-0706 s'est évadé de sa cellule et progresse lentement vers d'autres zones de l'établissement. Nous ne pouvons traverser notre bibliothèque sans qu'une branche invisible de la colonie n'asperge nos robes de spores. 
+
+J'ai fait un rapport, mais notre bibliothécaire en chef reste fidèle à elle-même et s'en fiche. Si ce &lt;i&gt;truc&lt;/i&gt; se retrouve dans les rayons interdits, j'espère qu'elle se souviendra de qui l'a avertie."
+
+On a griffonné un ajout plus bas :
+
+"Boras a disparu. Sûrement infesté, digéré, ou pire. Ce qui n'était au départ qu'un désagrément est devenu une tragédie. Je n'ose pas dire au personnel des Archives d'arrêter les recherches. Quand les choses se seront calmées, je me chargerai de leur trouver une nouvelle mascotte pour la bibliothèque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5833</ID>
+      <DefaultText>Note sur l'enfant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5834</ID>
+      <DefaultText>"Sur les ordres du bibliothécaire en chef, nous avons effacé le village natal de l'enfant de toutes les cartes disponibles. La mission pèse sur nos agents les plus secrets, mais il s'agit d'un service public que nous ne pouvons abandonner. Il vaut mieux que certaines tombes soient oubliées.
+
+À notre arrivée, c'était une ville fantôme au sens propre. Des hommes et des femmes invoqués par les souvenirs et les imaginations arpentaient les rues, vaquant à leurs routines journalières, ignorant leur nature spectrale. Marchant sur leurs propres cadavres putréfiés.
+
+Nous n'entendions rien d'autre qu'une musique.
+
+En la suivant, nous avons atteint la grand-place, où nous avons trouvé l'enfant en train de jouer, son instrument éclaboussé du sang des siens. Elle chantait (je ne l'invente pas) qu'elle ne pouvait pas se contrôler et elle nous a supplié de l'aider à arrêter.
+
+Nous avons promis.
+
+Il n'était pas du meilleur goût de trahir sa confiance, mais au moins ses talents seront confinés dans les Collections. Confinés et, avec le temps, maîtrisés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5835</ID>
+      <DefaultText>Note sur le diablotin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5836</ID>
+      <DefaultText>"Je ne veux rien entendre de plus à ce sujet. C'est à cause de vous et de votre amusement que ce prétentieux gazouillant peut se balader librement dans les Collections. Maintenant qu'il s'est échappé, c'est à vous qu'il revient de le retrouver. 
+
+Vous devez aussi mettre la main sur les artefacts dérobés. L'Oracle nous a mis en garde par deux fois pour ce qui est de tenir la magie éloignée des diablotins.
+
+Le bon côté des choses, c'est que cela sera une vraie opportunité de tester notre procédure de « traite » sur un diablotin gonflé. Cela fera une bonne répétition dans l'optique de soumettre Nemnok avant que ses disciples ne puissent plus être contrôlés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5837</ID>
+      <DefaultText>Problèmes de croissance fongique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5838</ID>
+      <DefaultText>"Le champignon a envahi les boyaux supérieurs de la forme divine la plus glorieuse des Cent visions. Il s'avère difficile à éliminer. Les êtres fongiques les plus petits protègent la moisissure, semblables à du mucus sur la paroi... et la moisissure possède son propre moyen de défense.
+
+Qui plus est, l'application de la crème antiseptique sur la moisissure n'a renvoyé aucun résultat concluant. À la place, la crème s'est changée en solide résistant à l'acide. Si ce genre de mixture venait à être introduite dans les canaux biliaires de la forme divine, les conséquences seraient difficilement idéales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5839</ID>
+      <DefaultText>Remarque sur un malheureux sabotage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5840</ID>
+      <DefaultText>"Comme vous me l'aviez demandé, j'ai rendu visite à notre ami S et « modifié » ses cartes. Vos soupçons étaient justifiés, il est... enfin était... sur le point de faire une découverte majeure. J'ai horreur de ruiner la carrière d'un homme de la sorte, mais dans l'intérêt général, certaines îles ne doivent jamais être cartographiées.
+
+Il est du genre malin. S'il nous en prenait l'envie, nous pourrions le rallier à notre cause. Bien qu'il y réfléchirait à deux fois s'il venait à découvrir ce petit contretemps.
+
+Son chien est, comme toujours, sympathique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5841</ID>
+      <DefaultText>Une missive partielle : 1 sur 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5842</ID>
+      <DefaultText>La plus grosse partie des écritures de ce parchemin semble volontairement omise.
+
+"Initié, 
+
+Je... que... avez... des... marchandises... pensiez... je... pas... des... pendant... patrouille ?... avez... que... clous... vos... 
+
+Vous... tort... que... pouviez... votre... enterré »... les... Je... pas... jour... supercherie... parce que... voulais... laisser... de... racheter. 
+
+... Le bibliothécaire..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5843</ID>
+      <DefaultText>Une missive partielle : 2 sur 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5844</ID>
+      <DefaultText>La plus grosse partie des écritures de ce parchemin semble volontairement omise.
+
+"... sais... vous... chapardé... confisquées... Vous... que... n'entendrais... le tintement... pièces... votre... Vous... bien... plus... des... dans... poches...
+
+... aviez... de... croire... vous... cacher... « trésor... dans... habitats... ... n'ai... mis au... votre... uniquement... ... je... vous... une... chance... vous... Prenez-la...
+
+... en chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5845</ID>
+      <DefaultText>Votre stature est compromise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5846</ID>
+      <DefaultText>"Initié,
+
+Je sais que vous avez chapardé des marchandises confisquées. Vous pensiez que je n'entendrais pas le tintement des pièces pendant votre patrouille ? Vous avez bien plus que des clous dans votre poche.
+
+Vous aviez tort de croire que vous pouviez cacher votre « trésor enterré » dans les habitats. Je n'ai pas mis au jour votre supercherie parce que je voulais vous laisser une chance de vous racheter. 
+
+Prenez-la.
+
+Le bibliothécaire en chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5847</ID>
+      <DefaultText>Spectres célestes : Des visiteurs venus d'au-delà de l'Au-delà</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5848</ID>
+      <DefaultText>Ce journal contient des extraits d'entretiens et des déclarations portant sur des activités célestes inhabituelles. On a corné une page et souligné avec enthousiasme un passage :
+
+"Le sujet suivit la chute d'une étoile filante. Dans son témoignage, il a affirmé que des esprits en colère (?) arpentaient le cratère. Le sujet s'est échappé de justesse et s'est plaint par la suite de vertiges, de pertes de mémoire et de migraines. Notre animancien local a confirmé ce que nous soupçonnions : le sujet a perdu une quantité importante d'essence, et ce n'était pas une perte propre. On aurait plutôt dit qu'elle avait été arrachée à coups de dents. Je recommande un internement permanent dans un des habitats pour kiths." 
+
+Quelques mots sont griffonnés dans la marge : "Territorial. Affamé. Sacrifice par soi-même ou par quelqu'un d'autre ?" 
+
+On a dessiné une étoile filante sur la partie inférieure de la page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5849</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5850</ID>
+      <DefaultText>Grimoire céleste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5851</ID>
+      <DefaultText>Dégager les tunnels du sud-est</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5852</ID>
+      <DefaultText>"La forme divine du glorieux Visage sans yeux continue de s'étendre au sud. Utilisez ces appareils pour approfondir les tunnels. Faites-le avant que la forme divine ne les envahisse, pour ne pas endommager sa magnifique création."</DefaultText>
+      <FemaleText>"La forme divine du glorieux Visage sans yeux continue de s'étendre au sud. Utilisez ces appareils pour approfondir les tunnels. Faites-le avant que la forme divine ne les envahisse, pour ne pas endommager sa magnifique création."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5853</ID>
+      <DefaultText>L'histoire d'Eora, tome XI : La redécouverte de Yezuha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5854</ID>
+      <DefaultText>"Ils ne se souviennent pas de nous. Ils étaient nous autrefois, ou l'inverse. Avant l'ascension, avant la destruction, avant la tempête. Nous sommes désormais étrangers, et nos salutations ne sont plus que des exclamations inintelligibles.
+
+Mais ils se souviendront. Nous allons leur rappeler. Et nous jugerons le travail qu'ils ont accompli durant notre longue absence. Ils feraient mieux d'espérer que nous le trouvions suffisant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5855</ID>
+      <DefaultText>L'histoire d'Eora, tome XII : La reprise des Terres vivantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5856</ID>
+      <DefaultText>"Quand les forces du fidèle quittèrent Aedyr, l'exhortation d'Héamecwyn résonnait encore dans toutes les têtes.
+
+« Ne laissez pas les sauvages maussades de ce continent sans loi souffrir plus, loin de la main maternelle de la Reine qui était et qui sera à nouveau ! Délivrez-les de la sauvagerie, pour qu'ils puissent nous rejoindre dans la civilisation et jouir bientôt des récompenses de leur piété découverte. »
+
+« À l'instar de la Reine, je vous le demande : prenez le fardeau de l'empire. Libérez-les d'eux-mêmes. »"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5857</ID>
+      <DefaultText>L'histoire d'Eora, tome XIII : Le dernier âge de glace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5858</ID>
+      <DefaultText>"... et ainsi, le Vytmádh devint la bouche béante à travers laquelle Ryrmrgand tira son premier souffle. La Bête dévora les âmes du Feu éteint et souffla un froid misérable qui balaya l'archipel alors tempéré. En trois mois, Neketaka était couverte d'une glace scintillante. En six, Ukaizo disparaissait sous une dune de neige cristalline..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5859</ID>
+      <DefaultText>L'histoire d'Eora, tome XIV : La disparition des divins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5860</ID>
+      <DefaultText>"... dix mille des couronnés de feu tombèrent à genoux alors que Magran exploitait leur pouvoir pour faire pleuvoir l'enfer. Les préférés d'Ondra formèrent un raz-de-marée qui engloutit le Rauatai. Quant aux enfants de Galawain..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5861</ID>
+      <DefaultText>L'histoire d'Eora, tome XV : Le trône de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5862</ID>
+      <DefaultText>"... taillé dans les éclats d'Engwith et une dévotion terrifiée, le trône transcenda les frontières de l'Ici-bas, des Limbes et de l'Au-delà, et chacun, à son tour, fut forcé de s'agenouiller devant. Tous implorèrent, autant les anciens divins que leurs fidèles, mais la seule grâce accordée fut la mort... Et une renaissance en tant que serviteurs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5863</ID>
+      <DefaultText>L'histoire d'Eora, tome XVI : La fin des dieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5864</ID>
+      <DefaultText>"... et lors de la dernière heure silencieuse, un appel jaillit de nulle part. « Qui est là ? » demanda la voix née de rien, et personne ne lui répondit. Au milieu du silence, un chœur venteux commença a souffler une nouvelle musique, une que personne ne connaissait. Et elle résonna dans le nulle part. Le rien répondit d'un murmure et du début d'un mot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5865</ID>
+      <DefaultText>Essayez le Hachoir à bestioles !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5866</ID>
+      <DefaultText>À [Player Name], capitaine du [Player Ship]. 
+
+Je sais ce que vous pensez : &lt;i&gt;j'ai bien trop de chats, chiens, cochons, oiseaux et cochonnets adorables.&lt;/i&gt; 
+
+Comme vous, autrefois je croyais pouvoir recueillir des animaux égarés, m'occuper d'eux et tous les gratifier de la même affection. Mais nous sommes des êtres limités, notamment au niveau de la quantité d'amour à diffuser ! Que c'est désagréable, injuste et malheureux. 
+
+C'est pourquoi j'ai pris sur moi-même d'optimiser mon affection et de réduire mes soins animaliers. Je vous présente le Hachoir à bestioles ! 
+
+Le Hachoir est un dispositif pratique et sans contraintes morales, arraché d'un vrai site de fouilles engwithan et dont la gloire passée a été restaurée. Glissez simplement votre félin préféré à l'une des extrémités et laissez le Hachoir faire son travail. 
+
+Et ce n'est pas tout ! Regardez, &lt;i&gt;le Hachoir est doté d'une mémoire&lt;/i&gt;. Flanquez un oiseau blanc dedans ? Il s'en souvient. Un cochon violet ? Il s'en souvient. Il se rappelle même des forces et des faiblesses de votre animal, ainsi que des endroits où il préférait faire ses besoins. 
+
+Maintenant, votre ami à poils ne se contente pas de sortir du Hachoir exactement pareil qu'à son entrée. Non, il en sort &lt;i&gt;différent.&lt;/i&gt; Meilleur ! Parfois. C'est là que ça devient amusant. &lt;i&gt;Les combinaisons !&lt;/i&gt; Vous souhaitez avoir un oiseau qui pense comme un cochon ? Vous voulez un chat qui pense comme un autre chat qui lui est supérieur ? Le Hachoir peut s'en occuper ! 
+
+Vous me rendriez un service de proportion épique si vous donniez une chance au Hachoir à bestioles. Quand les gens vous verront vous en servir, tout le monde se l'arrachera ! Je l'ai déplacé au fond du Placard sombre, au promontoire de Periki, à Neketaka. Vous trouverez le Hachoir pile à l'ouest du bonhomme en bois. 
+
+~Un ami et confrère ami des animaux. 
+
+P.S. J'ai ajusté l'entrée pour qu'on ne puisse plus y mettre des orlans et j'ai bien nettoyé le tout. De rien !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5867</ID>
+      <DefaultText>Note manuscrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5868</ID>
+      <DefaultText>&lt;i&gt;La Main m'a dépossédé de moi-même. Il n'y a pas d'autre façon de le dire. Des morceaux de moi, du moi que j'étais autrefois, ont sombré, disparu au fond de ces gueules hurlantes.
+
+Sont-ils encore là ? Puis-je les récupérer ? Ou les a-t-on entraînés dans les profondeurs insondables ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5869</ID>
+      <DefaultText>Courte note</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5870</ID>
+      <DefaultText>&lt;i&gt;Je tuerais ma propre mère pour un verre de saucco si elle n'était pas déjà dans la tombe depuis un siècle.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5871</ID>
+      <DefaultText>Note rédigée avec soin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5872</ID>
+      <DefaultText>&lt;i&gt;Je me souviens d'Aedyr comme on se rappelle un rêve. Une lumière vive sur des eaux chatoyantes. Des citadelles miroitantes. D'immenses arbres.
+
+Seulement des impressions vagues.
+
+Était-ce comme ça, avant ? Pouvons-nous vraiment nous souvenir clairement de quelque chose en dehors des histoires que nous brodons nous-mêmes ?
+
+Ou la Main occulte m'a-t-elle également volé mon foyer ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5873</ID>
+      <DefaultText>Note écrite d'une main tremblante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5874</ID>
+      <DefaultText>&lt;i&gt;Plus je découvre cet endroit, moins je le comprends. Le problème n'est pas au niveau des détails. Ceux-là sont suffisamment compréhensibles. Peut-être même trop.
+
+Wael garde des secrets, mais il les garde de travers. Cependant, tout ce qu'on trouve entre ces murs a été organisé. Catégorisé. Stérilisé.
+
+Cet endroit ne dépend pas de la volonté de Wael.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5875</ID>
+      <DefaultText>Note griffonnée à la va-vite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5876</ID>
+      <DefaultText>&lt;i&gt;Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.
+Cet endroit ne dépend pas de la volonté de Wael.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5877</ID>
+      <DefaultText>Note salie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5878</ID>
+      <DefaultText>&lt;i&gt;Rappelez-vous de l'apprentie. Les cheveux blonds comme l'hydromel et les oreilles en forme de feuilles de saule. Des enchantements affûtés et mordants, aussi propres et précis que le baiser d'une rapière.
+
+Rappelez-vous d'elle. Trouvez-la. Vous pouvez lui faire confiance. Je crois que vous pouvez lui faire confiance. Faites-lui confiance, mais pas trop.
+
+Comment s'appelait-elle ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5879</ID>
+      <DefaultText>Note griffonnée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5880</ID>
+      <DefaultText>&lt;i&gt;Rappelez-vous qui vous êtes, Fyonlecg. Rappelez-vous ce que vous avez fait pour la Main occulte. Rappelez-vous leur trahison.
+
+Qu'avez-vous découvert ? Était-ce le secret de trop ?&lt;/i&gt;</DefaultText>
+      <FemaleText>&lt;i&gt;Rappelez-vous qui vous êtes, Fyonlecg. Rappelez-vous ce que vous avez fait pour la Main occulte. Rappelez-vous leur trahison.
+
+Qu'avez-vous découvert ? Était-ce le secret de trop ?&lt;/i&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5881</ID>
+      <DefaultText>Note écrite d'une main ferme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5882</ID>
+      <DefaultText>&lt;i&gt;Pendant toutes ces années passées en son sein, je n'ai jamais demandé quoi que ce soit au Cercle ! On pourrait penser que la disparition d'un archimage mériterait son attention !
+
+Ceci dit, à quand remonte la dernière discussion que quelqu'un a eu avec Citzal ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5883</ID>
+      <DefaultText>Note cachée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5884</ID>
+      <DefaultText>&lt;i&gt;J'ai trouvé une lame, tout à l'heure. Je l'ai soulevée et elle ne semblait pas familière... comme si je n'en avais jamais portée auparavant. J'étais un chevalier, non ?
+
+Je crois que j'en étais un.
+
+Comment peuvent-ils prendre ce genre de chose ? Quelque chose d'aussi ancré dans l'âme ?
+
+Quel est cet endroit ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5885</ID>
+      <DefaultText>Note brève</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5886</ID>
+      <DefaultText>&lt;i&gt;Je me sens comme une bouteille débouchée. Je ne me déverse pas, mais je m'évapore... lentement. Peut-on endiguer cette détérioration ? Comment peut-on se remplir à nouveau de soi-même ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5887</ID>
+      <DefaultText>Note gribouillée et censurée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5888</ID>
+      <DefaultText>&lt;i&gt;La Main est-elle née ici ? Est-ce sa véritable forme ? Ou est-ce que le sein est rongé par la gangrène ?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5889</ID>
+      <DefaultText>Note écrite récemment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5890</ID>
+      <DefaultText>&lt;i&gt;Le monde trembla. Depuis combien de temps est-ce que je suis là ? Trop et assez longtemps. Et pourtant, cela n'est jamais arrivé jusqu'à présent.
+
+Maintenant, des choses bougent dans l'obscurité. Des choses regardent.
+
+Quelque chose a changé.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5891</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5892</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5893</ID>
+      <DefaultText>Boras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5894</ID>
+      <DefaultText>Ce vieil homme poilu aime dormir, l'affection des étrangers, les tragédies classiques, et l'odeur des thés aux herbes. Il veut sûrement vous aider à étudier.</DefaultText>
+      <FemaleText>Ce vieil homme poilu aime dormir, l'affection des étrangers, les tragédies classiques, et l'odeur des thés aux herbes. Il veut sûrement vous aider à étudier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5895</ID>
+      <DefaultText>Votre animal a changé. Bien qu'il continue fidèlement de vous suivre, plein d'entrain, ses mouvements précis et saccadés ont un petit quelque chose d'inhabituel. Contre nature. Il est peut-être encore étourdi des « ajustements » récemment endurés. Ou peut-être qu'il en a trop vu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5896</ID>
+      <DefaultText>Ingrédient fongique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5897</ID>
+      <DefaultText>Morceau de mousse humide et habilement découpé. Et garni de pustules mûres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5898</ID>
+      <DefaultText>Entrée du catalogue : Contrat de garde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5899</ID>
+      <DefaultText>&lt;i&gt;Ce morceau de parchemin rongé par le temps semble détailler l'emplacement actuel d'un contrat dans les Archives.&lt;/i&gt;
+
+"Le contrat concernant nos gardes des Collections a été identifié comme principal candidat pour une duplication en raison de son état de décomposition. Il attend son tour chez le Scribe sans main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5900</ID>
+      <DefaultText>Entrée du catalogue : Grimoire céleste de Bekarna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5901</ID>
+      <DefaultText>&lt;i&gt;Ce parchemin constellé de spores semble détailler l'emplacement actuel d'un étrange grimoire dans les Archives.&lt;/i&gt;
+
+"L'un des travaux récemment acquis par les Collections était en possession d'un grimoire contenant un assortiment alarmant d'hérésies astronomiques. Il a été enfermé par précaution dans la Section en quarantaine des Archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5902</ID>
+      <DefaultText>Entrée du catalogue : Incantations de la Main</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5903</ID>
+      <DefaultText>&lt;i&gt;Ce parchemin friable semble détailler l'emplacement dans les Archives d'un livre récemment manuscrit.&lt;/i&gt;
+
+"L'interprétation des &lt;i&gt;Incantations&lt;/i&gt;, pour cette décennie, a été achevée, bien que de justesse : le volontaire que nous avons emprunté pour la rédaction a expiré après avoir couché le dernier mot. Elle a été placée dans une salle appropriée des Archives, pour que nous puissions tous garder un œil reconnaissant dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5904</ID>
+      <DefaultText>Entrée du catalogue : Registre d'entretien : contrôleur d’automate de chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5905</ID>
+      <DefaultText>&lt;i&gt;Ce parchemin rongé par les âges semble détailler l'emplacement actuel d'un manuel d'utilisation du contrôleur d'automate de chair dans les Archives.&lt;/i&gt;
+
+"La bibliothécaire en chef a surpris un des gardes en train d'étudier de près le manuel du contrôleur d'automate. Ils ne doivent en aucun cas avoir accès à une technologie si avancée. Le manuel a été déplacé dans la Bibliothèque de prêt des Rayons centraux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5906</ID>
+      <DefaultText>Entrée du catalogue : Mémoires d'Heldr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5907</ID>
+      <DefaultText>&lt;i&gt;Ce morceau de parchemin rongé par le temps semble détailler l'emplacement actuel d'un livre dans les Archives.&lt;/i&gt;
+
+"En réponse au récent départ de la weyc Heldr, ses mémoires incomplètes ont été déplacées dans son étude, dans l'Oratoire, et y resteront jusqu'à ce qu'elle les termine ou que son corps soit retrouvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5908</ID>
+      <DefaultText>Entrée du catalogue : Manuscrit illuminé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5909</ID>
+      <DefaultText>&lt;i&gt;Ce parchemin fragile semble détailler une récente acquisition des Archives  : un manuscrit d'une valeur considérable.&lt;/i&gt;
+
+"Un autre livre a trouvé un moyen d'entrer. Il a volé directement depuis les profondeurs, comme un pigeon doré. D'où viennent-ils ? Des murs ? Mais je viens &lt;i&gt;tout juste&lt;/i&gt; de boucher le trou du Temple de la révélation, et la bibliothécaire en chef raconte qu'elle a arrêté de ramasser les livres abandonnés sur les trottoirs de Neketaka. Les &lt;i&gt;spores&lt;/i&gt; n'ont certainement pas appris à écrire..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5911</ID>
+      <DefaultText>Charge alchimique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5912</ID>
+      <DefaultText>Cet appareil simple contient deux petits réservoirs. Quand les réceptacles sont brisés, les substances qu'ils contiennent se mélangent et créent une explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5913</ID>
+      <DefaultText>Engrais fongique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5914</ID>
+      <DefaultText>Tirée avec soin d'un puissant fongicide, cette mixture devrait faire de vos champignons l'objet de toutes les jalousies.</DefaultText>
+      <FemaleText>Tirée avec soin d'un puissant fongicide, cette mixture devrait faire de vos champignons l'objet de toutes les jalousies.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5915</ID>
+      <DefaultText>Recette : Étourdissement enchanteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5916</ID>
+      <DefaultText>"Les toutes dernières pièces des Collections ont mal dormi à cause des cris persistants. Nos collègues des Archives ont proposé une plaisante concoction tirée d'une moisissure trouvée dans les parchemins. 
+
+Je n'ai jamais aussi bien dormi, mais si les cris de notre dieu ne nous réveillent plus, ne devrions-nous pas plutôt dormir éternellement ?" 
+
+La recette est rédigée avec des illustrations simples. Même un diablotin pourrait la lire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5917</ID>
+      <DefaultText>"Les initiés ont recommencé à mélanger de dangereux stimulants pour rester en alerte lors des longues gardes. Cette fois, je les ai surpris à traire l'essence des terreurs nocturnes de nos hôtes des Collections. C'est pour cela que j'ai dû rester et observer les résultats en personne. La concoction a eu des effets secondaires plutôt spectaculaires et leur a accordé à tous une bonne nuit de sommeil. Ils étaient raisonnablement efficaces au réveil, bien que plutôt secoués." 
+
+La recette est rédigée avec des illustrations simples. Même un diablotin pourrait la lire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5918</ID>
+      <DefaultText>Recette : Cauchemars revigorants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5919</ID>
+      <DefaultText>Manuscrits de la graine divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5920</ID>
+      <DefaultText>Des pages de diagrammes arcanes complexes et déroutants décrivent un appareil finement ouvragé, constitué de cuivre et de pierre et incrusté de couches d'enchantements.
+
+Assemblage requis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5921</ID>
+      <DefaultText>Rappel : Protégez les biens précieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5922</ID>
+      <DefaultText>"Dernier rappel : ne pas déranger les sujets lorsqu'ils écoutent la musique de la fosse. Les misérables se sont entichés de la musique de notre bienfaiteur et ils attaqueront quiconque endommagerait les orifices de l'orgue. 
+
+Si un sujet venait à reprendre ses esprits, éloignez-le en douceur de la fosse et ramenez-le vers une ouverture d'où il pourra rejoindre les autres dans une merveilleuse indifférence. Nous aimerions réduire le taux de suicide, ce trimestre. 
+
+Ce rappel sert aussi à indiquer que nous avons épuisé notre réserve de bouchons d'oreille. Les contremaîtres ont l'autorisation de distribuer de la cire à bougie chaude en attendant que quelqu'un s'aventure en haut pour prendre un ravitaillement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5923</ID>
+      <DefaultText>Croquis anatomique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5924</ID>
+      <DefaultText>Il n'est pas signé et les notes griffonnées autour ne sont pas lisible du tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5925</ID>
+      <DefaultText>Notation musicale dégradée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5927</ID>
+      <DefaultText>Copie dorée du Récit très malheureux de Favia et Bernat : une tragédie vailienne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5928</ID>
+      <DefaultText>Tome de préservation de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5929</ID>
+      <DefaultText>Vous avez ramassé ce petit totem au visage de pierre sur le cadavre de l'archimage Llengrath. Il ne pèse pas lourd en main et sa surface est tiède, comme réchauffée par un charbon se trouvant à l'intérieur. À sa base, on a inscrit le symbole tribal noueux des Gardiens de la pierre ainsi que le mot « glasanamfath ».
+
+Quand vous le portez à votre joue, un souvenir fugitif vous traverse : vous êtes blotti sous les branchages d'un chêne antique alors qu'une pluie battante s'abat autour de vous. D'instinct, vous vous savez au plus profond des forêts d'Eir Glanfath et en sécurité, pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5930</ID>
+      <DefaultText>Si on ne s'intéresse qu'à la qualité du métal, ce médaillon ne se distingue pas des autres articles des étalages de n'importe quel marché, sauf peut-être pour un œil expert. Seule une légère radiation de pouvoir trahit ce qui se cache sous la surface. Ouvrir le fermoir révèle un petit compartiment partagé en deux. À droite se trouve un portrait grossier d'un Tayn qui adresse un clin d'œil et se mord la langue. À gauche est gravée une inscription : &lt;i&gt;À Llen, ma meilleure amie. De la part de votre archimage préféré, Tayn l'Archimage.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

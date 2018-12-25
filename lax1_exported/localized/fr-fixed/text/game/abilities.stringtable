@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>87</EntryCount>
+  <EntryCount>89</EntryCount>
   <Entries>
     <Entry>
       <ID>3974</ID>
@@ -390,6 +390,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4938</ID>
+      <DefaultText>Écrasement d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4991</ID>
       <DefaultText>Soutien de Muātu</DefaultText>
       <FemaleText />
@@ -437,6 +442,11 @@
     <Entry>
       <ID>5034</ID>
       <DefaultText>Anéantir les âmes du Creuset a permis au Gardien de s'attirer un peu plus les faveurs de Rymrgand, augmentant sa Précision contre les réceptacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Allégeance suprême</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

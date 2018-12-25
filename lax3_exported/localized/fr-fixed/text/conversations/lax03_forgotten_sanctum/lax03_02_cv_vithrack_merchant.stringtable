@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_vithrack_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La vithrack flotte devant vous, ses mandibules frémissant légèrement tandis qu'elle vous scrute de ses yeux immobiles, pareils à des gemmes ornant sa tête.</DefaultText>
+      <FemaleText>La vithrack flotte devant vous, ses mandibules frémissant légèrement tandis qu'elle vous scrute de ses yeux immobiles, pareils à des gemmes ornant sa tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Bienvenue à nouveau, allié kith.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Avez-vous toujours vécu ici ?"</DefaultText>
+      <FemaleText>"Avez-vous toujours vécu ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partir] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;En effet. Éclose dans l'obscurité. Celle-ci a servi le contrat, comme l'a fait la colonie des générations durant.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;ispeech&gt;Venez y jeter un œil. Celle-ci en a façonné une grande partie.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Sissak a dit à celle-ci que vous avez libéré la colonie de sa servitude. Celle-ci est reconnaissante et vous présentes ses sincères excuses pour tout... malentendu passé.&lt;/ispeech&gt; 
+
+Ses mandibules s'entrechoquent doucement. </DefaultText>
+      <FemaleText>&lt;ispeech&gt;Sissak a dit à celle-ci que vous avez libéré la colonie de sa servitude. Celle-ci est reconnaissante et vous présentes ses sincères excuses pour tout... malentendu passé.&lt;/ispeech&gt; 
+
+Ses mandibules s'entrechoquent doucement. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>D'un grand geste de ses doigts grêles, elle indique les objets empilés près d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'accepte vos excuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eh bien, j'ai fait preuve de violence moi aussi, disons que tout cela appartient au passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Des excuses, d'accord. Comment comptez-vous vous faire pardonner ?"</DefaultText>
+      <FemaleText>"Des excuses, d'accord. Comment comptez-vous vous faire pardonner ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Émettre un grognement et hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;Les provisions de la colonie provenant de la surface sont limitées, mais celle-ci a recueilli et créé des choses en ce lieu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;C'est avec plaisir que celle-ci les offre à l'allié kith, en échange d'autres biens ou d'argent. &lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Ce qui ne veut pas dire que celle-ci n'est jamais partie d'ici. Il y a parfois du travail à effectuer à la surface.&lt;/ispeech&gt;
+
+Elle hausse les épaules, ses bras tout entiers accompagnant son geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Mais le petit kith nous a libérés de ce joug. Celle-ci vous est toujours reconnaissante.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Mais la petite kith nous a libérés de ce joug. Celle-ci vous est toujours reconnaissante.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"À quoi vous sert l'argent ici ?"</DefaultText>
+      <FemaleText>"À quoi vous sert l'argent ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;C'est le secret de celle-ci, le petit kith n'a pas à le savoir.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_oracle_puzzle_section_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La lumière éclairant le livre posé sur le piédestal semble foncer les mots sur les pages. 
+
+L'écriture devient grasse et floue, avant de dégouliner des pages inclinées puis du livre même, jusque dans une vasque au pied du pupitre placée à cet effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Placer les Mémoires d'Heldr sur le pupitre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La lumière chatoie sur le tome, et les lettres de la weyc Heldr se mettent à fondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>De l'encre coule également entre les pages, donnant l'impression que le livre même pleure.
+
+Alors que tombe la dernière goutte d'encre, les pages se retrouvent d'un blanc immaculé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le Pupitre de l'assombrissement se tient vide devant vous.</DefaultText>
+      <FemaleText>Le Pupitre de l'assombrissement se tient vide devant vous.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

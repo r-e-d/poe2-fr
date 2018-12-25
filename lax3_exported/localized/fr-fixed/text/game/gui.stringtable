@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>Combiner la couronne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Réhabilitation de la reine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina - Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina - Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina - Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina - Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina - Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina - Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>Sanctuaire oublié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4932</ID>
+      <DefaultText>Érudit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4968</ID>
+      <DefaultText>Pieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5019</ID>
+      <DefaultText>&lt;b&gt;The Forgotten Sanctum&lt;/b&gt; a été installé. Vous commencerez automatiquement la première quête de cette aventure lorsqu'un visiteur fera son apparition en haute mer, une fois que vous aurez avancé assez loin dans Pillars of Eternity II: Deadfire, vous permettant d'accéder au Sanctuaire oublié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5024</ID>
+      <DefaultText>Vers le Temple de la Révélation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5033</ID>
+      <DefaultText>Vers le Scriptorium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5034</ID>
+      <DefaultText>Vers les Collections</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Vers les Piles en quarantaine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5047</ID>
+      <DefaultText>Vers la Section restreinte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5048</ID>
+      <DefaultText>Vers l'Oratoire de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5049</ID>
+      <DefaultText>Chambre alchimique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5050</ID>
+      <DefaultText>Passage vers les profondeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5051</ID>
+      <DefaultText>Vestiges célestes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5052</ID>
+      <DefaultText>Observatoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5053</ID>
+      <DefaultText>Syphon à souvenirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5054</ID>
+      <DefaultText>Sous-sol des Archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5055</ID>
+      <DefaultText>Site d'excavation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Vers les Archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5060</ID>
+      <DefaultText>Incinérateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5061</ID>
+      <DefaultText>Héritage d'Heldr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Pupitre d'assombrissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5076</ID>
+      <DefaultText>Fosse hurlante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5079</ID>
+      <DefaultText>Enclos des sorciers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5080</ID>
+      <DefaultText>Enclos des spores</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5081</ID>
+      <DefaultText>Enclos des marins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5082</ID>
+      <DefaultText>Enclos des mênpŵgras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5083</ID>
+      <DefaultText>Enclos des bêtes oniriques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5084</ID>
+      <DefaultText>Enclos des xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5121</ID>
+      <DefaultText>Écloserie des araignées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5128</ID>
+      <DefaultText>Vers l'Assemblée des échos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>Chambre sanglante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5156</ID>
+      <DefaultText>Salle d'attente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5157</ID>
+      <DefaultText>Alcôve des incisions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5158</ID>
+      <DefaultText>Gestion de la chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5160</ID>
+      <DefaultText>Vers le Titan du dessous</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5166</ID>
+      <DefaultText>Trou enfoui</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5167</ID>
+      <DefaultText>Vers les Rayons centraux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5172</ID>
+      <DefaultText>Salle de l'invisible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5182</ID>
+      <DefaultText>Division des créatures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5183</ID>
+      <DefaultText>Assemblage des créatures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5184</ID>
+      <DefaultText>Animaux de compagnie pouvant être sacrifiés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5185</ID>
+      <DefaultText>Animaux de compagnie pouvant être créés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5186</ID>
+      <DefaultText>Placer un animal de compagnie à sacrifier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5187</ID>
+      <DefaultText>Apparence à ajouter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5188</ID>
+      <DefaultText>Bonus à ajouter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5189</ID>
+      <DefaultText>Placer un animal de compagnie pour son apparence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Placer un animal de compagnie pour ses bonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5191</ID>
+      <DefaultText>Sacrifier animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5192</ID>
+      <DefaultText>Créer animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5198</ID>
+      <DefaultText>Combiner missives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5204</ID>
+      <DefaultText>Croissance fongique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5213</ID>
+      <DefaultText>Un oiseau malformé et léthargique lâche une missive humide sur le pont. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5215</ID>
+      <DefaultText>Enclos des rathuns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5216</ID>
+      <DefaultText>Enclos des vailiens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5217</ID>
+      <DefaultText>Enclos des roparus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5218</ID>
+      <DefaultText>Enclos des matarus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5219</ID>
+      <DefaultText>Enclos vide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5223</ID>
+      <DefaultText>Articles confisqués</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

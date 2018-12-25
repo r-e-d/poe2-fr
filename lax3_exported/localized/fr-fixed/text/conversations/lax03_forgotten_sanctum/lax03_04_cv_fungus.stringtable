@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_fungus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Des pustules charnues pareilles à des tétons se forment parmi les champignons à intervalles irréguliers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Recueillir les pustules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Prendre un peu de moisissure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Recueillir les pustules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous récoltez un peu de moisissure et votre main entre en contact avec le liquide d'une pustule éclatée.
+
+Elle commence immédiatement à gratter.</DefaultText>
+      <FemaleText>Vous récoltez un peu de moisissure et votre main entre en contact avec le liquide d'une pustule éclatée.
+
+Elle commence immédiatement à gratter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Avec précaution, vous tranchez quelques pustules sans les éclater.</DefaultText>
+      <FemaleText>Avec précaution, vous tranchez quelques pustules sans les éclater.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous collectez aisément des échantillons de moisissure, pustules incluses.</DefaultText>
+      <FemaleText>Vous collectez aisément des échantillons de moisissure, pustules incluses.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Une moisissure lisse recouvre le mur. De l'humidité perle à sa surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

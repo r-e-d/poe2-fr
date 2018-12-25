@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Histoire annotée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entrer dans les Archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Poursuivre Maura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Confronter Maura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Confronter Fyonlecg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Trouver le livre que Maura cherchait dans l'Oratoire de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Utiliser les Incantations de la Main occulte pour ouvrir la Porte renforcé qui mène à l'Oratoire de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Entrer dans l'Oratoire de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'archimage &lt;b&gt;Maura&lt;/b&gt; est entrée dans les Chambres obscurcies dans l'espoir de trouver quelque chose capable de mettre un terme au pèlerinage destructeur d'Éothas.
+
+Après avoir lu les notes laissées par Maura dans le Temple de la révélation, Tayn et Llengrath pensent qu'elle est allée jusqu'aux &lt;b&gt;Archives&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je dois trouver un moyen d'accéder aux &lt;b&gt;Archives&lt;/b&gt; si je veux avoir une chance de trouver &lt;b&gt;Maura&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Mon arrivée aux Archives a été accueillie par les corps des bibliothécaires morts et un survivant qui nettoyait stoïquement les saletés.
+
+Le bibliothécaire m'a dit que &lt;b&gt;Maura&lt;/b&gt; avait fui vers la &lt;b&gt;Section en quarantaine&lt;/b&gt;, poursuivie par une &lt;b&gt;silhouette masquée&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La mystérieuse silhouette a trouvé Maura avant moi... l'archimage est morte.
+
+Enfin, en quelque sorte. La &lt;b&gt;colonie de spores&lt;/b&gt; installée dans les Archives semble avoir pris le contrôle de ce qu'il reste de son esprit.
+
+Voyons voir ce qu'elle a à raconter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Trop tard. La mystérieuse silhouette a tué Maura. L'assassin s'appelle apparemment « Fyonlecg » et il est en proie à une colère meurtrière.
+
+Je dois &lt;b&gt;m'occuper de Fyonlecg&lt;/b&gt; avant de pouvoir me &lt;b&gt;pencher sur les recherches de l'archimage.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Lire l'âme de Maura m'a permis d'apprendre qu'elle cherchait un livre capable de lui dire comment entrer dans le corps de Wael.
+
+Elle était certaine que le &lt;b&gt;livre&lt;/b&gt; se trouvait &lt;b&gt;à cet étage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>J'ai trouvé un livre d'incantations de la Main occulte. Il décrit un sort capable de rendre un verrou bien plus compliqué qu'il ne l'est vraiment.
+
+Cela m'aidera peut-être à &lt;b&gt;passer la Porte renforcée des Rayons centraux&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>J'ai ouvert la Porte renforcé. Je dois &lt;b&gt;me presser vers l'Oratoire de Wael&lt;/b&gt;. C'est sûrement là qu'est allée &lt;b&gt;Maura&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le &lt;b&gt;bibliothécaire&lt;/b&gt; m'a expliqué que l'accès aux &lt;b&gt;rayons supérieurs&lt;/b&gt; des Archives est &lt;b&gt;interdit&lt;/b&gt;. Je dois faire attention en &lt;b&gt;fouillant cet endroit en quête de Maura&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je me suis retrouvé dans &lt;b&gt;la Section interdite&lt;/b&gt;. Je peux peut-être y trouver un indice sur la manière de passer la &lt;b&gt;porte de chambre forte&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le &lt;b&gt;verrou de la porte de chambre forte&lt;/b&gt; est trop compliqué pour moi tout seul. Les &lt;b&gt;Archives&lt;/b&gt; détiennent peut-être la réponse à mon problème.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé un trio de pupitres dans la section &lt;b&gt;Bibliothèque de prêt&lt;/b&gt; des &lt;b&gt;Archives&lt;/b&gt;. Deux d'entre eux présentent une énigme et un emplacement où placer un livre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>La &lt;b&gt;Colonie de spores&lt;/b&gt; semble avoir eu affaire à &lt;b&gt;Maura&lt;/b&gt;. Elle raconte que l'archimage est partie vers le &lt;b&gt;sud&lt;/b&gt;, par une &lt;b&gt;porte verrouillée&lt;/b&gt;. La colonie a eu l'amabilité de me fournir la clé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Une fois la &lt;b&gt;Colonie de spores&lt;/b&gt; tuée, j'ai pu trouver le &lt;b&gt;grimoire de Maura&lt;/b&gt; parmi les restes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Je suis tombé sur un groupe de &lt;b&gt;tentacules de Maura&lt;/b&gt; dans la &lt;b&gt;Section en quarantaine&lt;/b&gt; des &lt;b&gt;Archives&lt;/b&gt;. Elle ne peut pas être loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Le verrou de la &lt;b&gt;Porte renforcée des Rayons centraux&lt;/b&gt; est gravé d'une &lt;b&gt;main avec un œil&lt;/b&gt; en son centre. Si je trouve ce symbole ailleurs dans les &lt;b&gt;Archives&lt;/b&gt;, je pourrai peut être découvrir un indice sur la structure du verrou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Maura a trouvé un moyen d'entrer dans le corps de Wael : il faut utiliser une machine appelée Tréphine pour sacrifier un souvenir spécifique. Mais elle ne savait pas comment utiliser l'appareil. Ma confrontation avec l'Entasseur de souvenirs, dans les Collections, m'a donné la solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Maura a trouvé un moyen d'entrer dans le corps de Wael : il faut utiliser une machine appelée Tréphine pour sacrifier un souvenir spécifique. Malheureusement, je ne sais pas comment utiliser cet appareil. La réponse doit se trouver quelque part dans le sanctuaire, mais apparemment pas dans les Archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai trouvé une scène macabre à mon arrivée dans les &lt;b&gt;Archives&lt;/b&gt; : un groupe de bibliothécaires massacrés. Serait-ce l'œuvre de &lt;b&gt;Maura&lt;/b&gt; ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>J'ai trouvé l'escalier central menant à &lt;b&gt;l'Oratoire de Wael&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>La curieuse inscription gravée sur la &lt;b&gt;Porte renforcée des Rayons centraux&lt;/b&gt; est probablement le travail de la Main occulte. Vu le nombre de livres conservés dans cette étrange bibliothèque, je devrais pouvoir en trouver un à propos des verrous hors du commun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40004</ID>
+      <DefaultText>J'ai trouvé une paire de pupitres flanqués de chaque côté d'une porte verrouillée. Ils portent des énigmes gravées sur leur surface. Des &lt;b&gt;livres de cet étage&lt;/b&gt; renferment peut-être les réponses dont j'ai besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40005</ID>
+      <DefaultText>J'ai découvert que le verrou compliqué de la &lt;b&gt;Porte renforcée des Rayons centraux&lt;/b&gt; était une illusion. Maintenant que ce mystère est résolu, je peux m'occuper de l'&lt;b&gt;étrange silhouette&lt;/b&gt; lancée aux trousses de Maura.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Mystères internes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pénétrer dans le corps de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Purger la bile de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Descendre dans le Cœur du mystère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Présenter le bon souvenir à la Tréphine du Scriptorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Affronter l'Oracle de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Fyonlecg,&lt;/b&gt;un puissant magicien, est descendu &lt;b&gt;dans le gigantesque corps&lt;/b&gt; du dieu Wael. Si je veux empêcher l'assassin de Maura de plier l'entité à sa volonté, je dois &lt;b&gt;le retrouver&lt;/b&gt; avant qu'il ne cause plus de mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mon offrande m'a permis de pénétrer dans le &lt;b&gt;corps de Wael.&lt;/b&gt; Maintenant, je peux &lt;b&gt;partir à la poursuite de Fyonlecg&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fyonlecg est parvenu à aller &lt;b&gt;plus loin dans le corps&lt;/b&gt; en passant par un canal depuis &lt;b&gt;rempli de bile acide&lt;/b&gt;. Si je veux le trouver, je dois d'abord &lt;b&gt;forcer le passage&lt;/b&gt;. Je peux peut-être &lt;b&gt;détourner le flot&lt;/b&gt; de bile dans un autre canal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La &lt;b&gt;bile dangereuse&lt;/b&gt; n'est plus un problème pour progresser. Je peux à présent &lt;b&gt;suivre Fyonlecg jusqu'au Cœur du mystère&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;Pour accéder au corps&lt;/b&gt; de Wael, je dois &lt;b&gt;fournir le souvenir&lt;/b&gt; trouvé dans les Collections à la &lt;b&gt;Tréphine&lt;/b&gt;, dans le Scriptorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Fyonlecg a &lt;b&gt;arraché le contrôle&lt;/b&gt; à l'Oracle de Wael, ce qui a transféré sa propre âme dans la monstruosité couverte d'yeux. Désormais, &lt;b&gt;je dois survivre à son assaut. &lt;/b&gt;Cette bataille déterminera le &lt;b&gt;sort du corps de Wael.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé un conduit assez gros, et très résistant, qui pompe la bile et l'envoie dans le canal central. Je peux peut-être &lt;b&gt;trouver un moyen de le détruire.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Un gros œil&lt;/b&gt; dirige le flot de bile acide vers une salle des entrailles, à l'ouest. Je dois trouver un moyen de &lt;b&gt;perturber son fonctionnement&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le corps pompe de la bile provenant d'un &lt;b&gt;réservoir dans une cavité à l'est&lt;/b&gt;. Il n'y a rien à faire au niveau du réservoir en lui-même, mais je peux peut-être &lt;b&gt;trouver un moyen d'altérer la bile&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai détruit le conduit des entrailles sud grâce à la ruse et quelques bombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai neutralisé l'œil géant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai solidifié la bile dans le réservoir est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai pu récupérer une &lt;b&gt;bouteille de baume antiseptique&lt;/b&gt;. Je devrais pouvoir &lt;b&gt;la combiner à autre chose&lt;/b&gt; pour agir efficacement sur les processus naturels du corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Les notes d'un des gardiens expliquent que &lt;b&gt;combiner du baume antiseptique avec un ingrédient fongique&lt;/b&gt; peut donner un &lt;b&gt;puissant agent coagulant.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai le &lt;b&gt;baume antiseptique&lt;/b&gt;, et j'ai &lt;b&gt;l'ingrédient fongique&lt;/b&gt;. Si je &lt;b&gt;les mets dans le réservoir&lt;/b&gt; de la cavité est, les conduits devraient être obstrués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>j'ai récupéré une &lt;b&gt;charge alchimique&lt;/b&gt; qui sert à démolir la pierre volcanique des Îles noires. Cela devrait certainement suffire pour &lt;b&gt;détruire le conduit de bile&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai détruit l'Oracle de Wael et, ce faisant, tué le gigantesque corps de la divinité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai épargné l'Oracle de Wael. Le corps titanesque du dieu devrait retomber dans son sommeil et ne plus être dérangé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Wael d'utiliser son corps titanesque pour m'aider à pourchasser Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai tué l'Oracle de Wael et fait don du corps matériel du dieu aux spores des Archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai épargné l'Oracle de Wael et donné le corps massif du dieu à l'archimage Concelhaut. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

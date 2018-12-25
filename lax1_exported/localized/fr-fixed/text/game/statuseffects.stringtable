@@ -2,11 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>41</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Détermination jusqu'à la fin du combat à chaque fois qu'un membre du groupe est renversé. Cumulable {0:value:straight} fois</DefaultText>
+      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Détermination jusqu'à la fin du combat à chaque fois qu'un membre du groupe est assommé (cumulable {0:value:straight} fois)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,6 +207,11 @@
     <Entry>
       <ID>671</ID>
       <DefaultText>Le modal de connaissance de l'arme Chant du vent a {0:extravalue:percent} de chances d'appliquer Distraction aux ennemis Proches de la mort pendant {0:value:duration} en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} d'initiative en fonction de la compétence {0:skill}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

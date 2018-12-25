@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_oracle_fin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tandis que l'essence de Fyonlecg finit de se dissiper, l'œil immense de l'Oracle, voilé de sang, pivote et se fixe sur vous. Sa pupille est pareille à un abîme d'encre.
+
+Une douleur intense en émane, si forte qu'elle vous fait presque tomber à la renverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Intrus... Votre présence empoisonne - vile peste...&lt;/ispeech&gt;
+
+Ses pensées sont prises de soubresauts, tordant l'air qui vous entoure, percutant votre esprit par vagues.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Intrus... Votre présence empoisonne - vile peste...&lt;/ispeech&gt;
+
+Ses pensées sont prises de soubresauts, tordant l'air qui vous entoure, percutant votre esprit par vagues.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je vous ai libéré du joug de Fyonlecg. Calmez-vous."</DefaultText>
+      <FemaleText>"Je vous ai libéré du joug de Fyonlecg. Calmez-vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Capitulez. Je ferai preuve de clémence envers vous."</DefaultText>
+      <FemaleText>"Capitulez. Je ferai preuve de clémence envers vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il n'est pas trop tard pour arriver à un arrangement. Nous avons beaucoup à nous offrir, l'un l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Il est temps d'en finir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Secouer la tête] "C'en est fini de vous."</DefaultText>
+      <FemaleText>[Secouer la tête] "C'en est fini de vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Vous ne réussissez - qu'à prolonger - vos propres souffrances. Votre ignorance.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous ne réussissez - qu'à prolonger - vos propres souffrances. Votre ignorance.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;De clémence ? Ce n'est pas à vous - d'en faire don.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;De clémence ? Ce n'est pas à vous - d'en faire don.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez envahi - le cœur même de Wael - et vous souhaitez maintenant parlementer ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous avez envahi - le cœur même de Wael - et vous souhaitez maintenant parlementer ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;Ne nous - ne nous croyez pas - sans recours.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;ispeech&gt;Vous - le schéma - il est en votre possession ! Nou percevons sa présence !&lt;/ispeech&gt;
+
+Une tige oculaire scrute votre équipement - et la graine divine qui se trouve à l'intérieur.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous - le schéma - il est en votre possession ! Nous percevons sa présence !&lt;/ispeech&gt;
+
+Une tige oculaire scrute votre équipement - et la graine divine qui se trouve à l'intérieur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;Purifier... Tout à sa place.&lt;/ispeech&gt;
+
+Les tentacules de la créature se raidissent et vous ressentez de l'essence qui s'écoule entre elle et la musculature qui vous entoure.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Purifier... Tout à sa place.&lt;/ispeech&gt;
+
+Les tentacules de la créature se raidissent et vous ressentez de l'essence qui s'écoule entre elle et la musculature qui vous entoure.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oui, oui je l'ai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je n'en ai jamais entendu parler et je ne vois pas de quoi vous parlez."</DefaultText>
+      <FemaleText>"Je n'en ai jamais entendu parler et je ne vois pas de quoi vous parlez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Jamais ! Je ferai en sorte qu'il soit loin de vous!"</DefaultText>
+      <FemaleText>"Jamais ! Je ferai en sorte qu'il soit loin de vous!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Le schéma ? Vous parlez de la graine divine  ?"</DefaultText>
+      <FemaleText>"Le schéma ? Vous parlez de la graine divine  ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;Rendez-le immédiatement ! Sa place est ici !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;Le nom que vous lui donnez n'a pas d'importance !&lt;/ispeech&gt;
+
+Ses tentacules frappent le sol humide.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Le nom que vous lui donnez n'a pas d'importance !&lt;/ispeech&gt;
+
+Ses tentacules frappent le sol humide.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Lui donner la graine divine] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hors de question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;Notre trésor. Notre bien le plus important.&lt;/ispeech&gt;
+
+Ses tentacules s'enroulent autour des morceaux de la graine divine et les serrent contre son corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;Tumeur ! Souillure ! Infection !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Mais vous ressentez ensuite autre chose.
+
+Quelque chose qui est niché profondément dans l'œil de la chose.</DefaultText>
+      <FemaleText>Mais vous ressentez ensuite autre chose.
+
+Quelque chose qui est niché profondément dans l'œil de la chose.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>L'oracle vous contemple en clignant des yeux, comme s'il cherchait à évacuer le sommeil de ses nombreux globes oculaires.
+
+Les vagues de douleur précédentes semblent avoir disparu.
+
+Vous ouvrez la main et y trouvez un fragment de métal chaud et palpitant. Un souvenir de Wael, dirait-on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je suis heureux de vous voir de retour parmi nous, en pleine possession de vos moyens." Il vous adresse un sourire peiné.</DefaultText>
+      <FemaleText>"Je suis heureux de vous voir de retour parmi nous, en pleine possession de vos moyens." Il vous adresse un sourire peiné.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je pensais à le poignarder dans... eh bien, dans l'œil je suppose, pendant que vous faisiez votre sieste, mais et si vous vous étiez trouvé à l'intérieur, ou quelque chose comme ça ?"</DefaultText>
+      <FemaleText>"Je pensais à le poignarder dans... eh bien, dans l'œil je suppose, pendant que vous faisiez votre sieste, mais et si vous vous étiez trouvée à l'intérieur, ou quelque chose comme ça ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous êtes toujours avec nous, mon ange ? Vous aviez l'air encore plus distrait que d'habitude, cette fois-ci." </DefaultText>
+      <FemaleText>"Vous êtes toujours avec nous, mon ange ? Vous aviez l'air encore plus distraite que d'habitude, cette fois-ci." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Heureuse de vous revoir parmi nous, Gardien. C'est bien vous, ac?" Ses yeux dorés vous sondent.</DefaultText>
+      <FemaleText>Heureuse de vous revoir parmi nous, Gardien. C'est bien vous, ac?" Ses yeux dorés vous sondent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ohé, cap'. Re-bienvenue dans le Feu éteint." Serafen vous donne une petite tape dans le dos.</DefaultText>
+      <FemaleText>"Ohé, cap'. Re-bienvenue dans le Feu éteint." Serafen vous donne une petite tape dans le dos.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous allez bien, mon bien-aimé ? Il ne me plaît guère de voir votre regard ainsi tourmenté. Tekēhu vous masse la nuque et vous examine de la tête aux pieds.</DefaultText>
+      <FemaleText>Vous allez bien, ma bien-aimée ? Il ne me plaît guère de voir votre regard ainsi tourmenté. Tekēhu vous masse la nuque et vous examine de la tête aux pieds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Loué soit Gaun, vous êtes de retour ! Si vous étiez resté le regard perdu dans ce grand œil encore un moment, je serais devenue jalouse !" Elle serre votre main.</DefaultText>
+      <FemaleText>"Loué soit Gaun, vous êtes de retour ! Si vous étiez restée le regard perdu dans ce grand œil encore un moment, je serais devenue jalouse !" Elle serre votre main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"L'agonie de l'œil – vous semblez l'avoir apaisée quelque peu. Heureusement."</DefaultText>
+      <FemaleText>"L'agonie de l'œil – vous semblez l'avoir apaisée quelque peu. Heureusement."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous voilà. Pendant un instant, j'ai cru que vous alliez nous faire une Edér." Il vous tape dans le dos, le sourire aux lèvres.</DefaultText>
+      <FemaleText>"Vous voilà. Pendant un instant, j'ai cru que vous alliez nous faire une Edér." Il vous tape dans le dos, le sourire aux lèvres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Le grand œil ne vous a pas quitté du regard une seconde. Je crois bien qu'il m'a adressé un clin d'œil." </DefaultText>
+      <FemaleText>"Le grand œil ne vous a pas quittée du regard une seconde. Je crois bien qu'il m'a adressé un clin d'œil." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je voulais poignarder le grand œil, mais j'avais peur de vous faire mal, à vous aussi. Je suis soulagé de ne pas avoir eu à le faire." Il pose sa main sur votre épaule et serre brièvement.</DefaultText>
+      <FemaleText>"Je voulais poignarder le grand œil, mais j'avais peur de vous faire mal, à vous aussi. Je suis soulagé de ne pas avoir eu à le faire." Il pose sa main sur votre épaule et serre brièvement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Et &lt;i&gt;maintenant&lt;/i&gt;, on peut le tuer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez communié avec l'Obscurci.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous avez communié avec l'Obscurci.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Tuer l'Oracle] "Je m'en excuse, mais il vous faut mourir. C'est le seul moyen."</DefaultText>
+      <FemaleText>[Tuer l'Oracle] "Je m'en excuse, mais il vous faut mourir. C'est le seul moyen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Tuer l'Oracle] "Votre dieu préféré m'a donné carte blanche pour vous découper en rondelles, œilleton."</DefaultText>
+      <FemaleText>[Tuer l'Oracle] "Votre dieu préféré m'a donné carte blanche pour vous découper en rondelles, œilleton."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wael a dit que nous devions poursuivre chacun de notre côté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Voilà qui est gênant. Votre dieu a dit que vous n'aviez pas le droit de me tuer."</DefaultText>
+      <FemaleText>"Voilà qui est gênant. Votre dieu a dit que vous n'aviez pas le droit de me tuer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Le tuer sans avertissement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nous allons partir, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;Allez-vous-en, alors. Laissez-nous à notre sommeil.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>&lt;ispeech&gt;Je refuse !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous canalisez un sort directement dans l'œil de la créature.</DefaultText>
+      <FemaleText>Vous canalisez un sort directement dans l'œil de la créature.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>&lt;ispeech&gt;Mensonges !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"C'est comme si l'esprit de cette chose s'ouvrait pour tous nous engloutir!" Elle lève la main, paume ouverte, face à l'assaut télépathique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Par le cul plumé d'Hylea ! C'est comme un navire en mer, sauf que nos esprits sont le navire et la mort de cette ordure est la mer !" Serafen grince des dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>&lt;ispeech&gt;Intrus...&lt;/ispeech&gt;
+
+L'un des tentacules tente mollement de vous attraper, avant de s'affaisser à vos pieds, inerte.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Intrus...&lt;/ispeech&gt;
+
+L'un des tentacules tente mollement de vous attraper, avant de s'affaisser à vos pieds, inerte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Le moment est mal choisi pour votre insupportable compassion, casità ! Tuez-le ou nous en serons les victimes." </DefaultText>
+      <FemaleText>"Le moment est mal choisi pour votre insupportable compassion, casità ! Tuez-le ou nous en serons les victimes." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Et ensuite ? Nous le laissons se remettre à torturer ses victimes ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Cette ordure ne mérite pas votre miséricorde, cap' ! Pas après tout ce dont nous avons été témoins !"</DefaultText>
+      <FemaleText>"Cette ordure ne mérite pas votre miséricorde, cap' ! Pas après tout ce dont nous avons été témoins !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous devriez détruire cette créature, pour le bien du Feu éteint."</DefaultText>
+      <FemaleText>"Vous devriez détruire cette créature, pour le bien du Feu éteint."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"C'est à nous d'effectuer ce choix, monstre. Pas à vous."</DefaultText>
+      <FemaleText>"C'est à nous d'effectuer ce choix, monstre. Pas à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Votre maître veut nous ôter la vue et l'esprit parce que nous en savons trop !"</DefaultText>
+      <FemaleText>"Votre maître veut nous ôter la vue et l'esprit parce que nous en savons trop !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nous avons dépassé le stade de la discussion des termes d'une entente mutuelle, casità."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nous venons de risquer nos vies pour vaincre cette créature, et vous voulez maintenant conclure un marché avec elle ? C'est mal avisé, même pour vous."</DefaultText>
+      <FemaleText>"Nous venons de risquer nos vies pour vaincre cette créature, et vous voulez maintenant conclure un marché avec elle ? C'est mal avisé, même pour vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je suis prête à fermer l'œil. Et vous ?" Maia adresse un rictus méprisant à l'Oracle et tend la main vers son arme. </DefaultText>
+      <FemaleText>"Je suis prête à fermer l'œil. Et vous ?" Maia adresse un rictus méprisant à l'Oracle et tend la main vers son arme. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Enfin ! Et ensuite, nous pourrons quitter ce trou répugnant, ja ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Nous vous avons déjà quasiment tué, espèce d'œilleton stupide !"</DefaultText>
+      <FemaleText>"Nous vous avons déjà quasiment tué, espèce d'œilleton stupide !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Quelque chose qui absorbe toute lumière. Toute vie. Toute connaissance et compréhension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Qui vous absorbe.</DefaultText>
+      <FemaleText>Qui vous absorbe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Si je vous donne cette chose, vous nous laisserez partir ? Fini l'affrontement ?"</DefaultText>
+      <FemaleText>"Si je vous donne cette chose, vous nous laisserez partir ? Fini l'affrontement ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>L'espace d'un instant, des paupières recouvrent les cinq yeux, avant de s'ouvrir à nouveau, reportant toute leur attention sur vous.</DefaultText>
+      <FemaleText>L'espace d'un instant, des paupières recouvrent les cinq yeux, avant de s'ouvrir à nouveau, reportant toute leur attention sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;ispeech&gt;Un arrangement acceptable.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Simple curiosité. Je ne vous donnerai rien du tout."</DefaultText>
+      <FemaleText>"Simple curiosité. Je ne vous donnerai rien du tout."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous dégainez votre arme à feu, visez le centre de l'œil de l'Oracle et appuyez sur la détente.</DefaultText>
+      <FemaleText>Vous dégainez votre arme à feu, visez le centre de l'œil de l'Oracle et appuyez sur la détente.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Vous relevez votre arc et décochez une flèche en plein dans la pupille de l'Oracle.</DefaultText>
+      <FemaleText>Vous relevez votre arc et décochez une flèche en plein dans la pupille de l'Oracle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vous frappez l'Oracle de votre arme, brisant sa carapace sous vos coups.</DefaultText>
+      <FemaleText>Vous frappez l'Oracle de votre arme, brisant sa carapace sous vos coups.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>D'un coup puissant, vous mettez fin à l'existence de l'entité.</DefaultText>
+      <FemaleText>D'un coup puissant, vous mettez fin à l'existence de l'entité.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Vous enfoncez votre poing profondément dans l'œil de l'entité.</DefaultText>
+      <FemaleText>Vous enfoncez votre poing profondément dans l'œil de l'entité.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>&lt;ispeech&gt;Arrrrgh ! Acceptez votre dissolution, Héraut de Berath !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Arrrrgh ! Acceptez votre dissolution, Héraut de Berath !&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>&lt;ispeech&gt;Je ne – nous ne vous laisserons jamais partir, Gardien ! &lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>&lt;ispeech&gt;Argh ! Une entrave ? Brisez-en donc un autre, intrus !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>&lt;ispeech&gt;Nous sommes déliés ! Maintenant, éliminer l'infection !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt;Acceptez ceci. Un échange.&lt;/ispeech&gt; L'un de ses tentacules sort un anneau charnu de &lt;i&gt;quelque part&lt;/i&gt; et le jette à vos pieds.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Acceptez ceci. Un échange.&lt;/ispeech&gt; L'un de ses tentacules sort un anneau charnu de &lt;i&gt;quelque part&lt;/i&gt; et le jette à vos pieds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Cette créature est un agent de Wael ; nous ne pouvons lui faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Donner Concelhaut à l'Oracle.] "Wael souhaitait que ceci vous revienne."</DefaultText>
+      <FemaleText>[Donner Concelhaut à l'Oracle.] "Wael souhaitait que ceci vous revienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Gardien... qu'est-ce que c'est que ces manigances ? Ne jouez pas avec mes espoirs et mes ambitions. Cela ne me plaît pas du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Pas de manigances. Je vous donne la liberté vous permettant de faire de votre pire. Vous n'obtiendrez pas meilleure offre." </DefaultText>
+      <FemaleText>"Pas de manigances. Je vous donne la liberté vous permettant de faire de votre pire. Vous n'obtiendrez pas meilleure offre." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je vous ai tué. C'est le moins que je puisse faire."</DefaultText>
+      <FemaleText>"Je vous ai tué. C'est le moins que je puisse faire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"J'ai juste besoin de tranquillité. Allez-y. Vous serez plus heureux ici." </DefaultText>
+      <FemaleText>"J'ai juste besoin de tranquillité. Allez-y. Vous serez plus heureux ici." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je n'ai pas de comptes à vous rendre, crâne. Allez-y, avant que je ne change d'avis." </DefaultText>
+      <FemaleText>"Je n'ai pas de comptes à vous rendre, crâne. Allez-y, avant que je ne change d'avis." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je ne peux affirmer comprendre vos motivations, mais vu qu'elles s'accordent avec les miennes..." Concelhaut pivote afin de contempler l'Oracle. </DefaultText>
+      <FemaleText>"Je ne peux affirmer comprendre vos motivations, mais vu qu'elles s'accordent avec les miennes..." Concelhaut pivote afin de contempler l'Oracle. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Pour la première fois depuis le début de cette version perverse et morbide de ce qu'est la compagnie, j'ai tendance à être d'accord." Concelhaut pivote afin de contempler l'Oracle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>L'Oracle prend Concelhaut dans ses tentacules et le crâne disparaît quelque part au sein de la forme charnue de l'entité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Rien ne vous plaît."</DefaultText>
+      <FemaleText>"Rien ne vous plaît."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je suis prêt pour l'ascension. Un corps qui dure, enfin." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Désolé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Partir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>&lt;ispeech&gt;Vous - le schéma - il est en votre possession ! Nou percevons sa présence !&lt;/ispeech&gt;
+
+Une tige oculaire scrute votre équipement - et la graine divine qui se trouve à l'intérieur.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous - le schéma - il est en votre possession ! Nous percevons sa présence !&lt;/ispeech&gt;
+
+Une tige oculaire scrute votre équipement - et la graine divine qui se trouve à l'intérieur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Hors de question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;Tumeur ! Souillure ! Infection !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

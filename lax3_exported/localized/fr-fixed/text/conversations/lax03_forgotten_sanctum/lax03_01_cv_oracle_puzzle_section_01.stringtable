@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_oracle_puzzle_section_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le brasero brûle de mille feux devant vous, sa chaleur est si intense qu'il menace de vous roussir à plusieurs mètres de là.</DefaultText>
+      <FemaleText>Le brasero brûle de mille feux devant vous, sa chaleur est si intense qu'il menace de vous roussir à plusieurs mètres de là.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Jeter la Corne d'Heldr dans les flammes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La corne du divin s'embrase, virant du violet au rouge éclatant, avant de cracher des étincelles au sol tout autour du brasero.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Toucher la flamme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le brasero brûle de mille feux devant vous, sa chaleur est si intense que même &lt;i&gt;vous&lt;/i&gt; pouvez la ressentir.</DefaultText>
+      <FemaleText>Le brasero brûle de mille feux devant vous, sa chaleur est si intense que même &lt;i&gt;vous&lt;/i&gt; pouvez la ressentir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous mettez votre main tremblante dans les flammes, avant de la retirer immédiatement sous la douleur. La peau de vos doigts est déformée de cloques et de pustules, suintantes depuis les pores ouverts.</DefaultText>
+      <FemaleText>Vous mettez votre main tremblante dans les flammes, avant de la retirer immédiatement sous la douleur. La peau de vos doigts est déformée de cloques et de pustules, suintantes depuis les pores ouverts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Votre main tremble, et des gouttes perlent de votre front. 
+
+Vous n'arrivez pas à vous résoudre à mettre la main au feu.</DefaultText>
+      <FemaleText>Votre main tremble, et des gouttes perlent de votre front. 
+
+Vous n'arrivez pas à vous résoudre à mettre la main au feu.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

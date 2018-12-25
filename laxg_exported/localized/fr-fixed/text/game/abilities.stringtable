@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Barrage du Feu de Hel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Surcharge magnétique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText>Fer du Feu de Hel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4821</ID>
+      <DefaultText>Charge de Tempête de Hel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4822</ID>
+      <DefaultText>Rupture brutale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText>Tenir bon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText>Assaut des sceaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText>Assaut de groupe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText>Assaut sans fin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText>Globe de l'invulnérabilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText>Dernier tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4855</ID>
+      <DefaultText>Noyau explosif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4856</ID>
+      <DefaultText>Le porteur allume le Noyau, le rendant instable mais gagnant un bonus en niveau de pouvoir. Peu de temps après l'activation, l'utilisateur explose et inflige des dégâts de feu à tous les ennemis à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4859</ID>
+      <DefaultText>Calamité arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4860</ID>
+      <DefaultText>Le magicien feuillette rapidement son grimoire et jette une succession de sorts aléatoires à la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4894</ID>
+      <DefaultText>Helstorm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4941</ID>
+      <DefaultText>Tacticien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4942</ID>
+      <DefaultText>Ceux capables de réfléchir en gardant la tête froide au milieu du combat sont connus sous le nom de « Tacticiens ». Pour ces guerriers, chaque combat est comme une partie d'échecs. Endossant souvent le rôle de meneur au sein d'une armée structurée, les tacticiens font de leur intelligence et de leur expérience des armes redoutables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4943</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Restaure de la Discipline en cas d'action ennemie interrompue avec succès.
+
+Confère &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Tacticien perspicace&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+La Pénétration et la Précision sont réduites lorsque vous attaquez une cible qui n'est pas attaquée par un allié.
+
+Confère &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Dilemme tactique&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4944</ID>
+      <DefaultText>Dilemme tactique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4945</ID>
+      <DefaultText>Lorsque vous êtes pris à revers, vous subissez les afflictions Frisson et Confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4946</ID>
+      <DefaultText>Tacticien perspicace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>Quand tous les ennemis sont pris à revers et qu'aucun allié ne l'est, confère l'inspiration Perspicacité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4949</ID>
+      <DefaultText>Modeleur de furie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4950</ID>
+      <DefaultText>Les Modeleurs de furie portent le fardeau des différents traumatismes de leurs vies passées, souffrant lorsque ces émotions submergent leur psyché sans raison. Ces individus rares peuvent manifester leurs émotions sous une forme physique et abattre leur rage, leur terreur ou leur folie sur le monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4951</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Forme de Talisman : Frénésie&lt;/link&gt; au niveau de pouvoir 1.
+
+Confère &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Forme de Talisman : Peur&lt;/link&gt; au niveau de pouvoir 4.
+
+Confère &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Forme de Talisman : Sang&lt;/link&gt; au niveau de pouvoir 8.
+
+Confère un bonus de Précision contre les esprits.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Subit des dégâts bruts immédiats ainsi qu'un malus au Niveau de pouvoir jusqu'à la fin du combat si un Talisman est détruit.
+
+La Volonté est réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4952</ID>
+      <DefaultText>Forme de Talisman : Frénésie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4953</ID>
+      <DefaultText>Fait apparaître sur le champ de bataille un talisman qui enrage vos alliés et qui augmente leur Vitesse d'action tant que ce totem subsiste.</DefaultText>
+      <FemaleText>Fait apparaître sur le champ de bataille un talisman qui enrage vos alliés et qui augmente leur Vitesse d'action tant que ce totem subsiste.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4954</ID>
+      <DefaultText>Talisman de la Frénésie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4955</ID>
+      <DefaultText>Talisman détruit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4956</ID>
+      <DefaultText>Pouvoir totémique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4957</ID>
+      <DefaultText>Forme de Talisman : Sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4958</ID>
+      <DefaultText>Fait apparaître sur le champ de bataille un talisman qui éveille la soif de sang et confère de la santé aux alliés en fonction des dégâts qu'ils infligent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>Talisman du Sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4960</ID>
+      <DefaultText>Talisman de la Peur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4961</ID>
+      <DefaultText>Fait apparaître sur le champ de bataille un talisman qui fait penser à des visages affreux, terrifiant les ennemis à proximité tant que ce totem subsiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4962</ID>
+      <DefaultText>Forme de Talisman : Peur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4963</ID>
+      <DefaultText>Débonnaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4964</ID>
+      <DefaultText>Tout aussi charmants que sournois, ces bandits usent d'intelligence et de diplomatie pour parvenir à leurs fins. Bien qu'ils agissent souvent pour leur propre compte, on les a déjà vus accepter de voler des gens de la haute société, révéler des scandales ou même assassiner de temps à autres des cibles avec méticulosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4965</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Augmente de façon importante les chances de convertir les coups portés en coups critiques face aux cibles sujettes à l'affliction Charme.
+
+Confère la capacité &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Charme malicieux&lt;/link&gt;.
+
+Convertit les coups subis en éraflures lorsqu'il n'est pas touché par une affliction.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Impossible d'engager les ennemis.
+
+Confère la capacité &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Lâcheté&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4966</ID>
+      <DefaultText>Lâcheté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4967</ID>
+      <DefaultText>Vous recevez un malus à votre Précision et à vos défenses si vous n'avez pas d'allié à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4968</ID>
+      <DefaultText>Charme malicieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4969</ID>
+      <DefaultText>Convainquez une cible kith de se retourner contre ses alliés et de rejoindre votre camp. Si le bandit est de niveau supérieur, la cible charmée se verra conférer des Inspirations corporelles. Plus le niveau du bandit sera élevé, plus ces Inspirations seront puissantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4970</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Récupère en Santé une partie des dégâts infligés aux cibles touchées par une affliction.
+
+Confère la capacité &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;Garrot&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4971</ID>
+      <DefaultText>Le Garrot d'acier est un ordre de paladins dévoués à Woedica qui inspire la crainte. Ils œuvrent avec des individus influents et des puissances commerciales, traquant ceux qui violent les contrats, surtout si ces derniers ont été rédigés par une prêtresse de la Reine exilée. L'ordre fut fondé dans l'empire Aedyran et est actif dans toute la région, s'étendant jusqu'au Dyrwood et aux Républiques de Vailia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4972</ID>
+      <DefaultText>Archer arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4973</ID>
+      <DefaultText>Quelques rares chanceux sont tout à la fois dotés de capacités physiques ainsi que de talents arcanes, plus cérébraux. Les Archers arcanes sont de ceux-là. Ils combinent leurs aptitudes innées à la magie en imprégnant temporairement leurs projectiles de sorts. Ces individus talentueux, qu'on croise le plus souvent parmi les artistes itinérants ou lors des concours de tir à l'arc, sont autant admirés que craints pour leurs capacités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4974</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les effets d'imprégnation de sort gagnent en Précision avec la compétence Arcane.
+
+Confère &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Imprégnation : Missiles&lt;/link&gt; au niveau de pouvoir 1.
+
+Confère &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Imprégnation : Toile&lt;/link&gt; au niveau de pouvoir 3.
+
+Confère &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Imprégnation : Boule de feu&lt;/link&gt; au niveau de pouvoir 5.
+
+Confère &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Imprégnation : Eora&lt;/link&gt; au niveau de pouvoir 7.
+
+Confère &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Imprégnation : Mort&lt;/link&gt; au niveau de pouvoir 9.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Recevez un malus à la Précision avec les attaques n'ayant pas l'une des caractéristiques suivantes : Imprégnation, Éléments, Feu, Givre, Acide, Électricité, et Sort.
+
+La Santé max est réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4975</ID>
+      <DefaultText>Imprégnation Missiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4976</ID>
+      <DefaultText>Ensorcelle brièvement les &lt;xg&gt;munitions&lt;/xg&gt; de votre arme à distance, puis exécute une Attaque principale où la magie se libère à l'impact.</DefaultText>
+      <FemaleText>Ensorcelle brièvement les &lt;xg&gt;munitions&lt;/xg&gt; de votre arme à distance, puis exécute une Attaque principale où la magie se libère à l'impact.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4977</ID>
+      <DefaultText>(Imprégnation Missiles) - Stocke le sort &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;Missiles mineurs de Minoletta&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4978</ID>
+      <DefaultText>Imprégnation Toile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4979</ID>
+      <DefaultText>(Imprégnation Toile) - Stocke le sort &lt;link="gamedata://a4b94f17-90fd-4a56-9aa5-d1beb2937821"&gt;Toile liante&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText>Imprégnation Boule de feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>(Imprégnation Boule de feu) - Stocke le sort &lt;link="gamedata://04ece2da-d1a8-4627-a48d-2fa6b2549583"&gt;Boule de feu&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4982</ID>
+      <DefaultText>Imprégnation Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4983</ID>
+      <DefaultText>(Imprégnation Eora) - Stocke le sort &lt;link="gamedata://0ae68702-a844-45bd-a7e5-0726a1a05194"&gt;Attraction d'Eora&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4984</ID>
+      <DefaultText>Imprégnation Mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4985</ID>
+      <DefaultText>(Imprégnation : &lt;xg&gt;Mort&lt;/xg&gt;) - Stocke le sort &lt;link="gamedata://dbb1f8c8-0977-4dd0-aadd-c29f75120670"&gt;Cercle de mort&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4986</ID>
+      <DefaultText>Poing interdit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4987</ID>
+      <DefaultText>Suivant des enseignements cryptiques prenant racine dans un passé sombre, ces moines sont parmi les seuls à avoir la chance... ou le malheur... de connaître des techniques interdites. On dit de leurs talents martiaux qu'ils corrompent l'âme de ceux qui en font usage.  Croyant que de terribles évènements en justifient l'utilisation, ces moines sillonnent Eora, déchirés entre la pureté de leur âme et la nécessité de se battre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4988</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Vous obtenez des plaies et de la Santé lorsque les effets hostiles expirent.
+
+Confère la capacité &lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;Poing interdit&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Vous n'obtenez plus de plaies lorsque vous subissez des dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4989</ID>
+      <DefaultText>Exécute une technique interdite qui projette une partie de l'âme avec une explosion de puissance pure. Ceux qui sont touchés sont interrompus et subissent l'affliction Diminution. Les dégâts causés par cet effet sont considérablement augmentés si l'âme du moine est maudite.
+
+Après chaque utilisation, l'âme du moine se retrouve maudite pendant une courte durée, augmentant le coût en plaies et les dégâts de Poing interdit ainsi que la durée de toute malédiction en cours. Toute malédiction affectant l'âme du moine inflige des dégâts en continu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>Malédiction interdite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>(Poing interdit) - À la place, vous obtenez des plaies lorsque les effets hostiles expirent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Vociférateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>On trouve souvent les Vociférateurs dans les communautés en difficulté, en particulier celles récemment touchées par le malheur. Leurs histoires ressemblent plus à un charabia décousu qu'à des récits cohérents. Ils doivent leur nom à leurs saillies magiques redoutables, qui sont aussi rares et violentes qu'empreintes de passion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les Invocations confèrent (tout en en bénéficiant) un bref bonus en niveau de pouvoir dépendant du nombre de Phrases.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Les invocations consomment toutes les Phrases restantes.
+
+Le périmètre des incantations est réduit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>C'est en travaillant en tant qu'avocats ou juges dans les villages et les villes que les Prêtres et les Prêtresses de la Reine exilée expriment leur foi. Les plus célèbres d'entre-eux ont officié en tant que conseillers à la cour royale. Ils bénéficient d'une importance particulière au sein de l'Empire d'Aedyr, où les contrats commerciaux ne peuvent se passer de leur approbation. Bien que les fidèles de Woedica fassent souvent partie des classes supérieures, toute personne portée sur la tradition qui se languit d'un passé disparu a sa place dans le culte. « Quand Woedica aura repris son trône » est un adage courant chez ses fidèles, et évoque un futur utopique où la société sera de nouveau organisée correctement et où Woedica prendra sa place légitime de souveraine des dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de prêtre suivants sont automatiquement appris lorsque de nouveaux niveaux de pouvoir sont atteints :
+1. &lt;link="gamedata://6886f71a-3f91-4598-9ded-e6a27f76aac1"&gt;Manuscrit d'engagement&lt;/link&gt;
+2. Arme spirituelle
+3. &lt;link="gamedata://bc919a2c-54e1-41fc-9a6c-5f69a7827211"&gt;Manuscrit de consommation&lt;/link&gt;
+4. Terreur divine
+5. &lt;link="gamedata://e2874808-4832-4210-8509-de912b940b0e"&gt;Manuscrit de guerre&lt;/link&gt;
+6. Pilier du feu sacré
+7. &lt;link="gamedata://4bfb191a-2f1c-400d-98ff-67ca2b606a02"&gt;Manuscrit de sorcellerie&lt;/link&gt;
+8. Main du bonheur et de l'infortune
+9. &lt;link="gamedata://8d941565-acc3-4cd1-9c63-7904e4fac905"&gt;Manuscrit de consolidation&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>Canalise une autorité divine pour interdire l'engagement à tous ceux qui se trouvent dans une zone donnée, en les stupéfiant et en les empêchant de maintenir leur engagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>Canalise une autorité divine pour interdire à tous ceux qui se trouvent dans une zone donnée de consommer des objets, en les intoxicant et en les empêchant d'utiliser des potions ou des parchemins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>Canalise une autorité divine pour interdire de se battre à tous ceux qui se trouvent dans une zone donnée, en leur infligeant l'affliction Frisson et en les empêchant d'utiliser des capacités autres que des sorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>Canalise une autorité divine pour interdire la sorcellerie à tous ceux qui se trouvent dans une zone donnée, en leur infligeant l'affliction Confusion et en les empêchant de lancer des sorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5004</ID>
+      <DefaultText>Canalise une autorité divine pour interdire de récupérer à tous ceux qui se trouvent dans une zone donnée, en leur infligeant l'affliction Diminution et en les empêchant de recevoir toute forme de soin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>Psion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Les Psions sont assez rares et font souvent leurs débuts en tant que jeunes prodiges qui découvrent peu à peu des secrets que même les érudits les plus sagaces jugent incompréhensibles. Bien que requérant une méditation intense, leurs pouvoirs leur permettent de manipuler l'esprit ou de déplacer les objets avec une force impressionnante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère la capacité passive &lt;link="gamedata://cadd44b6-1499-4b09-8c42-dd483bb48b6f"&gt;Esprit et âme&lt;/link&gt;.
+
+Confère la capacité &lt;link="gamedata://4c07ccd0-1907-4490-9165-98b83196097f"&gt;Explosion télékinétique&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perd la capacité &lt;link="gamedata://f057dd2e-953f-442a-abad-fc34bfa39b26"&gt;Fouet de l'âme&lt;/link&gt;.
+
+La capacité Esprit et âme est brièvement désactivée lorsque des dégâts sont subits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>Esprit et âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>Lorsque le clairvoyant a la possibilité de se concentrer, son esprit s'affûte, lui permettant de puiser dans un pouvoir caché et de générer de la Concentration de façon passive. Cependant, si une attaque inflige des dégâts au clairvoyant, cet effet est brièvement désactivé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>Explosion télékinétique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText>Canalise une explosion psionique à l'intérieur de l’esprit de la cible, interrompant cette dernière et repoussant ceux qui se trouvent à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText>Mage de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5013</ID>
+      <DefaultText>Croyant fermement que c'est le sang qui confère sa puissance à l'âme, les Mages de sang embrassent une voie douloureuse et autodestructrice pour maitriser les arcanes. Bien que des animanciens réputés aient discrédité leurs croyances, les rares personnes ayant vu la magie de sang à l'œuvre ne peuvent nier que l'automutilation gratuite peut en effet mener à des évènements magiques incroyables, quoique souvent horribles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5014</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère la capacité &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Sacrifice de sang&lt;/link&gt;.
+
+Confère une régénération de santé passive.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Impossible d'utiliser Améliorer.
+
+Face aux assaillants ensanglantés, les défenses sont réduites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5015</ID>
+      <DefaultText>Sacrifice de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5016</ID>
+      <DefaultText>Puisez dans votre propre force vitale pour alimenter votre magie, là où les autres en sont incapables. Subissez une quantité de dégâts bruts variable pour restaurer un sort d'un niveau équivalent ou inférieur aux dégâts subis.
+
+Après utilisation, les sorts de magicien bénéficient d'un bonus en niveau de pouvoir pendant une courte durée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5017</ID>
+      <DefaultText>Ancien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>Tous les Anciens ne sont pas vénérables, mais nombre d'entre eux arpentent Eora depuis des centaines d’années. De nature primitive, ces fanatiques de Galawain ont tendance à s'isoler dans les forêts ou dans des environnements extrêmes, repoussant les voyageurs et invoquant une magie sauvage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5019</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère un bonus en niveau de pouvoir aux sorts liés aux Bêtes et aux Plantes.
+
+Les sorts de druide suivants sont automatiquement appris lorsque de nouveaux niveaux de pouvoir sont atteints :
+1. &lt;link="gamedata://48d74cf1-89b9-4e26-8c6a-bc7e5f522890"&gt;Invocation de sporelins&lt;/link&gt;
+2. &lt;link="gamedata://c1592be9-f39e-4e5d-9609-435c6bcc59db"&gt;Retenir les bêtes&lt;/link&gt;
+3. &lt;link="gamedata://f0e6cfe6-e68b-4ce2-9142-be79d4f776bd"&gt;Croissance sauvage&lt;/link&gt;
+4. &lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;Forme de la delemgan&lt;/link&gt;
+5. &lt;link="gamedata://9fa747f0-d845-4198-aee9-a84a42e9d4c5"&gt;Mur d'épines&lt;/link&gt;
+6. &lt;link="gamedata://13c453a0-d369-4f4c-8ccc-f2214d94a5b1"&gt;Montée de venin&lt;/link&gt;
+7. &lt;link="gamedata://71c248be-5f7a-4e6c-a69d-fe6bc7e08fd6"&gt;Appel des primordiaux&lt;/link&gt;
+8. &lt;link="gamedata://a944cbbd-408d-4c1b-9123-9f87536fd537"&gt;Cerf de feu&lt;/link&gt;
+9. &lt;link="gamedata://050aeb12-6903-466d-a296-8e107a8cbc76"&gt;Aspect de Galawain&lt;/link&gt;
+
+&lt;b&gt;Malus&lt;/b&gt;
+Défense réduite face aux attaques dotées de Perforation du Voile.
+
+Les dégâts infligés par les réceptacles sont augmentés.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>Invoque deux sporelins sur le champ de bataille qui se battront pour le druide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>Invocation de Sporelins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5023</ID>
+      <DefaultText>Croissance sauvage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5024</ID>
+      <DefaultText>Imprègne d'énergie naturelle une bête ou un primordial invoqués, leur conférant l'inspiration Solidité et augmentant leur taille.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

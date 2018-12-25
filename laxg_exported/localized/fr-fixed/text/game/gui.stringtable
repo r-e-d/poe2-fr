@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4983</ID>
+      <DefaultText>Terres érodées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4985</ID>
+      <DefaultText>Grotte saline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4988</ID>
+      <DefaultText>La Démente arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4989</ID>
+      <DefaultText>Le Colosse du Feu de Hel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5027</ID>
+      <DefaultText>Tacticien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5028</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Restaure de la Discipline en cas d'action ennemie interrompue avec succès.
+
+Confère &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Tacticien perspicace&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+La Pénétration et la Précision sont réduites lorsque vous attaquez une cible qui n'est pas attaquée par un allié.
+
+Confère &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Dilemme tactique&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>Modeleur de furie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5030</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Forme de Talisman : Frénésie&lt;/link&gt; au niveau de pouvoir 1.
+
+Confère &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Forme de Talisman : Peur&lt;/link&gt; au niveau de pouvoir 4.
+
+Confère &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Forme de Talisman : Sang&lt;/link&gt; au niveau de pouvoir 8.
+
+Confère un bonus de Précision contre les esprits.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Subit des dégâts bruts immédiats ainsi qu'un malus au Niveau de pouvoir jusqu'à la fin du combat si un Talisman est détruit.
+
+La Volonté est réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5037</ID>
+      <DefaultText>Débonnaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5038</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Augmente de façon importante les chances de convertir les coups portés en coups critiques face aux cibles sujettes à l'affliction Charme.
+
+Confère la capacité &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Charme malicieux&lt;/link&gt;.
+
+Convertit les coups subis en éraflures lorsqu'il n'est pas touché par une affliction.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Impossible d'engager les ennemis.
+
+Confère la capacité &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Lâcheté&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5039</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Récupère en Santé une partie des dégâts infligés aux cibles touchées par une affliction.
+
+Confère la capacité &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;Garrot&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5040</ID>
+      <DefaultText>Archer arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5041</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les effets d'imprégnation de sort gagnent en Précision avec la compétence Arcane.
+
+Confère &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Imprégnation : Missiles&lt;/link&gt; au niveau de pouvoir 1.
+
+Confère &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Imprégnation : Toile&lt;/link&gt; au niveau de pouvoir 3.
+
+Confère &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Imprégnation : Boule de feu&lt;/link&gt; au niveau de pouvoir 5.
+
+Confère &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Imprégnation : Eora&lt;/link&gt; au niveau de pouvoir 7.
+
+Confère &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Imprégnation : Mort&lt;/link&gt; au niveau de pouvoir 9.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Recevez un malus à la Précision avec les attaques n'ayant pas l'une des caractéristiques suivantes : Imprégnation, Éléments, Feu, Givre, Acide, Électricité, et Sort.
+
+La Santé max est réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5042</ID>
+      <DefaultText>Imprégnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5043</ID>
+      <DefaultText>Poing interdit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5044</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Vous obtenez des plaies et de la Santé lorsque les effets hostiles expirent.
+
+Confère la capacité &lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;Poing interdit&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Vous n'obtenez plus de plaies lorsque vous subissez des dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Poing interdit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Vociférateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les Invocations confèrent (tout en en bénéficiant) un bref bonus en niveau de pouvoir dépendant du nombre de Phrases.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Les invocations consomment toutes les Phrases restantes.
+
+Le périmètre des incantations est réduit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5070</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de prêtre suivants sont automatiquement appris lorsque de nouveaux niveaux de pouvoir sont atteints :
+1. &lt;link="gamedata://6886f71a-3f91-4598-9ded-e6a27f76aac1"&gt;Manuscrit d'engagement&lt;/link&gt;
+2. Arme spirituelle
+3. &lt;link="gamedata://bc919a2c-54e1-41fc-9a6c-5f69a7827211"&gt;Manuscrit de consommation&lt;/link&gt;
+4. Terreur divine
+5. &lt;link="gamedata://e2874808-4832-4210-8509-de912b940b0e"&gt;Manuscrit de guerre&lt;/link&gt;
+6. Pilier du feu sacré
+7. &lt;link="gamedata://4bfb191a-2f1c-400d-98ff-67ca2b606a02"&gt;Manuscrit de sorcellerie&lt;/link&gt;
+8. Main du bonheur et de l'infortune
+9. &lt;link="gamedata://8d941565-acc3-4cd1-9c63-7904e4fac905"&gt;Manuscrit de consolidation&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Psion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère la capacité passive &lt;link="gamedata://cadd44b6-1499-4b09-8c42-dd483bb48b6f"&gt;Esprit et âme&lt;/link&gt;.
+
+Confère la capacité &lt;link="gamedata://4c07ccd0-1907-4490-9165-98b83196097f"&gt;Explosion télékinétique&lt;/link&gt;.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perd la capacité &lt;link="gamedata://f057dd2e-953f-442a-abad-fc34bfa39b26"&gt;Fouet de l'âme&lt;/link&gt;.
+
+La capacité Esprit et âme est brièvement désactivée lorsque des dégâts sont subits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5074</ID>
+      <DefaultText>Mage de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère la capacité &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Sacrifice de sang&lt;/link&gt;.
+
+Confère une régénération de santé passive.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Impossible d'utiliser Améliorer.
+
+Face aux assaillants ensanglantés, les défenses sont réduites.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5077</ID>
+      <DefaultText>Ancien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5078</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Confère un bonus en niveau de pouvoir aux sorts liés aux Bêtes et aux Plantes.
+
+Les sorts de druide suivants sont automatiquement appris lorsque de nouveaux niveaux de pouvoir sont atteints :
+1. &lt;link="gamedata://48d74cf1-89b9-4e26-8c6a-bc7e5f522890"&gt;Invocation de sporelins&lt;/link&gt;
+2. &lt;link="gamedata://c1592be9-f39e-4e5d-9609-435c6bcc59db"&gt;Retenir les bêtes&lt;/link&gt;
+3. &lt;link="gamedata://f0e6cfe6-e68b-4ce2-9142-be79d4f776bd"&gt;Croissance sauvage&lt;/link&gt;
+4. &lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;Forme de la delemgan&lt;/link&gt;
+5. &lt;link="gamedata://9fa747f0-d845-4198-aee9-a84a42e9d4c5"&gt;Mur d'épines&lt;/link&gt;
+6. &lt;link="gamedata://13c453a0-d369-4f4c-8ccc-f2214d94a5b1"&gt;Montée de venin&lt;/link&gt;
+7. &lt;link="gamedata://71c248be-5f7a-4e6c-a69d-fe6bc7e08fd6"&gt;Appel des primordiaux&lt;/link&gt;
+8. &lt;link="gamedata://a944cbbd-408d-4c1b-9123-9f87536fd537"&gt;Cerf de feu&lt;/link&gt;
+9. &lt;link="gamedata://050aeb12-6903-466d-a296-8e107a8cbc76"&gt;Aspect de Galawain&lt;/link&gt;
+
+&lt;b&gt;Malus&lt;/b&gt;
+Défense réduite face aux attaques dotées de Perforation du Voile.
+
+Les dégâts infligés par les réceptacles sont augmentés.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

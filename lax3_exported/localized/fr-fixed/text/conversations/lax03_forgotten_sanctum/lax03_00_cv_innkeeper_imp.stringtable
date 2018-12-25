@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_00_cv_innkeeper_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le diablotin mélange furieusement des poudres avec des herbes dans un mortier. Il vous regarde l'air sournois, exhibant une rangée de longues dents pointues et faisant claquer sa langue.</DefaultText>
+      <FemaleText>Le diablotin mélange furieusement des poudres avec des herbes dans un mortier. Il vous regarde l'air sournois, exhibant une rangée de longues dents pointues et faisant claquer sa langue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"VOUS VOULEZ QUOI, RAMPANT ?" Gerbe la Souche imbibe son doigt dans le pilon et goûte la préparation.</DefaultText>
+      <FemaleText>"VOUS VOULEZ QUOI, RAMPANTE ?" Gerbe la Souche imbibe son doigt dans le pilon et goûte la préparation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'aimerais me reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pourquoi cette fixette sur les drogues ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"HEIN ! CROYEZ QU'ARKEMYR PEUT DORMIR &lt;i&gt;SANS&lt;/i&gt; ?" Gerbe la Souche écrase les herbes au pilon de plus belle, secouant la tête.</DefaultText>
+      <FemaleText>"HEIN ! CROYEZ QU'ARKEMYR PEUT DORMIR &lt;i&gt;SANS&lt;/i&gt; ?" Gerbe la Souche écrase les herbes au pilon de plus belle, secouant la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"VOUS L'IMBÉCILE DE KITH QUI A VOLÉ ROBE D'ARKEMYR, HEIN ?" La créature dilate ses narines et souffle avec amusement.</DefaultText>
+      <FemaleText>"VOUS L'IMBÉCILE DE KITH QUI A VOLÉ ROBE D'ARKEMYR, HEIN ?" La créature dilate ses narines et souffle avec amusement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"BON. MAGICIENS VOUS ONT ROULÉ EN VOUS FAISANT VENIR ICI AUSSI, HEIN ?" Le diablotin secoue la tête et rit jaune.</DefaultText>
+      <FemaleText>"BON. MAGICIENS VOUS ONT ROULÉE EN VOUS FAISANT VENIR ICI AUSSI, HEIN ?" Le diablotin secoue la tête et rit jaune.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"POURQUOI PAS DONNER ROBE À GERBE LA SOUCHE ? VA MÊME PAS À RAMPANT."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"N'y comptez pas. De plus, elle est jolie cette robe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Lui donner la robe d'Arkemyr.] "Tenez."</DefaultText>
+      <FemaleText>[Lui donner la robe d'Arkemyr.] "Tenez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Et vous comptez en faire quoi de cette vieillerie ?"</DefaultText>
+      <FemaleText>"Et vous comptez en faire quoi de cette vieillerie ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"PFFF. COMME VOUS VOUDREZ."</DefaultText>
+      <FemaleText>"PFFF. COMME VOUS VOUDREZ."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"ENFIN ! HEIN, PLAN PREND FORME !" En gloussant, le diablotin claque des doigts et la robe disparaît dans un &lt;i&gt;pouf&lt;/i&gt; dramatique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"PFFF ! JE DIS PAS. RAMPANT POSE TROP DE QUESTIONS !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"La robe n'est pas à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"VOLER ROBE DU MAÎTRE, SOURNOIS. GERBE LA SOUCHE FAIT CONFIANCE." Le diablotin vous pointe du doigt en souriant.</DefaultText>
+      <FemaleText>"VOLER ROBE DU MAÎTRE, SOURNOISE. GERBE LA SOUCHE FAIT CONFIANCE." Le diablotin vous pointe du doigt en souriant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Roulé ? On m'a invité."</DefaultText>
+      <FemaleText>"Roulée ? On m'a invitée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ça y ressemble de plus en plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"HMM." Le diablotin se tapote le menton et vous scrute attentivement.</DefaultText>
+      <FemaleText>"HMM." Le diablotin se tapote le menton et vous scrute attentivement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"DIABLOTINS ONT MANIGANCÉ PLAN, HEIN ? PRESQUE PRÊTS À PRENDRE MAISON D'ARKEMYR. SEUL PROBLÈME, PAS TOUS MALINS COMME GERBE LA SOUCHE." Le diablotin se tapote la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"VOUS AIMEZ DROGUES ? TENEZ, PRENEZ-EN. PAS BESOIN." Le diablotin vous remet plusieurs paquets avec condescendance, tous plus suspects les uns que les autres.</DefaultText>
+      <FemaleText>"VOUS AIMEZ DROGUES ? TENEZ, PRENEZ-EN. PAS BESOIN." Le diablotin vous remet plusieurs paquets avec condescendance, tous plus suspects les uns que les autres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</DefaultText>
+      <FemaleText>"[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous comptez vous déguiser en Arkemyr et fomenter une révolte ?"</DefaultText>
+      <FemaleText>"Vous comptez vous déguiser en Arkemyr et fomenter une révolte ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Qu'est-ce qui m'empêche d'avertir Arkemyr de vos intentions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Hocher la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"CERTAINS DIABLOTINS ONT BESOIN... MOTIVATION."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"VOILÀ, VOUS SAVEZ. MARCHÉ CONCLU OU NON ? DONNEZ-MOI ROBE." Le diablotin se frotte les mains.</DefaultText>
+      <FemaleText>"VOILÀ, VOUS SAVEZ. MARCHÉ CONCLU OU NON ? DONNEZ-MOI ROBE." Le diablotin se frotte les mains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>PAS MAL COMME PLAN, HEIN ? PARAÎT DÉBILE QUAND C'EST VOUS QUI DITES..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"QUELLES INTENTIONS ? GERBE LA SOUCHE PAUVRE DIABLOTIN ARRIÉRÉ, HEIN ?" Le diablotin approche une serre au coin de sa bouche et vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"ON OUBLIE. PAS MARCHÉ. VOUS PIRE QUE LUI."</DefaultText>
+      <FemaleText>"ON OUBLIE. PAS MARCHÉ. VOUS PIRE QUE LUI."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous avez déjà rencontré Nemnok le dévoreur ?"</DefaultText>
+      <FemaleText>"Vous avez déjà rencontré Nemnok le dévoreur ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Les yeux de Gerbe la Souche s'écarquillent en voyant Nemnok lui-même, les bras croisés sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"AH OUI ? VOUS VOUS CROYEZ MALIN, RAMPANT ?"</DefaultText>
+      <FemaleText>"AH OUI ? VOUS VOUS CROYEZ MALIGNE, RAMPANTE ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"MAGICIENS MENTENT. CE SONT LES &lt;i&gt;PIRES&lt;/i&gt;. MAIS GERBE LA SOUCHE TOUT ARRANGER, HEIN ? VOUS AIDER À RELAXER."
+
+D'un clin d'œil, le diablotin vous présente une panoplie d'herbes raffinées et de narcotiques.</DefaultText>
+      <FemaleText>"MAGICIENS MENTENT. CE SONT LES &lt;i&gt;PIRES&lt;/i&gt;. MAIS GERBE LA SOUCHE TOUT ARRANGER, HEIN ? VOUS AIDER À RELAXER."
+
+D'un clin d'œil, le diablotin vous présente une panoplie d'herbes raffinées et de narcotiques.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous voulez me donner... des drogues ?"</DefaultText>
+      <FemaleText>"Vous voulez me donner... des drogues ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Mon petit doigt me dit que vous n'êtes pas un apothicaire diplômé."</DefaultText>
+      <FemaleText>"Mon petit doigt me dit que vous n'êtes pas un apothicaire diplômé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"GERBE LA SOUCHE VEUT QUE KITH PUISSE RÊVER, HEIN ? REPOSER GROSSE TÊTE LOURDE." Le diablotin émet un son apaisant et vous caresse de sa griffe osseuse.</DefaultText>
+      <FemaleText>"GERBE LA SOUCHE VEUT QUE KITH PUISSE RÊVER, HEIN ? REPOSER GROSSE TÊTE LOURDE." Le diablotin émet un son apaisant et vous caresse de sa griffe osseuse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"MOTS SONT INUTILES. NOUS SAVONS BIEN, HEIN ?"</DefaultText>
+      <FemaleText>"MOTS SONT INUTILES. NOUS SAVONS BIEN, HEIN ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"RAMPANT RUSÉ DIRE À GERBE LA SOUCHE QUAND IL VOUDRA « REPOSER », HEIN ?" Le diablotin soulève sa griffe afin de réprimer un gloussement moite.</DefaultText>
+      <FemaleText>"RAMPANTE RUSÉE DIRE À GERBE LA SOUCHE QUAND ELLE VOUDRA « REPOSER », HEIN ?" Le diablotin soulève sa griffe afin de réprimer un gloussement moite.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Cela ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"GERBE LA SOUCHE A L'IMPRESSION VOUS AVEZ BESOIN &lt;i&gt;RELAXER.&lt;/i&gt;"</DefaultText>
+      <FemaleText>"GERBE LA SOUCHE A L'IMPRESSION VOUS AVEZ BESOIN &lt;i&gt;RELAXER.&lt;/i&gt;"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"DIABLOTINS &lt;i&gt;SAVENT&lt;/i&gt;. DIABLOTINS VOUS OBSERVENT COURIR DANS TOUS LES SENS, SOLUTIONNANT PROBLÈMES D'AUTRES RAMPANTS."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"ESSENCE FEUILLE BLANCHE, GRAINES GAENSVEF MOULUES, OS DRAGON EN POUDRE POUR GOÛT, HEIN !" Prenant une pincée de la préparation depuis le pilon, Gerbe la Souche la renifle depuis le bout de sa serre, hochant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"FAUT BEAUCOUP D'HERBES POUR ASSOMMER ARCHIMAGE. HEUREUSEMENT GERBE LA SOUCHE EST DIABLOTIN MALIN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Difficile de dire si vous aidez Arkemyr, ou si vous ne faites qu'exacerber sa dépendance."</DefaultText>
+      <FemaleText>"Difficile de dire si vous aidez Arkemyr, ou si vous ne faites qu'exacerber sa dépendance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ça vous dérange si je teste la préparation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous semblez tirer pas mal de satisfaction à faire cela."</DefaultText>
+      <FemaleText>"Vous semblez tirer pas mal de satisfaction à faire cela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Merci pour la leçon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"UN PEU DES DEUX." Le diablotin hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Avant même que vous ne puissiez terminer votre phrase, Gerbe la Souche vous souffle le mélange poudreux dans les yeux. L'effet est immédiat. Vous avez l'impression d'être ancré sur place tandis que le monde tourne autour de vous.</DefaultText>
+      <FemaleText>Avant même que vous ne puissiez terminer votre phrase, Gerbe la Souche vous souffle le mélange poudreux dans les yeux. L'effet est immédiat. Vous avez l'impression d'être ancrée sur place tandis que le monde tourne autour de vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Alors dites-moi, comment vous sentez-vous ? C'est un mélange expérimental, enclin à d'imprévisibles effets secondaires." Le diablotin lève les sourcils et retrousse ses... lèvres ?</DefaultText>
+      <FemaleText>"Alors dites-moi, comment vous sentez-vous ? C'est un mélange expérimental, enclin à d'imprévisibles effets secondaires." Le diablotin lève les sourcils et retrousse ses... lèvres ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"HEIN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Cette dose assommerait un ogre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Regarder en silence pour l"instant]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus de feuille blanche dans le mortier.</DefaultText>
+      <FemaleText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus de feuille blanche dans le mortier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Lui offrir des drogues.] "Un peu d'éponge ridée, ça vous tente ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"HEIN ! PAS AUSSI BÊTE QUE VOUS AVEZ L'AIR." Gerbe la Souche l'ajoute à sa préparation.</DefaultText>
+      <FemaleText>"HEIN ! PAS AUSSI BÊTE QUE VOUS AVEZ L'AIR." Gerbe la Souche l'ajoute à sa préparation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous avez l'air... différent."</DefaultText>
+      <FemaleText>"Vous avez l'air... différente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Aller jusqu'au bout de l'hallucination.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Hmm. Mieux vaut ne pas embrumer votre esprit avec des questions idiotes. Vous allez embarquer pour un voyage phénoménal, mon ami." Le diablotin glousse et vous laisse de l'espace pour que vous puissiez vous remettre tranquillement.</DefaultText>
+      <FemaleText>"Hmm. Mieux vaut ne pas embrumer votre esprit avec des questions idiotes. Vous allez embarquer pour un voyage phénoménal, mon amie." Le diablotin glousse et vous laisse de l'espace pour que vous puissiez vous remettre tranquillement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je me sens &lt;i&gt;super&lt;/i&gt; !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ne me redonnez &lt;i&gt;jamais&lt;/i&gt; ce truc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Vous passez un moment sans ciller à examiner vos mains, absolument fasciné. 
+
+Les doigts bougent. Ils &lt;i&gt;bougent.&lt;/i&gt; Quand. Vous. Le. Décidez.</DefaultText>
+      <FemaleText>Vous passez un moment sans ciller à examiner vos mains, absolument fascinée.
+
+Les doigts bougent. Ils &lt;i&gt;bougent.&lt;/i&gt; Quand. Vous. Le. Décidez.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"ÇA SUFFIT POUR IMBÉCILE RAMPANT." Le diablotin glousse.</DefaultText>
+      <FemaleText>"ÇA SUFFIT POUR IMBÉCILE RAMPANTE." Le diablotin glousse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"HEIN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"GERBE LA SOUCHE AIME TRAVAIL. IL APPREND. UN KITH À LA FOIS, VOUS IREZ TOUS DORMIR." Le diablotin se passe la griffe horizontalement sur la gorge.</DefaultText>
+      <FemaleText>"GERBE LA SOUCHE AIME TRAVAIL. IL APPREND. UN KITH À LA FOIS, VOUS IREZ TOUS DORMIR." Le diablotin se passe la griffe horizontalement sur la gorge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je vous laisse faire votre préparation tranquillement."</DefaultText>
+      <FemaleText>"Je vous laisse faire votre préparation tranquillement."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"HEIN ! TOUJOURS EN VIE ?" Votre vue s'améliore tandis que Gerbe la Souche vous donne une pichenette sur le front.</DefaultText>
+      <FemaleText>"HEIN ! TOUJOURS EN VIE ?" Votre vue s'améliore tandis que Gerbe la Souche vous donne une pichenette sur le front.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ouais !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Se masser le front.] "Plus. Jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Vous vous demandez si les garçons de Lipasalis sont tous aussi beaux que Rekke.</DefaultText>
+      <FemaleText>Vous vous demandez si les garçons de Lipasalis sont tous aussi beaux que Rekke.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vous vous demandez si Concelhaut a mangé votre dernière noix caramélisée.</DefaultText>
+      <FemaleText>Vous vous demandez si Concelhaut a mangé votre dernière noix caramélisée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Le temps passe. Vous vous demandez si Éothas pourrait bâtir un château si grand que même lui ne pourrait pas le renverser.</DefaultText>
+      <FemaleText>Le temps passe. Vous vous demandez si Éothas pourrait bâtir un château si grand que même lui ne pourrait pas le renverser.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous vous demandez s'il serait d'accord pour reconstruire le vôtre.</DefaultText>
+      <FemaleText>Vous vous demandez s'il serait d'accord pour reconstruire le vôtre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"BIEN. DUR LABEUR." Le diablotin vous chasse de la main.</DefaultText>
+      <FemaleText>"BIEN. DUR LABEUR." Le diablotin vous chasse de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"G-GLOIRE ! GLOIRE AU TOUT-PUISSANT !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"GLORIEUX NEMNOK, GERBE LA SOUCHE SOUVIENT DE MAGNIFIQUE PLAN, HEIN ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"RAMPANT IMBÉCILE MÊME DONNÉ LA ROBE !" Le diablotin vous montre du doigt tout excité.</DefaultText>
+      <FemaleText>"RAMPANTE IMBÉCILE MÊME DONNÉ LA ROBE !" Le diablotin vous montre du doigt tout excité.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"QUAND MOMENT VIENDRA, ALLIÉS FAVORIS DE NEMNOK SERONT PRÊTS." Gerbe la Souche baisse la tête en signe de révérence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"HEIN. COMME VOUS VOUDREZ."</DefaultText>
+      <FemaleText>"HEIN. COMME VOUS VOUDREZ."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Et si tous nos familiers n'étaient en fait qu'un seul et même familier, que nous voyons à travers des angles différents ? Comme les projections de nos ombres sur le mur d'une grange durant un feu de camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"J'aurais dû zigouiller ce vieux débris. Lui arracher le bras à ma façon. Si ce p'tit gars ne m'avait pas arrêtée..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Vous allez bien, capitaine ? Vous semblez avoir soif. Je vais vous chercher un peu d'eau."</DefaultText>
+      <FemaleText>"Vous allez bien, capitaine ? Vous semblez avoir soif. Je vais vous chercher un peu d'eau."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Di verus, vous allez vous dessécher à force de transpirer. Diablotin, qu'avez-vous fait au Gardien ?"</DefaultText>
+      <FemaleText>"Di verus, vous allez vous dessécher à force de transpirer. Diablotin, qu'avez-vous fait au Gardien ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>&lt;ispeech&gt;Ce que personne ne vous a dit, c'est que Ngati n'est qu'une gamine, la fille des profondeurs, dont les parents sont si grands et implacables qu'ils pourraient engloutir chaque île du Feu éteint sans en être rassasiés pour autant. Ils sommeillent dans les ténèbres sous les flots, baignés dans leur propre enveloppe, observant à travers les yeux de leur fille. Dans l'attente.&lt;i/speech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Bon sang, Gardien. Gardez-en un peu pour moi !"</DefaultText>
+      <FemaleText>"Bon sang, Gardienne. Gardez-en un peu pour moi !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Comme s'il pouvait sentir votre pic d'angoisse, Tekēhu vous agrippe tendrement par les épaules et vous prend dans ses bras. Sa peau est douce, il reproduit le bruit du ressac pour vous tranquilliser. Vous vous sentez à l'abri.</DefaultText>
+      <FemaleText>Comme s'il pouvait sentir votre pic d'angoisse, Tek?hu vous agrippe tendrement par les épaules et vous prend dans ses bras. Sa peau est douce, il reproduit le bruit du ressac pour vous tranquilliser. Vous vous sentez à l'abri.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"HEIN ! C'ÉTAIT BOULOT DE GERBE LA SOUCHE. FAIRE DROGUES POUR ARKEMYR. MAINTENANT, JUSTE PASSE-TEMPS."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"On évite les ennuis, Nemnok ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Vous parlez de cette petite insurrection ?"</DefaultText>
+      <FemaleText>"Vous parlez de cette petite insurrection ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?</DefaultText>
+      <FemaleText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"CAPITAINE RAMPANT DOIT NETTOYER STUPIDE ARMURE. ELLE PUE. NEMNOK MÉRITE MIEUX, HEIN !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"DITES AU CRÂNE DE PLUS MORDRE NEMNOK DANS SON SOMMEIL." Nemnok lance un regard noir vers votre sac où se trouve le crâne au regard dédaigneux de Concelhaut.</DefaultText>
+      <FemaleText>"DITES AU CRÂNE DE PLUS MORDRE NEMNOK DANS SON SOMMEIL." Nemnok lance un regard noir vers votre sac où se trouve le crâne au regard dédaigneux de Concelhaut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"NEMNOK FERA APPEL À GERBE LA MOUCHE BIENTÔT. PLAN VA MARCHER. PATIENCE, HEIN !" Nemnok effleure de sa griffe le scalp de son fervent serviteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"HEIN. PAS SI FORT !" Gerbe la Souche met son doigt sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Nemnok se tourne vers vous, retroussant les lèvres en ricanant.</DefaultText>
+      <FemaleText>Nemnok se tourne vers vous, retroussant les lèvres en ricanant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"GERBE LA SOUCHE, TOUT-PUISSANT. GERBE LA MOUCHE TRAVAILLE EN CUISINE." Le diablotin pousse un soupir et se tourne vers vous.</DefaultText>
+      <FemaleText>"GERBE LA SOUCHE, TOUT-PUISSANT. GERBE LA MOUCHE TRAVAILLE EN CUISINE." Le diablotin pousse un soupir et se tourne vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"RIEN !" Le diablotin vous foudroie du regard avant de se tourner vers Nemnok.</DefaultText>
+      <FemaleText>"RIEN !" Le diablotin vous foudroie du regard avant de se tourner vers Nemnok.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"C'était censé être une blague, une fusée éclairante, juste pour lui faire peur. Il n'aurait pas dû prendre feu. Désolé, je suis vraiment désolé... S'il vous plaît, père, ne me forcez pas à partir. Je mourrai là-dehors."
+
+Il réprime ses sanglots déformés, comme s'ils vous parvenaient depuis un long couloir.</DefaultText>
+      <FemaleText>"C'était censé être une blague, une fusée éclairante, juste pour lui faire peur. Il n'aurait pas dû prendre feu. Désolé, je suis vraiment désolé... S'il vous plaît, mère, ne me forcez pas à partir. Je mourrai là-dehors."
+
+Il réprime ses sanglots déformés, comme s'ils vous parvenaient depuis un long couloir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Tandis que Maia farfouille dans ses affaires, Ishiza vous observe. Ses yeux sont tels des miroirs, mais dans lesquels vous ne vous reflétez pas. Vous n'y voyez que des oiseaux. Un ciel infini, grouillant d'oiseaux. Votre existence même vous est niée dans ce néant aviaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Pouvez-vous faire quelque chose avec cette recette pour « Étourdissement enchanteur » ?"</DefaultText>
+      <FemaleText>"Pouvez-vous faire quelque chose avec cette recette pour « Étourdissement enchanteur » ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"HEIN ! RAMPANT DÉBILE BESOIN NOUVELLES DROGUES. QUELQUE CHOSE PLUS FORT, PLUS... RÉPUGNANT."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"J'ai trouvé cette recette pour « Cauchemars revigorants » et j'ai tout de suite pensé à vous."</DefaultText>
+      <FemaleText>"J'ai trouvé cette recette pour « Cauchemars revigorants » et j'ai tout de suite pensé à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"NOUVELLES DROGUES PRÊTES À ESSAI. FAÎTES BEAUX RÊVES, IMBÉCILE." Gerbe la Souche se penche pour vous embrasser le front.</DefaultText>
+      <FemaleText>"NOUVELLES DROGUES PRÊTES À ESSAI. FAÎTES BEAUX RÊVES, IMBÉCILE." Gerbe la Souche se penche pour vous embrasser le front.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Plissant des yeux en lisant le parchemin, Gerbe la Souche hoche la tête et commence à mélanger les ingrédients. Il saupoudre la préparation sur le nez d'un rat curieux, et glousse joyeusement tandis que la créature se rigidifie et meurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"CHERCHEZ À OUBLIER QUELQUE CHOSE, HEIN ? FUIR, VIVRE DANS RÊVES ?"</DefaultText>
+      <FemaleText>"CHERCHEZ À OUBLIER QUELQUE CHOSE, HEIN ? FUIR, VIVRE DANS RÊVES ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Gerbe la Souche scrute la recette et réduit en poudre un ensemble d'herbes, de tiges de fleurs et de glandes sporagineuses dans le mortier. Il renifle la mixture depuis le bout de sa serre et pousse un soupir de satisfaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Peut-être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

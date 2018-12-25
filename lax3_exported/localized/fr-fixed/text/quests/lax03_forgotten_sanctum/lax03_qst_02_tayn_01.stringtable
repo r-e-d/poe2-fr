@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_02_tayn_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un cri dans l'obscurité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entrer dans &lt;b&gt;les Collections&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>(Facultatif) Parler de la quête de Tayn avec &lt;b&gt;Llengrath&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouver la &lt;b&gt;source des cris&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Utiliser l'&lt;b&gt;Orgue de l'Entasseur de souvenirs&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>(Facultatif) Utiliser le &lt;b&gt;parchemin de Llengrath&lt;/b&gt; à la place de &lt;b&gt;celui de Tayn&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Tayn&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retourner voir &lt;b&gt;Llengrath&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tayn veut que je libère les kiths captifs des Collections des Chambres obscurcies. Il m'a donné un &lt;b&gt;parchemin&lt;/b&gt; capable de leur rendre leurs souvenirs et leur volonté. Il me suffit juste de le &lt;b&gt;lire à voix haute&lt;/b&gt;, en présence des prisonniers abrutis, depuis &lt;b&gt;un endroit d'où ils peuvent tous m'entendre en même temps&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Collections sont au &lt;b&gt;sud-ouest du Temple de la révélation&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tayn veut que je libère les prisonniers abrutis des Collections. Llengrath a peut-être une autre idée sur la façon de gérer la situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Quelque chose, dans les &lt;b&gt;profondeurs des Collections&lt;/b&gt; crie assez fort pour se faire entendre &lt;b&gt;dans toute l'aile&lt;/b&gt;. L'effet semble calmer les prisonniers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>L'&lt;b&gt;Assemblée des échos&lt;/b&gt;, située au &lt;b&gt;plus bas niveau&lt;/b&gt; des Collections, cache un instrument capable de projeter ma voix. Ce serait l'endroit parfait pour lire &lt;b&gt;le parchemin de Tayn&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Llengrath veut que j'utilise son parchemin pour tuer en douceur les prisonniers, afin de libérer leurs âmes et leur permettre de quitter leurs vies détruites. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>J'ai lu le parchemin de Tayn dans l'Orgue de l'Entasseur de souvenirs. Les prisonniers des Collections sont libres. Tayn devrait être satisfait de mon choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Les prisonniers des Collections sont morts. Llengrath sera satisfaite, mais Tayn sera peut-être déçu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>D'un autre côté, je peux lire le &lt;b&gt;parchemin de Llengrath&lt;/b&gt; pour accorder une mort en douceur aux prisonniers abrutis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai utilisé le sort de Tayn pour libérer les prisonniers des Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai utilisé le sort de Llengrath pour tuer en douceur les prisonniers des Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué les prisonniers des Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

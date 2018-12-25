@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_librarian_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Salutations, visiteur. Bienvenue au Scriptorium."
+
+Une femme, dont la silhouette floue n'est définie que par un étalage de peau, incline la tête devant vous. Son menton angulaire et ses oreilles pointues encapuchonnées ressemblent aux traits d'un elfe.</DefaultText>
+      <FemaleText>"Salutations, visiteuse. Bienvenue au Scriptorium."
+
+Une femme, dont la silhouette floue n'est définie que par un étalage de peau, incline la tête devant vous. Son menton angulaire et ses oreilles pointues encapuchonnées ressemblent aux traits d'un elfe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Salutations, visiteur. Heureuse de vous revoir au Scriptorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que puis-je faire d'autre pour vous aider ?"</DefaultText>
+      <FemaleText>"Que puis-je faire d'autre pour vous aider ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Les gens ici ont l'air un peu inquiets."</DefaultText>
+      <FemaleText>"Les gens ici ont l'air un peu inquiets."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Un spécimen des Collections s'est introduit dans le Scriptorium, récemment. Rien qui ne vaille la peine de s'inquiéter, bien que cela affecte la conduite des personnes présentes ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes la responsable des lieux ?"</DefaultText>
+      <FemaleText>"Vous êtes la responsable des lieux ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du Scriptorium ? D'une certaine manière. Des Chambres obscurcies ? Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous semblez être la personne à qui poser des questions sur les Chambres obscurcies."</DefaultText>
+      <FemaleText>"Vous semblez être la personne à qui poser des questions sur les Chambres obscurcies."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je ferai de mon mieux afin de vous répondre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si c'est le Temple de la révélation que vous cherchez, dirigez-vous au nord."
+
+La plume à la main, la sceltrfolc (si c'en est une) écrit une note dans un petit livre en cuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je cherche une archimage du nom de Maura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Elle se contente normalement de se rendre aux Archives, mais dernièrement elle travaille sur la Tréphine."
+
+Elle vous indique un étrange appareil au sud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Savez-vous ce que Maura cherchait à accomplir ?"</DefaultText>
+      <FemaleText>"Savez-vous ce que Maura cherchait à accomplir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'ai peur de ne pas lui avoir posé la question. Elle travaillait sur la Tréphine."
+
+Elle vous indique un étrange appareil au sud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Qu'est-ce qui vous fait croire que je me rends au Temple de la révélation ?"</DefaultText>
+      <FemaleText>"Qu'est-ce qui vous fait croire que je me rends au Temple de la révélation ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous semblez avoir perdu vos yeux."</DefaultText>
+      <FemaleText>"Vous semblez avoir perdu vos yeux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'aurais quelques questions, si cela ne vous dérange pas."</DefaultText>
+      <FemaleText>"J'aurais quelques questions, si cela ne vous dérange pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Partir] "Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"La plupart de ce qui se trouve ici se doit de rester à l'abri des regards. Voir n'est pas essentiel pour travailler dans les Chambres obscurcies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Si fier de votre tirade que vous vous deviez de l'utiliser deux fois, hein ?"</DefaultText>
+      <FemaleText>"Si fier de votre tirade que vous vous deviez de l'utiliser deux fois, hein ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous avez dû bien vous marrer la première fois, il fallait que vous la sortiez à nouveau, pas vrai cap'taine ?"
+
+Serafen secoue la tête.</DefaultText>
+      <FemaleText>"Vous avez dû bien vous marrer la première fois, il fallait que vous la sortiez à nouveau, pas vrai cap'taine ?"
+
+Serafen secoue la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Car vous le devez. C'est une entrée comme une sortie."</DefaultText>
+      <FemaleText>"Car vous le devez. C'est une entrée comme une sortie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText>"Que voulez-vous savoir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Que venez-vous d'écrire ?"</DefaultText>
+      <FemaleText>"Que venez-vous d'écrire ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah. Peur que ça parle de vous ?"</DefaultText>
+      <FemaleText>"Ah. Peur que ça parle de vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je consigne votre arrivée."</DefaultText>
+      <FemaleText>"Je consigne votre arrivée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Oh. Heu. J'imagine que ça parlait bien de vous."</DefaultText>
+      <FemaleText>"Oh. Heu. J'imagine que ça parlait bien de vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Le fugitif des Collections dont vous parlez, des chances qu'il s'agisse d'un magicien masqué ?"</DefaultText>
+      <FemaleText>"Le fugitif des Collections dont vous parlez, des chances qu'il s'agisse d'un magicien masqué ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Qui est l'Oracle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Possible. Si ledit magicien est parvenu à se procurer un masque. L'avez-vous croisé ?"
+
+Elle marque une pause, la plume à l'arrêt sur la page.</DefaultText>
+      <FemaleText>"Possible. Si ledit magicien est parvenu à se procurer un masque. L'avez-vous croisé ?"
+
+Elle marque une pause, la plume à l'arrêt sur la page.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Brièvement. Pouvez-vous m'en dire plus sur lui ?"</DefaultText>
+      <FemaleText>"Brièvement. Pouvez-vous m'en dire plus sur lui ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Évidemment qu'il allait péter un plomb, enfermé ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Pour ainsi dire."</DefaultText>
+      <FemaleText>"Pour ainsi dire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"J'ai bien peur que non."
+
+La femme prend quelques notes dans son journal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les archives de l'individu en question ont été effacées. Il n'existe plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Le fugitif était déjà dangereux avant son exode. Nous ne recueillons pas d'individus sans raison."
+
+La femme prend quelques notes dans son journal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"C'est réconfortant."
+
+Pallegina plisse des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous devriez peut-être arrêter de ramasser des types pareils !"</DefaultText>
+      <FemaleText>"Vous devriez peut-être arrêter de ramasser des types pareils !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Elle incline la tête sur le côté. "Qui d'autre le ferait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Un magicien à la réputation pareille ne sera pas aussi facilement effacé des livres d'Histoire. Telle une tumeur, on en retrouvera des traces partout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Postenago, cela ne fonctionne pas ainsi ! Les archives, les registres... Ce ne sont que des gribouillages ! Une expression. Rien à voir avec ce qu'il en est vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Veuillez ne pas élever la voix."</DefaultText>
+      <FemaleText>"Veuillez ne pas élever la voix."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Elle respecte notre travail, l'Oracle lui accorde donc un accès restreint aux Archives et au Scriptorium. Ils ont convenu d'un accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ce truc sur les murs... J'imagine que c'est lié au corps de Wael ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"L'Oracle de Wael. L'Oracle administre les Chambres au nom de Celui qui voit sans être vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"C'est le travail de l'Oracle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Puis-je parler à cet Oracle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Très instructif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Donc il sert Wael. J'en conclus que cet endroit est entièrement au service de Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Une autre fanatique au service des fantômes d'Engwith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hé, vous remarquerez que le Gardien est juste à côté de vous, hein."</DefaultText>
+      <FemaleText>"Hé, vous remarquerez que le Gardien est juste à côté de vous, hein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"J'en suis bien consciente." Son attention s'attarde sur vous avant de se tourner vers la femme sans yeux.</DefaultText>
+      <FemaleText>"J'en suis bien consciente." Son attention s'attarde sur vous avant de se tourner vers la femme sans yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Le Gardien s'est montré plus capable que la plupart de ces fanatiques."</DefaultText>
+      <FemaleText>"La Gardienne s'est montrée plus capable que la plupart de ces fanatiques."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ce que nous faisons ici, nous le faisons au nom de Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Si l'Oracle souhaite communier avec vous, alors il le fera."</DefaultText>
+      <FemaleText>"Si l'Oracle souhaite communier avec vous, alors il le fera."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Plutôt commode." Ydwin fronce les sourcils, les bras croisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Quelle fonction remplissez-vous au Scriptorium ?"</DefaultText>
+      <FemaleText>"Quelle fonction remplissez-vous au Scriptorium ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Que pouvez-vous me dire sur les Archives ?"</DefaultText>
+      <FemaleText>"Que pouvez-vous me dire sur les Archives ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Quel est l'objectif derrière les Collections ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Depuis combien de temps Maura vient-elle ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Revenons à mes questions précédentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Elle incline la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Des décennies. Il me faut consulter les rapports afin de vous fournir une réponse précise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Elle s'intéresse principalement aux applications arcanes du titan. L'Oracle a estimé que ses recherches bénéficieraient à Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Cet Oracle n'aurait jamais donné sa permission à Maura à moins qu'elle n'ait quelque chose à exploiter." Fassina plisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Guère encourageant." Aloth se ronge une phalange et fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Oh oui, je suis sûr qu'il est très impressionné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Nous consignons ce qui se passe dans les Chambres."
+
+Elle indique de la main les scribes en plein travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tandis que les ailes contiennent les choses effacées du monde du dessus, le Scriptorium garde une trace écrite de l'histoire de ces Chambres même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Il s'est passé tant de choses ici qui auraient dû être oubliées. Et tant de choses se sont passées là-haut qui devraient ne jamais l'être." Maia s'accroupit en soupirant afin de caresser la poitrine d'Ishiza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Les Archives contiennent la totalité des informations historiques d'Eora. À la fois les versions originales et leurs corrections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"De plus, elles contiennent nombre d'artefacts intéressants et insolites. Il me semble que nous sommes en possession de l'une des bottes du guerrier Ryona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0] et [Specified 1] échangent rapidement un regard nerveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les Collections recèlent les individus et créatures déterminés à nuire à Eora et à l'œuvre des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous le dites comme s'ils ne faisaient qu'un."
+
+Elle secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Plutôt que de laisser le matériel effacé se perdre, nous le révisons, le recueillons, et parfois même relâchons des ouvrages corrigés.</DefaultText>
+      <FemaleText>Plutôt que de laisser les textes censurés se perdre, nous les révisons, les recueillons, et parfois même publions comme ouvrages corrigés.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous êtes en train de parler de personnes, vieille cyclope borgne détrempée, pas de foutus bouquins d'Histoire !"</DefaultText>
+      <FemaleText>"Vous êtes en train de parler de personnes, vieille cyclope borgne détrempée, pas de foutus bouquins d'Histoire !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Le titan se repose sous le complexe. Son enchevêtrement dans les Chambres obscurcies s'est... étendu... au fil du temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Est-ce le centre de la Main occulte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Son utérus, peut-être, mais pas le fœtus. La Main occulte ne possède pas plus de centre que Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"C'est dangereux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Beurk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ce n'est pas censé être un secret ? Pourquoi me le racontez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Évidemment. Comme vous. Et comme moi."</DefaultText>
+      <FemaleText>"Évidemment. Comme vous. Et comme moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Quelle que soit l'opinion que vous avez de vous-même, vous ne posez aucune menace sérieuse au travail de Wael."</DefaultText>
+      <FemaleText>"Quelle que soit l'opinion que vous avez de vous-même, vous ne posez aucune menace sérieuse au travail de Wael."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Elle reste coite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Même leur organisation a ses tentacules. Peu importe les branches que l'on coupe, quelque chose d'épouvantable poussera toujours à leur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Dans ce cas, ils doivent agir telles des cellules décentralisées. Un peu comme la Clé plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Votre comparaison est superficielle en plus d'être inexacte. La Clé plombée et la Main occulte n'ont que très peu de choses en commun."</DefaultText>
+      <FemaleText>"Votre comparaison est superficielle en plus d'être inexacte. La Clé plombée et la Main occulte n'ont que très peu de choses en commun."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Nous sommes venus chercher des réponses, pas des directions. C'est vous, l'abomination aux commandes de cet endroit ?" La conservatrice ne fait rien d'autre que d'ajouter une note rapide à son registre.</DefaultText>
+      <FemaleText>"Nous sommes venus chercher des réponses, pas des directions. C'est vous, l'abomination aux commandes de cet endroit ?" La conservatrice ne fait rien d'autre que d'ajouter une note rapide à son registre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous entendez ça ? Ne faites jamais confiance à un archimage. Ils comploteront avec tout et n'importe quoi, du moment que cela sert leurs desseins."</DefaultText>
+      <FemaleText>"Vous entendez ça ? Ne faites jamais confiance à un archimage. Ils comploteront avec tout et n'importe quoi, du moment que cela sert leurs desseins."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Faites bien attention à ne pas confondre les deux. Je me permets d'émettre des doutes sur la qualité de la tenue des registres venant d'une documentaliste aveugle." Fassina croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ceux d'entre nous qui peuvent voir où ils mettent les pieds auront toujours un certain avantage sur vous, sérre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Les ressemblances entre la Clé plombée et la Main occulte perdurent de manière délibérée. Mais ce ne sera bientôt plus le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

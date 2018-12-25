@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\areanotifications</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Le vent amène un son inhabituel à vos oreilles.</DefaultText>
+      <FemaleText>Le vent amène un son inhabituel à vos oreilles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Le grimoire dans votre paquetage commence à trembloter.</DefaultText>
+      <FemaleText>Le grimoire dans votre paquetage commence à trembloter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>La mer semble belle, mais quelque chose change à l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_04_god_body</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les graines de la supercherie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pénétrer dans le corps de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pénétrer dans le corps de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouver l'artefact dans le corps de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Fouiller le Cœur du mystère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ramener la graine divine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Llengrath m'a demandé de &lt;b&gt;chercher un antique artefact arcane&lt;/b&gt; d'Engwith lors de mon exploration du &lt;b&gt;corps de Wael.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Avant d'explorer le corps, je dois &lt;b&gt;trouver un moyen d'y pénétrer.&lt;/b&gt; Je dois réussir à entrer dans le gigantesque corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis parvenu à &lt;b&gt;entrer&lt;/b&gt; dans l'entité massive terrée en dessous. Je peux à présent &lt;b&gt;descendre dans les profondeurs de chair&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai pénétré dans le corps de Wael, je peux &lt;b&gt;y chercher l'artefact.&lt;/b&gt;
+
+Je ferais mieux d'éviter de trop y penser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé deux morceaux de l'artefact, mais on dirait qu'il me manque encore &lt;b&gt;le noyau&lt;/b&gt;. Peut-être se trouve-t-il &lt;b&gt;plus profondément enfoui dans le corps.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai trouvé &lt;b&gt;toutes les parties de l'artefact.&lt;/b&gt; Maintenant, il faut que je &lt;b&gt;le rapporte à l'archimage.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé ce qui semble être une partie d'artefact arcane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé une seconde partie de l'artefact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai remis la graine divine à Tayn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai donné la graine divine à Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>j'ai rendu le schéma à l'Oracle de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai gardé les parties de la graine divine pour moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Llengrath refuse de me parler à cause de la façon dont j'ai résolu le problème que posait le corps de Wael. Je suppose que la graine divine m'appartient, désormais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Tayn veut que je &lt;b&gt;récupère un artefact dans le corps de Wael&lt;/b&gt; : une &lt;b&gt;graine divine,&lt;/b&gt; le mécanisme et les plans permettant de construire intégralement le corps d'un dieu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

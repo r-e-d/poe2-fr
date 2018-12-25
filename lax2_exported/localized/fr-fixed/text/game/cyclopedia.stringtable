@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>992</ID>
@@ -204,6 +204,11 @@ Les circonstances qui ont fait de Neriscyrlas ce qu'elle est sont uniques, et l'
     <Entry>
       <ID>1062</ID>
       <DefaultText>Salutation ordhjóma informelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Une expression Ordhjóma designant un groupe d'élite de protecteurs du temple réputé pour donner leur vie au service de la protection de sites sacrés.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

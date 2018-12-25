@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>111</EntryCount>
+  <EntryCount>112</EntryCount>
   <Entries>
     <Entry>
       <ID>4146</ID>
@@ -567,6 +567,11 @@ Les prêtres de Rymrgand apprennent automatiquement les sorts suivants au Niveau
     <Entry>
       <ID>4917</ID>
       <DefaultText>Vengeance légitime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Allégeance suprême</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

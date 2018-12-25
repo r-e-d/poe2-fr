@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Llengrath est une archimage connue pour ses sorts défensifs. Elle n'est pas la première à porter le titre de « Llengrath » et elle ne sera pas la dernière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Llengrath est une archimage connue pour ses sorts défensifs. Elle n'est pas la première à porter le titre de « Llengrath » et elle ne sera pas la dernière. Vous avez conclu un marché avec elle à Mowrghek Îen après votre rencontre avec la liche Concelhaut.</DefaultText>
+      <FemaleText>Llengrath est une archimage connue pour ses sorts défensifs. Elle n'est pas la première à porter le titre de « Llengrath » et elle ne sera pas la dernière. Vous avez conclu un marché avec elle à Mowrghek Îen après votre rencontre avec la liche Concelhaut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Llengrath est une archimage connue pour ses sorts défensifs. Elle n'est pas la première à porter le titre de « Llengrath » et elle ne sera pas la dernière. Vous l'avez tuée à Mowrghek Îen après votre rencontre avec la liche Concelhaut.</DefaultText>
+      <FemaleText>Llengrath est une archimage connue pour ses sorts défensifs. Elle n'est pas la première à porter le titre de « Llengrath » et elle ne sera pas la dernière. Vous l'avez tuée à Mowrghek Îen après votre rencontre avec la liche Concelhaut.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

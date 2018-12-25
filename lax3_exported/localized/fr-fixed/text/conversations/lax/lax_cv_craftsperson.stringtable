@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax\lax_cv_craftsperson</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous avez de jolies choses à me proposer, l'ami ?"
+
+La naine s'approche de vous. Autour d'elle, l'air est chargé d'odeurs d'huile et de copeaux de métal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous avez de jolies choses à me proposer ?" Izzia tend le cou et vous toise des pieds à la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Excusez-moi, qu'est-ce que vous faites ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Mentir] "Cherchez encore, je suis sûr qu'elle est dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[La laisser travailler]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[La voler pendant qu'elle est distraite]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hmm..." Elle se mord la lèvre et examine vos possessions et votre équipement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous n'avez rien qui m'intéresse, aujourd'hui, l'ami. Du moins pas encore. Quand ce sera le cas, venez me rendre visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Quel étrange morceau de métal. Qu'avez-vous d'autre ?" Elle vous rend l'Espoir de Neriscyrlas et continue de chercher dans vos possessions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Qu'est-ce que c'est ? Une espèce de croc que vous avez volé à une bestiole ?" Elle admire la Dent de Toamowhai avant de vous la rendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tiens donc, c'est là un curieux objet." Elle tapote l'éclat de métal que vous avez trouvé sur l'Île noire, puis le plaque contre son oreille comme un coquillage. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Laissez-moi en juger. Maintenant, silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Si vous m'apportez d'autres échantillons de cet étrange métal, peut-être pourrai-je vous forger un joli petit truc ? Impossible de l'affirmer tant que je ne l'aurai pas entre les mains." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Inspection ordinaire. Ne vous inquiétez pas, je suis une &lt;i&gt;professionnelle&lt;/i&gt;. Tout le monde va y passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Elle est si captivée par le contenu de votre sac qu'elle ne remarque même pas que vous fouillez dans la bourse suspendue à son côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous avez une sacrée collection de métaux étranges. Avec un peu de temps, je parie que je pourrai bricoler quelque chose avec tout ça."
+
+Elle se caresse le menton et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pourquoi mon équipement attise-t-il autant votre curiosité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ouille ! Quelque chose m'a mordue !" 
+
+Elle retire vivement sa main en grimaçant. Le crâne de Concelhaut pousse un gloussement de jubilation et s'enfouit sous un tas de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous aussi vous consignez vos rêves dans un journal ? Inutile de rougir. Par rapport au mien, le vôtre est très gentillet." 
+
+Avec un sourire, elle met de côté le journal des divagations éothasianes éméchées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous me promettez de ne pas vous moquer ? Vous voyez, tout a commencé avec un rêve."
+
+Elle détourne le regard et toussote.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ça tape dans l'œil, hein ? Si vous me laissez un peu de temps, je vous en ferai un joli petit truc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je me souviens juste d'une femme qui ouvre sa sacoche et me donne trois morceaux de métal sombre. Elle me dit qu'elle les a perdus mais que, si je reste aux aguets, un jour je les retrouverai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je n'étais qu'une petite fille quand j'ai fait ce rêve, mais depuis il me colle à l'esprit comme un bout de myxine au fond du palais.
+
+"Alors si vous dénichez des métaux &lt;i&gt;inhabituels&lt;/i&gt;, pensez à me les apporter en premier, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Il va falloir chauffer un peu la forge et donner quelques coups de marteau, mais je vais vous concocter un joli petit truc !" 
+
+À l'aide d'un chiffon, elle vous prend délicatement des mains les morceaux de métal luisant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas, la Dent de Toamowhai et le Poids de la révélation] "Pouvez-vous fusionner ces trois objets et en faire quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bien sûr !" 
+
+Dès qu'elle se met au travail, vous êtes saisi d'une étrange impression. Votre peau se tend, comme séchée au soleil pour recouvrir un tambour. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas] "Pouvez-vous fusionner cela avec la Chaîne de l'autorité légitime ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Après avoir mis la main dessus, j'étais censée assembler les morceaux et recevoir une récompense pour ma peine. Étrange vocation, pas vrai ?" Elle se gratte l'arrière de la tête et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ça devrait vous aller à ravir. Montrez-moi ce que ça donne et dites-moi si ça vous plaît." 
+
+Avec un sourire, Izzia vous présente le fruit de son labeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas et la Dent de Toamowhai.] "Que pouvez-vous faire avec ces deux artefacts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Donner la Dent de Toamowhai et le Poids de la révélation] "Que pouvez-vous faire avec ces deux artefacts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas et le Poids de la révélation] "Que pouvez-vous faire avec ces deux artefacts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ça devrait le faire ! Apparemment, ces morceaux s'assemblent en une couronne élégante et, si j'ose dire, du dernier chic. Essayez-la. Je veux m'assurer qu'elle est à la bonne taille."
+
+Izzia vous tend une couronne ornée de joyaux, chaude au toucher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Eh bien, quelle majesté !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous ne portez pas ma couronne ? Vous la trouvez moins pimpante que ce que vous avez sur la tête, c'est ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tandis qu'elle se met au travail, le bruit de son marteau résonne tel un diapason que l'on frapperait contre le monde entier. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je me suis fait attaquer par des assassins qui ont mentionné votre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tiens donc ?" Les commissures de ses lèvres se contractent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eh bien, beaucoup de gens me connaissent. Et beaucoup de gens ne sont pas des anges. Mais vous devez déjà le savoir, vu que vous êtes armé jusqu'aux dents."
+
+Elle vous examine attentivement, puis hoche la tête d'un air approbateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je m'occupe surtout de fusionner des métaux, de mailler des chaînes et de débosseler des casques. Ce n'est pas folichon, mais ça me préserve des créanciers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Une impression de &lt;i&gt;discordance&lt;/i&gt; sature l'air autour de vous. L'impression que quelque chose cloche. L'impression que quelqu'un vous observe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>C'est &lt;i&gt;douloureux&lt;/i&gt;, mais cette douleur semble... étrangement familière ? Quand Izzia se tourne vers vous une fois son ouvrage terminé, la douleur ne diminue pas. Elle se contente de se décaler en arrière-plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Une couronne risque de me poser quelques... difficultés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Merci, Izzia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Peut-être plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vous n'avez pas l'habitude de porter des couvre-chefs, pas vrai ? Pauvre chou. Quelque chose me dit que cette couronne s'adapte aux têtes de toute forme." Elle vous adresse un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ça tape dans l'œil, hein ? Si vous me laissez un peu de temps, je vous en ferai un joli petit truc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ça tape dans l'œil, hein ? Si vous me laissez un peu de temps, je vous en ferai un joli petit truc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Quand l'inspiration d'Abydon m'envahit, je suis capable de bricoler des trucs encore plus amusants et attractifs. Il me faut simplement les bons matériaux." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Donner la Dent de Toamowhai] "Pouvez-vous fusionner cela avec la Chaîne de l'autorité légitime ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Donner le Poids de la révélation.] "Pouvez-vous fusionner cela avec la Chaîne de l'autorité légitime ?"</DefaultText>
+      <FemaleText>[Donner le Poids de la révélation.] "Pouvez-vous fusionner cela avec la Chaîne de l'autorité légitime ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Que cherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Plus tard, peut-être, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Des matériaux spéciaux, des métaux rares, en particulier s'ils sont &lt;i&gt;noirs&lt;/i&gt; comme la nuit et empreints des braises d'une &lt;i&gt;puissance latente&lt;/i&gt; !
+
+"Je suppose que je le saurai quand je le verrai."
+
+Elle sourit gaiement et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Bien sûr ! Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Un petit prix à payer pour exaucer mon destin. Allez-y ! Je veux voir si ça vous va bien !" Elle recule, les mains sur les hanches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eh bien, si ça ne me rabat pas le caquet... Mais c'est votre couronne, je suppose. Faites comme bon vous semble." Elle vous congédie d'un hochement de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous avez toujours ce truc bizarre que je vous ai fabriqué ? Si vous trouvez des métaux étranges qu'on pourrait y ajouter, prévenez-moi." Izzia vous fait signe de parler franchement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Évidemment, vous pouvez toujours attendre de voir si vous trouvez encore de cet étrange métal pour le compléter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ses yeux s'écarquillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Vous pouvez fabriquer quelque chose à partir de mon équipement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Impossible à savoir tant que nous n'aurons pas regardé de plus près." Elle se frotte les mains, puis se penche pour inspecter vos affaires. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Si le cœur vous en dit, je pourrais fusionner cela avec la chaîne que je vous ai déjà fabriquée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Pouvez-vous combiner deux objets et me laisser conserver le troisième ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"J'imagine que tout est envisageable. Dites-moi seulement ce que vous voulez combiner et ce que vous voulez garder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas et la Dent de Toamowhai.] "Combinez ces objets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Donner la Dent de Toamowhai et le Poids de la révélation] "Combinez ces artefacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Donner l'Espoir de Neriscyrlas et le Poids de la révélation] "Combinez ces artefacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Laissez-moi y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Bien sûr. Je ne me vexerai pas si vous hésitez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Elle plonge la main dans votre poche et fronce les sourcils. Après l'avoir ressortie vide, elle ouvre effrontément le rabat de votre sac et en scrute l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Rien de nouveau en dehors de la chaîne que j'ai forgée, mais prévenez-moi si vous trouvez un troisième morceau similaire, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ouille. Pourquoi ça fait mal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Merci, Izzia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Peut-être plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous vous êtes cogné un orteil ? J'ai vu votre visage blêmir l’espace d'un instant. Tenez, une pincée de ça me fait toujours du bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"C'est moi qui devrais vous remercier pour ce stimulant travail. Prévenez-moi si vous avez besoin d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Euh, j'aurais juré avoir un peu de feuille blanche là-dedans. Peu importe." Elle se tapote la poche et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Elle extrait une feuille séchée d'une bourse et la fourre dans votre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Vous avez senti ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Pendant un instant, vous avez eu l'air un peu pâle. À mon avis, vous avez besoin de vous réhabituer à la terre ferme." Elle glousse et secoue la tête. </DefaultText>
+      <FemaleText>"Pendant un instant, vous avez eu l'air un peu pâle. À mon avis, vous avez besoin de vous réhabituer à la terre ferme." Elle glousse et secoue la tête. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Maintenant, essayez cette jolie chaîne. Je veux voir si elle capte bien la lumière !"</DefaultText>
+      <FemaleText>"Maintenant, soyez gentille et essayez cette jolie chaîne. Je veux voir si elle capte bien la lumière !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Une main sur la hanche, elle penche la tête en attendant que vous preniez la parole.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

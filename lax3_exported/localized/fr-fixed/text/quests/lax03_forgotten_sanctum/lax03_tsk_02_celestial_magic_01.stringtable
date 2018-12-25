@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_02_celestial_magic_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Gâchis d'esprit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parler à &lt;b&gt;Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouver un moyen de rendre sa mémoire à Bekarna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rapporter le livre « Chasse aux étoiles mélancolique avancée » à &lt;b&gt;Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Discuter avec Bekarna dans le &lt;b&gt;Temple de la révélation&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai trouvé une magicienne prisonnière dans les habitats des Collections : &lt;b&gt;Bekarna&lt;/b&gt;. Elle semblait vraiment perturbée par son long emprisonnement, et plus vraiment en possession de tous ses esprits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je ne pourrai rien apprendre sur Bekarna si je ne lui parle pas et si je ne découvre pas l'origine de son affliction mentale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Bekarna m'a imploré de « l'aider à revoir le ciel ». Toute son attention semble focalisée sur cette idée, comme si elle servait de phare à ses pensées. Je peux peut-être trouver une solution à sa stupeur dans les &lt;b&gt;Collections&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai trouvé &lt;b&gt;un livre rempli d'informations&lt;/b&gt; sur les étoiles. Si Bekarna veut tant revoir le ciel, c'est peut-être parce qu'&lt;b&gt;elle en a besoin&lt;/b&gt; pour récupérer ses esprits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Une fois ses esprits retrouvés, Bekarna était logiquement pressée de fuir les Collections. Je peux &lt;b&gt;la retrouver dans le Temple de la révélation&lt;/b&gt; pour obtenir ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bekarna est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Une fois ses esprits récupérés, elle a quitté la Collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

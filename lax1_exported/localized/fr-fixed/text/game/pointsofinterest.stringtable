@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\pointsofinterest</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>8</EntryCount>
+  <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>59</ID>
@@ -42,6 +42,11 @@
     <Entry>
       <ID>67</ID>
       <DefaultText>Pilier des âmes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Kazuwari</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

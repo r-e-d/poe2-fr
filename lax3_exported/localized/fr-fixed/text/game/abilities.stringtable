@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>131</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Allégeance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Reconstruction - Plates</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4739</ID>
+      <DefaultText>Abomination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4740</ID>
+      <DefaultText>Aspects du passé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4741</ID>
+      <DefaultText>Vol d'identité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4742</ID>
+      <DefaultText>Bond scintillant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4743</ID>
+      <DefaultText>Attaque onirique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4744</ID>
+      <DefaultText>Submersion cauchemardesque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Le porteur pointe du doigt un ennemi, lui infligeant Domination pendant un bref laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>Gifle glaciale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Mutilation neigeuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Fourrure de givre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Rugissement de la tempête de neige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4807</ID>
+      <DefaultText>Colossal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4808</ID>
+      <DefaultText>Encombré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4810</ID>
+      <DefaultText>Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4811</ID>
+      <DefaultText>Œil d'Arkemyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4812</ID>
+      <DefaultText>Œil de Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4813</ID>
+      <DefaultText>Œil de Kalakoth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4814</ID>
+      <DefaultText>Œil de Minoletta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4815</ID>
+      <DefaultText>Œil de Ninagauth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4816</ID>
+      <DefaultText>Œil de Ryngrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4817</ID>
+      <DefaultText>Rétrospection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4818</ID>
+      <DefaultText>Deuil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4847</ID>
+      <DefaultText>Festin onirique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4848</ID>
+      <DefaultText>Le porteur place une cible en sommeil et plonge dans ses rêves. Lorsqu'il est en sommeil, le porteur guérit sur la durée et ne peut être ciblé, mais demeure incapable d'agir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4849</ID>
+      <DefaultText>Lentement vient la folie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4850</ID>
+      <DefaultText>Le porteur bénéficie d'un bonus substantiel de Volonté au début du combat, mais celle-ci diminue avec le temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Vengeance légitime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4928</ID>
+      <DefaultText>Essaim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4929</ID>
+      <DefaultText>Faiblesse : Afflictions corporelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>Colonne d'araignées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4931</ID>
+      <DefaultText>Réduction en nombre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4932</ID>
+      <DefaultText>Éclipse lunaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4933</ID>
+      <DefaultText>Essence d'araignée lunaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4934</ID>
+      <DefaultText>Rayonnement d'araignée lunaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4935</ID>
+      <DefaultText>Phases de la lune</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Bénédiction lunaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4937</ID>
+      <DefaultText>Mur de prolifération</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4938</ID>
+      <DefaultText>Écrasement d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText>Dispersion psychique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
+      <DefaultText>Désolation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5037</ID>
+      <DefaultText>Écho d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5038</ID>
+      <DefaultText>Barrière Psychique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5040</ID>
+      <DefaultText>Folie envahissante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5042</ID>
+      <DefaultText>Tourment psychique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5043</ID>
+      <DefaultText>Silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5044</ID>
+      <DefaultText>Apprentissage profond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Spores suintantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Contrôle imprégné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5047</ID>
+      <DefaultText>Bile infestée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5048</ID>
+      <DefaultText>Servitude Infestée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5049</ID>
+      <DefaultText>Enseignements de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5050</ID>
+      <DefaultText>Furie aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5051</ID>
+      <DefaultText>Injection toxique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5052</ID>
+      <DefaultText>Emmagasinage magique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5053</ID>
+      <DefaultText>Coups lourds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5054</ID>
+      <DefaultText>Double mise à terre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5055</ID>
+      <DefaultText>Confusion par l'oubli</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>Esprit agile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>Intrépide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Clarté élémentaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Bénédiction éternelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5060</ID>
+      <DefaultText>Présence explosive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5061</ID>
+      <DefaultText>Chef charismatique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>Esprit guerrier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Le porteur surcharge la concentration, augmentant l'aire d'effet du bouclier et accordant un bonus de Déviation aux alliés alentour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Bouclier élargi renforcé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>(Agrandissement bouclier alternatif) - Les alliés bénéficient d'un bonus pour toutes leurs défenses et pas seulement pour la Déviation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5074</ID>
+      <DefaultText>Bouclier élargi alternatif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>(Agrandissement bouclier renforcé) - Le bonus de Déviation accordé aux alliés est renforcé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5076</ID>
+      <DefaultText>Bouclier élargi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5077</ID>
+      <DefaultText>Capuche voilée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5078</ID>
+      <DefaultText>Lorsque le porteur est attaqué pour la première fois de la rencontre, il gagne les effets du sort « Voile mystérieux ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5079</ID>
+      <DefaultText>Relâcher les hurlements</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5080</ID>
+      <DefaultText>Fuir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5081</ID>
+      <DefaultText>Système de sécurité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5084</ID>
+      <DefaultText>Bouche de l'orgue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5085</ID>
+      <DefaultText>Empoisonnement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>Rêverie nocturne de Bekarna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>À chaque rencontre, le porteur a une chance d'entrer à l'état Frénésie après avoir subi un coup critique. Le porteur gagne les inspirations Force et Dynamisme, de même qu'un bonus de Vitesse d'action. Quand il est en état de Frénésie, le porteur subit un malus de Déviation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>Survivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>Présence rassurante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>Le porteur gagne un bouclier absorbant une partie des dégâts qui lui sont infligés lorsqu'il est mis en état de Frénésie par la Panoplie écarlate. La quantité absorbée augmente selon la compétence de Survie du porteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>(Présence rassurante) - Tous les alliés autour du porteur bénéficient également d'un bouclier contre les dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>Tant qu'Ooblit suit votre groupe, tous les effets bénéfiques durent 3 secondes de plus sur vous, et le groupe gagne un bonus de défense de désengagement. </DefaultText>
+      <FemaleText>Tant qu'Ooblit suit votre groupe, tous les effets bénéfiques durent 3 secondes de plus sur vous, et le groupe gagne un bonus de défense de désengagement. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>Tant que Jim le Mince suit votre groupe, vous infligez davantage de dégâts avec les sorts et les attaques de zone, tandis que le groupe gagne en défense contre les sorts et les attaques de zone.</DefaultText>
+      <FemaleText>Tant que Jim le Mince suit votre groupe, vous infligez davantage de dégâts avec les sorts et les attaques de zone, tandis que le groupe gagne en défense contre les sorts et les attaques de zone.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>Tant que Lucero suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Dextérité et votre groupe voit diminuer son temps de récupération après avoir utilisé un objet rapide.</DefaultText>
+      <FemaleText>Tant que Lucero suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Dextérité et votre groupe voit diminuer son temps de récupération après avoir utilisé un objet rapide.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>Tant que Clignos suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Perception et votre groupe gagne en précision au corps à corps.</DefaultText>
+      <FemaleText>Tant que Clignos suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Perception et votre groupe gagne en précision au corps à corps.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>Tant que Rétina suit votre groupe, il faut un ennemi de plus pour vous prendre à revers et votre groupe gagne en précision à distance.</DefaultText>
+      <FemaleText>Tant que Rétina suit votre groupe, il faut un ennemi de plus pour vous prendre à revers et votre groupe gagne en précision à distance.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>Tant que L'Emballeuse suit votre groupe, vous gagnez de la Valeur d'armure et votre groupe guérit sur la durée.</DefaultText>
+      <FemaleText>Tant que L'Emballeuse suit votre groupe, vous gagnez de la Valeur d'armure et votre groupe guérit sur la durée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>Tant qu'Amanita suit votre groupe, vous gagnez une chance d'appliquer Charme à vos ennemis lorsque vous subissez une attaque et votre groupe inflige des dégâts corrosifs supplémentaires.</DefaultText>
+      <FemaleText>Tant qu'Amanita suit votre groupe, vous gagnez une chance d'appliquer Charme à vos ennemis lorsque vous subissez une attaque et votre groupe inflige des dégâts corrosifs supplémentaires.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>Missiles chaotiques de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>Crée de petits orbes de pur chaos dans la main de l'utilisateur. Une fois lancé, l'orbe rebondit d'un ennemi à l'autre, infligeant des dégâts ainsi que diverses afflictions, dont Stupéfaction, Intoxication, Entrave, Distraction, Confusion et Frisson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>Fardeau est une épée immense, qui requiert une énorme Puissance afin d'être maniée efficacement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>Déni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>Deuil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>Culpabilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>La mort des alliés touche fortement le porteur, qui peut manipuler plus facilement Fardeau. À chaque allié mis hors de combat, le porteur gagne un bonus de Puissance jusqu'à la fin du combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>(Culpabilité) - La durée des effets bénéfiques est magnifiée jusqu'à la fin du combat à chaque fois qu'un allié est mis hors de combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>(Déni) - La durée des effets négatifs est réduite jusqu'à la fin du combat à chaque fois qu'un allié est mis hors de combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>Totem de protection de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>L'utilisateur place le totem au sol pour créer un petit bouclier autour de la zone. Tous les sorts hostiles visant l'utilisateur sont réfléchis aux alentours du totem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>Tentacule agrippeur de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>Invoque un énorme tentacule qui ne se déplace pas, mais inflige des dégâts corrosifs aux personnages proches et peut affronter les kiths ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>Aura corrosive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>Un éclair d'énergies célestes rebondit d'un allié à l'autre, leur octroyant une inspiration au hasard parmi Ténacité, Vigueur, Agilité, Conscience, Astuce et Opiniâtreté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>Serviteurs des étoiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>L'utilisateur libère les esprits confinés dans l'astramétal. À chaque fois qu'un de ces esprits est tué, l'utilisateur reçoit une inspiration aléatoire parmi Force, Dynamisme, Célérité, Subtilité, Sagacité et Détermination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>Stupéfait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5120</ID>
+      <DefaultText>Appel à l'aide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5121</ID>
+      <DefaultText>Essence de la giclure de diablotin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Un liquide putride jaillit de la fiole, engluant tous ceux qui se trouvent à proximité. Ceux qui sont recouverts sont régulièrement Assommés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>Nova</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText>Perte de contrôle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>Petit roupillon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>Profond sommeil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5128</ID>
+      <DefaultText>Cauchemars revigorants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5129</ID>
+      <DefaultText>Étourdissement enchanteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>Attiser le feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>Ranimer les cadavres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>Animer les os</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>Tant que Boras suit votre groupe, vos capacités en Histoire et en Métaphysique augmentent tandis que les sorts du groupe gagnent en précision.</DefaultText>
+      <FemaleText>Tant que Boras suit votre groupe, vos capacités en Histoire et en Métaphysique augmentent tandis que les sorts du groupe gagnent en précision.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText>Maître</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText>Don de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>Sagesse antique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText>Immunité : Système de sécurité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Allégeance suprême</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

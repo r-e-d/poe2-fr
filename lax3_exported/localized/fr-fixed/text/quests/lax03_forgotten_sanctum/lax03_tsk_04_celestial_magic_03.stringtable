@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_04_celestial_magic_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hors des horizons éternels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouver un morceau d'&lt;b&gt;astramétal&lt;/b&gt; dans les &lt;b&gt;Chambres obscurcies&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Apporter l'&lt;b&gt;astramétal&lt;/b&gt; à &lt;b&gt;Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maintenant que &lt;i&gt;Bekarna&lt;/i&gt; a récupéré son grimoire, elle se souvient de la raison de sa venue dans les Îles noires : récupérer une étoile déchue. Repérer un échantillon d'&lt;b&gt;astramétal&lt;/i&gt; lui permettra d'écrire un sort unique et elle a promis de partager les résultats de ses recherches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Bekarna est certaine qu'un catalyseur céleste, en l'occurrence un morceau chargé d'&lt;i&gt;astramétal&lt;/i&gt;, peut être trouvé quelque part dans les Chambres obscurcies. Une étoile est tombée ici récemment, c'est pourquoi je vais peut-être devoir descendre plus &lt;b&gt;profond&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé ce que cherchait Bekarna. Elle sera heureuse que je le rapporte au &lt;b&gt;Temple de la révélation&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>D'après un livre trouvé, des spectres peu communs risquent de défendre l'astramétal quand je le trouverai. Je peux peut-être les apaiser en leur proposant un fragment de ma propre essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Bekarna est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bekarna est parvenue à écrire son propre sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

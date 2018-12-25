@@ -1,0 +1,3071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_llengrath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>576</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Maintenant, nous pouvons parler avec un tant soit peu d'intimité." Elle jette un coup d'œil discret en direction de Tayn et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tayn vous a demandé quelque chose ?" D'un discret signe de la main, Llengrath vous fait signe de vous avancer.</DefaultText>
+      <FemaleText>"Tayn vous a demandé quelque chose ?" D'un discret signe de la main, Llengrath vous fait signe de vous avancer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ainsi vous avez libéré les pauvres âmes retenues captives en ces lieux. Votre compassion leur causera bien plus de mal que mon sort ne leur en a jamais causé."</DefaultText>
+      <FemaleText>"Ainsi vous avez libéré les pauvres âmes retenues captives en ces lieux. Votre compassion leur causera bien plus de mal que mon sort ne leur en a jamais causé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Si j'ai bien compris, vous avez envoyé ces pauvres âmes prisonnières des Collections rejoindre leur prochaine vie."</DefaultText>
+      <FemaleText>"Si j'ai bien compris, vous avez envoyé ces pauvres âmes prisonnières des Collections rejoindre leur prochaine vie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que pensez-vous de Maura ?"</DefaultText>
+      <FemaleText>"Que pensez-vous de Maura ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Que savez-vous au sujet des Chambres obscurcies ?"</DefaultText>
+      <FemaleText>"Que savez-vous au sujet des Chambres obscurcies ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Que pouvez-vous me dire sur Tayn ?"</DefaultText>
+      <FemaleText>"Que pouvez-vous me dire sur Tayn ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Son ambition a toujours été démesurée par rapport à ses capacités. D'une certaine façon, quelle ironie que ce soit ça qui l'ait menée à sa perte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Si nous ne nous trouvions pas dans une situation aussi critique, je serais sûrement en ce moment même en train d'escalader les étagères des archives pour en trouver le fond.
+
+"Il &lt;i&gt;doit&lt;/i&gt; y avoir un fond. Toute chose en a un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ce lieu est une énigme. Connaissant Wael, peut-être que cet endroit contient lui-même sa propre réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Malgré toutes les horreurs que renferme cet endroit, je pense qu'il a aussi beaucoup à nous apprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Les Chambres obscurcies sont une blague cruelle faite aux dépens des mortels. Rien de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Bien qu'il soit aussi épuisant qu'exaspérant, il est plus intelligent qu'il n'en a l'air. Après tout, il &lt;i&gt;est&lt;/i&gt; archimage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous avez sûrement votre avis sur Arkemyr."</DefaultText>
+      <FemaleText>"Vous avez sûrement votre avis sur Arkemyr."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Il est la définition même du mot serpent. On peut se demander quelle impitoyable vilénie il a bien pu faire subir aux Huanas pour qu'ils l'autorisent à construire un château en plein cœur de leur plus grande ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Selon la version &lt;i&gt;officielle,&lt;/i&gt; le palais des Kahangas était instable et menaçait de dégringoler de la montagne avant que &lt;i&gt;quelqu'un&lt;/i&gt; ne finance sa rénovation." Fassina se frotte les doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Oserais-je vous demander ce que vous pensez de Concelhaut ?"</DefaultText>
+      <FemaleText>"Oserais-je vous demander ce que vous pensez de Concelhaut ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ça me fait chaud au cœur de voir qu'il a enfin trouvé sa place dans ce monde... à votre service en tant qu'animal domestique."</DefaultText>
+      <FemaleText>"Ça me fait chaud au cœur de voir qu'il a enfin trouvé sa place dans ce monde... à votre service en tant qu'animal domestique."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous l'avez déjà tué une fois, mais ça ne l'a jamais empêché de continuer d'exister. Ce n'est qu'une question de temps avant qu'il ne trouve un moyen de revenir."</DefaultText>
+      <FemaleText>"Vous l'avez déjà tué une fois, mais ça ne l'a jamais empêché de continuer d'exister. Ce n'est qu'une question de temps avant qu'il ne trouve un moyen de revenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Les crimes pendables de Concelhaut donnent mauvaise réputation aux magiciens responsables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Comme tous les monstres issus des ténèbres, Concelhaut est plus petit qu'il ne semble. Les gens comme lui ne me font pas peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous éveillez ma curiosité."</DefaultText>
+      <FemaleText>"Vous éveillez ma curiosité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Être nombreux dans un seul réceptacle. Je... nous... sommes le condensé de plusieurs générations. Chaque Llengrath à son tour revigore le tout et nous sauve ainsi de la putréfaction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Quand un Llengrath meurt, cette personne cesse d'exister, tout comme les kiths quand ils perdent la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je m'attendais à ce que vous ayez une conception de la mort plus... radicale."</DefaultText>
+      <FemaleText>"Je m'attendais à ce que vous ayez une conception de la mort plus... radicale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Chez les archimages, ce qui &lt;i&gt;est&lt;/i&gt; radical, c'est de vouer un culte à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Qu'il est rafraîchissant d'entendre un point de vue d'une telle platitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Alors c'est que vous n'avez pas bien écouté." Elle laisse échapper un petit rire.</DefaultText>
+      <FemaleText>"Alors c'est que vous n'avez pas bien écouté." Elle laisse échapper un petit rire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Enfin &lt;i&gt;quelqu'un&lt;/i&gt; ici qui réagit à la mort de façon rationnelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous ne m'en voulez pas de vous avoir tuée ? Enfin, d'avoir tué l'autre vous."</DefaultText>
+      <FemaleText>"Vous ne m'en voulez pas de vous avoir tuée ? Enfin, d'avoir tué l'autre vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Le devrais-je ? L'ancienne Llengrath est morte en sachant que ses connaissances lui survivraient. Rares sont ceux à bénéficier de ce privilège."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mais si ça ne vous dérange pas, j'aimerais autant que vous ne me tuiez pas. Ou alors, laissez-moi au moins écrire à mon apprenti, d'abord."</DefaultText>
+      <FemaleText>"Mais si ça ne vous dérange pas, j'aimerais autant que vous ne me tuiez pas. Ou alors, laissez-moi au moins écrire à mon apprenti, d'abord."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'espère que c'était aussi instructif pour vous que c'était amusant pour moi."</DefaultText>
+      <FemaleText>"J'espère que c'était aussi instructif pour vous que c'était amusant pour moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Pourtant Llengrath perdure, maintenant et pour toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Le « soi » n'est rien de plus qu'un amalgame de souvenirs et de sensations qui informe l'âme. Seul, il ne suffit pas à la définir.
+
+"Sachant ceci, j'imagine que ce qu'elle décrit n'est pas &lt;i&gt;entièrement&lt;/i&gt; impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Mais comment les souvenirs peuvent-ils rester si l'âme part à la Roue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Peu après son installation au promontoire de Periki, la Compagnie royale du Feu éteint s'est plainte de crottes de diablotin trouvées sur les ponts de ses vaisseaux de guerre. Faites-en ce que vous voudrez."</DefaultText>
+      <FemaleText>"Peu après son installation au promontoire de Periki, la Compagnie royale du Feu éteint s'est plainte de crottes de diablotin trouvées sur les ponts de ses vaisseaux de guerre. Faites-en ce que vous voudrez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Alors occupons-nous de satisfaire votre curiosité."</DefaultText>
+      <FemaleText>"Alors occupons-nous de satisfaire votre curiosité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous n'avez pas l'air de porter les diablotins dans votre cœur."</DefaultText>
+      <FemaleText>"Vous n'avez pas l'air de porter les diablotins dans votre cœur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"J'imagine qu'en comparaison avec Tayn, toute exaltation n'étant pas au minimum euphorique doit ressembler à du mépris profond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Je ne peux pas dire que je les aime ou que je les déteste. Ils sont utiles et, hormis leurs flatulences constantes, ils peuvent se montrer plutôt mignons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"C'est tout pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"&lt;i&gt;Moi aussi&lt;/i&gt; je peux devenir archimage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Il faudrait évidemment que nous examinions vos recherches, et il faudrait que vous nous présentiez les sorts que vous avez créés pour que nous les évaluions.
+
+"J'espère que vous avez pris soin de consigner vos recherches." Elle hausse un sourcil.</DefaultText>
+      <FemaleText>"Il faudrait évidemment que nous examinions vos recherches, et il faudrait que vous nous présentiez les sorts que vous avez créés pour que nous les évaluions.
+
+"J'espère que vous avez pris soin de consigner vos recherches." Elle hausse un sourcil.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Il me semble que nous n'êtes même pas un apprenti, et encore moins un magicien expérimenté."</DefaultText>
+      <FemaleText>"Il me semble que nous n'êtes même pas une apprentie, et encore moins une magicienne expérimentée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Excusez-moi, mais sachez que le Gardien est un magicien parfaitement accompli !"</DefaultText>
+      <FemaleText>"Excusez-moi, mais sachez que le Gardien est un magicien parfaitement accompli !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Llengrath lève les yeux au ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ouais, je suis parfaitement accompli !"</DefaultText>
+      <FemaleText>"Ouais, je suis parfaitement accomplie !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Je suis plus qu'accompli !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"&lt;i&gt;Juste&lt;/i&gt; accompli, Aloth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"La magie, c'est bien plus qu'un passe-temps pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Plutôt manger mon grimoire que de traîner avec votre bande de tripoteurs de dragons étriqués."</DefaultText>
+      <FemaleText>"Plutôt manger mon grimoire que de traîner avec votre bande de tripoteurs de dragons étriqués."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Euh, je voulais dire que..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je suis coriace. Ça va aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Que vous y arriviez ou pas, en tout cas je serai ravi de vous voir essayer. Je réfléchirai à la possibilité de proposer votre candidature au Cercle."</DefaultText>
+      <FemaleText>"Que vous y arriviez ou pas, en tout cas je serai ravi de vous voir essayer. Je réfléchirai à la possibilité de proposer votre candidature au Cercle."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Allez vous disputer ailleurs, les amoureux."</DefaultText>
+      <FemaleText>"Allez vous disputer ailleurs, les amoureux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'aimerais savoir ce que vous pensez de certains autres archimages."</DefaultText>
+      <FemaleText>"J'aimerais savoir ce que vous pensez de certains autres archimages."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Demandez. Je vous dirai peut-être même la vérité." Le sourire dessiné sur sa bouche a un vous-ne-savez-quoi d'inhabituellement sauvage.</DefaultText>
+      <FemaleText>"Demandez. Je vous dirai peut-être même la vérité." Le sourire dessiné sur sa bouche a un vous-ne-savez-quoi d'inhabituellement sauvage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Un meurtre odieux, dites-vous ? Vous vous adressez à la bonne personne.</DefaultText>
+      <FemaleText>Un meurtre odieux, dites-vous ? Vous vous adressez à la bonne personne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"C'est affreux. Vous êtes affreuse. Je refuse."</DefaultText>
+      <FemaleText>"C'est affreux. Vous êtes affreuse. Je refuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Si vous changez d'avis, ce parchemin vous aidera."
+
+Elle sort un rouleau de parchemin neuf et immaculé des plis de sa robe et referme votre main autour.</DefaultText>
+      <FemaleText>"Si vous changez d'avis, ce parchemin vous aidera."
+
+Elle sort un rouleau de parchemin neuf et immaculé des plis de sa robe et referme votre main autour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Elle renifle. "Si vous cherchez au plus profond de vous-même, je suis sûre que vous verrez que j'ai raison."</DefaultText>
+      <FemaleText>Elle renifle. "Si vous cherchez au plus profond de vous-même, je suis sûre que vous verrez que j'ai raison."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Gardien de Caed Nua, si vous voulez bien m'accorder un instant."</DefaultText>
+      <FemaleText>"Gardienne de Caed Nua, si vous voulez bien m'accorder un instant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Même si son apparence a changé depuis votre première rencontre, vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/15&gt;Llengrath&lt;/link&gt;.</DefaultText>
+      <FemaleText>Même si son apparence a changé depuis votre première rencontre, vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/15&gt;Llengrath&lt;/link&gt;.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/15&gt;Llengrath&lt;/link&gt;.</DefaultText>
+      <FemaleText>Vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/15&gt;Llengrath&lt;/link&gt;
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Vous avez aidé le Cercle des archimages une fois par le passé. Nous nous demandions si vous pouviez de nouveau nous rendre un service."</DefaultText>
+      <FemaleText>"Vous avez aidé le Cercle des archimages une fois par le passé. Nous nous demandions si vous pouviez de nouveau nous rendre un service."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Vous avez eu quelques différends avec le Cercle des archimages par le passé. Cependant, nous savons que vous êtes à la poursuite d'Éothas, et il se pourrait que nous soyons en mesure de vous aider."</DefaultText>
+      <FemaleText>"Vous avez eu quelques différends avec le Cercle des archimages par le passé. Cependant, nous savons que vous êtes à la poursuite d'Éothas, et il se pourrait que nous soyons en mesure de vous aider."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Génial. Quand est-ce qu'on commence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Pourquoi le Cercle des archimages n'entreprend-il jamais de résoudre ces crises qui menacent le sort du monde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"J'en ai assez d'effectuer de basses besognes pour les puissants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Pourquoi je vous aiderais ? Il y a un problème de deux cents dix mètres de haut qui requiert mon attention."</DefaultText>
+      <FemaleText>"Pourquoi je vous aiderais ? Il y a un problème de deux cents dix mètres de haut qui requiert mon attention."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Quand les gens se retrouvent confrontés à des problèmes de trop grande envergure, c'est &lt;i&gt;votre&lt;/i&gt; nom qui est sur leurs lèvres.
+
+"Je comprends dans quelle position ça vous met. Quoi qu'il en soit..."
+
+Llengrath fronce les sourcils. Elle regarde au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Je vous attendrai dans les Îles noires, une chaîne de volcans située dans la partie sud-est de la mer, au sud de Tikawara."
+
+"Ne tardez pas trop, Gardien."</DefaultText>
+      <FemaleText>"Je vous attendrai dans les Îles noires, une chaîne de volcans située dans la partie sud-est de la mer, au sud de Tikawara."
+
+"Ne tardez pas trop, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"J'aurais cru qu'en en appelant à son instinct de survie et sa soif de connaissance, j'obtiendrais la coopération du célèbre Gardien."</DefaultText>
+      <FemaleText>"J'aurais cru qu'en en appelant à son instinct de survie et sa soif de connaissance, j'obtiendrais la coopération de la célèbre Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Mais si ce n'est pas le cas, peut-être que Maura a raison. Peut-être &lt;i&gt;qu'il y a&lt;i&gt; quelque chose au sud qui permettrait d'affronter Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Peut-être que nous résolvons plus de problèmes que vous ne le pensez. Peut-être que nous ne crions juste pas sur tous les toits qu'Eora se retrouve bien souvent au bord de la destruction.</DefaultText>
+      <FemaleText>"Peut-être que nous résolvons plus de problèmes que vous ne le pensez. Peut-être que nous ne crions juste pas sur tous les toits qu'Eora se retrouve bien souvent au bord de la destruction.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Aussi tôt que possible." Llengrath fronce les sourcils, le regard rivé vers l'horizon.</DefaultText>
+      <FemaleText>"Aussi tôt que possible." Llengrath fronce les sourcils, le regard rivé vers l'horizon.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Fassina, vous êtes dans les affaires des archimages jusqu'au cou. Que savez-vous au sujet de ceci ?"</DefaultText>
+      <FemaleText>"Fassina, vous êtes dans les affaires des archimages jusqu'au cou. Que savez-vous au sujet de ceci ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Maura s'est fait une spécialité de la branche la plus répugnante des arcanes. Si elle a trouvé une chose de valeur, elle doit sûrement être dégoûtante." Fassina se frotte le menton et réfléchit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Si je trouve le temps, je verrai ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Vous êtes venu, comme je vous l'avais demandé. Excellent."</DefaultText>
+      <FemaleText>"Vous êtes venue, comme je vous l'avais demandé. Excellent."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Je m'appelle &lt;link="stringtooltip://tooltips/13&gt;Llengrath&lt;/link&gt;. Et, sauf erreur de ma part, vous êtes le Gardien de Caed Nua."
+
+La saisissante divine redresse les épaules et vous contemple de ses yeux perçants.</DefaultText>
+      <FemaleText>"Je m'appelle &lt;link="stringtooltip://tooltips/13&gt;Llengrath&lt;/link&gt;. Et, sauf erreur de ma part, vous êtes le Gardien de Caed Nua."
+
+La saisissante divine redresse les épaules et vous contemple de ses yeux perçants.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Soupirer.] "Qu'est-ce que vous voulez ?"</DefaultText>
+      <FemaleText>[Soupirer.] "Qu'est-ce que vous voulez ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"La dernière fois que je vous ai vue, vous étiez plus grande."</DefaultText>
+      <FemaleText>"La dernière fois que je vous ai vue, vous étiez plus grande."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Je ne vous ai pas déjà tuée ?"</DefaultText>
+      <FemaleText>"Je ne vous ai pas déjà tuée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Tirer votre arme.] "Vous avez dix secondes pour quitter mon bateau avant que j'ouvre le feu."</DefaultText>
+      <FemaleText>[Tirer votre arme.] "Vous avez dix secondes pour quitter mon bateau avant que j'ouvre le feu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Joli dragon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Enchanté."</DefaultText>
+      <FemaleText>"Enchantée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Content de vous revoir."</DefaultText>
+      <FemaleText>"Contente de vous revoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"N'est-ce pas ? Gafonercos est mon élève le plus brillant. 
+
+En s'abritant les yeux, elle lève son regard sur le dragon décrivant des cercles dans le ciel, au-dessus du navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"De même. Le Cercle entend tant parler du Gardien de Caed Nua. Je me suis longtemps demandé si vous étiez à la hauteur de votre réputation."</DefaultText>
+      <FemaleText>"De même. Le Cercle entend tant parler du Gardien de Caed Nua. Je me suis longtemps demandé si vous étiez à la hauteur de votre réputation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Archimage. Nous nous sommes rencontrées au gala du promontoire de Periki. Peut-être ne vous rappelez-vous pas de moi, mais vous m'aviez prodigué d'excellents conseils quant à ma carrière." Fassina exécute une rapide révérence.</DefaultText>
+      <FemaleText>"Archimage. Nous nous sommes rencontrés au gala du promontoire de Periki. Peut-être ne vous rappelez-vous pas de moi, mais vous m'aviez prodigué d'excellents conseils quant à ma carrière." Fassina exécute une rapide révérence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Depuis notre dernière discussion, vous vous êtes aventuré dans le royaume des morts et en êtes revenu... du moins c'est ce qu'on m'a dit." Un sourire se dessine lentement sur ses lèvres.
+
+"Fascinant."</DefaultText>
+      <FemaleText>"Depuis notre dernière discussion, vous vous êtes aventurée dans le royaume des morts et en êtes revenue... du moins c'est ce qu'on m'a dit." Un sourire se dessine lentement sur ses lèvres.
+
+"Fascinant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Je croyais que nous avions un marché ! Que faites-vous ici ?"</DefaultText>
+      <FemaleText>"Je croyais que nous avions un marché !" Que faites-vous ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Je ne vous veux pas de mal. Je suis venue vous demander quelque chose."</DefaultText>
+      <FemaleText>"Je ne vous veux pas de mal. Je suis venue vous demander quelque chose."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Je recherche un membre disparu du Cercle des archimages, du nom de Maura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"J'ai des informations pour vous. Des informations qui pourraient vous être utiles."</DefaultText>
+      <FemaleText>"J'ai des informations pour vous. Des informations qui pourraient vous être utiles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ça ne nous coûte rien d'écouter. Et puis, ensuite on pourra se faire un plaisir de refuser sa demande." Fassina adresse un hochement de tête à Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Vos amis sont avisés." Elle vous adresse un sourire serein en attendant votre réponse.</DefaultText>
+      <FemaleText>"Vos amis sont avisés." Elle vous adresse un sourire serein en attendant votre réponse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Il vaut mieux être armé de connaissances, même si on ne fait rien de ces dernières."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ou bien peut-être que le sort d'un archimage qui cherchait un moyen d'arrêter Éothas ne vous intéresse pas ?"</DefaultText>
+      <FemaleText>"Ou bien peut-être que le sort d'un archimage qui cherchait un moyen d'arrêter Éothas ne vous intéresse pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Je vous écoute. Pour l'instant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Très bien, crachez le morceau. &lt;i&gt;Après ça,&lt;/i&gt; dégagez de mon bateau."</DefaultText>
+      <FemaleText>"Très bien, crachez le morceau. &lt;i&gt;Après ça,&lt;/i&gt; dégagez de mon bateau."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[Soupirer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"La Roue a le chic pour faire perdre quelques centimètres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"J'ai bien peur que ça n'aie pas marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Vous m'avez manipulé pour que je tue Concelhaut puis avez essayé de vous débarrasser de moi pour qu'on ne remonte pas jusqu'à vous !"</DefaultText>
+      <FemaleText>"Vous m'avez manipulée pour que je tue Concelhaut puis avez essayé de vous débarrasser de moi pour qu'on ne remonte pas jusqu'à vous !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"J'accepte vos excuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Lui adresser un regard noir sans mot dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Quel coup de génie de vous occuper de vos ennemis comme de marionnettes. Avec de telles manigances, attendez-vous à des représailles."</DefaultText>
+      <FemaleText>"Quel coup de génie de vous occuper de vos ennemis comme de marionnettes. Avec de telles manigances, attendez-vous à des représailles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Le passé, c'est le passé. Concentrons nous sur ce qui se trouve devant nous... ou plutôt sous nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Elle est très jolie. Lui ? De toute façon, elle va revenir, pas vrai ?" Il tend le cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Si c'est des excuses que vous avez entendues, alors acceptez-les donc."</DefaultText>
+      <FemaleText>"Si c'est des excuses que vous avez entendues, alors acceptez-les donc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Après avoir visité cet endroit, je me demande si elle est vraiment à l'origine de la magie d'invocation qui porte son nom ou si c'est Wael qui lui a offerte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ce malentendu, qui en est responsable ?"</DefaultText>
+      <FemaleText>"Ce malentendu, qui en est responsable ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Moi, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>[Faire un signe de la main.] "Ravi de vous revoir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Votre exubérance la décontenance un court instant, et elle cligne rapidement des yeux.</DefaultText>
+      <FemaleText>Votre exubérance la décontenance un court instant, et elle cligne rapidement des yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Il souhaite que je libère les gens prisonniers dans les Collections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"En fait, il m'a juste complimenté sur mes goûts vestimentaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ce dont Tayn et moi-même parlons reste entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Et vous avez accepté ? Quelle grandeur d'âme." Elle hausse un sourcil.</DefaultText>
+      <FemaleText>"Et vous avez accepté ? Quelle grandeur d'âme." Elle hausse un sourcil.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Ce n'est pas ce que j'ai dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Oui. Pourquoi cette question ?"</DefaultText>
+      <FemaleText>"Oui. Pourquoi cette question ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Non, j'ai refusé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Il n'a pas tort. Cette robe vous va plutôt bien."</DefaultText>
+      <FemaleText>"Il n'a pas tort. Cette robe vous va plutôt bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Tayn a toujours eu un faible pour... les styles excentriques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Mais si vous ne voulez pas être franc avec moi, je ne vais certainement pas vous forcer la main.</DefaultText>
+      <FemaleText>Mais si vous ne voulez pas être franche avec moi, je ne vais certainement pas vous forcer la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Quel rabat-joie."</DefaultText>
+      <FemaleText>"Quelle rabat-joie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Une telle discrétion sera tout à votre avantage si jamais vous essayez de rejoindre le Cercle.
+
+"Mais cet endroit n'est pas le Cercle, et il nous faudra travailler de concert si nous voulons percer ses mystères."</DefaultText>
+      <FemaleText>"Une telle discrétion sera tout à votre avantage si jamais vous essayez de rejoindre le Cercle.
+
+"Mais cet endroit n'est pas le Cercle, et il nous faudra travailler de concert si nous voulons percer ses mystères."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Vous n'avez pas plus de raisons de vous allier à Tayn que de me cacher des secrets. En ces lieux, nous sommes tous alliés."</DefaultText>
+      <FemaleText>"Vous n'avez pas plus de raisons de vous allier à Tayn que de me cacher des secrets. En ces lieux, nous sommes tous alliés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Il vous semble que ce que Tayn vous demande est un acte de clémence, mais ce n'est qu'une tentative égoïste d'améliorer sa réputation."</DefaultText>
+      <FemaleText>"Il vous semble que ce que Tayn vous demande est un acte de clémence, mais ce n'est qu'une tentative égoïste d'améliorer sa réputation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Nombre des pauvres âmes retenues captives ici le sont depuis des décennies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Accordez le repos à leurs âmes. Renvoyez-les à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Vous voulez que je les &lt;i&gt;tue&lt;/i&gt; ? C'est un peu extrême."</DefaultText>
+      <FemaleText>"Vous voulez que je les &lt;i&gt;tue&lt;/i&gt; ? C'est un peu extrême."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Toutes les choses meurent, la mort est la pierre angulaire de l'ordre naturel. Elle n'a rien de plus extrême que la naissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Il est bien plus clément d'offrir une nouvelle chance de vivre à quelqu'un en lui donnant la mort qu'en le laissant souffrir une vie terne qui n'est que l'ombre de ce qu'il a vécu jadis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"C'est tout ce que je demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Je pensais que oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Elle hoche la tête sèchement en poussant un profond soupir avant de se détourner. Elle se tapote la hanche d'un air absent et, mue par l'habitude, se met à chercher son grimoire avant de le trouver. Elle le parcourt lentement, l'esprit visiblement ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Pardonnez mes conclusions hâtives, alors. Votre bonne réputation vous précède."</DefaultText>
+      <FemaleText>"Pardonnez mes conclusions hâtives, alors. Votre bonne réputation vous précède."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Bien sûr. Vous avez une réputation à tenir. Vous ne pouvez pas vous permettre d'offrir votre aide à tout va."
+
+Elle vous adresse un sourire entendu, une lueur d'amusement dans son regard.</DefaultText>
+      <FemaleText>"Bien sûr. Vous avez une réputation à tenir. Vous ne pouvez pas vous permettre d'offrir votre aide à tout va."
+
+Elle vous adresse un sourire entendu, une lueur d'amusement dans son regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Votre arrangement avec Tayn ne regarde que vous. Je vous demande simplement de m'écouter."</DefaultText>
+      <FemaleText>"Votre arrangement avec Tayn ne regarde que vous. Je vous demande simplement de m'écouter."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Voilà qui est curieux. Pourquoi ?" Elle penche la tête de côté et fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Il serait cruel de les libérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ce n'est pas mon problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"J'espérais que vous m'offririez mieux si je sabotais son plan."</DefaultText>
+      <FemaleText>"J'espérais que vous m'offririez mieux si je sabotais son plan."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"J'apprécie votre sentiment, que je partage.
+
+"Dans ce cas, j'aurais une demande à formuler."</DefaultText>
+      <FemaleText>"J'apprécie votre sentiment, que je partage.
+
+"Dans ce cas, j'aurais une demande à formuler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Accordez le repos à leurs âmes. Renvoyez-les à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Je ne le conteste pas... vous avez une magicienne vagabonde à retrouver."</DefaultText>
+      <FemaleText>"Je ne le conteste pas... vous avez une magicienne vagabonde à retrouver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"J'imagine que vous ne me devez aucune explication." Elle hausse les épaules.</DefaultText>
+      <FemaleText>"J'imagine que vous ne me devez aucune explication." Elle hausse les épaules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Je pensais que nous avions un accord."</DefaultText>
+      <FemaleText>"Je pensais que nous avions un accord."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Quel destin les attend, je me le demande... Je doute que Tayn ait l'intention de les prendre sous sa garde à leur retour dans la société."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Je ne savais pas que Tayn appréciait les goûts d'Arkemyr en matière de robes. J'avoue cependant que vous les portez mieux que lui."</DefaultText>
+      <FemaleText>"Je ne savais pas que Tayn appréciait les goûts d'Arkemyr en matière de robes. J'avoue cependant que vous les portez mieux que lui."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"J'ai fait ce que j'estimais être juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Je n'ai pas pu m'y résoudre, désolé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Vous vouliez que je les massacre !"</DefaultText>
+      <FemaleText>"Vous vouliez que je les massacre !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Visiblement. Vous êtes bouffi de votre propre grandeur d'âme."</DefaultText>
+      <FemaleText>"Visiblement. Vous êtes bouffi de votre propre grandeur d'âme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Eh bien, ce qui est fait est fait. Je prie pour que la Chevaleresse blême leur accorde la paix quand elles finiront par franchir sa porte." Avec un soupir empreint d'une profonde lassitude, elle se détourne.</DefaultText>
+      <FemaleText>"Eh bien, ce qui est fait est fait. Je prie pour que la Chevaleresse blême leur accorde la paix quand elles finiront par franchir sa porte." Avec un soupir empreint d'une profonde lassitude, elle se détourne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Ne soyez pas désolé ; ce sont elles qu'il faut plaindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ce que vous qualifiez de massacre, c'est pour moi de la miséricorde. Mais vous ne saisissez sûrement pas la nuance."</DefaultText>
+      <FemaleText>"Ce que vous qualifiez de massacre, c'est pour moi de la miséricorde. Mais vous ne saisissez sûrement pas la nuance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Je vous ai roulée."</DefaultText>
+      <FemaleText>"Je vous ai roulée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ces malheureuses vont souffrir à cause de votre duperie. Sans parler de la calamité qu'elles vont sûrement répandre sur le monde."
+
+Elle secoue la tête.</DefaultText>
+      <FemaleText>"Ces malheureuses vont souffrir à cause de votre duperie. Sans parler de la calamité qu'elles vont sûrement répandre sur le monde."
+
+Elle secoue la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[Lui montrer les Annales de Llengrath] "J'ai trouvé ça dans les Archives. Vous savez de quoi il s'agit ?"</DefaultText>
+      <FemaleText>[Lui montrer les Annales de Llengrath] "J'ai trouvé ça dans les Archives. Vous savez de quoi il s'agit ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Quel curieux ouvrage. Puis-je y jeter un œil ?" Les sourcils froncés, elle inspecte le livre que vous tenez.
+
+Une étrange expression se dessine sur son visage, comme si elle venait de se rappeler qu'elle avait oublié d'éteindre l'âtre.</DefaultText>
+      <FemaleText>"Quel curieux ouvrage. Puis-je y jeter un œil ?" Les sourcils froncés, elle inspecte le livre que vous tenez.
+
+Une étrange expression se dessine sur son visage, comme si elle venait de se rappeler qu'elle avait oublié d'éteindre l'âtre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Si c'est vrai, il faut absolument que je récupère ces souvenirs perdus. Et qu'on le veuille ou non, ils sont tous catalogués de la même manière, dans des livres tels que celui que vous avez entre les mains."</DefaultText>
+      <FemaleText>"Si c'est vrai, il faut absolument que je récupère ces souvenirs perdus. Et qu'on le veuille ou non, ils sont tous catalogués de la même manière, dans des livres tels que celui que vous avez entre les mains."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Je pourrais les chercher pour vous."</DefaultText>
+      <FemaleText>"Je pourrais les chercher pour vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Pourquoi Wael ferait-il cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Eh bien, bonne chance pour trouver le reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Wael peut sembler lunatique et capricieux, mais on décèle une certaine logique dans ses actions si on prend en compte ses objectifs."</DefaultText>
+      <FemaleText>"Wael peut sembler lunatique et capricieux, mais on décèle une certaine logique dans ses actions si on prend en compte ses objectifs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Que ferez-vous pour moi si je vous rapporte ces livres ?"</DefaultText>
+      <FemaleText>"Que ferez-vous pour moi si je vous rapporte ces livres ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Vous aurez l'oreille d'une archimage. N'est-ce pas suffisant ?"</DefaultText>
+      <FemaleText>"Vous aurez l'oreille d'une archimage. N'est-ce pas suffisant ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Je suis déjà intime avec quantité d'archimages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Non, pas du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Une archimage vous devra une faveur. C'est un égard exceptionnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Oui, je suppose que les assistants doivent apprendre à bien connaître leurs supérieurs s'ils veulent s'élever au-dessus de leur condition. Ne perdez pas espoir, Gardien." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Vous semblez &lt;i&gt;effectivement&lt;/i&gt; vous être rapproché du Gardien après tout ce temps fourré dans son sac à dos."</DefaultText>
+      <FemaleText>"Vous semblez &lt;i&gt;effectivement&lt;/i&gt; vous être rapproché de la Gardienne après tout ce temps fourré dans son sac à dos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Très bien, je m'en occupe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Je serais davantage tenté par un nouveau sortilège concocté par la légendaire archimage Llengrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Je suis ravie de l'entendre." Un sourire se dessine sur son visage. Il est d'autant plus surprenant qu'il a l'air sincère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Vous devriez aller les récupérer vous-même."</DefaultText>
+      <FemaleText>"Vous devriez aller les récupérer vous-même."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Elle pousse un grognement de dédain. "Et par où commencerais-je mes recherches ? Ces archives doivent contenir des millions de livres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Les dieux seuls savent quels ravages causeront ces êtres brisés avec les informations que Tayn a l'intention de leur donner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Hm. Si vous respectez votre part du marché, je vous devrai une faveur. Un échange équitable." Elle hoche la tête, dissimulant mal son plaisir avec un petit sourire qu'elle tente, en vain, de contenir.</DefaultText>
+      <FemaleText>"Hm. Si vous respectez votre part du marché, je vous devrai une faveur. Un échange équitable." Elle hoche la tête, dissimulant mal son plaisir avec un petit sourire qu'elle tente, en vain, de contenir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>[Donner le livre à Llengrath] "Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Je crois que je vais le garder, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Je vous le rends tout de suite."
+
+Elle tourne le tome dans tous les sens, en inspecte la couverture et la reliure. Puis elle pose la main à plat sur la couverture et ferme les yeux. Une brève étincelle d'énergie arcane danse entre ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Ça m'a fait penser aux souvenirs que vous m'avez donnés quand nous avons conclu notre pacte à Mowrghek Îen."</DefaultText>
+      <FemaleText>"Ça m'a fait penser aux souvenirs que vous m'avez donnés quand nous avons conclu notre pacte à Mowrghek Îen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Vous ne tentez donc pas de me tromper. Vous êtes sérieux." Elle cligne plusieurs fois les yeux, apparemment prise au dépourvu.</DefaultText>
+      <FemaleText>"Vous ne tentez donc pas de me tromper. Vous êtes sérieuse." Elle cligne plusieurs fois les yeux, apparemment prise au dépourvu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Je viens d'avoir une idée inquiétante. Se pourrait-il qu'un éclat d'essence de mon mentor - de ses souvenirs - soit retenu captif dans ce livre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Cela pourrait expliquer... Hm." Son regard se perd dans le vague. En pleine réflexion.</DefaultText>
+      <FemaleText>"Cela pourrait expliquer... Hm." Son regard se perd dans le vague. En pleine réflexion.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Hein ? Le suspense a assez duré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Je suppose que je ne risque rien à vous le dire. Après tout, je pourrai toujours vous tuer si vous posez problème."</DefaultText>
+      <FemaleText>"Je suppose que je ne risque rien à vous le dire. Après tout, je pourrai toujours vous tuer si vous posez problème."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"« Llengrath » est davantage qu'un titre... c'est une communion qui remonte au premier Llengrath.
+
+"Du moins, c'était autrefois le cas. La chaîne est brisée depuis quelque temps déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Et c'est &lt;i&gt;là&lt;/i&gt; que doit se trouver l'explication." Elle tapote la couverture du livre.
+
+"Wael, ou ses agents, doivent avoir volé les souvenirs du premier Llengrath et les avoir stockés ici, dans cette maudite bibliothèque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Elle vous scrute un long moment. Ses yeux étincelants parcourent votre équipement, votre visage. Son regard finit par s'arrêter sur le livre que vous tenez toujours en main.</DefaultText>
+      <FemaleText>Elle vous scrute un long moment. Ses yeux étincelants parcourent votre équipement, votre visage. Son regard finit par s'arrêter sur le livre que vous tenez toujours en main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Il y a un fragment d'âme dans ce livre. C'est ce qui a provoqué ma vision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Vraiment ? Et vous pouvez le voir ?" Ses yeux s'écarquillent.</DefaultText>
+      <FemaleText>"Vraiment ? Et vous pouvez le voir ?" Ses yeux s'écarquillent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Être un « Llengrath » ne signifie pas simplement en porter le nom, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Bien observé. Vous avez effectivement raison." Elle plisse les yeux et esquisse un petit sourire.</DefaultText>
+      <FemaleText>"Bien observé. Vous avez effectivement raison." Elle plisse les yeux et esquisse un petit sourire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"En outre, on a besoin de moi ici. Il faut bien que quelqu'un analyse les notes de Maura, et il n'est pas question que je confie cette tâche à Tayn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Votre demande me semble raisonnable. Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Être archimage, cela revient à étancher constamment sa soif inextinguible de connaissances à une fontaine débordant de dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Qu'est-ce que ça signifie, d'être un Llengrath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>[Lui montrer l'intégrale des Annales de Llengrath] "J'ai trouvé ça dans les Archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Qu'est-ce que c'est ? Un journal ?" Elle scrute attentivement le livre que vous tenez dans les mains. Plus elle y attarde son regard, plus ses yeux s'écarquillent.</DefaultText>
+      <FemaleText>"Qu'est-ce que c'est ? Un journal ?" Elle scrute attentivement le livre que vous tenez dans les mains. Plus elle y attarde son regard, plus ses yeux s'écarquillent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>[Lui donner les Annales de Llengrath]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Je vais garder le livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Non ! Gardien, s'il vous plaît... " Son visage se tord en une grimace déchirante, comme si elle essayait de retenir ses larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Elle vous prend délicatement le livre des mains, comme si elle craignait de l'abîmer. Un large sourire se dessine sur son visage, et elle pousse un petit rire étouffé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Ne m'adressez plus la parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Tayn m'a dit de ne pas vous faire confiance. D'après lui, vous avez des arrière-pensées."</DefaultText>
+      <FemaleText>"Tayn m'a dit de ne pas vous faire confiance. D'après lui, vous avez des arrière-pensées."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Des arrière-pensées ? Ce tome est essentiel à &lt;i&gt;ma&lt;/i&gt; lignée archimagique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Fascinant. Je ne parviens pas à déterminer s'il s'agit d'une chicane de la Main occulte ou d'autre chose de plus captivant."
+
+Elle vous rend le livre à contrecœur. Son regard s'attarde sur sa couverture.</DefaultText>
+      <FemaleText>"Fascinant. Je ne parviens pas à déterminer s'il s'agit d'une chicane de la Main occulte ou d'autre chose de plus captivant."
+
+Elle vous rend le livre à contrecœur. Son regard s'attarde sur sa couverture.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Il m'a donné une vision d'une de vos vies antérieures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Tiens donc. Voilà qui est très curieux." Elle veille soigneusement à conserver un ton égal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>[Mentir] "La vision montrait, euh, ce que vous avez mangé hier soir. Du poulet rôti ?"</DefaultText>
+      <FemaleText>[Mentir] "La vision montrait, euh, ce que vous avez mangé hier soir. Du poulet rôti ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Vous connaissant, je ne sais pas pourquoi je m'attendais à autre chose."</DefaultText>
+      <FemaleText>"Vous connaissant, je ne sais pas pourquoi je m'attendais à autre chose."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Je vais en chercher d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Je pensais que vous pourriez savoir quelque chose à ce sujet."</DefaultText>
+      <FemaleText>"Je pensais que vous pourriez savoir quelque chose à ce sujet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Je parie que Tayn adorerait y jeter un œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Vous remarquez que son corps décrit un angle stratégique par rapport à Tayn, de manière à ce qu'il ne puisse pas l'entendre. Ses mains, elles aussi, tremblent légèrement, comme si une forte émotion l'étreignait.
+
+Peut-être désire-t-elle ces livres davantage qu'elle le laisse paraître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Soyez prudent. Ce lieu regorge sans aucun doute de dangers invisibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Votre confiance vous honore. Néanmoins, ce tome ne m'évoque rien. Si vous en trouvez d'autres, j'aimerais les étudier."</DefaultText>
+      <FemaleText>"Votre confiance vous honore. Néanmoins, ce tome ne m'évoque rien. Si vous en trouvez d'autres, j'aimerais les étudier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Très amusant. Puis-je vous suggérer d'aller partager votre découverte avec lui, dans ce cas, et de me laisser un peu tranquille ?"</DefaultText>
+      <FemaleText>"Très amusant. Puis-je vous suggérer d'aller partager votre découverte avec lui, dans ce cas, et de me laisser un peu tranquille ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"C'est très généreux de votre part." Elle vous regarde d'un air dubitatif.</DefaultText>
+      <FemaleText>"C'est très généreux de votre part." Elle vous regarde d'un air dubitatif.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Ça m'étonnerait que cette vision soit réelle. Il est plus probable que les agents de Wael aient enchanté ce livre d'un faux souvenir." Elle pousse un petit soupir de frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Dans ce cas, nous allons devoir trouver une solution plus satisfaisante." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Le plan de Tayn visant à les renvoyer dans le monde bourrées de souvenirs qui ne leur appartiennent pas était cruel et dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Une arrivée inattendue dans un lieu dangereux. Voilà qui est curieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Je m'appelle &lt;link="stringtooltip://tooltips/13&gt;Llengrath&lt;/link&gt;. Et, sauf erreur de ma part, vous êtes le Gardien de Caed Nua."
+
+La saisissante divine redresse les épaules et vous contemple de ses yeux perçants.</DefaultText>
+      <FemaleText>"Je m'appelle &lt;link="stringtooltip://tooltips/13&gt;Llengrath&lt;/link&gt;. Et, sauf erreur de ma part, vous êtes le Gardien de Caed Nua."
+
+La saisissante divine redresse les épaules et vous contemple de ses yeux perçants.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Qu'est-ce qu'une archimage fait dans ce trou ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Je suis ici en mission pour le Cercle. Mais vous n'appartenez pas au Cercle, alors je pourrais vous retourner la question." Les commissures de ses lèvres s'incurvent en un sourire de biais.</DefaultText>
+      <FemaleText>"Je suis ici en mission pour le Cercle. Mais vous n'appartenez pas au Cercle, alors je pourrais vous retourner la question." Les commissures de ses lèvres s'incurvent en un sourire de biais.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"L'épicentre du tremblement de terre semblait se situer ici, alors je suis venu enquêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Je passais dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>[Hausser mystérieusement les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"J'adore les endroits humides et sinistres comme celui-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Ça ne vous regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Elle lève les yeux au ciel et secoue la tête. Elle pousse un soupir et poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Llengrath, comme la Protection de Llengrath et le Bâton de protection de Llengrath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Quelle agréable surprise. Personne ne se souvient jamais des sorts défensifs." Son regard s'illumine d'un amusement sincère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Je suis à la recherche d'un membre délinquant de notre ordre : Maura.
+
+"Nous n'avons plus de nouvelles d'elle depuis un moment, et avons reçu des informations sibyllines selon lesquelles elle devait venir ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"L'envoyé des dieux garde ses pensées pour lui, naturellement." Son sourire se crispe.</DefaultText>
+      <FemaleText>"L'envoyée des dieux garde ses pensées pour elle, naturellement." Son sourire se crispe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Attendez, vous avez entendu ? Maura, c'est vous ?" Elle incline la tête sur le côté et écoute attentivement.</DefaultText>
+      <FemaleText>"Attendez, vous avez entendu ? Maura, c'est vous ?" Elle incline la tête sur le côté et écoute attentivement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Nous avons une chose en commun, dans ce cas." Ses yeux éclatants s'illuminent d'amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Quelle étonnante coïncidence. Le Cercle avait justement pensé demander son aide à l'éminent Gardien de Caed Nua, mais il semblerait que vous ayez devancé nos délibérations."</DefaultText>
+      <FemaleText>"Quelle étonnante coïncidence. Le Cercle avait justement pensé demander son aide à l'éminent Gardien de Caed Nua, mais il semblerait que vous ayez devancé nos délibérations."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Enchanté."</DefaultText>
+      <FemaleText>"Enchantée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Content de vous revoir."</DefaultText>
+      <FemaleText>"Contente de vous revoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Je ne vous ai pas déjà tuée ?"</DefaultText>
+      <FemaleText>"Je ne vous ai pas déjà tuée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"La dernière fois que je vous ai vue, vous étiez plus grande."</DefaultText>
+      <FemaleText>"La dernière fois que je vous ai vue, vous étiez plus grande."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"J'ai bien peur que ça n'aie pas marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Vous m'avez manipulé pour que je tue Concelhaut puis avez essayé de vous débarrasser de moi pour qu'on ne remonte pas jusqu'à vous !"</DefaultText>
+      <FemaleText>"Vous m'avez manipulée pour que je tue Concelhaut puis avez essayé de vous débarrasser de moi pour qu'on ne remonte pas jusqu'à vous !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"J'accepte vos excuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Ce malentendu, qui en est responsable ?"</DefaultText>
+      <FemaleText>"Ce malentendu, qui en est responsable ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>[Lui adresser un regard noir sans mot dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Quel coup de génie de vous occuper de vos ennemis comme de marionnettes. Avec de telles manigances, attendez-vous à des représailles."</DefaultText>
+      <FemaleText>"Quel coup de génie de vous occuper de vos ennemis comme de marionnettes. Avec de telles manigances, attendez-vous à des représailles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Le passé, c'est le passé. Concentrons nous sur ce qui se trouve devant nous... ou plutôt sous nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Si c'est des excuses que vous avez entendues, alors acceptez-les donc."</DefaultText>
+      <FemaleText>"Si c'est des excuses que vous avez entendues, alors acceptez-les donc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Moi, bien entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"La Roue a le chic pour faire perdre quelques centimètres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Quel était ce conseil ?" Son sourire est sincère et chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Depuis notre dernière discussion, vous vous êtes aventuré dans le royaume des morts et en êtes revenu... du moins c'est ce qu'on m'a dit." Un sourire se dessine lentement sur ses lèvres.
+
+"Fascinant."</DefaultText>
+      <FemaleText>"Depuis notre dernière discussion, vous vous êtes aventurée dans le royaume des morts et en êtes revenue... du moins c'est ce qu'on m'a dit." Un sourire se dessine lentement sur ses lèvres.
+
+"Fascinant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Oh, formidable. C'est vous."</DefaultText>
+      <FemaleText>"Oh, formidable. C'est vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Quelle surprise de &lt;i&gt;vous&lt;/i&gt; trouver ici..." Elle se tapote les lèvres du bout du doigt, tout en réfléchissant.</DefaultText>
+      <FemaleText>"Quelle surprise de &lt;i&gt;vous&lt;/i&gt; trouver ici..." Elle se tapote les lèvres du bout du doigt, tout en réfléchissant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"De quoi parliez-vous avec Tayn avant que j'arrive ?"</DefaultText>
+      <FemaleText>"De quoi parliez-vous avec Tayn avant que j'arrive ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Nous n'avons pas &lt;i&gt;totalement&lt;/i&gt; élucidé sa signification, mais il semble décrire un dispositif servant à créer la forme titanesque de Wael.
+
+"Ce dispositif doit toujours se trouver à l'intérieur du titan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Je ne souhaite pas vous parler. Laissez-moi tranquille."</DefaultText>
+      <FemaleText>"Je ne souhaite pas vous parler. Laissez-moi tranquille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Tayn croit que l'artefact est trop puissant pour rester aux « bons soins » de Wael, et sur ce point nous sommes d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Tayn est un idiot. Il n'est pas question de lui confier quelque chose d'aussi dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Tayn est un visionnaire. Il pourrait accomplir de grandes choses avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>[Hocher pensivement la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Nous sommes bien d'accord. Pour ainsi dire." Elle sourit.</DefaultText>
+      <FemaleText>"Nous sommes bien d'accord. Pour ainsi dire." Elle sourit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Tayn ne voit pas plus loin que l'élévation de sa propre gloire. Il est stupide, curieux et imprudent.
+
+"C'est la pire combinaison qu'on puisse imaginer. Non ?"</DefaultText>
+      <FemaleText>"Tayn ne voit pas plus loin que l'élévation de sa propre gloire. Il est stupide, curieux et imprudent.
+
+"C'est la pire combinaison qu'on puisse imaginer. Non ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Il ne faut pas le laisser tomber entre des mains sans scrupules.
+
+"Si vous le trouvez, apportez-le-moi. En ma possession, il ne risque rien."</DefaultText>
+      <FemaleText>"Il ne faut pas le laisser tomber entre des mains sans scrupules.
+
+"Si vous le trouvez, apportez-le-moi. En ma possession, il ne risque rien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Traitez-le avec le plus grand soin, évidemment. Grâce aux connaissances combinées de mes prédécesseurs, le danger que j'encours ou que je ferai courir à autrui devrait être minime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"J'accepte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"S'il est ici depuis des centaines d'années sans poser de soucis, quelques siècles de plus ne peuvent pas faire de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Aucun archimage ne devrait avoir accès à une telle puissance, Llengrath. Pas même vous."</DefaultText>
+      <FemaleText>"Aucun archimage ne devrait avoir accès à une telle puissance, Llengrath. Pas même vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Excellent. J'ai eu raison de vous faire confiance."</DefaultText>
+      <FemaleText>"Excellent. J'ai eu raison de vous faire confiance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Voici le document dont je parlais." Elle vous tend un parchemin usé par le temps.</DefaultText>
+      <FemaleText>"Voici le document dont je parlais." Elle vous tend un parchemin usé par le temps.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Ce n'est plus un secret. Si vous ne le trouvez pas, quelqu'un d'autre s'en chargera."</DefaultText>
+      <FemaleText>"Ce n'est plus un secret. Si vous ne le trouvez pas, quelqu'un d'autre s'en chargera."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"J'ai trouvé le dispositif arcane que vous m'avez envoyé chercher dans le corps de Wael."</DefaultText>
+      <FemaleText>"J'ai trouvé le dispositif arcane que vous m'avez envoyé chercher dans le corps de Wael."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Les trois éléments ? C'est une excellente nouvelle. Puis-je y jeter un œil ?"
+
+Son regard étincelle d'une impatience et d'une ferveur inhabituelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>[Donner le dispositif à Llengrath] "J'ai confiance en vous. Ne me décevez pas."</DefaultText>
+      <FemaleText>[Donner le dispositif à Llengrath] "J'ai confiance en vous. Ne me décevez pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Attendez. Qu'allez-vous en faire ? Dites-le-moi. En détail."</DefaultText>
+      <FemaleText>"Attendez. Qu'allez-vous en faire ? Dites-le-moi. En détail."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>[Garder le dispositif] "Je ne peux pas vous le confier. Il est trop puissant pour tomber entre les mains d'une archimage."</DefaultText>
+      <FemaleText>[Garder le dispositif] "Je ne peux pas vous le confier. Il est trop puissant pour tomber entre les mains d'une archimage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Mais vous... nous avons œuvré ensemble tout ce temps..." Elle bredouille, ne sachant plus quoi dire.</DefaultText>
+      <FemaleText>"Mais vous... nous avons œuvré ensemble tout ce temps..." Elle bredouille, ne sachant plus quoi dire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Elle se raidit. "Je vais m'en servir afin de créer un réceptacle digne de ce nom pour Llengrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Gardien... merci. Sincèrement. Je..." Elle inspire en tremblotant, à la recherche des mots justes.</DefaultText>
+      <FemaleText>"Gardien... merci. Sincèrement. Je..." Elle inspire en tremblotant, à la recherche des mots justes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Je dois me concentrer sur ma tâche. Désolée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Désolée, je ne peux pas parler pour l'instant. J'ai du travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Quand j'étais jeune, je voyais partout l'œuvre de Galawain... je ne pouvais pas concevoir la vie privée de ses conseils, et encore moins qu'on puisse haïr les dieux.
+
+"Depuis que je suis devenue Llengrath, j'ai été témoin de multiples atrocités telles que ces Collections. Désormais, le moindre respect envers les dieux me paraît irrationnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"J'aimerais vraiment savoir ce que Wael voulait faire de cet endroit à l'origine. Un immense temple dédié aux connaissances interdites... Ça me paraît un peu tortueux, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Nous n'en savons encore que peu de choses. J'espère que nous en apprendrons davantage en suivant les traces de Maura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"J'espère que vous m'amenez des nouvelles." Elle se redresse.</DefaultText>
+      <FemaleText>"J'espère que vous m'amenez des nouvelles." Elle se redresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"J'espère que vous n'avez pas respiré de spores fongiques. Les dieux seuls savent quels ravages ils peuvent causer dans les poumons et... d'autres organes."</DefaultText>
+      <FemaleText>"J'espère que vous n'avez pas respiré de spores fongiques. Les dieux seuls savent quels ravages ils peuvent causer dans les poumons et... d'autres organes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"L'accès au corps du titan est ouvert, mais nous ne savons pas combien de temps il le restera. Vous devez vous dépêcher, de peur que Wael tourne ses multiples yeux vers nous et n'aime pas ce qu'il voit."</DefaultText>
+      <FemaleText>"L'accès au corps du titan est ouvert, mais nous ne savons pas combien de temps il le restera. Vous devez vous dépêcher, de peur que Wael tourne ses multiples yeux vers nous et n'aime pas ce qu'il voit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Un caquet strident familier trouble ma tranquillité. Est-ce Concelhaut que je vois suspendu à vos basques ?"
+
+Elle plisse les yeux et porte son regard sur le crâne qui flotte en périphérie de votre groupe.</DefaultText>
+      <FemaleText>"Un caquet strident familier trouble ma tranquillité. Est-ce Concelhaut que je vois suspendu à vos basques ?"
+
+Elle plisse les yeux et porte son regard sur le crâne qui flotte en périphérie de votre groupe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"Vous avez donc découvert le repaire préféré du Cercle dans les Collections. Quelle étrange tournure ont pris les événements."</DefaultText>
+      <FemaleText>"Vous avez donc découvert le repaire préféré du Cercle dans les Collections. Quelle étrange tournure ont pris les événements."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Je crois que l'entrée est... euh, voyons voyons. Un petit instant, s'il vous plaît."</DefaultText>
+      <FemaleText>"Je crois que l'entrée est... euh, voyons voyons. Un petit instant, s'il vous plaît."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Tekēhu se détourne pour dissimuler son sourire. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"Les goûts du capitaine se portent sur la chose chthonienne et, euh, scatologique." Il esquisse un sourire narquois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Rekke étouffe un gloussement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"C'est pour ça qu'on se retrouve si souvent dans des cavernes ? Et moi qui pensais que vous aviez simplement peur du ciel."</DefaultText>
+      <FemaleText>"C'est pour ça qu'on se retrouve si souvent dans des cavernes ? Et moi qui pensais que vous aviez simplement peur du ciel."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"Oui, quelle... chance." Le froncement de sourcils qu'arbore généralement Aloth se mue en une expression de profonde inquiétude.</DefaultText>
+      <FemaleText>"Oui, quelle... chance." Le froncement de sourcils qu'arbore généralement Aloth se mue en une expression de profonde inquiétude.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"C'est un enfant retors qui se réjouit de nous laisser faire le ménage derrière lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Étant donné ce que j'ai entendu de votre passé, je m'attendais à ce que vous ayez en abomination l'idée d'une prison mystique."</DefaultText>
+      <FemaleText>"Étant donné ce que j'ai entendu de votre passé, je m'attendais à ce que vous ayez en abomination l'idée d'une prison mystique."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Le premier Llengrath a obtenu une sorte d'immortalité à travers vous. Berath peut me remercier d'y mettre un terme définitif."</DefaultText>
+      <FemaleText>"Le premier Llengrath a obtenu une sorte d'immortalité à travers vous. Berath peut me remercier d'y mettre un terme définitif."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"Vous connaissez un moyen de tuer les souvenirs ? Car nous ne sommes que cela : des souvenirs et un nom. Quand notre corps meurt, notre conscience le suit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>Aloth rougit et bredouille quelques syllabes indignées, mais ne dit rien de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Très bien, si vous voulez faire l'enfant." Vexée, elle semble sur le point de se détourner pour partir, mais quelque chose... peut-être ce qui a suscité son intérêt premier... l'incite à se raviser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Que me donneriez-vous en échange ?"</DefaultText>
+      <FemaleText>"Que me donneriez-vous en échange ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"N'est-ce pas de la pitié que d'offrir à une âme torturée une vie meilleure, libérée du souvenir des souffrances qu'elle a endurées ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Après tout, il se peut que vous ayez l'étoffe pour devenir membre du Cercle. Mais je dois vous prévenir : même si les rapports entre archimages peuvent vous sembler conflictuels, à nos yeux le Cercle passe avant tout."</DefaultText>
+      <FemaleText>"Après tout, il se peut que vous ayez l'étoffe pour devenir membre du Cercle. Mais je dois vous prévenir : même si les rapports entre archimages peuvent vous sembler conflictuels, à nos yeux le Cercle passe avant tout."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Comme ils l'ont fait pour les souvenirs de Bekarna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Ça fait longtemps, n'est-ce pas ?"
+
+Vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/14&gt;Llengrath&lt;/link&gt;.</DefaultText>
+      <FemaleText>"Ça fait longtemps, n'est-ce pas ?"
+
+Vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/14&gt;Llengrath&lt;/link&gt;.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Une fois encore, vous m'interrompez dans mon travail."
+
+Même si son apparence a changé depuis votre première rencontre, vous reconnaissez la silhouette saisissante qui se tient devant vous. Il s'agit de l'archimage &lt;link="stringtooltip://tooltips/15&gt;Llengrath&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Ensuite, vous devrez défendre devant nous votre travail pendant que nous y cherchons impitoyablement la moindre faille."</DefaultText>
+      <FemaleText>"Ensuite, vous devrez défendre devant nous votre travail pendant que nous y cherchons impitoyablement la moindre faille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Personne n'a survécu à cette épreuve depuis, oh, ça doit bien faire quinze ans maintenant. Pour être franche, je ne crois pas que vous soyez de taille."</DefaultText>
+      <FemaleText>"Personne n'a survécu à cette épreuve depuis, oh, ça doit bien faire quinze ans maintenant. Pour être franche, je ne crois pas que vous soyez de taille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Recherche et création de sortilèges... ce n'est pas la même chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>[Hocher pensivement la tête]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Oui, évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"Pas plus que voir et peindre. N'importe qui est en mesure de voir. Par contre, il faut des connaissances, du jugement et de l'entraînement pour synthétiser ce qu'on voit et en extraire du sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Ça vous tente, Fassina ?"</DefaultText>
+      <FemaleText>"Ça vous tente, Fassina ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"Je préférerais me baigner dans de la giclure de diablotin. Ce n'est pas parce que le Cercle est à la pointe des recherches arcanes que je dois aspirer à en faire partie." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Et Tayn a tout réussi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Il fait preuve d'une détermination effrayante quand on ose lui refuser quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"C'est probablement mieux ainsi. Malgré tous ses défauts, le Cercle est une entreprise de coopération."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"À quelles fins, j'en tremble rien que d'y penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Archimage. Nous nous sommes rencontrées au gala du promontoire de Periki. Peut-être ne vous rappelez-vous pas de moi, mais vous m'aviez prodigué d'excellents conseils quant à ma carrière." Fassina exécute une rapide révérence.</DefaultText>
+      <FemaleText>"Archimage. Nous nous sommes rencontrés au gala du promontoire de Periki. Peut-être ne vous rappelez-vous pas de moi, mais vous m'aviez prodigué d'excellents conseils quant à ma carrière." Fassina exécute une rapide révérence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"De même. Le Cercle entend tant parler du Gardien de Caed Nua. Je me suis longtemps demandé si vous étiez à la hauteur de votre réputation."</DefaultText>
+      <FemaleText>"De même. Le Cercle entend tant parler du Gardien de Caed Nua. Je me suis longtemps demandé si vous étiez à la hauteur de votre réputation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"Vous m'avez dit de démissionner et de chercher un travail qui ne gâcherait pas mes talents. Il m'a fallu un peu de temps, mais voilà le résultat." Fassina sourit. </DefaultText>
+      <FemaleText>"Vous m'avez dit de démissionner et de chercher un travail qui ne gâcherait pas mes talents. Il m'a fallu un peu de temps, mais voilà le résultat." Fassina sourit. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Quel était ce conseil ?" Son sourire est sincère et chaleureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Vous m'avez dit de démissionner et de chercher un travail qui ne gâcherait pas mes talents. Il m'a fallu un peu de temps, mais voilà le résultat." Fassina sourit. </DefaultText>
+      <FemaleText>"Vous m'avez dit de démissionner et de chercher un travail qui ne gâcherait pas mes talents. Il m'a fallu un peu de temps, mais voilà le résultat." Fassina sourit. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Llengrath pose doucement la main sur votre bras et vous fait signe de la suivre à l'écart.</DefaultText>
+      <FemaleText>Llengrath pose doucement la main sur votre bras et vous fait signe de la suivre à l'écart.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"Plus que cinq secondes. Vous avez une dernière parole ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"Inutile de s'emporter. Je ne vais pas tarder à débarquer de votre navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>[La mettre en joue]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Quand les gens se retrouvent confrontés à des problèmes de trop grande envergure, c'est &lt;i&gt;votre&lt;/i&gt; nom qui est sur leurs lèvres.
+
+"Je comprends dans quelle position ça vous met. Quoi qu'il en soit..."
+
+Llengrath fronce les sourcils. Elle regarde au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>[Appuyer sur la détente]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"Descendez. De. Mon. Putain. De navire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>[La laisser partir tranquillement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Vous visez juste, mais Llengrath se tient toujours devant vous, indemne, sa silhouette miroitant faiblement. Une image illusoire.</DefaultText>
+      <FemaleText>Vous visez juste, mais Llengrath se tient toujours devant vous, indemne, sa silhouette miroitant faiblement. Une image illusoire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"J'ai vu un orlan arpenter les forêts d'Eir Glanfath, un livre sous le bras. Il s'est arrêté sous un chêne pour noter ses réflexions à propos des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Une vision captivante, mais loin d'être concluante." Elle croise et décroise les bras, comme si elle ne parvenait pas à se décider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Tous leurs proches sont certainement morts. Leur ancienne vie n'existe plus. Les ramener dans le monde dénuées de tout serait cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Il vous suffit de lire l'incantation qui y est inscrite, de préférence à un endroit d'où elles pourront toutes l'entendre.
+
+"Leur trépas sera rapide et sans douleur."</DefaultText>
+      <FemaleText>"Il vous suffit de lire l'incantation qui y est inscrite, de préférence à un endroit d'où elles pourront toutes l'entendre.
+
+"Leur trépas sera rapide et sans douleur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Ce parchemin vous aidera."
+
+Elle sort des plis de sa robe un rouleau de parchemin, neuf et immaculé, puis referme votre main autour.</DefaultText>
+      <FemaleText>"Ce parchemin vous aidera."
+
+Elle sort des plis de sa robe un rouleau de parchemin, neuf et immaculé, puis referme votre main autour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Faites comme vous voulez. Dispersez aux quatre vents les pions brisés de Tayn. Je ne vous en empêcherai pas." Elle rejette vos travaux d'un geste de la main.</DefaultText>
+      <FemaleText>"Faites comme vous voulez. Dispersez aux quatre vents les pions brisés de Tayn. Je ne vous en empêcherai pas." Elle rejette vos travaux d'un geste de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"C'est à elles de faire ce choix, pas à vous."</DefaultText>
+      <FemaleText>"C'est à elles de faire ce choix, pas à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>"En effet, si les bibliothécaires ne les avaient pas privées de cette possibilité.
+
+"Mais ils l'ont &lt;i&gt;fait&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"Et désormais, nul autre que nous n'est en mesure de faire preuve de compassion à leur égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"Ne me révélez rien si ça vous chante. Je ne vous révélerai rien non plus."</DefaultText>
+      <FemaleText>"Ne me révélez rien si ça vous chante. Je ne vous révélerai rien non plus."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"Bon sang, Gardien, pourquoi dites-vous des choses pareilles à côté de Serafen ? Vous savez comment il va réagir."</DefaultText>
+      <FemaleText>"Bon sang, Gardien, pourquoi dites-vous des choses pareilles à côté de Serafen ? Vous savez comment il va réagir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"Quelle aventure vous amène dans ces tréfonds ?"</DefaultText>
+      <FemaleText>"Quelle aventure vous amène dans ces tréfonds ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Et puis, bien sûr, il y a eu le cataclysme qui a déchiré l'île en deux. Connaissant Maura, je ne doute pas un instant du lien qui unit ces événements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"Il est empreint d'une énergie arcane qui... m'&lt;i&gt;appelle&lt;/i&gt;. Je ne sais pas comment l'exprimer autrement.
+
+"Si vous en trouvez d'autres, j'aimerais les voir."</DefaultText>
+      <FemaleText>"Il est empreint d'une énergie arcane qui... m'&lt;i&gt;appelle&lt;/i&gt;. Je ne sais pas comment l'exprimer autrement.
+
+"Si vous en trouvez d'autres, j'aimerais les voir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Pourquoi donc ? Je ne sais rien de plus que vous à propos de ce sanctuaire."</DefaultText>
+      <FemaleText>"Pourquoi donc ? Je ne sais rien de plus que vous à propos de ce sanctuaire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Les archimages sont censés être experts en termes de savoir arcane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"Je ne tiens pas spécialement à me mêler des absurdités waeliennes qui se mijotent ici." Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Vous remarquez que son corps décrit un angle stratégique par rapport à Tayn, de manière à ce qu'il ne puisse pas l'entendre. Ses mains, elles aussi, tremblent légèrement, comme si une forte émotion l'étreignait.
+
+Peut-être désire-t-elle ces livres davantage qu'elle le laisse paraître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Elle vous chasse en levant exagérément les yeux au ciel.</DefaultText>
+      <FemaleText>Elle vous chasse en levant exagérément les yeux au ciel.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>Vous remarquez que son corps décrit un angle stratégique par rapport à Tayn, de manière à ce qu'il ne puisse pas l'entendre. Ses mains, elles aussi, tremblent légèrement, comme si une forte émotion l'étreignait.
+
+Peut-être désire-t-elle ces livres davantage qu'elle le laisse paraître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Vous remarquez que son corps décrit un angle stratégique par rapport à Tayn, de manière à ce qu'il ne puisse pas l'entendre. Ses mains, elles aussi, tremblent légèrement, comme si une forte émotion l'étreignait.
+
+Peut-être désire-t-elle ces livres davantage qu'elle le laisse paraître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Ne prenez pas de risques inutiles à cause de moi. Nous avons de plus gros soucis que ma curiosité théorique."</DefaultText>
+      <FemaleText>"Ne prenez pas de risques inutiles à cause de moi. Nous avons de plus gros soucis que ma curiosité théorique."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"Ah. Une plaisanterie. Vous avez réussi à m'amuser. Bravo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Il ne s'agit pas de « voir », exactement, mais oui. Il est réellement là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Remarquable. J'ai rencontré nombre d'artefacts étranges au cours de mes vies, mais jamais d'âme enfermée dans un livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"Attendez, qui est Maura ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>[Lui faire signe de continuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Une magicienne huana, membre du Cercle des archimages." Llengrath vous adresse une expression peinée.</DefaultText>
+      <FemaleText>"Une magicienne huana, membre du Cercle des archimages." Llengrath vous adresse une expression peinée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"La célèbre Maura ? Maura des Sept collines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"Elle se spécialise dans la magie liée aux tentacules.
+
+"C'est un... sujet de niche." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"En personne. Vous connaissez bien les archimages."</DefaultText>
+      <FemaleText>"En personne. Vous connaissez bien les archimages."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"Beaucoup de notes. Sur du beau papier, qui plus est ! Je suis un mordu de papeterie de qualité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"Vous avez peut-être l'étoffe d'un archimage, après tout." Elle réprime un sourire naissant.</DefaultText>
+      <FemaleText>"Vous avez peut-être l'étoffe d'un archimage, après tout." Elle réprime un sourire naissant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"Je ne me suspends aux basques de personne, &lt;i&gt;parasite.&lt;/i&gt; Votre non-mort saugrenue vous amuse-t-elle encore, ou êtes-vous enfin prête à abdiquer devant le seul véritable immortel ici présent ?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Vous êtes aussi charmant sous forme de crâne que vous l'étiez en tant que liche. Votre constance ne cesse de me réconforter, Concelhaut."</DefaultText>
+      <FemaleText>"Vous êtes aussi charmant sous forme de crâne que vous l'étiez en tant que liche. Votre constance ne cesse de me réconforter, Concelhaut."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>"Vous avez fait preuve de miséricorde. J'espère que, sachant cela, vous dormirez mieux."</DefaultText>
+      <FemaleText>"Vous avez fait preuve de miséricorde. J'espère que, sachant cela, vous dormirez mieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"Vous m'avez vue en pleine discussion avec Tayn. Vous devriez en connaître la teneur.
+
+"Nous avons trouvé un étrange document pendant que nous enquêtions dans le Scriptorium."</DefaultText>
+      <FemaleText>"Vous m'avez vue en pleine discussion avec Tayn. Vous devriez en connaître la teneur.
+
+"Nous avons trouvé un étrange document pendant que nous enquêtions dans le Scriptorium."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>"Mais c'est systématique : chaque fois que Tayn voit un nouveau jouet, il veut se l'accaparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>"Acceptez-vous d'aller le chercher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>"La sécurité d'Eora est ma principale préoccupation. Vous le savez."</DefaultText>
+      <FemaleText>"La sécurité d'Eora est ma principale préoccupation. Vous le savez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>"Se pourrait-il qu'il y ait un rapport entre ce dispositif et la croissance non maîtrisée du corps de Wael ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"Peut-être a-t-il été endommagé, ce qui aurait déclenché la croissance. Je ne pourrai me prononcer définitivement que si j'ai une chance de l'examiner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>"Que ferez-vous de cet objet si je vous le rapporte ?"</DefaultText>
+      <FemaleText>"Que ferez-vous de cet objet si je vous le rapporte ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>"Il y a un diagramme du dispositif sur le parchemin. Apparemment, il se compose de trois parties distinctes. Vous devrez les chercher toutes."</DefaultText>
+      <FemaleText>"Il y a un diagramme du dispositif sur le parchemin. Apparemment, il se compose de trois parties distinctes. Vous devrez les chercher toutes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>"Aucun archimage du Cercle ne doit posséder un tel pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>"Je suis d'accord. Un pouvoir immérité est une invitation à l'irresponsabilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Llengrath darde un regard lourd de sous-entendus à votre compagne, mais ne dit rien que ses yeux ne peuvent exprimer de manière plus menaçante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"Si vous changez d'avis, ce parchemin vous aidera."
+
+Elle sort un rouleau de parchemin neuf et immaculé des plis de sa robe et referme votre main autour.</DefaultText>
+      <FemaleText>"Si vous changez d'avis, ce parchemin vous aidera."
+
+Elle sort un rouleau de parchemin neuf et immaculé des plis de sa robe et referme votre main autour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>"C'est envisageable. Nous pourrons discuter des conditions si vous effectuez la tâche comme je vous l'ai demandé."</DefaultText>
+      <FemaleText>"C'est envisageable. Nous pourrons discuter des conditions si vous effectuez la tâche comme je vous l'ai demandé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>"Ce parchemin vous aidera."
+
+Elle sort des plis de sa robe un rouleau de parchemin, neuf et immaculé, puis referme votre main autour.</DefaultText>
+      <FemaleText>"Ce parchemin vous aidera."
+
+Elle sort des plis de sa robe un rouleau de parchemin, neuf et immaculé, puis referme votre main autour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>"Notre malentendu était... regrettable." Elle sourit d'un air serein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Elle plisse ses yeux étincelants. Puis elle se penche en avant et vous examine de plus près encore.</DefaultText>
+      <FemaleText>Elle plisse ses yeux étincelants. Puis elle se penche en avant et vous examine de plus près encore.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"Notre malentendu était... regrettable." Elle sourit d'un air serein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Elle plisse ses yeux étincelants. Puis elle se penche en avant et vous examine de plus près encore.</DefaultText>
+      <FemaleText>Elle plisse ses yeux étincelants. Puis elle se penche en avant et vous examine de plus près encore.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>"La motivation de Maura est effrayante à voir. Elle est téméraire. Et son amour pour le Feu éteint est inébranlable.
+
+"Si elle a trouvé un moyen d'arrêter Éothas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Llengrath émet un sifflement assourdissant. Le dragon apparaît au-dessus de vous, le vent généré par ses ailes immenses agitant le pont.</DefaultText>
+      <FemaleText>Llengrath émet un sifflement assourdissant. Le dragon apparaît au-dessus de vous, le vent généré par ses ailes immenses agitant le pont.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"Lorsque vous vous serez calmé, retrouvez-moi aux Îles noires, dans la mer du sud-est, au sud de Tikawara.
+
+"Je vous y attendrai, Gardien."</DefaultText>
+      <FemaleText>"Lorsque vous vous serez calmée, retrouvez-moi aux Îles noires, dans la mer du sud-est, au sud de Tikawara.
+
+"Je vous y attendrai, Gardien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>"Et si vous pouviez changer le cours des événements ?"</DefaultText>
+      <FemaleText>"Et si vous pouviez changer le cours des événements ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"Ne tardez pas trop à vous décider." Llengrath fronce les sourcils. Son regard se tourne vers l'horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"Elle a envoyé un message relativement sibyllin selon lequel elle aurait trouvé dans les Îles noires quelque chose au potentiel cataclysmique. Quelque chose qui pourrait vous aider dans votre lutte contre Éothas."</DefaultText>
+      <FemaleText>"Elle a envoyé un message relativement sibyllin selon lequel elle aurait trouvé dans les Îles noires quelque chose au potentiel cataclysmique. Quelque chose qui pourrait vous aider dans votre lutte contre Éothas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Nous devons déjà nous occuper de deux titans, et vous voulez en fabriquer un troisième ?"</DefaultText>
+      <FemaleText>"Nous devons déjà nous occuper de deux titans, et vous voulez en fabriquer un troisième ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Pas un &lt;i&gt;titan&lt;/i&gt;... quelque chose qui puisse accueillir les éclats de Llengrath que Wael m'a volés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>"Mon mentor mérite au moins cela. Certainement pas une éternité emprisonné entre les pages d'un livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>"Ne m'adressez plus la parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Elle vous ignore totalement.</DefaultText>
+      <FemaleText>Elle vous ignore totalement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Vous les avez tous trouvés... oh, et dans un volume unique, qui plus est ! Vous n'imaginez pas le poids que vous m'ôtez de l'esprit." Elle vous regarde avec impatience, les poings serrés.</DefaultText>
+      <FemaleText>"Vous les avez tous trouvés... oh, et dans un volume unique, qui plus est ! Vous n'imaginez pas le poids que vous m'ôtez de l'esprit." Elle vous regarde avec impatience, les poings serrés.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Elle vous scrute un long moment. Ses yeux étincelants parcourent votre équipement, votre visage. Son regard finit par s'arrêter sur le livre que vous tenez toujours en main.</DefaultText>
+      <FemaleText>Elle vous scrute un long moment. Ses yeux étincelants parcourent votre équipement, votre visage. Son regard finit par s'arrêter sur le livre que vous tenez toujours en main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>"Je suppose que je ne risque rien à vous le dire. Après tout, je pourrai toujours vous tuer si vous posez problème."</DefaultText>
+      <FemaleText>"Je suppose que je ne risque rien à vous le dire. Après tout, je pourrai toujours vous tuer si vous posez problème."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"« Llengrath » est davantage qu'un titre... c'est une communion qui remonte au premier Llengrath.
+
+"Du moins, c'était autrefois le cas. La chaîne est brisée depuis quelque temps déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"Et c'est &lt;i&gt;là&lt;/i&gt; que doit se trouver l'explication." Elle tapote la couverture du livre.
+
+"Wael, ou ses agents, doivent avoir volé les souvenirs du premier Llengrath et les avoir stockés ici, dans cette maudite bibliothèque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"Comme ils l'ont fait pour les souvenirs de Bekarna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"À quelles fins, j'en tremble rien que d'y penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"Je sais que notre accord stipulait un sortilège, mais j'ai mieux à vous proposer."</DefaultText>
+      <FemaleText>"Je sais que notre accord stipulait un sortilège, mais j'ai mieux à vous proposer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Effectivement, je vous ai dit que nous trouverions un arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>"Je me suis montrée totalement sincère envers vous. Si quelqu'un vous mène en bateau, c'est Tayn."</DefaultText>
+      <FemaleText>"Je me suis montrée totalement sincère envers vous. Si quelqu'un vous mène en bateau, c'est Tayn."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>"Vous n'imaginez pas ce que cela signifie pour moi. Quoi qu'il en soit, veuillez accepter ceci, avec mes remerciements."
+
+Elle met le livre de côté et extrait un petit totem d'une poche cachée dans sa robe.</DefaultText>
+      <FemaleText>"Vous n'imaginez pas ce que cela signifie pour moi. Quoi qu'il en soit, veuillez accepter ceci, avec mes remerciements."
+
+Elle met le livre de côté et extrait un petit totem d'une poche cachée dans sa robe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"Il vous protègera contre les sortilèges hostiles. C'est le moins que je puisse faire en échange du merveilleux cadeau que vous m'avez offert."
+
+</DefaultText>
+      <FemaleText>"Il vous protégera contre les sortilèges hostiles. C'est le moins que je puisse faire en échange du merveilleux cadeau que vous m'avez offert."
+
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Son visage se mue en un masque impassible, et la température de l'air semble baisser de dix degrés autour d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Les dieux sont nés kiths, et rares sont les kiths à mériter qu'on les vénère. Aucun ne mérite de vénération inconditionnelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"Profitez bien de vos illusions, parasite. Le Gardien n'hésiterait pas à vous trancher le cou si cela servait ses intérêts, même de loin." </DefaultText>
+      <FemaleText>"Profitez bien de vos illusions, parasite. La Gardienne n'hésiterait pas à vous trancher le cou si cela servait ses intérêts, même de loin." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>"Notre concept d'« immortalité » ne diffère en rien d'un journal de famille transmis d'une génération à l'autre. Je ne suis pas plus affranchie de la Roue que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>"Après &lt;i&gt;ça&lt;/i&gt; vient le duel. Vous devrez nous combattre tous à tour de rôle. Kalakoth insiste toujours pour passer en premier."</DefaultText>
+      <FemaleText>"Après &lt;i&gt;ça&lt;/i&gt; vient le duel. Vous devrez nous combattre tous à tour de rôle. Kalakoth insiste toujours pour passer en premier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>"Quand je tourne mon esprit vers l'intérieur, que je pense au passé, je le fais à travers les yeux de mes prédécesseurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>"Mais je vous ai déjà raconté tout cela, lors de notre rencontre à Mowrghek Îen. Peut-être Berath vous a-t-il dérobé ce souvenir."</DefaultText>
+      <FemaleText>"Mais je vous ai déjà raconté tout cela, lors de notre rencontre à Mowrghek Îen. Peut-être Berath vous a-t-il dérobé ce souvenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>"Je sens une volute d'essence se tortiller à l'intérieur, comme un ver dans le trognon d'une pomme. Elle m'est étrangement familière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>"Je viens d'avoir une idée inquiétante. Se pourrait-il qu'un éclat d'essence de mon mentor - de ses souvenirs - soit retenu captif dans ce livre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>"Cela pourrait expliquer... Hm." Son regard se perd dans le vague. En pleine réflexion.</DefaultText>
+      <FemaleText>"Cela pourrait expliquer... Hm." Son regard se perd dans le vague. En pleine réflexion.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>"Hein ? Le suspense a assez duré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>"Je peux maintenant offrir à mon mentor la réincarnation qu'il mérite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>"Il est néanmoins assurément le plus stupide d'entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>"Des connaissances qu'un dieu des secrets pourrait trouver utiles. Ou menaçantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>"Vous ne m'avez donné aucune raison de vous faire confiance, mais plusieurs de me méfier."</DefaultText>
+      <FemaleText>"Vous ne m'avez donné aucune raison de vous faire confiance, mais plusieurs de me méfier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>Elle vous scrute un moment. Ce faisant, son regard devient complètement vide et son visage impassible.</DefaultText>
+      <FemaleText>Elle vous scrute un moment. Ce faisant, son regard devient complètement vide et son visage impassible.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>[Donner le dispositif à Llengrath] "Faites en sorte que je n'aie pas à le regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Concelhaut s'enfonce dans votre sac, ne laissant dépasser que ses yeux, tel un crocodile à l'affut. </DefaultText>
+      <FemaleText>Concelhaut s'enfonce dans votre sac, ne laissant dépasser que ses yeux, tel un crocodile à l'affut. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>"Si vous avez l'intention d'aller à sa recherche, emmenez-moi avec vous."</DefaultText>
+      <FemaleText>"Si vous avez l'intention d'aller à sa recherche, emmenez-moi avec vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>"Vous semblez &lt;i&gt;effectivement&lt;/i&gt; vous être rapproché du Gardien après tout ce temps à le suivre comme son ombre."</DefaultText>
+      <FemaleText>"Vous semblez &lt;i&gt;effectivement&lt;/i&gt; vous être rapproché de la Gardienne après tout ce temps à la suivre comme son ombre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>"Je suis d'accord. Envoyez-les à la Roue. Accordez-leur une nouvelle chance de vivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>"Je continue de douter que la Roue représente une meilleure solution que ces cages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>"La p'tite dame a triple fois raison, cap'. Les abandonner, esclaves de cet endroit ? On ne peut pas accepter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>"Nous ne sommes pas venus ici pour nous affronter, mais n'est-ce pas toujours ainsi que ça se termine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>"Vous jouez un jeu dangereux, mais, s'il implique de poignarder un membre du Cercle dans le dos, ce n'est pas moi qui vais vous contrarier." Fassina sourit d'un air narquois. </DefaultText>
+      <FemaleText>"Vous jouez un jeu dangereux, mais, s'il implique de poignarder un membre du Cercle dans le dos, ce n'est pas moi qui vais vous contrarier." Fassina sourit d'un air narquois. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>"Rien n'est jamais votre problème, pas vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>&lt;ispeech&gt;Parfois, vous êtes un foutu sans cœur, capitaine Gardien.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Parfois, vous êtes une foutue sans cœur, capitaine Gardien.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>"Une qualité que partagent tous les archimages, apparemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>"J'ai déjà vu des professionnels éclairés déclencher des désastres n'ayant rien à envier aux problèmes que pourrait engendrer Tayn par simple ignorance. Mais c'est noté." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>"J'aimerais protester, mais vous n'avez pas tort." Elle soupire.</DefaultText>
+      <FemaleText>"J'aimerais protester, mais vous n'avez pas tort." Elle soupire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>"Il n'y a rien de plus cruel que de les laisser croupir dans ce trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>"Tuez-les toutes, Oracle du crépuscule. Laissez les dieux faire le tri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>"Par Hel, Vatnir, pas la peine de jubiler autant."</DefaultText>
+      <FemaleText>"Par Hel, Vatnir, pas la peine de jubiler autant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>Il lève au ciel ses trois yeux visibles. "Laissez tomber la faucille, petite fermière, si vous n'avez pas le courage de moissonner."</DefaultText>
+      <FemaleText>Il lève au ciel ses trois yeux visibles. "Laissez tomber la faucille, petite fermière, si vous n'avez pas le courage de moissonner."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>La pitié n'est pas un meurtre, Gardien. C'est pour ça qu'on l'appelle pitié.</DefaultText>
+      <FemaleText>La pitié n'est pas un meurtre, Gardienne. C'est pour ça qu'on l'appelle pitié.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>"Si vous en parlez autant, c'est peut-être que ça n'en vaut pas la peine."</DefaultText>
+      <FemaleText>"Si vous en parlez autant, c'est peut-être que ça n'en vaut pas la peine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Et si c'était vous, Edér ? Ou votre frère ? Vous l'abandonneriez ici ?"</DefaultText>
+      <FemaleText>"Et si c'était vous, Edér ? Ou votre frère ? Vous l'abandonneriez ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>"Un argument moral intéressant, étant donné celle qui le profère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>"Elle brosse un tableau idyllique de son point de vue confortable, mais évidemment c'est vous qui allez appuyer sur la détente. Vous êtes sûr d'être prêt à aider tant de victimes innocentes à laisser cette vie derrière elles, capitaine ?"</DefaultText>
+      <FemaleText>"Elle brosse un tableau idyllique de son point de vue confortable, mais évidemment c'est vous qui allez appuyer sur la détente. Vous êtes sûre d'être prête à aider tant de victimes innocentes à laisser cette vie derrière elles, capitaine ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>[Lui donner le livre] "Très bien, prenez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>[L'empêcher de prendre le livre] "J'ai dit non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>"J'ai conscience qu'il ne s'agit que de babioles après le cadeau que vous m'avez offert, mais je vous en prie, acceptez ceci."
+
+Elle sort un livre épais d'un étui passé à sa hanche et vous le tend avec une petite pile de parchemins.</DefaultText>
+      <FemaleText>"J'ai conscience qu'il ne s'agit que de babioles après le cadeau que vous m'avez offert, mais je vous en prie, acceptez ceci."
+
+Elle sort un livre épais d'un étui passé à sa hanche et vous le tend avec une petite pile de parchemins.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Lorsque vous prenez le livre, elle soupèse à nouveau religieusement l'intégrale des Annales de Llengrath et serre le tome contre sa poitrine.</DefaultText>
+      <FemaleText>Lorsque vous prenez le livre, elle soupèse à nouveau religieusement l'intégrale des Annales de Llengrath et serre le tome contre sa poitrine.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Elle vous prend délicatement le livre des mains, comme si elle craignait de l'abîmer. Un large sourire se dessine sur son visage, et elle pousse un petit rire étouffé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>"J'ai conscience qu'il ne s'agit que de babioles après le cadeau que vous m'avez offert, mais je vous en prie, acceptez ceci."
+
+Elle sort un livre épais d'un étui passé à sa hanche et vous le tend avec une petite pile de parchemins.</DefaultText>
+      <FemaleText>"J'ai conscience qu'il ne s'agit que de babioles après le cadeau que vous m'avez offert, mais je vous en prie, acceptez ceci."
+
+Elle sort un livre épais d'un étui passé à sa hanche et vous le tend avec une petite pile de parchemins.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Lorsque vous prenez le livre, elle soupèse à nouveau religieusement l'intégrale des Annales de Llengrath et serre le tome contre sa poitrine.</DefaultText>
+      <FemaleText>Lorsque vous prenez le livre, elle soupèse à nouveau religieusement l'intégrale des Annales de Llengrath et serre le tome contre sa poitrine.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Son visage s'assombrit et, l'espace d'un moment, la lueur de ses yeux s'évanouit.
+
+Elle reprend vite une apparence normale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>"Un grimoire." Son sourire prend un air sauvage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>"J'ai un grimoire spécial pour vous." Son sourire prend un air sauvage.</DefaultText>
+      <FemaleText>"J'ai un grimoire spécial pour vous." Son sourire prend un air sauvage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>"Ça dépend. Vous comptez me le rendre après ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>"Évidemment." Elle laisse échapper un grognement de mépris. "J'ai déjà assez de livres comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>"Je suis sérieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>"Très bien. Je vous fais confiance."</DefaultText>
+      <FemaleText>"Très bien. Je vous fais confiance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>"Moi aussi. Vous devriez voir mon bureau... chaque centimètre carré est occupé par des livres. Et pourtant je ne peux m'empêcher d'en acquérir de nouveaux."</DefaultText>
+      <FemaleText>"Moi aussi. Vous devriez voir mon bureau... chaque centimètre carré est occupé par des livres. Et pourtant je ne peux m'empêcher d'en acquérir de nouveaux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>"Avant que je vous le donne, j'aimerais savoir quelque chose. Vous êtes au courant que Llengrath est un parasite ?"</DefaultText>
+      <FemaleText>"Avant que je vous le donne, j'aimerais savoir quelque chose. Vous êtes au courant que Llengrath est un parasite ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>"Vous voulez parler du premier Llengrath." Elle plisse les yeux.
+
+"Oui, je suis au courant."</DefaultText>
+      <FemaleText>"Vous voulez parler du premier Llengrath." Elle plisse les yeux.
+
+"Oui, je suis au courant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>"Mais je ne le qualifierais pas de parasite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>"Il se cramponne à votre âme telle une tique !"</DefaultText>
+      <FemaleText>"Il se cramponne à votre âme telle une tique !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>"Une fièvre, alors. Ou un virus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>"Vous le considérez comme un symbiote ?"</DefaultText>
+      <FemaleText>"Vous le considérez comme un symbiote ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>"Notre arrangement est d'ordre coopératif, non prédatoire. Grâce aux générations de mentors et d'apprentis, il jouit d'une vie éternelle, ou de quelque chose d'approchant.
+
+"En échange, il nous transmet ses connaissances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>"Si vous laissez entendre que j'ai été trompée, non, je n'ai pas été prise au dépourvu. Je le savais. Je l'ai accueilli avec joie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>"Ce n'est qu'une question de point de vue, pas vrai ?" Elle sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>"C'est ignoble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>"Cela va à l'encontre de l'ordre naturel des choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>"C'est malin, je dois l'avouer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>"Il vous parle ? Il nous écoute en ce moment ?"</DefaultText>
+      <FemaleText>"Il vous parle ? Il nous écoute en ce moment ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>"Ce n'est pas si dramatique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>"Je crains que ça ne fonctionne pas comme ça." Elle vous adresse un sourire peiné.
+
+"Même si, dans mes moments de solitude, il arrive parfois que je le regrette."</DefaultText>
+      <FemaleText>"Je crains que ça ne fonctionne pas comme ça." Elle vous adresse un sourire peiné.
+
+"Même si, dans mes moments de solitude, il arrive parfois que je le regrette."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>"Oui, il était rusé. J'aurais aimé le connaître avant qu'il devienne la présence que je connais maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>"Je pense qu'il aurait aimé vous connaître aussi."</DefaultText>
+      <FemaleText>"Je pense qu'il aurait aimé vous connaître aussi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>"Depuis que la mort existe, ceux qui lui sont soumis tentent de s'y soustraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>"Je me suis &lt;i&gt;battue&lt;/i&gt; pour lui." Son sourire revêt une intensité prédatrice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>"Bien, vous connaissez la vérité sur Llengrath. Que faisons-nous, maintenant ?"</DefaultText>
+      <FemaleText>"Bien, vous connaissez la vérité sur Llengrath. Que faisons-nous, maintenant ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>"Votre sinistre dieu le comprend... la moitié de sa double nature n'existe que pour punir ceux qui ont l'audace de passer outre son édit de mortalité."</DefaultText>
+      <FemaleText>"Votre sinistre dieu le comprend... la moitié de sa double nature n'existe que pour punir ceux qui ont l'audace de passer outre son édit de mortalité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>"La mortalité est une condamnation prononcée à notre encontre pour un crime que nous n'avons jamais eu l'occasion de commettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>"Vous devriez vous estimer heureuse."</DefaultText>
+      <FemaleText>"Vous devriez vous estimer heureuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>"Je vais en faire part à Tayn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>"Vous n'échapperez pas longtemps au dieu de la mort."</DefaultText>
+      <FemaleText>"Vous n'échapperez pas longtemps au dieu de la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>"Évidemment. Et il ne manquera pas de le répéter à tout le Cercle dès qu'il en aura l'occasion."</DefaultText>
+      <FemaleText>"Évidemment. Et il ne manquera pas de le répéter à tout le Cercle dès qu'il en aura l'occasion."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>"La prochaine réunion du Cercle sera certainement... passionnante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Elle se pince l'arête du nez en soupirant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>"Je pense que j'ai encore un peu de marge." Elle vous adresse un sourire serein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText>"Qui êtes-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>"Qu'est-ce qui vous amène ici ?"</DefaultText>
+      <FemaleText>"Qu'est-ce qui vous amène ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>"Je suis l'archimage Llengrath." Elle se redresse un peu et incline la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>"Je suppose que je ne peux pas vous en vouloir de ne pas m'avoir reconnue. Après tout, ce corps est fondamentalement différent de celui que vous avez tué." Elle sourit d'un air serein.</DefaultText>
+      <FemaleText>"Je suppose que je ne peux pas vous en vouloir de ne pas m'avoir reconnue. Après tout, ce corps est fondamentalement différent de celui que vous avez tué." Elle sourit d'un air serein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>"Je ne crois pas que nous ayons jamais été présentés, mais j'ai beaucoup entendu parler de vos exploits."</DefaultText>
+      <FemaleText>"Je ne crois pas que nous ayons jamais été présentés, mais j'ai beaucoup entendu parler de vos exploits."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>"Vous m'avez déjà oubliée ? Ça ne fait que cinq ans.
+
+"Mais il est vrai que la mort n'aide pas à se souvenir."</DefaultText>
+      <FemaleText>"Vous m'avez déjà oubliée ? Ça ne fait que cinq ans.
+
+"Mais il est vrai que la mort n'aide pas à se souvenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>"Llengrath, comme la Protection de Llengrath et le Bâton de protection de Llengrath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>"Ravi de faire votre connaissance. À nouveau."</DefaultText>
+      <FemaleText>"Ravi de faire votre connaissance. À nouveau."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>"Quel dommage que vous ne soyez pas restée morte. Vous avez pris une page du livre de Concelhaut ?"</DefaultText>
+      <FemaleText>"Quel dommage que vous ne soyez pas restée morte. Vous avez pris une page du livre de Concelhaut ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>"Oh mon dieu, une autre archimage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>"Si cela peut vous consoler, je partage votre sentiment." Les lèvres pincées, elle vous adresse un sourire peiné.</DefaultText>
+      <FemaleText>"Si cela peut vous consoler, je partage votre sentiment." Les lèvres pincées, elle vous adresse un sourire peiné.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText>"Qui êtes-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>"Je suis l'archimage Llengrath." Elle se redresse un peu et incline la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>"Je suppose que je ne peux pas vous en vouloir de ne pas m'avoir reconnue. Après tout, ce corps est fondamentalement différent de celui que vous avez tué." Elle sourit d'un air serein.</DefaultText>
+      <FemaleText>"Je suppose que je ne peux pas vous en vouloir de ne pas m'avoir reconnue. Après tout, ce corps est fondamentalement différent de celui que vous avez tué." Elle sourit d'un air serein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText>"Qui êtes-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>"Je suis l'archimage Llengrath." Elle se redresse un peu et incline la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>"Vous m'avez déjà oubliée ? Ça ne fait que cinq ans.
+
+"Mais il est vrai que la mort n'aide pas à se souvenir."</DefaultText>
+      <FemaleText>"Vous m'avez déjà oubliée ? Ça ne fait que cinq ans.
+
+"Mais il est vrai que la mort n'aide pas à se souvenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText>"Qui êtes-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>"Je suis l'archimage Llengrath." Elle se redresse un peu et incline la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>"Je ne crois pas que nous ayons jamais été présentés, mais j'ai beaucoup entendu parler de vos exploits."</DefaultText>
+      <FemaleText>"Je ne crois pas que nous ayons jamais été présentés, mais j'ai beaucoup entendu parler de vos exploits."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>"Moi de même." Son large sourire est un peu pincé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>"Je crains d'être là pour affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>"&lt;i&gt;Llengrath&lt;/i&gt;." Elle se redresse un peu et incline la tête sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>"Elle a une prédilection pour, euh, la magie liée aux tentacules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Loin sous vos pieds, un grondement sourd retentit.</DefaultText>
+      <FemaleText>Loin sous vos pieds, un grondement sourd retentit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>"La célèbre Maura ? Maura des Sept collines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>"En personne. Vous connaissez bien les archimages."</DefaultText>
+      <FemaleText>"En personne. Vous connaissez bien les archimages."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>"Elle se spécialise dans la magie liée aux tentacules.
+
+"C'est un... sujet de niche." Il grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>"Elle a une prédilection pour, euh, la magie liée aux tentacules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>"Attendez, qui est Maura ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>"Une magicienne huana, membre du Cercle des archimages." Llengrath vous adresse une expression peinée.</DefaultText>
+      <FemaleText>"Une magicienne huana, membre du Cercle des archimages." Llengrath vous adresse une expression peinée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>"Nous devons veiller à ce qu'elle ne détruise pas Eora en tentant de sauver son archipel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>"Maintenant, nous sommes de la même taille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>"Je constate que la décapitation n'a pas amélioré son caractère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>"Gardien, si je peux vous dire un mot."</DefaultText>
+      <FemaleText>"Gardien, si je peux vous dire un mot."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>"C'est possible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>"Ça ne me dit rien qui vaille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>[Lui faire signe de continuer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>"Si vous me demandez d'aller explorer les entrailles de Wael, la réponse est oui."</DefaultText>
+      <FemaleText>"Si vous me demandez d'aller explorer les entrailles de Wael, la réponse est oui."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>"Il vaut peut-être mieux que vous entendiez toute l'histoire avant de vous décider, mais j'admire votre esprit d'initiative." Elle vous adresse un sourire peiné.</DefaultText>
+      <FemaleText>"Il vaut peut-être mieux que vous entendiez toute l'histoire avant de vous décider, mais j'admire votre esprit d'initiative." Elle vous adresse un sourire peiné.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>"De créer un titan divin ? Je ne vois pas pourquoi ce ne serait pas possible. Il a bien fallu les fabriquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>"Après tout ce que nous avons rencontré ici, c'est la seule réponse sensée." Elle vous adresse un sourire peiné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>"... À moins qu'ils soient nés de la terre elle-même. Que voilà une idée troublante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Ydwin lève les yeux au ciel. "Vous plaisantez, ja ? Les souvenirs sont gravés dans l'âme. Pas les journaux."</DefaultText>
+      <FemaleText>Ydwin lève les yeux au ciel. "Vous plaisantez, ja ? Les souvenirs sont gravés dans l'âme. Pas les journaux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Ydwin soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>"Attendez. Qu'allez-vous en faire ? Dites-le-moi. En détail."</DefaultText>
+      <FemaleText>"Attendez. Qu'allez-vous en faire ? Dites-le-moi. En détail."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>"Nous devons déjà nous occuper de deux titans, et vous voulez en fabriquer un troisième ?"</DefaultText>
+      <FemaleText>"Nous devons déjà nous occuper de deux titans, et vous voulez en fabriquer un troisième ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Elle se raidit. "Je vais m'en servir afin de créer un réceptacle digne de ce nom pour Llengrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>"Pas un &lt;i&gt;titan&lt;/i&gt;... quelque chose qui puisse accueillir les éclats de Llengrath que Wael m'a volés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>"Mon mentor mérite au moins cela. Certainement pas une éternité emprisonné entre les pages d'un livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>"Je dois me concentrer sur ma tâche. Désolée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>[Lui montrer l'intégrale des Annales de Llengrath] "Je crois que je les ai toutes trouvées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>"Quoi ?" Les yeux de Tayn s'écarquillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>[Lui montrer les Annales de Llengrath modifiées] "J'ai toute la collection."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

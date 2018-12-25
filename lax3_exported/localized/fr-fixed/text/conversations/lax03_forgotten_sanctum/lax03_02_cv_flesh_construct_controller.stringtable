@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_flesh_construct_controller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cet appareil vous rappelle quelques-unes des machines engwithanes que vous avez rencontrées par le passé, mais avec une prédominance de chair et d'os. Des tendons et des muscles fusionnent avec les antiques mécanismes situés dans son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le tas de chair et de mécanismes tremblote légèrement à votre arrivée. Il ne semble pas conscient de votre présence, mais il ne semble pas non plus &lt;i&gt;l'ignorer&lt;/i&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examiner la machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Consulter le registre d'entretien pour activer l'appareil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Installer un explosif sur la machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Cet appareil était peut-être autrefois un bel exemple du savoir-faire Engwithan, mais le temps ne l'a pas épargné. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Plonger doucement la main dans les entrailles de la machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Cet appareil est d'une technologie supérieure aux systèmes à rouages et à engrenages. C'est un organisme vivant, et en tant que tel il se pourrait qu'il réagisse plus favorablement si on se montre délicat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Au cas où une bombe classique ne marcherait pas, vous assemblez quelque chose d'une forme vaguement conique que vous graissez au moyen du liquide coulant de la machine. Un des panneaux de chair laisse pénétrer la bombe avec un bruit de succion avide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Avec prudence, vous plongez vos mains dans la chair molle de la machine. Un canal d'entrailles s'avère bien plus profond que vous ne l'aviez cru, et très vite vous vous retrouvez avec le bras enfoncé jusqu'à l'épaule dans un panneau constitué de peau tombante et de muscles à vif. De la chair, des engrenages ainsi que des composantes humides tremblent lorsque vous les touchez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'appareil émet un léger gargouillis. Après un moment de silence, un jet d'air humide s'échappe de l'œil d'un crâne fixé dessus. Vous pouvez juste supposer que la machine est en état de marche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Une bile putride gicle d'un orifice dissimulé et se met à goutter avec régularité. Le liquide ressemble au graissage des automates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eh bien, c'est tout bonnement affreux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Vous approcher de la machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Reculer lentement]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Un instant plus tard, la machine se balance d'avant en arrière sous l'effet de l'explosion, projetant des giclées de sang dans tous les sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ça ressemble à l'appareil décrit dans le registre d'entretien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Un frisson de plaisir traverse les rouages de la machine. Vous sentez qu'elle commence à vous prêter attention. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Le presser fort] "J'espère que ça fera cracher leurs tripes aux autres automates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Le presser doucement] "Soyons amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vous entendez une série d'explosions suivie par un bruit de chair humide percutant les murs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous entendez des patrouilles s'arrêter net et, dans toute la zone, plusieurs grandes silhouettes se mettent au garde à vous du mieux qu'elles peuvent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Un régulateur d'automate. Arkemyr a essayé d'en construire un, mais aucun d'entre nous ne voulait lui couper les ongles ou tailler ses poils." Fassina regarde d'un air agacé le carré de peau recouvrant le panneau de contrôle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Si je me souviens bien, ces contrôleurs récupèrent des morceaux parmi ce qui reste une fois les os et la chair cousus. Avec le temps, ils développent des tumeurs, des membres et même des organes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Obtenir leur coopération n'est pas aussi simple que d'activer un interrupteur. C'est plutôt comme traire une vache géante ou caresser un chat." Fassina hausse les épaules.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous trouvez la glande, décrite comme un petit sac de fluides dans le registre d'entretien, et la pressez doucement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ce qui s'apparente à deux rangées de dents crochues se referme sur vos doigts. Vous réussissez tout juste à vous libérer sans perdre votre main. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dans les entrailles de la machine, quelque chose de tranchant et d'osseux essaie de mordre votre main, mais vous parvenez à retirer vos doigts avant d'être blessé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>En enfonçant plus profondément le bras, vous trouvez un sac chaud rempli de fluide que vous pressez doucement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Votre main frôle une chose qui s'agite violemment, mais vous parvenez à la calmer en la caressant gentiment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il semble connecté aux automates de chair du coin de plusieurs façons. La peau et les os ont envahi tous les panneaux principaux et rendu la plupart de ses vieilles commandes inutilisables. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous ne remarquez rien d'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Une horreur révoltante de plus dans cette longue suite de cauchemars." Les bras croisés, elle secoue lentement la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Attendez, au moins on est pas encore tombés sur un arbre cadavéreux. Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Encore, capitaine ?" Vous fourrez votre bras dans chaque trou sombre qui se présente ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vous n'êtes ni la première personne, ni la dernière à lui poser cette question."
+
+Ydwin lève les yeux au ciel, bien qu'un discret sourire se dessine aux commissures de ses lèvres.</DefaultText>
+      <FemaleText>"Vous n'êtes ni la première personne, ni la dernière à lui poser cette question."
+
+Ydwin lève les yeux au ciel, bien qu'un discret sourire se dessine aux commissures de ses lèvres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Si l'orifice lui fait signe, quel mal y a-t-il à lui donner un coup de main ?" Tekēhu adresse un clin d'œil à Ydwin. Elle couvre son visage et soupire à voix haute. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous êtes en train de dire que cette chose est juste un gros minou ?"
+
+Il n'a pas l'air très convaincu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je crois que je vais m'en tenir à ceux d'apparence normale. Avec des poils, des queues et des petites oreilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Aloth laisse tomber sa tête dans le creux des mains et grogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Qui aurait pu le voir venir ?" Maia soupire et vous aide à extirper votre membre écrabouillé des mâchoires de la machine. </DefaultText>
+      <FemaleText>"Qui aurait pu le voir venir ?" Maia soupire et vous aide à extirper votre membre écrabouillé des mâchoires de la machine. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous devriez sans doute essayer avec l'autre main. On ne sait jamais."</DefaultText>
+      <FemaleText>"Vous devriez sans doute essayer avec l'autre main. On ne sait jamais."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous pensiez honnêtement que ça allait bien se passer ?"</DefaultText>
+      <FemaleText>"Vous pensiez honnêtement que ça allait bien se passer ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"C'est sûrement pas la première fois qu'un idiot se fait mordre en fourrant sa main dans un trou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vatnir éclate d'un rire cruel. "Hum. Mes excuses, Oracle du crépuscule."
+
+Il réprime ses ricanements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Un frisson de plaisir traverse les rouages de la machine. Vous sentez qu'elle commence à vous prêter attention. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Le presser fort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Le presser doucement.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous retirez votre main et la secouez pour vous débarrasser d'une longue traînée visqueuse de... Quelque chose. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Cette chose vient de ronronner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

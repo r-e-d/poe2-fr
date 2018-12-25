@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Augmente de {0:triggervalue:straight} la Puissance et la Résolution jusqu'à la fin du combat à chaque fois qu'un membre du groupe est assommé (cumulable {0:value:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>{0:value:bonuspercentbonus} aux chances d'infliger un coup critique au corps à corps pendant {0:extravalue:duration} après avoir lancé un sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Infliger un coup critique accorde Détermination aux alliés proches de la cible pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>{0:value} en Pénétration quand la Puissance est inférieure à {0:extravalue:straight}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>{0:value:percent} de chances de renverser une cible touchée quand la Puissance est supérieure à {0:extravalue:straight}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Confère {0:value} en Puissance jusqu'à la fin du combat à chaque fois qu'un membre du groupe est mis KO (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Terreur pendant {0:extravalue:duration} en cas de coup critique infligé avec une arme de corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>{0:value:percent} de chances de gagner Astuce pendant {0:extravalue:duration} lorsqu'un ennemi est tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>{0:triggervalue} en Volonté par {0:interval} (malus actuel : {0:value})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>{0:value:percent} de chances de réduire la Déviation de l'ennemi de {0:triggervalue} pendant {0:extravalue:duration} en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>{0:value:percent} de chances de réduire la Déviation de l'ennemi de {0:triggervalue} pendant {0:extravalue:duration} en cas de coup critique infligé (augmente avec la compétence {0:skill})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger des dégâts bruts aux ennemis proches après un court délai en cas de coup critique infligé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Quand vous subissez des dégâts, gagnez {0:value} en valeur d'armure contre ce type de dégât pendant {0:extravalue:duration} (supprime les autres bonus de Matériau à souvenirs)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Après avoir amélioré une capacité, renvoyez les sorts ciblés hostiles vers leurs lanceurs (jusqu'à un total de {0:value:straight} niveaux de sort)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Après avoir amélioré un sort de clairvoyant, augmentez de {0:value:bonuspercentbonus} la durée des afflictions que vous infligez pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Après avoir amélioré une capacité, les alliés proches gagnent Perspicacité pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>{0:value:percent} de chances en cas de coup critique infligé de laisser un sceau qui inflige à son tour des dégâts bruts aux ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Après avoir amélioré une capacité, la récupération du porteur est immédiatement réinitialisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>{0:value:percent} de chances d'infliger Confusion pendant {0:extravalue:duration} à la cible touchée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Après avoir amélioré une capacité, gagnez {0:value} niveaux de pouvoir pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Après avoir amélioré un sort de prêtre, le porteur gagne Courage pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Après avoir amélioré une invocation, les phrases de l'incantateur sont récitées {0:value:percent} plus rapidement pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Après avoir amélioré une capacité, gagnez {0:value} en Déviation pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Après avoir amélioré une capacité, gagnez {0:value} en Déviation jusqu'à la fin du combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>{0:value:percent} de chances de charmer un attaquant à chaque coup subit avec une arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Tire 3 projectiles, mais les dégâts et la Pénétration sont réduits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>{0:value:percent} de chances de lancer une deuxième fois un sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>{0:value} en Puissance et {0:extravalue:percentbonus} à la durée des effets bénéfiques jusqu'à la fin du combat à chaque fois qu'un coéquipier est mis KO (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>{0:value} en Puissance et {0:extravalue:percentbonus} à la durée des effets hostiles jusqu'à la fin du combat à chaque fois qu'un coéquipier est mis KO (cumulable {0:triggercount} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Assommé pendant {0:value:duration} toutes les {0:interval}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>{0:value:percent} de chances d'appliquer à une cible touchée avec une arme une affliction niveau 1 aléatoire pendant {1:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>{0:value:percent} de chances de gagner pendant {1:extravalue:duration} une inspiration niveau 1 aléatoire à chaque fois que vous êtes touché par une arme</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

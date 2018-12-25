@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_poi_bs_archives_stairs_to_study</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Rien que de le regarder me fait tourner la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Cet escalier mène probablement au dessus de l'Archive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"On se retrouve en haut. J'en ai marre des escaliers." </DefaultText>
+      <FemaleText>"On se retrouve en haut. J'en ai marre des escaliers." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il y a quelque chose de perché là-haut. Je le sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Cette porte barrait l'accès à encore plus d'escaliers ? Y'a intérêt à y avoir un truc super au sommet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Y'a plus d'autre choix que de monter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Regardez, capitaine. Qu'allons-nous trouver en grimpant au sommet de ce sanctuaire souterrain ?"</DefaultText>
+      <FemaleText>"Regardez, capitaine. Qu'allons-nous trouver en grimpant au sommet de ce sanctuaire souterrain ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si l'étage supérieur était interdit, imaginez ce qui nous attend tout en haut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Peut-être qu'ils gardaient leurs meilleurs livres au sommet de la bibliothèque. On y va ?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"À vous l'honneur, Oracle du crépuscule. Et j'attendrai ici que vous reveniez, ja ?"</DefaultText>
+      <FemaleText>"À vous l'honneur, Oracle du crépuscule. Et j'attendrai ici que vous reveniez, ja ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

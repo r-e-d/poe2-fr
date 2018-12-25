@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_reservoir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>De la bile bouillonne dans cette fosse. Le tuyau charnu à proximité achemine la substance acide jusque dans la fosse plus profonde de la pièce principale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examiner le réservoir]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Il empeste et les émanations vous brûlent les yeux.</DefaultText>
+      <FemaleText>Il empeste et les émanations vous brûlent les yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Combiner l'Ingrédient fongique et le Baume antiseptique, puis ajouter le tout au fluide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous mélangez les composants avec soin et les versez dans le réservoir. La bile écume et bouillonne, puis tourne en une épaisse matière visqueuse.
+
+Le tuyau vibre et se bouche, complètement obstrué.</DefaultText>
+      <FemaleText>Vous mélangez les composants avec soin et les versez dans le réservoir. La bile écume et bouillonne, puis tourne en une épaisse matière visqueuse.
+
+Le tuyau vibre et se bouche, complètement obstrué.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le fluide semble très acide. Il dissoudra rapidement tout ce qui est placé à l'intérieur, mais il est probable que la réaction à une base forte soit très violente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Examiner le réservoir]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

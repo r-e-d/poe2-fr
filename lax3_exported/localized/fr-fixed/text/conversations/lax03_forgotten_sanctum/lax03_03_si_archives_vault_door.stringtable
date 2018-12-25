@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_03_si_archives_vault_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous ne savez même pas vraiment par où &lt;i&gt;commencer&lt;/i&gt; pour forcer ce verrou.</DefaultText>
+      <FemaleText>Vous ne savez même pas vraiment par où &lt;i&gt;commencer&lt;/i&gt; pour forcer ce verrou.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examiner les gravures]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examiner le mécanisme]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Le laisser là où il est]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ce dispositif semble être l'œuvre d'un aliéné. Certains des éléments paraissent totalement superflus, tandis que d'autres ont l'air dépendants de rouages qui en dépendent eux-mêmes. 
+
+Cette porte de chambre forte n'est pas qu'un simple verrou ; c'est un casse-tête, un labyrinthe de l'esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Forcer le verrou]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Après une heure de labeur difficile qui vous laisse en sueur, les sons métalliques d'engins divers annoncent... quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Au bout d'une heure de travail difficile et frustrant, le problème de l'ouverture de la porte n'est pas plus proche d'être résolu.</DefaultText>
+      <FemaleText>Au bout d'une heure de travail difficile et frustrant, le problème de l'ouverture de la porte n'est pas plus proche d'être résolu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Après une heure de labeur difficile qui laisse [Specified 0] en sueur, les sons métalliques d'engins divers annoncent... quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous reconnaissez le sceau atypique ; il s'agit de l'emblème de la Main occulte, une société secrète d'historiens.</DefaultText>
+      <FemaleText>Vous reconnaissez le sceau atypique ; il s'agit de l'emblème de la Main occulte, une société secrète d'historiens.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] tend le cou pour mieux voir la ciselure. "C'est l'emblème de la Main occulte, on dirait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Le sceau ressemble à une main, mais sa signification vous échappe. </DefaultText>
+      <FemaleText>Le sceau ressemble à une main, mais sa signification vous échappe. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] fronce les sourcils en examinant la ciselure. "On dirait une main, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Réciter l'incantation] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Le mécanisme complexe semble presque disparaître, s’enfonçant dans la porte complètement à plat, jusqu'à n'être qu'une série de sillons peu profonds. Seul un levier subsiste, et lorsque vous le tirez la porte se met en branle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Les différentes parties de la porte glissent sous vos yeux tandis que les bielles du mécanisme se rétractent, ouvrant la voie...</DefaultText>
+      <FemaleText>Les différentes parties de la porte glissent sous vos yeux tandis que les bielles du mécanisme se rétractent, ouvrant la voie...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Un mécanisme extrêmement complexe verrouille la porte qui se tient devant vous, impénétrable. La complexité de ses engrenages, bielles et culbuteurs rappelle les entrailles d'un automate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Secouant la tête d'un air déconcerté, [SkillCheck 0] laisse échapper un sifflement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Donner un coup de pied dans la porte]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous vous cognez l'orteil.</DefaultText>
+      <FemaleText>Vous vous cognez l'orteil.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

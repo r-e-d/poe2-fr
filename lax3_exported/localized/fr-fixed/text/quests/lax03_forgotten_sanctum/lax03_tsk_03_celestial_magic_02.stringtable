@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_03_celestial_magic_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une étoile montante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fouiller les &lt;b&gt;Archives&lt;/b&gt; à la recherche du &lt;b&gt;grimoire de Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapporter le grimoire à &lt;b&gt;Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Restaurer le &lt;b&gt;grimoire de Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; a perdu son grimoire dans les Chambres obscurcies. Elle pense qu'il peut être consigné quelque part dans les &lt;b&gt;Archives&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Il semblerait que tous les livres des Chambres obscurcies finissent par passer par les &lt;b&gt;Archives&lt;/b&gt;. Le tome de Bakarna a peut-être échoué là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Une exposition à la lumière des étoiles a restauré le grimoire de Bekarna. Nul doute qu'elle sera heureuse de le récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Le grimoire de Bekarna semble sans vie, presque vidé de tout pouvoir arcane. Il existe peut-être un moyen de lui rendre sa superbe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Une note trouvée dans les Archives parlait d'un grimoire anormal qui réagissait quand on l'apportait dans une &lt;b&gt;zone est de l'Oratoire de Wael&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Selon la note trouvée, apporter le grimoire dans une &lt;b&gt;zone est de l'Oratoire de Wael&lt;/b&gt; devrait permettre de lui rendre son pouvoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La &lt;b&gt;zone est de l'Oratoire de Wael&lt;/b&gt; présente un trou dans le plafond qui permet de faire entrer la lumière extérieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Bekarna a dit que son grimoire s'épanouit sous la lumière des étoiles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Il ne s'est rien produit lorsque j'ai exposé le grimoire à la lumière du jour. Je pourrais toujours essayer la même chose à une heure différente. Bekarna aura peut-être également des conseils à me donner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>La &lt;b&gt;zone est de l'Oratoire de Wael&lt;/b&gt; présente un trou dans le plafond qui permet de faire entrer la lumière extérieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Bekarna est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Le grimoire de Bekarna a été rendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

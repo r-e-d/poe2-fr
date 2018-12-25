@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_oracle_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>109</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La présence de l'entité fait pression sur votre esprit et votre âme, se changeant en une voix sourde dans votre tête.</DefaultText>
+      <FemaleText>La présence de l'entité fait pression sur votre esprit et votre âme, se changeant en une voix sourde dans votre tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Vous voyez, mais êtes également vu. Comme l'est votre intrusion.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous voyez, mais êtes également vue. Comme l'est votre intrusion.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ah, encore une invitation involontaire dans un autre monde. Et j'imagine que ce... globe oculaire y est pour quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Euh, vous croyez qu'il nous voit ?"</DefaultText>
+      <FemaleText>"Euh, vous croyez qu'il nous voit ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"C'est inédit. Je tirerais bien la première, mais je ne suis pas sûre que ça aiderait." Maia serre ses poings sur les hanches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Soyez prudent, Gardien."</DefaultText>
+      <FemaleText>"Soyez prudente, Gardien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nom des parties délicates de Wael, ce serait trop demander que de savoir ce qu'est cette boule clignotante ?</DefaultText>
+      <FemaleText>"Nom des parties délicates de Wael, ce serait trop demander que de savoir ce qu'est cette boule clignotante ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Cet horrible endroit ne pouvait qu'avoir un responsable tout aussi affreux. Je ne ressens aucune empathie pour cette créature, capitaine. Tekēhu s'enlace lui-même et tremble.</DefaultText>
+      <FemaleText>Cet horrible endroit ne pouvait qu'avoir un responsable tout aussi affreux. Je ne ressens aucune empathie pour cette créature, capitaine. Tekēhu s'enlace lui-même et tremble.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"C'est loin d'être le genre de regard dans lequel une fille aimerait se perdre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"L'esprit derrière ces yeux, l'intellect de cette entité, c'est vraiment stupéfiant." Ydwin fait littéralement un pas en arrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ça alors, j'en reviens pas. Je me disais aussi que ça sentait les saucisses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ne prêtez aucune attention à ce cauchemar ambulant. Ce n'est qu'une illusion ayant pour but de nous faire avancer dans les ténèbres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Agh, c'est dans ma tête ! Sortez de là !"</DefaultText>
+      <FemaleText>"Agh, c'est dans ma tête ! Sortez de là !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ah, un serviteur du dieu de l'irréel nous a attiré dans le royaume de l'illusoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Qu'êtes-vous, intrus ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Qu'êtes-vous, intruse ?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Je suis [Player Name], Gardien de Caed Nua.</DefaultText>
+      <FemaleText>Je suis [Player Name], Gardienne de Caed Nua.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Un Gardien. Un capitaine de navire. Un tueur de monstres et chercheur de trésors.</DefaultText>
+      <FemaleText>Une Gardienne. Une capitaine de navire. Une tueuse de monstres et chercheuse de trésors.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ce que je suis ? Et vous êtes quoi, &lt;i&gt;vous&lt;/i&gt; ?"</DefaultText>
+      <FemaleText>"Ce que je suis ? Et vous êtes quoi, &lt;i&gt;vous&lt;/i&gt; ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pas d'humeur. Renvoyez-moi vers l'Ici-bas. Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Un Aumaua. Ça se voit aux dents. Et à la peau. Et à tout le reste."</DefaultText>
+      <FemaleText>"Une Aumaua. Ça se voit aux dents. Et à la peau. Et à tout le reste."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"C'est la première fois que vous voyez un nain ?"</DefaultText>
+      <FemaleText>"C'est la première fois que vous voyez une naine ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vous n'avez pas idée du nombre de fois que l'on me le demande."</DefaultText>
+      <FemaleText>"Vous n'avez pas idée du nombre de fois que l'on me le demande."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Un orlan, clairement ! Regardez-moi cette fourrure ! Et ces oreilles ! Et le fait que je sois loin d'être aussi grand que vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>&lt;ispeech&gt;Vous perturbez le sanctuaire de Wael, et souillez ces collections de vos doigts immondes.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous perturbez le sanctuaire de Wael, et souillez ces collections de vos doigts immondes.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>&lt;ispeech&gt;Non.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>&lt;ispeech&gt;Évidemment. Et également en tant que Gardien.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;Nous ne parlons pas de votre espèce, touchée par les dieux.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Nous ne parlons pas de votre espèce, touchée par les dieux.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;Nous voyons de nombreuses choses. Votre peuple se dissémine au sein des autres tels des insectes.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Nous voyons de nombreuses choses. Votre peuple se dissémine au sein des autres tels des insectes.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>&lt;ispeech&gt;Évidemment.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;Ce n'est pas le savoir que nous recherchons.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Hé, moi qui me disais que vous aviez l'air cocasse."</DefaultText>
+      <FemaleText>"Hé, moi qui me disais que vous aviez l'air cocasse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Allons, cap', n'oubliez pas non plus vos doigts palmés." Serafen remue ses propres doigts poilus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;ispeech&gt;Nous voulons savoir... êtes-vous un magicien de plus à la recherche d'un pouvoir immérité ? Ou autre chose ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je suis le Héraut de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous m'avez eu ! Bon, heu, vous pouvez me laisser partir ?"</DefaultText>
+      <FemaleText>"Vous m'avez eue ! Bon, heu, vous pouvez me laisser partir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je suis bien des choses, mais pas un magicien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oui. Je suis un grand sorcier. L'Extraordinaire [Player Name], à votre service."</DefaultText>
+      <FemaleText>"Oui. Je suis une grande sorcière. L'Extraordinaire [Player Name], à votre service."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ce que je viens de dire. Tueur de monstres. Capitaine. Chercheur de trésors."</DefaultText>
+      <FemaleText>"Ce que je viens de dire. Tueuse de monstres. Capitaine. Chercheuse de trésors."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"J'ai bégayé ? Renvoyez-moi vers l'Ici-bas avant que je n'éclate cette saleté d'œil dans son orbite démesurée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"C'est quoi, un magicien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Gardien !" Aloth vous regarde du coin de l'œil en grimaçant, mimant un discret « non » de la tête.</DefaultText>
+      <FemaleText>"Gardien !" Aloth vous regarde du coin de l'œil en grimaçant, mimant un discret « non » de la tête.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>&lt;ispeech&gt;Une flagrante duperie.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>L'œil massif de l'entité se plisse, tandis que son pédoncule oculaire pivote en votre direction.</DefaultText>
+      <FemaleText>L'œil massif de l'entité se plisse, tandis que son pédoncule oculaire pivote en votre direction.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;Nous n'avons aucune raison d'accéder à votre demande.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Nous n'avons aucune raison d'accéder à votre demande.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;ispeech&gt;Vous avez respecté ces chambres jusqu'ici. Néanmoins, votre intrusion reste inopportune.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous avez respecté ces chambres jusqu'ici. Néanmoins, votre intrusion reste inopportune.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous croyez qu'il utilise le « nous » pour éviter de dire « je » ?". Il tapote son index sous son œil droit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ce n'est pas le moment, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ydwin émet un léger gloussement, masquant son sourire derrière sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ne l'incitez pas, Ydwin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je sers le divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Personne de bien intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;ispeech&gt;Votre modestie intrigue, mais seulement de par l'obstacle qu'elle pose.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Votre modestie intrigue, mais seulement de par l'obstacle qu'elle pose.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;Le touché par la Mort n'est pas le bienvenu en ces lieux.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>&lt;ispeech&gt;Quel divin ?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"L'Enfant de la lumière, Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La déesse des flammes, Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"L'Esclave silencieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ce ne sont pas vos oignons."</DefaultText>
+      <FemaleText>"Ce ne sont pas vos oignons."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>&lt;ispeech&gt;Oui. Leurs yeux contemplent à travers les vôtres.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Oui. Leurs yeux contemplent à travers les vôtres.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>&lt;ispeech&gt;Vous vous êtes démarqué comme un assassin et un voleur.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous vous êtes démarquée comme une assassine et une voleuse.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;Jusqu'à présent, vous avez respecté notre raison d'être en ces lieux.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Jusqu'à présent, vous avez respecté notre raison d'être en ces lieux.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;Vous devez avoir le monde en horreur. Sans parler de vous.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous devez avoir le monde en horreur. Sans parler de vous.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;Le toucher enflammé n'a pas sa place parmi nos pages.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>&lt;ispeech&gt;Malveillance et chuchotement n'ont pas leur place ici.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Malveillance et chuchotement n'ont pas leur place ici.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;Vous devriez partir, tant que vous êtes encore conscient de cette possibilité.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous devriez partir, tant que vous êtes encore consciente de cette possibilité.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Je suis uniquement venu empêcher Maura de faire quoi que ce soit de dangereux.</DefaultText>
+      <FemaleText>Je suis uniquement venue empêcher Maura de faire quoi que ce soit de dangereux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Quel est vraiment cet endroit ? Quel est son but ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"[Attaquer.] "Et si je vous explosais l'œil, plutôt ?"</DefaultText>
+      <FemaleText>"[Attaquer.] "Et si je vous explosais l'œil, plutôt ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;Il n'y a plus aucune raison de la craindre.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;Adieu, intrus.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Adieu, intruse.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>&lt;ispeech&gt;Les réponses que vous cherchez vous condamneraient, sans parler de leur coût.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Les réponses que vous cherchez vous condamneraient, sans parler de leur coût.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;Et pourtant, vous voyagez en compagnie de magiciens.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Et pourtant, vous voyagez en compagnie de magiciens.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vous êtes magnifique, capitaine. Ne laissez personne vous convaincre du contraire. Tekēhu vous serre les épaules.</DefaultText>
+      <FemaleText>Vous êtes magnifique, capitaine. Ne laissez personne vous convaincre du contraire. Tekēhu vous serre les épaules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Non ? Postenago, on a pourtant visité le cimetière géant au sous-sol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;ispeech&gt;Votre intrusion destructive en ces lieux ne sera pas pardonnée. Adieu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Votre intrusion destructive en ces lieux ne sera pas pardonnée. Adieu.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>&lt;ispeech&gt;Celui qui est mort et pourtant vit. Celui qui renversera les piliers du monde.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>&lt;ispeech&gt;Atypique, un prêtre refusant le prosélytisme.&lt;/ispeech&gt;
+
+Les yeux de l'entité s'attardent sur vous, frémissant légèrement.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Atypique, une prêtresse refusant le prosélytisme.&lt;/ispeech&gt;
+
+Les yeux de l'entité s'attardent sur vous, frémissant légèrement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Imperturbable, Fassina croise les bras et observe d'un regard désapprobateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;Décevant, mais prévisible. Approchez. Purifions cet endroit de votre présence perturbatrice.&lt;/ispeech&gt;
+
+Le pédoncule de l'entité frémit.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Décevant, mais prévisible. Approchez. Purifions cet endroit de votre présence perturbatrice.&lt;/ispeech&gt;
+
+Le pédoncule de l'entité frémit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Conscient de cette possibilité ? Qu'est-ce que ça veut dire ?</DefaultText>
+      <FemaleText>Consciente de cette possibilité ? Qu'est-ce que ça veut dire ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;Ces lieux vous engloutiront. Corps, âme et existence.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Ces lieux vous engloutiront. Corps, âme et existence.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>&lt;ispeech&gt;Ils vous purifieront.&lt;/ispeech&gt;
+
+Les tentacules de l'entité se déplacent sous elle, s'enroulant en demi-cercles à leurs extrémités.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Ils vous purifieront.&lt;/ispeech&gt;
+
+Les tentacules de l'entité se déplacent sous elle, s'enroulant en demi-cercles à leurs extrémités.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>La rage et la douleur bouillonnantes de l'entité à terre vous submergent.</DefaultText>
+      <FemaleText>La rage et la douleur bouillonnantes de l'entité à terre vous submergent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>&lt;ispeech&gt;Inadmissible.&lt;/ispeech&gt;
+
+L'entité frémit, l'un de ses pédoncules vous fixant avec fureur.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Inadmissible.&lt;/ispeech&gt;
+
+L'entité frémit, l'un de ses pédoncules vous fixant avec fureur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;Vous perturbez notre précieuse bibliothèque, souillez nos artefacts, et présumez que l'on vous laissera partir ? Nous devrions... &lt;/ispeech&gt;
+
+La créature grimace de ses nombreux yeux.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Vous perturbez notre précieuse bibliothèque, souillez nos artefacts, et présumez que l'on vous laissera partir ? Nous devrions... &lt;/ispeech&gt;
+
+La créature grimace de ses nombreux yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Par les couilles gelées de Rymrgand, pas de ça chez moi, le globuleux !" 
+
+Serafen porte ses deux mains à ses tempes, émoussant l'agonie de la créature telle que vous la ressentez.</DefaultText>
+      <FemaleText>"Par les couilles gelées de Rymrgand, pas de ça chez moi, le globuleux !" 
+
+Serafen porte ses deux mains à ses tempes, émoussant l'agonie de la créature telle que vous la ressentez.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Skyt !"
+
+Ydwin ferme les yeux et ajuste ses lunettes, émoussant l'agonie de la créature telle que vous la ressentez.</DefaultText>
+      <FemaleText>"Skyt !"
+
+Ydwin ferme les yeux et ajuste ses lunettes, émoussant l'agonie de la créature telle que vous la ressentez.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Vous êtes vaincu. Hors de notre chemin."</DefaultText>
+      <FemaleText>"Vous êtes vaincue. Hors de notre chemin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"On va avoir des problèmes si cette chose se met à pleurer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt;Très bien ! Partez ! Nous vous libérons !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Très bien ! Partez ! Nous vous libérons !&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;Vos ingérences touchent à leur fin !&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ramenez-nous à l'Ici-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"À la prochaine."</DefaultText>
+      <FemaleText>"À la prochaine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vous n'êtes pas en position d'avoir de quelconques exigences."</DefaultText>
+      <FemaleText>"Vous n'êtes pas en position d'avoir de quelconques exigences."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je n'ai même pas encore &lt;i&gt;commencé&lt;/i&gt; mes ingérences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Vous avez fini ?</DefaultText>
+      <FemaleText>"Terminé ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Et en deux temps trois mouvements, ac ? Si vous ne voulez pas d'autres coquarts."</DefaultText>
+      <FemaleText>"Et en deux temps trois mouvements, ac ? Si vous ne voulez pas d'autres coquarts."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;ispeech&gt;Partez ! Fuyez ! Échappez-vous ! Décampez ! Disparaissez !&lt;/ispeech&gt;
+
+Ses yeux s'agitent tandis qu'une sensation d'électricité statique fait frétiller votre épiderme.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Partez ! Fuyez ! Échappez-vous ! Décampez ! Disparaissez !&lt;/ispeech&gt;
+
+Ses yeux s'agitent tandis qu'une sensation d'électricité statique fait frétiller votre épiderme.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"On fait de l'esprit, à ce que je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>L'entité cligne des yeux.</DefaultText>
+      <FemaleText>L'entité cligne des yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Quelle autre option avons-nous, hormis rester ici ? Ça me ronge de l'admettre, casità, mais la créature globuleuse a sans doute raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ce sont les bêtes de foire dans votre genre qui donnent une mauvaise réputation aux dieux."</DefaultText>
+      <FemaleText>"Ce sont les bêtes de foire dans votre genre qui donnent une mauvaise réputation aux dieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Votre estomac bondit dans votre ventre tandis que les ténèbres s'épaississent.</DefaultText>
+      <FemaleText>Votre estomac bondit dans votre ventre tandis que les ténèbres s'épaississent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Allez le dire à Maura, espèce de pleutre." Fassina plisse les yeux. L'Oracle mime son expression avant de retourner son attention sur vous.</DefaultText>
+      <FemaleText>"Allez le dire à Maura, espèce de pleutre." Fassina plisse les yeux. L'Oracle mime son expression avant de retourner son attention sur vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Rekke retient un hoquet de rire nerveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;Nous ne pouvons plus vous permettre de pénétrer dans le corps, pas plus qu'à l'archimage effacé.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;Nous ne pouvons pas vous permettre d'entrer dans le corps, ni de lui infliger des dégâts.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Nous ne pouvons pas vous permettre d'entrer dans le corps, ni de lui infliger des dégâts.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Pénétrer dans le corps ? Le magicien masqué tente d'entrer &lt;i&gt;dans&lt;/i&gt; Wael ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;Ce ne sera pas permis. Nous avons restreint l'accès au corps.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

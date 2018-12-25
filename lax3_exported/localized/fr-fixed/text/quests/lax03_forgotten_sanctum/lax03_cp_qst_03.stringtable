@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sous observation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entrer dans les &lt;b&gt;Collections&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouver un moyen d'accéder aux Collections à proprement parler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Explorer les profondeurs des &lt;b&gt;Collections&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tuer l'&lt;b&gt;Entasseur de souvenirs&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Quelque chose semble s'être échappé violemment des &lt;b&gt;Collections&lt;/b&gt; des Chambres obscurcies. Une exploration plus minutieuse de l'aile pourrait permettre d'en apprendre plus sur ces lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Collections sont au &lt;b&gt;sud-ouest du Temple de la révélation&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Cela ne semble pas être les Collections. Il doit être possible de descendre à partir d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je suis à présent au niveau des &lt;b&gt;Enclos&lt;/b&gt; des Collections. Si je &lt;b&gt;descends plus bas&lt;/b&gt;, je devrais pouvoir en apprendre plus sur la nature de cette aile et sur la personne en charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai trouvé l'administrateur de cette ménagerie cauchemardesque. La créature est autant prisonnière que geôlière. Je n'ai pas eu d'autre choix que de me défendre. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Un cri à glacer le sang a résonné depuis un niveau plus profond. Il n'avait rien de naturel ou sain d'esprit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Un autre cri a jailli des profondeurs, plus fort cette fois. Je dois me rapprocher de sa source.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>L'Entasseur de souvenirs est mort. En partant, son âme m'a parlé de la Tréphine, l'appareil qui permet d'accéder au corps de Wael.  Je sais à présent comment l'activer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

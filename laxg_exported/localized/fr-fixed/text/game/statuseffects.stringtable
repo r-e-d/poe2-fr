@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Instable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>{0:value} de Pénétration lorsque vous attaquez une cible qui n'est pas attaquée par un allié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>{0:value:percent} des dégâts infligés octroient de la guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>{0:value:percent} de chances de convertir les coups portés en coups critiques face aux cibles charmées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Si le niveau est d'au moins {0:value:straight}, applique une Inspiration corporelle de niveau {0:extravalue:straight}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>{0:value:percent} des dégâts d'arme infligés aux cibles souffrant d'afflictions octroient de la guérison </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Les effets d'imprégnation de sort gagnent {0:value} en Précision (Augmente avec la compétence Arcane)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>{0:value} en Précision aux attaques n 'ayant pas de lien avec l'Imprégnation / les Éléments / le Feu / le Givre / l'Acide / l'Électricité / les Sorts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>{0:value} Plaie(s)quand un effet hostile expire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>{0:value} en Santé quand un effet hostile expire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Les Invocations suppriment toutes les Phrases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Les Invocations confèrent des niveaux de pouvoir en fonction des Phrases consommées pendant {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Impossible d'utiliser Améliorer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Recevez des dégâts bruts variables pour restaurer les ressources d'un sort de magicien de niveau équivalent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>{0:value:percent} de chances de convertir les coups en éraflures lorsque vous ne subissez aucune affliction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>{0:value} de Précision lorsque vous attaquez une cible qui n'est pas attaquée par un allié</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

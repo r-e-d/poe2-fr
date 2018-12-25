@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_last_pilgrimage</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>20</EntryCount>
+  <EntryCount>21</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -102,6 +102,11 @@
     <Entry>
       <ID>30004</ID>
       <DefaultText>J'ai dit à &lt;b&gt;Brythe&lt;/b&gt; qu'&lt;b&gt;Ehrys&lt;/b&gt; était morte. Cela lui a peut-être brisé le cœur, mais au moins elle ne tentera pas d'aller retrouver sa sœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai dit à &lt;b&gt;Brythe&lt;/b&gt; que j'ai tué sa sœur &lt;b&gt;Ehrys&lt;/b&gt;. Elle ne l'a pas vraiment bien pris.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

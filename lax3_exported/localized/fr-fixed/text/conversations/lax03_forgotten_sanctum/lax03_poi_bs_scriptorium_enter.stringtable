@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_poi_bs_scriptorium_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je me fais des idées ou ces yeux nous suivent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Une des plus grandes merveilles d'Eora, et elle est infestée de globes oculaires. Magnifique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ça vous arrive d'avoir l'impression qu'on vous regarde ?"</DefaultText>
+      <FemaleText>"Ça vous arrive d'avoir l'impression qu'on vous regarde ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Chacun des livres qu'il y a ici est un mensonge ou un rêve volé. Pas de quoi se laisser impressionner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Prudence, Ydwin. Ce n'est pas le moment de tomber parce que les livres vous laissent bouche bée."</DefaultText>
+      <FemaleText>"Prudence, Ydwin. Ce n'est pas le moment de tomber parce que les livres vous laissent bouche bée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gardien ! Est-ce que ce sont des &lt;i&gt;yeux&lt;/i&gt; ?</DefaultText>
+      <FemaleText>Gardienne ! Est-ce que ce sont des &lt;i&gt;yeux&lt;/i&gt; ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"On nous regarde de très près. Je me demande à quel point ce lieu comprend ce qu'il voit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'me demandais pourquoi on voit pas beaucoup d'incantateurs... maintenant, je sais pourquoi. La tradition orale n'avait aucune chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Est-ce que vous pensez qu'ils peuvent nous voir ?"</DefaultText>
+      <FemaleText>"Est-ce que vous pensez qu'ils peuvent nous voir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Absolument incroyable. Je vais peut-être vous laisser m'abandonner ici, capitaine."</DefaultText>
+      <FemaleText>"Absolument incroyable. Je vais peut-être vous laisser m'abandonner ici, capitaine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Admirez cet endroit ! La bibliothèque d'Arkemyr n'est qu'une note en bas de page par rapport à cette glorieuse collection..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

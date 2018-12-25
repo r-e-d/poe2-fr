@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_arkemyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Pour votre information, j'ai trouvé Bekarna enfermée dans les Chambres obscurcies."</DefaultText>
+      <FemaleText>"Pour votre information, j'ai trouvé Bekarna enfermée dans les Chambres obscurcies."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Il se tapote les doigts en examinant intensément leur point de jonction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>D'un geste apathique, Arkemyr vous invite à continuer. Il semble que sa préoccupation est tout autre.</DefaultText>
+      <FemaleText>D'un geste apathique, Arkemyr vous invite à continuer. Il semble que sa préoccupation est tout autre.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

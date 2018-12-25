@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_spore_hive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;Llengrath reconnaît votre chant. Ce jardin vous plaît-il ? Chaque pustule en fleur fait-il enfler vos œufs d'expectative ?&lt;/ispeech&gt; La colonie de spores palpite et frisonne à votre approche.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Llengrath reconnaît votre chant. Ce jardin vous plaît-il ? Chaque pustule en fleur fait-il enfler vos œufs d'expectative ?&lt;/ispeech&gt; La colonie de spores palpite et frisonne à votre approche.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Votre chant est trop beau pour qu'il soit permis au moindre obstacle d'entraver sa croissance. Permettez-nous de fertiliser un lit de reconnaissance.&lt;/ispeech&gt; 
+
+La chair de Wael est prise de spasmes et de tressautements tandis que d'épaisses vrilles fongiques s'étendent pour déblayer le chemin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"On dirait que vous avez réussi à vous propager assez loin."</DefaultText>
+      <FemaleText>"On dirait que vous avez réussi à vous propager assez loin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous avez peut-être besoin de quelques cours sur la biologie des kiths. Rien de tout cela n'est vrai."</DefaultText>
+      <FemaleText>"Vous avez peut-être besoin de quelques cours sur la biologie des kiths. Rien de tout cela n'est vrai."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hors de mon chemin. L'heure n'est pas à la parlote de champignon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Gratitudes. Pour l'heure, le jardin-chair est une mare tranquille. Une petite pierre génère de grandes rides.&lt;/ispeech&gt; Une teinte rosâtre se répand sur le chapeau d'un champignon, comme si la colonie s'entraînait à rougir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;Mille glandes d'excuses. Ce jardin nous ravit à marbrer, mais nous percevons dans votre chant le désir d'explorer plus avant.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Mille glandes d'excuses. Ce jardin nous ravit à marbrer, mais nous percevons dans votre chant le désir d'explorer plus avant.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>
