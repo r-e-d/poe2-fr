@@ -92,7 +92,7 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>"Roulé ? On m'a invité."</DefaultText>
-      <FemaleText>"Roulée ? On m'a invitée."</FemaleText>
+      <FemaleText>"Roulée ? On m'a invitée."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -121,8 +121,8 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</DefaultText>
-      <FemaleText>"[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</FemaleText>
+      <DefaultText>[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</DefaultText>
+      <FemaleText>[Lui donner la robe d'Arkemyr.] "J'ai changé d'avis. La robe est à vous."</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>PAS MAL COMME PLAN, HEIN ? PARAÎT DÉBILE QUAND C'EST VOUS QUI DITES..."</DefaultText>
+      <DefaultText>"PAS MAL COMME PLAN, HEIN ? PARAÎT DÉBILE QUAND C'EST VOUS QUI DITES..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@ D'un clin d'œil, le diablotin vous présente une panoplie d'herbes raffinées e
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"ESSENCE FEUILLE BLANCHE, GRAINES GAENSVEF MOULUES, OS DRAGON EN POUDRE POUR GOÛT, HEIN !" Prenant une pincée de la préparation depuis le pilon, Gerbe la Souche la renifle depuis le bout de sa serre, hochant la tête.</DefaultText>
+      <DefaultText>"ESSENCE HERBE BLANCHE, GRAINES GAENSVEF MOULUES, OS DRAGON EN POUDRE POUR GOÛT, HEIN !" Prenant une pincée de la préparation depuis le pilon, Gerbe la Souche la renifle depuis le bout de sa serre, hochant la tête.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,13 +285,13 @@ D'un clin d'œil, le diablotin vous présente une panoplie d'herbes raffinées e
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Regarder en silence pour l"instant]</DefaultText>
+      <DefaultText>[Regarder en silence pour l'instant]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus de feuille blanche dans le mortier.</DefaultText>
-      <FemaleText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus de feuille blanche dans le mortier.</FemaleText>
+      <DefaultText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus d'herbe blanche dans le mortier.</DefaultText>
+      <FemaleText>"HEIN. VOUS AVEZ RAISON. PAS ASSEZ FORT." Le diablotin saupoudre un peu plus d'herbe blanche dans le mortier.</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -330,7 +330,7 @@ D'un clin d'œil, le diablotin vous présente une panoplie d'herbes raffinées e
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Vous passez un moment sans ciller à examiner vos mains, absolument fasciné. 
+      <DefaultText>Vous passez un moment sans ciller à examiner vos mains, absolument fasciné.
 
 Les doigts bougent. Ils &lt;i&gt;bougent.&lt;/i&gt; Quand. Vous. Le. Décidez.</DefaultText>
       <FemaleText>Vous passez un moment sans ciller à examiner vos mains, absolument fascinée.
@@ -450,12 +450,12 @@ Les doigts bougent. Ils &lt;i&gt;bougent.&lt;/i&gt; Quand. Vous. Le. Décidez.</
     <Entry>
       <ID>108</ID>
       <DefaultText>"Bon sang, Gardien. Gardez-en un peu pour moi !"</DefaultText>
-      <FemaleText>"Bon sang, Gardienne. Gardez-en un peu pour moi !"</FemaleText>
+      <FemaleText>"Bon sang, Gardienne. Gardez-en un peu pour moi !"</FemaleText>
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>Comme s'il pouvait sentir votre pic d'angoisse, Tekēhu vous agrippe tendrement par les épaules et vous prend dans ses bras. Sa peau est douce, il reproduit le bruit du ressac pour vous tranquilliser. Vous vous sentez à l'abri.</DefaultText>
-      <FemaleText>Comme s'il pouvait sentir votre pic d'angoisse, Tek?hu vous agrippe tendrement par les épaules et vous prend dans ses bras. Sa peau est douce, il reproduit le bruit du ressac pour vous tranquilliser. Vous vous sentez à l'abri.</FemaleText>
+      <FemaleText>Comme s'il pouvait sentir votre pic d'angoisse, Tekēhu vous agrippe tendrement par les épaules et vous prend dans ses bras. Sa peau est douce, il reproduit le bruit du ressac pour vous tranquilliser. Vous vous sentez à l'abri.</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>
@@ -474,8 +474,8 @@ Les doigts bougent. Ils &lt;i&gt;bougent.&lt;/i&gt; Quand. Vous. Le. Décidez.</
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?</DefaultText>
-      <FemaleText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?</FemaleText>
+      <DefaultText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?"</DefaultText>
+      <FemaleText>"Une petite minute, qu'est-ce que vous mijotez tous les deux ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>

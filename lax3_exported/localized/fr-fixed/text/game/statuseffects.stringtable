@@ -156,12 +156,12 @@
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>{0:value:percent} de chances d'appliquer à une cible touchée avec une arme une affliction niveau 1 aléatoire pendant {1:extravalue:duration}</DefaultText>
+      <DefaultText>{0:value:percent} de chances d'appliquer à une cible touchée avec une arme une affliction niveau 1 aléatoire pendant {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>{0:value:percent} de chances de gagner pendant {1:extravalue:duration} une inspiration niveau 1 aléatoire à chaque fois que vous êtes touché par une arme</DefaultText>
+      <DefaultText>{0:value:percent} de chances de gagner pendant {0:extravalue:duration} une inspiration niveau 1 aléatoire à chaque fois que vous êtes touché par une arme</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
