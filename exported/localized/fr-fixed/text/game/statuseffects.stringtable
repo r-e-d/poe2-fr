@@ -651,7 +651,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Bonus de Vitesse d'action cumulable de {0:extravalue:percent} pour chaque Phrase d'incantateur maintenue</DefaultText>
+      <DefaultText>Bonus de Vitesse d'action cumulable de {0:extravalue:percent} pour chaque Phrase de chanteur maintenue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,22 +1106,22 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases d'incantateur</DefaultText>
+      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases de chanteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Améliorer une invocation recharge au maximum le compteur de Phrases de l'Incantateur</DefaultText>
+      <DefaultText>Améliorer une invocation recharge au maximum le compteur de Phrases de chanteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases d'incantateur et confère {0:extravalue:percent} de chances de restituer un Point d'amélioration</DefaultText>
+      <DefaultText>Améliorer une invocation restitue {0:value:straight} Phrases de chanteur et confère {0:extravalue:percent} de chances de restituer un Point d'amélioration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>{0:extravalue:percent} des dégâts en dégâts électriques pour chaque Phrase d'incantateur maintenue</DefaultText>
+      <DefaultText>{0:extravalue:percent} des dégâts en dégâts électriques pour chaque Phrase de chanteur maintenue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

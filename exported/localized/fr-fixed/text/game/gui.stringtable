@@ -13149,7 +13149,7 @@ Le coût de toutes les capacités de Rage est augmenté de 1 point.</DefaultText
     <Entry>
       <ID>2814</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Les attaques avec arme réussies au corps à corps appliquent Perturbation de sort à la cible, augmentant le risque d'échec des magiciens, prêtres, druides, clairvoyants et incantateurs qui tentent de lancer un sort.
+Les attaques avec arme réussies au corps à corps appliquent Perturbation de sort à la cible, augmentant le risque d'échec des magiciens, prêtres, druides, clairvoyants et chanteurs qui tentent de lancer un sort.
 
 Octroie la capacité passive &lt;xg&gt;Résistance&lt;/xg&gt; aux sorts.
 
@@ -13180,7 +13180,7 @@ Subit des dégâts bruts en continu sous Frénésie.</DefaultText>
 Le nombre de créatures invoquées est doublé.
 
 &lt;b&gt;Malus&lt;/b&gt;
-Les créatures invoquées par l'incantateur sont plus petites et ont une santé et une durée de manifestation réduites.
+Les créatures invoquées par le chanteur sont plus petites et ont une santé et une durée de manifestation réduites.
 
 Les invocations de créatures coûtent 1 phrase de plus.</DefaultText>
       <FemaleText />
@@ -16666,7 +16666,7 @@ Les personnages multi-classe, en revanche, peuvent profiter des pouvoirs de deux
     </Entry>
     <Entry>
       <ID>3587</ID>
-      <DefaultText>Capacités d'incantateur</DefaultText>
+      <DefaultText>Capacités de chanteur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
