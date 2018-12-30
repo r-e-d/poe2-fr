@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Plus petits que les hommes, les scarabées sont suffisamment intimidants pour faire fuir la plupart des voyageurs. Ces insectes dangereusement imposants ne manquent jamais d'impressionner ou de terrifier les visiteurs ainsi que de renforcer l'image de Dyrwood, celui d'un trou perdu à peine civilisé. Les vastes étendues naturelles de Dyrwood (et Eir Glanfath) sont particulièrement propices à la multiplication des scarabées. La plus aboutie des espèces de scarabées a évolué au point de se fondre à son environnement et de se doter de carapaces faites de matériaux courants et durs comme le bois, la pierre ou l'adra. Les tribus glanfathanes ont appris à fabriquer de solides boucliers, voire des armes, à partir des membres et des coquilles de ces scarabées.
+      <DefaultText>Plus petits que les hommes, les scarabées sont suffisamment intimidants pour faire fuir la plupart des voyageurs. Les zones en grande partie inhabitées de l'archipel du Feu éteint sont particulièrement propices à la multiplication des scarabées. La plus aboutie des espèces de scarabées a évolué au point de se fondre à son environnement et de se doter de carapaces faites de matériaux courants et durs comme le bois, la pierre ou l'adra.
 
 Malgré leurs multiples apparences, ils sont d'une extrême complexité par rapport aux scarabées ordinaires. Lorsqu'ils choisissent un matériau en guise de coquille, ils le font dans un souci qui frôle l'art. Les scarabées de bois creusent souvent de complexes cavités dans leurs carapaces. En soufflant dans ces orifices, ils jouent une étrange musique capable d'attirer leurs congénères. Les scarabées de pierre se fabriquent de rudimentaires défenses qu'ils utilisent pour se défendre ou attaquer leurs proies. La nature complexe des scarabées reste énigmatique, mais ils s'avèrent difficiles à tuer.</DefaultText>
       <FemaleText />
@@ -45,11 +45,11 @@ Leurs chances de se développer étant relativement minces, la plupart des drago
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Énormes et agressives, les araignées se présentent sous différentes formes, couleurs et tailles partout dans les Contrées orientales. Bien plus dangereuses que leurs minuscules cousines, ces araignées géantes cherchent activement des proies humaines et animales. Même les plus faibles d'entre elles, les araignées lancières, peuvent venir à bout d'un être civilisé adulte si celui-ci n'est pas préparé. À défaut de poison, les pattes tranchantes des araignées lancières, dont découle leur nom, peuvent infliger de terribles blessures, y compris à une cible en armure.
+      <DefaultText>Énormes et agressives, les araignées se présentent sous différentes formes, couleurs et tailles 	au travers des îles du Feu éteint. Bien plus dangereuses que leurs minuscules cousines, ces araignées géantes cherchent activement des proies humaines et animales. Même les plus faibles d'entre elles, les araignées lancières, peuvent venir à bout d'un être civilisé adulte si celui-ci n'est pas préparé. À défaut de poison, les pattes tranchantes des araignées lancières, dont découle leur nom, peuvent infliger de terribles blessures, y compris à une cible en armure.
 
 Plus redoutables que les araignées lancières, les tourneurs d'ivoire et les veuves noires sont capables d'infliger d'horribles morsures venimeuses. Les tourneurs d'ivoire peuvent tisser une toile autour de leurs proies pour les ralentir. Ce n'est pas le cas des veuves noires dont le venin est particulièrement toxique.
 
-Rares en dehors des lieux les plus reculés d'Eir Glanfath, les célèbres mangeuses de cristal sont aussi imposantes que puissantes. Elles possèdent des pouvoirs magiques qui, selon certains magiciens, se sont développés moyennant la consommation d'adra et de gemmes enchantées. En plus de leur capacité à dresser de redoutables pieux de cristal, le venin des mangeuses de cristal pétrifie momentanément la chair et le sang de leurs victimes. Les attaques lancées ensuite par ces redoutables créatures s'avèrent rapidement mortelles.</DefaultText>
+Rares en dehors des lieux les plus reculés, les célèbres mangeuses de cristal sont aussi imposantes que puissantes. Elles possèdent des pouvoirs magiques qui, selon certains magiciens, se sont développés moyennant la consommation d'adra et de gemmes enchantées. En plus de leur capacité à dresser de redoutables pieux de cristal, le venin des mangeuses de cristal pétrifie momentanément la chair et le sang de leurs victimes. Les attaques lancées ensuite par ces redoutables créatures s'avèrent rapidement mortelles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,9 +63,9 @@ Les agrégats sont connus pour se cacher, attendant souvent sans bouger au milie
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Les lions peuplaient autrefois les plaines situées à l'est et au sud des immenses forêts d'Eir Glanfath. Mais la colonisation des Contrées orientales a repoussé ces grands félins vers les terres situées entre les communautés glanfathanes et dyrwoodanes.
+      <DefaultText>Les lions prospèrent dans les forêts luxuriantes du Feu éteint, notamment dans les régions les plus arides de l'archipel. Plus nombreux que leurs semblables des Contrées orientales, les lions du Feu éteint ont néanmoins des difficultés pour conserver leurs places dans la région principalement en raison des forces coloniales, qui les chassent à des fins récréatives.
 
-En plus d'être particulièrement puissants, les lions se distinguent par leur rugissement capable de susciter la peur des êtres civilisés les plus courageux.</DefaultText>
+En plus d'être particulièrement puissants, les lions se distinguent par leur rugissement capable de susciter la peur chez les êtres civilisés les plus courageux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,12 +228,12 @@ La puissance et le prestige d'un xaurip est directement lié à l'âge de son dr
       <ID>84</ID>
       <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par la perception, les talents et autres effets actifs, tels que les sorts ou les objets.
 
-En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un coup ou un critique et moins de chances de se traduire par une éraflure ou un échec. Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
+En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un coup ou un critique et moins de chances de se traduire par une éraflure ou un échec.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>La déviation correspond à la défense utilisée pour résister à des attaques de corps à corps et des attaques à distance directes contre le personnage situé en dehors de la zone d'effet (ZdE). Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
+      <DefaultText>La Déviation correspond à la défense utilisée pour résister aux attaques directes de corps à corps ou à distance qui ne sont pas des attaques à zone d'effet (ZdE). Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Une Entorse à la cheville réduit les défenses de Réflexe du personnage.</DefaultText>
+      <DefaultText>Une Entorse à la cheville réduit la propriété défensive Réflexes du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1749,7 +1749,7 @@ Dans le folklore huana, Kohopa et Tangaloa sont nées avant l'apparition du temp
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>La famille Darcozzi constituait la lignée royale de la Grande Vailia. L'ordre des Paladini Darcozzi a été fondé pour protéger la famille régnante et son palais aux environs de 800 AI. Même si les Palidini et la famille ont été dispersés lors de l'effondrement de la Grande Vailia, chaque branche continue, deux siècles plus tard, de jouir de moyens financiers impressionnants.</DefaultText>
+      <DefaultText>La famille Darcozzi constituait la lignée royale de la Grande Vailia. L'ordre des Darcozzi Paladini a été fondé pour protéger la famille régnante et son palais aux environs de 800 AI. Même si les Palidini et la famille ont été dispersés lors de l'effondrement de la Grande Vailia, chaque branche continue, deux siècles plus tard, de jouir de moyens financiers impressionnants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2481,7 +2481,7 @@ De nombreuses histoires décrivent des chiens si loyaux qu'ils restent aux côt�
     </Entry>
     <Entry>
       <ID>577</ID>
-      <DefaultText>Plus vieil ordre paladin du monde connu à ce jour, les Paladini Darcozzi furent fondés pour être les gardes du palais Darcozzi à Grande Vailia, il y a plus de 2 000 ans. Depuis l'éclatement de la Grande Vailia, les Paladini Darcozzi ont été transformés en protecteurs et ambassadeurs de l'immense famille Darcozzi aussi bien que de l'ancienne culture vailienne. Les Paladini Darcozzi sont présents dans le monde entier et entrent parfois en conflit entre eux, à cause des machinations de la famille Darcozzi. Les paladins de l'ordre sont connus pour leur sagacité et leur amour de la vie.</DefaultText>
+      <DefaultText>Plus ancien ordre paladin au monde, les Darcozzi Paladini ont vu le jour en tant que gardes du palais Darcozzi de la Grande Vailia il y a plus de 2 000 ans. Depuis le déclin de la Grande Vailia, les Darcozzi Paladini sont devenus les protecteurs et les ambassadeurs de l'immense famille Darcozzi ainsi que de la culture ancestrale de Vailia. Dispersés, il arrive que les Darcozzi Paladini s'affrontent suite aux machinations de la famille Darcozzi. Les paladins de l'ordre sont réputés pour leur bon sens et leur amour de la vie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2526,12 +2526,12 @@ De nombreuses histoires décrivent des chiens si loyaux qu'ils restent aux côt�
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Skaen, aussi connu sous le nom d'Esclave tranquille, est le dieu de la haine dissimulée, de la rancune et de la révolte violente. Il est souvent représenté comme un homme de petite taille, chauve, couvert de cicatrices laissées par un fouet, et dont les oreilles et le nez ont été tranchés. Il semble soumis, avec les yeux rivés au sol. Cependant, ses yeux brillent d'une haine silencieuse et ses poings sont serrés. Il est réputé pour se manifester sous une incarnation horrible connue sous le nom d'Effigie auprès des serviteurs assez désespérés pour se lancer dans des rites abominables. À Dyrwood, les fidèles de Skaen endossent souvent le double rôle de tortionnaires et de bourreaux, appréciant la déchéance de prisonniers de haut rang.</DefaultText>
+      <DefaultText>Skaen, également surnommé l'Esclave silencieux, est le dieu de la haine secrète, du ressentiment et de la rébellion violente. Il est généralement représenté par un petit homme chauve couvert de cicatrices et dont les oreilles et le nez ont été coupés. Il apparaît soumis avec ses yeux baissés. Mais ses yeux lancent des éclairs noirs de haine et son poing est serré. Il se présente aux fidèles suffisamment desespérés pour se livrer à des rites indicibles en tant qu'horrible incarnation d'Effigy. À Dyrwood, les fidèles de Skaen sont souvent des tortionnaires et des bourreaux, se délectant du déclin de prisonniers bien nés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Wael est le dieu des rêves, des secrets, des mystères et des révélations. Esprit impénétrable même aux autres dieux, Wael n'a pas de sexe ni d'apparence définis. Son symbole est l'œil, bien que l'apparence et le nombre d'yeux varient. Les gens prient Wael de protéger leurs secrets aussi bien que de révéler les mystères auxquels ils sont confrontés. Les fidèles de Wael sont connus pour leurs pratiques étranges et inhabituelles, probablement pour de bonnes raisons, mais tout aussi probablement pour aucune.</DefaultText>
+      <DefaultText>Wael est le dieu des rêves, des secrets, des mystères et des révélations. Impénétrable même pour les autres dieux, Wael n'a pas de sexe déterminé ou d'apparence cohérente. Il se caractérise par ses yeux dont l'apparence et le nombre changent souvent. Les gens prient Wael pour qu'il protège leurs secrets et les aide à percer les mystères auxquels ils sont confrontés. Les fidèles de Wael sont connus pour leurs étranges pratiques, peut-être pour de bonnes raisons, peut-être sans aucune raison.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2886,7 +2886,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>Le peuple des prairies (les Thyrtans) est originaire d'une antique civilisation de l'hémisphère nord qui, sur plusieurs millénaires, a progressivement migré vers le sud, jusqu'aux jungles équatoriales d'Aedyr. On les trouve généralement en Aedyr ainsi que dans les anciens territoires colonisés par Aedyr, au Readceras et au Dyrwood.</DefaultText>
+      <DefaultText>Le peuple des prairies (les Thyrtans) est originaire d'une antique civilisation de l'hémisphère nord qui, sur plusieurs millénaires, a progressivement migré vers le sud, jusqu'aux jungles équatoriales d'Aedyr. On les trouve généralement en Aedyr ainsi que dans les anciens territoires colonisés par Aedyr, à Readceras et à Dyrwood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,12 +2941,12 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>Les orlans du foyer sont souvent réduits en esclavage au Readceras et dans les Républiques de Vailia. Le traité conclu entre Dyrwood et le peuple d'Eir Glanfath prévoyait la libération des esclaves orlans mais, bien que cette clause ait été respectée, bon nombre d'orlans du foyer occupent encore des fonctions subalternes à Dyrwood.</DefaultText>
+      <DefaultText>Les orlans du foyer sont présent dans les nombreuses régions forestières des Contrées orientales (dont ils sont originaires) et occasionnellement en tant qu'esclaves ici et dans les Vieux empires. Se distinguant des orlans sauvages en raison de leurs apparences moins hirsute, les orlans du foyer sont mieux acceptés par les autres kiths. Bien qu'on les retrouve au Feu éteint, ils sont rarement présents en grands nombres.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>Les orlans sauvages sont les orlans « primitifs » qui vivaient jadis entre les tropiques, dans les forêts et les jungles les plus denses. Coupés des orlans du foyer pendant un millier d'années, quelques différences génétiques sont rapidement apparues, notamment l'absence de poils sur le visage des orlans du foyer. Les orlans sauvages sont nombreux dans les contrées reculées d'Eir Glanfath. Contrairement aux orlans du foyer, ils sont rares à Dyrwood, au Readceras et dans les Républiques de Vailia.</DefaultText>
+      <DefaultText>Les orlans sauvages sont les orlans « primitifs » qui vivaient jadis entre les tropiques, dans les forêts et les jungles les plus denses. Coupés des orlans du foyer pendant un millier d'années, quelques différences génétiques sont rapidement apparues, notamment l'absence de poils sur le visage des orlans du foyer. Les orlans sauvages sont nombreux dans les contrées reculées d'Eir Glanfath. Contrairement aux orlans du foyer, ils sont rares à Dyrwood, à Readceras et dans les Républiques de Vailia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2971,7 +2971,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>La mère de Xoti est originaire du peuple des savanes, dans les plaines d'Ixamitl, et son père appartient au peuple des prairies, qui descend des colons aedyrans au Readceras.</DefaultText>
+      <DefaultText>La mère de Xoti est originaire du peuple des savanes, dans les plaines d'Ixamitl, et son père appartient au peuple des prairies, qui descend des colons aedyrans de Readceras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4533,7 +4533,7 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Hel est un terme familier pour désigner l'Au-delà en Aedyr, au Dyrwood et au Readceras.</DefaultText>
+      <DefaultText>Hel est un terme familier pour désigner l'Au-delà en Aedyr, à Dyrwood et à Readceras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
