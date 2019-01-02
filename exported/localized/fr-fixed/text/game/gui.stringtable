@@ -1238,7 +1238,7 @@
     <Entry>
       <ID>249</ID>
       <DefaultText>Combattant</DefaultText>
-      <FemaleText>Combattante</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
@@ -1248,12 +1248,12 @@
     <Entry>
       <ID>251</ID>
       <DefaultText>Prêtre</DefaultText>
-      <FemaleText>Prêtresse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>Magicien</DefaultText>
-      <FemaleText>Magicienne</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1263,12 +1263,12 @@
     <Entry>
       <ID>254</ID>
       <DefaultText>Rôdeur</DefaultText>
-      <FemaleText>Rôdeuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
       <DefaultText>Druide</DefaultText>
-      <FemaleText>Druidesse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
@@ -1278,17 +1278,17 @@
     <Entry>
       <ID>257</ID>
       <DefaultText>Moine</DefaultText>
-      <FemaleText>Moniale</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
       <DefaultText>Clairvoyant</DefaultText>
-      <FemaleText>Clairvoyante</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
       <DefaultText>Chanteur</DefaultText>
-      <FemaleText>Chanteuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
@@ -5897,7 +5897,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>{0} {1} {2}.</DefaultText>
+      <DefaultText>{0} touche {2} ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19847,7 +19847,7 @@ Souhaitez-vous activer l'envoi des données télémétriques ?</DefaultText>
     </Entry>
     <Entry>
       <ID>4285</ID>
-      <DefaultText>1 point de compétence active et 1 point de compétence passive</DefaultText>
+      <DefaultText>1 point de compétence active et 1 point de compétence passive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20853,7 +20853,7 @@ La Lame du Gardien est ajoutée à votre réserve.</DefaultText>
     </Entry>
     <Entry>
       <ID>4514</ID>
-      <DefaultText>2 nouvelles capacités pour {0}.</DefaultText>
+      <DefaultText>2 nouvelles capacités de {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
