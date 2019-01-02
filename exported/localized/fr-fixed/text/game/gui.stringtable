@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} inflige un(e) {1} à {2} pour {3} dégâts{4}.</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} dégâts{4} ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3747,37 +3747,37 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>tranchant</DefaultText>
+      <DefaultText>Tranchant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>contondant</DefaultText>
+      <DefaultText>Contondant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>perforant</DefaultText>
+      <DefaultText>Perforant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>brûlant</DefaultText>
+      <DefaultText>Brûlant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>givrant</DefaultText>
+      <DefaultText>Givrant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>électrique</DefaultText>
+      <DefaultText>Électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>corrosif</DefaultText>
+      <DefaultText>Corrosif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5682,7 +5682,7 @@ Les légendes rapportent que les Rauatais seraient arrivés sur leurs terres dep
     </Entry>
     <Entry>
       <ID>1280</ID>
-      <DefaultText>sans arme</DefaultText>
+      <DefaultText>à main nue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14586,7 +14586,7 @@ La piété et la prière sont les pierres angulaires de votre vie publique et vo
     </Entry>
     <Entry>
       <ID>3052</ID>
-      <DefaultText>{0} à {1}</DefaultText>
+      <DefaultText>{0} contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20654,7 +20654,7 @@ Si vous désirez créer une histoire modifiée, allez aux Options dans le Menu p
     </Entry>
     <Entry>
       <ID>4464</ID>
-      <DefaultText>Contre un type de dégâts</DefaultText>
+      <DefaultText>&lt;xg&gt;Contre&lt;/xg&gt; un type de dégâts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
