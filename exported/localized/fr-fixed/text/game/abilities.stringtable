@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Ce sort fait apparaître un puissant bâton qui accroît la Déviation et chasse les ennemis tout en ajoutant un effet d'Entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
+      <DefaultText>Ce sort fait apparaître un puissant bâton qui repousse les ennemis tout en ajoutant un effet d'Entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@ Endurance - Octroie de la Valeur d'armure</DefaultText>
     </Entry>
     <Entry>
       <ID>2051</ID>
-      <DefaultText>(Son de cloche) - Les effets des dégâts à une main progressifs durent maintenant deux fois plus longtemps.</DefaultText>
+      <DefaultText>(Son de cloche) - Les effets des dégâts progressifs à une main durent maintenant plus longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17200,7 +17200,7 @@ Aucun.</DefaultText>
     </Entry>
     <Entry>
       <ID>5170</ID>
-      <DefaultText>Ne peut pas bouger</DefaultText>
+      <DefaultText>Déplacement impossible</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

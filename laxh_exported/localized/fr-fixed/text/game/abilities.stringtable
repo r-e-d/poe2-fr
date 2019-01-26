@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>En donnant de grands coups circulaires de sabre, vous gagnez de la Pénétration au détriment de votre Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText>Assénez des coups exténuants qui gagnent de la Pénétration au détriment de votre Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText>Le bourdon attaque avec une énergie accrue, ce qui ralentit l'Initiative de son porteur mais atteint les ennemis à proximité de la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText>Le personnage abat puissamment sa masse d'armes, infligeant des dégâts à l'armure de la cible au détriment de son Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText>Frappez avec précision avec votre rapière, en visant des points vitaux pour vous assurer la victoire. Combattre ainsi augmente votre Précision au détriment de votre Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5144</ID>
+      <DefaultText>Visez avec précision les points faibles de l'armure de votre ennemi, troquant votre Initiative contre une Pénétration accrue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>Assénez des coups puissants qui perforent la cible, troquant votre Initiative contre une Pénétration accrue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5146</ID>
+      <DefaultText>Utilisez votre petit bouclier pour mieux intercepter les attaques d'armes de corps à corps et contre-attaquer en sacrifiant votre Initiative. Gagnez de la Précision pour votre prochaine attaque à l'arme si une attaque d'arme de corps à corps vous rate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Servez-vous de votre bouclier pour tenter de bloquer les attaques d'arme et y résister complètement (en cas de réussite) en sacrifiant votre Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Maniez votre bâton pour dévier les coups, gagnant en Déviation contre les armes de corps à corps en sacrifiant votre Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>Une fois un ennemi tué, l'Initiative du barbare est instantanément réinitialisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de Conjuration gagnent en niveau de pouvoir.
+
+Confère le sort « Invocation de familier » : Invoque une créature pour assister le magicien. Les familiers sont de piètres combattants mais fournissent des bonus passifs à leur maître.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Évocation et d'Illusion.
+L'Initiative est augmentée pour les sorts de magiciens autres que Conjuration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Enchantement gagnent en niveau de pouvoir.
+
+Confère la capacité passive « Action gratuite » : Une fois par rencontre, lorsque le magicien subira une affliction de Dextérité, l'effet sera supprimé et il deviendra momentanément immunisé contre les afflictions touchant la Dextérité.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Illusion et de Transmutation.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Enchantement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Évocation gagnent en niveau de pouvoir.
+
+Vos sorts d'Évocation ont une faible chance de se répéter, infligeant à nouveau leurs dégâts et effets sur les cibles instantanément.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l'accès aux sorts de Transmutation et de Conjuration.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Évocation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Illusion gagnent en niveau de pouvoir.
+
+Confère la capacité passive « Miroir réfléchissant » : Une fois par rencontre, lors de la première attaque subie par le personnage, les effets du sort « Reflet » lui sont octroyés.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts de Conjuration et d'Enchantement.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Illusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de Transmutation gagnent en niveau de pouvoir.
+
+Confère le sort « Forme de la brute redoutable » : Transforme le magicien en ogre. Sous cette forme, les sorts sont désactivés mais les attributs physiques sont augmentés.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Enchantement et d'Évocation.
+
+L'Initiative est augmentée pour les sorts de magiciens autres que Transmutation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>(Coup écrasant) - Si le barbare tue sa cible, son Initiative est instantanément réinitialisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5156</ID>
+      <DefaultText>(Posture d'assaut) - Chaque ennemi à proximité réduit l'Initiative du combattant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5157</ID>
+      <DefaultText>Le combattant peut porter sans peine les armures les plus épaisses et les plus encombrantes. Il réduit de manière significative leur malus d'Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5158</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Bonus de chances de coups critiques lorsque des cibles à plus de quatre mètres sont attaquées.
+
+Bonus de Pénétration lorsque des cibles à quatre mètres ou moins sont attaquées.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Malus d'Initiative.
+
+Déviation réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText>L'Initiative de rechargement est réduite pour les petites arbalètes, les grandes arbalètes et toutes les armes à feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5160</ID>
+      <DefaultText>Réduit le malus d'Initiative provoqué par un changement d'arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText>Le malus d'Initiative lors des déplacements est réduit lorsque des armes à distance sont utilisées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+L'attaque furtive devient plus meurtrière et l'Initiative est réduite lorsque le bagarreur est Ensanglanté ou Pris à revers.
+
+Les dégâts critiques des armes augmentent lorsque le bagarreur est à la fois Ensanglanté et Pris à revers.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Le bagarreur subit un malus d'Initiative lorsqu'il n'est ni Ensanglanté ni Pris à revers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText>Tant que Cosmo la fripouille vous suit, le malus d'Initiative engendré par votre armure est réduit et votre groupe inflige davantage de dégâts avec les armes à feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>Tant que Lucero suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Dextérité et votre groupe voit diminuer son Initiative après avoir utilisé un objet rapide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
+      <DefaultText>Tant qu'Epsilon vous suit, le malus d'Initiative engendré par votre d'armure est réduit et votre groupe se déplace plus vite en combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5166</ID>
+      <DefaultText>Tant qu'Abraham vous suit, le malus d'Initiative engendré par votre armure est réduit et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5167</ID>
+      <DefaultText>Tant que Nalvi suit votre groupe, vous recevez un bonus de Détermination et les membres du groupe bénéficient d'une réduction du malus d'Initiative engendré par leur armure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5168</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Démarre avec un armement et une connaissance d'arme supplémentaires.
+
+Le changement d'arme est une Action gratuite.
+
+&lt;b&gt;Malus&lt;/b&gt;
+La &lt;xg&gt;Récupération&lt;/xg&gt; constante est moins efficace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Déplacement impossible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>Contenance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>Réduit l'Initiative durant la nuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Fin du tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Action utilisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>{0} par tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5174</ID>
+      <DefaultText>Type d'action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText>Gratuite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5177</ID>
+      <DefaultText>Sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5178</ID>
+      <DefaultText>Mode Tour par tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5179</ID>
+      <DefaultText>Action gratuite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5180</ID>
+      <DefaultText>Action standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5181</ID>
+      <DefaultText>Sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5195</ID>
+      <DefaultText>Aucun déplacement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Choisir le mode de jeu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5200</ID>
+      <DefaultText>Mode Temps réel avec pause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5201</ID>
+      <DefaultText>Mode Tour par tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5202</ID>
+      <DefaultText>Le mode Tour par tour offre une autre façon de jouer où les personnages agissent chacun leur tour durant le combat.
+
+•&lt;indent=2.5em&gt;Autre mode de jeu.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Met l'accent sur l'aspect tactique des combats.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Permet de jouer à son rythme en tout confort.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recommandé aux joueurs qui aiment les jeux au Tour par tour.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5203</ID>
+      <DefaultText>Le mode Temps réel avec pause est le mode standard de Deadfire. Les combats s'y déroulent en temps réel.
+
+•&lt;indent=2.5em&gt;Mode de jeu standard.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Des combats plus rapides orientés action.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Possibilité de mettre en pause à tout moment pour trouver son rythme.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recommandé aux joueurs qui aiment les RTwP classiques.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Action disponible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5206</ID>
+      <DefaultText>Déplacement disponible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5207</ID>
+      <DefaultText>Tour actuel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5208</ID>
+      <DefaultText>Tour suivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5229</ID>
+      <DefaultText>{0:Value:PercentBonus} en Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5230</ID>
+      <DefaultText>{0:Value:PercentBonus} en Initiative avec les armes à distance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5231</ID>
+      <DefaultText>{0:Value:InvertPercentBonus} en Initiative avec les armes à distance lors des déplacements</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5232</ID>
+      <DefaultText>{0:Value:PercentBonus} en Initiative avec les objets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5233</ID>
+      <DefaultText>{0:Value:PercentBonus} en Initiative avec les armes à deux mains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5234</ID>
+      <DefaultText>{0} Initiative de rechargement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5235</ID>
+      <DefaultText>Choisir Temps réel avec pause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5236</ID>
+      <DefaultText>Choisir Tour par tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5237</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5239</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Les personnages ne peuvent agir que durant leur tour.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le temps de récupération devient « l’Initiative » – Une Initiative faible permet d'agir plus tôt durant un tour.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le temps de rechargement modifie « l’Initiative » et ces armes se rechargent entre les tours.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le lancement des sorts avec un temps d'invocation prend fin plus tard durant le tour.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les attaques auto des armes doubles sont désormais des Attaques maximum qui n'affectent plus le Temps de récupération.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les durées sont converties en un nombre défini de « tours ».&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les effets réguliers, ceux avec un décompte ou encore ceux qui s'étendent sur la durée ont été adaptés au Tour par tour.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le défi de Magran rajoute une limite de temps aux tours au lieu de limiter la durée de la pause.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;L'IA des membres du groupe et le Reciblage sont désactivés.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5240</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Les personnages peuvent tous agir en même temps.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;La pause est disponible afin de laisser du temps pour prendre des décisions délicates.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;La mécanique de temps de récupération régit la fréquence à laquelle les personnages peuvent agir.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;La durée des effets est décomptée en temps réel.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;L'IA des membres du groupe permet d'automatiser les actions des personnages.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;L'option de Reciblage permet de changer la cible d'un sort ou d'une capacité après avoir été déclenchés.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5241</ID>
+      <DefaultText>Terminer le tour après l'action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5243</ID>
+      <DefaultText>{0} • {1} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5244</ID>
+      <DefaultText>Tour de l'ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5245</ID>
+      <DefaultText>Votre tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5246</ID>
+      <DefaultText>Tour allié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5247</ID>
+      <DefaultText>Réinitialiser la prochaine Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5248</ID>
+      <DefaultText>Le changement d'arme est une Action gratuite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5250</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Démarre avec un armement et une connaissance d'arme supplémentaires.
+
+Le changement d'arme est une Action gratuite.
+
+&lt;b&gt;Malus&lt;/b&gt;
+La &lt;xg&gt;Récupération&lt;/xg&gt; constante est moins efficace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5251</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+L'attaque furtive devient plus meurtrière et l'Initiative est réduite lorsque le bagarreur est Ensanglanté ou Pris à revers.
+
+Les dégâts critiques des armes augmentent lorsque le bagarreur est à la fois Ensanglanté et Pris à revers.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Le bagarreur subit un malus d'Initiative lorsqu'il n'est ni Ensanglanté ni Pris à revers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5252</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Bonus de chances de coups critiques lorsque des cibles à plus de quatre mètres sont attaquées.
+
+Bonus de Pénétration lorsque des cibles à quatre mètres ou moins sont attaquées.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Malus d'Initiative.
+
+Déviation réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5253</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de Conjuration gagnent en niveau de pouvoir.
+
+Confère le sort « Invocation de familier » : Invoque une créature pour assister le magicien. Les familiers sont de piètres combattants mais fournissent des bonus passifs à leur maître.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Évocation et d'Illusion.
+L'Initiative est augmentée pour les sorts de magiciens autres que Conjuration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5254</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Enchantement gagnent en niveau de pouvoir.
+
+Confère la capacité passive « Action gratuite » : Une fois par rencontre, lorsque le magicien subira une affliction de Dextérité, l'effet sera supprimé et il deviendra momentanément immunisé contre les afflictions touchant la Dextérité.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Illusion et de Transmutation.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Enchantement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5255</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Évocation gagnent en niveau de pouvoir.
+
+Vos sorts d'Évocation ont une faible chance de se répéter, infligeant à nouveau leurs dégâts et effets sur les cibles instantanément.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l'accès aux sorts de Transmutation et de Conjuration.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Évocation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5256</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts d'Illusion gagnent en niveau de pouvoir.
+
+Confère la capacité passive « Miroir réfléchissant » : Une fois par rencontre, lors de la première attaque subie par le personnage, les effets du sort « Reflet » lui sont octroyés.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts de Conjuration et d'Enchantement.
+
+L'Initiative est augmentée pour les sorts de magiciens autres qu'Illusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5257</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Les sorts de Transmutation gagnent en niveau de pouvoir.
+
+Confère le sort « Forme de la brute redoutable » : Transforme le magicien en ogre. Sous cette forme, les sorts sont désactivés mais les attributs physiques sont augmentés.
+
+&lt;b&gt;Malus&lt;/b&gt;
+Perte de l’accès aux sorts d'Enchantement et d'Évocation.
+
+L'Initiative est augmentée pour les sorts de magiciens autres que Transmutation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5267</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} de durée des effets hostiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5268</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} de durée des effets bénéfiques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5269</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} de durée de l'affliction de {0:AfflictionType}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5280</ID>
+      <DefaultText>En mode Tour par tour, les tours du groupe passent automatiquement après {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5304</ID>
+      <DefaultText>Retarder le tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Bêta</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

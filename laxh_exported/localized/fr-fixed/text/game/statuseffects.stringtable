@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>{0:value:percentbonus} en Initiative pendant {0:extravalue:duration} en cas de coup porté avec cette arme. Effet cumulable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>{0:value:percentbonus} en Initiative avec les armes de corps à corps pendant {0:extravalue:duration} en cas de coup porté avec cette arme. Effet cumulable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>{0:value:percentbonus} en Initiative sur l'attaquant (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>{0:value:percentbonus} en Initiative (cumulable {0:extravalue:straight} fois)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} en Initiative en fonction de la compétence {0:skill}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>2 de Santé toutes les {0:triggervalue:duration} pendant {0:extravalue:duration} quand un coup critique est subi (la Guérison augmente à mesure que la Santé du porteur diminue)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>{0:value:percent} d'infliger des dégâts contondants mineurs à un attaquant et de l'assommer pendant {0:extravalue:duration} en cas de coup porté avec une arme de corps à corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Vous gagnez 6 % en conversion de coups portés en coups critiques toutes les {0:interval} (cet effet est réinitialisé en cas de coup critique réussi)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>{0:value:percent} de chances de réinitialiser l'Initiative pendant 2 tours en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>{0:value:percent} de chances de réinitialiser l'Initiative en cas de coup porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>{0:value:percentbonus} en Initiative avec les armes de corps à corps à deux mains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Après avoir amélioré une capacité, l'Initiative du porteur est immédiatement réinitialisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Coût en ressources : {0:value}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Réduit le malus d'Initiative causé par l'armure (varie selon le type d'armure)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} de durée pour l'effet &lt;xg&gt;Supplice&lt;/xg&gt; des 1 000 morceaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Confère aléatoirement {0:value} d'Armure, {0:value} de bonus de Pénétration, ou {0:extravalue:percentbonus} d'Initiative pendant un bref laps de temps lorsqu'un ennemi est engagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>{0:value:percent} de chances de réinitialiser l'Initiative en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>{0:value:percent} de chances de réinitialiser l'Initiative en cas de coup critique porté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Durée de persistance de la phrase : {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

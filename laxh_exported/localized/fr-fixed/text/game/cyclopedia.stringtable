@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>En mode Tour par tour, un Sort consomme le point d'action du personnage. Le personnage commencera immédiatement à lancer sa capacité. Il finira de la lancer plus tard durant le même tour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>En mode Tour par tour, une Action gratuite ne consomme aucun point d'action. Durant son tour, un personnage peut exécuter autant d'Actions gratuites qu'il le désire en plus d'une action &lt;link="glossary://GlossaryEntry_StandardAction"&gt;Standard&lt;/link&gt; ou d'un &lt;link="glossary://GlossaryEntry_CastAction"&gt;Sort&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>En mode Tour par tour, les actions Standard sont les actions les plus courantes. Une action Standard consomme le point d'action du personnage pour ce tour et est exécutée sur-le-champ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>En mode Tour par tour, l'Initiative permet de déterminer qui agira en premier durant le tour. Les personnages ayant une Initiative plus basse agiront avant les autres personnages et lanceront leurs sorts plus vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Les personnages avec une Vitesse d'action plus élevée termineront de lancer leurs sorts plus vite et bénéficieront d'une Initiative réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Affliction touchant la Perception. Les personnages aveuglés souffrent de -5 en Perception, -10 en Précision, de +50 % en Initiative, sont considérés comme Pris à revers et la portée de toutes leurs attaques à distance est diminuée de moitié. Les personnages aveuglés ne peuvent pas utiliser ni subir d'attaques de regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Affliction touchant la Perception. Les personnages désorientés souffrent de -5 en Perception, sont considérés comme Pris à revers et reçoivent +50 % en Initiative après leurs actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

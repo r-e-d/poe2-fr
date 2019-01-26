@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5933</ID>
+      <DefaultText>Tant que Lucero suit votre groupe, vous gagnez de la résistance aux afflictions touchant la Dextérité et votre groupe voit diminuer son Initiative après avoir utilisé un objet rapide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5934</ID>
+      <DefaultText>Tant qu'Abraham vous suit, le malus d'Initiative engendré par votre armure est réduit et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5935</ID>
+      <DefaultText>Tant qu'Epsilon vous suit, le malus d'Initiative engendré par votre d'armure est réduit et votre groupe se déplace plus vite en combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5936</ID>
+      <DefaultText>Tant que Cosmo la fripouille vous suit, le malus d'Initiative engendré par votre armure est réduit et votre groupe inflige davantage de dégâts avec les armes à feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5937</ID>
+      <DefaultText>Tant que Nalvi suit votre groupe, vous recevez un bonus de Détermination et les membres du groupe bénéficient d'une réduction du malus d'Initiative engendré par leur armure.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

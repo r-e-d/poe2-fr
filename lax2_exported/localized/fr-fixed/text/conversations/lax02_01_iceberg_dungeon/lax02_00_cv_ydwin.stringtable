@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_00_cv_ydwin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>189</EntryCount>
+  <EntryCount>198</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -991,6 +991,51 @@ Elle croise les bras, vous dévisageant par-dessus la monture de ses lunettes.</
     <Entry>
       <ID>220</ID>
       <DefaultText>"Ni même plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Si vous changez d'avis, vous pouvez venir me parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Je vous remercie, mais je vous assure que je ne le ferai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"J'exige que vous me le disiez. Je dois savoir avec qui je voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Alors vous me demandez de partir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Si vous y tenez tant, alors gardez-le pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Si vous refusez de répondre à la question, vous pouvez partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Elle plisse ses yeux carmins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Adieu, capitaine." Après s'être brièvement inclinée, elle tourne les talons et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Très bien, gardez-le pour vous."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

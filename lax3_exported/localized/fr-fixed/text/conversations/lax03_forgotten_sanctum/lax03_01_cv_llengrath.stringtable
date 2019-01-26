@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_llengrath</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>576</EntryCount>
+  <EntryCount>578</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3060,6 +3060,16 @@ Elle reprend vite une apparence normale.</DefaultText>
     <Entry>
       <ID>945</ID>
       <DefaultText>[Lui montrer les Annales de Llengrath modifiées] "J'ai toute la collection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Elle vous ignore totalement.</DefaultText>
+      <FemaleText>Elle vous ignore totalement.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>[Partir] "Réflexion faite, oubliez ça."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

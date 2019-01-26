@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4557</EntryCount>
+  <EntryCount>4558</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23318,6 +23318,11 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     <Entry>
       <ID>5285</ID>
       <DefaultText>The Forgotten Sanctum - Non installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Bêta</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
