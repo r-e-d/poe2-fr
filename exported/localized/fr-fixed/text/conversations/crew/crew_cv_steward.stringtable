@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>...</DefaultText>
-      <FemaleText />
+      <DefaultText>"Comment puis-je vous aider, mon seigneur ?"</DefaultText>
+      <FemaleText>"Comment puis-je vous aider, ma dame ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>À présent que vous avez repris le contrôle du [Player Ship], il est temps de parler de la gestion de votre navire.</DefaultText>
+      <DefaultText>"À présent que vous avez repris le contrôle du [Player Ship], il est temps de parler de la gestion de votre navire."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>"J'étais l'intendante de votre forteresse à Caed Nua, mon seigneur."</DefaultText>
-      <FemaleText />
+      <FemaleText>"J'étais l'intendante de votre forteresse à Caed Nua, ma dame."</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -47,7 +47,7 @@
     <Entry>
       <ID>59</ID>
       <DefaultText>"Je suggère que nous continuions jusqu'à Neketaka, mon seigneur. C'est la plus grande ville du Feu éteint et, de là, nous devrions pouvoir nous repérer."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Je suggère que nous continuions jusqu'à Neketaka, ma dame. C'est la plus grande ville du Feu éteint et, de là, nous devrions pouvoir nous repérer."</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -57,17 +57,17 @@
     <Entry>
       <ID>61</ID>
       <DefaultText>"Si Éothas s'est rendu aux Dents de Magran, alors je crains que nous ne devions y aller aussi, mon seigneur."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Si Éothas s'est rendu aux Dents de Magran, alors je crains que nous ne devions y aller aussi, ma dame."</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
       <DefaultText>"Un long et dangereux périple nous attend, mon seigneur. Je vous conseille de vous préparer et de rassembler vos forces pour les épreuves à venir."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Un long et dangereux périple nous attend, ma dame. Je vous conseille de vous préparer et de rassembler vos forces pour les épreuves à venir."</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>"Je pense que le moment est venu, mon seigneur. Nous devrions mettre les voiles pour Ukaizo dès que vous serez prêt."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Je pense que le moment est venu, ma dame. Nous devrions mettre les voiles pour Ukaizo dès que vous serez prêt."</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -114,7 +114,7 @@
     <Entry>
       <ID>74</ID>
       <DefaultText>"Mais il serait déplacé de ma part de me plaindre de mes pertes devant vous, mon seigneur."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Mais il serait déplacé de ma part de me plaindre de mes pertes devant vous, ma dame."</FemaleText>
     </Entry>
     <Entry>
       <ID>75</ID>
@@ -141,17 +141,17 @@
     <Entry>
       <ID>80</ID>
       <DefaultText>"Je suis ravie de vous voir en bonne santé, mon seigneur."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Je suis ravie de vous voir en bonne santé, ma dame."</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>...</DefaultText>
-      <FemaleText />
+      <DefaultText>"Comment puis-je vous aider, mon seigneur ?"</DefaultText>
+      <FemaleText>"Comment puis-je vous aider, ma dame ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>"Mon seigneur, de quoi avez-vous besoin ?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ma dame, de quoi avez-vous besoin ?"</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
