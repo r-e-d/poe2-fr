@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>905</EntryCount>
+  <EntryCount>906</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -489,7 +489,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Un critique est un jet d'attaque supérieur ou égal à 100. Un critique qui inflige des dégâts augmente le total des dégâts de 25 % et la Pénétration de l'attaque de 50 %. Lorsqu'un critique s'applique à des effets durables (afflictions de type Intoxication ou Paralysie, par exemple), leur durée augmente de 25 %.</DefaultText>
+      <DefaultText>Un critique est un jet d'attaque supérieur ou égal à [Crit Min Roll]. Un critique qui inflige des dégâts augmente le total des dégâts de 25 % et la Pénétration de l'attaque de 50 %. Lorsqu'un critique s'applique à des effets durables (afflictions de type Intoxication ou Paralysie, par exemple), leur durée augmente de 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -499,7 +499,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Une éraflure correspond à un jet d'attaque compris entre 25 et 50. Une éraflure réduit les dégâts et la durée de 50 %.</DefaultText>
+      <DefaultText>Une éraflure correspond à un jet d'attaque compris entre [Graze Min Roll] et [Graze Max Roll]. Une éraflure réduit les dégâts et la durée de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Un coup correspond à un jet d'attaque compris entre 50 et 99. Lorsqu'une attaque se solde par un coup, les dégâts infligés et leur durée sont standard.</DefaultText>
+      <DefaultText>Un coup correspond à un jet d'attaque compris entre [Hit Min Roll] et [Hit Max Roll]. Lorsqu'une attaque se solde par un coup, les dégâts infligés et leur durée sont standard.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,7 +571,7 @@ Certaines créatures peuvent être invulnérables à une ou plusieurs affliction
       <ID>154</ID>
       <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de Précision de l'attaquant est mesurée à l'une des quatre défenses suivantes : la Déviation (attaques au corps à corps et attaques à distance directes), la Robustesse (attaques visant l'organisme, comme le poison et la maladie), les Réflexes (attaques à effet de zone) et la Volonté (attaques psychiques).
 
-Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la Précision et la défense pour déterminer les résultats de l'attaque. Moins de 25 = Échec, 25-49 = Éraflure, 50-99 = Coup, plus de 99 = Critique.
+Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la Précision et la défense pour déterminer les résultats de l'attaque. Moins de [Graze Min Roll] = Échec, [Graze Min Roll]-[Graze Max Roll] = Éraflure, [Hit Min Roll]-[Hit Max Roll] = Coup, plus de [Hit Max Roll] = Critique.
 
 Lorsque l'Attaque et la défense sont équilibrées, la plupart des attaques deviennent soit des Coups, soit des Échecs. Lorsque la Précision est supérieure à la défense, les chances de porter des coups critiques augmentent. Lorsque la défense est supérieure à la Précision, les chances de rater une attaque augmentent.
 
@@ -4859,6 +4859,11 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     <Entry>
       <ID>1112</ID>
       <DefaultText>Inspiration mentale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Une éraflure correspond à un jet d'attaque compris entre 1 et 50. Une éraflure réduit les dégâts et la durée de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

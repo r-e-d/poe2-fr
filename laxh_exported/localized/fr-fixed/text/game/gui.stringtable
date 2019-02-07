@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>54</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>5169</ID>
@@ -354,6 +354,36 @@ L'Initiative est augmentée pour les sorts de magiciens autres que Transmutation
     <Entry>
       <ID>5305</ID>
       <DefaultText>Bêta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Tour de l'ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Centrer sur ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Center la caméra sur les membres du groupe quand leur tour débute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5309</ID>
+      <DefaultText>Center la caméra sur les ennemis quand leur tour débute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5310</ID>
+      <DefaultText>Centrer sur membres du groupe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5311</ID>
+      <DefaultText>Center la caméra sur les personnages amicaux quand leur tour débute.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

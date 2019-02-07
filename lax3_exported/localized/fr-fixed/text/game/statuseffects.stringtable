@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>32</EntryCount>
+  <EntryCount>33</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
@@ -162,6 +162,11 @@
     <Entry>
       <ID>722</ID>
       <DefaultText>{0:value:percent} de chances de gagner pendant {0:extravalue:duration} une inspiration niveau 1 aléatoire à chaque fois que vous êtes touché par une arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Assommé pendant {0:extravalue:duration} tous les {0:interval}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2898</EntryCount>
+  <EntryCount>2899</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17315,6 +17315,11 @@ On retrouva plus tard une dizaine de ces capes parmi des piles de livres dans un
     <Entry>
       <ID>5938</ID>
       <DefaultText>Aussi bruyant et courtaud que son propriétaire, ce mortier portatif combine le canon large et court d'un tromblon à la légèreté d'un pistolet. Les vrais mortiers portatifs lancent des grenades, et ne sont pas appréciés à bord des navires (ou ailleurs) du fait du risque ridicule pris lorsqu'on allume un explosif pour en expulser un autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5941</ID>
+      <DefaultText>Mains</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4558</EntryCount>
+  <EntryCount>4559</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22539,12 +22539,12 @@ Vos visions enfin apaisées, vous avez trouvé place au château de &lt;b&gt;Cae
     </Entry>
     <Entry>
       <ID>4951</ID>
-      <DefaultText>Impossible de recruter des compagnons, des acolytes ou des aventuriers.</DefaultText>
+      <DefaultText>Impossible de recruter des compagnons, des acolytes ou des aventuriers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Tout membre du groupe étant renversé pendant 10 secondes est tué</DefaultText>
+      <DefaultText>Tout membre du groupe étant renversé pendant 10 secondes (Temps réel avec pause) ou 3 tours (Tour par tour) est tué</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23323,6 +23323,11 @@ Vous pourrez relire la page Workshop du personnage avant de la publier.</Default
     <Entry>
       <ID>5305</ID>
       <DefaultText>Bêta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5312</ID>
+      <DefaultText>Vitesse d'action {0} %, Allure {2} % et Réflexes {1}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
