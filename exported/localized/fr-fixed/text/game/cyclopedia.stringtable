@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>906</EntryCount>
+  <EntryCount>907</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4864,6 +4864,11 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     <Entry>
       <ID>1116</ID>
       <DefaultText>Une éraflure correspond à un jet d'attaque compris entre 1 et 50. Une éraflure réduit les dégâts et la durée de 50 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Les défenseurs du navire aideront à repousser les ennemis essayant d'engager le combat sur le pont.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
