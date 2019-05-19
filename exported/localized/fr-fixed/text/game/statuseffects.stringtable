@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>557</EntryCount>
+  <EntryCount>558</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2776,7 +2776,7 @@
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Ne peut pas bouger</DefaultText>
+      <DefaultText>Déplacement impossible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,12 @@
     </Entry>
     <Entry>
       <ID>751</ID>
-      <DefaultText>{0:value:percent} de chances de mettre à zéro la prochaine Initiative du porteur s'il subit un coup critique au corps à corps</DefaultText>
+      <DefaultText>{0:value:percent} de chances de réduire à zéro la prochaine Initiative du porteur s'il subit un coup critique au corps à corps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Accumulation de phrase : {0:ExtraValue:PercentBonus}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

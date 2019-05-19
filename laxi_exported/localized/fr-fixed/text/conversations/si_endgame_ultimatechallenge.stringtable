@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_endgame_ultimatechallenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Autour de vous, l'air s'épaissit de miasmes étouffants. Vous saisissez votre gorge à deux mains pour l'aider à aspirer de l'air, mais en vain. Devant vous, une silhouette familière se dessine lentement... la silhouette de la Chevaleresse blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elle secoue la tête et plonge une main pâle dans votre poitrine. Des vagues de réprobation, teintées d'un sentiment de travail inachevé, vous inondent d'une froide terreur.
+
+Elle voulait quelque chose. Une tâche cruciale. Qu'est-ce que c'était ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous mourez, paniqué, en vous répétant en boucle cette question. Puis vous arrêtez. Alors que votre âme quitte votre corps, les réponses n'ont plus aucune importance. Plus rien n'a d'importance. Il est plus facile de lâcher prise que vous l'auriez imaginé.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

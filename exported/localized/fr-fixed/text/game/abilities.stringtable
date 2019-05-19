@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3363</EntryCount>
+  <EntryCount>3365</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Ce sort fait apparaître un puissant bâton qui repousse les ennemis tout en ajoutant un effet d'Entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
+      <DefaultText>Ce sort fait apparaître un puissant bâton qui repousse les ennemis tout en ajoutant un effet d'Entrave à chaque attaque réussie. L'invocation proprement dite repousse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4616,7 +4616,7 @@
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Une main fantomatique et squelettique ratisse la zone, occasionnant des dégâts givrants aux personnages s'y trouvant, leur infligeant Affaiblissement et Entrave.</DefaultText>
+      <DefaultText>Une main fantomatique et squelettique ratisse la zone, occasionnant des dégâts givrants à tous les personnages s'y trouvant, leur infligeant Affaiblissement et Entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5338,7 +5338,7 @@ Lorsque Élévation se dissipe, le Focus tombe à 0.</DefaultText>
     </Entry>
     <Entry>
       <ID>1972</ID>
-      <DefaultText>Le moine bouge ses mains à la vitesse de l'éclair et dévie les attaques au corps à corps pendant un bref laps de temps.</DefaultText>
+      <DefaultText>Le moine bouge ses mains à la vitesse de l'éclair et dévie les attaques au corps à corps pendant un bref laps de temps. L'effet prend fin si le moine se déplace.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12984,12 +12984,12 @@ Toutes les capacités liées aux plaies coûtent 1 plaie de plus.</DefaultText>
     </Entry>
     <Entry>
       <ID>3719</ID>
-      <DefaultText>Alors que de nombreux incantateurs préfèrent officier en sécurité dans les lignes arrières, les scaldes ont besoin de combattre au corps à corps pour pouvoir alimenter leurs invocations. On retrouve des scaldes dans de nombreuses cultures qui prisent une fière tradition martiale et célèbrent les hauts faits de leurs voisins, semblables et ancêtres.</DefaultText>
+      <DefaultText>Alors que de nombreux chanteurs préfèrent officier en sécurité dans les lignes arrières, les scaldes ont besoin de combattre au corps à corps pour pouvoir alimenter leurs invocations. On retrouve des scaldes dans de nombreuses cultures qui prisent une fière tradition martiale et célèbrent les hauts faits de leurs voisins, semblables et ancêtres.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3720</ID>
-      <DefaultText>Les troubadours sont les maîtres de la chanson, capables d'ajuster leur vitesse de chant et la durée de leurs phrases pour s'adapter à leurs besoins lors des combats. Plus passifs que la majorité des incantateurs, les troubadours apprécient de soutenir les camarades à leurs côtés. Les troubadours sont originaires de Vailia l'Ancienne, mais peuplent communément les Républiques de Vailia et bien d'autres territoires.</DefaultText>
+      <DefaultText>Les troubadours sont les maîtres de la chanson, capables d'ajuster leur vitesse de chant et la durée de leurs phrases pour s'adapter à leurs besoins lors des combats. Plus passifs que la majorité des chanteurs, les troubadours apprécient de soutenir les camarades à leurs côtés. Les troubadours sont originaires de Vailia l'Ancienne, mais peuplent communément les Républiques de Vailia et bien d'autres territoires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17206,6 +17206,16 @@ Aucun.</DefaultText>
     <Entry>
       <ID>5174</ID>
       <DefaultText>Chute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText>Déclenche une redoutable tempête qui frappe fréquemment les ennemis présents dans la zone d'effet. Ses éclairs les étourdissent et leur infligent des dégâts électriques. En cas de critique, l'Étourdissement devient un Assommement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>Après l'activation, les phrases du chanteur seront accumulées bien plus vite, mais l'effet de persistance sera retiré.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

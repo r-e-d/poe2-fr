@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_post_magransteeth_gods-2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Cela ne ressemble guère à la reine neutre des dieux que je connais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>[Tapoter la couverture du livre calciné de Woedica et faire signe que vous parlerez plus tard]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Une vague de chaleur accablante vous assaille, puis un vent chargé de sel marin. Des voix divines crissent et grondent. Leurs mots font trembler la plateforme sous vos pieds, ébranlent l'air lui-même autour de vous.
+
+Les dieux se querellent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

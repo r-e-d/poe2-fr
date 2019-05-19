@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>5171</ID>
-      <DefaultText>{0} par tour</DefaultText>
+      <DefaultText>{0} par round</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@
       <ID>5202</ID>
       <DefaultText>Le mode Tour par tour offre une autre façon de jouer où les personnages agissent chacun leur tour durant le combat.
 
-•&lt;indent=2.5em&gt;Autre mode de jeu.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Mode de jeu alternatif.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Met l'accent sur l'aspect tactique des combats.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Permet de jouer à son rythme en tout confort.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Recommandé aux joueurs qui aiment les jeux au Tour par tour.&lt;/indent&gt;</DefaultText>
@@ -98,10 +98,10 @@
       <ID>5203</ID>
       <DefaultText>Le mode Temps réel avec pause est le mode standard de Deadfire. Les combats s'y déroulent en temps réel.
 
-•&lt;indent=2.5em&gt;Mode de jeu standard.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Mode de jeu classique.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Des combats plus rapides orientés action.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Possibilité de mettre en pause à tout moment pour trouver son rythme.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Recommandé aux joueurs qui aiment les RTwP classiques.&lt;/indent&gt;</DefaultText>
+•&lt;indent=2.5em&gt;Recommandé à ceux qui préfèrent une expérience de jeu classique en temps réel avec pause.&lt;/indent&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>5207</ID>
-      <DefaultText>Tour actuel</DefaultText>
+      <DefaultText>Round actuel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5208</ID>
-      <DefaultText>Tour suivant</DefaultText>
+      <DefaultText>Round suivant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>5233</ID>
-      <DefaultText>{0:Value:PercentBonus} en Initiative avec les armes à deux mains</DefaultText>
+      <DefaultText>{0:Value:PercentBonus} en Initiative avec deux armes à une main</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,12 +172,12 @@
     <Entry>
       <ID>5239</ID>
       <DefaultText>•&lt;indent=2.5em&gt;Les personnages ne peuvent agir que durant leur tour.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Le temps de récupération devient « l’Initiative » – Une Initiative faible permet d'agir plus tôt durant un tour.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Le temps de rechargement modifie « l’Initiative » et ces armes se rechargent entre les tours.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Le lancement des sorts avec un temps d'invocation prend fin plus tard durant le tour.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Les attaques auto des armes doubles sont désormais des Attaques maximum qui n'affectent plus le Temps de récupération.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Les durées sont converties en un nombre défini de « tours ».&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Les effets réguliers, ceux avec un décompte ou encore ceux qui s'étendent sur la durée ont été adaptés au Tour par tour.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le temps de récupération devient « l'Initiative » - Une Initiative basse permet d'avoir son tour plus tôt durant un round.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le temps de rechargement des armes qui se rechargent entre les tours modifie « l'Initiative ».&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Le lancement des sorts avec un temps d'invocation plus long prend fin plus tard durant le round.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les attaques auto avec deux armes à une main sont désormais des Attaques maximum qui n'affectent plus le Temps de récupération.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les durées sont converties en un nombre défini de « rounds ».&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Les effets réguliers, avec décompte ou étendus sur la durée prennent la valeur « par round ».&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Le défi de Magran rajoute une limite de temps aux tours au lieu de limiter la durée de la pause.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;L'IA des membres du groupe et le Reciblage sont désactivés.&lt;/indent&gt;</DefaultText>
       <FemaleText />
@@ -199,7 +199,7 @@
     </Entry>
     <Entry>
       <ID>5243</ID>
-      <DefaultText>{0} • {1} Initiative</DefaultText>
+      <DefaultText>{0} • Initiative : {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

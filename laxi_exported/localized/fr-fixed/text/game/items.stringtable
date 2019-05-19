@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5931</ID>
+      <DefaultText>Livre de la loi calciné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5932</ID>
+      <DefaultText>La reliure de ce tome empeste la fumée. Les quelques pages restantes sont froissées et noires. D'après les rares titres de chapitres qui ont échappé aux dégâts du feu, il s'agissait probablement d'un livre de lois archaïques. Ce n'est plus désormais que la relique carbonisée d'un insigne d'autorité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5939</ID>
+      <DefaultText>Rondin de bois noir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5940</ID>
+      <DefaultText>Les arbres de bois noir sont excessivement rares. Ces arbres corrompus ne se trouvent que dans les arbreraies obscures des menpŵgras. Habituellement récoltés par les mystérieux pillards rathuns, ces rondins sont utilisés pour fabriquer les coques les plus résistantes de l'archipel du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

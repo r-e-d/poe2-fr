@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5249</ID>
+      <DefaultText>Ouvrir le livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5258</ID>
+      <DefaultText>Afficher les détails</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5259</ID>
+      <DefaultText>Fermer les détails</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5260</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt; {0}. parlementer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5261</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt; {0}. Aborder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5262</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_fire" tint=1&gt; {0}. Engager le combat naval</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5263</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt; {0}. Intimidation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5264</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt; {0}. Partir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5265</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt; {0}. Tenter de vous enfuir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5266</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; {0}. Se rendre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5270</ID>
+      <DefaultText>Vous êtes poursuivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5271</ID>
+      <DefaultText>Vous êtes poursuivi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5272</ID>
+      <DefaultText>Alors que vous préparez votre navire, une silhouette encapuchonnée gravit la passerelle et vous plaque sèchement un livre calciné dans les mains. Elle fait demi-tour et repart sans un mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5273</ID>
+      <DefaultText>Demander des pourparlers et libre commerce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5274</ID>
+      <DefaultText>Abordez le navire ennemi et affrontez son équipage dans un combat de pont à pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5275</ID>
+      <DefaultText>Engager le combat naval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5276</ID>
+      <DefaultText>Réussite = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}        Échec = &lt;sprite="Inline" name="action_board" tint=1&gt;Aborder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5277</ID>
+      <DefaultText>Partir en paix chacun de votre côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5278</ID>
+      <DefaultText>Essayer de fuir. En cas d'échec, un combat naval s'engagera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5279</ID>
+      <DefaultText>L'ennemi vous permet de partir, mais pour un prix.  -&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  -&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   -&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5281</ID>
+      <DefaultText>Chance {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5282</ID>
+      <DefaultText>C'est réussi !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5287</ID>
+      <DefaultText>L'Ultime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5288</ID>
+      <DefaultText>{0} redditions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5289</ID>
+      <DefaultText>Vous avez gagné :</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5290</ID>
+      <DefaultText>Échec</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5291</ID>
+      <DefaultText>Votre tentative d'intimidation a échoué ! Le navire ennemi se prépare à vous aborder !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5292</ID>
+      <DefaultText>C'est réussi !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5293</ID>
+      <DefaultText>Vous avez réussi à échapper à votre poursuivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5294</ID>
+      <DefaultText>Échec</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5295</ID>
+      <DefaultText>Votre tentative de fuite a échoué ! Le navire ennemi se prépare au combat naval !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5296</ID>
+      <DefaultText>Fuir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5297</ID>
+      <DefaultText>Pour votre capitulation, le [ShipDuel_Opponent] exige :
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5299</ID>
+      <DefaultText>Active tous les défis et désactive toutes les astuces, tous les mods et toutes les bénédictions de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5300</ID>
+      <DefaultText>L'activation nécessite Bête hivernal/Pisteur, Tueur, Survivant/Sanctuaire oublié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5301</ID>
+      <DefaultText>Doit vaincre tous les principaux ennemis et boss au combat, sans quoi la partie se terminera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5302</ID>
+      <DefaultText>Battre en retraite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5303</ID>
+      <DefaultText>Se rendre</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

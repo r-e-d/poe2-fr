@@ -138,7 +138,7 @@ Pour sélectionner le groupe entier, appuyez sur &lt;sprite="Inline" name="ico_s
       <ID>24</ID>
       <DefaultText>Le jet d'attaque est un nombre aléatoire compris entre 1 et 100, auquel est additionnée la différence entre la Précision de l'attaque &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; et la défense de la cible &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;. &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Si la Précision est inférieure à la défense, le jet d'attaque subit un malus. Si la Précision est supérieure à la défense, le jet d'attaque gagne un bonus.
 
-Il vaut toujours mieux avoir un jet d'attaque final élevé. 0-24 = Échec, 24-49 = Éraflure, 50-99 = Coup, 100+ = Critique.</DefaultText>
+Il vaut toujours mieux avoir un jet d'attaque final élevé. [Miss Max Roll] ou moins = Échec, [Graze Min Roll]-[Graze Max Roll] = Éraflure, [Hit Min Roll]-[Hit Max Roll] = Coup, [Crit Min Roll]+ = Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,16 +322,16 @@ Les interruptions peuvent être bloquées par Concentration. Si un personnage av
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Psalmodies</DefaultText>
+      <DefaultText>Chants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Lorsqu'un Chanteur est sélectionné, cliquer sur &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; vous permettra de modifier ou de créer de nouvelles Psalmodies.
+      <DefaultText>Lorsqu'un Chanteur est sélectionné, cliquer sur &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; vous permettra de modifier ou de créer de nouveaux Chants. Les Chants des chanteurs sont des chants de guerre utilisés pour fortifier les alliés et affaiblir leurs ennemis.
 
-Cliquez sur une Psalmodie pour la sélectionner. Les Phrases cliquées sur le panneau gauche seront ajoutées à la Psalmodie sélectionnée. Si vous souhaitez supprimer une Phrase, cliquez dessus dans la Psalmodie.
+Cliquer sur un Chant affichera les Phrases utilisées. Les Phrases sélectionnés sur le panneau gauche seront ajoutées au Chant choisi. Pour supprimer une Phrase attribuée a un Chant, il suffit de cliquer dessus.
 
-Une Psalmodie active lira automatiquement chaque Phrase dans l'ordre et reviendra au début une fois parvenue à la fin.</DefaultText>
+Un Chant actif lira automatiquement chaque Phrase dans l'ordre et reviendra au début une fois parvenue à la fin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

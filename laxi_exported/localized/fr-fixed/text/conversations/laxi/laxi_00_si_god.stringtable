@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\laxi\laxi_00_si_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>524</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous faites craquer la reliure du vieil ouvrage, révélant des pages noircies d'une écriture dense et illisible. Plus vous vous concentrez sur les mots, plus ils disparaissent dans l'ombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous faites d'excellents progrès, Gardien. Ne vous reposez pas sur vos lauriers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Si vous désirez obtenir des réponses, vous avez frappé à la bonne porte. J'en ai plusieurs à vous fournir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Une vieille femme s'avance, vous regardant de haut au sens propre comme au figuré. Son sourire est large et cruel. Les joues qui l'entourent sont comme de la cire de bougie fondue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quel bonheur de voir que mon messager a retrouvé votre trace. Il est impossible de trouver de bons aides, de nos jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[S'incliner] "Ma dame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ma reine. Qu'est-ce qui me vaut cet honneur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Gardez vos distances, vieille peau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Avant que vous dégainiez votre arme, sachez que cet événement est placé sous le signe de la paix. Si c'était un piège, il se serait refermé sur vous depuis belle lurette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous méritez mes remerciements, mon cher. Depuis que les choses ont été réglées au Dyrwood, je suis plus... eh bien, disons que cela fait des années que je ne m'étais pas senti si délicieusement juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pendant que Berath murmure dans une oreille et qu'Éothas hurle dans l'autre, je me suis dit que vous auriez besoin d'un avis plus &lt;i&gt;expérimenté&lt;/i&gt; pour recouvrir tout ce vacarme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ma curiosité est piquée. Discutons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Que pourriez-vous bien dire que je n'aie déjà entendu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"La ruse impliquant le livre était-elle bien nécessaire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'ai déjà assez entendu les dieux comme ça. Laissez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Quelle impertinence. Peu m'importe si vous faites la sourde oreille lorsqu'on vous donne de bons et logiques conseils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ne trouvez-vous pas inhabituel que mes frères et sœurs soient si ouverts et accessibles ? Après des millénaires de chuchotements sous cape, les voilà qui hurlent presque leurs intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Et n'est-il pas étrange que nous ne nous querellions que lorsqu'un mortel est là pour en témoigner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Où voulez-vous en venir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les dieux font dans le dramatique par nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Lorsque nous nous sommes élevés à l'état de divinité, c'était pour nous occuper d'un peuple sauvage. Notre objectif était de façonner une société dont les valeurs pourraient perdurer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Éothas n'est pas réputé pour sa subtilité. Cela fait deux fois qu'il corrompt la pureté de notre expérience, et ce de manière si extravagante qu'il entame notre autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"La façon dont vos alliés et vous réagirez à cette menace prouvera si, oui ou non, vous êtes capable de prendre en main vos destins, ou si nous devons revoir notre stratégie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous connaissez désormais la vérité. Vous avez des questions, j'imagine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Pourquoi avoir décidé de vous confier à moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Les dieux croient que mes actions, &lt;i&gt;à moi&lt;/i&gt;, peuvent prouver qu'ils ont raison à propos des mortels en général ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'aimerais revenir sur le sujet de la Roue et de votre ascension au statut de divinité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Comment les Engwithans sont-ils devenus des dieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Refermer le livre] "Nous nous entretiendrons à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Que ce soit intentionnel ou non, vous semblez vous trouver à la pointe du changement. On ne croise des mortels de votre trempe qu'une fois dans une vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Certains le prendraient mal si je retirais leur liberté aux mortels sans leur donner une chance de plaider leur cause. L'honneur de les représenter en tant qu'avocat vous incombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Avant que je ne retourne en Eora et reprenne mon digne rôle de tyran, vous avez ici l'occasion de me montrer que j'ai tort. De démontrer que les mortels sont assez responsables pour prendre leur avenir en main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous dites ça comme si nous n'avions aucune chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"L'ordre est nécessaire, quand bien même il adopterait la forme de la tyrannie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Et vous, comme si vous en aviez une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous faites preuve de pragmatisme. Je vois que nous allons bien nous entendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Les mortels n'ont que peu de temps pour décider par eux-mêmes : se serreront-ils les coudes pour résister, ou ravaleront-ils leur fierté pour s'agenouiller ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Une minorité bruyante de dieux croit que vos choix démontreront que leur optimisme débridé était justifié. Comme si la collaboration et l'ingéniosité des mortels étaient des preuves de notre capacité à diriger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Les kiths sont vulnérables s'ils ne se soumettent pas au destin que l'on trace pour eux. Toute autre perspective ne peut engendrer que chaos et dissension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"La Roue relève de notre responsabilité collective ; chacun de nous la sert à sa façon. Je suis l'axe sur lequel les dieux équilibrent leurs pouvoirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Éothas maintient la Roue en mouvement. Il incarnait notre promesse aux mortels que leur temps et leurs efforts seraient dignement récompensés lors du prochain cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je ne comprends que maintenant que nous avons commis une terrible erreur en lui accordant notre confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Quelle autre question désirez-vous poser ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Au faîte de notre puissance, nous avons identifié le potentiel de l'âme. Nous savions qu'elle pouvait être liée, divisée, redirigée telle une rivière et martelée pour être réunifiée. La marteler était trivial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ceux d'entre nous qui étaient d'accord avec le projet d'apothéose, ainsi que nombre d'opposants, ont subi un effacement horrible et violent de notre individualité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Après quelque temps, nous avons pris la forme des êtres qui peuplaient les mythes les plus répandus d'Eora. Il existait d'autres légendes et d'autres croyances, mais nous avons œuvré pour les faire disparaître de l'histoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Woedica baisse vers vous un regard intense, ses yeux s'écarquillant progressivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ce n'était pas un mauvais choix que de faire confiance aux Huanas. Leur société a été bâtie pour perdurer, ce qui n'a toutefois pas empêché leurs tribus de ployer sous la pression d'une occupation étrangère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"C'était ambitieux de votre part de porter votre préférence sur les Républiques de Vailia. Leur économie est fondée sur un talent dangereux, bien qu'indéniable, mais je crains que les querelles internes et la corruption ne finissent par étouffer leur vision du progrès."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je savais qu'un jour viendrait où la loi martiale prendrait le contrôle du Feu éteint. Les canons et la poudre ont le charme pour étouffer le chant du compromis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous m'avez rappelé la raison pour laquelle je ne me repose jamais sur le jugement d'autrui. Je n'aurais jamais imaginé que le Feu éteint, Ukaizo et nos plus grands accomplissements tomberaient aux mains des pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Plutôt que de collaborer avec les mortels, vous êtes arrivé jusqu'ici par vos propres moyens. Vous avez refusé tout compromis, tout idéalisme et toute solution extérieure. Mes soupçons sont confirmés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ce qui s'est passé au palais des Kahangas était honteux, et prouve s'il le fallait encore que les mortels ont besoin d'une main ferme et capable pour les diriger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"J'ai été témoin de votre comportement sur la petite île reculée de Galawain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je note que le coin de l'Au-delà gelé de mon frère est plus silencieux que d'habitude. Les portes du Vytmádh se sont refermées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Si j'ai bien compris, vous avez émergé des entrailles de Wael. Et votre esprit semble avoir survécu à l'expérience sans autres séquelles que quelques fractures bénignes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je chérissais le frêle espoir que la force brute et la poudre mettraient le Feu éteint au pas et forceraient les mortels à s'entraider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Un régicide. Quelle honte, et quelle grave mise en cause de la société mortelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous ne me croirez sans doute pas, mais je tremblais d'excitation en observant cette réorganisation du siège vailien. Un bon procès, voilà qui me met l'eau à la bouche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ainsi est théâtralement révélé un autre sombre secret de Neketaka. Réfléchissez à deux fois au sujet de vos amis Huanas si quiconque vous affirme qu'il ignorait qu'un dragon reposait sous sa ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je ne m'attendais pas à ce que les Wahakis se soumettent à un chef kahanga. Le changement se répand peut-être sur l'archipel plus vite que je ne le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je sais déjà que les tempêtes déchirant Poko Kohara se sont calmées. Nous en avons senti l'effet traverser l'Au-delà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vous avez donc tué ce pirate arriviste et mis fin à sa folie des grandeurs. Bravo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Les dieux s'en vont l'un après l'autre dans un silence menaçant. Seule une silhouette reste parfaitement immobile jusqu'à ce que tous ses collègues soient hors de portée de voix. Woedica baisse les yeux vers vous, un rictus de triomphe barrant ses traits burinés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"J'ai une tâche à vous confier, très cher. Le jugement final approche, et un lourd fardeau repose sur mes épaules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Gardien. Vous revoilà. Êtes-vous prêt à écouter, ou allons-nous gaspiller notre temps ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Partir] "Je n'ai rien à vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Le charme reste votre qualité première, à ce que je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Par nécessité, en vérité. Mais là n'est pas la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Si nous disposions toujours de nos glorieux titans, mes frères et moi aurions mis un terme à la folie destructrice d'Éothas depuis longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"L'insolence ne vous sera pas d'un grand secours ici, mon enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Garante des serments, de telles mesquineries sont au-dessous de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Comment auriez-vous donc su que cette société était idéale ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ce projet d'ingénierie sociale ne vous semble-t-il pas défier toute logique ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Question justifiée et contre-productive, que j'ai souvent posée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vous voulez dire, que les dieux fabriquent un monde sans divinités ? Naturellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Les plus tendres d'entre nous comptent sur vous pour remporter ce pari existentiel. Nul doute qu'Éothas est de leur côté. Ce n'est pas mon cas. Notre raison d'être est de régner sur les mortels. C'est immuable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Vous faites bien de vous en rappeler, très cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Bien que nous soyons dans l'incapacité de l'arrêter, certains des miens veulent observer la façon dont les mortels réagissent à ce péril. Ils pensent que cela « mettra en lumière la valeur de notre protection »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Avant toute chose, j'ai bien fait appel au titan de Wael pour qu'il arrête Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"J'ai dû répéter mille fois à ce benêt au regard duquel rien n'échappe qu'il ferait mieux de ne pas se mêler des affaires des adultes. C'est pire que la fois où je l'ai laissé essayer ma couronne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Elle cligne des yeux en vous regardant. Une fois, puis deux. Puis elle pose son front sur la paume de sa main et lâche un soupir de lassitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Si Éothas détruit la Roue, les mortels auront du mal à faire confiance aux dieux pour la réparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Parlez, Gardien. Ce n'est pas tous les jours que je m'ouvre à ce genre de communion : choisissez avec soin ce que vous allez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oui, je le crois en effet. Notre discussion n'est pas terminée. Vous savez comment faire pour revenir en cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Les kiths sont trop irresponsables pour reconnaître ce qui leur est bénéfique. C'est une belle occasion de gagner leur confiance et de subvertir leurs plus hautes institutions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Non pas que nous ayons jamais eu besoin de leur confiance. Ni de leur amour. Les sauver fera de notre travail, régner sur eux, une formalité à organiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Comment la Roue fonctionne-t-elle, au juste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"La réincarnation existait déjà avant vous, pourquoi ne pas l'avoir laissée tranquille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Une grande partie du « mécanisme » de la réincarnation existe dans l'espace conceptuel de l'Au-delà. Vous n'y trouveriez pas d'engrenages et de leviers, sauf si nous en invoquions pour illustrer une idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Votre opinion des mortels a-t-elle évolué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Vous devriez déjà connaître la réponse à cette question, dégénéré. J'ai jugé votre race corrompue et aveugle, comme j'en ai le droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Nous avons-vous assez bien élevés pour être autonomes, ou devons-nous revenir en Eora imposer des mesures correctionnelles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Une partie de la société s'est rassemblée dans le Feu éteint. &lt;i&gt;Certains&lt;/i&gt; des miens estiment que notre rôle est de juger les mortels en fonction de leur performance..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Et pourtant, vous avez misé sur eux dans un pari qui pourrait décider du sort de l'humanité toute entière. Comment se fait-ce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"L'archipel leur appartient, tout comme Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Nous avons survécu à un cataclysme, à la guerre, à la famine et aux mers périlleuses. Ce conflit n'est qu'une diversion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Que ce soit contre des étrangers ou bien des dieux, ils savent se rassembler pour faire face à une menace commune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je voulais juste que des canoës de guerre accompagnent le [Player Ship] en haute mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Hm. Ma curiosité a été rassasiée. Pour l'instant. Vous êtes une variable singulièrement imprévisible dans nos plus vastes desseins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Vous jouez un jeu dangereux en plaçant vos espoirs en autrui. La duperie et l'échec font partie intégrante des mortels. Je peux vous promettre avec certitude qu'ils ne tarderont pas à vous décevoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Combien de personnes la reine Onekaza a-t-elle mis en danger pendant qu'elle apaisait ses ennemis ? À combien de reprises son benêt de frère a-t-il été sur le point de dégainer son arme à chaque négociation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Le directeur Castol conserve son autorité, mais combien de temps s'écoulera-t-il avant qu'il ne doive à nouveau défendre son poste ? S'il est incapable de contrôler ses employés, il sera incapable de contrôler le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"J'ai vu comment le rusé gouverneur Alvari a détrôné son supérieur. Est-elle plus qualifiée pour diriger, ou simplement plus entreprenante ? La nuance est d'importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Et pourtant, vous avez misé sur eux dans un pari qui pourrait décider du sort de l'humanité toute entière. Comment se fait-ce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"L'avenir aura besoin d'animancie, d'idées audacieuses, d'innovation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"J'ai confiance en Pallegina. C'est la seule garantie dont j'ai besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ce sont les seuls à bénéficier de telles ressources. Autrefois marchands, ils seront bientôt maîtres du monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ils me payent très, &lt;i&gt;très&lt;/i&gt; bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ces marchands ont à chaque fois fait passer leurs objectifs à court terme avant tout changement sur la durée. Rien que pour cela, je ne pourrais jamais placer en eux mes espoirs pour l'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tout comme moi, la reine Onekaza a connu les affres de la trahison. L'entendez-vous, Gardien ? Des profondeurs de l'Au-delà, elle crie vengeance et hurle pour qu'on lui rende justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Le prince Aruihi a vu son désir de mourir au combat exaucé, mais la conquête fera oublier ses exploits et son nom disparaîtra des tablettes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Le Rauatai a fait beaucoup d'efforts pour se distinguer comme prétendant à la conquête du monde, mais il lui reste à passer une véritable épreuve d'endurance. Le régicide constitue un départ pour le moins inquiétant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Et pourtant, vous avez misé sur eux dans un pari qui pourrait décider du sort de l'humanité toute entière. Comment se fait-ce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Le Feu éteint a besoin d'ordre. Pas de cupidité, ni de faux espoirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Maia est le produit de leur formation et de leur cohésion supérieures. Ça a suffi pour me convaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Le crédo du Rauatai est de faire usage des ressources disponibles, non pas de les piller ou de les amasser. Je respecte ce pragmatisme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Eh bien, ils m'ont offert un sous-marin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Furrante s'accroche au pouvoir, mais les Príncipis tolèrent à peine son commandement centralisé. Son règne perfide ne durera pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"... Et puis il y a la capitaine Aeldys. Audacieuse, décisive, sans pitié. Une femme comme je les aime. Si davantage de kiths possédaient sa discipline, les Príncipis auraient le droit de décider de leur destinée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"C'est une grave mise en cause des compagnies marchandes et des Huanas, qui n'ont même pas su protéger l'atout principal du Feu éteint contre une flotte d'abrutis fin saouls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Et pourtant, vous avez misé sur eux dans un pari qui pourrait décider du sort de l'humanité toute entière. Comment se fait-ce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Au moins, les Príncipis ne se voilent pas la face au sujet de leurs failles. Les compagnies marchandes laissent la corruption se faire passer pour une politique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Serafen a confiance en les Príncipis. Ils sa famille, et ils méritent une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"S'ils peuvent arracher le Feu éteint à ses intendants, c'est qu'ils l'ont mérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"J'étais peut-être saoul quand j'ai fait ce pari, mais j'ai un soutien sans réserve pour un [Player Name] ivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Éothas aura, à n'en pas douter, une opinion plus positive sur les mortels et leurs chances de succès. Il a déjà tout ce qu'il désire. Allez donc écouter son idéalisme vide de sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Une lourde responsabilité vous a été confiée, Gardien : être le porte-parole des mortels et représenter leurs intérêts dans ce futur qui se dessine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"En attendant, nous, nous fourbirons nos armes afin de nous préparer au futur qu'il nous concoctera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Nous n'avons plus grand-chose à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Comme toujours, vous êtes source d'inspiration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Nul n'est comparable à votre perfection, votre Magnificence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Que vous ayez écouté ou non mes conseils, tout ce que vous avez accompli jusqu'à présent a alimenté notre opinion sur les mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Je compte bien tout faire pour briser votre promesse. Quoi qu'il arrive, nous ferons face ensemble. Sans vous, s'il le faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Naturellement. Nos discussions vont me manquer, très cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"L'encouragement n'est pas de mon ressort. On fait appel à moi pour rendre justice, obtenir vengeance et contempler la dure réalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"J'espère que vous êtes satisfait de votre performance. Nous avons beaucoup appris l'un de l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ai-je fait une différence ? Les mortels sont-ils prêts à prendre leur destin en main ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Merci pour tout, ma reine resplendissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Adieu, Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Rien ni personne ne saurait me convaincre que les mortels sont équipés pour diriger leurs vies. Vos efforts pour me donner tort furent admirables, et mes détracteurs se serviront sans doute de votre exemple pour s'opposer à mon règne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Je pensais au départ que vous gaspilliez votre salive avec votre langue de velours, mais je crois bien qu'elle va me manquer, en fin de compte. Conservez mon livre sur votre table de chevet, très cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Les compagnies marchandes, les habitants du cru et même les pirates avaient chacun un plan bancal et désespéré pour contrecarrer cette menace. Vous les avez tous rejetés, jugeant ainsi les mortels inaptes à contrôler leur destin. Vous avez eu raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Je suis absolument d'accord. Lorsque je prendrai ma place de chef parmi vous, le seul défi sera de convaincre les autres d'appliquer mon plan pour Eora revu et corrigé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"J'ai hâte de voir la joie s'évanouir de votre regard quand il contemplera la froide et intraitable réalité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Les Huanas règnent peut-être sur cet archipel pour l'instant, mais Eora est plus vaste que ce qu'ils croient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"La Compagnie commerciale vailienne finira certainement par s'autodétruire, en enchaînant les crises intestines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Quand les Rauatais auront appris à pérenniser leur affaire, ils auront peut-être une chance. Mais il est difficile de me faire changer d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Le périple qui m'attend est ardu. Défendre mon opinion est devenu compliqué à cause de vos alliances.
+
+Je suppose que je dois vous en féliciter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Vous joindre à un troupeau de pirates indisciplinés était-il censé me faire changer d'avis ? Non, ne répondez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Tekēhu a foi en les tribus, et j'ai confiance en lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"La crise du pouvoir chez eux révèle le vice irréparable des Príncipis. Ils sont à peine capables de se gouverner eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"J'attendais votre appel, Woedica la perspicace. Laissez-moi l'honneur de transmettre votre message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Quelle motivation, quelle attention, très cher ! Écoutez donc mon avertissement, ma vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>La page s'élargit soudain, jusqu'à éclipser le monde qui vous entoure. Un vide sombre s'étend de tous côtés, l'air s'emplit de fumerolles étouffantes qui transportent des braises mourantes et des cendres racornies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Appeler] "Ohé ? Il y a quelqu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ce n'est pas drôle, Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Quelque chose remue dans les ténèbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[Agiter le bras pour dissiper la fumée]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Pour le moment, vous êtes la créature de Berath. Il existe des règles m'empêchant d'intervenir directement, mais rien ne dit que vous n'avez pas le droit de venir chercher conseil auprès de moi de votre plein gré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ondra et Hylea frôlent la ligne rouge de temps à autre en termes de conduite acceptable ; j'adhère en revanche intégralement aux plus anciennes de nos lois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Je vous laisse seul juge, mais je crois que vous trouverez mes intentions plus évidentes et honnêtes que vous le pensez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Parlez-moi de cette société éclairée que vous appeliez autrefois de vos vœux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"C'était un projet ambitieux, notre utopie. Sans doute trop ambitieux. Notre ascension au pouvoir répondait à un besoin insatisfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Vous voulez en savoir davantage ? Excellent. Il vous suffit de demander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Nous avons supposé qu'elle se révélerait à nous sous une forme ou une autre. Un gouvernement rationnel dirigerait à notre place, entraînant une désertion des églises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"C'est juste. Mes choix vous ont-ils appris quoi que ce soit à notre sujet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Disparaissez. Je vous ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Petit impertinent. Allez donc trouver conseil auprès d'Éothas. Nul doute qu'il remplira votre cerveau de conjectures idéalistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Avez-vous apprécié ma performance, ô puissante parmi les puissantes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"La société a besoin de nous. Eora cherche sa reine et ne trouve qu'un trône vide. Je ne décevrai pas mes sujets longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Avant de nous séparer, qu'est-ce qui vous a poussé à rejeter tout avis divergent et à tracer votre propre chemin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"J'ai eu foi en moi et en [Player Ship] pour accomplir ce voyage. Nous n'avons besoin de personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Je prends congé de mon rôle de médiation entre les différentes parties. Déterminer qui règne sur le Feu éteint n'est plus mon problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Cela n'avait rien de personnel, je souhaitais juste que chacun règle ses propres problèmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Les compagnies marchandes et les Huanas étaient tout aussi désagréables et mesquins que vous autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Hm. Ma curiosité a été rassasiée. Pour l'instant. Vous êtes une variable singulièrement imprévisible dans nos plus vastes desseins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Chaque nouveau cycle prouvait que mon opinion était juste. La nature entraîne le chaos, et la discipline entraîne la perfection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Pourquoi les autres dieux tolèrent-ils votre opposition ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Grâce à Éothas, nous tirons les marrons du feu avant qu'ils soient grillés. Vous n'avez jamais eu aucune chance de me prouver que j'avais tort, pauvres bougres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Mes semblables désiraient influencer les mortels, les guider dans la bonne direction. Même si cette direction les menait là où nous ne pouvions les suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Aussitôt après avoir ouvert le livre, vous vous retrouvez seul au milieu d'un néant de cendres tourbillonnantes et de braises luisantes, éthérées. Un nuage de fumée suffocant s'échappe de tous côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[Fermer le livre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[Appeler] "Ohé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Woedica, êtes-vous là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Vous ne recevez aucune réponse. Il n'y a pour l'instant personne dans le néant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Dites-moi, Gardien. Où avez-vous trouvé cette couronne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ses morceaux étaient disséminés dans le Néant blanc, l'arène de Kazuwari et le corps de Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Je l'ai reconstituée pour vous, ma reine. Je vous la remets en gage de loyauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[Mentir] "Quelle couronne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Une femme nommée Izzia l'a assemblée pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Vraiment ? Voilà qui est fascinant. Vous ne verrez sans doute pas d'inconvénient à ce que je vérifie votre témoignage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Je puis lire en chacune de vos pensées. Mentir est une perte de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Garder le silence ne vous sauvera pas, Gardien. Pas quand votre esprit est comme un livre ouvert pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Woedica ferme les yeux. Sa présence effleure votre esprit telle une griffe à la surface d'un plan d'eau. Puis elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Ce ne sera pas nécessaire, très cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Quel manque de jugeote de la part de mes frères et sœurs. C'est faire preuve d'ignorance et d'aveuglement que de penser que la couronne ne retrouverait jamais sa vraie mère adorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Woedica disparaît aussi rapidement qu'il lui faut pour tourner la tête et s'occuper d'autres affaires, vous laissant seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"C'est &lt;i&gt;vraiment&lt;/i&gt; votre couronne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Pourquoi les fidèles de Magran sont-ils passés à l'attaque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Assez parlé de la couronne. Qu'est-ce que je devrais en faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Une couronne de cette taille ne pourrait même pas servir de bague à mon plus petit titan. Elle reste toutefois mienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Il y a bien longtemps, l'inquisitrice de mes acolytes bien-aimés avait l'honneur de porter cette couronne en tant que marque du prestige de son poste. Elle était douée pour appliquer la loi, implacable et cruelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Un groupe de fanatiques magranites a pillé notre grand temple, incendiant tout sur leur passage. Tandis que mes acolytes périssaient par l'épée, mon inquisitrice fut immolée sur un bûcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Je n'ai jamais su ce qu'il était advenu de sa couronne. J'ai désormais ma réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Notre panthéon était jeune, nos acolytes resplendissaient de passion. Mes efforts pour organiser et consolider le pouvoir rencontraient souvent des représailles explosives. Sinon des autres dieux, de l'une de leurs nombreuses églises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Son immolation par le feu a marqué une nette intensification de nos conflits mesquins. J'ai rassemblé les autres dieux dans l'Au-delà pour en discuter, ce fut le précurseur des nombreux conseils que nous tiendrions par la suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"L'immolation de l'inquisitrice a-t-elle contribué au mythe de votre déclin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Quelle perspicacité. C'est ainsi que va l'histoire, n'est-ce pas ? Une fois que le temps a ôté tout le contexte d'un événement, il ne reste que l'ombre des faits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Je ne conteste pas ce mythe. Cette manifestation inspire la rage, le mépris et le besoin de répondre à cette injustice par la mort. Chaque cicatrice, chaque indignation sert d'arme à ma révolte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Quand nos chemins se sont séparés, Magran avait appris qu'il ne fallait pas me trahir une seconde fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Que vient faire Izzia dans tout ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Elle a hérité de l'âme de ma chère inquisitrice : la dernière femme à avoir porté cette couronne avant d'être brûlée vive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Cet héritage est... vide de sens. Arbitraire. Mais une très ancienne partie de moi se languit toujours de cette inquisitrice, et souhaite qu'elle puisse profiter d'une éternité paisible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Vous avez peut-être remarqué que j'apprécie lorsque mes fidèles sont silencieux mais déterminés. Je serais surprise qu'ils n'aient pas déjà appris le retour en grâce de cette couronne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Vous pouvez conserver cette couronne, mais quelque chose me dit qu'elle ne vous appartiendra pas éternellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Gardez-la, très cher. Puisse-t-elle protéger votre tête bien faite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Si l'un de mes fidèles tente de récupérer notre ancien bien, vous avez tous les droits de vous défendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"La Roue n'a qu'un seul élément matériel dans tout Eora : une partie construite pour canaliser l'essence à travers l'adra lumineux et dans l'Au-delà de manière continue et fiable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Je ne puis révéler que peu de choses aux simples mortels. Nos lois les plus antiques l'exigent. Mais je vais satisfaire votre curiosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Woedica hoche la tête avec raideur. Vous sentez sa présence s'éloigner, comme une brise qui bruisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Mes semblables ont pris leurs plus beaux airs et paradé après les faits qui se sont déroulés à Hasongo, sans pour autant parvenir à un consensus. Un tel désordre m'est intolérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Les autres dieux ont mentionné le Gardien d'Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Une belle construction. Le Gardien est une mesure de sécurité contre tout ce qui parviendrait à émerger vivant du Mortier d'Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Vous savez déjà où il se trouve. À Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Avant notre intervention, le flux d'essence n'avait pas de direction particulière et était imprévisible. Nous avons réussi à l'agrandir, à le rediriger et à lui faire emprunter un chemin efficace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Avant que nous ne prenions en main la Roue, la réincarnation était sujette à l'erreur et manquait d'une dynamique progressive. Les sans-âmes étaient courants, et il existait bien d'autres maladies spirituelles plus graves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"La contrôler nous a permis de renforcer les âmes des kiths intelligents sur des générations. Nous vous avons rendu plus sages, plus forts, plus susceptibles de développer la société que vous méritiez selon nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Il sera toujours possible de reconstruire la Roue, mais pour cela nous devrons abandonner une longue tradition de neutralité en faveur d'une intervention directe, et vous savez ce que l'on dit des vieilles habitudes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"La Compagnie royale du Feu éteint était en passe de réaliser une noble entreprise dans l'archipel... avant votre arrivée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Vos actions sanglantes ont contraint les Vailiens à se terrer comme des lapins alors que leur compagnie a un besoin urgent de retrouver un chef visionnaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Il est hors de question que je tolère un tel chaos quand je descendrai à nouveau parmi les hommes. L'autorité et le caractère sont des conditions sine qua non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Onekaza n'était pas vraiment d'humeur à transiger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"La plupart des diplomates ne réagissent pas très bien face à des pirates qui défoncent leur porte à coups de pied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Je regrette de ne pas avoir été d'une plus grande aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Elle a mal choisi son heure pour montrer les dents à ses ennemis. Mais c'était peut-être sa dernière chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Le fait d'accorder aux Príncipis un siège à la table des négociations a fini de dissiper toute illusion de formalité dans cette salle du trône autrefois respectable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Mes frères et sœurs ont bravement défié Éothas, mais notre intervention devra semble-t-il attendre que nous ayons rassemblé nos forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Vous rejetez la faute sur les mortels alors que c'est un &lt;i&gt;dieu&lt;/i&gt; qui sème le chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Éothas s'est contenté de dévoiler une faille déjà présente, une faille qui aurait cédé même si nous n'y avions pas touché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Pourquoi donc les amiraux, les monarques et les maîtres marchands devraient-ils s'appuyer sur un Gardien pour maintenir la paix ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Je veux en savoir plus sur Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"À son zénith, Ukaizo était le siège d'un empire qui dominait le continent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Vous n'aviez pas besoin de rallumer le phare d'adra. Éothas était déjà parti. Vous auriez pu le pister jusqu'à sa destination suivante, mais au lieu de cela vous avez choisi d'aider la colonie. Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Vous n'aviez pas besoin de rallumer le phare d'adra. Vous avez aidé la colonie tout en sachant qu'Éothas était déjà en route vers Ukaizo. Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Les Huanas se montrent très protecteurs vis-à-vis de l'adra natif. Je savais qu'ils apprécieraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Les Rauatais méritaient de retrouver leur phare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"L'adra lumineux ne sert à rien aux Vailiens une fois toute sa puissance épuisée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Pour l'argent, la récompense. Comme d'habitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Il n'y a que les mortels pour agir purement dans leur seul intérêt. Au moins, vous ne vous en cachez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Vous voyez maintenant ce qui peut arriver quand les mortels s'assemblent pour s'attaquer de front à une crise. Une collaboration de cette ampleur est rare, mais aussi peu fiable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Gardez vos secrets. Dans un sombre recoin de l'Au-delà, je suis sûre que Wael est en train de s'esclaffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"En privant Éothas d'essence, on l'a peut-être ralenti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"C'est vrai, mais, sous cette forme, il peut toujours se sustenter auprès d'une autre source. S'il ne trouve pas d'adra, je suis sûre que quelques navires pleins de pèlerins feront l'affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Maintenant que le flux est rétabli, je vais veiller à ce qu'il n'oublie plus sa place au sein de notre hiérarchie. C'est vous que je dois remercier pour cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Et maintenant le garde-manger de cet idiot pourrit de l'intérieur. Quel destin cruel pour un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Et la Bête hivernale a mis la main sur votre âme. Je féliciterais bien mon frère pour cette nouvelle acquisition, mais je suis sûre qu'il ne tardera guère à la tailler en pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Vous êtes ressorti sain et sauf du Néant blanc. Ce que vous avez vu de l'autre côté vous a-t-il appris quelque chose sur le monde des mortels, Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Le roi Wingauro o Watūri I m'a révélé toute l'étendue de la traîtrise engwithane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"J'ai vu à travers les yeux de Waidwen que les dieux et les mortels pouvaient coopérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Naxiva ix Kirent m'a montré comment le temps finissait par éroder la volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"En effet. Est-il surprenant que les Huanas ne nous rendent pas autant hommage que les Glanfathans ? Leur mémoire ancestrale est pétrie de ressentiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Je me satisfais d'être de nouveau parmi les vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Si l'on peut appeler ça de la coopération. Tant que vous avez conscience que les mortels ne sont que des outils au service de nos ambitions, cette leçon ne sera pas perdue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Non, c'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"N'oubliez pas ce que vous avez appris. Cela ne vous sauvera peut-être pas la vie, mais cet élargissement de leurs perspectives ne peut pas faire de mal aux mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Je n'en doute pas une seconde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Après une pareille épreuve, je suis surprise que mon frère vous ait laissé suffisamment de jugeote pour former des pensées cohérentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Vous avez anéanti ces espoirs avec une efficacité extrême."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Les canons ne servent pas à entamer une conversation. Ils y mettent fin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"La marine rauatai préfère jouer en solitaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Vous n'aimez pas voir les mortels lutter pour affirmer leur supériorité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Très perspicace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Si vous pensiez m'impressionner ou m'amuser, vous avez lamentablement échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"La Compagnie royale du Feu éteint est implacable, mais elle respecte les lois maritimes. Son exemple aurait pu imposer l'ordre dans ces régions sans foi ni loi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Si Éothas n'avait pas infligé un tel désordre dans la région, nous aurions pu un jour connaître un Feu éteint paisible. Réfléchissez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"La dynastie des Kahangas n'était pas parfaite, loin de là, mais elle était essentielle à la survie des petites tribus. D'autres dépendaient de sa force et apportaient leur contribution en cas de besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Les chefs de tribu vont et viennent, mais, en ces temps incertains, je crains que les Kahangas aient subi un coup fatal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Nous parlons bien de la tribu qui a vendu ses terres à des étrangers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Si les Kahangas méritent de gouverner, ils survivront à ce revers de fortune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Je voulais seulement faire passer un message. Un message clair et sanglant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>[Hausser les épaules]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Votre critique n'est pas infondée. En attendant son heure, la reine a fermé les yeux sur la détresse de son peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Les Kahangas représentaient pour les mortels un moyen d'accomplir ensemble ce que je leur aurais infligé par la force. Je ne leur prévois rien de bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Je n'ai jamais imaginé que des marchands pourraient unir la société des mortels. L'argent est toujours destiné à corrompre autant qu'à bâtir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"La compagnie marchande se mêlait de forces qu'elle ne comprenait pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Je ne faisais pas confiance à Castol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"La politique, l'argent, les coups bas... ce ne sont que des obstacles pour des tâches plus importantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Les Vailiens n'ont jamais été prêts à réussir. Quand la société des mortels voit son sort suspendu aux retours sur investissements, c'est le signe que l'autorité a échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Je ne faisais pas confiance à Alvari."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"C'est un revers de fortune bienvenu. La soumission à l'autorité légitime est la seule conclusion naturelle quand la guerre et la mort sont dans la balance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"J'espère que les mortels se souviendront de cette leçon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Le flux d'essence s'est tari. L'écosystème local en a grandement souffert, mais peut-être cela découragera-t-il les ingérences étrangères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Maintenant que l'essence est restaurée, la région a une chance de guérir et de s'épanouir. Seul le temps nous dira si c'est ce dont a réellement besoin le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Mon instinct ne m'a pas trompée, et vous ne pouvez pas vous empêcher de mettre votre grain de sel. Bien. Je vais continuer à observer vos faits et gestes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Seul le temps nous dira s'il était judicieux ou stupide d'envoyer un titan affronter Éothas. Connaissant mon frère, la réponse risque de ne pas être évidente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Vous avez fait preuve d'une grande originalité en offrant le corps à ce vieux Concelhaut. Alors que je vous donne toute liberté pour façonner l'avenir, vous creusez une tombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Ce corps aurait dû être détruit depuis une éternité, ce qui nous aurait tous évité de devoir nettoyer la pagaille laissée par Wael. Un de ces jours, mon frère devra apprendre la valeur d'une maison bien rangée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Il ne sera pas facile de remplacer une femme du calibre de la hazanui Karū."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Il sera très difficile de trouver un tacticien capable des mêmes prouesses intellectuelles qu'Atsura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Après le coup que vous avez porté, la marine ne survivra pas à la calamité du Feu éteint. Il se peut que nous ne voyions jamais la civilisation s'établir durablement dans ce territoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Si elle ne survit pas à cette épreuve, cela ne fera que prouver sa faiblesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"La colonisation forcée et la répression culturelle ne feront jamais régner l'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Ses opérations étaient trop empreintes de fourberie pour que je lui accorde ma confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Je plaçais de grands espoirs en la marine rauatai. En causant la ruine d'une puissance mondiale, vous avez entravé nos chances de mater la société des mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Vous ignorez tout de l'ordre véritable. Quand une puissance régnante resserre son étreinte sur une région, il est de son devoir d'abolir ce qui l'a poussée à la conquête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Cet intrigant de directeur Castol conserve son poste à la barre de la compagnie, qu'il consacrera à l'exploitation et à l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Cette rusée d'Alvari se repose sur le pragmatisme et les chiffres. Sous son administration, je voue de grands espoirs pour la compagnie... ou du moins sa sécurité financière"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Je doute que l'argent puisse mener la société ailleurs qu'à la corruption, mais j'apprécie la volonté des marchands à contester l'absence d'autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"On ne dissimule pas facilement un dragon à la face du monde, et encore moins au regard des monarques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Je m'en souviendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Les étrangers ont mis les Huanas dans une situation impossible. Ils ont sapé les principes mêmes de leur survie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"N'y manquez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Les Huanas pensent que l'affaiblissement de leur antique pouvoir est une épreuve infligée par les dieux. Rien n'est plus faux. Chacune de leurs actions est une épreuve, et nous les observons attentivement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Pourtant, vous avez laissé la bête retourner chasser dans les cieux. Sa liberté valait-elle le prix d'une société ordonnée, équilibrée ? Réfléchissez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Vous avez fait preuve d'une grande loyauté envers vos hôtes kahangas en consolidant les entraves de la créature. Une société stable exige des décisions difficiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Et qu'est-ce que ça leur a rapporté, hormis un énième cadavre de dragon ? Quel gâchis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Je pensais vous réprimander pour avoir tué un chef à l'impitoyable efficacité, mais je ne peux m'empêcher de me réjouir devant un désir si légitime de vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Je ne m'étonne guère que les Príncipis subissent une crise d'autorité, et moins encore que vous ayez choisi de vous en mêler, Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Maintenant que nous sommes débarrassés d'Aeldys et de sa tentative de mutinerie avortée, il faut espérer que les capitaines rentreront dans le rang et se rappelleront la signification de l'obéissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Avec l'évincement de Furrante, les Príncipis perdent une voix d'expérience et d'autorité. Mais même Furrante n'était pas dénué de défauts tenaces. Seul le temps nous dira si son remplaçant parviendra à le faire oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Une menace irrésistible couve à l'horizon, et elle gagne en puissance tandis que les Príncipis se chamaillent comme des enfants à propos d'une épée perdue. Ils sont voués à disparaître."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Vous avez déjà beaucoup appris. Ne m'interrogez que si vous êtes prêt à entendre la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Mon livre vous plaît ? Selon mon expérience, rien ne vaut la perfection de la loi écrite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"J'espère que vous vous souviendrez de nos discussions, Gardien. J'ai horreur de me répéter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Ces communions vous ravissent-elles, très cher ? Qu'elles affermissent votre foi et votre fidélité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Gardien. J'espère que vous trouvez ce coin discret de l'Au-delà à votre goût."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Nous supposions que la société des mortels finirait par développer sa science de la navigation. Voilà pourquoi le Gardien, immortel et docile, demeure pour préserver intact le silence d'Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Quel est ce Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Le Gardien est l'incarnation de trois dragons dans un même corps ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Qui étaient ces dragons avant de devenir le Gardien d'Ukaizo ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Le Gardien est un vœu sacré. Une promesse tenue. Une veille assurée sans plainte ni interruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"C'était autrefois un dragon. Trois dragons, pour être exacte. Nous avons amélioré leur nature imparfaite, nous avons cousu ensemble plusieurs spécimens afin de concevoir un adversaire d'une dangereuse efficacité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"En effet. La conception de cette merveilleuse menace s'est avérée presque aussi difficile que l'apothéose elle-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Nous avons l'habitude de forger des animats, mais le Gardien nécessitait un réceptacle capable de résister aux pires conditions, aux climats les plus rudes, ainsi qu'au délabrement implacable du temps. Tout cela à une échelle sans précédent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Nous avons aussi installé des mesures de sécurité en termes de son comportement. Si l'isolation devait le rendre fou, le Gardien ne pourrait pas abandonner son poste ni mettre volontairement fin à ses propres jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Vous « réaffectiez » vos détracteurs de sorte à ce qu'ils se fondent en Skaen ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Sage décision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Ça a l'air &lt;i&gt;horrible.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Nous avons aussi installé des mesures de sécurité en termes de son comportement. Si l'isolation devait le rendre fou, le Gardien ne pourrait pas abandonner son poste ni mettre volontairement fin à ses propres jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Un seul membre du projet de l'apothéose s'est opposé au concept d'un Gardien éternel et esclave. Nous l'avons discrètement réaffectée à Skaen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"N'oubliez pas que c'est nous qui avons dompté et maîtrisé l'éternité. Les principes qui nous guidaient rendaient inenvisageable toute paralysie morale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Un châtiment approprié. Skaen représentait un réceptacle approprié pour les frondeurs qui s'entêtaient dans leur insubordination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Détracteurs, mutins, pseudo agitateurs... ils constituaient un substrat idéal pour former la base de ce qui allait devenir Skaen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Ces créatures avaient juré fidélité aux Huanas. Ce genre d'union n'était pas rare à l'époque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Tant que le grand empire huana protégeait les îles, les tribus et l'adra lumineux, les dragons ont soutenu les Huanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Ce n'était que l'un des nombreux pactes conclus par les Huanas avec des puissances qui les dépassaient. Quant aux autres, ce n'est pas à moi d'en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Le projet de l'apothéose nécessitait deux ressources aussi primordiales l'une que l'autre : de l'adra lumineux et une multitude d'âmes. Ukaizo possédait les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Qu'est-ce qui se trouve sur Ukaizo aujourd'hui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Les gens agissent comme si Ukaizo était la clé permettant de contrôler le Feu éteint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Donc votre accession à la divinité a enrayé le développement de la société."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Pour revenir à mes autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Il est inutile de pleurer les ossements d'Ukaizo la morte. Ce qui est fait est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Dans le Feu éteint, oui. C'était une décision calculée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"L'empire huana ne se conformait pas à notre idée d'une société parfaite, et la trajectoire qu'il avait adoptée ne nous convenait pas non plus. Il s'en est approché, mais certaines habitudes inopportunes faisaient partie intégrante de sa culture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Si les Huanas avaient voulu nous donner tort, ils étaient libres de renaître des cendres de leur passé et d'accepter l'avenir que nous leur réservions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Berath est stupide si elle pense que je vais lui laisser le dernier mot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Je ne pourrais jamais rester fâchée contre vous, très cher. Je m'attendais à une prise de pouvoir en douceur, mais apparemment j'ai encore un peu de travail à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"La ville est un monument dédié à une autre ère. Ses bâtiments vides et ses rues inondées sont une couronne sertie d'un unique joyau : le mécanisme de la réincarnation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Ukaizo est une ville, une pierre tombale, un souvenir et une machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Ukaizo est le nord géographique du Feu éteint. Même les Huanas, qui ont depuis longtemps oublié l'emplacement d'Ukaizo, se tournent inconsciemment vers elle pour prier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Le dernier empereur aimait se vanter qu'aucune armée n'avait jamais conquis Ukaizo par la force. Il se laissait facilement aveugler par l'orgueil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Hélas, cela n'a pas protégé Ukaizo contre les mystificateurs qu'elle abritait en son sein. Nous avons régalé et enchanté le vieux monarque, gagnant son appui suffisamment longtemps pour activer nos machines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Dès lors, et tout au long des millénaires qui ont suivi, Ukaizo nous a appartenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Je commence à me demander si ma confiance en vous est bien placée, Gardien. Ceci est une communion sacrée et votre comportement est totalement inacceptable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Au début, je doutais de l'impression que je m'étais faite de vous, Gardien, mais votre conduite m'a confortée dans mon opinion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Même si vous vous montrez à la hauteur des faibles attentes que je nourris vis-à-vis des mortels, sachez que je suis mécontente, et qu'il est dangereux de me contrarier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Vous êtes mal placé pour parler au nom des mortels. Malgré toute leur corruption et leurs imperfections, ils éclipsent votre abominable exemple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Si vous n'appréciez pas ma façon d'agir, ne vous mêlez pas de mes affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Merci ? Ou je vous en prie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Si j'ai placé la moindre confiance en vous, je suis seule à blâmer. Dorénavant, mieux vaudrait pour vous ne plus jamais ouvrir mon livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Rien de ce que vous avez accompli ne l'a ternie de manière irréparable. Vous pouvez au moins vous féliciter de cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Vous avez pris des décisions discutables. Quant à votre comportement, je ne le tolérerais pas chez un inquisiteur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Autrement dit, vous avez mérité la même nébuleuse de désapprobation que celle au sein de laquelle vivent et meurent la majorité des mortels. Ce faisant, vous avez démontré mon analyse. Ils ne sont pas prêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Tous autant que vous êtes, il n'y en a pas un pour racheter l'autre, et vous ne faites que justifier mon autorité à assujettir les mortels comme je le ferais d'une meute de chiens récalcitrants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Rien de ce que vous faites n'y changera quoi que ce soit, très cher, mais le souci que vous manifestez envers vos semblables atteste de votre miséricorde et de votre générosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Ne vous préoccupez pas du destin de vos inférieurs. Embrassez votre foi et votre dévotion, et un jour vous vous agenouillerez au pied de mon trône légitime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Et puis il y a ce déplorable incident à la poudrière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Que le Gardien ne vous empêche pas de dormir. Ils étaient des monstres avant que nous les asservissions, et désormais ils servent un plus noble dessein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Assouvissez ma curiosité, Gardien. Lorsque vous vous teniez devant la machine de l'Ombre ensoleillée, vous pouviez expédier les âmes dyrwoodanes n'importe où."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"La Roue, les bébés Sans-âme, l'annihilation, le Dyrwood. Je suis sûre que Wael avait également ourdi quelque plan grotesque pour eux. Pourtant, c'est à &lt;i&gt;moi&lt;/i&gt; que vous avez offert ce prix fabuleux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Vous avez achevé l'œuvre de Thaos. Mon favori. Lui que vous veniez d'occire. Je vous le demande maintenant, dans quel but ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Les dieux ont besoin d'une autorité centrale pour équilibrer leur pouvoir. Vous étiez le meilleur choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Je voulais gagner vos faveurs. Je le voulais &lt;i&gt;absolument&lt;/i&gt;. Plus que tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Vous avez toujours été la plus ardente protectrice des secrets divins. Je ne pouvais pas laisser la vérité s'ébruiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Vous tenez vos promesses. Les autres dieux ne font que décevoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"C'est votre influence qui préserve l'unité de la société."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"J'ai choisi d'être le partenaire des dieux. Et non le pion d'une déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Après tout ce que nous avons vécu ensemble, votre pensée me va droit au cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Vous méritez assurément mon affection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Voilà une attitude très responsable de votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Un de ces jours, il faudra que je trouve un moyen d'arracher le carcan que la Chevaleresse blême a passé autour de votre cou. Il n'est pas question que vous lui apparteniez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Je suis ravie que nous nous accordions sur ce point, très cher. Que nous puissions nous servir l'un l'autre sur un plan plus intime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Ne vous méprenez pas : je vous adore, je vous chéris. Le pouvoir dont je suis investie, je le dépenserai sans compter pour vous combler de délices dans cette vie et les nombreuses autres à venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Pour l'instant, soyez patient. L'emprise que Berath a sur vous me restreint, mais le jour viendra où votre reine remplie d'adoration pourra vous serrer dans ses bras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Vraiment ? Vous m'en direz tant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"Je ne nierai pas que notre panthéon est guidé par les émotions, obstiné et enclin à réagir de manière excessive. Mais nous ne sommes pas arrivés jusqu'ici en ergotant sur de menus détails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"... Tandis qu'avec les autres nous avons déjà pris notre décision sur le sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"De par sa nature, mon frère a soif d'autosuffisance, mais il n'est guère différent de nous autres. Il doit s'appuyer sur un flux confortable d'essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"La poudrière des Rauatais est détruite, et une fois encore cela prouve que j'avais raison. Les mortels sont incapables de s'accommoder entre eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Avec chaque mort, vous éloignez les mortels d'un dénouement pour lequel ils auraient la voie au chapitre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Magran et Ondra ont fait tout leur possible à la Gueule cendrée, mais je crains qu'une telle opportunité ne se présente plus jamais à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"C'est vrai, mais jusqu'à un certain point seulement. Nous avons construit la Roue pour renforcer l'essence mortelle, et chaque passage par le cycle enrichit la vie qui lui succède."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Rymrgand adopte une approche différente. Le Néant blanc est sa manière de célébrer la décrépitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Des prisonniers tels que Naxiva ont emmagasiné davantage de souvenirs qu'une vie entière est censée en contenir. Il n'est pas étonnant qu'elle ait perdu la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Pourquoi Galawain, Rymrgand et Wael conspireraient-ils pour vous la cacher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"La couronne a toujours été davantage qu'un insigne d'autorité. Le jour de sa création, j'ai offert au forgeron un fragment de mon essence afin de dompter le métal sauvage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Si je me montre parfois trop critique vis-à-vis de vos performances, c'est uniquement parce que je tiens mon favori en très haute estime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"Les rois et reines huanas auraient pu étendre encore plus loin leur pouvoir, mais nous avons mis un terme à leur hégémonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"Je suis convaincue que vous nous décevrez. Une fois ma position confortée, les indécis parmi les dieux approuveront mon plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Désormais, elle a soif de loi, de justice et exige une légitime vengeance. Vous l'avez peut-être entendue murmurer à votre oreille, se faisant passer pour une brise océanique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Mes frères et sœurs les plus compatissants et optimistes sont sans doute enchantés, croyant qu'ils ont pris le dessus sur moi. Ils ne peuvent pas se tromper davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Quels que soient mes sentiments, le moment auquel arrive cette crise nous force à passer à la vitesse supérieure. Le jugement final sera rendu plus tôt que nous l'aurions tous voulu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Je le qualifie d'impulsif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"Ondra a précipité une lune sur Eora. Comment qualifier un tel acte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Et ce qu'a fait Thaos, c'était subtil d'après vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Son approche était sophistiquée, indirecte. Je ne vous dois aucune explication à ce sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Éothas n'est pas réputé pour sa subtilité. Cela fait deux fois qu'il corrompt la pureté de notre expérience, et ce de manière si extravagante qu'il entame notre autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Pas si j'ai mon mot à dire. Je vous assure que mes objections seront entendues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Vous joindre à un troupeau de pirates indisciplinés était-il censé me faire changer d'avis ? Non, ne répondez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Rien ni personne ne saurait me convaincre que les mortels sont équipés pour diriger leurs vies. Vos efforts pour me donner tort furent admirables, et mes détracteurs se serviront sans doute de votre exemple pour s'opposer à mon règne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"La couronne est mon Vytmádh : un portail par lequel l'ordre se répand sur Eora. Son existence même est une insulte à la vie sauvage, à l'indifférence et au chaos. Mes frères et sœurs ont raison de s'en méfier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Leur duperie visant à dissimuler la couronne est impardonnable, et les conséquences seront spectaculaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Vous ouvrez le livre de Woedica, mais la déesse n'apparaît pas. Vous êtes seul dans un néant de cendres et de braises flottantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Nous sommes jugés ? À quelle fin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"Dans ce cas, pourquoi ai-je la sensation que vous essayez de me convaincre &lt;i&gt;moi&lt;/i&gt; de quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Vous voulez que les dieux comme les mortels se soumettent à votre volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Si nous pouvions en venir au sujet qui nous préoccupe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"Je ne mérite rien de moins que votre soumission. Chaque fois que des mortels sèment le chaos, comme vous en avez coutume, vous ne faites qu'encourager mon retour à la souveraineté suprême."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"Vous êtes intelligent, mon enfant. Il est important que je gagne votre confiance pour des raisons qui m'appartiennent. Pour l'instant, tout du moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"L'opposition peut prendre bien des formes. Si une église épouse ma doctrine et la militarise, ce n'est pas du tout la même chose que si je sème la destruction sous la forme d'un titan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"Il est hors de question qu'on me laisse à l'écart. La société se déliterait sans sa reine pour lui imposer un ordre strict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"Je suis le contrepoint des cœurs tendres. Que les mortels réussissent ou non un test arbitraire ne fait aucune différence. Mon opinion à ce sujet est déjà arrêtée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Parce que c'est ce que je suis en train de faire, évidemment. Vous avez les sens aiguisés, très cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Puis il y a ceux qui font preuve de prudence parmi nous, qui ne se laissent pas si facilement convaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Au début du plan, certains croyaient que les mortels finiraient par se désintéresser de nous... comme s'il s'agissait d'une issue favorable ! En ce qui me concerne, notre panthéon éternel a toujours constitué un élément incontournable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Éothas faisait partie des partisans des mortels, tandis que j'en ai toujours été l'une des critiques les plus énergiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Qu'en est-il de vous, Gardien ? Vous avez défini votre cap, et Ukaizo se dessine à l'horizon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"Après tout ce dont avez été témoin, croyez-vous que les mortels soient équipés pour prendre le contrôle de leur destinée, ou ont-ils besoin d'une main plus ferme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"C'est une main ferme qui a écrasé mon château. Je m'en serais volontiers passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"C'est grâce à Berath que je suis ici, donc je suppose que les dieux sont dans le vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"La société n'est pas parfaite. Elle n'est pas censée l'être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Les mortels ont une chance, si seulement vous acceptiez de leur accorder un peu de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Les mortels se détruiront si les dieux ne font pas preuve d'une réelle autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Eora n'a aucun avenir sans votre justice et votre ordre, ma reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Votre cœur est rempli du désir de vengeance. Malgré votre esprit rebelle, vous me servez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"Trouvez Éothas. Suivez-le jusqu'à Ukaizo, et laissez ma justice tendre vos voiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Du temps ? Gardien, je suis une déesse et une reine depuis de nombreuses années. Rien ne m'a jamais incitée à concéder mon autorité ou à abandonner mes croyances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"Trouvez Éothas. Suivez-le jusqu'à Ukaizo la perdue. S'il n'est pas sourd à la raison, alors votre optimisme naïf n'aura pas été vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"En effet, très cher. Vous avez beaucoup appris à mes côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"En effet. La mainmise de la Chevaleresse blême sur vous est admirable. Même elle comprend qu'il vaut mieux pour les mortels qu'ils se cantonnent au rôle de pions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Je préférerais concevoir mon propre titan plutôt que de laisser cela se produire. Vous pouvez me croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Ce genre d'idéalisme risque de vous causer des problèmes. Il faut que quelqu'un impose la perfection. Quelqu'un doit l'exiger. Sans les dieux, la justice et la loi sont impuissantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Donc vous m'avez traîné dans un enfer brûlant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Rien de ce que vous faites n'y changera quoi que ce soit, très cher, mais le souci que vous manifestez envers vos semblables atteste de votre miséricorde et de votre générosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"Ce n'est qu'un petit coin de l'Au-delà. Un coin que j'utilise pour m'isoler et méditer, quand j'ai besoin de m'éloigner des bavardages sans fins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Thaos comptait pour moi plus que tout autre, mais je suis fière que vous preniez sa succession."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"En outre, vous n'êtes pas digne de prononcer son nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"Thaos comptait pour moi plus que tout autre, mais je suis fière que vous preniez sa succession."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Le prouver ou le réfuter, oui. Je n'ai jamais accepté cet arrangement, mais si votre exemple démontre l'incompétence des mortels, comme je le crois, alors je me débrouillerai pour que ce plan serve mes intérêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Le fait d'endosser ces rôles nous donnait toute autorité pour modeler Eora, vous influencer et poser les bases de la société à venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Vous n'avez aucun pouvoir sur moi. Je ne vous dois rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"Je ne fais que mon devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Désolé, Woedica. Je vais tâcher de mieux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"Mais cela justifie-t-il cette violente perversion de l'ordre ? Je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Je ne pleurerai pas leur inévitable déclin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>Vous ouvrez le livre de Woedica, mais la déesse n'apparaît pas. Vous êtes seul dans un néant de cendres et de braises flottantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"Peut-être même une société qui n'aurait aucun besoin de nous. Une illusion naïve, mais elle inspirait mes semblables optimistes et fourvoyés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"C'est comme cela que vous voyez les choses ? Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Prenez garde à ce que vous dites et faites. Je n'ai pas pour habitude d'offrir une seconde chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>[Refermer violemment le livre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Vous n'êtes qu'un enfant insupportable !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Que se passera-t-il si quelqu'un prouve que vous avez tort ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"Si notre panthéon découvrait que les mortels avaient cultivé jusqu'à maturité un système légitime parfait, je n'élèverais aucune protestation. Je me contenterais de laisser faire et d'attendre son inévitable chute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Les mortels ont besoin de nous. J'en suis aussi sûre que de ma propre existence. Même une société légitime et responsable est vouée à s'écrouler tant que ses architectes et ses plus puissants partisans sont mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Toute satisfaction que mes frères et sœurs pourraient tirer de leur petite expérience serait de courte durée, et il me reviendrait de nettoyer leur pagaille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Vous avez donc raison même quand vous avez tort. Compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Leur optimisme aveugle les perdra, ma reine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Je suppose que tout plan a besoin d'être critiqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"Ne vous méprenez pas, Gardien... dans ce cas, rien ni personne ne me donnera tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"Toute satisfaction que mes frères et sœurs pourraient tirer de leur petite expérience serait de courte durée, et il me reviendrait de nettoyer leur pagaille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Maintenant vous comprenez, très cher. Il est tout simplement impossible de me donner tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Dans le cas présent, la « pagaille », c'est la liberté des mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"En effet. Un soupçon d'opposition est bénéfique. Sans friction, on ne peut générer aucune chaleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"La liberté est une vaine illusion proclamée par les cœurs tendres. Seuls ceux qui savent trouver satisfaction dans la captivité sont réellement libres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Si mon frère souhaite abattre le colosse d'adra, il est libre d'essayer. Connaissant Wael, je suis sûre qu'il amènera la destruction dans son sillage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Et si nous faisons nos preuves ? Qu'arrivera-t-il alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>[Ne rien dire]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"Je me le demande, en effet. Tout dépend auquel d'entre nous vous posez la question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"La fin que vous méritez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Heureusement, rien de cela n'aura plus d'importance une fois qu'Éothas aura détruit la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Quelle sombre perspective. Pensez-vous que nous abandonnerions Eora ? Non. C'est même tout le contraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Si vous désirez obtenir des réponses, vous avez frappé à la bonne porte. J'en ai plusieurs à vous fournir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

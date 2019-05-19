@@ -868,7 +868,7 @@ Le vaisseau ennemi rapetisse derrière vous jusqu'à finir par disparaître à l
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Surrender"&gt;&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Capituler]</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Surrender"&gt;&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;&lt;/link&gt; [Capituler]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@ Des acclamations retentissent parmi l'équipage du [ShipDuel_Opponent]. [ShipDue
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>L'équipage marmonne nerveusement tandis que vous donnez l'ordre de charger. Le [ShipDuel_PlayerShip] sera exposé aux tirs de traverse :
+      <DefaultText>L'équipage marmonne nerveusement tandis que vous donnez l'ordre de charger. Le [ShipDuel_PlayerShip] va être exposé à un tir de traverse :
 
 [ShipDuel_CloseToBoardCost]</DefaultText>
       <FemaleText />

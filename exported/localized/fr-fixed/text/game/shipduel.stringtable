@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Coulez en {0:Value:Straight} tours</DefaultText>
+      <DefaultText>Naufrage dans {0:Value:Straight} round(s)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>{0:OverboardCrewMember} mourra dans {0:Value:Straight} tours ou si le navire se déplace</DefaultText>
+      <DefaultText>{0:OverboardCrewMember} mourra dans {0:Value:Straight} round(s) ou si le navire se déplace</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

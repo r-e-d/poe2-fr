@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\challenges\challenge_qst_ultimate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Ultime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vaincre l'archimage immortel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vaincre le Destructeur dans les Tumulus engloutis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tuer le secret des modeleurs d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tuer la Terreur de la Gueule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Détruire le Gardien au-delà du Mortier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tuer le Fouisseur sous Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tuer l'impératrice de cristal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Détruire la Montagne vorace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Tuer la maîtresse des sceaux arcane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Détruire le colosse cuirassé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Tuer l'Abomination de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Tuer le dragon ressuscité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vaincre la Bête hivernale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Tuer l'Entasseur de souvenirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vaincre l'Oracle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Chercher les adversaires les plus dangereux de l'archipel du Feu éteint et les vaincre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Cet archimage trompe la mort depuis trop longtemps. Assurez-vous qu'il ne la trompe plus.
+
+Ou du moins prenez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Enfoui dans les profondeurs des Tumulus engloutis, un gigantesque démon se gave d'énergie arcane. Trouvez-le et mettez fin à son règne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Dans les murs oubliés de Neketaka, un secret conservé par d'antiques modeleurs d'eau se tord en tous sens. Tuez-le.
+
+Cet adversaire tentera de négocier sa liberté. Prenez garde de ne pas vous laisser séduire par ses paroles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Dans l'antre des Rathuns, une bête ailée a fait son nid.
+
+Votre chance d'affronter cette créature peut être coupée court. Ne ratez pas cette opportunité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Un Gardien immémorial sommeille sous le Mortier. Relevez-le de son poste.
+
+Attention : vous risquez d'être incité à refuser cette tâche. Ne laissez pas d'autres que vous affronter cet adversaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Une créature gloutonne se repaît de tout ce qui tombe sous la Raveline de Neketaka. Mettez fin à ses jours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>L'impératrice de cristal et sa horde se cachent dans les eaux septentrionales du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Dévorant des générations de Huanas, la Montagne vorace poursuit son œuvre sans entraves. Ne la laissez pas grossir davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Abandonnée à l'étude de sa magie arcane, cette maîtresse des sceaux a perdu l'esprit. Mettez un terme à sa folie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ce mécanisme de métal, rouillant dans un recoin oublié, attend de tomber entre de mauvaises mains. Veillez à ce que cela n'arrive pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Quelque chose se trame sur l'île de Kazuwari. Allez-y et mettez-y un terme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Dans les eaux méridionales, une île glaciaire héberge un dragon ramené à la vie.
+
+Il se peut que de nombreuses occasions d'éviter une confrontation directe avec cette créature se présentent à vous. Ignorez-les.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Une horrible bête erre dans le Néant blanc. Mettez un terme à son existence vide de sens.
+
+Il se peut que vous soyez tenté de vous sortir d'affaire par la négociation. Faites en sorte que cela n'arrive pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Un assemblage d'âmes torturées erre dans des tunnels oubliés. Partez à sa recherche et offrez-lui le repos éternel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10031</ID>
+      <DefaultText>Quelque chose d'effroyable s'éveille dans les Îles noires, menaçant d'engendrer un péril plus terrible encore qu'Éothas. Cherchez-le et triomphez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Échec de la quête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Vous avez réussi l'Ultime.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

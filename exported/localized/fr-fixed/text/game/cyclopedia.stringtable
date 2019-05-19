@@ -585,7 +585,7 @@ Par défaut, seules quelques attaques sont en mesure d'infliger des éraflures, 
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Tout jet d'attaque inférieur à 25 résulte en un échec. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
+      <DefaultText>Tout jet d'attaque inférieur à [Graze Min Roll] résulte en un échec. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2396,12 +2396,12 @@ De nombreuses histoires décrivent des chiens si loyaux qu'ils restent aux côt�
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Alors que de nombreux incantateurs préfèrent officier en sécurité dans les lignes arrières, les scaldes ont besoin de combattre au corps à corps pour pouvoir alimenter leurs invocations. On retrouve des scaldes dans de nombreuses cultures qui prisent une fière tradition martiale et célèbrent les hauts faits de leurs voisins, semblables et ancêtres.</DefaultText>
+      <DefaultText>Alors que de nombreux chanteurs préfèrent officier en sécurité dans les lignes arrières, les scaldes ont besoin de combattre au corps à corps pour pouvoir alimenter leurs invocations. On retrouve des scaldes dans de nombreuses cultures qui prisent une fière tradition martiale et célèbrent les hauts faits de leurs voisins, semblables et ancêtres.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Les troubadours sont les maîtres de la chanson, capables d'ajuster leur vitesse de chant et la durée de leurs phrases pour s'adapter à leurs besoins lors des combats. Plus passifs que la majorité des incantateurs, les troubadours apprécient de soutenir les camarades à leurs côtés. Les troubadours sont originaires de Vailia l'Ancienne, mais peuplent communément les Républiques de Vailia et bien d'autres territoires.</DefaultText>
+      <DefaultText>Les troubadours sont les maîtres de la chanson, capables d'ajuster leur vitesse de chant et la durée de leurs phrases pour s'adapter à leurs besoins lors des combats. Plus passifs que la majorité des chanteurs, les troubadours apprécient de soutenir les camarades à leurs côtés. Les troubadours sont originaires de Vailia l'Ancienne, mais peuplent communément les Républiques de Vailia et bien d'autres territoires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3670,12 +3670,12 @@ Les Inspirations sont regroupées par attribut (par. ex. : Dextérité, Percept
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Le navire se déplace à sa vitesse de combat maximale en une seule action, tout en recevant un bonus de défense contre les tirs des canons ennemis. Un navire ne peut se déplacer à sa vitesse maximale qu'une fois par tour.</DefaultText>
+      <DefaultText>Le navire se déplace à sa vitesse de combat maximale en une seule action, tout en recevant un bonus de défense contre les tirs des canons ennemis. Un navire ne peut se déplacer à sa vitesse maximale qu'une fois par round.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Le navire se déplace à la moitié de sa vitesse de combat maximale en une seule action, tout en recevant un bonus de défense minime contre les tirs des canons ennemis. Un navire ne peut se déplacer à sa vitesse maximale qu'une fois par tour.</DefaultText>
+      <DefaultText>Le navire se déplace à la moitié de sa vitesse de combat maximale en une seule action, tout en recevant un bonus de défense minime contre les tirs des canons ennemis. Un navire ne peut se déplacer à sa vitesse maximale qu'une fois par round.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3994,7 +3994,7 @@ Il peut arriver que les ours du Feu éteint soient attaqués par des tigres. Les
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>L'utilisation des invocations de chanteur nécessite et consomme des Phrases. Les Phrases ne sont générées qu'au cours du combat, lorsque le chanteur amalgame de minuscules fragments d'esprit au travers de sa psalmodie.</DefaultText>
+      <DefaultText>L'utilisation des invocations de chanteur nécessite et consomme des Phrases. Les Phrases ne sont générées qu'au cours du combat, lorsque le chanteur amalgame de minuscules fragments d'esprit au travers de son chant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4703,7 +4703,7 @@ Le lagufaeth rouge-crête est un individu dominant et mature. Il peut être mâl
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Avant chaque tour de combat naval, un navire remporte aléatoirement l'avantage. Le rang de chaque capitaine ainsi que la vitesse du navire influent sur l'issue du tirage au sort. Le navire ayant l'avantage agit en premier pour ce tour et bénéficie d'une portée augmentée pour ses canons, ainsi que d'un bonus de distance de déplacement.</DefaultText>
+      <DefaultText>Avant chaque round de combat naval, un navire remporte aléatoirement l'avantage. Le rang de chaque capitaine ainsi que la vitesse du navire influent sur l'issue du tirage au sort. Le navire ayant l'avantage agit en premier pour ce round et bénéficie d'une portée augmentée pour ses canons, ainsi que d'un bonus de distance de déplacement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
